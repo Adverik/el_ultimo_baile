@@ -69,6 +69,10 @@
   .carnet .rol{font-family:var(--display);font-size:.95rem;color:#5b4a2a}
   .carnet .apuntados{border-bottom:1px dotted #8c7440;min-height:1.6em;font-size:.98rem}
   .carnet .apuntados em{color:#9a8a68}
+  .carnet .noches li{display:grid;grid-template-columns:1fr auto;grid-template-areas:"dia hora" "plan plan";gap:2px 12px;padding:14px 0;border-bottom:1px dotted #8c7440}
+  .carnet .noches .dia{grid-area:dia;font-family:var(--display);font-size:1.35rem;color:#2a2214}
+  .carnet .noches .hora{grid-area:hora;font-variant-numeric:tabular-nums;color:#5b4a2a;align-self:center}
+  .carnet .noches .plan{grid-area:plan;font-style:italic;color:#7a2a24}
   .carnet .pie{margin-top:16px;font-size:.88rem;color:#5b4a2a;text-align:center}
   .carnet code{background:#e2d6b4;padding:1px 6px;border-radius:3px}
 
@@ -197,14 +201,11 @@
       </div>
 
       <article class="carnet" aria-labelledby="proximo">
-        <h2 id="proximo">Próximo baile</h2>
-        <p class="cuando">Miércoles y jueves, de 22:00 a 00:00 (hora peninsular)</p>
-        <p class="raid">Las Minas de la Muerte</p>
-        <ol>
-          <li><span class="rol">Tanque</span><span class="apuntados">Krasher</span></li>
-          <li><span class="rol">Sanador</span><span class="apuntados">Nima</span></li>
-          <li><span class="rol">Daño</span><span class="apuntados">Hyo, Pulga</span></li>
-          <li><span class="rol">Daño</span><span class="apuntados"><em>hueco libre</em></span></li>
+        <h2 id="proximo">Noches de baile</h2>
+        <p class="cuando">Hora peninsular</p>
+        <ol class="noches">
+          <li><span class="dia">Miércoles</span><span class="hora">22:00 a 00:00</span><span class="plan">Raid por anunciar</span></li>
+          <li><span class="dia">Jueves</span><span class="hora">22:00 a 00:00</span><span class="plan">Raid por anunciar</span></li>
         </ol>
         <p class="pie">Apúntate en Discord con <code>/apuntarme</code></p>
       </article>
