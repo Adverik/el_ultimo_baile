@@ -454,7 +454,7 @@
           const titulo = el("div", "fecha-grande", fmt(p.fecha));
           const det = el("div", "detalle", [p.titulo, p.instancia].filter(Boolean).join(", "));
           if (p.dificultad) det.append(el("span", "etiqueta-dif", p.dificultad));
-          const ap = Number.isInteger(p.apuntados) ? el("div", "detalle", p.apuntados + " apuntados") : "";
+          const ap = p.apuntados > 0 ? el("div", "detalle", p.apuntados + " apuntados") : "";
           proxima.replaceChildren(titulo, det, ap);
         } else vacio(proxima, "No hay ninguna raid planificada.");
 
@@ -465,7 +465,7 @@
             const li = el("li");
             const que = el("span", "que", r.titulo || r.instancia || "Raid");
             if (r.dificultad) que.append(el("span", "etiqueta-dif", r.dificultad));
-            const extra = [r.titulo ? r.instancia : "", Number.isInteger(r.apuntados) ? r.apuntados + " apuntados" : ""].filter(Boolean).join(", ");
+            const extra = [r.titulo ? r.instancia : "", r.apuntados > 0 ? r.apuntados + " apuntados" : ""].filter(Boolean).join(", ");
             li.append(el("span", "cuando", fmt(r.fecha)), que, el("span", "detalle", extra));
             return li;
           }));
