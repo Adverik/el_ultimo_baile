@@ -1,57 +1,57 @@
-﻿[
-    {
-        "name":  "Hiyøri",
-        "class":  "Warrior",
-        "role":  "Tank"
-    },
-    {
-        "name":  "Vaporeta",
-        "class":  "Mage",
-        "role":  "Ranged"
-    },
-    {
-        "name":  "Winterfall",
-        "class":  "Shaman",
-        "role":  "Ranged"
-    },
-    {
-        "name":  "Krasher",
-        "class":  "Paladin",
-        "role":  "Tank"
-    },
-    {
-        "name":  "Tanaky",
-        "class":  "Priest",
-        "role":  "Heal"
-    },
-    {
-        "name":  "Layrela",
-        "class":  "Druid",
-        "role":  "Ranged"
-    },
-    {
-        "name":  "Uohö",
-        "class":  "Hunter",
-        "role":  "Ranged"
-    },
-    {
-        "name":  "Franchïta",
-        "class":  "Druid",
-        "role":  "Ranged"
-    },
-    {
-        "name":  "Seinara",
-        "class":  "Monk",
-        "role":  "Tank"
-    },
-    {
-        "name":  "Palmira",
-        "class":  "Rogue",
-        "role":  "Melee"
-    },
-    {
-        "name":  "Manelhon",
-        "class":  "Mage",
-        "role":  "Ranged"
-    }
+[
+  {
+    "name": "Franchïta",
+    "class": "Druid",
+    "role": "Ranged"
+  },
+  {
+    "name": "Hiyøri",
+    "class": "Warrior",
+    "role": "Tank"
+  },
+  {
+    "name": "Krasher",
+    "class": "Paladin",
+    "role": "Tank"
+  },
+  {
+    "name": "Layrela",
+    "class": "Druid",
+    "role": "Ranged"
+  },
+  {
+    "name": "Manelhon",
+    "class": "Mage",
+    "role": "Ranged"
+  },
+  {
+    "name": "Palmira",
+    "class": "Rogue",
+    "role": "Melee"
+  },
+  {
+    "name": "Seinara",
+    "class": "Monk",
+    "role": "Tank"
+  },
+  {
+    "name": "Tanaky",
+    "class": "Priest",
+    "role": "Heal"
+  },
+  {
+    "name": "Uohö",
+    "class": "Hunter",
+    "role": "Ranged"
+  },
+  {
+    "name": "Vaporeta",
+    "class": "Mage",
+    "role": "Ranged"
+  },
+  {
+    "name": "Winterfall",
+    "class": "Shaman",
+    "role": "Ranged"
+  }
 ]
