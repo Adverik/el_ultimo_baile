@@ -1,0 +1,21 @@
+name: Diagnóstico de la API (solo estructura)
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  diagnostico:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - name: Ver la forma de las respuestas (sin valores)
+        env:
+          WOWAUDIT_API_KEY: ${{ secrets.WOWAUDIT_API_KEY }}
+          WOWAUDIT_BASE_URL: ${{ vars.WOWAUDIT_BASE_URL }}
+        run: python3 scripts/diagnostico_api.py | tee -a "$GITHUB_STEP_SUMMARY"
