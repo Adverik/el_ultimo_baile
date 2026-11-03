@@ -1,28 +1,398 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- Quitar el día del lanzamiento público (5 nov 2026) -->
+<meta name="robots" content="noindex, nofollow">
+<title>El Último Baile, hermandad de WoW Forever</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Alegreya+SC:wght@500;700;800&family=Alegreya+Sans:ital,wght@0,400;0,500;0,700;1,400&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --noche:#0F1B33;      /* fondo: azul noche de Ventormenta */
+    --noche-2:#16264A;    /* superficies */
+    --noche-3:#1E3260;    /* superficies elevadas */
+    --oro:#D4AF5A;        /* oro de la Alianza */
+    --oro-tenue:#8C7440;
+    --pergamino:#EDE4CC;  /* texto */
+    --acero:#93A0BC;      /* texto secundario */
+    --sangre:#B4423A;     /* jefes caídos */
+    --radio:6px;
+    --display:"Alegreya SC", Georgia, serif;
+    --texto:"Alegreya Sans", system-ui, sans-serif;
+  }
+  *{box-sizing:border-box}
+  html{scroll-behavior:smooth}
+  body{margin:0;background:var(--noche);color:var(--pergamino);font:400 1.0625rem/1.6 var(--texto);
+    background-image:radial-gradient(1200px 600px at 80% -10%, #22396b 0%, transparent 60%);}
+  a{color:var(--oro)}
+  a:focus-visible,button:focus-visible{outline:2px solid var(--oro);outline-offset:3px;border-radius:2px}
+  .envoltura{max-width:1120px;margin:0 auto;padding:0 24px}
+  h1,h2,h3{font-family:var(--display);font-weight:700;letter-spacing:.01em;line-height:1.15;margin:0}
+  h2{font-size:2rem;color:var(--pergamino)}
+  .seccion{padding:72px 0;border-top:1px solid rgba(212,175,90,.18)}
+  .seccion > .envoltura > header{display:flex;align-items:baseline;justify-content:space-between;gap:16px;margin-bottom:28px;flex-wrap:wrap}
+  .seccion header p{margin:0;color:var(--acero)}
+  .ejemplo{display:inline-block;font-size:.8rem;color:var(--acero);border:1px dashed var(--oro-tenue);border-radius:99px;padding:1px 10px}
+
+  /* Navegación */
+  .nav{position:sticky;top:0;z-index:10;background:rgba(15,27,51,.92);backdrop-filter:blur(6px);border-bottom:1px solid rgba(212,175,90,.18)}
+  .nav .envoltura{display:flex;align-items:center;gap:24px;height:60px}
+  .marca{display:flex;align-items:center;gap:10px;text-decoration:none;color:var(--pergamino);font-family:var(--display);font-size:1.15rem;white-space:nowrap}
+  .nav ul{list-style:none;display:flex;gap:20px;margin:0 0 0 auto;padding:0;overflow-x:auto}
+  .nav ul a{color:var(--acero);text-decoration:none;font-weight:500;white-space:nowrap}
+  .nav ul a:hover{color:var(--pergamino)}
+  .boton{display:inline-flex;align-items:center;gap:8px;background:var(--oro);color:#1b1407;font-weight:700;text-decoration:none;padding:10px 18px;border-radius:var(--radio);border:0}
+  .boton:hover{background:#e2c172}
+  .boton.secundario{background:transparent;color:var(--pergamino);border:1px solid var(--oro-tenue)}
+  .boton.secundario:hover{border-color:var(--oro)}
+
+  /* Hero: el carnet de baile */
+  .hero{padding:72px 0 80px}
+  .hero .envoltura{display:grid;grid-template-columns:1.15fr .85fr;gap:56px;align-items:center}
+  .hero h1{font-size:clamp(3rem,8vw,6.2rem);font-weight:800;line-height:.95;color:var(--pergamino)}
+  .hero .filete{height:2px;background:linear-gradient(90deg,var(--oro),transparent);margin:26px 0 22px;transform-origin:left;animation:trazo 1.2s .2s ease-out both}
+  @keyframes trazo{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+  .hero .lema{font-size:1.25rem;color:var(--acero);max-width:34ch;margin:0 0 28px}
+  .hero .acciones{display:flex;gap:12px;flex-wrap:wrap}
+  .faccion{display:flex;align-items:center;gap:10px;color:var(--acero);margin-bottom:20px;font-weight:500}
+
+  .carnet{background:var(--pergamino);color:#2a2214;border-radius:4px;padding:28px 28px 22px;position:relative;
+    box-shadow:0 0 0 1px #c9b98f inset, 0 0 0 6px var(--pergamino), 0 0 0 7px #b49b60, 0 30px 60px -20px rgba(0,0,0,.6);transform:rotate(1.2deg)}
+  .carnet h2{color:#2a2214;font-size:1.5rem;text-align:center}
+  .carnet .cuando{text-align:center;margin:4px 0 18px;font-style:italic;color:#5b4a2a}
+  .carnet .raid{text-align:center;font-family:var(--display);font-size:1.1rem;margin-bottom:16px;color:#7a2a24}
+  .carnet ol{list-style:none;margin:0;padding:0}
+  .carnet li{display:grid;grid-template-columns:5.5rem 1fr;gap:10px;align-items:end;padding:7px 0}
+  .carnet .rol{font-family:var(--display);font-size:.95rem;color:#5b4a2a}
+  .carnet .apuntados{border-bottom:1px dotted #8c7440;min-height:1.6em;font-size:.98rem}
+  .carnet .apuntados em{color:#9a8a68}
+  .carnet .noches li{display:grid;grid-template-columns:1fr auto;grid-template-areas:"dia hora" "plan plan";gap:2px 12px;padding:14px 0;border-bottom:1px dotted #8c7440}
+  .carnet .noches .dia{grid-area:dia;font-family:var(--display);font-size:1.35rem;color:#2a2214}
+  .carnet .noches .hora{grid-area:hora;font-variant-numeric:tabular-nums;color:#5b4a2a;align-self:center}
+  .carnet .noches .plan{grid-area:plan;font-style:italic;color:#7a2a24}
+  .carnet .pie{margin-top:16px;font-size:.88rem;color:#5b4a2a;text-align:center}
+  .carnet code{background:#e2d6b4;padding:1px 6px;border-radius:3px}
+
+  /* Destacados */
+  .destacados{display:grid;grid-template-columns:1.5fr 1fr 1.5fr;gap:18px}
+  .buscamos{display:grid;grid-template-columns:auto 1fr;gap:8px 16px;margin:4px 0 6px;align-items:baseline}
+  .buscamos dt{font-family:var(--display);color:var(--pergamino);font-size:1rem}
+  .buscamos dd{margin:0;display:flex;flex-wrap:wrap;gap:6px}
+  .buscamos dd span{font-size:.9rem;font-weight:700;color:var(--clase);border:1px solid color-mix(in srgb,var(--clase) 45%,transparent);border-radius:99px;padding:1px 10px}
+  .destacado{background:var(--noche-2);border-radius:var(--radio);padding:24px;display:flex;flex-direction:column;gap:10px;min-height:220px;text-decoration:none;color:inherit;border:1px solid transparent}
+  .destacado:hover{border-color:var(--oro-tenue)}
+  .destacado.grande{background:linear-gradient(160deg,var(--noche-3),var(--noche-2));}
+  .destacado h3{font-size:1.4rem}
+  .destacado.grande h3{font-size:2rem}
+  .destacado p{margin:0;color:var(--acero)}
+  .destacado .tipo{color:var(--oro);font-weight:700;font-size:.92rem}
+  .destacado .fecha{margin-top:auto;color:var(--acero);font-size:.9rem}
+
+  /* Crónicas */
+  .cronicas{list-style:none;margin:0;padding:0}
+  .cronicas li{display:grid;grid-template-columns:7.5rem 7rem 1fr;gap:18px;padding:14px 0;border-bottom:1px solid rgba(147,160,188,.15);align-items:baseline}
+  .cronicas time{color:var(--acero);font-variant-numeric:tabular-nums}
+  .etiqueta{font-size:.85rem;font-weight:700;color:var(--oro)}
+  .etiqueta.caida{color:#e07a70}
+  .cronicas a{color:var(--pergamino);text-decoration:none;font-weight:500}
+  .cronicas a:hover{text-decoration:underline;text-decoration-color:var(--oro)}
+
+  /* Salón de la fama */
+  .fama{display:grid;grid-template-columns:repeat(3,1fr);gap:18px}
+  .kill{background:var(--noche-2);border-radius:var(--radio);overflow:hidden}
+  .kill .captura{aspect-ratio:16/9;background:
+      repeating-linear-gradient(135deg,rgba(212,175,90,.06) 0 12px,transparent 12px 24px),var(--noche-3);
+    display:grid;place-items:center;color:var(--acero);font-size:.9rem}
+  .kill .cuerpo{padding:18px 20px 20px}
+  .kill h3{font-size:1.25rem}
+  .kill .jefe{color:var(--sangre);font-weight:700;font-size:.92rem;margin-bottom:4px}
+  .kill dl{display:grid;grid-template-columns:auto 1fr;gap:4px 14px;margin:12px 0 0;font-size:.95rem}
+  .kill dt{color:var(--acero)}
+  .kill dd{margin:0}
+  .kill .enlaces{margin-top:14px;display:flex;gap:16px;font-size:.95rem}
+
+  /* Hermandad */
+  .roster{display:grid;grid-template-columns:repeat(5,1fr);gap:14px}
+  .pj{background:var(--noche-2);border-radius:var(--radio);padding:14px 16px;border-left:4px solid var(--clase)}
+  .pj .nombre{font-weight:700;color:var(--clase)}
+  .pj .detalle{color:var(--acero);font-size:.92rem}
+  .roles{display:flex;gap:28px;margin-bottom:20px;color:var(--acero);flex-wrap:wrap}
+  .roles strong{color:var(--pergamino);font-family:var(--display);font-size:1.3rem;margin-right:6px}
+
+  /* Guías */
+  .guias{display:grid;grid-template-columns:repeat(3,1fr);gap:18px}
+  .guia{background:var(--noche-2);border-radius:var(--radio);padding:22px;text-decoration:none;color:inherit;border:1px solid transparent}
+  .guia:hover{border-color:var(--oro-tenue)}
+  .guia h3{font-size:1.2rem;margin-bottom:6px}
+  .guia p{margin:0;color:var(--acero)}
+  .guia .autor{margin-top:14px;font-size:.9rem;color:var(--acero)}
+
+  /* Herramientas */
+  .herramientas{display:grid;grid-template-columns:repeat(4,1fr);gap:14px}
+  .herramienta{border:1px solid rgba(212,175,90,.28);border-radius:var(--radio);padding:18px;text-decoration:none;color:inherit}
+  .herramienta:hover{border-color:var(--oro);background:var(--noche-2)}
+  .herramienta strong{display:block;font-size:1.05rem;color:var(--pergamino);margin-bottom:4px}
+  .herramienta span{color:var(--acero);font-size:.92rem}
+
+  footer{border-top:1px solid rgba(212,175,90,.18);padding:40px 0 56px;color:var(--acero);font-size:.95rem}
+  footer .envoltura{display:flex;justify-content:space-between;gap:24px;flex-wrap:wrap}
+
+  @media (max-width:900px){
+    .hero .envoltura{grid-template-columns:1fr;gap:48px}
+    .carnet{transform:none}
+    .destacados{grid-template-columns:1fr}
+    .destacado.grande h3{font-size:1.6rem}
+    .fama,.guias{grid-template-columns:1fr}
+    .roster,.herramientas{grid-template-columns:repeat(2,1fr)}
+    .cronicas li{grid-template-columns:6.5rem 1fr;gap:4px 14px}
+    .cronicas li a{grid-column:1/-1}
+    .nav ul{display:none}
+  }
+  @media (max-width:520px){
+    .herramientas{grid-template-columns:1fr}
+    .seccion{padding:56px 0}
+  }
+  @media (prefers-reduced-motion:reduce){
+    html{scroll-behavior:auto}
+    .hero .filete{animation:none}
+  }
+</style>
+</head>
+<body>
+
+<nav class="nav" aria-label="Principal">
+  <div class="envoltura">
+    <a class="marca" href="#inicio">
+      <svg width="28" height="32" viewBox="0 0 28 32" aria-hidden="true">
+        <path d="M14 1 L27 5 V15 C27 23 21 28.5 14 31 C7 28.5 1 23 1 15 V5 Z" fill="#1E3260" stroke="#D4AF5A" stroke-width="1.5"/>
+        <path d="M9 22 C9 15 19 15 19 9" stroke="#D4AF5A" stroke-width="1.6" fill="none" stroke-linecap="round"/>
+        <path d="M19 22 C19 15 9 15 9 9" stroke="#EDE4CC" stroke-width="1.6" fill="none" stroke-linecap="round"/>
+      </svg>
+      El Último Baile
+    </a>
+    <ul>
+      <li><a href="#cronicas">Crónicas</a></li>
+      <li><a href="#fama">Salón de la fama</a></li>
+      <li><a href="#hermandad">Hermandad</a></li>
+      <li><a href="#guias">Guías</a></li>
+      <li><a href="#herramientas">Herramientas</a></li>
+    </ul>
+  </div>
+</nav>
+
+<main id="inicio">
+  <section class="hero">
+    <div class="envoltura">
+      <div>
+        <p class="faccion">
+          <svg width="16" height="16" viewBox="0 0 16 16" aria-hidden="true"><circle cx="8" cy="8" r="7" fill="none" stroke="#D4AF5A" stroke-width="1.5"/><circle cx="8" cy="8" r="3" fill="#D4AF5A"/></svg>
+          Hermandad de la Alianza en WoW Forever
+        </p>
+        <h1>El Último<br>Baile</h1>
+        <div class="filete" aria-hidden="true"></div>
+        <p class="lema">Los de siempre, otra vez en Azeroth. Raideamos, nos reímos y apuntamos cada jefe que cae.</p>
+        <div class="acciones">
+          <a class="boton" href="https://discord.gg/yc89W4YpF" rel="noopener">Entrar al Discord</a>
+          <a class="boton secundario" href="#fama">Ver nuestros first kills</a>
+        </div>
+      </div>
+
+      <article class="carnet" aria-labelledby="proximo">
+        <h2 id="proximo">Noches de baile</h2>
+        <p class="cuando">Hora peninsular</p>
+        <ol class="noches">
+          <li><span class="dia">Miércoles</span><span class="hora">22:00 a 00:00</span><span class="plan">Raid por anunciar</span></li>
+          <li><span class="dia">Jueves</span><span class="hora">22:00 a 00:00</span><span class="plan">Raid por anunciar</span></li>
+        </ol>
+        <p class="pie">Apúntate en Discord con <code>/apuntarme</code></p>
+      </article>
+    </div>
+  </section>
+
+  <section class="seccion" aria-labelledby="t-destacados">
+    <div class="envoltura">
+      <header><h2 id="t-destacados">Destacado</h2><span class="ejemplo">Contenido de ejemplo</span></header>
+      <div class="destacados">
+        <a class="destacado grande" href="#fama">
+          <span class="tipo">First kill</span>
+          <h3>Van Cleef cae a la primera</h3>
+          <p>Cinco colegas, una mazmorra y ni un solo wipe. La captura y el log, en el Salón de la fama.</p>
+          <span class="fecha">5 de noviembre de 2026</span>
+        </a>
+        <a class="destacado" href="#cronicas">
+          <span class="tipo">Evento</span>
+          <h3>Noche de lanzamiento</h3>
+          <p>El 4 de noviembre creamos personajes todos juntos.</p>
+          <span class="fecha">4 de noviembre de 2026</span>
+        </a>
+        <a class="destacado reclutamiento" href="https://discord.gg/yc89W4YpF" rel="noopener">
+          <span class="tipo">Reclutamiento</span>
+          <h3>Buscamos</h3>
+          <dl class="buscamos">
+            <dt>Tanque</dt><dd><span style="--clase:#C69B6D">Guerrero</span> <span style="--clase:#FF7C0A">Druida</span></dd>
+            <dt>Sanador</dt><dd><span style="--clase:#3D9BFF">Chamán</span> <span style="--clase:#F48CBA">Paladín</span></dd>
+            <dt>Melee</dt><dd><span style="--clase:#F48CBA">Paladín</span> <span style="--clase:#3D9BFF">Chamán</span></dd>
+            <dt>Cáster</dt><dd><span style="--clase:#FFFFFF">Sacerdote sombra</span> <span style="--clase:#3D9BFF">Chamán</span></dd>
+          </dl>
+          <p>Raideamos miércoles y jueves, de 22:00 a 00:00. Si conoces a alguien de confianza, avisa en Discord.</p>
+          <span class="fecha">Abierto</span>
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <section class="seccion" id="cronicas" aria-labelledby="t-cronicas">
+    <div class="envoltura">
+      <header><h2 id="t-cronicas">Crónicas</h2><p>Lo último que ha pasado en la hermandad</p></header>
+      <ul class="cronicas">
+        <li><time datetime="2026-11-05">5 nov 2026</time><span class="etiqueta caida">First kill</span><a href="#fama">Van Cleef, Las Minas de la Muerte</a></li>
+        <li><time datetime="2026-11-04">4 nov 2026</time><span class="etiqueta">Evento</span><a href="#">Lanzamiento: todos a nivel 1 en Elwynn</a></li>
+        <li><time datetime="2026-11-02">2 nov 2026</time><span class="etiqueta">Normas</span><a href="#">Así funciona nuestro DKP</a></li>
+        <li><time datetime="2026-10-30">30 oct 2026</time><span class="etiqueta">Anuncio</span><a href="#">Abrimos la web de la hermandad</a></li>
+      </ul>
+    </div>
+  </section>
+
+  <section class="seccion" id="fama" aria-labelledby="t-fama">
+    <div class="envoltura">
+      <header><h2 id="t-fama">Salón de la fama</h2><span class="ejemplo">Contenido de ejemplo</span></header>
+      <div class="fama">
+        <article class="kill">
+          <div class="captura">Captura del kill</div>
+          <div class="cuerpo">
+            <p class="jefe">Edwin van Cleef</p>
+            <h3>Las Minas de la Muerte</h3>
+            <dl><dt>Fecha</dt><dd>5 nov 2026</dd><dt>Grupo</dt><dd>Krasher, Nima, Hyo, Pulga, Palmira</dd><dt>Intentos</dt><dd>1</dd></dl>
+            <div class="enlaces"><a href="https://www.warcraftlogs.com" rel="noopener">Ver log</a></div>
+          </div>
+        </article>
+        <article class="kill">
+          <div class="captura">Captura del kill</div>
+          <div class="cuerpo">
+            <p class="jefe">Bazil Thredd</p>
+            <h3>Las Mazmorras</h3>
+            <dl><dt>Fecha</dt><dd>7 nov 2026</dd><dt>Grupo</dt><dd>Krasher, Franchito, Fiti, Lay, Blind</dd><dt>Intentos</dt><dd>2</dd></dl>
+            <div class="enlaces"><a href="https://www.warcraftlogs.com" rel="noopener">Ver log</a></div>
+          </div>
+        </article>
+        <article class="kill">
+          <div class="captura">Captura del kill</div>
+          <div class="cuerpo">
+            <p class="jefe">Taragaman el Hambriento</p>
+            <h3>Sima Ígnea</h3>
+            <dl><dt>Fecha</dt><dd>9 nov 2026</dd><dt>Grupo</dt><dd>Krasher, Tanaky, Hyo, Palmira, Pulga</dd><dt>Intentos</dt><dd>1</dd></dl>
+            <div class="enlaces"><a href="https://www.warcraftlogs.com" rel="noopener">Ver log</a></div>
+          </div>
+        </article>
+      </div>
+    </div>
+  </section>
+
+  <section class="seccion" id="hermandad" aria-labelledby="t-hermandad">
+    <div class="envoltura">
+      <header><h2 id="t-hermandad">La hermandad</h2><p>Los de siempre, sincronizados desde wowaudit</p></header>
+      <p class="roles" id="roster-counts">Cargando la hermandad…</p>
+      <div class="roster" id="roster-grid"></div>
+    </div>
+  </section>
+
+  <section class="seccion" id="guias" aria-labelledby="t-guias">
+    <div class="envoltura">
+      <header><h2 id="t-guias">Guías de la casa</h2><p>Escritas por nosotros, para nosotros</p></header>
+      <div class="guias">
+        <a class="guia" href="#"><h3>Las Minas de la Muerte</h3><p>Ruta, pulls peligrosos y quién se lleva qué.</p><p class="autor">Por Krasher</p></a>
+        <a class="guia" href="#"><h3>Las Mazmorras</h3><p>Cómo entrar desde Ventormenta y no morir en la puerta.</p><p class="autor">Por Nima</p></a>
+        <a class="guia" href="#"><h3>Nuestro DKP explicado</h3><p>Cómo se ganan y se gastan los puntos, sin letra pequeña.</p><p class="autor">Por los oficiales</p></a>
+      </div>
+    </div>
+  </section>
+
+  <section class="seccion" id="herramientas" aria-labelledby="t-herramientas">
+    <div class="envoltura">
+      <header><h2 id="t-herramientas">Herramientas</h2><p>Lo que usamos fuera de la web</p></header>
+      <div class="herramientas">
+        <a class="herramienta" href="https://www.warcraftlogs.com" rel="noopener"><strong>Warcraft Logs</strong><span>Los logs de cada raid</span></a>
+        <a class="herramienta" href="https://www.wowprogress.com" rel="noopener"><strong>WoWProgress</strong><span>Progreso y ranking</span></a>
+        <a class="herramienta" href="https://discord.gg/yc89W4YpF" rel="noopener"><strong>Discord</strong><span>Apuntarse, DKP y el bot</span></a>
+        <a class="herramienta" href="#guias"><strong>Calculadora de talentos</strong><span>Pendiente de elegir una</span></a>
+      </div>
+    </div>
+  </section>
+</main>
+
+<footer>
+  <div class="envoltura">
+    <span>El Último Baile, hermandad de la Alianza en WoW Forever</span>
+    <span>Web hecha por la hermandad. World of Warcraft es marca de Blizzard Entertainment.</span>
+  </div>
+</footer>
 <script>
-  fetch('roster.json')
-    .then(response => response.json())
-    .then(data => {
-      let tanks = 0, heals = 0, dps = 0;
-      let gridHtml = '';
+  // Roster automático: roster.json se genera a partir de la API de wowaudit (la clave nunca está en este repo).
+  // Se pinta con textContent, nunca con innerHTML: los nombres vienen de fuera y no se interpretan como HTML.
+  (function () {
+    const CLASES = {
+      warrior: ["Guerrero", "#C69B6D"], paladin: ["Paladín", "#F48CBA"], hunter: ["Cazador", "#AAD372"],
+      rogue: ["Pícaro", "#FFF468"], priest: ["Sacerdote", "#FFFFFF"], shaman: ["Chamán", "#3D9BFF"],
+      mage: ["Mago", "#3FC7EB"], warlock: ["Brujo", "#8788EE"], druid: ["Druida", "#FF7C0A"],
+      monk: ["Monje", "#00FF98"], deathknight: ["Caballero de la Muerte", "#C41E3A"]
+    };
+    const ROLES = { tank: "Tanque", heal: "Sanador", healer: "Sanador", melee: "Melee", ranged: "Distancia" };
+    const ORDEN = { tank: 0, heal: 1, healer: 1, melee: 2, ranged: 3 };
 
-      data.forEach(pj => {
-        const role = pj.role ? pj.role.toLowerCase() : '';
-        if (role.includes('tank') || role.includes('tanque')) tanks++;
-        else if (role.includes('heal') || role.includes('sanador')) heals++;
-        else dps++; 
+    const grid = document.getElementById("roster-grid");
+    const counts = document.getElementById("roster-counts");
 
-        const claseCss = pj.class ? pj.class.toLowerCase().replace(/\s+/g, '') : '';
-        
-        gridHtml += `<div><div class="${claseCss}"><strong>${pj.name}</strong></div><div><small>${pj.class} - ${pj.role || 'DPS'}</small></div></div>`;
+    function cifra(n, singular, plural) {
+      const span = document.createElement("span");
+      const b = document.createElement("strong");
+      b.textContent = n;
+      span.append(b, n === 1 ? singular : plural);
+      return span;
+    }
+
+    fetch("roster.json", { cache: "no-cache" })
+      .then(r => { if (!r.ok) throw new Error(r.status); return r.json(); })
+      .then(data => {
+        if (!Array.isArray(data)) throw new Error("formato");
+        const pjs = data
+          .filter(p => p && typeof p.name === "string")
+          .map(p => ({
+            nombre: p.name,
+            clase: String(p.class || "").toLowerCase().replace(/\s+/g, ""),
+            rol: String(p.role || "").toLowerCase()
+          }))
+          .sort((a, b) => (ORDEN[a.rol] ?? 9) - (ORDEN[b.rol] ?? 9) || a.nombre.localeCompare(b.nombre, "es"));
+
+        const n = r => pjs.filter(p => p.rol === r || (r === "heal" && p.rol === "healer")).length;
+        counts.replaceChildren(
+          cifra(n("tank"), "tanque", "tanques"),
+          cifra(n("heal"), "sanador", "sanadores"),
+          cifra(n("melee"), "melee", "melees"),
+          cifra(n("ranged"), "a distancia", "a distancia")
+        );
+
+        grid.replaceChildren(...pjs.map(p => {
+          const [claseEs, color] = CLASES[p.clase] || ["Clase desconocida", "#93A0BC"];
+          const card = document.createElement("div");
+          card.className = "pj";
+          card.style.setProperty("--clase", color);
+          const nombre = document.createElement("div");
+          nombre.className = "nombre";
+          nombre.textContent = p.nombre;
+          const detalle = document.createElement("div");
+          detalle.className = "detalle";
+          detalle.textContent = claseEs + ", " + (ROLES[p.rol] || "rol por definir").toLowerCase();
+          card.append(nombre, detalle);
+          return card;
+        }));
+      })
+      .catch(() => {
+        counts.textContent = "No se ha podido cargar la hermandad. Vuelve a intentarlo en un rato.";
       });
-
-      document.getElementById('roster-grid').innerHTML = gridHtml;
-      document.getElementById('roster-counts').innerHTML = `
-        <span><strong>${tanks}</strong> tanques</span> | 
-        <span><strong>${heals}</strong> sanadores</span> | 
-        <span><strong>${dps}</strong> daño</span> | 
-        <span><strong>${data.length}</strong> total</span>
-      `;
-    })
-    .catch(error => console.error('Error cargando el roster:', error));
+  })();
 </script>
+</body>
+</html>
