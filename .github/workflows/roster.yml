@@ -1,0 +1,42 @@
+name: Actualizar roster desde wowaudit
+
+on:
+  schedule:
+    - cron: "17 * * * *"   # cada hora, en el minuto 17
+  workflow_dispatch:        # botón "Run workflow" para lanzarlo a mano
+
+# Mínimo privilegio: solo puede escribir contenido del repo (para commitear roster.json)
+permissions:
+  contents: write
+
+concurrency:
+  group: roster
+  cancel-in-progress: false
+
+jobs:
+  actualizar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Descargar el repo
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Pedir el roster a wowaudit
+        env:
+          WOWAUDIT_API_KEY: ${{ secrets.WOWAUDIT_API_KEY }}
+          WOWAUDIT_BASE_URL: ${{ vars.WOWAUDIT_BASE_URL }}
+        run: python3 scripts/actualizar_roster.py
+
+      - name: Guardar cambios si los hay
+        run: |
+          if git diff --quiet -- roster.json; then
+            echo "roster.json sin cambios"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add roster.json
+          git commit -m "Actualiza roster desde wowaudit"
+          git push
