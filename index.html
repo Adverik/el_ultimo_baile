@@ -9,6 +9,7 @@
 <meta name="color-scheme" content="dark">
 <title>El Último Baile, hermandad de WoW Forever</title>
 <link rel="preload" as="image" href="img/cabecera.jpg" media="(min-width: 721px)">
+<link rel="preload" as="image" href="img/cabecera-movil.jpg" media="(max-width: 720px)">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Almendra+Display&family=Alegreya+SC:wght@500;700;800&family=Alegreya+Sans:ital,wght@0,400;0,500;0,700;1,400&display=swap" rel="stylesheet">
@@ -39,7 +40,10 @@
   h3{font-size:1.25rem}
   p{margin:0 0 1em}
   .seccion{padding:88px 0;border-top:1px solid var(--linea)}
-  .entradilla{color:var(--suave);max-width:62ch;margin-top:12px}
+  .entradilla{color:var(--suave);max-width:62ch;margin:12px auto 0}
+  /* Cabeceras de sección centradas */
+  .seccion h2,.seccion .entradilla,.seccion .cierre,.seccion .nota,.seccion .titulo-sub{text-align:center}
+  .seccion .entradilla{text-wrap:balance}
   .boton{display:inline-flex;align-items:center;gap:8px;background:var(--oro);color:#17130a;font-weight:700;text-decoration:none;padding:11px 20px;border-radius:var(--radio);border:1px solid var(--oro)}
   .boton:hover{background:#e3c47a}
   .boton.secundario{background:transparent;color:var(--texto);border-color:#3a3f4d}
@@ -56,12 +60,13 @@
   .nav .boton{padding:8px 16px}
 
   /* Cabecera con imagen: el texto va arriba, sobre el cielo, y los personajes quedan libres abajo */
-  .hero{position:relative;min-height:calc(330px + 39vw);padding:72px 0 0;overflow:hidden;text-align:center;
+  /* Cabecera: franja negra con el texto y, debajo, la imagen (recortada por arriba para centrarse en los personajes) */
+  .hero{position:relative;padding:72px 0 0;overflow:hidden;text-align:center;
     background:radial-gradient(1100px 420px at 50% 100%,rgba(224,112,47,.22),transparent 70%),var(--fondo)}
-  .hero::before{content:"";position:absolute;left:0;right:0;bottom:0;aspect-ratio:1918/820;
-    background:url("img/cabecera.jpg") center/cover no-repeat;
-    -webkit-mask-image:linear-gradient(180deg,transparent 0%,#000 32%,#000 88%,transparent 100%);
-            mask-image:linear-gradient(180deg,transparent 0%,#000 32%,#000 88%,transparent 100%)}
+  .hero-imagen{position:relative;margin-top:-24px;width:100%;aspect-ratio:2752/1000;
+    background:url("img/cabecera.jpg") center 75%/cover no-repeat;
+    -webkit-mask-image:linear-gradient(180deg,transparent 0%,#000 22%,#000 90%,transparent 100%);
+            mask-image:linear-gradient(180deg,transparent 0%,#000 22%,#000 90%,transparent 100%)}
   .hero::after{content:"";position:absolute;left:0;right:0;bottom:0;height:2px;background:linear-gradient(90deg,transparent,#e0702f 30%,#f0c674 50%,#e0702f 70%,transparent);opacity:.7}
   .hero .envoltura{position:relative;z-index:1}
   .hero .ficha{color:#e9c9a0;font-weight:500;letter-spacing:.02em;margin-bottom:14px}
@@ -77,6 +82,7 @@
   .bloque h3{color:var(--oro);margin-bottom:10px}
   .bloque p{color:var(--suave);margin:0}
   .cierre{margin-top:36px;font-family:var(--display);font-size:1.3rem;color:var(--texto)}
+  .horario{justify-content:center}
 
   /* Raids */
   .horario{display:flex;flex-wrap:wrap;align-items:center;gap:12px 32px;background:var(--panel-2);border:1px solid var(--linea);border-left:4px solid var(--oro);border-radius:var(--radio);padding:22px 26px;margin:36px 0 40px}
@@ -124,25 +130,31 @@
   .tabla-botin td:nth-child(2){font-weight:700;padding-right:16px}
   /* Reclutamiento */
   .perfiles{display:grid;grid-template-columns:repeat(3,1fr);gap:18px;margin-top:36px}
-  .clases{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:12px;margin-top:18px}
-  .clase{background:var(--panel);border:1px solid var(--linea);border-radius:var(--radio);padding:14px;display:flex;flex-direction:column;gap:8px}
-  .clase .cab{display:flex;align-items:center;gap:10px}
-  .clase .icono{width:30px;height:30px;border-radius:50%;display:grid;place-items:center;font-family:var(--display);font-weight:800;color:#0a0a0a;background:var(--c)}
-  .clase .nombre{font-weight:700;color:var(--c)}
-  .estado{font-size:.85rem;font-weight:700;border-radius:99px;padding:1px 10px;align-self:flex-start}
-  .estado.abierta{background:rgba(84,180,110,.15);color:#7bd096;border:1px solid rgba(123,208,150,.4)}
-  .estado.cerrada{background:rgba(154,161,178,.08);color:var(--suave);border:1px solid #333845}
-  .clase .roles{font-size:.85rem;color:var(--suave)}
-  .clase.cerrada{opacity:.7}
+  .clases{display:flex;flex-wrap:wrap;justify-content:center;gap:18px 20px;margin:22px auto 0;max-width:920px}
+  .clase{display:flex;flex-direction:column;align-items:center;gap:6px;width:72px;text-align:center}
+  .clase .icono{width:52px;height:52px;border-radius:50%;display:grid;place-items:center;font-family:var(--display);font-weight:800;font-size:1.3rem;color:#0a0a0a;background:var(--c);border:2px solid transparent}
+  .clase.abierta .icono{box-shadow:0 0 0 3px var(--fondo),0 0 0 5px #7bd096,0 0 18px rgba(123,208,150,.35)}
+  .clase.cerrada .icono{filter:grayscale(.85) brightness(.55)}
+  .clase .nombre{font-size:.85rem;font-weight:700;color:var(--c);line-height:1.2}
+  .clase.cerrada .nombre{color:var(--suave)}
+  .clase .estado{font-size:.72rem;font-weight:700;letter-spacing:.02em}
+  .clase.abierta .estado{color:#7bd096}
+  .clase.cerrada .estado{color:#6b7180}
+  .clase .roles{font-size:.72rem;color:var(--suave);line-height:1.25}
   .nota{color:var(--suave);font-size:.95rem;margin-top:14px}
 
   /* Miembros (roster automático) */
   .recuento{display:flex;gap:28px;flex-wrap:wrap;color:var(--suave);margin:24px 0 20px}
   .recuento strong{color:var(--texto);font-family:var(--display);font-size:1.35rem;margin-right:6px}
-  .roster{display:grid;grid-template-columns:repeat(auto-fill,minmax(190px,1fr));gap:12px}
-  .pj{background:var(--panel);border-radius:var(--radio);padding:12px 14px;border:1px solid var(--linea);border-left:4px solid var(--clase)}
-  .pj .nombre{font-weight:700;color:var(--clase)}
-  .pj .detalle{color:var(--suave);font-size:.92rem}
+  .roster{display:grid;grid-template-columns:repeat(auto-fill,minmax(210px,1fr));gap:12px}
+  .grupo{background:var(--panel);border:1px solid var(--linea);border-top:3px solid var(--c);border-radius:var(--radio);padding:10px 12px}
+  .grupo h4{margin:0 0 6px;font-family:var(--display);font-size:1rem;color:var(--c);display:flex;justify-content:space-between;align-items:baseline}
+  .grupo h4 span{font-family:var(--texto-f);font-size:.8rem;color:var(--suave);font-weight:500}
+  .grupo ul{list-style:none;margin:0;padding:0}
+  .grupo li{display:flex;justify-content:space-between;gap:10px;padding:3px 0;font-size:.95rem;border-top:1px solid rgba(35,39,51,.7)}
+  .grupo li:first-child{border-top:0}
+  .grupo .rol{color:var(--suave);font-size:.8rem;white-space:nowrap}
+  .recuento{justify-content:center}
 
   /* Únete */
   .unete{text-align:center}
@@ -166,14 +178,15 @@
     .listas,.rejilla-2,.dos-col{grid-template-columns:1fr}
     .rejilla-4{grid-template-columns:1fr}
     .seccion{padding:64px 0}
-    /* En móvil la imagen se ve entera (sin recortar los lados) para que salgan todos los personajes */
-    .hero{min-height:calc(318px + 43vw);padding:48px 0 0}
+    /* En móvil la imagen se ve entera de ancho (sin recortar los lados) para que salgan todos los personajes */
+    .hero{padding:48px 0 0}
     .hero .acciones{flex-wrap:nowrap;gap:8px}
     .hero .acciones .boton{padding:9px 14px;font-size:.95rem;white-space:nowrap}
-    .hero .boton.secundario{background:rgba(7,8,10,.7)}
-    .hero::before{left:0;right:0;background-image:url("img/cabecera-movil.jpg");
-      -webkit-mask-image:linear-gradient(180deg,transparent 0%,#000 18%,#000 92%,transparent 100%);
-              mask-image:linear-gradient(180deg,transparent 0%,#000 18%,#000 92%,transparent 100%)}
+    .roster{grid-template-columns:1fr 1fr;gap:10px}
+    .grupo{padding:8px 10px}
+    .grupo li{font-size:.9rem}
+    .grupo .rol{display:none}
+    .hero-imagen{margin-top:-8px;aspect-ratio:2752/1100;background-image:url("img/cabecera-movil.jpg")}
     .nav .boton{display:none}
   }
   @media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
@@ -214,6 +227,7 @@
         <a class="boton secundario" href="#raids">Noches de raid</a>
       </div>
     </div>
+    <div class="hero-imagen" role="img" aria-label="Los diez personajes de la hermandad, de espaldas, mirando una fortaleza entre ríos de lava"></div>
   </header>
 
   <section class="seccion" id="hermandad" aria-labelledby="t-hermandad">
@@ -324,7 +338,7 @@
         <div class="bloque"><h3>Sociales</h3><p>No hace falta raidear. Esto también es un sitio para jugar con amigos, y aquí nadie lleva la cuenta de tu asistencia.</p></div>
       </div>
 
-      <h3 style="margin-top:44px">Lo que necesita la raid ahora mismo</h3>
+      <h3 class="titulo-sub" style="margin-top:44px">Lo que necesita la raid ahora mismo</h3>
       <div class="clases" id="clases"></div>
       <p class="nota">Actualizado el 3 de noviembre de 2026. Si tu clase está cerrada para raid, eres igual de bienvenido como social.</p>
     </div>
@@ -342,7 +356,7 @@
   <section class="seccion unete" id="unete" aria-labelledby="t-unete">
     <div class="envoltura">
       <h2 id="t-unete">Ven a saludar</h2>
-      <p class="entradilla" style="margin-left:auto;margin-right:auto">La puerta de entrada es nuestro Discord. Rellena el formulario de acceso, preséntate y pregunta lo que quieras: sin cartas de motivación ni revisión de logs.</p>
+      <p class="entradilla">La puerta de entrada es nuestro Discord. Rellena el formulario de acceso, preséntate y pregunta lo que quieras: sin cartas de motivación ni revisión de logs.</p>
       <div class="acciones">
         <a class="boton" href="https://discord.gg/yc89W4YpF" rel="noopener">Entrar al Discord</a>
         <a class="boton secundario" href="#reclutamiento">Ver qué buscamos</a>
@@ -396,11 +410,10 @@
     cont.replaceChildren(...ORDEN.map(id => {
       const [nombre, color] = CLASES[id];
       const abierta = Boolean(BUSCAMOS[id]);
-      const tarjeta = el("div", "clase" + (abierta ? "" : " cerrada"));
+      const tarjeta = el("div", "clase " + (abierta ? "abierta" : "cerrada"));
       tarjeta.style.setProperty("--c", color);
-      const cab = el("div", "cab");
-      cab.append(el("span", "icono", nombre[0]), el("span", "nombre", nombre));
-      tarjeta.append(cab, el("span", "estado " + (abierta ? "abierta" : "cerrada"), abierta ? "Abierta" : "Cerrada"));
+      tarjeta.title = nombre + (abierta ? ": buscamos " + BUSCAMOS[id].join(", ").toLowerCase() : ": cerrada");
+      tarjeta.append(el("span", "icono", nombre[0]), el("span", "nombre", nombre), el("span", "estado", abierta ? "Abierta" : "Cerrada"));
       if (abierta) tarjeta.append(el("span", "roles", BUSCAMOS[id].join(", ")));
       return tarjeta;
     }));
@@ -432,12 +445,25 @@
           cifra(n("tank"), "tanque", "tanques"), cifra(n("heal"), "sanador", "sanadores"),
           cifra(n("melee"), "melee", "melees"), cifra(n("ranged"), "a distancia", "a distancia")
         );
-        grid.replaceChildren(...pjs.map(p => {
-          const [claseEs, color] = CLASES[p.clase] || ["Clase desconocida", "#9aa1b2"];
-          const card = el("div", "pj");
-          card.style.setProperty("--clase", color);
-          card.append(el("div", "nombre", p.nombre), el("div", "detalle", claseEs + ", " + (ROLES[p.rol] || "rol por definir").toLowerCase()));
-          return card;
+        // Agrupados por clase, los grupos más numerosos primero
+        const grupos = {};
+        pjs.forEach(p => { (grupos[p.clase] = grupos[p.clase] || []).push(p); });
+        const ordenGrupos = Object.keys(grupos).sort((a, b) =>
+          grupos[b].length - grupos[a].length || (CLASES[a] || [a])[0].localeCompare((CLASES[b] || [b])[0], "es"));
+        grid.replaceChildren(...ordenGrupos.map(c => {
+          const [claseEs, color] = CLASES[c] || ["Otros", "#9aa1b2"];
+          const caja = el("div", "grupo");
+          caja.style.setProperty("--c", color);
+          const h = el("h4", "", claseEs + (grupos[c].length > 1 && !claseEs.endsWith("s") ? "s" : ""));
+          h.append(el("span", "", String(grupos[c].length)));
+          const ul = el("ul");
+          grupos[c].forEach(p => {
+            const li = el("li");
+            li.append(el("span", "", p.nombre), el("span", "rol", (ROLES[p.rol] || "Por definir")));
+            ul.append(li);
+          });
+          caja.append(h, ul);
+          return caja;
         }));
       })
       .catch(() => { counts.textContent = "No se ha podido cargar la hermandad. Vuelve a intentarlo en un rato."; });
