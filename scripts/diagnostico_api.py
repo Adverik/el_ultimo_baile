@@ -88,6 +88,26 @@ def main():
         mostrar("Actividad del periodo", f"/v1/historical_data?period={per}")
         mostrar("Actividad del periodo anterior", f"/v1/historical_data?period={per - 1}")
         mostrar("Actividad de hace dos periodos", f"/v1/historical_data?period={per - 2}")
+    # Actividad: buscar el primer personaje con mazmorras y mostrar solo la forma
+    if per:
+        for p in (per, per - 1, per - 2, per - 3):
+            datos, _ = get(f"/v1/historical_data?period={p}")
+            chars = (datos or {}).get("characters") or []
+            con = [c for c in chars if isinstance(c, dict) and (c.get("data") or {}).get("dungeons_done")]
+            print(f"\n(periodo -{per - p}: {len(con)} de {len(chars)} personajes con mazmorras)")
+            if con:
+                print("  forma de una mazmorra:")
+                forma(con[0]["data"]["dungeons_done"][0], 2)
+                break
+        if chars:
+            print("  forma de vault_options.raids:")
+            forma(((chars[0].get("data") or {}).get("vault_options") or {}).get("raids"), 2)
+    # Fechas de raids: cuántas pasadas y futuras (solo recuentos)
+    if isinstance(lista, list):
+        import datetime
+        hoy = datetime.date.today().isoformat()
+        pasadas = sum(1 for r in lista if isinstance(r, dict) and str(r.get("date", "")) < hoy)
+        print(f"\n(raids pasadas: {pasadas}, futuras u hoy: {len(lista) - pasadas}; formato fecha de ejemplo: {len(str(lista[0].get('date','')))} caracteres)")
     # Valores de estado y dificultad de las raids (solo valores distintos, son etiquetas, no datos personales)
     if isinstance(lista, list):
         estados = sorted({str(r.get("status")) for r in lista if isinstance(r, dict)})
