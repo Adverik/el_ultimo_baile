@@ -1,134 +1,3 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
-  <meta charset="UTF-8">
-  <title>El Último Baile - WoW Forever</title>
-  <link href="https://fonts.googleapis.com" rel="preconnect">
-  <link crossorigin href="https://fonts.gstatic.com" rel="preconnect">
-  <!-- Asegúrate de mantener la ruta a tu archivo CSS -->
-  <link rel="stylesheet" href="style.css">
-</head>
-<body>
-
-<nav aria-label="Principal">
-  <div>
-    <a href="#inicio">El Último Baile</a>
-    <ul>
-      <li><a href="#calendario">Calendario</a></li>
-      <li><a href="#cronicas">Crónicas</a></li>
-      <li><a href="#fama">Salón de la fama</a></li>
-      <li><a href="#hermandad">Hermandad</a></li>
-      <li><a href="#guias">Guías</a></li>
-      <li><a href="#herramientas">Herramientas</a></li>
-    </ul>
-  </div>
-</nav>
-
-<main>
-  <section id="inicio">
-    <div>
-      <div>
-        <p>Hermandad de la Alianza en WoW Forever</p>
-        <h1>El Último<br>Baile</h1>
-        <div aria-hidden="true"></div>
-        <p>Los de siempre, otra vez en Azeroth. Raideamos, nos reímos y apuntamos cada jefe que cae.</p>
-        <div>
-          <a href="https://discord.gg/yc89W4YpF" rel="noopener" target="_blank">Entrar al Discord</a>
-          <a href="#fama">Ver nuestros first kills</a>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <!-- NUEVA SECCIÓN: Calendario -->
-  <section id="calendario">
-    <div>
-      <header>
-        <h2>Calendario de Noches de Baile</h2>
-        <p>Nuestros próximos eventos oficiales</p>
-      </header>
-      <div>
-        <article>
-          <h3>Miércoles, 22:00 - 00:00</h3>
-          <p><strong>Raid:</strong> Por anunciar</p>
-          <p><em>Asistencia obligatoria vía Discord (/apuntarme)</em></p>
-        </article>
-        <article>
-          <h3>Jueves, 22:00 - 00:00</h3>
-          <p><strong>Raid:</strong> Por anunciar</p>
-          <p><em>Asistencia obligatoria vía Discord (/apuntarme)</em></p>
-        </article>
-      </div>
-    </div>
-  </section>
-
-  <!-- Resto de secciones (Crónicas, Fama, etc.) sin cambios mayores para no romper tu diseño -->
-  <section id="cronicas">
-    <div>
-      <header><h2>Crónicas</h2><p>Lo último que ha pasado en la hermandad</p></header>
-      <ul>
-        <li><time datetime="2026-11-05">5 nov 2026</time><span>First kill</span><a href="#fama">Van Cleef, Las Minas de la Muerte</a></li>
-        <li><time datetime="2026-11-04">4 nov 2026</time><span>Evento</span><a href="#">Lanzamiento: todos a nivel 1 en Elwynn</a></li>
-      </ul>
-    </div>
-  </section>
-
-  <section id="fama">
-    <div>
-      <header><h2>Salón de la fama</h2><span>Contenido de ejemplo</span></header>
-      <div>
-        <article>
-          <div>Captura del kill</div>
-          <div>
-            <p>Edwin van Cleef</p>
-            <h3>Las Minas de la Muerte</h3>
-            <dl><dt>Fecha</dt><dd>5 nov 2026</dd><dt>Grupo</dt><dd>Krasher, Nima, Hyo, Pulga, Palmira</dd><dt>Intentos</dt><dd>1</dd></dl>
-          </div>
-        </article>
-      </div>
-    </div>
-  </section>
-
-  <!-- SECCIÓN HERMANDAD (Automatizada con el JSON) -->
-  <section id="hermandad">
-    <div>
-      <header><h2>La hermandad</h2><p>Los de siempre</p></header>
-      <!-- Contenedor dinámico para los contadores -->
-      <p id="roster-counts">Cargando datos del roster...</p>
-      
-      <!-- Contenedor dinámico para la lista de jugadores -->
-      <div id="roster-grid"></div>
-    </div>
-  </section>
-
-  <section id="guias">
-    <div>
-      <header><h2>Guías de la casa</h2><p>Escritas por nosotros, para nosotros</p></header>
-      <div>
-        <a href="#"><h3>Las Minas de la Muerte</h3><p>Ruta y pulls peligrosos.</p></a>
-      </div>
-    </div>
-  </section>
-
-  <section id="herramientas">
-    <div>
-      <header><h2>Herramientas</h2><p>Lo que usamos fuera de la web</p></header>
-      <div>
-        <a href="https://www.warcraftlogs.com" rel="noopener" target="_blank"><strong>Warcraft Logs</strong><span>Los logs de cada raid</span></a>
-        <a href="https://discord.gg/yc89W4YpF" rel="noopener" target="_blank"><strong>Discord</strong><span>Apuntarse, DKP y el bot</span></a>
-      </div>
-    </div>
-  </section>
-</main>
-
-<footer>
-  <div>
-    <span>El Último Baile, hermandad de la Alianza en WoW Forever</span>
-    <span>Web hecha por la hermandad.</span>
-  </div>
-</footer>
-
-<!-- SCRIPT DE CARGA AUTOMÁTICA DEL ROSTER -->
 <script>
   fetch('roster.json')
     .then(response => response.json())
@@ -137,20 +6,17 @@
       let gridHtml = '';
 
       data.forEach(pj => {
-        // Normalizamos el rol para sumarlo correctamente
         const role = pj.role ? pj.role.toLowerCase() : '';
         if (role.includes('tank') || role.includes('tanque')) tanks++;
         else if (role.includes('heal') || role.includes('sanador')) heals++;
-        else dps++; // Si no es tanque ni healer, asumimos DPS
+        else dps++; 
 
-        // Montamos la tarjeta del jugador
-        gridHtml += `<div><div><strong>${pj.name}</strong></div><div>${pj.class} - ${pj.role || 'DPS'}</div></div>`;
+        const claseCss = pj.class ? pj.class.toLowerCase().replace(/\s+/g, '') : '';
+        
+        gridHtml += `<div><div class="${claseCss}"><strong>${pj.name}</strong></div><div><small>${pj.class} - ${pj.role || 'DPS'}</small></div></div>`;
       });
 
-      // Inyectamos el HTML en la web
       document.getElementById('roster-grid').innerHTML = gridHtml;
-      
-      // Actualizamos los contadores de la cabecera
       document.getElementById('roster-counts').innerHTML = `
         <span><strong>${tanks}</strong> tanques</span> | 
         <span><strong>${heals}</strong> sanadores</span> | 
@@ -158,11 +24,5 @@
         <span><strong>${data.length}</strong> total</span>
       `;
     })
-    .catch(error => {
-      console.error('Error cargando el roster:', error);
-      document.getElementById('roster-counts').innerHTML = 'Error al cargar el roster. Inténtalo más tarde.';
-    });
+    .catch(error => console.error('Error cargando el roster:', error));
 </script>
-
-</body>
-</html>
