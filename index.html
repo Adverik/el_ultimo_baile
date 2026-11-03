@@ -8,6 +8,7 @@
 <meta name="theme-color" content="#07080a">
 <meta name="color-scheme" content="dark">
 <title>El Último Baile, hermandad de WoW Forever</title>
+<link rel="preload" as="image" href="img/cabecera.jpg" media="(min-width: 721px)">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Alegreya+SC:wght@500;700;800&family=Alegreya+Sans:ital,wght@0,400;0,500;0,700;1,400&display=swap" rel="stylesheet">
@@ -25,7 +26,7 @@
     --radio:8px;
     --display:"Alegreya SC", Georgia, serif;
     --texto-f:"Alegreya Sans", system-ui, sans-serif;
-    /* Imagen de cabecera: cuando la tengáis, súbela como img/cabecera.jpg y descomenta la línea de .hero */
+    /* Imagen de cabecera: img/cabecera.jpg (escritorio) e img/cabecera-movil.jpg (móvil) */
   }
   *{box-sizing:border-box}
   html{scroll-behavior:smooth}
@@ -54,18 +55,18 @@
   .nav ul a:hover{color:var(--texto)}
   .nav .boton{padding:8px 16px}
 
-  /* Cabecera con hueco para imagen */
-  .hero{position:relative;min-height:78vh;display:flex;align-items:flex-end;padding:120px 0 96px;
-    background:
-      linear-gradient(180deg,rgba(7,8,10,.15) 0%,rgba(7,8,10,.55) 55%,var(--fondo) 100%),
-      /* url("img/cabecera.jpg") center/cover no-repeat, */
-      radial-gradient(1200px 600px at 75% 20%,#1d2a4d 0%,transparent 60%),
-      repeating-linear-gradient(135deg,rgba(212,175,90,.05) 0 14px,transparent 14px 28px),
-      #0b0d13;}
-  .hero .hueco{position:absolute;top:20px;right:24px;font-size:.8rem;color:var(--suave);border:1px dashed #4a4f5c;border-radius:6px;padding:4px 10px;background:rgba(7,8,10,.6)}
-  .hero .ficha{color:var(--suave);font-weight:500;letter-spacing:.02em;margin-bottom:14px}
-  .hero h1{font-size:clamp(3.2rem,9vw,6.8rem);font-weight:800;line-height:.95}
-  .hero .lema{font-family:var(--display);font-size:clamp(1.15rem,2.4vw,1.5rem);color:var(--oro);margin:22px 0 30px;max-width:34ch}
+  /* Cabecera con imagen: el texto va arriba, sobre el cielo, y los personajes quedan libres abajo */
+  .hero{position:relative;min-height:calc(470px + 23.5vw);padding:88px 0 0;overflow:hidden;
+    background:radial-gradient(1100px 420px at 50% 100%,rgba(224,112,47,.22),transparent 70%),var(--fondo)}
+  .hero::before{content:"";position:absolute;left:0;right:0;bottom:0;aspect-ratio:1918/820;
+    background:url("img/cabecera.jpg") center/cover no-repeat;
+    -webkit-mask-image:linear-gradient(180deg,transparent 0%,#000 32%,#000 88%,transparent 100%);
+            mask-image:linear-gradient(180deg,transparent 0%,#000 32%,#000 88%,transparent 100%)}
+  .hero::after{content:"";position:absolute;left:0;right:0;bottom:0;height:2px;background:linear-gradient(90deg,transparent,#e0702f 30%,#f0c674 50%,#e0702f 70%,transparent);opacity:.7}
+  .hero .envoltura{position:relative;z-index:1}
+  .hero .ficha{color:#e9c9a0;font-weight:500;letter-spacing:.02em;margin-bottom:14px}
+  .hero h1{font-size:clamp(3rem,7vw,5.6rem);font-weight:800;line-height:.95;text-shadow:0 2px 24px rgba(0,0,0,.7)}
+  .hero .lema{font-family:var(--display);font-size:clamp(1.15rem,2.2vw,1.45rem);color:#f0c674;margin:20px 0 28px;max-width:34ch}
   .acciones{display:flex;gap:12px;flex-wrap:wrap}
 
   /* Por qué */
@@ -163,7 +164,9 @@
     .listas,.rejilla-2,.dos-col{grid-template-columns:1fr}
     .rejilla-4{grid-template-columns:1fr}
     .seccion{padding:64px 0}
-    .hero{min-height:70vh;padding:100px 0 64px}
+    .hero{min-height:calc(520px + 40vw);padding:64px 0 0}
+    .hero .boton.secundario{background:rgba(7,8,10,.7)}
+    .hero::before{left:-45%;right:-45%;background-image:url("img/cabecera-movil.jpg")}
     .nav .boton{display:none}
   }
   @media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
@@ -195,7 +198,6 @@
 
 <main id="inicio">
   <header class="hero">
-    <span class="hueco">Imagen de cabecera pendiente</span>
     <div class="envoltura">
       <p class="ficha">WoW Forever, Europa, Alianza, PvE, en castellano</p>
       <h1>El Último<br>Baile</h1>
