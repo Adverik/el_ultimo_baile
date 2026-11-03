@@ -11,7 +11,7 @@
 <link rel="preload" as="image" href="img/cabecera.jpg" media="(min-width: 721px)">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Alegreya+SC:wght@500;700;800&family=Alegreya+Sans:ital,wght@0,400;0,500;0,700;1,400&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Almendra+Display&family=Alegreya+SC:wght@500;700;800&family=Alegreya+Sans:ital,wght@0,400;0,500;0,700;1,400&display=swap" rel="stylesheet">
 <style>
   :root{
     --fondo:#07080a;        /* casi negro, como la web de referencia */
@@ -56,7 +56,7 @@
   .nav .boton{padding:8px 16px}
 
   /* Cabecera con imagen: el texto va arriba, sobre el cielo, y los personajes quedan libres abajo */
-  .hero{position:relative;min-height:calc(470px + 23.5vw);padding:88px 0 0;overflow:hidden;
+  .hero{position:relative;min-height:calc(330px + 39vw);padding:72px 0 0;overflow:hidden;text-align:center;
     background:radial-gradient(1100px 420px at 50% 100%,rgba(224,112,47,.22),transparent 70%),var(--fondo)}
   .hero::before{content:"";position:absolute;left:0;right:0;bottom:0;aspect-ratio:1918/820;
     background:url("img/cabecera.jpg") center/cover no-repeat;
@@ -65,8 +65,10 @@
   .hero::after{content:"";position:absolute;left:0;right:0;bottom:0;height:2px;background:linear-gradient(90deg,transparent,#e0702f 30%,#f0c674 50%,#e0702f 70%,transparent);opacity:.7}
   .hero .envoltura{position:relative;z-index:1}
   .hero .ficha{color:#e9c9a0;font-weight:500;letter-spacing:.02em;margin-bottom:14px}
-  .hero h1{font-size:clamp(3rem,7vw,5.6rem);font-weight:800;line-height:.95;text-shadow:0 2px 24px rgba(0,0,0,.7)}
-  .hero .lema{font-family:var(--display);font-size:clamp(1.15rem,2.2vw,1.45rem);color:#f0c674;margin:20px 0 28px;max-width:34ch}
+  /* Letra del título: Almendra Display, caligráfica de aire élfico (inspirada en la inscripción del Anillo), pero legible */
+  .hero h1{font-family:"Almendra Display",var(--display);font-weight:400;font-size:clamp(2.3rem,6.2vw,5.2rem);line-height:1.05;white-space:nowrap;letter-spacing:.02em;color:#f3e6c4;text-shadow:0 0 18px rgba(240,198,116,.35),0 2px 24px rgba(0,0,0,.8)}
+  .hero .lema{font-family:var(--display);font-size:clamp(1.1rem,2.1vw,1.4rem);color:#f0c674;margin:10px auto 24px;max-width:48ch;text-wrap:balance}
+  .hero .acciones{justify-content:center}
   .acciones{display:flex;gap:12px;flex-wrap:wrap}
 
   /* Por qué */
@@ -164,7 +166,7 @@
     .listas,.rejilla-2,.dos-col{grid-template-columns:1fr}
     .rejilla-4{grid-template-columns:1fr}
     .seccion{padding:64px 0}
-    .hero{min-height:calc(520px + 40vw);padding:64px 0 0}
+    .hero{min-height:calc(330px + 72vw);padding:56px 0 0}
     .hero .boton.secundario{background:rgba(7,8,10,.7)}
     .hero::before{left:-45%;right:-45%;background-image:url("img/cabecera-movil.jpg")}
     .nav .boton{display:none}
@@ -200,8 +202,8 @@
   <header class="hero">
     <div class="envoltura">
       <p class="ficha">WoW Forever, Europa, Alianza, PvE, en castellano</p>
-      <h1>El Último<br>Baile</h1>
-      <p class="lema">«Una hermandad de raid tranquila y entre amigos. Aquí desde el primer día.»</p>
+      <h1>El Último Baile</h1>
+      <p class="lema">Hermandad entre amigos. Aquí desde el primer día.</p>
       <div class="acciones">
         <a class="boton" href="https://discord.gg/yc89W4YpF" rel="noopener">Entrar al Discord</a>
         <a class="boton secundario" href="#raids">Noches de raid</a>
