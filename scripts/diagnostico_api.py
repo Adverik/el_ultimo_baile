@@ -83,8 +83,16 @@ def main():
     print(f"\n(temporada encontrada: {'sí' if temporada else 'no'}, periodo encontrado: {'sí' if per else 'no'})")
     if temporada:
         mostrar("Historial de botín", f"/v1/loot_history/{temporada}")
+        mostrar("Historial de botín (temporada anterior)", f"/v1/loot_history/{temporada - 1}")
     if per:
         mostrar("Actividad del periodo", f"/v1/historical_data?period={per}")
+        mostrar("Actividad del periodo anterior", f"/v1/historical_data?period={per - 1}")
+        mostrar("Actividad de hace dos periodos", f"/v1/historical_data?period={per - 2}")
+    # Valores de estado y dificultad de las raids (solo valores distintos, son etiquetas, no datos personales)
+    if isinstance(lista, list):
+        estados = sorted({str(r.get("status")) for r in lista if isinstance(r, dict)})
+        dific = sorted({str(r.get("difficulty")) for r in lista if isinstance(r, dict)})
+        print(f"\n(estados de raid: {estados}; dificultades: {dific})")
     mostrar("Asistencia", "/v1/attendance")
 
 
