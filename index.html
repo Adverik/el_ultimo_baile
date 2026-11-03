@@ -108,6 +108,17 @@
   .kill .jefe{color:var(--rojo);font-weight:700;font-size:.92rem}
   .kill .meta{color:var(--suave);font-size:.92rem}
 
+  .proxima{background:var(--panel-2);border:1px solid var(--linea);border-left:4px solid var(--oro);border-radius:var(--radio);padding:18px 20px;margin-top:14px}
+  .proxima .fecha-grande{font-family:var(--display);font-size:1.5rem}
+  .proxima .detalle{color:var(--suave)}
+  .etiqueta-dif{display:inline-block;font-size:.8rem;font-weight:700;color:var(--oro);border:1px solid rgba(212,175,90,.4);border-radius:99px;padding:0 8px;margin-left:6px;vertical-align:middle}
+  .tabla-botin{margin-top:14px;background:var(--panel);border:1px solid var(--linea);border-radius:var(--radio);padding:4px 20px}
+  .tabla-botin table{width:100%;border-collapse:collapse}
+  .tabla-botin th{text-align:left;color:var(--suave);font-weight:500;font-size:.9rem;padding:12px 0;border-bottom:1px solid var(--linea)}
+  .tabla-botin td{padding:12px 0;border-bottom:1px solid var(--linea);vertical-align:top}
+  .tabla-botin tr:last-child td{border-bottom:0}
+  .tabla-botin td:first-child{color:var(--suave);white-space:nowrap;padding-right:16px;font-variant-numeric:tabular-nums}
+  .tabla-botin td:nth-child(2){font-weight:700;padding-right:16px}
   /* Reclutamiento */
   .perfiles{display:grid;grid-template-columns:repeat(3,1fr);gap:18px;margin-top:36px}
   .clases{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:12px;margin-top:18px}
@@ -259,12 +270,14 @@
   <section class="seccion" id="actividad" aria-labelledby="t-actividad">
     <div class="envoltura">
       <h2 id="t-actividad">Lo último de la hermandad</h2>
-      <p class="entradilla">Lo que hemos hecho últimamente, sacado automáticamente de wowaudit, y los jefes que han caído por primera vez.</p>
+      <p class="entradilla">Raids y botín sacados automáticamente de wowaudit, y los jefes que han caído por primera vez.</p>
       <div class="dos-col">
         <div>
-          <h3>Actividad reciente</h3>
-          <ul class="actividad" id="actividad-lista">
-            <li class="vacio">Pronto aparecerán aquí las últimas raids y mazmorras.</li>
+          <h3>Próxima raid</h3>
+          <div class="proxima" id="proxima-raid"><p class="vacio">Cargando…</p></div>
+          <h3 style="margin-top:32px">Últimas raids</h3>
+          <ul class="actividad" id="ultimas-raids">
+            <li class="vacio">Cargando…</li>
           </ul>
         </div>
         <div>
@@ -283,6 +296,8 @@
           </article>
         </div>
       </div>
+      <h3 style="margin-top:48px">Botín reciente</h3>
+      <div class="tabla-botin" id="botin-reciente"><p class="vacio">Cargando…</p></div>
     </div>
   </section>
 
@@ -419,20 +434,65 @@
       .catch(() => { counts.textContent = "No se ha podido cargar la hermandad. Vuelve a intentarlo en un rato."; });
   })();
 
-  // Actividad: actividad.json lo generará el robot (siguiente paso). Si aún no existe, se deja el aviso.
+  // Actividad: actividad.json lo genera el robot desde wowaudit (raids y botín). Todo con textContent.
   (function () {
-    const lista = document.getElementById("actividad-lista");
+    const fmt = f => {
+      const d = new Date(f + "T12:00:00");
+      return isNaN(d) ? f : d.toLocaleDateString("es-ES", { weekday: "short", day: "numeric", month: "short", year: "numeric" });
+    };
+    const proxima = document.getElementById("proxima-raid");
+    const ultimas = document.getElementById("ultimas-raids");
+    const botin = document.getElementById("botin-reciente");
+    const vacio = (cont, texto, tag) => cont.replaceChildren(el(tag || "p", "vacio", texto));
+
     fetch("actividad.json", { cache: "no-cache" })
       .then(r => { if (!r.ok) throw new Error(r.status); return r.json(); })
-      .then(data => {
-        if (!Array.isArray(data) || !data.length) return;
-        lista.replaceChildren(...data.slice(0, 3).map(a => {
-          const li = el("li");
-          li.append(el("span", "cuando", String(a.fecha || "")), el("span", "que", String(a.titulo || "")), el("span", "detalle", String(a.detalle || "")));
-          return li;
-        }));
+      .then(d => {
+        // Próxima raid
+        const p = d && d.proxima_raid;
+        if (p && p.fecha) {
+          const titulo = el("div", "fecha-grande", fmt(p.fecha));
+          const det = el("div", "detalle", [p.titulo, p.instancia].filter(Boolean).join(", "));
+          if (p.dificultad) det.append(el("span", "etiqueta-dif", p.dificultad));
+          const ap = Number.isInteger(p.apuntados) ? el("div", "detalle", p.apuntados + " apuntados") : "";
+          proxima.replaceChildren(titulo, det, ap);
+        } else vacio(proxima, "No hay ninguna raid planificada.");
+
+        // Últimas raids
+        const lista = Array.isArray(d && d.ultimas_raids) ? d.ultimas_raids : [];
+        if (lista.length) {
+          ultimas.replaceChildren(...lista.map(r => {
+            const li = el("li");
+            const que = el("span", "que", r.titulo || r.instancia || "Raid");
+            if (r.dificultad) que.append(el("span", "etiqueta-dif", r.dificultad));
+            const extra = [r.titulo ? r.instancia : "", Number.isInteger(r.apuntados) ? r.apuntados + " apuntados" : ""].filter(Boolean).join(", ");
+            li.append(el("span", "cuando", fmt(r.fecha)), que, el("span", "detalle", extra));
+            return li;
+          }));
+        } else vacio(ultimas, "Todavía no hay raids pasadas.", "li");
+
+        // Botín
+        const items = Array.isArray(d && d.botin) ? d.botin : [];
+        if (items.length) {
+          const tabla = el("table");
+          const cab = el("tr");
+          ["Fecha", "Quién", "Objeto"].forEach(t => cab.append(el("th", "", t)));
+          const thead = el("thead"); thead.append(cab);
+          const tbody = el("tbody");
+          items.forEach(b => {
+            const tr = el("tr");
+            tr.append(el("td", "", b.fecha ? fmt(b.fecha) : ""), el("td", "", b.personaje || ""), el("td", "", b.objeto || ""));
+            tbody.append(tr);
+          });
+          tabla.append(thead, tbody);
+          botin.replaceChildren(tabla);
+        } else vacio(botin, "Aún no hay botín registrado. Aparecerá aquí en cuanto el reparto se registre en wowaudit.");
       })
-      .catch(() => {});
+      .catch(() => {
+        vacio(proxima, "No se ha podido cargar.");
+        vacio(ultimas, "No se ha podido cargar.", "li");
+        vacio(botin, "No se ha podido cargar.");
+      });
   })();
 </script>
 </body>
