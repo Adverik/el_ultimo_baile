@@ -8,8 +8,8 @@
 <meta name="theme-color" content="#07080a">
 <meta name="color-scheme" content="dark">
 <title>El Último Baile, hermandad de WoW Forever</title>
-<link rel="preload" as="image" href="img/cabecera-p5.jpg" media="(min-width: 721px)">
-<link rel="preload" as="image" href="img/cabecera-p5-movil.jpg" media="(max-width: 720px)">
+<link rel="preload" as="image" href="img/escudo.jpg" media="(min-width: 721px)">
+<link rel="preload" as="image" href="img/escudo-movil.jpg" media="(max-width: 720px)">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@500;600;700&family=Manrope:wght@300;400;500;600;700&display=swap" rel="stylesheet">
@@ -26,6 +26,7 @@
     --oro-claro:#f1d28a;
     --oro-oscuro:#a67c2e;
     --azul-noche:#0d1a3a;
+    --azul:#5b8dff;                  /* acento del escudo (ojos del dragón) */
     --radio:2px;
     --titulos:"Cinzel", Georgia, serif;
     --texto-f:"Manrope", system-ui, sans-serif;
@@ -62,7 +63,7 @@
 
   /* Secciones y separador con rombo */
   .seccion{position:relative;padding:110px 0;border-top:1px solid var(--linea)}
-  .seccion::before{content:"";position:absolute;top:-7px;left:50%;width:12px;height:12px;margin-left:-6px;transform:rotate(45deg);background:var(--fondo);border:1px solid var(--oro)}
+  .seccion::before{content:"";position:absolute;top:-7px;left:50%;width:12px;height:12px;margin-left:-6px;transform:rotate(45deg);background:var(--fondo);border:1px solid var(--oro);box-shadow:0 0 10px rgba(91,141,255,.55)}
 
   /* Barra superior fija: marca, enlaces y botón en una fila (en móvil los enlaces bajan a una segunda fila) */
   .barra{position:sticky;top:0;z-index:30;background:rgba(7,8,10,.94);backdrop-filter:blur(8px);border-bottom:1px solid var(--filete)}
@@ -73,31 +74,36 @@
   .barra nav ul{list-style:none;display:flex;gap:26px;margin:0;padding:0;overflow-x:auto;scrollbar-width:none}
   .barra nav ul::-webkit-scrollbar{display:none}
   .barra nav a{font:600 .78rem/1 var(--texto-f);letter-spacing:.2em;text-transform:uppercase;color:var(--suave);text-decoration:none;white-space:nowrap;padding:6px 0;display:inline-block}
-  .barra nav a:hover,.barra nav a.activo{color:var(--oro-claro)}
+  .barra nav a.activo{color:var(--oro-claro)}
+  .barra nav a:hover{color:#a9c4ff}
 
   /* Cabecera: título, línea de datos, frase y la imagen completa debajo, separada */
   .hero{position:relative;padding:28px 0 8px;overflow:hidden;text-align:center;
     background:
       radial-gradient(700px 360px at 50% 0%,rgba(210,169,85,.12),transparent 70%),
-      radial-gradient(1100px 420px at 50% 100%,rgba(224,112,47,.18),transparent 70%),var(--fondo)}
-  /* Título: logo de hierro (img/logo.jpg, fondo negro que se funde con la web) */
+      radial-gradient(900px 420px at 50% 60%,rgba(60,100,210,.14),transparent 70%),var(--fondo)}
+  /* Título solo para lectores de pantalla: el nombre va en el escudo */
   .oculto{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
-  .logo-movil{display:none}
   .hero .ficha{display:flex;align-items:center;justify-content:center;gap:22px;font:600 .8rem/1.4 var(--texto-f);letter-spacing:.3em;text-transform:uppercase;color:var(--oro);margin:28px auto 14px}
   .hero .ficha::before,.hero .ficha::after{content:"";flex:0 0 70px;height:1px;background:var(--oro)}
   .hero .lema{font:300 clamp(.95rem,1.4vw,1.1rem)/1.6 var(--texto-f);letter-spacing:.04em;color:var(--suave);margin:0 auto 24px;max-width:48ch}
   .acciones{display:flex;gap:16px;flex-wrap:wrap;justify-content:center}
+  /* Escudo: fondo negro puro que se funde con la web (lighten) y la luz de arriba se difumina */
+  .escudo{display:block;margin:0 auto;width:min(480px,86vw);height:auto;mix-blend-mode:lighten;
+    -webkit-mask-image:linear-gradient(180deg,transparent 0%,#000 12%);mask-image:linear-gradient(180deg,transparent 0%,#000 12%)}
+  /* Imagen de cierre (Prueba_5) al final de la página */
+  .cierre{border-top:1px solid var(--linea);padding:0 0 20px;position:relative}
   .hero-imagen{position:relative;margin:0 auto;width:min(100%,1180px);aspect-ratio:2752/1536;
     background:url("img/cabecera-p5.jpg") center/cover no-repeat;
-    -webkit-mask-image:linear-gradient(180deg,transparent 0%,#000 8%,#000 100%),linear-gradient(90deg,transparent 0%,#000 5%,#000 95%,transparent 100%);
-            mask-image:linear-gradient(180deg,transparent 0%,#000 8%,#000 100%),linear-gradient(90deg,transparent 0%,#000 5%,#000 95%,transparent 100%);
+    -webkit-mask-image:linear-gradient(180deg,transparent 0%,#000 10%,#000 88%,transparent 100%),linear-gradient(90deg,transparent 0%,#000 5%,#000 95%,transparent 100%);
+            mask-image:linear-gradient(180deg,transparent 0%,#000 10%,#000 88%,transparent 100%),linear-gradient(90deg,transparent 0%,#000 5%,#000 95%,transparent 100%);
     -webkit-mask-composite:source-in;mask-composite:intersect}
 
   /* Pilares */
   .pilares{display:grid;grid-template-columns:repeat(4,1fr);border-top:1px solid var(--filete);border-bottom:1px solid var(--filete)}
   .pilar{padding:44px 30px;text-align:center;border-left:1px solid var(--linea)}
   .pilar:first-child{border-left:0}
-  .pilar .rombo{display:block;color:var(--oro);font-size:.85rem;margin-bottom:22px;text-shadow:0 0 10px rgba(210,169,85,.6)}
+  .pilar .rombo{display:block;color:var(--oro);font-size:.85rem;margin-bottom:22px;text-shadow:0 0 10px rgba(91,141,255,.7)}
   .pilar h3{margin-bottom:18px}
   .pilar p{color:var(--suave);margin:0}
   .frase{text-align:center;font-family:var(--titulos);font-size:clamp(1.2rem,2.6vw,1.9rem);letter-spacing:.1em;text-transform:uppercase;color:var(--oro);padding:40px 0;border-bottom:1px solid var(--filete);margin:0}
@@ -227,7 +233,6 @@
     .hero .lema{margin:0 auto 24px}
     .hero-imagen{width:100%;background-image:url("img/cabecera-p5-movil.jpg")}
     /* En móvil el nombre de la imagen se lee pequeño: se añade el logo debajo */
-    .logo-movil{display:block;width:100%;height:auto;margin:18px auto 0;mix-blend-mode:lighten}
     .hero .ficha{margin-top:10px}
     .pilares{grid-template-columns:1fr}
     .pilar{border-left:0;border-top:1px solid var(--linea);padding:34px 8px}
@@ -275,9 +280,11 @@
 <main>
   <section class="hero" id="inicio" aria-labelledby="t-hero">
     <h1 class="oculto">El Último Baile</h1>
-    <div class="hero-imagen" role="img" aria-label="Los diez personajes de la hermandad sobre una roca frente a la mazmorra entre lava, con el nombre El Último Baile en letras de hierro"></div>
+    <picture>
+      <source media="(max-width: 720px)" srcset="img/escudo-movil.jpg">
+      <img class="escudo" src="img/escudo.jpg" width="1000" height="1000" alt="Escudo de El Último Baile: cabeza de dragón con ojos azules mordiendo una cinta con el nombre, sobre un aro de runas, con un hacha y una espada cruzadas y alas desplegadas">
+    </picture>
     <div class="envoltura">
-      <img class="logo-movil" src="img/logo.jpg" width="1800" height="293" alt="">
       <p class="ficha">WoW Forever · EU · Alianza · PvE</p>
       <p class="lema">Hermandad entre amigos. Aquí desde el primer día.</p>
     </div>
@@ -439,6 +446,10 @@
         <p class="contactos"><span>Oficiales</span><b>Hyo</b> · <b>Lay</b> · <b>Palmi</b></p>
       </div>
     </div>
+  </section>
+
+  <section class="cierre" aria-label="Los diez de la hermandad">
+    <div class="hero-imagen" role="img" aria-label="Los diez personajes de la hermandad sobre una roca frente a la mazmorra entre lava, con el nombre El Último Baile en letras de hierro"></div>
   </section>
 </main>
 
