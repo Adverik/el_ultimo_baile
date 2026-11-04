@@ -162,6 +162,9 @@
   .perfil-lista li:first-child{border-left:0}
   .perfil-lista strong{display:block;font-family:var(--titulos);font-weight:600;font-size:.95rem;letter-spacing:.14em;text-transform:uppercase;color:var(--oro-claro);margin-bottom:10px}
   .perfil-lista span{color:#c9c6bd;font-size:.98rem}
+  .perfil-lista b{color:var(--texto);font-weight:600}
+  #reclutamiento .cabecera-seccion{margin-bottom:18px}
+  #reclutamiento .entradilla{margin-top:14px}
   .dos-marco{display:grid;grid-template-columns:1fr 1fr;gap:56px}
   .dos-marco h3{margin-bottom:16px}
   .dos-marco p{color:#c9c6bd}
@@ -171,9 +174,11 @@
   .clase h4{margin:0;font-family:var(--titulos);font-size:1rem;letter-spacing:.16em;text-transform:uppercase;color:var(--c);display:flex;align-items:center;gap:10px}
   .clase h4 .icono{width:22px;height:22px;display:grid;place-items:center;font-size:.78rem;color:#0a0a0a;background:var(--c)}
   .clase .raya{height:1px;margin:12px 0 12px;background:linear-gradient(90deg,var(--c),transparent)}
-  .specs{list-style:none;margin:0;padding:0;display:flex;flex-wrap:wrap;gap:8px}
-  .spec{font:600 .74rem/1 var(--texto-f);letter-spacing:.12em;text-transform:uppercase;padding:7px 10px;border:1px solid rgba(134,211,156,.45);color:#9fe0b2;background:rgba(134,211,156,.07)}
-  .spec.cerrada{border-color:#2a2d35;color:#5d616b;background:none;text-decoration:line-through}
+  .specs{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:1fr 1fr;gap:8px}
+  .spec{display:flex;align-items:center;gap:8px;font:600 .72rem/1.2 var(--texto-f);letter-spacing:.08em;text-transform:uppercase;white-space:nowrap;padding:9px 10px;border:1px solid rgba(134,211,156,.4);color:#9fe0b2;background:rgba(134,211,156,.06)}
+  .spec::before{content:"";flex:0 0 7px;height:7px;border-radius:50%;background:#86d39c;box-shadow:0 0 6px rgba(134,211,156,.7)}
+  .spec.cerrada{border-color:#2a2d35;color:#6d717b;background:none}
+  .spec.cerrada::before{background:#4a4e58;box-shadow:none}
   .nota-lista{text-align:center;color:var(--suave);font-size:.95rem;margin-top:22px}
 
   /* Miembros */
@@ -410,9 +415,9 @@
       <div class="perfiles">
         <p class="intro-perfiles">Raidees, hayas raideado o no pienses hacerlo nunca, aquí tienes sitio.</p>
         <ul class="perfil-lista">
-          <li><strong>Si vuelves al juego</strong><span>Da igual cuánto tiempo hayas estado fuera: te ponemos al día.</span></li>
-          <li><strong>Si eres nuevo</strong><span>Nadie espera que llegues sabiéndote los combates: te los explicamos sobre la marcha.</span></li>
-          <li><strong>Si tienes experiencia</strong><span>Trae lo que sabes y ayúdanos a que el grupo funcione mejor.</span></li>
+          <li><strong>Si vuelves al juego</strong><span>Da igual cuánto tiempo hayas estado fuera: <b>te ponemos al día</b>.</span></li>
+          <li><strong>Si eres nuevo</strong><span>Nadie espera que llegues sabiéndote los combates: <b>te los explicamos</b>.</span></li>
+          <li><strong>Si tienes experiencia</strong><span><b>Trae lo que sabes</b> y ayúdanos a que el grupo funcione mejor.</span></li>
         </ul>
       </div>
       <div class="marco dos-marco">
@@ -429,7 +434,7 @@
       </div>
       <h3 class="titulo-lista">Lo que necesita la raid ahora mismo</h3>
       <div class="clases" id="clases"></div>
-      <p class="nota-lista">Actualizado el 4 de noviembre de 2026: todo abierto para el lanzamiento. En verde, lo que buscamos; tachado, lo que ya está cubierto. Si tu spec está cubierta para raid, eres igual de bienvenido como social.</p>
+      <p class="nota-lista">Actualizado el 4 de noviembre de 2026: todo abierto para el lanzamiento. En verde, lo que buscamos; en gris, lo que ya está cubierto. Si tu spec está cubierta para raid, eres igual de bienvenido como social.</p>
     </div>
   </section>
 
@@ -506,17 +511,17 @@
 
   // Reclutamiento: edita aquí qué clases buscáis y para qué rol
   (function () {
-    // Specs que busca la raid. Para cerrar una, pásala a la lista "cerradas" de su clase.
+    // Specs que busca la raid. Para marcar una como cubierta, añádela a la lista "cerradas" de su clase.
     const PUESTOS = [
-      ["druid",   ["Tank", "Feral", "Balance", "Resto"], []],
-      ["paladin", ["Holy", "Protec", "Retri"], []],
-      ["shaman",  ["Resto", "Elemental", "Mejora"], []],
-      ["priest",  ["Holy", "Disci", "Shadow"], []],
-      ["warrior", ["Protec", "Arms", "Fury"], []],
-      ["hunter",  ["BM", "Puntería", "Superv."], []],
-      ["mage",    ["Arcano", "Fuego", "Escarcha"], []],
-      ["warlock", ["Aflicción", "Demono", "Destru"], []],
-      ["rogue",   ["Asesinato", "Combate", "Sutileza"], []]
+      ["druid",   ["Tank", "Feral", "Balance", "Restoration"], []],
+      ["paladin", ["Holy", "Protection", "Retribution"], []],
+      ["shaman",  ["Restoration", "Elemental", "Enhancement"], []],
+      ["priest",  ["Holy", "Discipline", "Shadow"], []],
+      ["warrior", ["Protection", "Arms", "Fury"], []],
+      ["hunter",  ["Beast Mastery", "Marksmanship", "Survival"], []],
+      ["mage",    ["Arcane", "Fire", "Frost"], []],
+      ["warlock", ["Affliction", "Demonology", "Destruction"], []],
+      ["rogue",   ["Assassination", "Combat", "Subtlety"], []]
     ];
     const cont = document.getElementById("clases");
     cont.replaceChildren(...PUESTOS.map(([id, specs, cerradas]) => {
