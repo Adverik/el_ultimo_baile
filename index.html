@@ -53,8 +53,6 @@
   .boton:hover{filter:brightness(1.08)}
   .boton.secundario{background:rgba(7,8,10,.6);color:var(--texto);border-color:rgba(201,162,82,.45);box-shadow:none}
   .boton.secundario:hover{border-color:var(--oro)}
-  .aviso{max-width:680px;margin:22px auto 0;padding:12px 18px;border:1px dashed rgba(210,169,85,.55);background:rgba(210,169,85,.06);color:#d9cfb6;font-size:.98rem;text-align:center}
-  .aviso b{color:var(--oro-claro);font-weight:600;letter-spacing:.04em}
   .provisional{display:inline-block;font:500 .72rem/1.6 var(--texto-f);letter-spacing:.08em;text-transform:none;color:var(--suave);border:1px dashed #3d404a;border-radius:99px;padding:0 10px;vertical-align:middle}
 
   /* Panel con esquinas doradas */
@@ -121,7 +119,7 @@
   /* Botín */
   .botin{display:grid;grid-template-columns:1fr 1.3fr;gap:64px;align-items:center}
   .destacado-botin{text-align:center;padding:40px 24px;border-top:1px solid var(--filete);border-bottom:1px solid var(--filete)}
-  .destacado-botin .grande{font-family:var(--titulos);font-weight:700;font-size:clamp(1.5rem,2.6vw,2rem);letter-spacing:.06em;line-height:1.15;margin:10px 0 16px;
+  .destacado-botin .grande{font-family:var(--titulos);font-weight:700;font-size:clamp(2rem,4.5vw,3.2rem);letter-spacing:.06em;line-height:1.1;margin:10px 0 18px;
     background:linear-gradient(180deg,#f3d896 0%,#d2a955 50%,#9d7429 100%);-webkit-background-clip:text;background-clip:text;color:transparent}
   .destacado-botin p{color:var(--suave);font-size:.95rem;margin:0}
   .definiciones{margin:0}
@@ -315,7 +313,7 @@
         <div class="pilar"><span class="rombo">◆</span><h3>La vida</h3><p>El trabajo, la familia y el descanso van antes que el juego. Adaptamos las raids a nuestra vida, no al revés.</p></div>
         <div class="pilar"><span class="rombo">◆</span><h3>Raids</h3><p>Dos noches a la semana, organizados para avanzar sin convertirlo en una obligación.</p></div>
         <div class="pilar"><span class="rombo">◆</span><h3>Compañía</h3><p>Fuera de raid también hay vida: mazmorras, alters, profesiones, JcJ o simplemente charlar en Discord.</p></div>
-        <div class="pilar"><span class="rombo">◆</span><h3>Reparto justo</h3><p>Criterios claros y públicos: a quién le sirve más, quién viene y qué se ha llevado ya cada uno.</p></div>
+        <div class="pilar"><span class="rombo">◆</span><h3>Reparto justo</h3><p>El botín lo reparte un consejo con criterios claros: a quién le sirve más, quién viene y qué se ha llevado ya cada uno.</p></div>
       </div>
       <p class="frase">La raid nos une. La amistad permanece.</p>
     </div>
@@ -351,7 +349,7 @@
             </ul>
           </div>
         </div>
-        <p class="pie-marco">Cómo se reparte el botín lo tienes <a href="#botin">justo debajo</a>.</p>
+        <p class="pie-marco">El botín lo decide un consejo. Tienes la <a href="#botin">versión corta</a> justo debajo.</p>
       </div>
     </div>
   </section>
@@ -361,19 +359,18 @@
       <div class="cabecera-seccion">
         <span class="etiqueta">Botín</span>
         <h2 id="t-botin">El botín, en corto</h2>
-        <p class="entradilla">Cada objeto se reparte con criterios conocidos por todos y dejando constancia de cada reparto.</p>
-        <p class="aviso"><b>En revisión.</b> Aún estamos decidiendo entre todos el sistema de reparto (consejo de botín, DKP o EPGP). Lo publicaremos aquí antes de la primera raid.</p>
+        <p class="entradilla">Repartimos con un consejo de botín usando RCLootCouncil. Cada objeto se decide en el momento, con criterios conocidos por todos y dejando constancia de cada reparto. <span class="provisional">Pendiente de confirmar</span></p>
       </div>
       <div class="botin">
         <div class="destacado-botin">
-          <span class="etiqueta">El sistema</span>
-          <div class="grande">Lo decidimos juntos</div>
-          <p>Sea cual sea el sistema, las reglas se publican antes de empezar y se aplican igual para todos.</p>
+          <span class="etiqueta">Quién decide</span>
+          <div class="grande">El consejo</div>
+          <p>Los oficiales votan con criterios claros y publicados. Todo queda registrado y cualquiera puede ver qué se ha llevado quién.</p>
         </div>
         <dl class="definiciones">
-          <div class="definicion"><dt>Criterios<small>Públicos</small></dt><dd>Lo que te aporta el objeto, tu spec principal antes que la secundaria, tu asistencia y lo que te has llevado últimamente.</dd></div>
-          <div class="definicion"><dt>Registro<small>Abierto</small></dt><dd>Cada reparto se guarda y se ve en esta web: qué se ha llevado quién y cuándo.</dd></div>
-          <div class="definicion"><dt>Para todos<small>Sin excepciones</small></dt><dd>Las mismas reglas para oficiales, veteranos y recién llegados.</dd></div>
+          <div class="definicion"><dt>Cae un objeto<small>Tu respuesta</small></dt><dd>Aparece en tu pantalla y eliges cuánto te interesa: gran mejora, mejora pequeña, para otra especialización o paso.</dd></div>
+          <div class="definicion"><dt>Decide<small>El consejo</small></dt><dd>Los oficiales votan teniendo en cuenta lo que te aporta el objeto, tu lista de deseos, tu asistencia y lo que te has llevado últimamente.</dd></div>
+          <div class="definicion"><dt>Registro<small>En wowaudit</small></dt><dd>Cada reparto se guarda. Cualquiera puede ver qué se ha llevado quién y cuándo.</dd></div>
           <div class="definicion"><dt>Dudas<small>Fuera de la raid</small></dt><dd>Si no estás de acuerdo, se habla con calma con un oficial. Las decisiones se explican, no se discuten en el chat de banda.</dd></div>
         </dl>
       </div>
