@@ -1,0 +1,38 @@
+name: Avisos de reclutamiento en Discord
+
+on:
+  push:
+    branches: [main]
+    paths: [reclutamiento.json]
+  workflow_dispatch:
+    inputs:
+      prueba:
+        description: "Mandar un mensaje de prueba al canal"
+        type: boolean
+        default: true
+
+# Solo lee el repo: no puede cambiar nada
+permissions:
+  contents: read
+
+jobs:
+  avisar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 3
+    env:
+      DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+    steps:
+      - name: Descargar el repo (con el cambio anterior)
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+
+      - name: Mensaje de prueba
+        if: github.event_name == 'workflow_dispatch' && inputs.prueba
+        run: python3 scripts/avisar_discord.py prueba
+
+      - name: Comparar reclutamiento y avisar
+        if: github.event_name == 'push'
+        run: |
+          git show HEAD~1:reclutamiento.json > "$RUNNER_TEMP/reclutamiento_antes.json" 2>/dev/null || echo '{}' > "$RUNNER_TEMP/reclutamiento_antes.json"
+          python3 scripts/avisar_discord.py reclutamiento "$RUNNER_TEMP/reclutamiento_antes.json"

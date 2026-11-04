@@ -1,0 +1,14 @@
+{
+  "actualizado": "2026-11-04",
+  "clases": [
+    { "clase": "druid",   "specs": ["Tank", "Feral", "Balance", "Restoration"], "cerradas": [] },
+    { "clase": "paladin", "specs": ["Holy", "Protection", "Retribution"], "cerradas": [] },
+    { "clase": "shaman",  "specs": ["Restoration", "Elemental", "Enhancement"], "cerradas": [] },
+    { "clase": "priest",  "specs": ["Holy", "Discipline", "Shadow"], "cerradas": [] },
+    { "clase": "warrior", "specs": ["Protection", "Arms", "Fury"], "cerradas": [] },
+    { "clase": "hunter",  "specs": ["Beast Mastery", "Marksmanship", "Survival"], "cerradas": ["Beast Mastery", "Marksmanship", "Survival"] },
+    { "clase": "mage",    "specs": ["Arcane", "Fire", "Frost"], "cerradas": [] },
+    { "clase": "warlock", "specs": ["Affliction", "Demonology", "Destruction"], "cerradas": [] },
+    { "clase": "rogue",   "specs": ["Assassination", "Combat", "Subtlety"], "cerradas": [] }
+  ]
+}

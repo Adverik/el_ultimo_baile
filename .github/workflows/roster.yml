@@ -24,6 +24,11 @@ jobs:
       - name: Descargar el repo
         uses: actions/checkout@v4
 
+      - name: Guardar el estado anterior (para los avisos)
+        run: |
+          mkdir -p "$RUNNER_TEMP/antes"
+          cp roster.json actividad.json "$RUNNER_TEMP/antes/" 2>/dev/null || true
+
       - name: Roster
         run: python3 scripts/actualizar_roster.py
 
@@ -45,3 +50,8 @@ jobs:
           [ -f discord.json ] && git add discord.json
           git commit -m "Actualiza datos (wowaudit y Discord)"
           git push
+
+      - name: Avisar en Discord de los cambios
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+        run: python3 scripts/avisar_discord.py datos "$RUNNER_TEMP/antes"

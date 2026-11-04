@@ -442,7 +442,7 @@
       </div>
       <h3 class="titulo-lista">Reclutamos para raid</h3>
       <div class="clases" id="clases"></div>
-      <p class="nota-lista">Actualizado el 4 de noviembre de 2026. En verde, abierto; en rojo, cerrado. Si tu spec está cerrada para raid, eres igual de bienvenido como social.</p>
+      <p class="nota-lista" id="nota-reclutamiento">Actualizado el 4 de noviembre de 2026. <span>En verde, abierto; en rojo, cerrado. Si tu spec está cerrada para raid, eres igual de bienvenido como social.</span></p>
     </div>
   </section>
 
@@ -517,32 +517,34 @@
     secciones.forEach(s => obs.observe(s));
   })();
 
-  // Reclutamiento: edita aquí qué clases buscáis y para qué rol
+  // Reclutamiento
   (function () {
-    // Specs que busca la raid. Para cerrar una (sale en rojo), añádela a la lista "cerradas" de su clase.
-    const PUESTOS = [
-      ["druid",   ["Tank", "Feral", "Balance", "Restoration"], []],
-      ["paladin", ["Holy", "Protection", "Retribution"], []],
-      ["shaman",  ["Restoration", "Elemental", "Enhancement"], []],
-      ["priest",  ["Holy", "Discipline", "Shadow"], []],
-      ["warrior", ["Protection", "Arms", "Fury"], []],
-      ["hunter",  ["Beast Mastery", "Marksmanship", "Survival"], ["Beast Mastery", "Marksmanship", "Survival"]],
-      ["mage",    ["Arcane", "Fire", "Frost"], []],
-      ["warlock", ["Affliction", "Demonology", "Destruction"], []],
-      ["rogue",   ["Assassination", "Combat", "Subtlety"], []]
-    ];
+    // Specs que busca la raid: vienen de reclutamiento.json. Para cerrar una (sale en rojo),
+    // añádela a "cerradas" de su clase en ese fichero. El robot avisa en Discord del cambio.
     const cont = document.getElementById("clases");
-    cont.replaceChildren(...PUESTOS.map(([id, specs, cerradas]) => {
-      const [nombre, color] = CLASES[id];
-      const caja = el("div", "clase");
-      caja.style.setProperty("--c", color);
-      const h = el("h4");
-      h.append(el("span", "icono", nombre[0]), nombre);
-      const ul = el("ul", "specs");
-      specs.forEach(sp => ul.append(el("li", "spec" + (cerradas.includes(sp) ? " cerrada" : ""), sp)));
-      caja.append(h, el("div", "raya"), ul);
-      return caja;
-    }));
+    const nota = document.getElementById("nota-reclutamiento");
+    fetch("reclutamiento.json", { cache: "no-cache" })
+      .then(r => { if (!r.ok) throw new Error(r.status); return r.json(); })
+      .then(d => {
+        const clases = Array.isArray(d.clases) ? d.clases : [];
+        cont.replaceChildren(...clases.filter(c => CLASES[c.clase]).map(c => {
+          const [nombre, color] = CLASES[c.clase];
+          const cerradas = Array.isArray(c.cerradas) ? c.cerradas : [];
+          const caja = el("div", "clase");
+          caja.style.setProperty("--c", color);
+          const h = el("h4");
+          h.append(el("span", "icono", nombre[0]), nombre);
+          const ul = el("ul", "specs");
+          (Array.isArray(c.specs) ? c.specs : []).forEach(sp =>
+            ul.append(el("li", "spec" + (cerradas.includes(sp) ? " cerrada" : ""), String(sp))));
+          caja.append(h, el("div", "raya"), ul);
+          return caja;
+        }));
+        const f = new Date(String(d.actualizado) + "T12:00:00");
+        if (!isNaN(f) && nota) nota.firstChild.textContent = "Actualizado el " +
+          f.toLocaleDateString("es-ES", { day: "numeric", month: "long", year: "numeric" }) + ". ";
+      })
+      .catch(() => { cont.replaceChildren(el("p", "vacio", "No se ha podido cargar el reclutamiento. Pregunta en Discord.")); });
   })();
 
   // Raiders: roster.json lo genera el robot desde la API de wowaudit (la clave nunca está en este repo).
