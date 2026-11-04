@@ -208,6 +208,9 @@
   /* Únete */
   .unete{text-align:center}
   .unete .entradilla{margin-bottom:36px}
+  .discord-recuento{margin:22px 0 0;color:var(--suave);font-size:.95rem}
+  .discord-recuento strong{font-family:var(--titulos);font-size:1.25rem;color:var(--oro-claro);margin-right:4px}
+  .discord-recuento .punto{display:inline-block;width:8px;height:8px;border-radius:50%;background:#86d39c;box-shadow:0 0 6px rgba(134,211,156,.8);margin:0 6px 1px 18px}
   .contactos{margin-top:34px;display:flex;justify-content:center;align-items:baseline;flex-wrap:wrap;gap:8px 10px;font-size:1.05rem}
   .contactos span{font:600 .75rem/1 var(--texto-f);letter-spacing:.24em;text-transform:uppercase;color:var(--suave);margin-right:10px}
   .contactos b{font-weight:600}
@@ -464,6 +467,7 @@
           <a class="boton" href="https://discord.gg/yc89W4YpF" rel="noopener">Entrar al Discord</a>
           <a class="boton secundario" href="#reclutamiento">Qué buscamos</a>
         </div>
+        <p class="discord-recuento" id="discord-recuento" hidden></p>
         <p class="contactos"><span>Oficiales</span><b>Hyo</b> · <b>Lay</b> · <b>Palmi</b></p>
       </div>
     </div>
@@ -588,6 +592,23 @@
         }));
       })
       .catch(() => { counts.textContent = "No se ha podido cargar la hermandad. Vuelve a intentarlo en un rato."; });
+  })();
+
+  // Discord: discord.json lo genera el robot (solo dos números, sin nombres). Sin datos, no se muestra.
+  (function () {
+    const p = document.getElementById("discord-recuento");
+    fetch("discord.json", { cache: "no-cache" })
+      .then(r => { if (!r.ok) throw new Error(r.status); return r.json(); })
+      .then(d => {
+        if (!Number.isInteger(d.miembros)) return;
+        p.replaceChildren(el("strong", "", String(d.miembros)), d.miembros === 1 ? "en el Discord" : "en el Discord");
+        if (Number.isInteger(d.conectados)) {
+          p.append(el("span", "punto"), el("strong", "", String(d.conectados)), "conectados");
+        }
+        p.title = "Se actualiza cada hora";
+        p.hidden = false;
+      })
+      .catch(() => {});
   })();
 
   // Actividad: actividad.json lo genera el robot desde wowaudit (raids y botín). Todo con textContent.

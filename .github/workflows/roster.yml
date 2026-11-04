@@ -1,4 +1,4 @@
-name: Actualizar datos desde wowaudit
+name: Actualizar datos (wowaudit y Discord)
 
 on:
   schedule:
@@ -30,14 +30,18 @@ jobs:
       - name: Raids y botín
         run: python3 scripts/actualizar_actividad.py
 
+      - name: Recuento de Discord
+        run: python3 scripts/actualizar_discord.py
+
       - name: Guardar cambios si los hay
         run: |
-          if git diff --quiet -- roster.json actividad.json && [ -z "$(git ls-files --others --exclude-standard -- actividad.json)" ]; then
+          if git diff --quiet -- roster.json actividad.json discord.json && [ -z "$(git ls-files --others --exclude-standard -- actividad.json discord.json)" ]; then
             echo "Sin cambios"
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add roster.json actividad.json
-          git commit -m "Actualiza datos desde wowaudit"
+          [ -f discord.json ] && git add discord.json
+          git commit -m "Actualiza datos (wowaudit y Discord)"
           git push
