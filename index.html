@@ -33,6 +33,7 @@
     --anillo:"Cinzel Decorative", "Cinzel", Georgia, serif;   /* capitales ornamentadas */
   }
   *{box-sizing:border-box}
+  [hidden]{display:none !important}
   html{scroll-behavior:smooth;scroll-padding-top:120px}
   body{margin:0;background:var(--fondo);color:var(--texto);font:300 1.0625rem/1.7 var(--texto-f)}
   a{color:var(--oro-claro)}
@@ -282,7 +283,7 @@
         <li><a href="#inicio">Inicio</a></li>
         <li><a href="#hermandad">La hermandad</a></li>
         <li><a href="#raids">Raids</a></li>
-        <li><a href="#botin">Botín</a></li>
+        <li><a href="#botin">Loot</a></li>
         <li><a href="#reclutamiento">Reclutamiento</a></li>
         <li><a href="#raiders">Raiders</a></li>
       </ul>
@@ -359,12 +360,13 @@
   <section class="seccion" id="botin" aria-labelledby="t-botin">
     <div class="envoltura">
       <div class="cabecera-seccion">
-        <span class="etiqueta">Botín</span>
+        <span class="etiqueta">Loot</span>
         <h2 id="t-botin">El botín, en corto</h2>
-        <p class="entradilla">Repartimos con un consejo de botín usando RCLootCouncil. Cada objeto se decide en el momento, con criterios conocidos por todos y dejando constancia de cada reparto.</p>
+        <!-- Oculto hasta decidir el sistema de reparto: quitar "hidden" para mostrarlo -->
+        <p class="entradilla" hidden>Repartimos con un consejo de botín usando RCLootCouncil. Cada objeto se decide en el momento, con criterios conocidos por todos y dejando constancia de cada reparto.</p>
         <p class="aviso"><b>En revisión.</b> Aún estamos decidiendo entre todos el sistema de reparto (consejo de botín, DKP o EPGP). Lo publicaremos aquí antes de la primera raid.</p>
       </div>
-      <div class="botin">
+      <div class="botin" hidden>
         <div class="destacado-botin">
           <span class="etiqueta">Quién decide</span>
           <div class="grande">Oficiales</div>
