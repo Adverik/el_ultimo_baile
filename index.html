@@ -8,11 +8,12 @@
 <meta name="theme-color" content="#07080a">
 <meta name="color-scheme" content="dark">
 <title>El Último Baile, hermandad de WoW Forever</title>
+<link rel="preload" as="image" href="img/logo.jpg">
 <link rel="preload" as="image" href="img/cabecera.jpg" media="(min-width: 721px)">
 <link rel="preload" as="image" href="img/cabecera-movil.jpg" media="(max-width: 720px)">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@900&family=Cinzel:wght@500;600;700&family=Manrope:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@500;600;700&family=Manrope:wght@300;400;500;600;700&display=swap" rel="stylesheet">
 <style>
   :root{
     --fondo:#07080a;
@@ -80,13 +81,9 @@
     background:
       radial-gradient(700px 360px at 50% 0%,rgba(210,169,85,.12),transparent 70%),
       radial-gradient(1100px 420px at 50% 100%,rgba(224,112,47,.18),transparent 70%),var(--fondo)}
-  /* Título: letras de metal oscuro con filo dorado y resplandor de lava, inspirado en capitales ornamentadas */
-  .hero h1{font-family:var(--anillo);font-weight:900;font-size:clamp(1.7rem,6.2vw,5.2rem);line-height:1.1;white-space:nowrap;letter-spacing:.03em;text-transform:uppercase;
-    color:#23262e;
-    background:linear-gradient(180deg,#4a4f5c 0%,#1b1d23 42%,#0e0f13 55%,#2f333d 100%);
-    -webkit-background-clip:text;background-clip:text;-webkit-text-fill-color:transparent;
-    -webkit-text-stroke:1.6px #dca54a;
-    filter:drop-shadow(0 1px 0 #f3cf7e) drop-shadow(0 4px 2px rgba(0,0,0,.9)) drop-shadow(0 0 18px rgba(230,140,50,.45))}
+  /* Título: logo de hierro (img/logo.jpg, fondo negro que se funde con la web) */
+  .hero h1{margin:0;line-height:0}
+  .hero h1 img{display:block;width:min(900px,100%);height:auto;margin:0 auto;mix-blend-mode:lighten}
   .hero .ficha{display:flex;align-items:center;justify-content:center;gap:22px;font:600 .8rem/1.4 var(--texto-f);letter-spacing:.3em;text-transform:uppercase;color:var(--oro);margin:20px auto 16px}
   .hero .ficha::before,.hero .ficha::after{content:"";flex:0 0 70px;height:1px;background:var(--oro)}
   .hero .lema{font:300 clamp(.95rem,1.4vw,1.1rem)/1.6 var(--texto-f);letter-spacing:.04em;color:var(--suave);margin:0 auto 24px;max-width:48ch}
@@ -221,7 +218,6 @@
     .barra nav ul{gap:22px;padding:10px 4px}
     .barra nav a{font-size:.72rem;letter-spacing:.18em}
     .hero{padding:44px 0 0}
-    .hero h1{-webkit-text-stroke:1px #dca54a;filter:drop-shadow(0 2px 1px rgba(0,0,0,.9)) drop-shadow(0 0 10px rgba(230,140,50,.4))}
     .hero .ficha{gap:12px;letter-spacing:.2em;font-size:.68rem}
     .hero .ficha::before,.hero .ficha::after{flex-basis:20px}
     .hero .lema{margin:0 auto 24px}
@@ -271,7 +267,7 @@
 <main id="inicio">
   <section class="hero" aria-labelledby="t-hero">
     <div class="envoltura">
-      <h1 id="t-hero">El Último Baile</h1>
+      <h1 id="t-hero"><img src="img/logo.jpg" width="1800" height="293" alt="El Último Baile"></h1>
       <p class="ficha">WoW Forever · EU · Alianza · PvE</p>
       <p class="lema">Hermandad entre amigos. Aquí desde el primer día.</p>
     </div>
