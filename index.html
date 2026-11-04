@@ -72,7 +72,7 @@
 
   /* Barra superior fija: marca, enlaces y botón en una fila (en móvil los enlaces bajan a una segunda fila) */
   .barra{position:sticky;top:0;z-index:30;background:rgba(7,8,10,.94);backdrop-filter:blur(8px);border-bottom:1px solid var(--filete)}
-  .barra .fila1{display:flex;align-items:center;gap:28px;height:76px}
+  .barra .fila1{display:flex;align-items:center;gap:28px;height:76px;max-width:1260px}
   .marca{display:flex;align-items:center;gap:12px;text-decoration:none;font-family:var(--titulos);font-weight:600;font-size:1.2rem;letter-spacing:.14em;text-transform:uppercase;color:var(--oro);white-space:nowrap}
   .barra nav{margin-left:auto}
   .barra .boton{padding:13px 22px;font-size:.78rem}
@@ -232,8 +232,8 @@
     .botin{grid-template-columns:1fr;gap:36px}
     .marco{padding:44px 32px}
   }
-  /* Menú en dos filas cuando no cabe en una (tablet y móvil) */
-  @media (max-width:1140px){
+  /* Menú en dos filas cuando no cabe en una (portátil pequeño, tablet y móvil) */
+  @media (max-width:1320px){
     .barra .fila1{height:auto;flex-wrap:wrap;gap:0 12px;padding-top:10px}
     .marca{flex:1}
     .barra nav{order:3;flex:0 0 100%;min-width:0;margin:8px 0 0;border-top:1px solid var(--linea)}
@@ -288,6 +288,7 @@
         <li><a href="#botin">Loot</a></li>
         <li><a href="#reclutamiento">Reclutamiento</a></li>
         <li><a href="#raiders">Raiders</a></li>
+        <li><a href="primera-semana.html">Primera semana</a></li>
       </ul>
     </nav>
     <a class="boton" href="https://discord.gg/E3YEKbZHAK" rel="noopener">Únete</a>
@@ -481,6 +482,7 @@
     <nav aria-label="Enlaces">
       <a href="https://discord.gg/E3YEKbZHAK" rel="noopener">Discord</a>
       <a href="#reclutamiento">Reclutamiento</a>
+      <a href="primera-semana.html">Primera semana</a>
       <a href="https://www.warcraftlogs.com" rel="noopener">Warcraft Logs</a>
       <a href="https://www.wowprogress.com" rel="noopener">WoWProgress</a>
     </nav>
@@ -505,7 +507,7 @@
 
   // Menú: marca el enlace de la sección visible
   (function () {
-    const enlaces = [...document.querySelectorAll(".barra nav a")];
+    const enlaces = [...document.querySelectorAll(".barra nav a")].filter(a => a.getAttribute("href").startsWith("#"));
     const secciones = enlaces.map(a => document.querySelector(a.getAttribute("href"))).filter(Boolean);
     if (!("IntersectionObserver" in window)) return;
     const obs = new IntersectionObserver(entradas => {
