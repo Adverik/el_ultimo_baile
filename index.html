@@ -10,10 +10,12 @@
 <title>El Último Baile, hermandad de WoW Forever</title>
 <link rel="preload" as="image" href="img/escudo.jpg" media="(min-width: 721px)">
 <link rel="preload" as="image" href="img/escudo-movil.jpg" media="(max-width: 720px)">
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@500;600;700&family=Manrope:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+<link rel="preload" href="fonts/manrope.woff" as="font" type="font/woff" crossorigin>
+<link rel="preload" href="fonts/cinzel.woff" as="font" type="font/woff" crossorigin>
 <style>
+  /* Fuentes servidas desde la propia web (licencia SIL OFL, ver fonts/). Sin peticiones a Google. */
+  @font-face{font-family:"Cinzel";src:url("fonts/cinzel.woff") format("woff");font-weight:400 900;font-style:normal;font-display:swap}
+  @font-face{font-family:"Manrope";src:url("fonts/manrope.woff") format("woff");font-weight:200 800;font-style:normal;font-display:swap}
   :root{
     --fondo:#07080a;
     --panel:#0c0d10;
@@ -216,6 +218,9 @@
   footer nav{display:flex;flex-wrap:wrap;gap:12px 28px;justify-content:flex-end;margin-bottom:22px}
   footer nav a{font:600 .78rem/1 var(--texto-f);letter-spacing:.22em;text-transform:uppercase;color:var(--texto);text-decoration:none}
   footer nav a:hover{color:var(--oro-claro)}
+  footer .legal{margin:16px 0 0;font-size:.85rem}
+  footer .legal a{color:var(--suave)}
+  footer .legal a:hover{color:var(--oro-claro)}
 
   @media (max-width:960px){
     .pilares{grid-template-columns:1fr 1fr}
@@ -476,6 +481,7 @@
       <a href="https://www.wowprogress.com" rel="noopener">WoWProgress</a>
     </nav>
     <div>World of Warcraft y Blizzard Entertainment son marcas de Blizzard Entertainment, Inc. El Último Baile es una hermandad de jugadores sin relación con Blizzard.</div>
+    <p class="legal"><a href="aviso-legal.html">Aviso legal y privacidad</a> · Sin cookies ni analítica</p>
   </div>
 </footer>
 
