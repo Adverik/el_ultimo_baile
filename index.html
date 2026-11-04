@@ -12,7 +12,7 @@
 <link rel="preload" as="image" href="img/cabecera-movil.jpg" media="(max-width: 720px)">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Almendra+Display&family=Cinzel:wght@500;600;700&family=Manrope:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Almendra:wght@700&family=Cinzel:wght@500;600;700&family=Manrope:wght@300;400;500;600;700&display=swap" rel="stylesheet">
 <style>
   :root{
     --fondo:#07080a;
@@ -29,7 +29,7 @@
     --radio:2px;
     --titulos:"Cinzel", Georgia, serif;
     --texto-f:"Manrope", system-ui, sans-serif;
-    --anillo:"Almendra Display", Georgia, serif;
+    --anillo:"Almendra", Georgia, serif;
   }
   *{box-sizing:border-box}
   html{scroll-behavior:smooth;scroll-padding-top:120px}
@@ -64,30 +64,33 @@
   .seccion{position:relative;padding:110px 0;border-top:1px solid var(--linea)}
   .seccion::before{content:"";position:absolute;top:-7px;left:50%;width:12px;height:12px;margin-left:-6px;transform:rotate(45deg);background:var(--fondo);border:1px solid var(--oro)}
 
-  /* Barra superior fija: marca + botón arriba, enlaces debajo */
+  /* Barra superior fija: marca, enlaces y botón en una fila (en móvil los enlaces bajan a una segunda fila) */
   .barra{position:sticky;top:0;z-index:30;background:rgba(7,8,10,.94);backdrop-filter:blur(8px);border-bottom:1px solid var(--filete)}
-  .barra .fila1{display:flex;align-items:center;justify-content:space-between;gap:16px;height:72px;border-bottom:1px solid var(--linea)}
-  .marca{display:flex;align-items:center;gap:14px;text-decoration:none;font-family:var(--titulos);font-weight:600;font-size:1.25rem;letter-spacing:.24em;text-transform:uppercase;color:var(--oro);white-space:nowrap}
+  .barra .fila1{display:flex;align-items:center;gap:28px;height:76px}
+  .marca{display:flex;align-items:center;gap:12px;text-decoration:none;font-family:var(--titulos);font-weight:600;font-size:1.2rem;letter-spacing:.14em;text-transform:uppercase;color:var(--oro);white-space:nowrap}
+  .barra nav{margin-left:auto}
   .barra .boton{padding:13px 22px;font-size:.78rem}
-  .barra nav ul{list-style:none;display:flex;justify-content:center;gap:30px;margin:0;padding:12px 0;overflow-x:auto;scrollbar-width:none}
+  .barra nav ul{list-style:none;display:flex;gap:26px;margin:0;padding:0;overflow-x:auto;scrollbar-width:none}
   .barra nav ul::-webkit-scrollbar{display:none}
-  .barra nav a{font:600 .8rem/1 var(--texto-f);letter-spacing:.22em;text-transform:uppercase;color:var(--suave);text-decoration:none;white-space:nowrap;padding:6px 0;display:inline-block}
+  .barra nav a{font:600 .78rem/1 var(--texto-f);letter-spacing:.2em;text-transform:uppercase;color:var(--suave);text-decoration:none;white-space:nowrap;padding:6px 0;display:inline-block}
   .barra nav a:hover,.barra nav a.activo{color:var(--oro-claro)}
 
-  /* Cabecera */
-  .hero{position:relative;padding:76px 0 0;overflow:hidden;text-align:center;
+  /* Cabecera: título, línea de datos, frase y la imagen completa debajo, separada */
+  .hero{position:relative;padding:56px 0 0;overflow:hidden;text-align:center;
     background:
       radial-gradient(700px 360px at 50% 0%,rgba(210,169,85,.12),transparent 70%),
-      radial-gradient(1100px 420px at 50% 100%,rgba(224,112,47,.22),transparent 70%),var(--fondo)}
-  .hero .ficha{display:flex;align-items:center;justify-content:center;gap:22px;font:600 .82rem/1.4 var(--texto-f);letter-spacing:.3em;text-transform:uppercase;color:var(--oro);margin:0 auto 26px}
+      radial-gradient(1100px 420px at 50% 100%,rgba(224,112,47,.18),transparent 70%),var(--fondo)}
+  .hero h1{font-family:var(--anillo);font-weight:700;font-size:clamp(2.3rem,6.2vw,5.2rem);line-height:1.05;white-space:nowrap;letter-spacing:.01em;color:#f6e7bf;
+    -webkit-text-stroke:1px rgba(246,231,191,.55);text-shadow:0 0 22px rgba(240,198,116,.45),0 3px 2px rgba(0,0,0,.9),0 2px 28px rgba(0,0,0,.8)}
+  .hero .ficha{display:flex;align-items:center;justify-content:center;gap:22px;font:600 .8rem/1.4 var(--texto-f);letter-spacing:.3em;text-transform:uppercase;color:var(--oro);margin:20px auto 16px}
   .hero .ficha::before,.hero .ficha::after{content:"";flex:0 0 70px;height:1px;background:var(--oro)}
-  .hero h1{font-family:var(--anillo);font-weight:400;font-size:clamp(2.3rem,6.2vw,5.2rem);line-height:1.05;white-space:nowrap;letter-spacing:.02em;color:#f3e6c4;text-shadow:0 0 18px rgba(240,198,116,.35),0 2px 24px rgba(0,0,0,.8)}
-  .hero .lema{font-family:var(--titulos);font-size:clamp(1.05rem,2vw,1.45rem);letter-spacing:.08em;text-transform:uppercase;color:var(--texto);margin:18px auto 34px;max-width:48ch;text-wrap:balance}
+  .hero .lema{font:300 clamp(.95rem,1.4vw,1.1rem)/1.6 var(--texto-f);letter-spacing:.04em;color:var(--suave);margin:0 auto 24px;max-width:48ch}
   .acciones{display:flex;gap:16px;flex-wrap:wrap;justify-content:center}
-  .hero-imagen{position:relative;margin-top:-10px;width:100%;aspect-ratio:2752/1000;
-    background:url("img/cabecera.jpg") center 75%/cover no-repeat;
-    -webkit-mask-image:linear-gradient(180deg,transparent 0%,#000 22%,#000 90%,transparent 100%);
-            mask-image:linear-gradient(180deg,transparent 0%,#000 22%,#000 90%,transparent 100%)}
+  .hero-imagen{position:relative;margin:0 auto;width:min(100%,980px);aspect-ratio:2752/1536;
+    background:url("img/cabecera.jpg") center/cover no-repeat;
+    -webkit-mask-image:linear-gradient(180deg,transparent 0%,#000 10%,#000 88%,transparent 100%),linear-gradient(90deg,transparent 0%,#000 6%,#000 94%,transparent 100%);
+            mask-image:linear-gradient(180deg,transparent 0%,#000 10%,#000 88%,transparent 100%),linear-gradient(90deg,transparent 0%,#000 6%,#000 94%,transparent 100%);
+    -webkit-mask-composite:source-in;mask-composite:intersect}
 
   /* Pilares */
   .pilares{display:grid;grid-template-columns:repeat(4,1fr);border-top:1px solid var(--filete);border-bottom:1px solid var(--filete)}
@@ -206,18 +209,17 @@
   @media (max-width:720px){
     body{font-size:1rem}
     .seccion{padding:80px 0}
-    .barra .fila1{height:60px}
-    .marca{font-size:1rem;letter-spacing:.16em;gap:10px}
+    .barra .fila1{height:auto;flex-wrap:wrap;gap:0 12px;padding-top:10px}
+    .marca{font-size:1rem;letter-spacing:.1em;gap:10px;flex:1}
     .barra .boton{padding:10px 14px;font-size:.7rem;letter-spacing:.18em}
-    .barra nav ul{justify-content:flex-start;gap:22px;padding:10px 4px}
+    .barra nav{order:3;flex:0 0 100%;margin:8px 0 0;border-top:1px solid var(--linea)}
+    .barra nav ul{gap:22px;padding:10px 4px}
     .barra nav a{font-size:.72rem;letter-spacing:.18em}
     .hero{padding:44px 0 0}
-    .hero .ficha{gap:12px;letter-spacing:.2em;font-size:.7rem}
-    .hero .ficha::before,.hero .ficha::after{flex-basis:24px}
-    .hero .lema{margin:14px auto 26px}
-    .hero .acciones{flex-wrap:nowrap;gap:8px}
-    .hero .acciones .boton{padding:13px 14px;font-size:.7rem;letter-spacing:.14em;white-space:nowrap}
-    .hero-imagen{margin-top:0;aspect-ratio:2752/1100;background-image:url("img/cabecera-movil.jpg")}
+    .hero .ficha{gap:12px;letter-spacing:.2em;font-size:.68rem}
+    .hero .ficha::before,.hero .ficha::after{flex-basis:20px}
+    .hero .lema{margin:0 auto 24px}
+    .hero-imagen{width:100%;background-image:url("img/cabecera-movil.jpg")}
     .pilares{grid-template-columns:1fr}
     .pilar{border-left:0;border-top:1px solid var(--linea);padding:34px 8px}
     .pilar:first-child{border-top:0}
@@ -247,31 +249,25 @@
       </svg>
       El Último Baile
     </a>
+    <nav aria-label="Principal">
+      <ul>
+        <li><a href="#hermandad">La hermandad</a></li>
+        <li><a href="#raids">Raids</a></li>
+        <li><a href="#botin">Botín</a></li>
+        <li><a href="#reclutamiento">Reclutamiento</a></li>
+        <li><a href="#miembros">Miembros</a></li>
+      </ul>
+    </nav>
     <a class="boton" href="https://discord.gg/yc89W4YpF" rel="noopener">Únete</a>
   </div>
-  <nav class="envoltura" aria-label="Principal">
-    <ul>
-      <li><a href="#inicio" class="activo">Inicio</a></li>
-      <li><a href="#hermandad">La hermandad</a></li>
-      <li><a href="#raids">Raids</a></li>
-      <li><a href="#botin">Botín</a></li>
-      <li><a href="#actividad">Actividad</a></li>
-      <li><a href="#reclutamiento">Reclutamiento</a></li>
-      <li><a href="#miembros">Miembros</a></li>
-    </ul>
-  </nav>
 </header>
 
 <main id="inicio">
   <section class="hero" aria-labelledby="t-hero">
     <div class="envoltura">
-      <p class="ficha">WoW Forever · EU · Alianza · PvE · Castellano</p>
       <h1 id="t-hero">El Último Baile</h1>
+      <p class="ficha">WoW Forever · EU · Alianza · PvE</p>
       <p class="lema">Hermandad entre amigos. Aquí desde el primer día.</p>
-      <div class="acciones">
-        <a class="boton" href="https://discord.gg/yc89W4YpF" rel="noopener">Entrar al Discord</a>
-        <a class="boton secundario" href="#raids">Noches de raid</a>
-      </div>
     </div>
     <div class="hero-imagen" role="img" aria-label="Los diez personajes de la hermandad, de espaldas, mirando una fortaleza entre ríos de lava"></div>
   </section>
