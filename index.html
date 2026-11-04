@@ -207,14 +207,19 @@
     .botin{grid-template-columns:1fr;gap:36px}
     .marco{padding:44px 32px}
   }
+  /* Menú en dos filas cuando no cabe en una (tablet y móvil) */
+  @media (max-width:1140px){
+    .barra .fila1{height:auto;flex-wrap:wrap;gap:0 12px;padding-top:10px}
+    .marca{flex:1}
+    .barra nav{order:3;flex:0 0 100%;min-width:0;margin:8px 0 0;border-top:1px solid var(--linea)}
+    .barra nav ul{gap:30px;padding:10px 4px;justify-content:center}
+  }
   @media (max-width:720px){
     body{font-size:1rem}
     .seccion{padding:80px 0}
-    .barra .fila1{height:auto;flex-wrap:wrap;gap:0 12px;padding-top:10px}
-    .marca{font-size:1rem;letter-spacing:.1em;gap:10px;flex:1}
+    .marca{font-size:1rem;letter-spacing:.1em;gap:10px}
     .barra .boton{padding:10px 14px;font-size:.7rem;letter-spacing:.18em}
-    .barra nav{order:3;flex:0 0 100%;margin:8px 0 0;border-top:1px solid var(--linea)}
-    .barra nav ul{gap:22px;padding:10px 4px}
+    .barra nav ul{gap:22px;justify-content:flex-start}
     .barra nav a{font-size:.72rem;letter-spacing:.18em}
     .hero{padding:44px 0 0}
     .hero .ficha{gap:12px;letter-spacing:.2em;font-size:.68rem}
@@ -255,6 +260,7 @@
     </a>
     <nav aria-label="Principal">
       <ul>
+        <li><a href="#inicio">Inicio</a></li>
         <li><a href="#hermandad">La hermandad</a></li>
         <li><a href="#raids">Raids</a></li>
         <li><a href="#botin">Botín</a></li>
@@ -266,8 +272,8 @@
   </div>
 </header>
 
-<main id="inicio">
-  <section class="hero" aria-labelledby="t-hero">
+<main>
+  <section class="hero" id="inicio" aria-labelledby="t-hero">
     <h1 class="oculto">El Último Baile</h1>
     <div class="hero-imagen" role="img" aria-label="Los diez personajes de la hermandad sobre una roca frente a la mazmorra entre lava, con el nombre El Último Baile en letras de hierro"></div>
     <div class="envoltura">
