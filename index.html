@@ -177,11 +177,11 @@
   .specs{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:1fr 1fr;gap:8px}
   .spec{display:flex;align-items:center;gap:8px;font:600 .72rem/1.2 var(--texto-f);letter-spacing:.08em;text-transform:uppercase;white-space:nowrap;padding:9px 10px;border:1px solid rgba(134,211,156,.4);color:#9fe0b2;background:rgba(134,211,156,.06)}
   .spec::before{content:"";flex:0 0 7px;height:7px;border-radius:50%;background:#86d39c;box-shadow:0 0 6px rgba(134,211,156,.7)}
-  .spec.cerrada{border-color:#2a2d35;color:#6d717b;background:none}
-  .spec.cerrada::before{background:#4a4e58;box-shadow:none}
+  .spec.cerrada{border-color:rgba(224,96,96,.4);color:#e89a9a;background:rgba(224,96,96,.06)}
+  .spec.cerrada::before{background:#e06060;box-shadow:0 0 6px rgba(224,96,96,.7)}
   .nota-lista{text-align:center;color:var(--suave);font-size:.95rem;margin-top:22px}
 
-  /* Miembros */
+  /* Raiders */
   .recuento{display:flex;justify-content:center;gap:28px;flex-wrap:wrap;color:var(--suave);margin:0 0 30px}
   .recuento strong{font-family:var(--titulos);font-size:1.4rem;color:var(--oro-claro);margin-right:6px}
   .roster{display:grid;grid-template-columns:repeat(3,1fr);gap:14px;max-width:1020px;margin:0 auto}
@@ -282,7 +282,7 @@
         <li><a href="#raids">Raids</a></li>
         <li><a href="#botin">Botín</a></li>
         <li><a href="#reclutamiento">Reclutamiento</a></li>
-        <li><a href="#miembros">Miembros</a></li>
+        <li><a href="#raiders">Raiders</a></li>
       </ul>
     </nav>
     <a class="boton" href="https://discord.gg/yc89W4YpF" rel="noopener">Únete</a>
@@ -432,18 +432,17 @@
           <p>Si eres de los que dicen «solo una hora» y a las dos de la mañana sigues conectado, estás en casa.</p>
         </div>
       </div>
-      <h3 class="titulo-lista">Lo que necesita la raid ahora mismo</h3>
+      <h3 class="titulo-lista">Reclutamos para raid</h3>
       <div class="clases" id="clases"></div>
-      <p class="nota-lista">Actualizado el 4 de noviembre de 2026: todo abierto para el lanzamiento. En verde, lo que buscamos; en gris, lo que ya está cubierto. Si tu spec está cubierta para raid, eres igual de bienvenido como social.</p>
+      <p class="nota-lista">Actualizado el 4 de noviembre de 2026. En verde, abierto; en rojo, cerrado. Si tu spec está cerrada para raid, eres igual de bienvenido como social.</p>
     </div>
   </section>
 
-  <section class="seccion" id="miembros" aria-labelledby="t-miembros">
+  <section class="seccion" id="raiders" aria-labelledby="t-raiders">
     <div class="envoltura">
       <div class="cabecera-seccion">
-        <span class="etiqueta">Miembros</span>
-        <h2 id="t-miembros">La hermandad, por clases</h2>
-        <p class="entradilla">El roster se sincroniza solo desde wowaudit.</p>
+        <span class="etiqueta">Raiders</span>
+        <h2 id="t-raiders">Los raiders, por clase</h2>
       </div>
       <p class="recuento" id="roster-counts">Cargando la hermandad…</p>
       <div class="roster" id="roster-grid"></div>
@@ -511,7 +510,7 @@
 
   // Reclutamiento: edita aquí qué clases buscáis y para qué rol
   (function () {
-    // Specs que busca la raid. Para marcar una como cubierta, añádela a la lista "cerradas" de su clase.
+    // Specs que busca la raid. Para cerrar una (sale en rojo), añádela a la lista "cerradas" de su clase.
     const PUESTOS = [
       ["druid",   ["Tank", "Feral", "Balance", "Restoration"], []],
       ["paladin", ["Holy", "Protection", "Retribution"], []],
@@ -537,7 +536,7 @@
     }));
   })();
 
-  // Miembros: roster.json lo genera el robot desde la API de wowaudit (la clave nunca está en este repo).
+  // Raiders: roster.json lo genera el robot desde la API de wowaudit (la clave nunca está en este repo).
   // Todo se pinta con textContent, nunca con innerHTML: los nombres vienen de fuera.
   (function () {
     const ROLES = { tank: "Tank", heal: "Healer", healer: "Healer", melee: "Melee", ranged: "Ranged" };
