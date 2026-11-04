@@ -54,8 +54,12 @@ def enviar(lineas):
     if not lineas:
         print("Avisos: nada que contar")
         return
-    if not url.startswith("https://discord.com/api/webhooks/"):
-        print("Avisos: sin DISCORD_WEBHOOK_URL válido, no se envía nada")
+    if not url:
+        print("Avisos: el secreto DISCORD_WEBHOOK_URL está vacío o no existe, no se envía nada")
+        return
+    if not re.match(r"^https://(ptb\.|canary\.)?discord(app)?\.com/api/webhooks/\d+/[\w-]+$", url):
+        host = re.sub(r"^(https?://[^/]+).*$", r"\1", url)[:40]  # solo el dominio, nunca el token
+        print(f"Avisos: DISCORD_WEBHOOK_URL no parece un webhook de Discord (empieza por {host}), no se envía nada")
         return
     contenido = "\n".join(lineas)[:1900] + f"\n<{WEB}>"
     cuerpo = json.dumps({"content": contenido, "allowed_mentions": {"parse": []}}).encode()
