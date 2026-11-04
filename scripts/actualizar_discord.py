@@ -15,7 +15,7 @@ import urllib.request
 from datetime import datetime, timezone
 from pathlib import Path
 
-INVITACION = "yc89W4YpF"
+INVITACION = "E3YEKbZHAK"
 URL = f"https://discord.com/api/v10/invites/{INVITACION}?with_counts=true"
 DESTINO = Path(__file__).resolve().parent.parent / "discord.json"
 TIMEOUT_SEGUNDOS = 20
