@@ -6,7 +6,7 @@
   const nav = barra.querySelector("nav");
   const botonMovil = barra.querySelector(".menu-movil");
   const grupos = [...barra.querySelectorAll(".grupo-menu")];
-  const esMovil = () => window.matchMedia("(max-width:1240px)").matches;
+  const esMovil = () => true; // el menú es siempre compacto: accesos fijos + botón Menú
 
   function cerrarGrupos(excepto) {
     grupos.forEach(g => {
