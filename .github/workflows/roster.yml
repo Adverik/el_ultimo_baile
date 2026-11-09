@@ -1,4 +1,4 @@
-name: Actualizar datos (wowaudit y Discord)
+name: Actualizar datos (wowaudit, Blizzard y Discord)
 
 on:
   schedule:
@@ -21,7 +21,7 @@ concurrency:
 jobs:
   actualizar:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 15
     env:
       WOWAUDIT_API_KEY: ${{ secrets.WOWAUDIT_API_KEY }}
       WOWAUDIT_BASE_URL: ${{ vars.WOWAUDIT_BASE_URL }}
@@ -43,17 +43,24 @@ jobs:
       - name: Recuento de Discord
         run: python3 scripts/actualizar_discord.py
 
+      - name: Apellidos y profesiones (Blizzard)
+        continue-on-error: true
+        env:
+          BLIZZARD_CLIENT_ID: ${{ secrets.BLIZZARD_CLIENT_ID }}
+          BLIZZARD_CLIENT_SECRET: ${{ secrets.BLIZZARD_CLIENT_SECRET }}
+        run: python3 scripts/actualizar_blizzard.py
+
       - name: Guardar cambios si los hay
         run: |
-          if git diff --quiet -- roster.json actividad.json discord.json && [ -z "$(git ls-files --others --exclude-standard -- actividad.json discord.json)" ]; then
+          FICHEROS="roster.json actividad.json discord.json nombres.json profesiones.json datos/recetas_cache.json"
+          if git diff --quiet -- $FICHEROS && [ -z "$(git ls-files --others --exclude-standard -- $FICHEROS)" ]; then
             echo "Sin cambios"
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add roster.json actividad.json
-          [ -f discord.json ] && git add discord.json
-          git commit -m "Actualiza datos (wowaudit y Discord)"
+          for f in $FICHEROS; do [ -f "$f" ] && git add "$f"; done
+          git commit -m "Actualiza datos (wowaudit, Blizzard y Discord)"
           git push
 
       - name: Avisar en Discord de los cambios

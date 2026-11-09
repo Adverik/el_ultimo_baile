@@ -250,6 +250,7 @@
   .cab-pagina{text-align:center;margin-bottom:36px}
   .cab-pagina h1{font-family:var(--titulos);font-weight:600;font-size:clamp(1.6rem,3.4vw,2.4rem);letter-spacing:.06em;text-transform:uppercase;line-height:1.15;margin:0 0 12px}
   .cab-pagina p{color:var(--suave);max-width:640px;margin:0 auto}
+  .cab-pagina .fuente{margin-top:10px;font-size:.85rem;letter-spacing:.04em;color:#7d818b}
   .controles{display:flex;flex-direction:column;gap:14px;align-items:center;margin:0 auto 40px;max-width:1020px}
   .buscador{width:min(100%,520px);padding:13px 16px;background:var(--panel);border:1px solid var(--linea);color:var(--texto);font:400 1rem var(--texto-f)}
   .buscador:focus{outline:none;border-color:var(--oro)}
@@ -340,6 +341,7 @@
       <span class="etiqueta">Artesanos</span>
       <h1>Profesiones</h1>
       <p>Quién fabrica qué en la hermandad. Busca una receta o un personaje y pídeselo en Discord.</p>
+      <p class="fuente" id="fuente-prof" hidden></p>
     </div>
     <p class="aviso" id="aviso-prof" hidden><b>En construcción.</b> Aún no hay profesiones registradas. Se irán llenando cuando arranquemos en Forever.</p>
 
@@ -378,7 +380,7 @@
   const PROFESIONES = ["Alquimia", "Herrería", "Encantamiento", "Ingeniería", "Peletería", "Sastrería",
     "Herboristería", "Minería", "Desuello", "Cocina", "Primeros auxilios", "Pesca"];
   const CALIDADES = [
-    ["epic", "Épicas", "#A335EE", true], ["rare", "Raras", "#0070DD", true],
+    ["legendary", "Legendarias", "#FF8000", true], ["epic", "Épicas", "#A335EE", true], ["rare", "Raras", "#0070DD", true],
     ["uncommon", "Poco comunes", "#1EFF00", false], ["common", "Comunes", "#ECE6D6", false]
   ];
   const el = (tag, clase, texto) => {
@@ -394,7 +396,11 @@
   const chips = document.getElementById("chips");
 
   function pintarChips() {
-    chips.replaceChildren(...["", ...PROFESIONES].map(p => {
+    // Profesiones que hay en los datos (en el orden de PROFESIONES; las desconocidas, al final)
+    const enDatos = new Set();
+    datos.artesanos.forEach(a => (a.profesiones || []).forEach(p => enDatos.add(p.nombre)));
+    const lista = [...PROFESIONES.filter(p => enDatos.has(p)), ...[...enDatos].filter(p => !PROFESIONES.includes(p)).sort()];
+    chips.replaceChildren(...["", ...(lista.length ? lista : PROFESIONES)].map(p => {
       const b = el("button", "chip", p || "Todas");
       b.type = "button";
       b.setAttribute("aria-pressed", String(p === filtro));
@@ -435,7 +441,8 @@
 
     // Artesanos por profesión
     const tabla = document.getElementById("artesanos");
-    const cajas = PROFESIONES.filter(p => !filtro || p === filtro).map(p => {
+    const todas = [...PROFESIONES, ...new Set(datos.artesanos.flatMap(a => (a.profesiones || []).map(p => p.nombre)).filter(p => !PROFESIONES.includes(p)))];
+    const cajas = todas.filter(p => !filtro || p === filtro).map(p => {
       const gente = [];
       datos.artesanos.forEach(a => (a.profesiones || []).forEach(pr => {
         if (pr.nombre === p && (!q || norm(a.personaje).includes(q))) gente.push([a, pr.nivel]);
@@ -473,6 +480,11 @@
     .catch(() => {})
     .finally(() => {
       document.getElementById("aviso-prof").hidden = datos.artesanos.length + datos.recetas.length > 0;
+      const f = document.getElementById("fuente-prof");
+      if (datos.artesanos.length) {
+        f.textContent = datos.artesanos.length + " artesanos y " + datos.recetas.length + " recetas · Datos de Blizzard, se actualizan solos cada hora";
+        f.hidden = false;
+      }
       pintar();
     });
 

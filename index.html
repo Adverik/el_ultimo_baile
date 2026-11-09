@@ -639,12 +639,14 @@
       span.append(el("strong", "", String(n)), n === 1 ? singular : plural);
       return span;
     }
-    fetch("roster.json", { cache: "no-cache" })
-      .then(r => { if (!r.ok) throw new Error(r.status); return r.json(); })
-      .then(data => {
+    // nombres.json (de Blizzard) añade el apellido; si no está, se muestra solo el nombre
+    const nombresCompletos = fetch("nombres.json", { cache: "no-cache" }).then(r => r.ok ? r.json() : {}).catch(() => ({}));
+    Promise.all([fetch("roster.json", { cache: "no-cache" }).then(r => { if (!r.ok) throw new Error(r.status); return r.json(); }), nombresCompletos])
+      .then(([data, completos]) => {
         if (!Array.isArray(data)) throw new Error("formato");
+        const completo = n => (completos && typeof completos[n.toLowerCase()] === "string") ? completos[n.toLowerCase()] : n;
         const pjs = data.filter(p => p && typeof p.name === "string").map(p => ({
-          nombre: p.name,
+          nombre: completo(p.name),
           clase: String(p.class || "").toLowerCase().replace(/\s+/g, ""),
           rol: String(p.role || "").toLowerCase()
         })).sort((a, b) => (ORDEN[a.rol] ?? 9) - (ORDEN[b.rol] ?? 9) || a.nombre.localeCompare(b.nombre, "es"));
