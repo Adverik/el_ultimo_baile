@@ -119,6 +119,22 @@ def forever(H, chars):
     for r in reinos_wa:
         base = r.lower().split("(")[0].strip()
         slugs |= {base.replace(" ", "-"), "normal", "pve", "eu-normal", "forever"}
+    # Prueba directa con un personaje (nombre visible en wowaudit) y variantes de ruta
+    pruebas = []
+    for realm in ("normal", "normal-eu", "forever", "eu"):
+        for nombre in ("fran-furion", "fran"):
+            pruebas.append(f"/profile/wow/character/{realm}/{nombre}")
+    pruebas += ["/profile/wow/character/fran-furion", "/data/wow/guild/el-ultimo-baile", "/data/wow/guild/el-%C3%BAltimo-baile",
+                "/data/wow/guild/normal/el-ultimo-baile", "/data/wow/guild/normal/el-%C3%BAltimo-baile"]
+    for ns in ("profile-forever-eu", "profile-classic1x-eu"):
+        for ruta in pruebas:
+            st, d = http(f"{API}{ruta}?namespace={ns}&locale=es_ES", H)
+            print(f"  {ns} {ruta}: HTTP {st}")
+            if st == 200:
+                forma(d, 3, 4)
+                sp, prof = http(f"{API}{ruta}/professions?namespace={ns}&locale=es_ES", H)
+                print(f"    /professions: HTTP {sp}")
+                if prof: forma(prof, 3, 5)
     gremios = ["el-%C3%BAltimo-baile", "el-ultimo-baile"]
     for slug in sorted(s for s in slugs if s):
         for g in gremios:
