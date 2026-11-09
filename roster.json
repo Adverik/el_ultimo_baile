@@ -1,28 +1,53 @@
 [
   {
-    "name": "Franchïta",
-    "class": "Druid",
+    "name": "Blind",
+    "class": "Priest",
+    "role": "Heal"
+  },
+  {
+    "name": "Cuzcu",
+    "class": "Paladin",
+    "role": "Heal"
+  },
+  {
+    "name": "Edoras",
+    "class": "Hunter",
     "role": "Ranged"
   },
   {
-    "name": "Hiyøri",
+    "name": "Espartaco",
     "class": "Warrior",
-    "role": "Tank"
+    "role": "Melee"
   },
   {
-    "name": "Krasher",
-    "class": "Paladin",
-    "role": "Tank"
+    "name": "Fitipaldi",
+    "class": "Rogue",
+    "role": "Melee"
+  },
+  {
+    "name": "Fran",
+    "class": "Druid",
+    "role": "Heal"
+  },
+  {
+    "name": "Khyoraku",
+    "class": "Warrior",
+    "role": "Melee"
   },
   {
     "name": "Layrela",
     "class": "Druid",
-    "role": "Ranged"
+    "role": "Heal"
   },
   {
     "name": "Manelhon",
-    "class": "Mage",
-    "role": "Ranged"
+    "class": "Shaman",
+    "role": "Heal"
+  },
+  {
+    "name": "Nimassus",
+    "class": "Priest",
+    "role": "Heal"
   },
   {
     "name": "Palmira",
@@ -30,28 +55,13 @@
     "role": "Melee"
   },
   {
-    "name": "Seinara",
-    "class": "Monk",
-    "role": "Tank"
-  },
-  {
-    "name": "Tanaky",
-    "class": "Priest",
+    "name": "Runa",
+    "class": "Shaman",
     "role": "Heal"
-  },
-  {
-    "name": "Uohö",
-    "class": "Hunter",
-    "role": "Ranged"
   },
   {
     "name": "Vaporeta",
     "class": "Mage",
-    "role": "Ranged"
-  },
-  {
-    "name": "Winterfall",
-    "class": "Shaman",
     "role": "Ranged"
   }
 ]

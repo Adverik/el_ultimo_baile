@@ -1,31 +1,31 @@
 {
   "proxima_raid": {
-    "fecha": "2026-11-12",
-    "titulo": "Midnight Season 2",
-    "instancia": "The Venomous Abyss",
-    "dificultad": "Mythic",
-    "apuntados": 0
+    "fecha": "2026-11-11",
+    "titulo": "Event",
+    "instancia": "",
+    "dificultad": "",
+    "apuntados": 13
   },
   "ultimas_raids": [
     {
-      "fecha": "2026-11-06",
-      "titulo": "Midnight Season 2",
-      "instancia": "The Venomous Abyss",
-      "dificultad": "Mythic",
-      "apuntados": 0
-    },
-    {
       "fecha": "2026-11-05",
-      "titulo": "Midnight Season 2",
-      "instancia": "The Venomous Abyss",
-      "dificultad": "Mythic",
+      "titulo": "Event",
+      "instancia": "",
+      "dificultad": "",
       "apuntados": 0
     },
     {
-      "fecha": "2026-10-30",
-      "titulo": "Midnight Season 2",
-      "instancia": "The Venomous Abyss",
-      "dificultad": "Mythic",
+      "fecha": "2026-11-04",
+      "titulo": "Event",
+      "instancia": "",
+      "dificultad": "",
+      "apuntados": 0
+    },
+    {
+      "fecha": "2026-10-29",
+      "titulo": "Event",
+      "instancia": "",
+      "dificultad": "",
       "apuntados": 0
     }
   ],
