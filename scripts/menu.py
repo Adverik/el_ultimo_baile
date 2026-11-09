@@ -9,11 +9,21 @@ RAIZ = Path(__file__).resolve().parent.parent
 PAGINAS = ["index.html", "primera-semana.html", "profesiones.html"]
 DISCORD = "https://discord.gg/mdKr9CPTTM"
 
+# Enlaces directos (secciones de base) y desplegables (temas que tendrán más cosas dentro).
+# Desplegable: (título, [(texto, enlace, descripción, etiqueta o None), ...])
 MENU = [
-    ("La hermandad", [("Quiénes somos", "./#hermandad"), ("Raids", "./#raids"), ("Loot", "./#botin"),
-                      ("Actividad", "./#actividad"), ("Raiders", "./#raiders")]),
-    ("Reclutamiento", [("A quién buscamos", "./#reclutamiento"), ("Tu primera semana", "primera-semana.html")]),
-    ("Recursos", [("Profesiones", "profesiones.html")]),
+    ("La hermandad", "./#hermandad"),
+    ("Raid", [
+        ("Noches de raid", "./#raids", "Horario y lo que pedimos", None),
+        ("Loot", "./#botin", "Cómo se reparte el botín", "En revisión"),
+        ("Actividad", "./#actividad", "Próxima raid y últimas noches", None),
+        ("Raiders", "./#raiders", "El roster actual, por clase", None),
+    ]),
+    ("Reclutamiento", "./#reclutamiento"),
+    ("Primera semana", "primera-semana.html"),
+    ("Recursos", [
+        ("Profesiones", "profesiones.html", "Quién fabrica qué en la hermandad", "Nuevo"),
+    ]),
 ]
 
 ESCUDO = '''<svg width="30" height="34" viewBox="0 0 28 32" aria-hidden="true">
@@ -25,12 +35,18 @@ ESCUDO = '''<svg width="30" height="34" viewBox="0 0 28 32" aria-hidden="true">
 
 def cabecera():
     grupos = []
-    for i, (titulo, enlaces) in enumerate(MENU):
-        items = "\n".join(f'            <li><a href="{href}">{texto}</a></li>' for texto, href in enlaces)
+    for i, (titulo, destino) in enumerate(MENU):
+        if isinstance(destino, str):
+            grupos.append(f'        <li class="item-menu"><a class="enlace-menu" href="{destino}">{titulo}</a></li>')
+            continue
+        items = []
+        for texto, href, desc, etiqueta in destino:
+            et = f' <span class="etiqueta-menu">{etiqueta}</span>' if etiqueta else ""
+            items.append(f'            <li><a href="{href}"><span class="t">{texto}{et}</span><span class="d">{desc}</span></a></li>')
         grupos.append(f'''        <li class="grupo-menu">
           <button class="titulo-menu" type="button" aria-expanded="false" aria-controls="sub-{i}">{titulo}</button>
           <ul class="submenu" id="sub-{i}">
-{items}
+{chr(10).join(items)}
           </ul>
         </li>''')
     return f'''<header class="barra">

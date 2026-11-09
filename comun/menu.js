@@ -37,7 +37,7 @@
     botonMovil.setAttribute("aria-expanded", String(abrir));
   });
   // Al elegir una opción, se cierra todo
-  barra.querySelectorAll(".submenu a").forEach(a => a.addEventListener("click", () => { cerrarGrupos(); cerrarMovil(); }));
+  barra.querySelectorAll("nav a").forEach(a => a.addEventListener("click", () => { cerrarGrupos(); cerrarMovil(); }));
   document.addEventListener("click", e => { if (!barra.contains(e.target)) { cerrarGrupos(); cerrarMovil(); } });
   document.addEventListener("keydown", e => {
     if (e.key !== "Escape") return;
@@ -49,14 +49,15 @@
   // Página activa (Primera semana, Profesiones...)
   const pagina = location.pathname.split("/").pop() || "index.html";
   const marcar = enlace => {
-    barra.querySelectorAll(".submenu a.activo").forEach(a => { a.classList.remove("activo"); a.removeAttribute("aria-current"); });
+    barra.querySelectorAll("nav a.activo").forEach(a => { a.classList.remove("activo"); a.removeAttribute("aria-current"); });
     grupos.forEach(g => g.classList.remove("activo"));
     if (!enlace) return;
     enlace.classList.add("activo");
     enlace.setAttribute("aria-current", enlace.hash ? "location" : "page");
-    enlace.closest(".grupo-menu").classList.add("activo");
+    const g = enlace.closest(".grupo-menu");
+    if (g) g.classList.add("activo");
   };
-  const enlaces = [...barra.querySelectorAll(".submenu a")];
+  const enlaces = [...barra.querySelectorAll("nav a")];
   const dePagina = enlaces.find(a => !a.hash && a.pathname.split("/").pop() === pagina);
   if (dePagina) { marcar(dePagina); return; }
 
