@@ -7,27 +7,27 @@
       "raider": false,
       "profesiones": [
         {
-          "nombre": "Mining",
+          "nombre": "Minería",
           "nivel": 201,
           "max": 225
         },
         {
-          "nombre": "Blacksmithing",
+          "nombre": "Herrería",
           "nivel": 147,
           "max": 225
         },
         {
-          "nombre": "Cooking",
+          "nombre": "Cocina",
           "nivel": 138,
           "max": 225
         },
         {
-          "nombre": "Fishing",
+          "nombre": "Pesca",
           "nivel": 50,
           "max": 150
         },
         {
-          "nombre": "First Aid",
+          "nombre": "Primeros auxilios",
           "nivel": 150,
           "max": 225
         }
@@ -39,22 +39,22 @@
       "raider": false,
       "profesiones": [
         {
-          "nombre": "Leatherworking",
+          "nombre": "Peletería",
           "nivel": 101,
           "max": 150
         },
         {
-          "nombre": "Skinning",
+          "nombre": "Desuello",
           "nivel": 76,
           "max": 150
         },
         {
-          "nombre": "Cooking",
+          "nombre": "Cocina",
           "nivel": 1,
           "max": 75
         },
         {
-          "nombre": "First Aid",
+          "nombre": "Primeros auxilios",
           "nivel": 72,
           "max": 150
         }
@@ -66,22 +66,22 @@
       "raider": false,
       "profesiones": [
         {
-          "nombre": "Tailoring",
+          "nombre": "Sastrería",
           "nivel": 1,
           "max": 75
         },
         {
-          "nombre": "Herbalism",
+          "nombre": "Herboristería",
           "nivel": 31,
           "max": 75
         },
         {
-          "nombre": "Cooking",
+          "nombre": "Cocina",
           "nivel": 3,
           "max": 75
         },
         {
-          "nombre": "Fishing",
+          "nombre": "Pesca",
           "nivel": 39,
           "max": 75
         }
@@ -93,12 +93,12 @@
       "raider": false,
       "profesiones": [
         {
-          "nombre": "Herbalism",
+          "nombre": "Herboristería",
           "nivel": 4,
           "max": 75
         },
         {
-          "nombre": "Cooking",
+          "nombre": "Cocina",
           "nivel": 6,
           "max": 75
         }
@@ -110,27 +110,27 @@
       "raider": true,
       "profesiones": [
         {
-          "nombre": "Tailoring",
+          "nombre": "Sastrería",
           "nivel": 42,
           "max": 75
         },
         {
-          "nombre": "Herbalism",
+          "nombre": "Herboristería",
           "nivel": 14,
           "max": 75
         },
         {
-          "nombre": "Cooking",
+          "nombre": "Cocina",
           "nivel": 1,
           "max": 75
         },
         {
-          "nombre": "Fishing",
+          "nombre": "Pesca",
           "nivel": 13,
           "max": 75
         },
         {
-          "nombre": "First Aid",
+          "nombre": "Primeros auxilios",
           "nivel": 1,
           "max": 75
         }
@@ -142,27 +142,27 @@
       "raider": false,
       "profesiones": [
         {
-          "nombre": "Mining",
+          "nombre": "Minería",
           "nivel": 124,
           "max": 150
         },
         {
-          "nombre": "Engineering",
+          "nombre": "Ingeniería",
           "nivel": 150,
           "max": 225
         },
         {
-          "nombre": "Cooking",
+          "nombre": "Cocina",
           "nivel": 144,
           "max": 150
         },
         {
-          "nombre": "Fishing",
+          "nombre": "Pesca",
           "nivel": 1,
           "max": 75
         },
         {
-          "nombre": "First Aid",
+          "nombre": "Primeros auxilios",
           "nivel": 81,
           "max": 150
         }
@@ -174,27 +174,27 @@
       "raider": true,
       "profesiones": [
         {
-          "nombre": "Mining",
+          "nombre": "Minería",
           "nivel": 106,
           "max": 150
         },
         {
-          "nombre": "Engineering",
+          "nombre": "Ingeniería",
           "nivel": 116,
           "max": 150
         },
         {
-          "nombre": "Cooking",
+          "nombre": "Cocina",
           "nivel": 111,
           "max": 150
         },
         {
-          "nombre": "Fishing",
+          "nombre": "Pesca",
           "nivel": 105,
           "max": 150
         },
         {
-          "nombre": "First Aid",
+          "nombre": "Primeros auxilios",
           "nivel": 1,
           "max": 75
         }
@@ -206,27 +206,27 @@
       "raider": false,
       "profesiones": [
         {
-          "nombre": "Leatherworking",
+          "nombre": "Peletería",
           "nivel": 140,
           "max": 150
         },
         {
-          "nombre": "Skinning",
+          "nombre": "Desuello",
           "nivel": 185,
           "max": 225
         },
         {
-          "nombre": "Cooking",
+          "nombre": "Cocina",
           "nivel": 150,
           "max": 150
         },
         {
-          "nombre": "Fishing",
+          "nombre": "Pesca",
           "nivel": 137,
           "max": 150
         },
         {
-          "nombre": "First Aid",
+          "nombre": "Primeros auxilios",
           "nivel": 40,
           "max": 75
         }
@@ -238,22 +238,22 @@
       "raider": false,
       "profesiones": [
         {
-          "nombre": "Alchemy",
+          "nombre": "Alquimia",
           "nivel": 150,
           "max": 150
         },
         {
-          "nombre": "Herbalism",
+          "nombre": "Herboristería",
           "nivel": 180,
           "max": 225
         },
         {
-          "nombre": "Cooking",
+          "nombre": "Cocina",
           "nivel": 74,
           "max": 150
         },
         {
-          "nombre": "First Aid",
+          "nombre": "Primeros auxilios",
           "nivel": 69,
           "max": 150
         }
@@ -265,17 +265,17 @@
       "raider": false,
       "profesiones": [
         {
-          "nombre": "Alchemy",
+          "nombre": "Alquimia",
           "nivel": 114,
           "max": 150
         },
         {
-          "nombre": "Herbalism",
+          "nombre": "Herboristería",
           "nivel": 118,
           "max": 150
         },
         {
-          "nombre": "Cooking",
+          "nombre": "Cocina",
           "nivel": 1,
           "max": 75
         }
@@ -287,27 +287,27 @@
       "raider": false,
       "profesiones": [
         {
-          "nombre": "Tailoring",
+          "nombre": "Sastrería",
           "nivel": 116,
           "max": 150
         },
         {
-          "nombre": "Enchanting",
+          "nombre": "Encantamiento",
           "nivel": 125,
           "max": 150
         },
         {
-          "nombre": "Cooking",
+          "nombre": "Cocina",
           "nivel": 225,
           "max": 225
         },
         {
-          "nombre": "Fishing",
+          "nombre": "Pesca",
           "nivel": 215,
           "max": 225
         },
         {
-          "nombre": "First Aid",
+          "nombre": "Primeros auxilios",
           "nivel": 78,
           "max": 150
         }
@@ -319,27 +319,27 @@
       "raider": true,
       "profesiones": [
         {
-          "nombre": "Leatherworking",
+          "nombre": "Peletería",
           "nivel": 102,
           "max": 150
         },
         {
-          "nombre": "Skinning",
+          "nombre": "Desuello",
           "nivel": 197,
           "max": 225
         },
         {
-          "nombre": "Cooking",
+          "nombre": "Cocina",
           "nivel": 150,
           "max": 150
         },
         {
-          "nombre": "Fishing",
+          "nombre": "Pesca",
           "nivel": 84,
           "max": 150
         },
         {
-          "nombre": "First Aid",
+          "nombre": "Primeros auxilios",
           "nivel": 150,
           "max": 150
         }
@@ -351,27 +351,27 @@
       "raider": true,
       "profesiones": [
         {
-          "nombre": "Mining",
+          "nombre": "Minería",
           "nivel": 124,
           "max": 150
         },
         {
-          "nombre": "Blacksmithing",
+          "nombre": "Herrería",
           "nivel": 115,
           "max": 150
         },
         {
-          "nombre": "Cooking",
+          "nombre": "Cocina",
           "nivel": 150,
           "max": 225
         },
         {
-          "nombre": "Fishing",
+          "nombre": "Pesca",
           "nivel": 146,
           "max": 225
         },
         {
-          "nombre": "First Aid",
+          "nombre": "Primeros auxilios",
           "nivel": 145,
           "max": 150
         }
@@ -383,22 +383,22 @@
       "raider": false,
       "profesiones": [
         {
-          "nombre": "Leatherworking",
+          "nombre": "Peletería",
           "nivel": 53,
           "max": 150
         },
         {
-          "nombre": "Skinning",
+          "nombre": "Desuello",
           "nivel": 75,
           "max": 150
         },
         {
-          "nombre": "Cooking",
+          "nombre": "Cocina",
           "nivel": 12,
           "max": 75
         },
         {
-          "nombre": "First Aid",
+          "nombre": "Primeros auxilios",
           "nivel": 83,
           "max": 150
         }
@@ -410,22 +410,22 @@
       "raider": false,
       "profesiones": [
         {
-          "nombre": "Tailoring",
+          "nombre": "Sastrería",
           "nivel": 116,
           "max": 150
         },
         {
-          "nombre": "Enchanting",
+          "nombre": "Encantamiento",
           "nivel": 130,
           "max": 150
         },
         {
-          "nombre": "Cooking",
+          "nombre": "Cocina",
           "nivel": 200,
           "max": 225
         },
         {
-          "nombre": "Fishing",
+          "nombre": "Pesca",
           "nivel": 121,
           "max": 150
         }
@@ -437,22 +437,22 @@
       "raider": true,
       "profesiones": [
         {
-          "nombre": "Skinning",
+          "nombre": "Desuello",
           "nivel": 88,
           "max": 150
         },
         {
-          "nombre": "Herbalism",
+          "nombre": "Herboristería",
           "nivel": 11,
           "max": 75
         },
         {
-          "nombre": "Cooking",
+          "nombre": "Cocina",
           "nivel": 4,
           "max": 75
         },
         {
-          "nombre": "First Aid",
+          "nombre": "Primeros auxilios",
           "nivel": 51,
           "max": 75
         }
@@ -464,27 +464,27 @@
       "raider": false,
       "profesiones": [
         {
-          "nombre": "Mining",
+          "nombre": "Minería",
           "nivel": 105,
           "max": 150
         },
         {
-          "nombre": "Engineering",
+          "nombre": "Ingeniería",
           "nivel": 98,
           "max": 150
         },
         {
-          "nombre": "Cooking",
+          "nombre": "Cocina",
           "nivel": 125,
           "max": 225
         },
         {
-          "nombre": "Fishing",
+          "nombre": "Pesca",
           "nivel": 75,
           "max": 150
         },
         {
-          "nombre": "First Aid",
+          "nombre": "Primeros auxilios",
           "nivel": 141,
           "max": 150
         }
@@ -496,22 +496,22 @@
       "raider": true,
       "profesiones": [
         {
-          "nombre": "Alchemy",
+          "nombre": "Alquimia",
           "nivel": 125,
           "max": 150
         },
         {
-          "nombre": "Herbalism",
+          "nombre": "Herboristería",
           "nivel": 126,
           "max": 150
         },
         {
-          "nombre": "Cooking",
+          "nombre": "Cocina",
           "nivel": 8,
           "max": 75
         },
         {
-          "nombre": "First Aid",
+          "nombre": "Primeros auxilios",
           "nivel": 33,
           "max": 75
         }
@@ -523,22 +523,22 @@
       "raider": false,
       "profesiones": [
         {
-          "nombre": "Alchemy",
+          "nombre": "Alquimia",
           "nivel": 91,
           "max": 150
         },
         {
-          "nombre": "Herbalism",
+          "nombre": "Herboristería",
           "nivel": 96,
           "max": 150
         },
         {
-          "nombre": "Cooking",
+          "nombre": "Cocina",
           "nivel": 33,
           "max": 75
         },
         {
-          "nombre": "First Aid",
+          "nombre": "Primeros auxilios",
           "nivel": 135,
           "max": 150
         }
@@ -550,27 +550,27 @@
       "raider": false,
       "profesiones": [
         {
-          "nombre": "Mining",
+          "nombre": "Minería",
           "nivel": 82,
           "max": 150
         },
         {
-          "nombre": "Blacksmithing",
+          "nombre": "Herrería",
           "nivel": 76,
           "max": 150
         },
         {
-          "nombre": "Cooking",
+          "nombre": "Cocina",
           "nivel": 21,
           "max": 75
         },
         {
-          "nombre": "Fishing",
+          "nombre": "Pesca",
           "nivel": 1,
           "max": 75
         },
         {
-          "nombre": "First Aid",
+          "nombre": "Primeros auxilios",
           "nivel": 75,
           "max": 75
         }
@@ -582,27 +582,27 @@
       "raider": false,
       "profesiones": [
         {
-          "nombre": "Leatherworking",
+          "nombre": "Peletería",
           "nivel": 74,
           "max": 150
         },
         {
-          "nombre": "Skinning",
+          "nombre": "Desuello",
           "nivel": 136,
           "max": 225
         },
         {
-          "nombre": "Cooking",
+          "nombre": "Cocina",
           "nivel": 17,
           "max": 75
         },
         {
-          "nombre": "Fishing",
+          "nombre": "Pesca",
           "nivel": 3,
           "max": 75
         },
         {
-          "nombre": "First Aid",
+          "nombre": "Primeros auxilios",
           "nivel": 108,
           "max": 150
         }
@@ -614,27 +614,27 @@
       "raider": false,
       "profesiones": [
         {
-          "nombre": "Mining",
+          "nombre": "Minería",
           "nivel": 56,
           "max": 75
         },
         {
-          "nombre": "Engineering",
+          "nombre": "Ingeniería",
           "nivel": 77,
           "max": 150
         },
         {
-          "nombre": "Cooking",
+          "nombre": "Cocina",
           "nivel": 22,
           "max": 75
         },
         {
-          "nombre": "Fishing",
+          "nombre": "Pesca",
           "nivel": 1,
           "max": 75
         },
         {
-          "nombre": "First Aid",
+          "nombre": "Primeros auxilios",
           "nivel": 61,
           "max": 150
         }
@@ -646,22 +646,22 @@
       "raider": true,
       "profesiones": [
         {
-          "nombre": "Mining",
+          "nombre": "Minería",
           "nivel": 126,
           "max": 150
         },
         {
-          "nombre": "Blacksmithing",
+          "nombre": "Herrería",
           "nivel": 87,
           "max": 150
         },
         {
-          "nombre": "Cooking",
+          "nombre": "Cocina",
           "nivel": 150,
           "max": 150
         },
         {
-          "nombre": "First Aid",
+          "nombre": "Primeros auxilios",
           "nivel": 25,
           "max": 75
         }
@@ -673,27 +673,27 @@
       "raider": false,
       "profesiones": [
         {
-          "nombre": "Mining",
+          "nombre": "Minería",
           "nivel": 119,
           "max": 150
         },
         {
-          "nombre": "Engineering",
+          "nombre": "Ingeniería",
           "nivel": 116,
           "max": 150
         },
         {
-          "nombre": "Cooking",
+          "nombre": "Cocina",
           "nivel": 173,
           "max": 225
         },
         {
-          "nombre": "Fishing",
+          "nombre": "Pesca",
           "nivel": 20,
           "max": 75
         },
         {
-          "nombre": "First Aid",
+          "nombre": "Primeros auxilios",
           "nivel": 148,
           "max": 225
         }
@@ -705,27 +705,27 @@
       "raider": true,
       "profesiones": [
         {
-          "nombre": "Alchemy",
+          "nombre": "Alquimia",
           "nivel": 100,
           "max": 150
         },
         {
-          "nombre": "Herbalism",
+          "nombre": "Herboristería",
           "nivel": 108,
           "max": 150
         },
         {
-          "nombre": "Cooking",
+          "nombre": "Cocina",
           "nivel": 123,
           "max": 150
         },
         {
-          "nombre": "Fishing",
+          "nombre": "Pesca",
           "nivel": 75,
           "max": 150
         },
         {
-          "nombre": "First Aid",
+          "nombre": "Primeros auxilios",
           "nivel": 90,
           "max": 150
         }
@@ -737,27 +737,27 @@
       "raider": false,
       "profesiones": [
         {
-          "nombre": "Leatherworking",
+          "nombre": "Peletería",
           "nivel": 80,
           "max": 150
         },
         {
-          "nombre": "Skinning",
+          "nombre": "Desuello",
           "nivel": 143,
           "max": 150
         },
         {
-          "nombre": "Cooking",
+          "nombre": "Cocina",
           "nivel": 141,
           "max": 150
         },
         {
-          "nombre": "Fishing",
+          "nombre": "Pesca",
           "nivel": 150,
           "max": 150
         },
         {
-          "nombre": "First Aid",
+          "nombre": "Primeros auxilios",
           "nivel": 40,
           "max": 75
         }
@@ -769,27 +769,27 @@
       "raider": true,
       "profesiones": [
         {
-          "nombre": "Leatherworking",
+          "nombre": "Peletería",
           "nivel": 93,
           "max": 150
         },
         {
-          "nombre": "Skinning",
+          "nombre": "Desuello",
           "nivel": 143,
           "max": 150
         },
         {
-          "nombre": "Cooking",
+          "nombre": "Cocina",
           "nivel": 105,
           "max": 150
         },
         {
-          "nombre": "Fishing",
+          "nombre": "Pesca",
           "nivel": 46,
           "max": 75
         },
         {
-          "nombre": "First Aid",
+          "nombre": "Primeros auxilios",
           "nivel": 66,
           "max": 150
         }
@@ -801,27 +801,27 @@
       "raider": false,
       "profesiones": [
         {
-          "nombre": "Leatherworking",
+          "nombre": "Peletería",
           "nivel": 111,
           "max": 150
         },
         {
-          "nombre": "Skinning",
+          "nombre": "Desuello",
           "nivel": 150,
           "max": 150
         },
         {
-          "nombre": "Cooking",
+          "nombre": "Cocina",
           "nivel": 150,
           "max": 150
         },
         {
-          "nombre": "Fishing",
+          "nombre": "Pesca",
           "nivel": 163,
           "max": 225
         },
         {
-          "nombre": "First Aid",
+          "nombre": "Primeros auxilios",
           "nivel": 1,
           "max": 75
         }
@@ -833,27 +833,27 @@
       "raider": false,
       "profesiones": [
         {
-          "nombre": "Alchemy",
+          "nombre": "Alquimia",
           "nivel": 69,
           "max": 75
         },
         {
-          "nombre": "Herbalism",
+          "nombre": "Herboristería",
           "nivel": 97,
           "max": 150
         },
         {
-          "nombre": "Cooking",
+          "nombre": "Cocina",
           "nivel": 83,
           "max": 150
         },
         {
-          "nombre": "Fishing",
+          "nombre": "Pesca",
           "nivel": 75,
           "max": 75
         },
         {
-          "nombre": "First Aid",
+          "nombre": "Primeros auxilios",
           "nivel": 94,
           "max": 150
         }
@@ -865,22 +865,22 @@
       "raider": true,
       "profesiones": [
         {
-          "nombre": "Tailoring",
+          "nombre": "Sastrería",
           "nivel": 100,
           "max": 150
         },
         {
-          "nombre": "Enchanting",
+          "nombre": "Encantamiento",
           "nivel": 111,
           "max": 150
         },
         {
-          "nombre": "Cooking",
+          "nombre": "Cocina",
           "nivel": 52,
           "max": 75
         },
         {
-          "nombre": "Fishing",
+          "nombre": "Pesca",
           "nivel": 75,
           "max": 75
         }
@@ -892,27 +892,27 @@
       "raider": false,
       "profesiones": [
         {
-          "nombre": "Leatherworking",
+          "nombre": "Peletería",
           "nivel": 44,
           "max": 75
         },
         {
-          "nombre": "Skinning",
+          "nombre": "Desuello",
           "nivel": 119,
           "max": 150
         },
         {
-          "nombre": "Cooking",
+          "nombre": "Cocina",
           "nivel": 30,
           "max": 75
         },
         {
-          "nombre": "Fishing",
+          "nombre": "Pesca",
           "nivel": 30,
           "max": 75
         },
         {
-          "nombre": "First Aid",
+          "nombre": "Primeros auxilios",
           "nivel": 55,
           "max": 75
         }
@@ -924,27 +924,27 @@
       "raider": true,
       "profesiones": [
         {
-          "nombre": "Leatherworking",
+          "nombre": "Peletería",
           "nivel": 111,
           "max": 150
         },
         {
-          "nombre": "Skinning",
+          "nombre": "Desuello",
           "nivel": 201,
           "max": 225
         },
         {
-          "nombre": "Cooking",
+          "nombre": "Cocina",
           "nivel": 121,
           "max": 150
         },
         {
-          "nombre": "Fishing",
+          "nombre": "Pesca",
           "nivel": 68,
           "max": 150
         },
         {
-          "nombre": "First Aid",
+          "nombre": "Primeros auxilios",
           "nivel": 135,
           "max": 150
         }
@@ -956,17 +956,17 @@
       "raider": false,
       "profesiones": [
         {
-          "nombre": "Tailoring",
+          "nombre": "Sastrería",
           "nivel": 75,
           "max": 75
         },
         {
-          "nombre": "Enchanting",
+          "nombre": "Encantamiento",
           "nivel": 17,
           "max": 75
         },
         {
-          "nombre": "Cooking",
+          "nombre": "Cocina",
           "nivel": 1,
           "max": 75
         }
@@ -978,22 +978,22 @@
       "raider": true,
       "profesiones": [
         {
-          "nombre": "Leatherworking",
+          "nombre": "Peletería",
           "nivel": 65,
           "max": 75
         },
         {
-          "nombre": "Skinning",
+          "nombre": "Desuello",
           "nivel": 147,
           "max": 225
         },
         {
-          "nombre": "Cooking",
+          "nombre": "Cocina",
           "nivel": 115,
           "max": 150
         },
         {
-          "nombre": "First Aid",
+          "nombre": "Primeros auxilios",
           "nivel": 76,
           "max": 150
         }
@@ -1005,27 +1005,27 @@
       "raider": false,
       "profesiones": [
         {
-          "nombre": "Tailoring",
+          "nombre": "Sastrería",
           "nivel": 88,
           "max": 150
         },
         {
-          "nombre": "Enchanting",
+          "nombre": "Encantamiento",
           "nivel": 106,
           "max": 150
         },
         {
-          "nombre": "Cooking",
+          "nombre": "Cocina",
           "nivel": 1,
           "max": 75
         },
         {
-          "nombre": "Fishing",
+          "nombre": "Pesca",
           "nivel": 25,
           "max": 75
         },
         {
-          "nombre": "First Aid",
+          "nombre": "Primeros auxilios",
           "nivel": 1,
           "max": 75
         }
@@ -1037,7 +1037,7 @@
       "raider": false,
       "profesiones": [
         {
-          "nombre": "Cooking",
+          "nombre": "Cocina",
           "nivel": 1,
           "max": 75
         }
@@ -1049,27 +1049,27 @@
       "raider": false,
       "profesiones": [
         {
-          "nombre": "Alchemy",
+          "nombre": "Alquimia",
           "nivel": 225,
           "max": 225
         },
         {
-          "nombre": "Herbalism",
+          "nombre": "Herboristería",
           "nivel": 163,
           "max": 225
         },
         {
-          "nombre": "Cooking",
+          "nombre": "Cocina",
           "nivel": 119,
           "max": 150
         },
         {
-          "nombre": "Fishing",
+          "nombre": "Pesca",
           "nivel": 25,
           "max": 75
         },
         {
-          "nombre": "First Aid",
+          "nombre": "Primeros auxilios",
           "nivel": 69,
           "max": 150
         }
@@ -1081,22 +1081,22 @@
       "raider": false,
       "profesiones": [
         {
-          "nombre": "Alchemy",
+          "nombre": "Alquimia",
           "nivel": 27,
           "max": 75
         },
         {
-          "nombre": "Herbalism",
+          "nombre": "Herboristería",
           "nivel": 57,
           "max": 75
         },
         {
-          "nombre": "Cooking",
+          "nombre": "Cocina",
           "nivel": 19,
           "max": 75
         },
         {
-          "nombre": "First Aid",
+          "nombre": "Primeros auxilios",
           "nivel": 44,
           "max": 75
         }
@@ -1108,27 +1108,27 @@
       "raider": false,
       "profesiones": [
         {
-          "nombre": "Mining",
+          "nombre": "Minería",
           "nivel": 108,
           "max": 150
         },
         {
-          "nombre": "Blacksmithing",
+          "nombre": "Herrería",
           "nivel": 102,
           "max": 150
         },
         {
-          "nombre": "Cooking",
+          "nombre": "Cocina",
           "nivel": 130,
           "max": 150
         },
         {
-          "nombre": "Fishing",
+          "nombre": "Pesca",
           "nivel": 125,
           "max": 150
         },
         {
-          "nombre": "First Aid",
+          "nombre": "Primeros auxilios",
           "nivel": 79,
           "max": 150
         }
@@ -1140,27 +1140,27 @@
       "raider": false,
       "profesiones": [
         {
-          "nombre": "Tailoring",
+          "nombre": "Sastrería",
           "nivel": 45,
           "max": 75
         },
         {
-          "nombre": "Enchanting",
+          "nombre": "Encantamiento",
           "nivel": 11,
           "max": 75
         },
         {
-          "nombre": "Cooking",
+          "nombre": "Cocina",
           "nivel": 1,
           "max": 75
         },
         {
-          "nombre": "Fishing",
+          "nombre": "Pesca",
           "nivel": 1,
           "max": 75
         },
         {
-          "nombre": "First Aid",
+          "nombre": "Primeros auxilios",
           "nivel": 13,
           "max": 75
         }
@@ -1172,27 +1172,27 @@
       "raider": true,
       "profesiones": [
         {
-          "nombre": "Tailoring",
+          "nombre": "Sastrería",
           "nivel": 23,
           "max": 75
         },
         {
-          "nombre": "Enchanting",
+          "nombre": "Encantamiento",
           "nivel": 16,
           "max": 75
         },
         {
-          "nombre": "Cooking",
+          "nombre": "Cocina",
           "nivel": 10,
           "max": 75
         },
         {
-          "nombre": "Fishing",
+          "nombre": "Pesca",
           "nivel": 22,
           "max": 75
         },
         {
-          "nombre": "First Aid",
+          "nombre": "Primeros auxilios",
           "nivel": 41,
           "max": 75
         }
@@ -1204,27 +1204,27 @@
       "raider": false,
       "profesiones": [
         {
-          "nombre": "Alchemy",
+          "nombre": "Alquimia",
           "nivel": 105,
           "max": 150
         },
         {
-          "nombre": "Herbalism",
+          "nombre": "Herboristería",
           "nivel": 144,
           "max": 150
         },
         {
-          "nombre": "Cooking",
+          "nombre": "Cocina",
           "nivel": 117,
           "max": 150
         },
         {
-          "nombre": "Fishing",
+          "nombre": "Pesca",
           "nivel": 47,
           "max": 75
         },
         {
-          "nombre": "First Aid",
+          "nombre": "Primeros auxilios",
           "nivel": 115,
           "max": 150
         }
@@ -1234,7 +1234,7 @@
   "recetas": [
     {
       "nombre": "Blackmouth Oil",
-      "profesion": "Alchemy",
+      "profesion": "Alquimia",
       "calidad": "common",
       "personajes": [
         "Dio Hotmetal",
@@ -1247,7 +1247,7 @@
     },
     {
       "nombre": "Catseye Draught",
-      "profesion": "Alchemy",
+      "profesion": "Alquimia",
       "calidad": "common",
       "personajes": [
         "Sugar Papy"
@@ -1255,7 +1255,7 @@
     },
     {
       "nombre": "Cerulean Dye",
-      "profesion": "Alchemy",
+      "profesion": "Alquimia",
       "calidad": "uncommon",
       "personajes": [
         "Dio Hotmetal",
@@ -1270,7 +1270,7 @@
     },
     {
       "nombre": "Draught of Water Breathing",
-      "profesion": "Alchemy",
+      "profesion": "Alquimia",
       "calidad": "common",
       "personajes": [
         "Dio Hotmetal",
@@ -1282,7 +1282,7 @@
     },
     {
       "nombre": "Elixir of Agility",
-      "profesion": "Alchemy",
+      "profesion": "Alquimia",
       "calidad": "common",
       "personajes": [
         "Sugar Papy"
@@ -1290,7 +1290,7 @@
     },
     {
       "nombre": "Elixir of Defense",
-      "profesion": "Alchemy",
+      "profesion": "Alquimia",
       "calidad": "common",
       "personajes": [
         "Sugar Papy"
@@ -1298,7 +1298,7 @@
     },
     {
       "nombre": "Elixir of Fire Power",
-      "profesion": "Alchemy",
+      "profesion": "Alquimia",
       "calidad": "common",
       "personajes": [
         "Dio Hotmetal",
@@ -1307,7 +1307,7 @@
     },
     {
       "nombre": "Elixir of Lesser Defense",
-      "profesion": "Alchemy",
+      "profesion": "Alquimia",
       "calidad": "common",
       "personajes": [
         "Dio Hotmetal",
@@ -1316,7 +1316,7 @@
     },
     {
       "nombre": "Elixir of Lesser Fortitude",
-      "profesion": "Alchemy",
+      "profesion": "Alquimia",
       "calidad": "common",
       "personajes": [
         "Sugar Papy"
@@ -1324,7 +1324,7 @@
     },
     {
       "nombre": "Elixir of Minor Agility",
-      "profesion": "Alchemy",
+      "profesion": "Alquimia",
       "calidad": "common",
       "personajes": [
         "Layrela Rondanit",
@@ -1333,7 +1333,7 @@
     },
     {
       "nombre": "Elixir of Minor Defense",
-      "profesion": "Alchemy",
+      "profesion": "Alquimia",
       "calidad": "common",
       "personajes": [
         "Dio Hotmetal",
@@ -1349,7 +1349,7 @@
     },
     {
       "nombre": "Elixir of Minor Force",
-      "profesion": "Alchemy",
+      "profesion": "Alquimia",
       "calidad": "common",
       "personajes": [
         "Dio Hotmetal",
@@ -1365,7 +1365,7 @@
     },
     {
       "nombre": "Elixir of Minor Fortitude",
-      "profesion": "Alchemy",
+      "profesion": "Alquimia",
       "calidad": "common",
       "personajes": [
         "Dio Hotmetal",
@@ -1379,7 +1379,7 @@
     },
     {
       "nombre": "Elixir of Minor Strength",
-      "profesion": "Alchemy",
+      "profesion": "Alquimia",
       "calidad": "common",
       "personajes": [
         "Dio Hotmetal",
@@ -1395,7 +1395,7 @@
     },
     {
       "nombre": "Elixir of Wisdom",
-      "profesion": "Alchemy",
+      "profesion": "Alquimia",
       "calidad": "common",
       "personajes": [
         "Dio Hotmetal",
@@ -1407,7 +1407,7 @@
     },
     {
       "nombre": "Fire Oil",
-      "profesion": "Alchemy",
+      "profesion": "Alquimia",
       "calidad": "common",
       "personajes": [
         "Dio Hotmetal",
@@ -1416,7 +1416,7 @@
     },
     {
       "nombre": "Free Action Potion",
-      "profesion": "Alchemy",
+      "profesion": "Alquimia",
       "calidad": "common",
       "personajes": [
         "Sugar Papy"
@@ -1424,7 +1424,7 @@
     },
     {
       "nombre": "Great Rage Potion",
-      "profesion": "Alchemy",
+      "profesion": "Alquimia",
       "calidad": "common",
       "personajes": [
         "Sugar Papy"
@@ -1432,7 +1432,7 @@
     },
     {
       "nombre": "Greater Mana Potion",
-      "profesion": "Alchemy",
+      "profesion": "Alquimia",
       "calidad": "common",
       "personajes": [
         "Sugar Papy"
@@ -1440,7 +1440,7 @@
     },
     {
       "nombre": "Holy Protection Potion",
-      "profesion": "Alchemy",
+      "profesion": "Alquimia",
       "calidad": "common",
       "personajes": [
         "Dio Hotmetal",
@@ -1449,7 +1449,7 @@
     },
     {
       "nombre": "Lesser Invisibility Potion",
-      "profesion": "Alchemy",
+      "profesion": "Alquimia",
       "calidad": "common",
       "personajes": [
         "Sugar Papy"
@@ -1457,7 +1457,7 @@
     },
     {
       "nombre": "Lesser Mana Potion",
-      "profesion": "Alchemy",
+      "profesion": "Alquimia",
       "calidad": "common",
       "personajes": [
         "Dio Hotmetal",
@@ -1467,7 +1467,7 @@
     },
     {
       "nombre": "Lesser Mender's Potion",
-      "profesion": "Alchemy",
+      "profesion": "Alquimia",
       "calidad": "common",
       "personajes": [
         "Viilar Terrisia"
@@ -1475,7 +1475,7 @@
     },
     {
       "nombre": "Lesser Spellblasting Potion",
-      "profesion": "Alchemy",
+      "profesion": "Alquimia",
       "calidad": "common",
       "personajes": [
         "Viilar Terrisia"
@@ -1483,7 +1483,7 @@
     },
     {
       "nombre": "Lesser Troll's Blood Elixir",
-      "profesion": "Alchemy",
+      "profesion": "Alquimia",
       "calidad": "common",
       "personajes": [
         "Dio Hotmetal",
@@ -1493,7 +1493,7 @@
     },
     {
       "nombre": "Magenta Dye",
-      "profesion": "Alchemy",
+      "profesion": "Alquimia",
       "calidad": "uncommon",
       "personajes": [
         "Dio Hotmetal",
@@ -1503,7 +1503,7 @@
     },
     {
       "nombre": "Mana Potion",
-      "profesion": "Alchemy",
+      "profesion": "Alquimia",
       "calidad": "common",
       "personajes": [
         "Sugar Papy"
@@ -1511,7 +1511,7 @@
     },
     {
       "nombre": "Mana Well",
-      "profesion": "Alchemy",
+      "profesion": "Alquimia",
       "calidad": "common",
       "personajes": [
         "Dio Hotmetal",
@@ -1527,7 +1527,7 @@
     },
     {
       "nombre": "Minor Arcane Elixir",
-      "profesion": "Alchemy",
+      "profesion": "Alquimia",
       "calidad": "common",
       "personajes": [
         "Dio Hotmetal",
@@ -1543,7 +1543,7 @@
     },
     {
       "nombre": "Minor Cleric's Elixir",
-      "profesion": "Alchemy",
+      "profesion": "Alquimia",
       "calidad": "common",
       "personajes": [
         "Layrela Rondanit",
@@ -1552,7 +1552,7 @@
     },
     {
       "nombre": "Minor Mageblood Elixir",
-      "profesion": "Alchemy",
+      "profesion": "Alquimia",
       "calidad": "common",
       "personajes": [
         "Layrela Rondanit",
@@ -1561,7 +1561,7 @@
     },
     {
       "nombre": "Minor Mana Potion",
-      "profesion": "Alchemy",
+      "profesion": "Alquimia",
       "calidad": "common",
       "personajes": [
         "Dio Hotmetal",
@@ -1576,7 +1576,7 @@
     },
     {
       "nombre": "Minor Mender's Potion",
-      "profesion": "Alchemy",
+      "profesion": "Alquimia",
       "calidad": "common",
       "personajes": [
         "Genethika Brisaveloz"
@@ -1584,7 +1584,7 @@
     },
     {
       "nombre": "Minor Rejuvenation Potion",
-      "profesion": "Alchemy",
+      "profesion": "Alquimia",
       "calidad": "common",
       "personajes": [
         "Dio Hotmetal",
@@ -1599,7 +1599,7 @@
     },
     {
       "nombre": "Minor Spellblasting Potion",
-      "profesion": "Alchemy",
+      "profesion": "Alquimia",
       "calidad": "common",
       "personajes": [
         "Layrela Rondanit"
@@ -1607,7 +1607,7 @@
     },
     {
       "nombre": "Minor Troll's Blood Elixir",
-      "profesion": "Alchemy",
+      "profesion": "Alquimia",
       "calidad": "common",
       "personajes": [
         "Dio Hotmetal",
@@ -1623,7 +1623,7 @@
     },
     {
       "nombre": "Oil of Immolation",
-      "profesion": "Alchemy",
+      "profesion": "Alquimia",
       "calidad": "common",
       "personajes": [
         "Sugar Papy"
@@ -1631,7 +1631,7 @@
     },
     {
       "nombre": "Rage Potion",
-      "profesion": "Alchemy",
+      "profesion": "Alquimia",
       "calidad": "common",
       "personajes": [
         "Fran Furion",
@@ -1641,7 +1641,7 @@
     },
     {
       "nombre": "Shadow Protection Potion",
-      "profesion": "Alchemy",
+      "profesion": "Alquimia",
       "calidad": "common",
       "personajes": [
         "Sugar Papy"
@@ -1649,7 +1649,7 @@
     },
     {
       "nombre": "Sulfuric Acid",
-      "profesion": "Alchemy",
+      "profesion": "Alquimia",
       "calidad": "uncommon",
       "personajes": [
         "Dio Hotmetal",
@@ -1664,7 +1664,7 @@
     },
     {
       "nombre": "Swiftness Potion",
-      "profesion": "Alchemy",
+      "profesion": "Alquimia",
       "calidad": "common",
       "personajes": [
         "Viilar Terrisia"
@@ -1672,7 +1672,7 @@
     },
     {
       "nombre": "Swim Speed Potion",
-      "profesion": "Alchemy",
+      "profesion": "Alquimia",
       "calidad": "common",
       "personajes": [
         "Dio Hotmetal",
@@ -1683,675 +1683,8 @@
       ]
     },
     {
-      "nombre": "Acolyte's Chain Helm",
-      "profesion": "Blacksmithing",
-      "calidad": "rare",
-      "personajes": [
-        "Aalesian Naeuri"
-      ]
-    },
-    {
-      "nombre": "Big Bronze Knife",
-      "profesion": "Blacksmithing",
-      "calidad": "uncommon",
-      "personajes": [
-        "Aalesian Naeuri",
-        "Khyoraku Shunsui"
-      ]
-    },
-    {
-      "nombre": "Bronze Axe",
-      "profesion": "Blacksmithing",
-      "calidad": "uncommon",
-      "personajes": [
-        "Aalesian Naeuri",
-        "Tharindel Magnaluz"
-      ]
-    },
-    {
-      "nombre": "Bronze Battle Axe",
-      "profesion": "Blacksmithing",
-      "calidad": "uncommon",
-      "personajes": [
-        "Aalesian Naeuri"
-      ]
-    },
-    {
-      "nombre": "Bronze Greatsword",
-      "profesion": "Blacksmithing",
-      "calidad": "uncommon",
-      "personajes": [
-        "Aalesian Naeuri"
-      ]
-    },
-    {
-      "nombre": "Bronze Mace",
-      "profesion": "Blacksmithing",
-      "calidad": "uncommon",
-      "personajes": [
-        "Aalesian Naeuri",
-        "Khyoraku Shunsui",
-        "Tharindel Magnaluz"
-      ]
-    },
-    {
-      "nombre": "Bronze Shortsword",
-      "profesion": "Blacksmithing",
-      "calidad": "uncommon",
-      "personajes": [
-        "Aalesian Naeuri"
-      ]
-    },
-    {
-      "nombre": "Bronze Warhammer",
-      "profesion": "Blacksmithing",
-      "calidad": "uncommon",
-      "personajes": [
-        "Aalesian Naeuri"
-      ]
-    },
-    {
-      "nombre": "Coarse Grinding Stone",
-      "profesion": "Blacksmithing",
-      "calidad": "common",
-      "personajes": [
-        "Aalesian Naeuri",
-        "Espartaco Gladiador",
-        "Hugo Forjaluz",
-        "Khyoraku Shunsui",
-        "Tharindel Magnaluz"
-      ]
-    },
-    {
-      "nombre": "Coarse Sharpening Stone",
-      "profesion": "Blacksmithing",
-      "calidad": "common",
-      "personajes": [
-        "Aalesian Naeuri",
-        "Espartaco Gladiador",
-        "Hugo Forjaluz",
-        "Khyoraku Shunsui"
-      ]
-    },
-    {
-      "nombre": "Coarse Weightstone",
-      "profesion": "Blacksmithing",
-      "calidad": "common",
-      "personajes": [
-        "Aalesian Naeuri",
-        "Espartaco Gladiador",
-        "Hugo Forjaluz",
-        "Khyoraku Shunsui"
-      ]
-    },
-    {
-      "nombre": "Copper Axe",
-      "profesion": "Blacksmithing",
-      "calidad": "common",
-      "personajes": [
-        "Aalesian Naeuri",
-        "Espartaco Gladiador",
-        "Hugo Forjaluz",
-        "Khyoraku Shunsui",
-        "Tharindel Magnaluz"
-      ]
-    },
-    {
-      "nombre": "Copper Battle Axe",
-      "profesion": "Blacksmithing",
-      "calidad": "uncommon",
-      "personajes": [
-        "Aalesian Naeuri",
-        "Hugo Forjaluz",
-        "Khyoraku Shunsui"
-      ]
-    },
-    {
-      "nombre": "Copper Bracers",
-      "profesion": "Blacksmithing",
-      "calidad": "common",
-      "personajes": [
-        "Aalesian Naeuri",
-        "Espartaco Gladiador",
-        "Hugo Forjaluz",
-        "Khyoraku Shunsui",
-        "Tharindel Magnaluz"
-      ]
-    },
-    {
-      "nombre": "Copper Chain Belt",
-      "profesion": "Blacksmithing",
-      "calidad": "uncommon",
-      "personajes": [
-        "Aalesian Naeuri",
-        "Espartaco Gladiador",
-        "Hugo Forjaluz",
-        "Khyoraku Shunsui",
-        "Tharindel Magnaluz"
-      ]
-    },
-    {
-      "nombre": "Copper Chain Boots",
-      "profesion": "Blacksmithing",
-      "calidad": "uncommon",
-      "personajes": [
-        "Aalesian Naeuri",
-        "Espartaco Gladiador",
-        "Hugo Forjaluz",
-        "Khyoraku Shunsui",
-        "Tharindel Magnaluz"
-      ]
-    },
-    {
-      "nombre": "Copper Chain Pants",
-      "profesion": "Blacksmithing",
-      "calidad": "uncommon",
-      "personajes": [
-        "Aalesian Naeuri",
-        "Espartaco Gladiador",
-        "Hugo Forjaluz",
-        "Khyoraku Shunsui",
-        "Tharindel Magnaluz"
-      ]
-    },
-    {
-      "nombre": "Copper Chain Vest",
-      "profesion": "Blacksmithing",
-      "calidad": "uncommon",
-      "personajes": [
-        "Espartaco Gladiador"
-      ]
-    },
-    {
-      "nombre": "Copper Claymore",
-      "profesion": "Blacksmithing",
-      "calidad": "uncommon",
-      "personajes": [
-        "Aalesian Naeuri",
-        "Espartaco Gladiador",
-        "Hugo Forjaluz",
-        "Khyoraku Shunsui"
-      ]
-    },
-    {
-      "nombre": "Copper Dagger",
-      "profesion": "Blacksmithing",
-      "calidad": "uncommon",
-      "personajes": [
-        "Aalesian Naeuri",
-        "Espartaco Gladiador",
-        "Hugo Forjaluz",
-        "Khyoraku Shunsui"
-      ]
-    },
-    {
-      "nombre": "Copper Mace",
-      "profesion": "Blacksmithing",
-      "calidad": "common",
-      "personajes": [
-        "Aalesian Naeuri",
-        "Espartaco Gladiador",
-        "Hugo Forjaluz",
-        "Khyoraku Shunsui",
-        "Tharindel Magnaluz"
-      ]
-    },
-    {
-      "nombre": "Copper Rod",
-      "profesion": "Blacksmithing",
-      "calidad": "common",
-      "personajes": [
-        "Aalesian Naeuri",
-        "Espartaco Gladiador",
-        "Hugo Forjaluz",
-        "Khyoraku Shunsui",
-        "Tharindel Magnaluz"
-      ]
-    },
-    {
-      "nombre": "Copper Shortsword",
-      "profesion": "Blacksmithing",
-      "calidad": "uncommon",
-      "personajes": [
-        "Aalesian Naeuri",
-        "Espartaco Gladiador",
-        "Hugo Forjaluz",
-        "Khyoraku Shunsui",
-        "Tharindel Magnaluz"
-      ]
-    },
-    {
-      "nombre": "Gemmed Copper Boots",
-      "profesion": "Blacksmithing",
-      "calidad": "rare",
-      "personajes": [
-        "Aalesian Naeuri",
-        "Espartaco Gladiador",
-        "Hugo Forjaluz",
-        "Khyoraku Shunsui",
-        "Tharindel Magnaluz"
-      ]
-    },
-    {
-      "nombre": "Glowing Copper Boots",
-      "profesion": "Blacksmithing",
-      "calidad": "rare",
-      "personajes": [
-        "Aalesian Naeuri",
-        "Hugo Forjaluz",
-        "Khyoraku Shunsui",
-        "Tharindel Magnaluz"
-      ]
-    },
-    {
-      "nombre": "Golden Rod",
-      "profesion": "Blacksmithing",
-      "calidad": "common",
-      "personajes": [
-        "Aalesian Naeuri"
-      ]
-    },
-    {
-      "nombre": "Golden Skeleton Key",
-      "profesion": "Blacksmithing",
-      "calidad": "uncommon",
-      "personajes": [
-        "Aalesian Naeuri"
-      ]
-    },
-    {
-      "nombre": "Green Iron Bracers",
-      "profesion": "Blacksmithing",
-      "calidad": "uncommon",
-      "personajes": [
-        "Aalesian Naeuri"
-      ]
-    },
-    {
-      "nombre": "Green Iron Helm",
-      "profesion": "Blacksmithing",
-      "calidad": "uncommon",
-      "personajes": [
-        "Aalesian Naeuri"
-      ]
-    },
-    {
-      "nombre": "Green Iron Leggings",
-      "profesion": "Blacksmithing",
-      "calidad": "uncommon",
-      "personajes": [
-        "Aalesian Naeuri"
-      ]
-    },
-    {
-      "nombre": "Heavy Bronze Mace",
-      "profesion": "Blacksmithing",
-      "calidad": "uncommon",
-      "personajes": [
-        "Aalesian Naeuri"
-      ]
-    },
-    {
-      "nombre": "Heavy Copper Broadsword",
-      "profesion": "Blacksmithing",
-      "calidad": "uncommon",
-      "personajes": [
-        "Aalesian Naeuri",
-        "Hugo Forjaluz",
-        "Khyoraku Shunsui"
-      ]
-    },
-    {
-      "nombre": "Heavy Copper Maul",
-      "profesion": "Blacksmithing",
-      "calidad": "uncommon",
-      "personajes": [
-        "Aalesian Naeuri",
-        "Espartaco Gladiador",
-        "Hugo Forjaluz",
-        "Khyoraku Shunsui",
-        "Tharindel Magnaluz"
-      ]
-    },
-    {
-      "nombre": "Heavy Grinding Stone",
-      "profesion": "Blacksmithing",
-      "calidad": "common",
-      "personajes": [
-        "Aalesian Naeuri",
-        "Espartaco Gladiador"
-      ]
-    },
-    {
-      "nombre": "Heavy Sharpening Stone",
-      "profesion": "Blacksmithing",
-      "calidad": "common",
-      "personajes": [
-        "Aalesian Naeuri",
-        "Espartaco Gladiador"
-      ]
-    },
-    {
-      "nombre": "Heavy Weightstone",
-      "profesion": "Blacksmithing",
-      "calidad": "common",
-      "personajes": [
-        "Aalesian Naeuri",
-        "Espartaco Gladiador"
-      ]
-    },
-    {
-      "nombre": "Iridescent Hammer",
-      "profesion": "Blacksmithing",
-      "calidad": "uncommon",
-      "personajes": [
-        "Aalesian Naeuri"
-      ]
-    },
-    {
-      "nombre": "Iron Buckle",
-      "profesion": "Blacksmithing",
-      "calidad": "common",
-      "personajes": [
-        "Aalesian Naeuri"
-      ]
-    },
-    {
-      "nombre": "Ironforge Breastplate",
-      "profesion": "Blacksmithing",
-      "calidad": "uncommon",
-      "personajes": [
-        "Espartaco Gladiador",
-        "Tharindel Magnaluz"
-      ]
-    },
-    {
-      "nombre": "Patterned Bronze Bracers",
-      "profesion": "Blacksmithing",
-      "calidad": "uncommon",
-      "personajes": [
-        "Aalesian Naeuri",
-        "Espartaco Gladiador"
-      ]
-    },
-    {
-      "nombre": "Pearl-handled Dagger",
-      "profesion": "Blacksmithing",
-      "calidad": "uncommon",
-      "personajes": [
-        "Aalesian Naeuri",
-        "Khyoraku Shunsui"
-      ]
-    },
-    {
-      "nombre": "Protector's Chain Leggings",
-      "profesion": "Blacksmithing",
-      "calidad": "rare",
-      "personajes": [
-        "Espartaco Gladiador"
-      ]
-    },
-    {
-      "nombre": "Protector's Silvered Chain Helm",
-      "profesion": "Blacksmithing",
-      "calidad": "rare",
-      "personajes": [
-        "Espartaco Gladiador"
-      ]
-    },
-    {
-      "nombre": "Rough Bronze Boots",
-      "profesion": "Blacksmithing",
-      "calidad": "uncommon",
-      "personajes": [
-        "Aalesian Naeuri",
-        "Espartaco Gladiador",
-        "Hugo Forjaluz",
-        "Khyoraku Shunsui",
-        "Tharindel Magnaluz"
-      ]
-    },
-    {
-      "nombre": "Rough Bronze Cuirass",
-      "profesion": "Blacksmithing",
-      "calidad": "uncommon",
-      "personajes": [
-        "Aalesian Naeuri",
-        "Espartaco Gladiador",
-        "Khyoraku Shunsui"
-      ]
-    },
-    {
-      "nombre": "Rough Bronze Leggings",
-      "profesion": "Blacksmithing",
-      "calidad": "uncommon",
-      "personajes": [
-        "Aalesian Naeuri",
-        "Espartaco Gladiador",
-        "Khyoraku Shunsui",
-        "Tharindel Magnaluz"
-      ]
-    },
-    {
-      "nombre": "Rough Bronze Shoulders",
-      "profesion": "Blacksmithing",
-      "calidad": "uncommon",
-      "personajes": [
-        "Aalesian Naeuri",
-        "Espartaco Gladiador",
-        "Khyoraku Shunsui",
-        "Tharindel Magnaluz"
-      ]
-    },
-    {
-      "nombre": "Rough Copper Chain Boots",
-      "profesion": "Blacksmithing",
-      "calidad": "uncommon",
-      "personajes": [
-        "Espartaco Gladiador",
-        "Tharindel Magnaluz"
-      ]
-    },
-    {
-      "nombre": "Rough Copper Vest",
-      "profesion": "Blacksmithing",
-      "calidad": "uncommon",
-      "personajes": [
-        "Aalesian Naeuri",
-        "Espartaco Gladiador",
-        "Hugo Forjaluz",
-        "Khyoraku Shunsui",
-        "Tharindel Magnaluz"
-      ]
-    },
-    {
-      "nombre": "Rough Grinding Stone",
-      "profesion": "Blacksmithing",
-      "calidad": "common",
-      "personajes": [
-        "Aalesian Naeuri",
-        "Espartaco Gladiador",
-        "Hugo Forjaluz",
-        "Khyoraku Shunsui",
-        "Tharindel Magnaluz"
-      ]
-    },
-    {
-      "nombre": "Rough Sharpening Stone",
-      "profesion": "Blacksmithing",
-      "calidad": "common",
-      "personajes": [
-        "Aalesian Naeuri",
-        "Espartaco Gladiador",
-        "Hugo Forjaluz",
-        "Khyoraku Shunsui",
-        "Tharindel Magnaluz"
-      ]
-    },
-    {
-      "nombre": "Rough Weightstone",
-      "profesion": "Blacksmithing",
-      "calidad": "common",
-      "personajes": [
-        "Aalesian Naeuri",
-        "Espartaco Gladiador",
-        "Hugo Forjaluz",
-        "Khyoraku Shunsui",
-        "Tharindel Magnaluz"
-      ]
-    },
-    {
-      "nombre": "Runed Copper Belt",
-      "profesion": "Blacksmithing",
-      "calidad": "uncommon",
-      "personajes": [
-        "Aalesian Naeuri",
-        "Espartaco Gladiador",
-        "Hugo Forjaluz",
-        "Khyoraku Shunsui",
-        "Tharindel Magnaluz"
-      ]
-    },
-    {
-      "nombre": "Runed Copper Bracers",
-      "profesion": "Blacksmithing",
-      "calidad": "uncommon",
-      "personajes": [
-        "Aalesian Naeuri",
-        "Espartaco Gladiador",
-        "Hugo Forjaluz",
-        "Khyoraku Shunsui",
-        "Tharindel Magnaluz"
-      ]
-    },
-    {
-      "nombre": "Runed Copper Gauntlets",
-      "profesion": "Blacksmithing",
-      "calidad": "uncommon",
-      "personajes": [
-        "Aalesian Naeuri",
-        "Espartaco Gladiador",
-        "Hugo Forjaluz",
-        "Khyoraku Shunsui",
-        "Tharindel Magnaluz"
-      ]
-    },
-    {
-      "nombre": "Runed Copper Pants",
-      "profesion": "Blacksmithing",
-      "calidad": "uncommon",
-      "personajes": [
-        "Aalesian Naeuri",
-        "Espartaco Gladiador",
-        "Hugo Forjaluz",
-        "Khyoraku Shunsui",
-        "Tharindel Magnaluz"
-      ]
-    },
-    {
-      "nombre": "Sharpening Wheel",
-      "profesion": "Blacksmithing",
-      "calidad": "common",
-      "personajes": [
-        "Aalesian Naeuri",
-        "Espartaco Gladiador",
-        "Hugo Forjaluz",
-        "Khyoraku Shunsui",
-        "Tharindel Magnaluz"
-      ]
-    },
-    {
-      "nombre": "Shining Silver Breastplate",
-      "profesion": "Blacksmithing",
-      "calidad": "rare",
-      "personajes": [
-        "Aalesian Naeuri"
-      ]
-    },
-    {
-      "nombre": "Silver Rod",
-      "profesion": "Blacksmithing",
-      "calidad": "common",
-      "personajes": [
-        "Aalesian Naeuri",
-        "Espartaco Gladiador",
-        "Hugo Forjaluz",
-        "Khyoraku Shunsui",
-        "Tharindel Magnaluz"
-      ]
-    },
-    {
-      "nombre": "Silver Skeleton Key",
-      "profesion": "Blacksmithing",
-      "calidad": "uncommon",
-      "personajes": [
-        "Aalesian Naeuri",
-        "Espartaco Gladiador",
-        "Hugo Forjaluz",
-        "Khyoraku Shunsui",
-        "Tharindel Magnaluz"
-      ]
-    },
-    {
-      "nombre": "Silvered Bronze Boots",
-      "profesion": "Blacksmithing",
-      "calidad": "uncommon",
-      "personajes": [
-        "Aalesian Naeuri",
-        "Espartaco Gladiador"
-      ]
-    },
-    {
-      "nombre": "Silvered Bronze Breastplate",
-      "profesion": "Blacksmithing",
-      "calidad": "uncommon",
-      "personajes": [
-        "Aalesian Naeuri"
-      ]
-    },
-    {
-      "nombre": "Silvered Bronze Gauntlets",
-      "profesion": "Blacksmithing",
-      "calidad": "uncommon",
-      "personajes": [
-        "Aalesian Naeuri",
-        "Espartaco Gladiador"
-      ]
-    },
-    {
-      "nombre": "Sterling Silver Shoulders",
-      "profesion": "Blacksmithing",
-      "calidad": "uncommon",
-      "personajes": [
-        "Aalesian Naeuri",
-        "Espartaco Gladiador"
-      ]
-    },
-    {
-      "nombre": "Strange Copper Boots",
-      "profesion": "Blacksmithing",
-      "calidad": "rare",
-      "personajes": [
-        "Aalesian Naeuri",
-        "Hugo Forjaluz",
-        "Khyoraku Shunsui",
-        "Tharindel Magnaluz"
-      ]
-    },
-    {
-      "nombre": "Thick War Axe",
-      "profesion": "Blacksmithing",
-      "calidad": "uncommon",
-      "personajes": [
-        "Aalesian Naeuri",
-        "Espartaco Gladiador",
-        "Hugo Forjaluz",
-        "Khyoraku Shunsui"
-      ]
-    },
-    {
       "nombre": "Basic Campfire",
-      "profesion": "Cooking",
+      "profesion": "Cocina",
       "calidad": "common",
       "personajes": [
         "Aalesian Naeuri",
@@ -2400,7 +1733,7 @@
     },
     {
       "nombre": "Beer Basted Boar Ribs",
-      "profesion": "Cooking",
+      "profesion": "Cocina",
       "calidad": "common",
       "personajes": [
         "Aalesian Naeuri",
@@ -2416,7 +1749,7 @@
     },
     {
       "nombre": "Big Bear Steak",
-      "profesion": "Cooking",
+      "profesion": "Cocina",
       "calidad": "common",
       "personajes": [
         "Espartaco Gladiador"
@@ -2424,7 +1757,7 @@
     },
     {
       "nombre": "Blood Sausage",
-      "profesion": "Cooking",
+      "profesion": "Cocina",
       "calidad": "common",
       "personajes": [
         "Dum Bo",
@@ -2438,7 +1771,7 @@
     },
     {
       "nombre": "Boiled Clams",
-      "profesion": "Cooking",
+      "profesion": "Cocina",
       "calidad": "common",
       "personajes": [
         "Aalesian Naeuri",
@@ -2467,7 +1800,7 @@
     },
     {
       "nombre": "Breakfast Omelette",
-      "profesion": "Cooking",
+      "profesion": "Cocina",
       "calidad": "common",
       "personajes": [
         "Diana Flechaveloz",
@@ -2477,7 +1810,7 @@
     },
     {
       "nombre": "Brilliant Smallfish",
-      "profesion": "Cooking",
+      "profesion": "Cocina",
       "calidad": "common",
       "personajes": [
         "Aalesian Naeuri",
@@ -2503,7 +1836,7 @@
     },
     {
       "nombre": "Bristle Whisker Catfish",
-      "profesion": "Cooking",
+      "profesion": "Cocina",
       "calidad": "common",
       "personajes": [
         "Diana Flechaveloz",
@@ -2516,7 +1849,7 @@
     },
     {
       "nombre": "Charred Wolf Meat",
-      "profesion": "Cooking",
+      "profesion": "Cocina",
       "calidad": "common",
       "personajes": [
         "Aalesian Naeuri",
@@ -2565,7 +1898,7 @@
     },
     {
       "nombre": "Clam Chowder",
-      "profesion": "Cooking",
+      "profesion": "Cocina",
       "calidad": "common",
       "personajes": [
         "Lithanas Chafardero",
@@ -2574,7 +1907,7 @@
     },
     {
       "nombre": "Cooked Crab Claw",
-      "profesion": "Cooking",
+      "profesion": "Cocina",
       "calidad": "common",
       "personajes": [
         "Chaca Choochoo",
@@ -2587,7 +1920,7 @@
     },
     {
       "nombre": "Coyote Steak",
-      "profesion": "Cooking",
+      "profesion": "Cocina",
       "calidad": "common",
       "personajes": [
         "Aalesian Naeuri",
@@ -2615,7 +1948,7 @@
     },
     {
       "nombre": "Crab Cake",
-      "profesion": "Cooking",
+      "profesion": "Cocina",
       "calidad": "common",
       "personajes": [
         "Aalesian Naeuri",
@@ -2641,7 +1974,7 @@
     },
     {
       "nombre": "Crocolisk Gumbo",
-      "profesion": "Cooking",
+      "profesion": "Cocina",
       "calidad": "common",
       "personajes": [
         "Aalesian Naeuri",
@@ -2657,7 +1990,7 @@
     },
     {
       "nombre": "Crocolisk Steak",
-      "profesion": "Cooking",
+      "profesion": "Cocina",
       "calidad": "common",
       "personajes": [
         "Dum Bo",
@@ -2667,7 +2000,7 @@
     },
     {
       "nombre": "Curiously Tasty Omelet",
-      "profesion": "Cooking",
+      "profesion": "Cocina",
       "calidad": "common",
       "personajes": [
         "Aalesian Naeuri",
@@ -2679,7 +2012,7 @@
     },
     {
       "nombre": "Dry Pork Ribs",
-      "profesion": "Cooking",
+      "profesion": "Cocina",
       "calidad": "common",
       "personajes": [
         "Aalesian Naeuri",
@@ -2705,7 +2038,7 @@
     },
     {
       "nombre": "Fillet of Frenzy",
-      "profesion": "Cooking",
+      "profesion": "Cocina",
       "calidad": "common",
       "personajes": [
         "Dio Hotmetal",
@@ -2716,7 +2049,7 @@
     },
     {
       "nombre": "Goblin Deviled Clams",
-      "profesion": "Cooking",
+      "profesion": "Cocina",
       "calidad": "common",
       "personajes": [
         "Dum Bo",
@@ -2731,7 +2064,7 @@
     },
     {
       "nombre": "Gooey Spider Cake",
-      "profesion": "Cooking",
+      "profesion": "Cocina",
       "calidad": "common",
       "personajes": [
         "Aalesian Naeuri",
@@ -2749,7 +2082,7 @@
     },
     {
       "nombre": "Goretusk Liver Pie",
-      "profesion": "Cooking",
+      "profesion": "Cocina",
       "calidad": "common",
       "personajes": [
         "Dum Bo",
@@ -2765,7 +2098,7 @@
     },
     {
       "nombre": "Herb Baked Egg",
-      "profesion": "Cooking",
+      "profesion": "Cocina",
       "calidad": "common",
       "personajes": [
         "Aalesian Naeuri",
@@ -2814,7 +2147,7 @@
     },
     {
       "nombre": "Kaldorei Spider Kabob",
-      "profesion": "Cooking",
+      "profesion": "Cocina",
       "calidad": "common",
       "personajes": [
         "Aalesian Naeuri",
@@ -2829,7 +2162,7 @@
     },
     {
       "nombre": "Lean Venison",
-      "profesion": "Cooking",
+      "profesion": "Cocina",
       "calidad": "common",
       "personajes": [
         "Espartaco Gladiador"
@@ -2837,7 +2170,7 @@
     },
     {
       "nombre": "Loch Frenzy Delight",
-      "profesion": "Cooking",
+      "profesion": "Cocina",
       "calidad": "common",
       "personajes": [
         "Dum Bo",
@@ -2848,7 +2181,7 @@
     },
     {
       "nombre": "Longjaw Mud Snapper",
-      "profesion": "Cooking",
+      "profesion": "Cocina",
       "calidad": "common",
       "personajes": [
         "Cuzcu Aker",
@@ -2863,7 +2196,7 @@
     },
     {
       "nombre": "Mithril Headed Trout",
-      "profesion": "Cooking",
+      "profesion": "Cocina",
       "calidad": "common",
       "personajes": [
         "Dum Bo",
@@ -2872,7 +2205,7 @@
     },
     {
       "nombre": "Murloc Fin Soup",
-      "profesion": "Cooking",
+      "profesion": "Cocina",
       "calidad": "common",
       "personajes": [
         "Aalesian Naeuri",
@@ -2891,7 +2224,7 @@
     },
     {
       "nombre": "Peace Tea",
-      "profesion": "Cooking",
+      "profesion": "Cocina",
       "calidad": "common",
       "personajes": [
         "Espartaco Gladiador",
@@ -2901,7 +2234,7 @@
     },
     {
       "nombre": "Pincer Bites",
-      "profesion": "Cooking",
+      "profesion": "Cocina",
       "calidad": "common",
       "personajes": [
         "Chaca Choochoo",
@@ -2913,7 +2246,7 @@
     },
     {
       "nombre": "Rainbow Fin Albacore",
-      "profesion": "Cooking",
+      "profesion": "Cocina",
       "calidad": "common",
       "personajes": [
         "Diana Flechaveloz",
@@ -2932,7 +2265,7 @@
     },
     {
       "nombre": "Redridge Goulash",
-      "profesion": "Cooking",
+      "profesion": "Cocina",
       "calidad": "common",
       "personajes": [
         "Aalesian Naeuri",
@@ -2947,7 +2280,7 @@
     },
     {
       "nombre": "Roasted Boar Meat",
-      "profesion": "Cooking",
+      "profesion": "Cocina",
       "calidad": "common",
       "personajes": [
         "Aalesian Naeuri",
@@ -2996,7 +2329,7 @@
     },
     {
       "nombre": "Rockscale Cod",
-      "profesion": "Cooking",
+      "profesion": "Cocina",
       "calidad": "common",
       "personajes": [
         "Finn Felagund"
@@ -3004,7 +2337,7 @@
     },
     {
       "nombre": "Sagefish Delight",
-      "profesion": "Cooking",
+      "profesion": "Cocina",
       "calidad": "common",
       "personajes": [
         "Finn Felagund"
@@ -3012,7 +2345,7 @@
     },
     {
       "nombre": "Seasoned Wolf Kabob",
-      "profesion": "Cooking",
+      "profesion": "Cocina",
       "calidad": "common",
       "personajes": [
         "Aalesian Naeuri",
@@ -3030,7 +2363,7 @@
     },
     {
       "nombre": "Skywall Souffle",
-      "profesion": "Cooking",
+      "profesion": "Cocina",
       "calidad": "common",
       "personajes": [
         "Chaca Choochoo",
@@ -3042,7 +2375,7 @@
     },
     {
       "nombre": "Slitherskin Mackerel",
-      "profesion": "Cooking",
+      "profesion": "Cocina",
       "calidad": "common",
       "personajes": [
         "Aalesian Naeuri",
@@ -3065,7 +2398,7 @@
     },
     {
       "nombre": "Smoked Bear Meat",
-      "profesion": "Cooking",
+      "profesion": "Cocina",
       "calidad": "common",
       "personajes": [
         "Manelhon Gargon",
@@ -3074,7 +2407,7 @@
     },
     {
       "nombre": "Smoked Sagefish",
-      "profesion": "Cooking",
+      "profesion": "Cocina",
       "calidad": "common",
       "personajes": [
         "Diana Flechaveloz",
@@ -3094,7 +2427,7 @@
     },
     {
       "nombre": "Soothing Turtle Bisque",
-      "profesion": "Cooking",
+      "profesion": "Cocina",
       "calidad": "common",
       "personajes": [
         "Finn Felagund"
@@ -3102,7 +2435,7 @@
     },
     {
       "nombre": "Spiced Wolf Meat",
-      "profesion": "Cooking",
+      "profesion": "Cocina",
       "calidad": "common",
       "personajes": [
         "Aalesian Naeuri",
@@ -3134,7 +2467,7 @@
     },
     {
       "nombre": "Strider Stew",
-      "profesion": "Cooking",
+      "profesion": "Cocina",
       "calidad": "common",
       "personajes": [
         "Diana Flechaveloz",
@@ -3145,7 +2478,7 @@
     },
     {
       "nombre": "Succulent Pork Ribs",
-      "profesion": "Cooking",
+      "profesion": "Cocina",
       "calidad": "common",
       "personajes": [
         "Aalesian Naeuri",
@@ -3155,7 +2488,7 @@
     },
     {
       "nombre": "Tasty Lion Steak",
-      "profesion": "Cooking",
+      "profesion": "Cocina",
       "calidad": "common",
       "personajes": [
         "Finn Felagund"
@@ -3163,7 +2496,7 @@
     },
     {
       "nombre": "Tasty Raptor Bites",
-      "profesion": "Cooking",
+      "profesion": "Cocina",
       "calidad": "common",
       "personajes": [
         "Chaca Choochoo",
@@ -3175,7 +2508,7 @@
     },
     {
       "nombre": "Thistle Tea",
-      "profesion": "Cooking",
+      "profesion": "Cocina",
       "calidad": "common",
       "personajes": [
         "La Pety",
@@ -3184,7 +2517,7 @@
     },
     {
       "nombre": "Westfall Stew",
-      "profesion": "Cooking",
+      "profesion": "Cocina",
       "calidad": "common",
       "personajes": [
         "Aalesian Naeuri",
@@ -3201,8 +2534,61 @@
       ]
     },
     {
+      "nombre": "Camp Chair",
+      "profesion": "Desuello",
+      "calidad": "common",
+      "personajes": [
+        "Aurelio Amador",
+        "Diana Flechaveloz",
+        "Edoras Duskranger",
+        "Filps Pachamamamon",
+        "Fitipaldi Sendaumbria",
+        "Ildaren Belisar",
+        "Lithanas Chafardero",
+        "Manelhon Gargon",
+        "Memas Tour",
+        "Nindalf Pizpireta",
+        "Palmira Natblida",
+        "Runa Ruina"
+      ]
+    },
+    {
+      "nombre": "Field Guide",
+      "profesion": "Desuello",
+      "calidad": "common",
+      "personajes": [
+        "Edoras Duskranger"
+      ]
+    },
+    {
+      "nombre": "Skinning",
+      "profesion": "Desuello",
+      "calidad": "common",
+      "personajes": [
+        "Diana Flechaveloz",
+        "Edoras Duskranger",
+        "Ildaren Belisar",
+        "Palmira Natblida",
+        "Runa Ruina"
+      ]
+    },
+    {
+      "nombre": "Skinning",
+      "profesion": "Desuello",
+      "calidad": "common",
+      "personajes": [
+        "Aurelio Amador",
+        "Filps Pachamamamon",
+        "Fitipaldi Sendaumbria",
+        "Lithanas Chafardero",
+        "Manelhon Gargon",
+        "Memas Tour",
+        "Nindalf Pizpireta"
+      ]
+    },
+    {
       "nombre": "Disenchant",
-      "profesion": "Enchanting",
+      "profesion": "Encantamiento",
       "calidad": "common",
       "personajes": [
         "Dum Bo",
@@ -3216,7 +2602,7 @@
     },
     {
       "nombre": "Dust to Motes",
-      "profesion": "Enchanting",
+      "profesion": "Encantamiento",
       "calidad": "common",
       "personajes": [
         "Dum Bo",
@@ -3230,7 +2616,7 @@
     },
     {
       "nombre": "Enchant 2H Weapon - Lesser Intellect",
-      "profesion": "Enchanting",
+      "profesion": "Encantamiento",
       "calidad": "common",
       "personajes": [
         "Dum Bo"
@@ -3238,7 +2624,7 @@
     },
     {
       "nombre": "Enchant 2H Weapon - Lesser Spirit",
-      "profesion": "Enchanting",
+      "profesion": "Encantamiento",
       "calidad": "common",
       "personajes": [
         "Dum Bo",
@@ -3247,7 +2633,7 @@
     },
     {
       "nombre": "Enchant 2H Weapon - Minor Impact",
-      "profesion": "Enchanting",
+      "profesion": "Encantamiento",
       "calidad": "common",
       "personajes": [
         "Dum Bo",
@@ -3257,7 +2643,7 @@
     },
     {
       "nombre": "Enchant Boots - Minor Stamina",
-      "profesion": "Enchanting",
+      "profesion": "Encantamiento",
       "calidad": "common",
       "personajes": [
         "Dum Bo",
@@ -3266,7 +2652,7 @@
     },
     {
       "nombre": "Enchant Bracer - Inferior Stamina",
-      "profesion": "Enchanting",
+      "profesion": "Encantamiento",
       "calidad": "common",
       "personajes": [
         "Dum Bo",
@@ -3280,7 +2666,7 @@
     },
     {
       "nombre": "Enchant Bracer - Lesser Spirit",
-      "profesion": "Enchanting",
+      "profesion": "Encantamiento",
       "calidad": "common",
       "personajes": [
         "Dum Bo"
@@ -3288,7 +2674,7 @@
     },
     {
       "nombre": "Enchant Bracer - Lesser Stamina",
-      "profesion": "Enchanting",
+      "profesion": "Encantamiento",
       "calidad": "common",
       "personajes": [
         "Finn Felagund"
@@ -3296,7 +2682,7 @@
     },
     {
       "nombre": "Enchant Bracer - Minor Agility",
-      "profesion": "Enchanting",
+      "profesion": "Encantamiento",
       "calidad": "common",
       "personajes": [
         "Dum Bo",
@@ -3306,7 +2692,7 @@
     },
     {
       "nombre": "Enchant Bracer - Minor Deflect",
-      "profesion": "Enchanting",
+      "profesion": "Encantamiento",
       "calidad": "common",
       "personajes": [
         "Dum Bo",
@@ -3320,7 +2706,7 @@
     },
     {
       "nombre": "Enchant Bracer - Minor Spirit",
-      "profesion": "Enchanting",
+      "profesion": "Encantamiento",
       "calidad": "common",
       "personajes": [
         "Dum Bo"
@@ -3328,7 +2714,7 @@
     },
     {
       "nombre": "Enchant Bracer - Minor Stamina",
-      "profesion": "Enchanting",
+      "profesion": "Encantamiento",
       "calidad": "common",
       "personajes": [
         "Dum Bo",
@@ -3338,7 +2724,7 @@
     },
     {
       "nombre": "Enchant Bracer - Minor Strength",
-      "profesion": "Enchanting",
+      "profesion": "Encantamiento",
       "calidad": "common",
       "personajes": [
         "Dum Bo"
@@ -3346,7 +2732,7 @@
     },
     {
       "nombre": "Enchant Chest - Inferior Stamina",
-      "profesion": "Enchanting",
+      "profesion": "Encantamiento",
       "calidad": "common",
       "personajes": [
         "Dum Bo",
@@ -3357,7 +2743,7 @@
     },
     {
       "nombre": "Enchant Chest - Lesser Stamina",
-      "profesion": "Enchanting",
+      "profesion": "Encantamiento",
       "calidad": "common",
       "personajes": [
         "Dum Bo",
@@ -3368,7 +2754,7 @@
     },
     {
       "nombre": "Enchant Chest - Minor Absorption",
-      "profesion": "Enchanting",
+      "profesion": "Encantamiento",
       "calidad": "common",
       "personajes": [
         "Dum Bo",
@@ -3379,7 +2765,7 @@
     },
     {
       "nombre": "Enchant Chest - Minor Intellect",
-      "profesion": "Enchanting",
+      "profesion": "Encantamiento",
       "calidad": "common",
       "personajes": [
         "Dum Bo",
@@ -3390,7 +2776,7 @@
     },
     {
       "nombre": "Enchant Chest - Stamina",
-      "profesion": "Enchanting",
+      "profesion": "Encantamiento",
       "calidad": "common",
       "personajes": [
         "Dum Bo",
@@ -3399,7 +2785,7 @@
     },
     {
       "nombre": "Enchant Cloak - Lesser Fire Resistance",
-      "profesion": "Enchanting",
+      "profesion": "Encantamiento",
       "calidad": "common",
       "personajes": [
         "Dum Bo",
@@ -3408,7 +2794,7 @@
     },
     {
       "nombre": "Enchant Cloak - Lesser Protection",
-      "profesion": "Enchanting",
+      "profesion": "Encantamiento",
       "calidad": "common",
       "personajes": [
         "Dum Bo",
@@ -3417,7 +2803,7 @@
     },
     {
       "nombre": "Enchant Cloak - Minor Agility",
-      "profesion": "Enchanting",
+      "profesion": "Encantamiento",
       "calidad": "common",
       "personajes": [
         "Dum Bo"
@@ -3425,7 +2811,7 @@
     },
     {
       "nombre": "Enchant Cloak - Minor Protection",
-      "profesion": "Enchanting",
+      "profesion": "Encantamiento",
       "calidad": "common",
       "personajes": [
         "Dum Bo",
@@ -3435,7 +2821,7 @@
     },
     {
       "nombre": "Enchant Cloak - Minor Resistance",
-      "profesion": "Enchanting",
+      "profesion": "Encantamiento",
       "calidad": "common",
       "personajes": [
         "Dum Bo",
@@ -3446,7 +2832,7 @@
     },
     {
       "nombre": "Enchant Shield - Lesser Protection",
-      "profesion": "Enchanting",
+      "profesion": "Encantamiento",
       "calidad": "common",
       "personajes": [
         "Dum Bo",
@@ -3455,7 +2841,7 @@
     },
     {
       "nombre": "Enchant Shield - Lesser Spirit",
-      "profesion": "Enchanting",
+      "profesion": "Encantamiento",
       "calidad": "common",
       "personajes": [
         "Finn Felagund"
@@ -3463,7 +2849,7 @@
     },
     {
       "nombre": "Enchant Shield - Minor Stamina",
-      "profesion": "Enchanting",
+      "profesion": "Encantamiento",
       "calidad": "common",
       "personajes": [
         "Dum Bo",
@@ -3473,7 +2859,7 @@
     },
     {
       "nombre": "Enchant Weapon - Minor Beastslayer",
-      "profesion": "Enchanting",
+      "profesion": "Encantamiento",
       "calidad": "common",
       "personajes": [
         "Dum Bo"
@@ -3481,7 +2867,7 @@
     },
     {
       "nombre": "Enchant Weapon - Minor Striking",
-      "profesion": "Enchanting",
+      "profesion": "Encantamiento",
       "calidad": "common",
       "personajes": [
         "Dum Bo",
@@ -3491,7 +2877,7 @@
     },
     {
       "nombre": "Enchanted Lute",
-      "profesion": "Enchanting",
+      "profesion": "Encantamiento",
       "calidad": "common",
       "personajes": [
         "Dum Bo",
@@ -3502,7 +2888,7 @@
     },
     {
       "nombre": "Greater Magic Wand",
-      "profesion": "Enchanting",
+      "profesion": "Encantamiento",
       "calidad": "uncommon",
       "personajes": [
         "Dum Bo",
@@ -3513,7 +2899,7 @@
     },
     {
       "nombre": "Lesser Magic Wand",
-      "profesion": "Enchanting",
+      "profesion": "Encantamiento",
       "calidad": "uncommon",
       "personajes": [
         "Dum Bo",
@@ -3526,7 +2912,7 @@
     },
     {
       "nombre": "Minor Wizard Oil",
-      "profesion": "Enchanting",
+      "profesion": "Encantamiento",
       "calidad": "common",
       "personajes": [
         "Dum Bo",
@@ -3536,7 +2922,7 @@
     },
     {
       "nombre": "Novice's Practice Wand",
-      "profesion": "Enchanting",
+      "profesion": "Encantamiento",
       "calidad": "common",
       "personajes": [
         "Dum Bo",
@@ -3550,7 +2936,7 @@
     },
     {
       "nombre": "Runed Copper Rod",
-      "profesion": "Enchanting",
+      "profesion": "Encantamiento",
       "calidad": "common",
       "personajes": [
         "Dum Bo",
@@ -3564,7 +2950,7 @@
     },
     {
       "nombre": "Runed Silver Rod",
-      "profesion": "Enchanting",
+      "profesion": "Encantamiento",
       "calidad": "common",
       "personajes": [
         "Dum Bo",
@@ -3574,8 +2960,762 @@
       ]
     },
     {
+      "nombre": "Herbalism",
+      "profesion": "Herboristería",
+      "calidad": "common",
+      "personajes": [
+        "Dio Hotmetal",
+        "Don Josechu",
+        "Fran Furion",
+        "Genethika Brisaveloz",
+        "Layrela Rondanit",
+        "Nelv Stardancer",
+        "Sugar Papy",
+        "Viilar Terrisia"
+      ]
+    },
+    {
+      "nombre": "Herbalism",
+      "profesion": "Herboristería",
+      "calidad": "common",
+      "personajes": [
+        "Don Josechu",
+        "Fran Furion",
+        "Genethika Brisaveloz",
+        "Layrela Rondanit",
+        "Nelv Stardancer",
+        "Viilar Terrisia"
+      ]
+    },
+    {
+      "nombre": "Herbalism",
+      "profesion": "Herboristería",
+      "calidad": "common",
+      "personajes": [
+        "Aynita Again",
+        "Black Phanter",
+        "Blind Minds",
+        "Fitipaldi Sendaumbria",
+        "Takkaao Valengri"
+      ]
+    },
+    {
+      "nombre": "Herbalism",
+      "profesion": "Herboristería",
+      "calidad": "common",
+      "personajes": [
+        "Aynita Again",
+        "Black Phanter",
+        "Blind Minds",
+        "Fitipaldi Sendaumbria",
+        "Takkaao Valengri"
+      ]
+    },
+    {
+      "nombre": "Herbalism",
+      "profesion": "Herboristería",
+      "calidad": "common",
+      "personajes": [
+        "Dio Hotmetal",
+        "Sugar Papy"
+      ]
+    },
+    {
+      "nombre": "Herbalism",
+      "profesion": "Herboristería",
+      "calidad": "common",
+      "personajes": [
+        "Dio Hotmetal",
+        "Sugar Papy"
+      ]
+    },
+    {
+      "nombre": "Incense Candle",
+      "profesion": "Herboristería",
+      "calidad": "common",
+      "personajes": [
+        "Aynita Again",
+        "Dio Hotmetal",
+        "Don Josechu",
+        "Fran Furion",
+        "Genethika Brisaveloz",
+        "Layrela Rondanit",
+        "Nelv Stardancer",
+        "Sugar Papy",
+        "Takkaao Valengri",
+        "Viilar Terrisia"
+      ]
+    },
+    {
+      "nombre": "Acolyte's Chain Helm",
+      "profesion": "Herrería",
+      "calidad": "rare",
+      "personajes": [
+        "Aalesian Naeuri"
+      ]
+    },
+    {
+      "nombre": "Big Bronze Knife",
+      "profesion": "Herrería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Aalesian Naeuri",
+        "Khyoraku Shunsui"
+      ]
+    },
+    {
+      "nombre": "Bronze Axe",
+      "profesion": "Herrería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Aalesian Naeuri",
+        "Tharindel Magnaluz"
+      ]
+    },
+    {
+      "nombre": "Bronze Battle Axe",
+      "profesion": "Herrería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Aalesian Naeuri"
+      ]
+    },
+    {
+      "nombre": "Bronze Greatsword",
+      "profesion": "Herrería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Aalesian Naeuri"
+      ]
+    },
+    {
+      "nombre": "Bronze Mace",
+      "profesion": "Herrería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Aalesian Naeuri",
+        "Khyoraku Shunsui",
+        "Tharindel Magnaluz"
+      ]
+    },
+    {
+      "nombre": "Bronze Shortsword",
+      "profesion": "Herrería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Aalesian Naeuri"
+      ]
+    },
+    {
+      "nombre": "Bronze Warhammer",
+      "profesion": "Herrería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Aalesian Naeuri"
+      ]
+    },
+    {
+      "nombre": "Coarse Grinding Stone",
+      "profesion": "Herrería",
+      "calidad": "common",
+      "personajes": [
+        "Aalesian Naeuri",
+        "Espartaco Gladiador",
+        "Hugo Forjaluz",
+        "Khyoraku Shunsui",
+        "Tharindel Magnaluz"
+      ]
+    },
+    {
+      "nombre": "Coarse Sharpening Stone",
+      "profesion": "Herrería",
+      "calidad": "common",
+      "personajes": [
+        "Aalesian Naeuri",
+        "Espartaco Gladiador",
+        "Hugo Forjaluz",
+        "Khyoraku Shunsui"
+      ]
+    },
+    {
+      "nombre": "Coarse Weightstone",
+      "profesion": "Herrería",
+      "calidad": "common",
+      "personajes": [
+        "Aalesian Naeuri",
+        "Espartaco Gladiador",
+        "Hugo Forjaluz",
+        "Khyoraku Shunsui"
+      ]
+    },
+    {
+      "nombre": "Copper Axe",
+      "profesion": "Herrería",
+      "calidad": "common",
+      "personajes": [
+        "Aalesian Naeuri",
+        "Espartaco Gladiador",
+        "Hugo Forjaluz",
+        "Khyoraku Shunsui",
+        "Tharindel Magnaluz"
+      ]
+    },
+    {
+      "nombre": "Copper Battle Axe",
+      "profesion": "Herrería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Aalesian Naeuri",
+        "Hugo Forjaluz",
+        "Khyoraku Shunsui"
+      ]
+    },
+    {
+      "nombre": "Copper Bracers",
+      "profesion": "Herrería",
+      "calidad": "common",
+      "personajes": [
+        "Aalesian Naeuri",
+        "Espartaco Gladiador",
+        "Hugo Forjaluz",
+        "Khyoraku Shunsui",
+        "Tharindel Magnaluz"
+      ]
+    },
+    {
+      "nombre": "Copper Chain Belt",
+      "profesion": "Herrería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Aalesian Naeuri",
+        "Espartaco Gladiador",
+        "Hugo Forjaluz",
+        "Khyoraku Shunsui",
+        "Tharindel Magnaluz"
+      ]
+    },
+    {
+      "nombre": "Copper Chain Boots",
+      "profesion": "Herrería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Aalesian Naeuri",
+        "Espartaco Gladiador",
+        "Hugo Forjaluz",
+        "Khyoraku Shunsui",
+        "Tharindel Magnaluz"
+      ]
+    },
+    {
+      "nombre": "Copper Chain Pants",
+      "profesion": "Herrería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Aalesian Naeuri",
+        "Espartaco Gladiador",
+        "Hugo Forjaluz",
+        "Khyoraku Shunsui",
+        "Tharindel Magnaluz"
+      ]
+    },
+    {
+      "nombre": "Copper Chain Vest",
+      "profesion": "Herrería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Espartaco Gladiador"
+      ]
+    },
+    {
+      "nombre": "Copper Claymore",
+      "profesion": "Herrería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Aalesian Naeuri",
+        "Espartaco Gladiador",
+        "Hugo Forjaluz",
+        "Khyoraku Shunsui"
+      ]
+    },
+    {
+      "nombre": "Copper Dagger",
+      "profesion": "Herrería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Aalesian Naeuri",
+        "Espartaco Gladiador",
+        "Hugo Forjaluz",
+        "Khyoraku Shunsui"
+      ]
+    },
+    {
+      "nombre": "Copper Mace",
+      "profesion": "Herrería",
+      "calidad": "common",
+      "personajes": [
+        "Aalesian Naeuri",
+        "Espartaco Gladiador",
+        "Hugo Forjaluz",
+        "Khyoraku Shunsui",
+        "Tharindel Magnaluz"
+      ]
+    },
+    {
+      "nombre": "Copper Rod",
+      "profesion": "Herrería",
+      "calidad": "common",
+      "personajes": [
+        "Aalesian Naeuri",
+        "Espartaco Gladiador",
+        "Hugo Forjaluz",
+        "Khyoraku Shunsui",
+        "Tharindel Magnaluz"
+      ]
+    },
+    {
+      "nombre": "Copper Shortsword",
+      "profesion": "Herrería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Aalesian Naeuri",
+        "Espartaco Gladiador",
+        "Hugo Forjaluz",
+        "Khyoraku Shunsui",
+        "Tharindel Magnaluz"
+      ]
+    },
+    {
+      "nombre": "Gemmed Copper Boots",
+      "profesion": "Herrería",
+      "calidad": "rare",
+      "personajes": [
+        "Aalesian Naeuri",
+        "Espartaco Gladiador",
+        "Hugo Forjaluz",
+        "Khyoraku Shunsui",
+        "Tharindel Magnaluz"
+      ]
+    },
+    {
+      "nombre": "Glowing Copper Boots",
+      "profesion": "Herrería",
+      "calidad": "rare",
+      "personajes": [
+        "Aalesian Naeuri",
+        "Hugo Forjaluz",
+        "Khyoraku Shunsui",
+        "Tharindel Magnaluz"
+      ]
+    },
+    {
+      "nombre": "Golden Rod",
+      "profesion": "Herrería",
+      "calidad": "common",
+      "personajes": [
+        "Aalesian Naeuri"
+      ]
+    },
+    {
+      "nombre": "Golden Skeleton Key",
+      "profesion": "Herrería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Aalesian Naeuri"
+      ]
+    },
+    {
+      "nombre": "Green Iron Bracers",
+      "profesion": "Herrería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Aalesian Naeuri"
+      ]
+    },
+    {
+      "nombre": "Green Iron Helm",
+      "profesion": "Herrería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Aalesian Naeuri"
+      ]
+    },
+    {
+      "nombre": "Green Iron Leggings",
+      "profesion": "Herrería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Aalesian Naeuri"
+      ]
+    },
+    {
+      "nombre": "Heavy Bronze Mace",
+      "profesion": "Herrería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Aalesian Naeuri"
+      ]
+    },
+    {
+      "nombre": "Heavy Copper Broadsword",
+      "profesion": "Herrería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Aalesian Naeuri",
+        "Hugo Forjaluz",
+        "Khyoraku Shunsui"
+      ]
+    },
+    {
+      "nombre": "Heavy Copper Maul",
+      "profesion": "Herrería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Aalesian Naeuri",
+        "Espartaco Gladiador",
+        "Hugo Forjaluz",
+        "Khyoraku Shunsui",
+        "Tharindel Magnaluz"
+      ]
+    },
+    {
+      "nombre": "Heavy Grinding Stone",
+      "profesion": "Herrería",
+      "calidad": "common",
+      "personajes": [
+        "Aalesian Naeuri",
+        "Espartaco Gladiador"
+      ]
+    },
+    {
+      "nombre": "Heavy Sharpening Stone",
+      "profesion": "Herrería",
+      "calidad": "common",
+      "personajes": [
+        "Aalesian Naeuri",
+        "Espartaco Gladiador"
+      ]
+    },
+    {
+      "nombre": "Heavy Weightstone",
+      "profesion": "Herrería",
+      "calidad": "common",
+      "personajes": [
+        "Aalesian Naeuri",
+        "Espartaco Gladiador"
+      ]
+    },
+    {
+      "nombre": "Iridescent Hammer",
+      "profesion": "Herrería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Aalesian Naeuri"
+      ]
+    },
+    {
+      "nombre": "Iron Buckle",
+      "profesion": "Herrería",
+      "calidad": "common",
+      "personajes": [
+        "Aalesian Naeuri"
+      ]
+    },
+    {
+      "nombre": "Ironforge Breastplate",
+      "profesion": "Herrería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Espartaco Gladiador",
+        "Tharindel Magnaluz"
+      ]
+    },
+    {
+      "nombre": "Patterned Bronze Bracers",
+      "profesion": "Herrería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Aalesian Naeuri",
+        "Espartaco Gladiador"
+      ]
+    },
+    {
+      "nombre": "Pearl-handled Dagger",
+      "profesion": "Herrería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Aalesian Naeuri",
+        "Khyoraku Shunsui"
+      ]
+    },
+    {
+      "nombre": "Protector's Chain Leggings",
+      "profesion": "Herrería",
+      "calidad": "rare",
+      "personajes": [
+        "Espartaco Gladiador"
+      ]
+    },
+    {
+      "nombre": "Protector's Silvered Chain Helm",
+      "profesion": "Herrería",
+      "calidad": "rare",
+      "personajes": [
+        "Espartaco Gladiador"
+      ]
+    },
+    {
+      "nombre": "Rough Bronze Boots",
+      "profesion": "Herrería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Aalesian Naeuri",
+        "Espartaco Gladiador",
+        "Hugo Forjaluz",
+        "Khyoraku Shunsui",
+        "Tharindel Magnaluz"
+      ]
+    },
+    {
+      "nombre": "Rough Bronze Cuirass",
+      "profesion": "Herrería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Aalesian Naeuri",
+        "Espartaco Gladiador",
+        "Khyoraku Shunsui"
+      ]
+    },
+    {
+      "nombre": "Rough Bronze Leggings",
+      "profesion": "Herrería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Aalesian Naeuri",
+        "Espartaco Gladiador",
+        "Khyoraku Shunsui",
+        "Tharindel Magnaluz"
+      ]
+    },
+    {
+      "nombre": "Rough Bronze Shoulders",
+      "profesion": "Herrería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Aalesian Naeuri",
+        "Espartaco Gladiador",
+        "Khyoraku Shunsui",
+        "Tharindel Magnaluz"
+      ]
+    },
+    {
+      "nombre": "Rough Copper Chain Boots",
+      "profesion": "Herrería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Espartaco Gladiador",
+        "Tharindel Magnaluz"
+      ]
+    },
+    {
+      "nombre": "Rough Copper Vest",
+      "profesion": "Herrería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Aalesian Naeuri",
+        "Espartaco Gladiador",
+        "Hugo Forjaluz",
+        "Khyoraku Shunsui",
+        "Tharindel Magnaluz"
+      ]
+    },
+    {
+      "nombre": "Rough Grinding Stone",
+      "profesion": "Herrería",
+      "calidad": "common",
+      "personajes": [
+        "Aalesian Naeuri",
+        "Espartaco Gladiador",
+        "Hugo Forjaluz",
+        "Khyoraku Shunsui",
+        "Tharindel Magnaluz"
+      ]
+    },
+    {
+      "nombre": "Rough Sharpening Stone",
+      "profesion": "Herrería",
+      "calidad": "common",
+      "personajes": [
+        "Aalesian Naeuri",
+        "Espartaco Gladiador",
+        "Hugo Forjaluz",
+        "Khyoraku Shunsui",
+        "Tharindel Magnaluz"
+      ]
+    },
+    {
+      "nombre": "Rough Weightstone",
+      "profesion": "Herrería",
+      "calidad": "common",
+      "personajes": [
+        "Aalesian Naeuri",
+        "Espartaco Gladiador",
+        "Hugo Forjaluz",
+        "Khyoraku Shunsui",
+        "Tharindel Magnaluz"
+      ]
+    },
+    {
+      "nombre": "Runed Copper Belt",
+      "profesion": "Herrería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Aalesian Naeuri",
+        "Espartaco Gladiador",
+        "Hugo Forjaluz",
+        "Khyoraku Shunsui",
+        "Tharindel Magnaluz"
+      ]
+    },
+    {
+      "nombre": "Runed Copper Bracers",
+      "profesion": "Herrería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Aalesian Naeuri",
+        "Espartaco Gladiador",
+        "Hugo Forjaluz",
+        "Khyoraku Shunsui",
+        "Tharindel Magnaluz"
+      ]
+    },
+    {
+      "nombre": "Runed Copper Gauntlets",
+      "profesion": "Herrería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Aalesian Naeuri",
+        "Espartaco Gladiador",
+        "Hugo Forjaluz",
+        "Khyoraku Shunsui",
+        "Tharindel Magnaluz"
+      ]
+    },
+    {
+      "nombre": "Runed Copper Pants",
+      "profesion": "Herrería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Aalesian Naeuri",
+        "Espartaco Gladiador",
+        "Hugo Forjaluz",
+        "Khyoraku Shunsui",
+        "Tharindel Magnaluz"
+      ]
+    },
+    {
+      "nombre": "Sharpening Wheel",
+      "profesion": "Herrería",
+      "calidad": "common",
+      "personajes": [
+        "Aalesian Naeuri",
+        "Espartaco Gladiador",
+        "Hugo Forjaluz",
+        "Khyoraku Shunsui",
+        "Tharindel Magnaluz"
+      ]
+    },
+    {
+      "nombre": "Shining Silver Breastplate",
+      "profesion": "Herrería",
+      "calidad": "rare",
+      "personajes": [
+        "Aalesian Naeuri"
+      ]
+    },
+    {
+      "nombre": "Silver Rod",
+      "profesion": "Herrería",
+      "calidad": "common",
+      "personajes": [
+        "Aalesian Naeuri",
+        "Espartaco Gladiador",
+        "Hugo Forjaluz",
+        "Khyoraku Shunsui",
+        "Tharindel Magnaluz"
+      ]
+    },
+    {
+      "nombre": "Silver Skeleton Key",
+      "profesion": "Herrería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Aalesian Naeuri",
+        "Espartaco Gladiador",
+        "Hugo Forjaluz",
+        "Khyoraku Shunsui",
+        "Tharindel Magnaluz"
+      ]
+    },
+    {
+      "nombre": "Silvered Bronze Boots",
+      "profesion": "Herrería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Aalesian Naeuri",
+        "Espartaco Gladiador"
+      ]
+    },
+    {
+      "nombre": "Silvered Bronze Breastplate",
+      "profesion": "Herrería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Aalesian Naeuri"
+      ]
+    },
+    {
+      "nombre": "Silvered Bronze Gauntlets",
+      "profesion": "Herrería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Aalesian Naeuri",
+        "Espartaco Gladiador"
+      ]
+    },
+    {
+      "nombre": "Sterling Silver Shoulders",
+      "profesion": "Herrería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Aalesian Naeuri",
+        "Espartaco Gladiador"
+      ]
+    },
+    {
+      "nombre": "Strange Copper Boots",
+      "profesion": "Herrería",
+      "calidad": "rare",
+      "personajes": [
+        "Aalesian Naeuri",
+        "Hugo Forjaluz",
+        "Khyoraku Shunsui",
+        "Tharindel Magnaluz"
+      ]
+    },
+    {
+      "nombre": "Thick War Axe",
+      "profesion": "Herrería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Aalesian Naeuri",
+        "Espartaco Gladiador",
+        "Hugo Forjaluz",
+        "Khyoraku Shunsui"
+      ]
+    },
+    {
       "nombre": "Aquadynamic Fish Attractor",
-      "profesion": "Engineering",
+      "profesion": "Ingeniería",
       "calidad": "common",
       "personajes": [
         "Chaca Choochoo"
@@ -3583,7 +3723,7 @@
     },
     {
       "nombre": "Arclight Spanner",
-      "profesion": "Engineering",
+      "profesion": "Ingeniería",
       "calidad": "common",
       "personajes": [
         "Chaca Choochoo",
@@ -3595,7 +3735,7 @@
     },
     {
       "nombre": "Blue Firework",
-      "profesion": "Engineering",
+      "profesion": "Ingeniería",
       "calidad": "common",
       "personajes": [
         "Chaca Choochoo"
@@ -3603,7 +3743,7 @@
     },
     {
       "nombre": "Bronze Tube",
-      "profesion": "Engineering",
+      "profesion": "Ingeniería",
       "calidad": "common",
       "personajes": [
         "Chaca Choochoo",
@@ -3612,7 +3752,7 @@
     },
     {
       "nombre": "Coarse Blasting Powder",
-      "profesion": "Engineering",
+      "profesion": "Ingeniería",
       "calidad": "common",
       "personajes": [
         "Chaca Choochoo",
@@ -3624,7 +3764,7 @@
     },
     {
       "nombre": "Coarse Dynamite",
-      "profesion": "Engineering",
+      "profesion": "Ingeniería",
       "calidad": "common",
       "personajes": [
         "Chaca Choochoo",
@@ -3636,7 +3776,7 @@
     },
     {
       "nombre": "Copper Modulator",
-      "profesion": "Engineering",
+      "profesion": "Ingeniería",
       "calidad": "common",
       "personajes": [
         "Chaca Choochoo",
@@ -3647,7 +3787,7 @@
     },
     {
       "nombre": "Copper Tube",
-      "profesion": "Engineering",
+      "profesion": "Ingeniería",
       "calidad": "common",
       "personajes": [
         "Chaca Choochoo",
@@ -3658,7 +3798,7 @@
     },
     {
       "nombre": "Crafted Heavy Shot",
-      "profesion": "Engineering",
+      "profesion": "Ingeniería",
       "calidad": "common",
       "personajes": [
         "Chaca Choochoo",
@@ -3670,7 +3810,7 @@
     },
     {
       "nombre": "Crafted Light Shot",
-      "profesion": "Engineering",
+      "profesion": "Ingeniería",
       "calidad": "common",
       "personajes": [
         "Chaca Choochoo",
@@ -3682,7 +3822,7 @@
     },
     {
       "nombre": "Crafted Solid Shot",
-      "profesion": "Engineering",
+      "profesion": "Ingeniería",
       "calidad": "common",
       "personajes": [
         "Chaca Choochoo"
@@ -3690,7 +3830,7 @@
     },
     {
       "nombre": "Crude Scope",
-      "profesion": "Engineering",
+      "profesion": "Ingeniería",
       "calidad": "common",
       "personajes": [
         "Chaca Choochoo",
@@ -3701,7 +3841,7 @@
     },
     {
       "nombre": "Flying Tiger Goggles",
-      "profesion": "Engineering",
+      "profesion": "Ingeniería",
       "calidad": "uncommon",
       "personajes": [
         "Chaca Choochoo",
@@ -3711,7 +3851,7 @@
     },
     {
       "nombre": "Gnomish Universal Remote",
-      "profesion": "Engineering",
+      "profesion": "Ingeniería",
       "calidad": "uncommon",
       "personajes": [
         "Chaca Choochoo"
@@ -3719,7 +3859,7 @@
     },
     {
       "nombre": "Green Tinted Goggles",
-      "profesion": "Engineering",
+      "profesion": "Ingeniería",
       "calidad": "uncommon",
       "personajes": [
         "Chaca Choochoo"
@@ -3727,7 +3867,7 @@
     },
     {
       "nombre": "Handful of Copper Bolts",
-      "profesion": "Engineering",
+      "profesion": "Ingeniería",
       "calidad": "common",
       "personajes": [
         "Chaca Choochoo",
@@ -3739,7 +3879,7 @@
     },
     {
       "nombre": "Harvester Override Signalcaster",
-      "profesion": "Engineering",
+      "profesion": "Ingeniería",
       "calidad": "uncommon",
       "personajes": [
         "Flexita Shadowsoul"
@@ -3747,7 +3887,7 @@
     },
     {
       "nombre": "Heavy Blasting Powder",
-      "profesion": "Engineering",
+      "profesion": "Ingeniería",
       "calidad": "common",
       "personajes": [
         "Chaca Choochoo"
@@ -3755,7 +3895,7 @@
     },
     {
       "nombre": "Heavy Dynamite",
-      "profesion": "Engineering",
+      "profesion": "Ingeniería",
       "calidad": "common",
       "personajes": [
         "Chaca Choochoo"
@@ -3763,7 +3903,7 @@
     },
     {
       "nombre": "Large Copper Bomb",
-      "profesion": "Engineering",
+      "profesion": "Ingeniería",
       "calidad": "common",
       "personajes": [
         "Chaca Choochoo"
@@ -3771,7 +3911,7 @@
     },
     {
       "nombre": "Mechanical Squirrel",
-      "profesion": "Engineering",
+      "profesion": "Ingeniería",
       "calidad": "common",
       "personajes": [
         "Chaca Choochoo"
@@ -3779,7 +3919,7 @@
     },
     {
       "nombre": "Minor Recombobulator",
-      "profesion": "Engineering",
+      "profesion": "Ingeniería",
       "calidad": "uncommon",
       "personajes": [
         "Chaca Choochoo"
@@ -3787,7 +3927,7 @@
     },
     {
       "nombre": "Ornate Spyglass",
-      "profesion": "Engineering",
+      "profesion": "Ingeniería",
       "calidad": "common",
       "personajes": [
         "Chaca Choochoo"
@@ -3795,7 +3935,7 @@
     },
     {
       "nombre": "Practice Lock",
-      "profesion": "Engineering",
+      "profesion": "Ingeniería",
       "calidad": "common",
       "personajes": [
         "Chaca Choochoo",
@@ -3804,7 +3944,7 @@
     },
     {
       "nombre": "Reagent Bot",
-      "profesion": "Engineering",
+      "profesion": "Ingeniería",
       "calidad": "common",
       "personajes": [
         "Chaca Choochoo",
@@ -3816,7 +3956,7 @@
     },
     {
       "nombre": "Rough Blasting Powder",
-      "profesion": "Engineering",
+      "profesion": "Ingeniería",
       "calidad": "common",
       "personajes": [
         "Chaca Choochoo",
@@ -3828,7 +3968,7 @@
     },
     {
       "nombre": "Rough Boomstick",
-      "profesion": "Engineering",
+      "profesion": "Ingeniería",
       "calidad": "uncommon",
       "personajes": [
         "Flexita Shadowsoul",
@@ -3837,7 +3977,7 @@
     },
     {
       "nombre": "Rough Copper Bomb",
-      "profesion": "Engineering",
+      "profesion": "Ingeniería",
       "calidad": "common",
       "personajes": [
         "Chaca Choochoo",
@@ -3848,7 +3988,7 @@
     },
     {
       "nombre": "Rough Dynamite",
-      "profesion": "Engineering",
+      "profesion": "Ingeniería",
       "calidad": "common",
       "personajes": [
         "Chaca Choochoo",
@@ -3860,7 +4000,7 @@
     },
     {
       "nombre": "Silver Contact",
-      "profesion": "Engineering",
+      "profesion": "Ingeniería",
       "calidad": "common",
       "personajes": [
         "Chaca Choochoo",
@@ -3871,7 +4011,7 @@
     },
     {
       "nombre": "Small Bronze Bomb",
-      "profesion": "Engineering",
+      "profesion": "Ingeniería",
       "calidad": "common",
       "personajes": [
         "Chaca Choochoo"
@@ -3879,7 +4019,7 @@
     },
     {
       "nombre": "Standard Scope",
-      "profesion": "Engineering",
+      "profesion": "Ingeniería",
       "calidad": "common",
       "personajes": [
         "Chaca Choochoo"
@@ -3887,7 +4027,7 @@
     },
     {
       "nombre": "Target Dummy",
-      "profesion": "Engineering",
+      "profesion": "Ingeniería",
       "calidad": "common",
       "personajes": [
         "Chaca Choochoo",
@@ -3897,15 +4037,1024 @@
     },
     {
       "nombre": "Whirring Bronze Gizmo",
-      "profesion": "Engineering",
+      "profesion": "Ingeniería",
       "calidad": "common",
       "personajes": [
         "Chaca Choochoo"
       ]
     },
     {
+      "nombre": "Lodestone",
+      "profesion": "Minería",
+      "calidad": "common",
+      "personajes": [
+        "Aalesian Naeuri",
+        "Chaca Choochoo",
+        "Cuzcu Aker",
+        "Espartaco Gladiador",
+        "Flexita Shadowsoul",
+        "Hugo Forjaluz",
+        "Jonaver Legends",
+        "Khyoraku Shunsui",
+        "La Pety",
+        "Tharindel Magnaluz"
+      ]
+    },
+    {
+      "nombre": "Mining",
+      "profesion": "Minería",
+      "calidad": "common",
+      "personajes": [
+        "Aalesian Naeuri",
+        "Chaca Choochoo",
+        "Cuzcu Aker",
+        "Espartaco Gladiador",
+        "Flexita Shadowsoul",
+        "Hugo Forjaluz",
+        "Khyoraku Shunsui",
+        "La Pety",
+        "Tharindel Magnaluz"
+      ]
+    },
+    {
+      "nombre": "Mining",
+      "profesion": "Minería",
+      "calidad": "common",
+      "personajes": [
+        "Jonaver Legends"
+      ]
+    },
+    {
+      "nombre": "Mining",
+      "profesion": "Minería",
+      "calidad": "common",
+      "personajes": [
+        "Aalesian Naeuri"
+      ]
+    },
+    {
+      "nombre": "Smelt Bronze",
+      "profesion": "Minería",
+      "calidad": "common",
+      "personajes": [
+        "Aalesian Naeuri",
+        "Chaca Choochoo",
+        "Cuzcu Aker",
+        "Espartaco Gladiador",
+        "Flexita Shadowsoul",
+        "Hugo Forjaluz",
+        "Khyoraku Shunsui",
+        "La Pety",
+        "Tharindel Magnaluz"
+      ]
+    },
+    {
+      "nombre": "Smelt Copper",
+      "profesion": "Minería",
+      "calidad": "common",
+      "personajes": [
+        "Aalesian Naeuri",
+        "Chaca Choochoo",
+        "Cuzcu Aker",
+        "Espartaco Gladiador",
+        "Flexita Shadowsoul",
+        "Hugo Forjaluz",
+        "Jonaver Legends",
+        "Khyoraku Shunsui",
+        "La Pety",
+        "Tharindel Magnaluz"
+      ]
+    },
+    {
+      "nombre": "Smelt Iron",
+      "profesion": "Minería",
+      "calidad": "common",
+      "personajes": [
+        "Aalesian Naeuri"
+      ]
+    },
+    {
+      "nombre": "Smelt Silver",
+      "profesion": "Minería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Aalesian Naeuri",
+        "Chaca Choochoo",
+        "Cuzcu Aker",
+        "Espartaco Gladiador",
+        "Flexita Shadowsoul",
+        "Hugo Forjaluz",
+        "Khyoraku Shunsui",
+        "La Pety",
+        "Tharindel Magnaluz"
+      ]
+    },
+    {
+      "nombre": "Smelt Tin",
+      "profesion": "Minería",
+      "calidad": "common",
+      "personajes": [
+        "Aalesian Naeuri",
+        "Chaca Choochoo",
+        "Cuzcu Aker",
+        "Espartaco Gladiador",
+        "Flexita Shadowsoul",
+        "Hugo Forjaluz",
+        "Khyoraku Shunsui",
+        "La Pety",
+        "Tharindel Magnaluz"
+      ]
+    },
+    {
+      "nombre": "Barbaric Gloves",
+      "profesion": "Peletería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Diana Flechaveloz"
+      ]
+    },
+    {
+      "nombre": "Black Whelp Slippers",
+      "profesion": "Peletería",
+      "calidad": "rare",
+      "personajes": [
+        "Ildaren Belisar",
+        "Lithanas Chafardero",
+        "Memas Tour",
+        "Palmira Natblida",
+        "Runa Ruina"
+      ]
+    },
+    {
+      "nombre": "Black Whelp Tunic",
+      "profesion": "Peletería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Diana Flechaveloz"
+      ]
+    },
+    {
+      "nombre": "Brawler's Leather Armor",
+      "profesion": "Peletería",
+      "calidad": "rare",
+      "personajes": [
+        "Memas Tour"
+      ]
+    },
+    {
+      "nombre": "Brawler's Leather Belt",
+      "profesion": "Peletería",
+      "calidad": "rare",
+      "personajes": [
+        "Aurelio Amador"
+      ]
+    },
+    {
+      "nombre": "Brawler's Leather Gloves",
+      "profesion": "Peletería",
+      "calidad": "rare",
+      "personajes": [
+        "Aurelio Amador"
+      ]
+    },
+    {
+      "nombre": "Brawler's Leather Hood",
+      "profesion": "Peletería",
+      "calidad": "rare",
+      "personajes": [
+        "Aurelio Amador"
+      ]
+    },
+    {
+      "nombre": "Brawler's Leather Pants",
+      "profesion": "Peletería",
+      "calidad": "rare",
+      "personajes": [
+        "Edoras Duskranger"
+      ]
+    },
+    {
+      "nombre": "Camp Tent",
+      "profesion": "Peletería",
+      "calidad": "common",
+      "personajes": [
+        "Aurelio Amador",
+        "Diana Flechaveloz",
+        "Edoras Duskranger",
+        "Filps Pachamamamon",
+        "Ildaren Belisar",
+        "Lithanas Chafardero",
+        "Manelhon Gargon",
+        "Memas Tour",
+        "Nindalf Pizpireta",
+        "Palmira Natblida",
+        "Runa Ruina"
+      ]
+    },
+    {
+      "nombre": "Cured Heavy Hide",
+      "profesion": "Peletería",
+      "calidad": "common",
+      "personajes": [
+        "Diana Flechaveloz"
+      ]
+    },
+    {
+      "nombre": "Cured Light Hide",
+      "profesion": "Peletería",
+      "calidad": "common",
+      "personajes": [
+        "Aurelio Amador",
+        "Diana Flechaveloz",
+        "Edoras Duskranger",
+        "Filps Pachamamamon",
+        "Ildaren Belisar",
+        "Lithanas Chafardero",
+        "Manelhon Gargon",
+        "Memas Tour",
+        "Nindalf Pizpireta",
+        "Palmira Natblida",
+        "Runa Ruina"
+      ]
+    },
+    {
+      "nombre": "Cured Medium Hide",
+      "profesion": "Peletería",
+      "calidad": "common",
+      "personajes": [
+        "Aurelio Amador",
+        "Diana Flechaveloz",
+        "Edoras Duskranger",
+        "Lithanas Chafardero",
+        "Manelhon Gargon",
+        "Memas Tour",
+        "Palmira Natblida"
+      ]
+    },
+    {
+      "nombre": "Dark Leather Belt",
+      "profesion": "Peletería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Diana Flechaveloz",
+        "Edoras Duskranger",
+        "Memas Tour",
+        "Palmira Natblida"
+      ]
+    },
+    {
+      "nombre": "Dark Leather Boots",
+      "profesion": "Peletería",
+      "calidad": "rare",
+      "personajes": [
+        "Aurelio Amador",
+        "Edoras Duskranger",
+        "Ildaren Belisar",
+        "Lithanas Chafardero",
+        "Manelhon Gargon",
+        "Memas Tour",
+        "Palmira Natblida",
+        "Runa Ruina"
+      ]
+    },
+    {
+      "nombre": "Dark Leather Cloak",
+      "profesion": "Peletería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Diana Flechaveloz",
+        "Edoras Duskranger",
+        "Memas Tour",
+        "Palmira Natblida"
+      ]
+    },
+    {
+      "nombre": "Dark Leather Pants",
+      "profesion": "Peletería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Diana Flechaveloz",
+        "Edoras Duskranger",
+        "Manelhon Gargon",
+        "Memas Tour",
+        "Palmira Natblida"
+      ]
+    },
+    {
+      "nombre": "Dark Leather Tunic",
+      "profesion": "Peletería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Palmira Natblida"
+      ]
+    },
+    {
+      "nombre": "Deviate Scale Belt",
+      "profesion": "Peletería",
+      "calidad": "rare",
+      "personajes": [
+        "Edoras Duskranger",
+        "Palmira Natblida"
+      ]
+    },
+    {
+      "nombre": "Deviate Scale Cloak",
+      "profesion": "Peletería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Palmira Natblida"
+      ]
+    },
+    {
+      "nombre": "Deviate Scale Gloves",
+      "profesion": "Peletería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Palmira Natblida"
+      ]
+    },
+    {
+      "nombre": "Embossed Leather Boots",
+      "profesion": "Peletería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Diana Flechaveloz",
+        "Edoras Duskranger",
+        "Ildaren Belisar",
+        "Lithanas Chafardero",
+        "Manelhon Gargon",
+        "Memas Tour",
+        "Palmira Natblida",
+        "Runa Ruina"
+      ]
+    },
+    {
+      "nombre": "Embossed Leather Cloak",
+      "profesion": "Peletería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Diana Flechaveloz",
+        "Edoras Duskranger",
+        "Ildaren Belisar",
+        "Lithanas Chafardero",
+        "Manelhon Gargon",
+        "Memas Tour",
+        "Nindalf Pizpireta",
+        "Palmira Natblida",
+        "Runa Ruina"
+      ]
+    },
+    {
+      "nombre": "Embossed Leather Gloves",
+      "profesion": "Peletería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Aurelio Amador",
+        "Diana Flechaveloz",
+        "Edoras Duskranger",
+        "Ildaren Belisar",
+        "Lithanas Chafardero",
+        "Manelhon Gargon",
+        "Memas Tour",
+        "Nindalf Pizpireta",
+        "Palmira Natblida",
+        "Runa Ruina"
+      ]
+    },
+    {
+      "nombre": "Embossed Leather Pants",
+      "profesion": "Peletería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Diana Flechaveloz",
+        "Edoras Duskranger",
+        "Ildaren Belisar",
+        "Lithanas Chafardero",
+        "Manelhon Gargon",
+        "Memas Tour",
+        "Palmira Natblida"
+      ]
+    },
+    {
+      "nombre": "Embossed Leather Vest",
+      "profesion": "Peletería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Diana Flechaveloz",
+        "Edoras Duskranger",
+        "Ildaren Belisar",
+        "Lithanas Chafardero",
+        "Manelhon Gargon",
+        "Memas Tour",
+        "Nindalf Pizpireta",
+        "Palmira Natblida",
+        "Runa Ruina"
+      ]
+    },
+    {
+      "nombre": "Fine Leather Belt",
+      "profesion": "Peletería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Aurelio Amador",
+        "Diana Flechaveloz",
+        "Edoras Duskranger",
+        "Ildaren Belisar",
+        "Lithanas Chafardero",
+        "Manelhon Gargon",
+        "Memas Tour",
+        "Palmira Natblida"
+      ]
+    },
+    {
+      "nombre": "Fine Leather Boots",
+      "profesion": "Peletería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Lithanas Chafardero",
+        "Manelhon Gargon",
+        "Memas Tour"
+      ]
+    },
+    {
+      "nombre": "Fine Leather Cloak",
+      "profesion": "Peletería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Diana Flechaveloz",
+        "Edoras Duskranger",
+        "Ildaren Belisar",
+        "Lithanas Chafardero",
+        "Manelhon Gargon",
+        "Memas Tour",
+        "Palmira Natblida"
+      ]
+    },
+    {
+      "nombre": "Fine Leather Gloves",
+      "profesion": "Peletería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Aurelio Amador"
+      ]
+    },
+    {
+      "nombre": "Fine Leather Tunic",
+      "profesion": "Peletería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Diana Flechaveloz",
+        "Edoras Duskranger",
+        "Ildaren Belisar",
+        "Lithanas Chafardero",
+        "Manelhon Gargon",
+        "Memas Tour",
+        "Palmira Natblida"
+      ]
+    },
+    {
+      "nombre": "Fletcher's Gloves",
+      "profesion": "Peletería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Diana Flechaveloz",
+        "Edoras Duskranger",
+        "Memas Tour",
+        "Palmira Natblida"
+      ]
+    },
+    {
+      "nombre": "Forceful Medium Armor Kit",
+      "profesion": "Peletería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Diana Flechaveloz",
+        "Edoras Duskranger",
+        "Lithanas Chafardero",
+        "Memas Tour"
+      ]
+    },
+    {
+      "nombre": "Gray Leather Boots",
+      "profesion": "Peletería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Diana Flechaveloz",
+        "Edoras Duskranger",
+        "Lithanas Chafardero",
+        "Manelhon Gargon",
+        "Memas Tour",
+        "Palmira Natblida"
+      ]
+    },
+    {
+      "nombre": "Handstitched Leather Belt",
+      "profesion": "Peletería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Diana Flechaveloz",
+        "Edoras Duskranger",
+        "Ildaren Belisar",
+        "Lithanas Chafardero",
+        "Manelhon Gargon",
+        "Memas Tour",
+        "Nindalf Pizpireta",
+        "Palmira Natblida",
+        "Runa Ruina"
+      ]
+    },
+    {
+      "nombre": "Handstitched Leather Boots",
+      "profesion": "Peletería",
+      "calidad": "common",
+      "personajes": [
+        "Aurelio Amador",
+        "Diana Flechaveloz",
+        "Edoras Duskranger",
+        "Filps Pachamamamon",
+        "Ildaren Belisar",
+        "Lithanas Chafardero",
+        "Manelhon Gargon",
+        "Memas Tour",
+        "Nindalf Pizpireta",
+        "Palmira Natblida",
+        "Runa Ruina"
+      ]
+    },
+    {
+      "nombre": "Handstitched Leather Bracers",
+      "profesion": "Peletería",
+      "calidad": "common",
+      "personajes": [
+        "Aurelio Amador",
+        "Diana Flechaveloz",
+        "Edoras Duskranger",
+        "Filps Pachamamamon",
+        "Ildaren Belisar",
+        "Lithanas Chafardero",
+        "Manelhon Gargon",
+        "Memas Tour",
+        "Nindalf Pizpireta",
+        "Palmira Natblida",
+        "Runa Ruina"
+      ]
+    },
+    {
+      "nombre": "Handstitched Leather Cloak",
+      "profesion": "Peletería",
+      "calidad": "common",
+      "personajes": [
+        "Aurelio Amador",
+        "Diana Flechaveloz",
+        "Edoras Duskranger",
+        "Filps Pachamamamon",
+        "Ildaren Belisar",
+        "Lithanas Chafardero",
+        "Manelhon Gargon",
+        "Memas Tour",
+        "Nindalf Pizpireta",
+        "Palmira Natblida",
+        "Runa Ruina"
+      ]
+    },
+    {
+      "nombre": "Handstitched Leather Pants",
+      "profesion": "Peletería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Aurelio Amador",
+        "Diana Flechaveloz",
+        "Edoras Duskranger",
+        "Filps Pachamamamon",
+        "Ildaren Belisar",
+        "Lithanas Chafardero",
+        "Manelhon Gargon",
+        "Memas Tour",
+        "Nindalf Pizpireta",
+        "Palmira Natblida",
+        "Runa Ruina"
+      ]
+    },
+    {
+      "nombre": "Handstitched Leather Vest",
+      "profesion": "Peletería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Aurelio Amador",
+        "Diana Flechaveloz",
+        "Edoras Duskranger",
+        "Filps Pachamamamon",
+        "Ildaren Belisar",
+        "Lithanas Chafardero",
+        "Manelhon Gargon",
+        "Memas Tour",
+        "Nindalf Pizpireta",
+        "Palmira Natblida",
+        "Runa Ruina"
+      ]
+    },
+    {
+      "nombre": "Heavy Armor Kit",
+      "profesion": "Peletería",
+      "calidad": "common",
+      "personajes": [
+        "Diana Flechaveloz"
+      ]
+    },
+    {
+      "nombre": "Heavy Leather",
+      "profesion": "Peletería",
+      "calidad": "common",
+      "personajes": [
+        "Diana Flechaveloz"
+      ]
+    },
+    {
+      "nombre": "Heavy Quiver",
+      "profesion": "Peletería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Diana Flechaveloz"
+      ]
+    },
+    {
+      "nombre": "Hillman's Belt",
+      "profesion": "Peletería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Palmira Natblida"
+      ]
+    },
+    {
+      "nombre": "Hillman's Cloak",
+      "profesion": "Peletería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Diana Flechaveloz"
+      ]
+    },
+    {
+      "nombre": "Hillman's Leather Gloves",
+      "profesion": "Peletería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Diana Flechaveloz"
+      ]
+    },
+    {
+      "nombre": "Hillman's Leather Vest",
+      "profesion": "Peletería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Palmira Natblida"
+      ]
+    },
+    {
+      "nombre": "Hillman's Shoulders",
+      "profesion": "Peletería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Diana Flechaveloz",
+        "Memas Tour",
+        "Palmira Natblida"
+      ]
+    },
+    {
+      "nombre": "Light Armor Kit",
+      "profesion": "Peletería",
+      "calidad": "common",
+      "personajes": [
+        "Aurelio Amador",
+        "Diana Flechaveloz",
+        "Edoras Duskranger",
+        "Filps Pachamamamon",
+        "Ildaren Belisar",
+        "Lithanas Chafardero",
+        "Manelhon Gargon",
+        "Memas Tour",
+        "Nindalf Pizpireta",
+        "Palmira Natblida",
+        "Runa Ruina"
+      ]
+    },
+    {
+      "nombre": "Light Leather",
+      "profesion": "Peletería",
+      "calidad": "common",
+      "personajes": [
+        "Aurelio Amador",
+        "Diana Flechaveloz",
+        "Edoras Duskranger",
+        "Filps Pachamamamon",
+        "Ildaren Belisar",
+        "Lithanas Chafardero",
+        "Manelhon Gargon",
+        "Memas Tour",
+        "Nindalf Pizpireta",
+        "Palmira Natblida",
+        "Runa Ruina"
+      ]
+    },
+    {
+      "nombre": "Light Leather Bracers",
+      "profesion": "Peletería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Diana Flechaveloz",
+        "Edoras Duskranger",
+        "Ildaren Belisar",
+        "Lithanas Chafardero",
+        "Manelhon Gargon",
+        "Memas Tour",
+        "Palmira Natblida"
+      ]
+    },
+    {
+      "nombre": "Light Leather Pants",
+      "profesion": "Peletería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Diana Flechaveloz",
+        "Edoras Duskranger",
+        "Lithanas Chafardero",
+        "Manelhon Gargon",
+        "Memas Tour",
+        "Palmira Natblida"
+      ]
+    },
+    {
+      "nombre": "Light Leather Quiver",
+      "profesion": "Peletería",
+      "calidad": "common",
+      "personajes": [
+        "Diana Flechaveloz",
+        "Edoras Duskranger",
+        "Ildaren Belisar",
+        "Lithanas Chafardero",
+        "Memas Tour",
+        "Nindalf Pizpireta",
+        "Palmira Natblida",
+        "Runa Ruina"
+      ]
+    },
+    {
+      "nombre": "Light Leather Reagent Bag",
+      "profesion": "Peletería",
+      "calidad": "common",
+      "personajes": [
+        "Edoras Duskranger",
+        "Ildaren Belisar"
+      ]
+    },
+    {
+      "nombre": "Medium Armor Kit",
+      "profesion": "Peletería",
+      "calidad": "common",
+      "personajes": [
+        "Aurelio Amador",
+        "Diana Flechaveloz",
+        "Edoras Duskranger",
+        "Lithanas Chafardero",
+        "Manelhon Gargon",
+        "Memas Tour",
+        "Palmira Natblida"
+      ]
+    },
+    {
+      "nombre": "Medium Leather",
+      "profesion": "Peletería",
+      "calidad": "common",
+      "personajes": [
+        "Diana Flechaveloz",
+        "Edoras Duskranger",
+        "Lithanas Chafardero",
+        "Manelhon Gargon",
+        "Memas Tour",
+        "Palmira Natblida"
+      ]
+    },
+    {
+      "nombre": "Moonglow Boots",
+      "profesion": "Peletería",
+      "calidad": "rare",
+      "personajes": [
+        "Ildaren Belisar",
+        "Lithanas Chafardero",
+        "Memas Tour",
+        "Palmira Natblida",
+        "Runa Ruina"
+      ]
+    },
+    {
+      "nombre": "Moonglow Vest",
+      "profesion": "Peletería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Edoras Duskranger"
+      ]
+    },
+    {
+      "nombre": "Murloc Scale Belt",
+      "profesion": "Peletería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Diana Flechaveloz",
+        "Edoras Duskranger",
+        "Ildaren Belisar",
+        "Lithanas Chafardero",
+        "Memas Tour"
+      ]
+    },
+    {
+      "nombre": "Murloc Scale Breastplate",
+      "profesion": "Peletería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Aurelio Amador",
+        "Diana Flechaveloz",
+        "Edoras Duskranger",
+        "Ildaren Belisar",
+        "Memas Tour"
+      ]
+    },
+    {
+      "nombre": "Murloc Scale Shoes",
+      "profesion": "Peletería",
+      "calidad": "rare",
+      "personajes": [
+        "Ildaren Belisar",
+        "Lithanas Chafardero",
+        "Memas Tour",
+        "Palmira Natblida",
+        "Runa Ruina"
+      ]
+    },
+    {
+      "nombre": "Mystic Medium Armor Kit",
+      "profesion": "Peletería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Edoras Duskranger",
+        "Memas Tour"
+      ]
+    },
+    {
+      "nombre": "Nimble Leather Gloves",
+      "profesion": "Peletería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Diana Flechaveloz",
+        "Edoras Duskranger",
+        "Memas Tour",
+        "Palmira Natblida"
+      ]
+    },
+    {
+      "nombre": "Rugged Leather Pants",
+      "profesion": "Peletería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Memas Tour",
+        "Palmira Natblida"
+      ]
+    },
+    {
+      "nombre": "Small Leather Ammo Pouch",
+      "profesion": "Peletería",
+      "calidad": "common",
+      "personajes": [
+        "Diana Flechaveloz",
+        "Edoras Duskranger",
+        "Filps Pachamamamon",
+        "Ildaren Belisar",
+        "Lithanas Chafardero",
+        "Memas Tour",
+        "Nindalf Pizpireta",
+        "Palmira Natblida",
+        "Runa Ruina"
+      ]
+    },
+    {
+      "nombre": "Totemic Leather Pants",
+      "profesion": "Peletería",
+      "calidad": "rare",
+      "personajes": [
+        "Edoras Duskranger"
+      ]
+    },
+    {
+      "nombre": "Toughened Leather Armor",
+      "profesion": "Peletería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Diana Flechaveloz",
+        "Edoras Duskranger",
+        "Memas Tour",
+        "Palmira Natblida"
+      ]
+    },
+    {
+      "nombre": "Toughened Leather Gloves",
+      "profesion": "Peletería",
+      "calidad": "rare",
+      "personajes": [
+        "Diana Flechaveloz",
+        "Memas Tour",
+        "Palmira Natblida"
+      ]
+    },
+    {
+      "nombre": "Trapper's Leather Armor",
+      "profesion": "Peletería",
+      "calidad": "rare",
+      "personajes": [
+        "Aurelio Amador",
+        "Memas Tour"
+      ]
+    },
+    {
+      "nombre": "Fish Bowl",
+      "profesion": "Pesca",
+      "calidad": "common",
+      "personajes": [
+        "Aalesian Naeuri",
+        "Aynita Again",
+        "Cuzcu Aker",
+        "Diana Flechaveloz",
+        "Dum Bo",
+        "Edoras Duskranger",
+        "Espartaco Gladiador",
+        "Finn Felagund",
+        "Flexita Shadowsoul",
+        "La Pety",
+        "Layrela Rondanit",
+        "Lithanas Chafardero",
+        "Manelhon Gargon",
+        "Memas Tour",
+        "Nelv Stardancer",
+        "Nimassus Pater",
+        "Nindalf Pizpireta",
+        "Palmira Natblida",
+        "Saint Peligroxa",
+        "Sugar Papy",
+        "Tharindel Magnaluz",
+        "Vaporeta Pizpireta",
+        "Viilar Terrisia"
+      ]
+    },
+    {
+      "nombre": "Fishing",
+      "profesion": "Pesca",
+      "calidad": "common",
+      "personajes": [
+        "Aalesian Naeuri",
+        "Cuzcu Aker",
+        "Diana Flechaveloz",
+        "Edoras Duskranger",
+        "Finn Felagund",
+        "Flexita Shadowsoul",
+        "Layrela Rondanit",
+        "Lithanas Chafardero",
+        "Palmira Natblida",
+        "Tharindel Magnaluz"
+      ]
+    },
+    {
+      "nombre": "Fishing",
+      "profesion": "Pesca",
+      "calidad": "common",
+      "personajes": [
+        "Aynita Again",
+        "Blind Minds",
+        "Chaca Choochoo",
+        "Hugo Forjaluz",
+        "Ildaren Belisar",
+        "Jonaver Legends",
+        "La Pety",
+        "Manelhon Gargon",
+        "Nelv Stardancer",
+        "Nimassus Pater",
+        "Nindalf Pizpireta",
+        "Saint Peligroxa",
+        "Sugar Papy",
+        "Thundrik Volgrim",
+        "Vaporeta Pizpireta",
+        "Viilar Terrisia"
+      ]
+    },
+    {
+      "nombre": "Fishing",
+      "profesion": "Pesca",
+      "calidad": "common",
+      "personajes": [
+        "Dum Bo",
+        "Espartaco Gladiador",
+        "Memas Tour"
+      ]
+    },
+    {
       "nombre": "Anti-Venom",
-      "profesion": "First Aid",
+      "profesion": "Primeros auxilios",
       "calidad": "common",
       "personajes": [
         "Aalesian Naeuri",
@@ -3920,7 +5069,7 @@
     },
     {
       "nombre": "First Aid Kit",
-      "profesion": "First Aid",
+      "profesion": "Primeros auxilios",
       "calidad": "common",
       "personajes": [
         "Aalesian Naeuri",
@@ -3957,7 +5106,7 @@
     },
     {
       "nombre": "Healing Potion",
-      "profesion": "First Aid",
+      "profesion": "Primeros auxilios",
       "calidad": "common",
       "personajes": [
         "Aalesian Naeuri",
@@ -3968,7 +5117,7 @@
     },
     {
       "nombre": "Heavy Linen Bandage",
-      "profesion": "First Aid",
+      "profesion": "Primeros auxilios",
       "calidad": "common",
       "personajes": [
         "Aalesian Naeuri",
@@ -3998,7 +5147,7 @@
     },
     {
       "nombre": "Heavy Wool Bandage",
-      "profesion": "First Aid",
+      "profesion": "Primeros auxilios",
       "calidad": "common",
       "personajes": [
         "Aalesian Naeuri",
@@ -4012,7 +5161,7 @@
     },
     {
       "nombre": "Lesser Healing Potion",
-      "profesion": "First Aid",
+      "profesion": "Primeros auxilios",
       "calidad": "common",
       "personajes": [
         "Aalesian Naeuri",
@@ -4036,7 +5185,7 @@
     },
     {
       "nombre": "Linen Bandage",
-      "profesion": "First Aid",
+      "profesion": "Primeros auxilios",
       "calidad": "common",
       "personajes": [
         "Aalesian Naeuri",
@@ -4078,7 +5227,7 @@
     },
     {
       "nombre": "Minor Healing Potion",
-      "profesion": "First Aid",
+      "profesion": "Primeros auxilios",
       "calidad": "common",
       "personajes": [
         "Aalesian Naeuri",
@@ -4113,7 +5262,7 @@
     },
     {
       "nombre": "Silk Bandage",
-      "profesion": "First Aid",
+      "profesion": "Primeros auxilios",
       "calidad": "common",
       "personajes": [
         "Aalesian Naeuri"
@@ -4121,7 +5270,7 @@
     },
     {
       "nombre": "Simple Poultice",
-      "profesion": "First Aid",
+      "profesion": "Primeros auxilios",
       "calidad": "common",
       "personajes": [
         "Aalesian Naeuri",
@@ -4136,7 +5285,7 @@
     },
     {
       "nombre": "Wool Bandage",
-      "profesion": "First Aid",
+      "profesion": "Primeros auxilios",
       "calidad": "common",
       "personajes": [
         "Aalesian Naeuri",
@@ -4154,7 +5303,7 @@
     },
     {
       "nombre": "Woolen Tourniquet",
-      "profesion": "First Aid",
+      "profesion": "Primeros auxilios",
       "calidad": "common",
       "personajes": [
         "Aalesian Naeuri",
@@ -4162,1157 +5311,8 @@
       ]
     },
     {
-      "nombre": "Fish Bowl",
-      "profesion": "Fishing",
-      "calidad": "common",
-      "personajes": [
-        "Aalesian Naeuri",
-        "Aynita Again",
-        "Cuzcu Aker",
-        "Diana Flechaveloz",
-        "Dum Bo",
-        "Edoras Duskranger",
-        "Espartaco Gladiador",
-        "Finn Felagund",
-        "Flexita Shadowsoul",
-        "La Pety",
-        "Layrela Rondanit",
-        "Lithanas Chafardero",
-        "Manelhon Gargon",
-        "Memas Tour",
-        "Nelv Stardancer",
-        "Nimassus Pater",
-        "Nindalf Pizpireta",
-        "Palmira Natblida",
-        "Saint Peligroxa",
-        "Sugar Papy",
-        "Tharindel Magnaluz",
-        "Vaporeta Pizpireta",
-        "Viilar Terrisia"
-      ]
-    },
-    {
-      "nombre": "Fishing",
-      "profesion": "Fishing",
-      "calidad": "common",
-      "personajes": [
-        "Aalesian Naeuri",
-        "Cuzcu Aker",
-        "Diana Flechaveloz",
-        "Edoras Duskranger",
-        "Finn Felagund",
-        "Flexita Shadowsoul",
-        "Layrela Rondanit",
-        "Lithanas Chafardero",
-        "Palmira Natblida",
-        "Tharindel Magnaluz"
-      ]
-    },
-    {
-      "nombre": "Fishing",
-      "profesion": "Fishing",
-      "calidad": "common",
-      "personajes": [
-        "Aynita Again",
-        "Blind Minds",
-        "Chaca Choochoo",
-        "Hugo Forjaluz",
-        "Ildaren Belisar",
-        "Jonaver Legends",
-        "La Pety",
-        "Manelhon Gargon",
-        "Nelv Stardancer",
-        "Nimassus Pater",
-        "Nindalf Pizpireta",
-        "Saint Peligroxa",
-        "Sugar Papy",
-        "Thundrik Volgrim",
-        "Vaporeta Pizpireta",
-        "Viilar Terrisia"
-      ]
-    },
-    {
-      "nombre": "Fishing",
-      "profesion": "Fishing",
-      "calidad": "common",
-      "personajes": [
-        "Dum Bo",
-        "Espartaco Gladiador",
-        "Memas Tour"
-      ]
-    },
-    {
-      "nombre": "Herbalism",
-      "profesion": "Herbalism",
-      "calidad": "common",
-      "personajes": [
-        "Dio Hotmetal",
-        "Don Josechu",
-        "Fran Furion",
-        "Genethika Brisaveloz",
-        "Layrela Rondanit",
-        "Nelv Stardancer",
-        "Sugar Papy",
-        "Viilar Terrisia"
-      ]
-    },
-    {
-      "nombre": "Herbalism",
-      "profesion": "Herbalism",
-      "calidad": "common",
-      "personajes": [
-        "Don Josechu",
-        "Fran Furion",
-        "Genethika Brisaveloz",
-        "Layrela Rondanit",
-        "Nelv Stardancer",
-        "Viilar Terrisia"
-      ]
-    },
-    {
-      "nombre": "Herbalism",
-      "profesion": "Herbalism",
-      "calidad": "common",
-      "personajes": [
-        "Aynita Again",
-        "Black Phanter",
-        "Blind Minds",
-        "Fitipaldi Sendaumbria",
-        "Takkaao Valengri"
-      ]
-    },
-    {
-      "nombre": "Herbalism",
-      "profesion": "Herbalism",
-      "calidad": "common",
-      "personajes": [
-        "Aynita Again",
-        "Black Phanter",
-        "Blind Minds",
-        "Fitipaldi Sendaumbria",
-        "Takkaao Valengri"
-      ]
-    },
-    {
-      "nombre": "Herbalism",
-      "profesion": "Herbalism",
-      "calidad": "common",
-      "personajes": [
-        "Dio Hotmetal",
-        "Sugar Papy"
-      ]
-    },
-    {
-      "nombre": "Herbalism",
-      "profesion": "Herbalism",
-      "calidad": "common",
-      "personajes": [
-        "Dio Hotmetal",
-        "Sugar Papy"
-      ]
-    },
-    {
-      "nombre": "Incense Candle",
-      "profesion": "Herbalism",
-      "calidad": "common",
-      "personajes": [
-        "Aynita Again",
-        "Dio Hotmetal",
-        "Don Josechu",
-        "Fran Furion",
-        "Genethika Brisaveloz",
-        "Layrela Rondanit",
-        "Nelv Stardancer",
-        "Sugar Papy",
-        "Takkaao Valengri",
-        "Viilar Terrisia"
-      ]
-    },
-    {
-      "nombre": "Barbaric Gloves",
-      "profesion": "Leatherworking",
-      "calidad": "uncommon",
-      "personajes": [
-        "Diana Flechaveloz"
-      ]
-    },
-    {
-      "nombre": "Black Whelp Slippers",
-      "profesion": "Leatherworking",
-      "calidad": "rare",
-      "personajes": [
-        "Ildaren Belisar",
-        "Lithanas Chafardero",
-        "Memas Tour",
-        "Palmira Natblida",
-        "Runa Ruina"
-      ]
-    },
-    {
-      "nombre": "Black Whelp Tunic",
-      "profesion": "Leatherworking",
-      "calidad": "uncommon",
-      "personajes": [
-        "Diana Flechaveloz"
-      ]
-    },
-    {
-      "nombre": "Brawler's Leather Armor",
-      "profesion": "Leatherworking",
-      "calidad": "rare",
-      "personajes": [
-        "Memas Tour"
-      ]
-    },
-    {
-      "nombre": "Brawler's Leather Belt",
-      "profesion": "Leatherworking",
-      "calidad": "rare",
-      "personajes": [
-        "Aurelio Amador"
-      ]
-    },
-    {
-      "nombre": "Brawler's Leather Gloves",
-      "profesion": "Leatherworking",
-      "calidad": "rare",
-      "personajes": [
-        "Aurelio Amador"
-      ]
-    },
-    {
-      "nombre": "Brawler's Leather Hood",
-      "profesion": "Leatherworking",
-      "calidad": "rare",
-      "personajes": [
-        "Aurelio Amador"
-      ]
-    },
-    {
-      "nombre": "Brawler's Leather Pants",
-      "profesion": "Leatherworking",
-      "calidad": "rare",
-      "personajes": [
-        "Edoras Duskranger"
-      ]
-    },
-    {
-      "nombre": "Camp Tent",
-      "profesion": "Leatherworking",
-      "calidad": "common",
-      "personajes": [
-        "Aurelio Amador",
-        "Diana Flechaveloz",
-        "Edoras Duskranger",
-        "Filps Pachamamamon",
-        "Ildaren Belisar",
-        "Lithanas Chafardero",
-        "Manelhon Gargon",
-        "Memas Tour",
-        "Nindalf Pizpireta",
-        "Palmira Natblida",
-        "Runa Ruina"
-      ]
-    },
-    {
-      "nombre": "Cured Heavy Hide",
-      "profesion": "Leatherworking",
-      "calidad": "common",
-      "personajes": [
-        "Diana Flechaveloz"
-      ]
-    },
-    {
-      "nombre": "Cured Light Hide",
-      "profesion": "Leatherworking",
-      "calidad": "common",
-      "personajes": [
-        "Aurelio Amador",
-        "Diana Flechaveloz",
-        "Edoras Duskranger",
-        "Filps Pachamamamon",
-        "Ildaren Belisar",
-        "Lithanas Chafardero",
-        "Manelhon Gargon",
-        "Memas Tour",
-        "Nindalf Pizpireta",
-        "Palmira Natblida",
-        "Runa Ruina"
-      ]
-    },
-    {
-      "nombre": "Cured Medium Hide",
-      "profesion": "Leatherworking",
-      "calidad": "common",
-      "personajes": [
-        "Aurelio Amador",
-        "Diana Flechaveloz",
-        "Edoras Duskranger",
-        "Lithanas Chafardero",
-        "Manelhon Gargon",
-        "Memas Tour",
-        "Palmira Natblida"
-      ]
-    },
-    {
-      "nombre": "Dark Leather Belt",
-      "profesion": "Leatherworking",
-      "calidad": "uncommon",
-      "personajes": [
-        "Diana Flechaveloz",
-        "Edoras Duskranger",
-        "Memas Tour",
-        "Palmira Natblida"
-      ]
-    },
-    {
-      "nombre": "Dark Leather Boots",
-      "profesion": "Leatherworking",
-      "calidad": "rare",
-      "personajes": [
-        "Aurelio Amador",
-        "Edoras Duskranger",
-        "Ildaren Belisar",
-        "Lithanas Chafardero",
-        "Manelhon Gargon",
-        "Memas Tour",
-        "Palmira Natblida",
-        "Runa Ruina"
-      ]
-    },
-    {
-      "nombre": "Dark Leather Cloak",
-      "profesion": "Leatherworking",
-      "calidad": "uncommon",
-      "personajes": [
-        "Diana Flechaveloz",
-        "Edoras Duskranger",
-        "Memas Tour",
-        "Palmira Natblida"
-      ]
-    },
-    {
-      "nombre": "Dark Leather Pants",
-      "profesion": "Leatherworking",
-      "calidad": "uncommon",
-      "personajes": [
-        "Diana Flechaveloz",
-        "Edoras Duskranger",
-        "Manelhon Gargon",
-        "Memas Tour",
-        "Palmira Natblida"
-      ]
-    },
-    {
-      "nombre": "Dark Leather Tunic",
-      "profesion": "Leatherworking",
-      "calidad": "uncommon",
-      "personajes": [
-        "Palmira Natblida"
-      ]
-    },
-    {
-      "nombre": "Deviate Scale Belt",
-      "profesion": "Leatherworking",
-      "calidad": "rare",
-      "personajes": [
-        "Edoras Duskranger",
-        "Palmira Natblida"
-      ]
-    },
-    {
-      "nombre": "Deviate Scale Cloak",
-      "profesion": "Leatherworking",
-      "calidad": "uncommon",
-      "personajes": [
-        "Palmira Natblida"
-      ]
-    },
-    {
-      "nombre": "Deviate Scale Gloves",
-      "profesion": "Leatherworking",
-      "calidad": "uncommon",
-      "personajes": [
-        "Palmira Natblida"
-      ]
-    },
-    {
-      "nombre": "Embossed Leather Boots",
-      "profesion": "Leatherworking",
-      "calidad": "uncommon",
-      "personajes": [
-        "Diana Flechaveloz",
-        "Edoras Duskranger",
-        "Ildaren Belisar",
-        "Lithanas Chafardero",
-        "Manelhon Gargon",
-        "Memas Tour",
-        "Palmira Natblida",
-        "Runa Ruina"
-      ]
-    },
-    {
-      "nombre": "Embossed Leather Cloak",
-      "profesion": "Leatherworking",
-      "calidad": "uncommon",
-      "personajes": [
-        "Diana Flechaveloz",
-        "Edoras Duskranger",
-        "Ildaren Belisar",
-        "Lithanas Chafardero",
-        "Manelhon Gargon",
-        "Memas Tour",
-        "Nindalf Pizpireta",
-        "Palmira Natblida",
-        "Runa Ruina"
-      ]
-    },
-    {
-      "nombre": "Embossed Leather Gloves",
-      "profesion": "Leatherworking",
-      "calidad": "uncommon",
-      "personajes": [
-        "Aurelio Amador",
-        "Diana Flechaveloz",
-        "Edoras Duskranger",
-        "Ildaren Belisar",
-        "Lithanas Chafardero",
-        "Manelhon Gargon",
-        "Memas Tour",
-        "Nindalf Pizpireta",
-        "Palmira Natblida",
-        "Runa Ruina"
-      ]
-    },
-    {
-      "nombre": "Embossed Leather Pants",
-      "profesion": "Leatherworking",
-      "calidad": "uncommon",
-      "personajes": [
-        "Diana Flechaveloz",
-        "Edoras Duskranger",
-        "Ildaren Belisar",
-        "Lithanas Chafardero",
-        "Manelhon Gargon",
-        "Memas Tour",
-        "Palmira Natblida"
-      ]
-    },
-    {
-      "nombre": "Embossed Leather Vest",
-      "profesion": "Leatherworking",
-      "calidad": "uncommon",
-      "personajes": [
-        "Diana Flechaveloz",
-        "Edoras Duskranger",
-        "Ildaren Belisar",
-        "Lithanas Chafardero",
-        "Manelhon Gargon",
-        "Memas Tour",
-        "Nindalf Pizpireta",
-        "Palmira Natblida",
-        "Runa Ruina"
-      ]
-    },
-    {
-      "nombre": "Fine Leather Belt",
-      "profesion": "Leatherworking",
-      "calidad": "uncommon",
-      "personajes": [
-        "Aurelio Amador",
-        "Diana Flechaveloz",
-        "Edoras Duskranger",
-        "Ildaren Belisar",
-        "Lithanas Chafardero",
-        "Manelhon Gargon",
-        "Memas Tour",
-        "Palmira Natblida"
-      ]
-    },
-    {
-      "nombre": "Fine Leather Boots",
-      "profesion": "Leatherworking",
-      "calidad": "uncommon",
-      "personajes": [
-        "Lithanas Chafardero",
-        "Manelhon Gargon",
-        "Memas Tour"
-      ]
-    },
-    {
-      "nombre": "Fine Leather Cloak",
-      "profesion": "Leatherworking",
-      "calidad": "uncommon",
-      "personajes": [
-        "Diana Flechaveloz",
-        "Edoras Duskranger",
-        "Ildaren Belisar",
-        "Lithanas Chafardero",
-        "Manelhon Gargon",
-        "Memas Tour",
-        "Palmira Natblida"
-      ]
-    },
-    {
-      "nombre": "Fine Leather Gloves",
-      "profesion": "Leatherworking",
-      "calidad": "uncommon",
-      "personajes": [
-        "Aurelio Amador"
-      ]
-    },
-    {
-      "nombre": "Fine Leather Tunic",
-      "profesion": "Leatherworking",
-      "calidad": "uncommon",
-      "personajes": [
-        "Diana Flechaveloz",
-        "Edoras Duskranger",
-        "Ildaren Belisar",
-        "Lithanas Chafardero",
-        "Manelhon Gargon",
-        "Memas Tour",
-        "Palmira Natblida"
-      ]
-    },
-    {
-      "nombre": "Fletcher's Gloves",
-      "profesion": "Leatherworking",
-      "calidad": "uncommon",
-      "personajes": [
-        "Diana Flechaveloz",
-        "Edoras Duskranger",
-        "Memas Tour",
-        "Palmira Natblida"
-      ]
-    },
-    {
-      "nombre": "Forceful Medium Armor Kit",
-      "profesion": "Leatherworking",
-      "calidad": "uncommon",
-      "personajes": [
-        "Diana Flechaveloz",
-        "Edoras Duskranger",
-        "Lithanas Chafardero",
-        "Memas Tour"
-      ]
-    },
-    {
-      "nombre": "Gray Leather Boots",
-      "profesion": "Leatherworking",
-      "calidad": "uncommon",
-      "personajes": [
-        "Diana Flechaveloz",
-        "Edoras Duskranger",
-        "Lithanas Chafardero",
-        "Manelhon Gargon",
-        "Memas Tour",
-        "Palmira Natblida"
-      ]
-    },
-    {
-      "nombre": "Handstitched Leather Belt",
-      "profesion": "Leatherworking",
-      "calidad": "uncommon",
-      "personajes": [
-        "Diana Flechaveloz",
-        "Edoras Duskranger",
-        "Ildaren Belisar",
-        "Lithanas Chafardero",
-        "Manelhon Gargon",
-        "Memas Tour",
-        "Nindalf Pizpireta",
-        "Palmira Natblida",
-        "Runa Ruina"
-      ]
-    },
-    {
-      "nombre": "Handstitched Leather Boots",
-      "profesion": "Leatherworking",
-      "calidad": "common",
-      "personajes": [
-        "Aurelio Amador",
-        "Diana Flechaveloz",
-        "Edoras Duskranger",
-        "Filps Pachamamamon",
-        "Ildaren Belisar",
-        "Lithanas Chafardero",
-        "Manelhon Gargon",
-        "Memas Tour",
-        "Nindalf Pizpireta",
-        "Palmira Natblida",
-        "Runa Ruina"
-      ]
-    },
-    {
-      "nombre": "Handstitched Leather Bracers",
-      "profesion": "Leatherworking",
-      "calidad": "common",
-      "personajes": [
-        "Aurelio Amador",
-        "Diana Flechaveloz",
-        "Edoras Duskranger",
-        "Filps Pachamamamon",
-        "Ildaren Belisar",
-        "Lithanas Chafardero",
-        "Manelhon Gargon",
-        "Memas Tour",
-        "Nindalf Pizpireta",
-        "Palmira Natblida",
-        "Runa Ruina"
-      ]
-    },
-    {
-      "nombre": "Handstitched Leather Cloak",
-      "profesion": "Leatherworking",
-      "calidad": "common",
-      "personajes": [
-        "Aurelio Amador",
-        "Diana Flechaveloz",
-        "Edoras Duskranger",
-        "Filps Pachamamamon",
-        "Ildaren Belisar",
-        "Lithanas Chafardero",
-        "Manelhon Gargon",
-        "Memas Tour",
-        "Nindalf Pizpireta",
-        "Palmira Natblida",
-        "Runa Ruina"
-      ]
-    },
-    {
-      "nombre": "Handstitched Leather Pants",
-      "profesion": "Leatherworking",
-      "calidad": "uncommon",
-      "personajes": [
-        "Aurelio Amador",
-        "Diana Flechaveloz",
-        "Edoras Duskranger",
-        "Filps Pachamamamon",
-        "Ildaren Belisar",
-        "Lithanas Chafardero",
-        "Manelhon Gargon",
-        "Memas Tour",
-        "Nindalf Pizpireta",
-        "Palmira Natblida",
-        "Runa Ruina"
-      ]
-    },
-    {
-      "nombre": "Handstitched Leather Vest",
-      "profesion": "Leatherworking",
-      "calidad": "uncommon",
-      "personajes": [
-        "Aurelio Amador",
-        "Diana Flechaveloz",
-        "Edoras Duskranger",
-        "Filps Pachamamamon",
-        "Ildaren Belisar",
-        "Lithanas Chafardero",
-        "Manelhon Gargon",
-        "Memas Tour",
-        "Nindalf Pizpireta",
-        "Palmira Natblida",
-        "Runa Ruina"
-      ]
-    },
-    {
-      "nombre": "Heavy Armor Kit",
-      "profesion": "Leatherworking",
-      "calidad": "common",
-      "personajes": [
-        "Diana Flechaveloz"
-      ]
-    },
-    {
-      "nombre": "Heavy Leather",
-      "profesion": "Leatherworking",
-      "calidad": "common",
-      "personajes": [
-        "Diana Flechaveloz"
-      ]
-    },
-    {
-      "nombre": "Heavy Quiver",
-      "profesion": "Leatherworking",
-      "calidad": "uncommon",
-      "personajes": [
-        "Diana Flechaveloz"
-      ]
-    },
-    {
-      "nombre": "Hillman's Belt",
-      "profesion": "Leatherworking",
-      "calidad": "uncommon",
-      "personajes": [
-        "Palmira Natblida"
-      ]
-    },
-    {
-      "nombre": "Hillman's Cloak",
-      "profesion": "Leatherworking",
-      "calidad": "uncommon",
-      "personajes": [
-        "Diana Flechaveloz"
-      ]
-    },
-    {
-      "nombre": "Hillman's Leather Gloves",
-      "profesion": "Leatherworking",
-      "calidad": "uncommon",
-      "personajes": [
-        "Diana Flechaveloz"
-      ]
-    },
-    {
-      "nombre": "Hillman's Leather Vest",
-      "profesion": "Leatherworking",
-      "calidad": "uncommon",
-      "personajes": [
-        "Palmira Natblida"
-      ]
-    },
-    {
-      "nombre": "Hillman's Shoulders",
-      "profesion": "Leatherworking",
-      "calidad": "uncommon",
-      "personajes": [
-        "Diana Flechaveloz",
-        "Memas Tour",
-        "Palmira Natblida"
-      ]
-    },
-    {
-      "nombre": "Light Armor Kit",
-      "profesion": "Leatherworking",
-      "calidad": "common",
-      "personajes": [
-        "Aurelio Amador",
-        "Diana Flechaveloz",
-        "Edoras Duskranger",
-        "Filps Pachamamamon",
-        "Ildaren Belisar",
-        "Lithanas Chafardero",
-        "Manelhon Gargon",
-        "Memas Tour",
-        "Nindalf Pizpireta",
-        "Palmira Natblida",
-        "Runa Ruina"
-      ]
-    },
-    {
-      "nombre": "Light Leather",
-      "profesion": "Leatherworking",
-      "calidad": "common",
-      "personajes": [
-        "Aurelio Amador",
-        "Diana Flechaveloz",
-        "Edoras Duskranger",
-        "Filps Pachamamamon",
-        "Ildaren Belisar",
-        "Lithanas Chafardero",
-        "Manelhon Gargon",
-        "Memas Tour",
-        "Nindalf Pizpireta",
-        "Palmira Natblida",
-        "Runa Ruina"
-      ]
-    },
-    {
-      "nombre": "Light Leather Bracers",
-      "profesion": "Leatherworking",
-      "calidad": "uncommon",
-      "personajes": [
-        "Diana Flechaveloz",
-        "Edoras Duskranger",
-        "Ildaren Belisar",
-        "Lithanas Chafardero",
-        "Manelhon Gargon",
-        "Memas Tour",
-        "Palmira Natblida"
-      ]
-    },
-    {
-      "nombre": "Light Leather Pants",
-      "profesion": "Leatherworking",
-      "calidad": "uncommon",
-      "personajes": [
-        "Diana Flechaveloz",
-        "Edoras Duskranger",
-        "Lithanas Chafardero",
-        "Manelhon Gargon",
-        "Memas Tour",
-        "Palmira Natblida"
-      ]
-    },
-    {
-      "nombre": "Light Leather Quiver",
-      "profesion": "Leatherworking",
-      "calidad": "common",
-      "personajes": [
-        "Diana Flechaveloz",
-        "Edoras Duskranger",
-        "Ildaren Belisar",
-        "Lithanas Chafardero",
-        "Memas Tour",
-        "Nindalf Pizpireta",
-        "Palmira Natblida",
-        "Runa Ruina"
-      ]
-    },
-    {
-      "nombre": "Light Leather Reagent Bag",
-      "profesion": "Leatherworking",
-      "calidad": "common",
-      "personajes": [
-        "Edoras Duskranger",
-        "Ildaren Belisar"
-      ]
-    },
-    {
-      "nombre": "Medium Armor Kit",
-      "profesion": "Leatherworking",
-      "calidad": "common",
-      "personajes": [
-        "Aurelio Amador",
-        "Diana Flechaveloz",
-        "Edoras Duskranger",
-        "Lithanas Chafardero",
-        "Manelhon Gargon",
-        "Memas Tour",
-        "Palmira Natblida"
-      ]
-    },
-    {
-      "nombre": "Medium Leather",
-      "profesion": "Leatherworking",
-      "calidad": "common",
-      "personajes": [
-        "Diana Flechaveloz",
-        "Edoras Duskranger",
-        "Lithanas Chafardero",
-        "Manelhon Gargon",
-        "Memas Tour",
-        "Palmira Natblida"
-      ]
-    },
-    {
-      "nombre": "Moonglow Boots",
-      "profesion": "Leatherworking",
-      "calidad": "rare",
-      "personajes": [
-        "Ildaren Belisar",
-        "Lithanas Chafardero",
-        "Memas Tour",
-        "Palmira Natblida",
-        "Runa Ruina"
-      ]
-    },
-    {
-      "nombre": "Moonglow Vest",
-      "profesion": "Leatherworking",
-      "calidad": "uncommon",
-      "personajes": [
-        "Edoras Duskranger"
-      ]
-    },
-    {
-      "nombre": "Murloc Scale Belt",
-      "profesion": "Leatherworking",
-      "calidad": "uncommon",
-      "personajes": [
-        "Diana Flechaveloz",
-        "Edoras Duskranger",
-        "Ildaren Belisar",
-        "Lithanas Chafardero",
-        "Memas Tour"
-      ]
-    },
-    {
-      "nombre": "Murloc Scale Breastplate",
-      "profesion": "Leatherworking",
-      "calidad": "uncommon",
-      "personajes": [
-        "Aurelio Amador",
-        "Diana Flechaveloz",
-        "Edoras Duskranger",
-        "Ildaren Belisar",
-        "Memas Tour"
-      ]
-    },
-    {
-      "nombre": "Murloc Scale Shoes",
-      "profesion": "Leatherworking",
-      "calidad": "rare",
-      "personajes": [
-        "Ildaren Belisar",
-        "Lithanas Chafardero",
-        "Memas Tour",
-        "Palmira Natblida",
-        "Runa Ruina"
-      ]
-    },
-    {
-      "nombre": "Mystic Medium Armor Kit",
-      "profesion": "Leatherworking",
-      "calidad": "uncommon",
-      "personajes": [
-        "Edoras Duskranger",
-        "Memas Tour"
-      ]
-    },
-    {
-      "nombre": "Nimble Leather Gloves",
-      "profesion": "Leatherworking",
-      "calidad": "uncommon",
-      "personajes": [
-        "Diana Flechaveloz",
-        "Edoras Duskranger",
-        "Memas Tour",
-        "Palmira Natblida"
-      ]
-    },
-    {
-      "nombre": "Rugged Leather Pants",
-      "profesion": "Leatherworking",
-      "calidad": "uncommon",
-      "personajes": [
-        "Memas Tour",
-        "Palmira Natblida"
-      ]
-    },
-    {
-      "nombre": "Small Leather Ammo Pouch",
-      "profesion": "Leatherworking",
-      "calidad": "common",
-      "personajes": [
-        "Diana Flechaveloz",
-        "Edoras Duskranger",
-        "Filps Pachamamamon",
-        "Ildaren Belisar",
-        "Lithanas Chafardero",
-        "Memas Tour",
-        "Nindalf Pizpireta",
-        "Palmira Natblida",
-        "Runa Ruina"
-      ]
-    },
-    {
-      "nombre": "Totemic Leather Pants",
-      "profesion": "Leatherworking",
-      "calidad": "rare",
-      "personajes": [
-        "Edoras Duskranger"
-      ]
-    },
-    {
-      "nombre": "Toughened Leather Armor",
-      "profesion": "Leatherworking",
-      "calidad": "uncommon",
-      "personajes": [
-        "Diana Flechaveloz",
-        "Edoras Duskranger",
-        "Memas Tour",
-        "Palmira Natblida"
-      ]
-    },
-    {
-      "nombre": "Toughened Leather Gloves",
-      "profesion": "Leatherworking",
-      "calidad": "rare",
-      "personajes": [
-        "Diana Flechaveloz",
-        "Memas Tour",
-        "Palmira Natblida"
-      ]
-    },
-    {
-      "nombre": "Trapper's Leather Armor",
-      "profesion": "Leatherworking",
-      "calidad": "rare",
-      "personajes": [
-        "Aurelio Amador",
-        "Memas Tour"
-      ]
-    },
-    {
-      "nombre": "Lodestone",
-      "profesion": "Mining",
-      "calidad": "common",
-      "personajes": [
-        "Aalesian Naeuri",
-        "Chaca Choochoo",
-        "Cuzcu Aker",
-        "Espartaco Gladiador",
-        "Flexita Shadowsoul",
-        "Hugo Forjaluz",
-        "Jonaver Legends",
-        "Khyoraku Shunsui",
-        "La Pety",
-        "Tharindel Magnaluz"
-      ]
-    },
-    {
-      "nombre": "Mining",
-      "profesion": "Mining",
-      "calidad": "common",
-      "personajes": [
-        "Aalesian Naeuri",
-        "Chaca Choochoo",
-        "Cuzcu Aker",
-        "Espartaco Gladiador",
-        "Flexita Shadowsoul",
-        "Hugo Forjaluz",
-        "Khyoraku Shunsui",
-        "La Pety",
-        "Tharindel Magnaluz"
-      ]
-    },
-    {
-      "nombre": "Mining",
-      "profesion": "Mining",
-      "calidad": "common",
-      "personajes": [
-        "Jonaver Legends"
-      ]
-    },
-    {
-      "nombre": "Mining",
-      "profesion": "Mining",
-      "calidad": "common",
-      "personajes": [
-        "Aalesian Naeuri"
-      ]
-    },
-    {
-      "nombre": "Smelt Bronze",
-      "profesion": "Mining",
-      "calidad": "common",
-      "personajes": [
-        "Aalesian Naeuri",
-        "Chaca Choochoo",
-        "Cuzcu Aker",
-        "Espartaco Gladiador",
-        "Flexita Shadowsoul",
-        "Hugo Forjaluz",
-        "Khyoraku Shunsui",
-        "La Pety",
-        "Tharindel Magnaluz"
-      ]
-    },
-    {
-      "nombre": "Smelt Copper",
-      "profesion": "Mining",
-      "calidad": "common",
-      "personajes": [
-        "Aalesian Naeuri",
-        "Chaca Choochoo",
-        "Cuzcu Aker",
-        "Espartaco Gladiador",
-        "Flexita Shadowsoul",
-        "Hugo Forjaluz",
-        "Jonaver Legends",
-        "Khyoraku Shunsui",
-        "La Pety",
-        "Tharindel Magnaluz"
-      ]
-    },
-    {
-      "nombre": "Smelt Iron",
-      "profesion": "Mining",
-      "calidad": "common",
-      "personajes": [
-        "Aalesian Naeuri"
-      ]
-    },
-    {
-      "nombre": "Smelt Silver",
-      "profesion": "Mining",
-      "calidad": "uncommon",
-      "personajes": [
-        "Aalesian Naeuri",
-        "Chaca Choochoo",
-        "Cuzcu Aker",
-        "Espartaco Gladiador",
-        "Flexita Shadowsoul",
-        "Hugo Forjaluz",
-        "Khyoraku Shunsui",
-        "La Pety",
-        "Tharindel Magnaluz"
-      ]
-    },
-    {
-      "nombre": "Smelt Tin",
-      "profesion": "Mining",
-      "calidad": "common",
-      "personajes": [
-        "Aalesian Naeuri",
-        "Chaca Choochoo",
-        "Cuzcu Aker",
-        "Espartaco Gladiador",
-        "Flexita Shadowsoul",
-        "Hugo Forjaluz",
-        "Khyoraku Shunsui",
-        "La Pety",
-        "Tharindel Magnaluz"
-      ]
-    },
-    {
-      "nombre": "Camp Chair",
-      "profesion": "Skinning",
-      "calidad": "common",
-      "personajes": [
-        "Aurelio Amador",
-        "Diana Flechaveloz",
-        "Edoras Duskranger",
-        "Filps Pachamamamon",
-        "Fitipaldi Sendaumbria",
-        "Ildaren Belisar",
-        "Lithanas Chafardero",
-        "Manelhon Gargon",
-        "Memas Tour",
-        "Nindalf Pizpireta",
-        "Palmira Natblida",
-        "Runa Ruina"
-      ]
-    },
-    {
-      "nombre": "Field Guide",
-      "profesion": "Skinning",
-      "calidad": "common",
-      "personajes": [
-        "Edoras Duskranger"
-      ]
-    },
-    {
-      "nombre": "Skinning",
-      "profesion": "Skinning",
-      "calidad": "common",
-      "personajes": [
-        "Diana Flechaveloz",
-        "Edoras Duskranger",
-        "Ildaren Belisar",
-        "Palmira Natblida",
-        "Runa Ruina"
-      ]
-    },
-    {
-      "nombre": "Skinning",
-      "profesion": "Skinning",
-      "calidad": "common",
-      "personajes": [
-        "Aurelio Amador",
-        "Filps Pachamamamon",
-        "Fitipaldi Sendaumbria",
-        "Lithanas Chafardero",
-        "Manelhon Gargon",
-        "Memas Tour",
-        "Nindalf Pizpireta"
-      ]
-    },
-    {
       "nombre": "Barbaric Linen Vest",
-      "profesion": "Tailoring",
+      "profesion": "Sastrería",
       "calidad": "uncommon",
       "personajes": [
         "Blind Minds",
@@ -5323,7 +5323,7 @@
     },
     {
       "nombre": "Blue Linen Shirt",
-      "profesion": "Tailoring",
+      "profesion": "Sastrería",
       "calidad": "common",
       "personajes": [
         "Dum Bo",
@@ -5333,7 +5333,7 @@
     },
     {
       "nombre": "Blue Linen Vest",
-      "profesion": "Tailoring",
+      "profesion": "Sastrería",
       "calidad": "uncommon",
       "personajes": [
         "Blind Minds"
@@ -5341,7 +5341,7 @@
     },
     {
       "nombre": "Blue Overalls",
-      "profesion": "Tailoring",
+      "profesion": "Sastrería",
       "calidad": "uncommon",
       "personajes": [
         "Dum Bo",
@@ -5350,7 +5350,7 @@
     },
     {
       "nombre": "Bolt of Linen Cloth",
-      "profesion": "Tailoring",
+      "profesion": "Sastrería",
       "calidad": "common",
       "personajes": [
         "Aynita Again",
@@ -5366,7 +5366,7 @@
     },
     {
       "nombre": "Bolt of Silk Cloth",
-      "profesion": "Tailoring",
+      "profesion": "Sastrería",
       "calidad": "common",
       "personajes": [
         "Dum Bo",
@@ -5376,7 +5376,7 @@
     },
     {
       "nombre": "Bolt of Woolen Cloth",
-      "profesion": "Tailoring",
+      "profesion": "Sastrería",
       "calidad": "common",
       "personajes": [
         "Dum Bo",
@@ -5388,7 +5388,7 @@
     },
     {
       "nombre": "Brown Linen Pants",
-      "profesion": "Tailoring",
+      "profesion": "Sastrería",
       "calidad": "uncommon",
       "personajes": [
         "Blind Minds",
@@ -5399,7 +5399,7 @@
     },
     {
       "nombre": "Brown Linen Robe",
-      "profesion": "Tailoring",
+      "profesion": "Sastrería",
       "calidad": "uncommon",
       "personajes": [
         "Blind Minds",
@@ -5410,7 +5410,7 @@
     },
     {
       "nombre": "Brown Linen Shirt",
-      "profesion": "Tailoring",
+      "profesion": "Sastrería",
       "calidad": "common",
       "personajes": [
         "Aynita Again",
@@ -5426,7 +5426,7 @@
     },
     {
       "nombre": "Brown Linen Vest",
-      "profesion": "Tailoring",
+      "profesion": "Sastrería",
       "calidad": "common",
       "personajes": [
         "Dum Bo",
@@ -5437,7 +5437,7 @@
     },
     {
       "nombre": "Colorful Kilt",
-      "profesion": "Tailoring",
+      "profesion": "Sastrería",
       "calidad": "uncommon",
       "personajes": [
         "Dum Bo",
@@ -5446,7 +5446,7 @@
     },
     {
       "nombre": "Double-stitched Woolen Shoulders",
-      "profesion": "Tailoring",
+      "profesion": "Sastrería",
       "calidad": "uncommon",
       "personajes": [
         "Dum Bo",
@@ -5457,7 +5457,7 @@
     },
     {
       "nombre": "Faction Banner",
-      "profesion": "Tailoring",
+      "profesion": "Sastrería",
       "calidad": "common",
       "personajes": [
         "Blind Minds",
@@ -5470,7 +5470,7 @@
     },
     {
       "nombre": "Filigreed Flame Gown",
-      "profesion": "Tailoring",
+      "profesion": "Sastrería",
       "calidad": "rare",
       "personajes": [
         "Dum Bo"
@@ -5478,7 +5478,7 @@
     },
     {
       "nombre": "Filigreed Pristine Leggings",
-      "profesion": "Tailoring",
+      "profesion": "Sastrería",
       "calidad": "rare",
       "personajes": [
         "Nimassus Pater"
@@ -5486,7 +5486,7 @@
     },
     {
       "nombre": "Filigreed Shining Leggings",
-      "profesion": "Tailoring",
+      "profesion": "Sastrería",
       "calidad": "rare",
       "personajes": [
         "Dum Bo"
@@ -5494,7 +5494,7 @@
     },
     {
       "nombre": "Filigreed Silky Gown",
-      "profesion": "Tailoring",
+      "profesion": "Sastrería",
       "calidad": "rare",
       "personajes": [
         "Finn Felagund"
@@ -5502,7 +5502,7 @@
     },
     {
       "nombre": "Gloves of Meditation",
-      "profesion": "Tailoring",
+      "profesion": "Sastrería",
       "calidad": "uncommon",
       "personajes": [
         "Dum Bo",
@@ -5511,7 +5511,7 @@
     },
     {
       "nombre": "Gray Woolen Robe",
-      "profesion": "Tailoring",
+      "profesion": "Sastrería",
       "calidad": "uncommon",
       "personajes": [
         "Dum Bo"
@@ -5519,7 +5519,7 @@
     },
     {
       "nombre": "Gray Woolen Shirt",
-      "profesion": "Tailoring",
+      "profesion": "Sastrería",
       "calidad": "common",
       "personajes": [
         "Dum Bo",
@@ -5528,7 +5528,7 @@
     },
     {
       "nombre": "Green Linen Bracers",
-      "profesion": "Tailoring",
+      "profesion": "Sastrería",
       "calidad": "uncommon",
       "personajes": [
         "Blind Minds",
@@ -5540,7 +5540,7 @@
     },
     {
       "nombre": "Green Linen Shirt",
-      "profesion": "Tailoring",
+      "profesion": "Sastrería",
       "calidad": "common",
       "personajes": [
         "Dum Bo",
@@ -5550,7 +5550,7 @@
     },
     {
       "nombre": "Green Woolen Bag",
-      "profesion": "Tailoring",
+      "profesion": "Sastrería",
       "calidad": "common",
       "personajes": [
         "Dum Bo",
@@ -5560,7 +5560,7 @@
     },
     {
       "nombre": "Green Woolen Vest",
-      "profesion": "Tailoring",
+      "profesion": "Sastrería",
       "calidad": "uncommon",
       "personajes": [
         "Dum Bo",
@@ -5570,7 +5570,7 @@
     },
     {
       "nombre": "Handstitched Linen Britches",
-      "profesion": "Tailoring",
+      "profesion": "Sastrería",
       "calidad": "uncommon",
       "personajes": [
         "Dum Bo",
@@ -5581,7 +5581,7 @@
     },
     {
       "nombre": "Heavy Linen Gloves",
-      "profesion": "Tailoring",
+      "profesion": "Sastrería",
       "calidad": "uncommon",
       "personajes": [
         "Blind Minds",
@@ -5595,7 +5595,7 @@
     },
     {
       "nombre": "Heavy Woolen Cloak",
-      "profesion": "Tailoring",
+      "profesion": "Sastrería",
       "calidad": "uncommon",
       "personajes": [
         "Dum Bo",
@@ -5604,7 +5604,7 @@
     },
     {
       "nombre": "Heavy Woolen Gloves",
-      "profesion": "Tailoring",
+      "profesion": "Sastrería",
       "calidad": "uncommon",
       "personajes": [
         "Dum Bo",
@@ -5614,7 +5614,7 @@
     },
     {
       "nombre": "Heavy Woolen Pants",
-      "profesion": "Tailoring",
+      "profesion": "Sastrería",
       "calidad": "uncommon",
       "personajes": [
         "Dum Bo",
@@ -5624,7 +5624,7 @@
     },
     {
       "nombre": "Lesser Wizard's Robe",
-      "profesion": "Tailoring",
+      "profesion": "Sastrería",
       "calidad": "uncommon",
       "personajes": [
         "Dum Bo"
@@ -5632,7 +5632,7 @@
     },
     {
       "nombre": "Linen Bag",
-      "profesion": "Tailoring",
+      "profesion": "Sastrería",
       "calidad": "common",
       "personajes": [
         "Aynita Again",
@@ -5648,7 +5648,7 @@
     },
     {
       "nombre": "Linen Belt",
-      "profesion": "Tailoring",
+      "profesion": "Sastrería",
       "calidad": "common",
       "personajes": [
         "Blind Minds",
@@ -5660,7 +5660,7 @@
     },
     {
       "nombre": "Linen Boots",
-      "profesion": "Tailoring",
+      "profesion": "Sastrería",
       "calidad": "uncommon",
       "personajes": [
         "Blind Minds",
@@ -5673,7 +5673,7 @@
     },
     {
       "nombre": "Linen Cloak",
-      "profesion": "Tailoring",
+      "profesion": "Sastrería",
       "calidad": "common",
       "personajes": [
         "Aynita Again",
@@ -5689,7 +5689,7 @@
     },
     {
       "nombre": "Linen Reagent Bag",
-      "profesion": "Tailoring",
+      "profesion": "Sastrería",
       "calidad": "common",
       "personajes": [
         "Blind Minds",
@@ -5700,7 +5700,7 @@
     },
     {
       "nombre": "Novice Arcanist's Sash",
-      "profesion": "Tailoring",
+      "profesion": "Sastrería",
       "calidad": "rare",
       "personajes": [
         "Blind Minds",
@@ -5712,7 +5712,7 @@
     },
     {
       "nombre": "Novice Ardent's Sash",
-      "profesion": "Tailoring",
+      "profesion": "Sastrería",
       "calidad": "rare",
       "personajes": [
         "Dum Bo",
@@ -5724,7 +5724,7 @@
     },
     {
       "nombre": "Pearl-clasped Cloak",
-      "profesion": "Tailoring",
+      "profesion": "Sastrería",
       "calidad": "uncommon",
       "personajes": [
         "Dum Bo",
@@ -5733,7 +5733,7 @@
     },
     {
       "nombre": "Phoenix Gloves",
-      "profesion": "Tailoring",
+      "profesion": "Sastrería",
       "calidad": "uncommon",
       "personajes": [
         "Dum Bo"
@@ -5741,7 +5741,7 @@
     },
     {
       "nombre": "Phoenix Pants",
-      "profesion": "Tailoring",
+      "profesion": "Sastrería",
       "calidad": "uncommon",
       "personajes": [
         "Dum Bo"
@@ -5749,7 +5749,7 @@
     },
     {
       "nombre": "Red Linen Bag",
-      "profesion": "Tailoring",
+      "profesion": "Sastrería",
       "calidad": "common",
       "personajes": [
         "Dum Bo",
@@ -5759,7 +5759,7 @@
     },
     {
       "nombre": "Red Linen Robe",
-      "profesion": "Tailoring",
+      "profesion": "Sastrería",
       "calidad": "uncommon",
       "personajes": [
         "Dum Bo",
@@ -5768,7 +5768,7 @@
     },
     {
       "nombre": "Red Linen Shirt",
-      "profesion": "Tailoring",
+      "profesion": "Sastrería",
       "calidad": "common",
       "personajes": [
         "Dum Bo",
@@ -5778,7 +5778,7 @@
     },
     {
       "nombre": "Red Linen Vest",
-      "profesion": "Tailoring",
+      "profesion": "Sastrería",
       "calidad": "uncommon",
       "personajes": [
         "Dum Bo"
@@ -5786,7 +5786,7 @@
     },
     {
       "nombre": "Red Woolen Boots",
-      "profesion": "Tailoring",
+      "profesion": "Sastrería",
       "calidad": "uncommon",
       "personajes": [
         "Dum Bo"
@@ -5794,7 +5794,7 @@
     },
     {
       "nombre": "Reinforced Linen Cape",
-      "profesion": "Tailoring",
+      "profesion": "Sastrería",
       "calidad": "uncommon",
       "personajes": [
         "Blind Minds",
@@ -5808,7 +5808,7 @@
     },
     {
       "nombre": "Reinforced Woolen Shoulders",
-      "profesion": "Tailoring",
+      "profesion": "Sastrería",
       "calidad": "uncommon",
       "personajes": [
         "Dum Bo"
@@ -5816,7 +5816,7 @@
     },
     {
       "nombre": "Simple Dress",
-      "profesion": "Tailoring",
+      "profesion": "Sastrería",
       "calidad": "common",
       "personajes": [
         "Dum Bo",
@@ -5826,7 +5826,7 @@
     },
     {
       "nombre": "Simple Kilt",
-      "profesion": "Tailoring",
+      "profesion": "Sastrería",
       "calidad": "uncommon",
       "personajes": [
         "Dum Bo",
@@ -5838,7 +5838,7 @@
     },
     {
       "nombre": "Simple Linen Boots",
-      "profesion": "Tailoring",
+      "profesion": "Sastrería",
       "calidad": "common",
       "personajes": [
         "Dum Bo",
@@ -5848,7 +5848,7 @@
     },
     {
       "nombre": "Simple Linen Pants",
-      "profesion": "Tailoring",
+      "profesion": "Sastrería",
       "calidad": "common",
       "personajes": [
         "Aynita Again",
@@ -5864,7 +5864,7 @@
     },
     {
       "nombre": "Soft-soled Linen Boots",
-      "profesion": "Tailoring",
+      "profesion": "Sastrería",
       "calidad": "uncommon",
       "personajes": [
         "Dum Bo",
@@ -5873,7 +5873,7 @@
     },
     {
       "nombre": "Spider Silk Slippers",
-      "profesion": "Tailoring",
+      "profesion": "Sastrería",
       "calidad": "uncommon",
       "personajes": [
         "Dum Bo"
@@ -5881,7 +5881,7 @@
     },
     {
       "nombre": "Spidersilk Boots",
-      "profesion": "Tailoring",
+      "profesion": "Sastrería",
       "calidad": "rare",
       "personajes": [
         "Dum Bo",
@@ -5891,7 +5891,7 @@
     },
     {
       "nombre": "Stylish Blue Shirt",
-      "profesion": "Tailoring",
+      "profesion": "Sastrería",
       "calidad": "common",
       "personajes": [
         "Dum Bo"
@@ -5899,7 +5899,7 @@
     },
     {
       "nombre": "Stylish Green Shirt",
-      "profesion": "Tailoring",
+      "profesion": "Sastrería",
       "calidad": "common",
       "personajes": [
         "Dum Bo"
@@ -5907,7 +5907,7 @@
     },
     {
       "nombre": "Stylish Red Shirt",
-      "profesion": "Tailoring",
+      "profesion": "Sastrería",
       "calidad": "common",
       "personajes": [
         "Dum Bo",
@@ -5916,7 +5916,7 @@
     },
     {
       "nombre": "White Linen Robe",
-      "profesion": "Tailoring",
+      "profesion": "Sastrería",
       "calidad": "uncommon",
       "personajes": [
         "Blind Minds",
@@ -5928,7 +5928,7 @@
     },
     {
       "nombre": "White Linen Shirt",
-      "profesion": "Tailoring",
+      "profesion": "Sastrería",
       "calidad": "common",
       "personajes": [
         "Dum Bo",
@@ -5940,7 +5940,7 @@
     },
     {
       "nombre": "White Woolen Dress",
-      "profesion": "Tailoring",
+      "profesion": "Sastrería",
       "calidad": "uncommon",
       "personajes": [
         "Dum Bo",
@@ -5950,7 +5950,7 @@
     },
     {
       "nombre": "Woolen Bag",
-      "profesion": "Tailoring",
+      "profesion": "Sastrería",
       "calidad": "common",
       "personajes": [
         "Dum Bo",
@@ -5960,7 +5960,7 @@
     },
     {
       "nombre": "Woolen Boots",
-      "profesion": "Tailoring",
+      "profesion": "Sastrería",
       "calidad": "uncommon",
       "personajes": [
         "Dum Bo",
@@ -5970,7 +5970,7 @@
     },
     {
       "nombre": "Woolen Cape",
-      "profesion": "Tailoring",
+      "profesion": "Sastrería",
       "calidad": "uncommon",
       "personajes": [
         "Dum Bo",
@@ -5982,7 +5982,7 @@
     },
     {
       "nombre": "Woolen Reagent Bag",
-      "profesion": "Tailoring",
+      "profesion": "Sastrería",
       "calidad": "common",
       "personajes": [
         "Dum Bo",
