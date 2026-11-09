@@ -24,6 +24,10 @@ CACHE = RAIZ / "datos" / "recetas_cache.json"
 MAX_RECETAS_NUEVAS = 800          # tope de consultas nuevas por ejecución
 CLASES = {1: "warrior", 2: "paladin", 3: "hunter", 4: "rogue", 5: "priest", 6: "deathknight",
           7: "shaman", 8: "mage", 9: "warlock", 10: "monk", 11: "druid"}
+# Blizzard devuelve las profesiones de Forever en inglés aunque se pida es_ES
+PROF_ES = {"Alchemy": "Alquimia", "Blacksmithing": "Herrería", "Enchanting": "Encantamiento", "Engineering": "Ingeniería",
+           "Leatherworking": "Peletería", "Tailoring": "Sastrería", "Herbalism": "Herboristería", "Mining": "Minería",
+           "Skinning": "Desuello", "Cooking": "Cocina", "First Aid": "Primeros auxilios", "Fishing": "Pesca"}
 CALIDAD = {"LEGENDARY": "legendary", "EPIC": "epic", "RARE": "rare", "UNCOMMON": "uncommon",
            "COMMON": "common", "POOR": "common", "ARTIFACT": "legendary"}
 
@@ -119,6 +123,7 @@ def main():
         for grupo in ("primaries", "secondaries"):
             for pr in (prof.get(grupo) or [])[:4]:
                 nombre_prof = texto((pr.get("profession") or {}).get("name"), 30)
+                nombre_prof = PROF_ES.get(nombre_prof, nombre_prof)
                 tiers = pr.get("tiers") or []
                 nivel = max((t.get("skill_points") or 0 for t in tiers), default=0)
                 maximo = max((t.get("max_skill_points") or 0 for t in tiers), default=0)
