@@ -661,7 +661,8 @@
           const [claseEs, color] = CLASES[c] || ["Otros", "#9b9fa9"];
           const caja = el("div", "grupo");
           caja.style.setProperty("--c", color);
-          const h = el("h4", "", claseEs + (grupos[c].length > 1 && !claseEs.endsWith("s") ? "s" : ""));
+          const PLURAL = { "Chamán": "Chamanes", "Paladín": "Paladines", "Caballero de la Muerte": "Caballeros de la Muerte" };
+          const h = el("h4", "", grupos[c].length > 1 ? (PLURAL[claseEs] || claseEs + (claseEs.endsWith("s") ? "" : "s")) : claseEs);
           h.append(el("span", "", String(grupos[c].length)));
           const ul = el("ul");
           grupos[c].forEach(p => {
@@ -694,6 +695,8 @@
   })();
 
   // Actividad: actividad.json lo genera el robot desde wowaudit (raids y botín). Todo con textContent.
+  // Los eventos sin nombre propio de wowaudit ("Event") se muestran como "Noche de raid".
+  const nombreRaid = t => (!t || /^event$/i.test(String(t).trim())) ? "" : t;
   (function () {
     const fmt = f => {
       const d = new Date(f + "T12:00:00");
@@ -710,7 +713,7 @@
         const p = d && d.proxima_raid;
         if (p && p.fecha) {
           const titulo = el("div", "fecha-grande", fmt(p.fecha));
-          const det = el("div", "detalle", [p.titulo, p.instancia].filter(Boolean).join(", "));
+          const det = el("div", "detalle", [nombreRaid(p.titulo), p.instancia].filter(Boolean).join(", ") || "Noche de raid");
           if (p.dificultad) det.append(el("span", "etiqueta-dif", p.dificultad));
           const ap = p.apuntados > 0 ? el("div", "detalle", p.apuntados + " apuntados") : "";
           proxima.replaceChildren(titulo, det, ap);
@@ -720,9 +723,9 @@
         if (lista.length) {
           ultimas.replaceChildren(...lista.map(r => {
             const li = el("li");
-            const que = el("span", "que", r.titulo || r.instancia || "Raid");
+            const que = el("span", "que", nombreRaid(r.titulo) || r.instancia || "Noche de raid");
             if (r.dificultad) que.append(el("span", "etiqueta-dif", r.dificultad));
-            const extra = [r.titulo ? r.instancia : "", r.apuntados > 0 ? r.apuntados + " apuntados" : ""].filter(Boolean).join(", ");
+            const extra = [nombreRaid(r.titulo) ? r.instancia : "", r.apuntados > 0 ? r.apuntados + " apuntados" : ""].filter(Boolean).join(", ");
             li.append(el("span", "cuando", fmt(r.fecha)), que, el("span", "detalle", extra));
             return li;
           }));
@@ -742,7 +745,7 @@
           });
           tabla.append(thead, tbody);
           botin.replaceChildren(tabla);
-        } else vacio(botin, "Aún no hay botín registrado. Aparecerá aquí en cuanto el reparto se registre en wowaudit.");
+        } else vacio(botin, "Aún no hay botín registrado. Aparecerá aquí en cuanto empiecen las raids.");
       })
       .catch(() => {
         vacio(proxima, "No se ha podido cargar.");
