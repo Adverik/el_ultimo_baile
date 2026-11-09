@@ -4,6 +4,11 @@ on:
   schedule:
     - cron: "17 * * * *"   # cada hora, en el minuto 17
   workflow_dispatch:        # botón "Run workflow" para lanzarlo a mano
+    inputs:
+      silencio:
+        description: "No avisar en Discord de los cambios de esta ejecución"
+        type: boolean
+        default: false
 
 # Mínimo privilegio: solo puede escribir contenido del repo (para commitear los JSON)
 permissions:
@@ -52,6 +57,7 @@ jobs:
           git push
 
       - name: Avisar en Discord de los cambios
+        if: ${{ !(github.event_name == 'workflow_dispatch' && inputs.silencio) }}
         env:
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
         run: python3 scripts/avisar_discord.py datos "$RUNNER_TEMP/antes"
