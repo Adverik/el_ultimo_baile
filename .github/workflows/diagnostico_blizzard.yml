@@ -1,0 +1,22 @@
+name: Diagnóstico de la API de Blizzard (solo estructura)
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  diagnostico:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - name: Ver qué da Blizzard para Forever (sin valores)
+        env:
+          BLIZZARD_CLIENT_ID: ${{ secrets.BLIZZARD_CLIENT_ID }}
+          BLIZZARD_CLIENT_SECRET: ${{ secrets.BLIZZARD_CLIENT_SECRET }}
+          WOWAUDIT_API_KEY: ${{ secrets.WOWAUDIT_API_KEY }}
+        run: python3 scripts/diagnostico_blizzard.py
