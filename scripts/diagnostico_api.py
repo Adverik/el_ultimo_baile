@@ -157,6 +157,40 @@ def main():
         print("  game_data:")
         forma(datos[0].get("game_data"), 2)
 
+    # ¿Dónde está el apellido? Recorre todas las respuestas y lista los campos de texto con espacios
+    # y los campos cuyo nombre contenga "name" (solo rutas y recuentos, nunca valores)
+    print("\n===== Búsqueda de nombre completo en toda la API")
+    rutas_api = ["/v1/characters", "/v1/team", "/v1/attendance", "/v1/raids?include_past=true"]
+    if per:
+        rutas_api.append(f"/v1/historical_data?period={per}")
+    if isinstance(lista, list) and lista and isinstance(lista[0], dict) and "id" in lista[0]:
+        rutas_api.append(f"/v1/raids/{lista[0]['id']}")
+    if temporada:
+        rutas_api.append(f"/v1/loot_history/{temporada}")
+    def recorrer(d, base=""):
+        if isinstance(d, dict):
+            for k, v in d.items():
+                yield from recorrer(v, f"{base}.{k}" if base else k)
+        elif isinstance(d, list):
+            for x in d:
+                yield from recorrer(x, base + "[]")
+        elif isinstance(d, str):
+            yield base, d
+    for ruta in rutas_api:
+        datos, error = get(ruta)
+        if error:
+            print(f"  {ruta}: {error}")
+            continue
+        res = {}
+        for r, v in recorrer(datos):
+            x = res.setdefault(r, [0, 0])
+            x[0] += 1
+            x[1] += (" " in v.strip())
+        utiles = [(r, n, e) for r, (n, e) in sorted(res.items()) if e or "name" in r.lower()]
+        print(f"  {ruta}:")
+        for r, n, e in utiles[:30]:
+            print(f"    {r}: {n} textos, {e} con espacios")
+
 
 if __name__ == "__main__":
     main()
