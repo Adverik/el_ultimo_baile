@@ -74,7 +74,7 @@ def main():
         if coinciden:
             buenos.append((suf, d))
 
-    forever(H, chars)
+    detalle(H)
     return
     print("\n===== Perfil de personajes por namespace (profile-*)")
     for suf in sufijos:
@@ -158,6 +158,42 @@ def forever(H, chars):
                         print(f"    profesiones del primero: HTTP {sp}")
                         if prof: forma(prof, 3, 5)
                     return
+
+
+def detalle(H):
+    ns = "profile-forever-eu"
+    print("\n===== Roster de la hermandad (Forever)")
+    st, g = http(f"{API}/data/wow/guild/el-%C3%BAltimo-baile/roster?namespace={ns}&locale=es_ES", H)
+    print(f"  roster: HTTP {st}")
+    miembros = (g or {}).get("members", [])
+    print(f"  miembros: {len(miembros)}")
+    if miembros:
+        print("  forma de un miembro:"); forma(miembros[0], 2, 5)
+        rangos = {}
+        for m in miembros: rangos[m.get("rank")] = rangos.get(m.get("rank"), 0) + 1
+        print(f"  miembros por rango: {dict(sorted(rangos.items(), key=lambda x: str(x[0])))}")
+    print("\n===== Profesiones de fran-furion: forma de una receta")
+    st, p = http(f"{API}/profile/wow/character/fran-furion/professions?namespace={ns}&locale=es_ES", H)
+    rec = None
+    for grupo in ("primaries", "secondaries"):
+        for pr in (p or {}).get(grupo, []):
+            for t in pr.get("tiers", []):
+                if t.get("known_recipes"):
+                    rec = t["known_recipes"][0]; break
+            if rec: break
+        if rec: break
+    forma(rec or {}, 2, 4)
+    if rec and rec.get("id"):
+        for sns in ("static-forever-eu", "static-classic1x-eu", "static-eu"):
+            sr, r = http(f"{API}/data/wow/recipe/{rec['id']}?namespace={sns}&locale=es_ES", H)
+            print(f"  receta en {sns}: HTTP {sr}")
+            if r:
+                forma(r, 3, 4)
+                it = (r.get("crafted_item") or r.get("alliance_crafted_item") or {})
+                if it.get("id"):
+                    si, item = http(f"{API}/data/wow/item/{it['id']}?namespace={sns}&locale=es_ES", H)
+                    print(f"    objeto fabricado en {sns}: HTTP {si}, tiene quality: {'quality' in (item or {})}")
+                break
 
 
 if __name__ == "__main__":
