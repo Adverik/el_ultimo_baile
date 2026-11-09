@@ -252,26 +252,10 @@
   .franja-aviso a{color:var(--oro-claro)}
   @keyframes latido{50%{opacity:.35}}
 
-  /* Estandarte con el escudo animado */
-  .estandarte{position:relative;width:min(470px,88vw);margin:6px auto 0;padding-top:18px}
-  .vara{position:relative;z-index:3;height:10px;margin:0 -26px;border-radius:5px;background:linear-gradient(180deg,#f6dc97,#b8893a 55%,#7a5a22);box-shadow:0 3px 8px rgba(0,0,0,.6)}
-  .vara::before,.vara::after{content:"";position:absolute;top:50%;width:20px;height:20px;margin-top:-10px;border-radius:50%;background:radial-gradient(circle at 35% 35%,#fff1c4,#d2a955 45%,#7a5a22)}
-  .vara::before{left:-12px}.vara::after{right:-12px}
-  .colgante{position:relative;transform-origin:50% 0;animation:mecer 7s ease-in-out infinite alternate}
-  @keyframes mecer{from{transform:rotate(-1.1deg)}to{transform:rotate(1.1deg)}}
-  .cordon{position:absolute;top:-4px;width:2px;height:58px;background:linear-gradient(#d2a955,#8a6a2a);z-index:2}
-  .cordon::after{content:"";position:absolute;bottom:-14px;left:-5px;width:12px;height:18px;border-radius:40% 40% 50% 50%;background:linear-gradient(#e9c77a,#8a6a2a)}
-  .cordon.izq{left:-14px}.cordon.der{right:-14px}
-  .tela{position:relative;margin:-2px 0 0;padding:26px 22px 92px;background:linear-gradient(180deg,#e2bf73,#a77d33);
-    clip-path:polygon(0 0,100% 0,100% 86%,50% 100%,0 86%);filter:drop-shadow(0 20px 30px rgba(0,0,0,.6))}
-  .tela-fondo{position:absolute;inset:3px;clip-path:polygon(0 0,100% 0,100% 86%,50% 100%,0 86%);
-    background:repeating-linear-gradient(90deg,rgba(255,255,255,.025) 0 2px,transparent 2px 5px),
-      radial-gradient(120% 70% at 50% 30%,#14264c,#0b1631 55%,#070d1d)}
-  .tela-fondo::after{content:"";position:absolute;inset:12px 12px 0;clip-path:polygon(0 0,100% 0,100% 84%,50% 97%,0 84%);border:1px solid rgba(210,169,85,.45);
-    background:linear-gradient(90deg,rgba(0,0,0,.35),transparent 18%,transparent 82%,rgba(0,0,0,.35))}
+  /* Escudo animado (sin estandarte) */
+  .escudo-hero{position:relative;width:min(480px,86vw);margin:0 auto}
   .escudo-vivo{position:relative}
   .escudo-vivo .escudo{display:block;width:100%;height:auto;margin:0;mix-blend-mode:lighten}
-  .rombo-tela{position:absolute;z-index:1;left:50%;bottom:44px;transform:translateX(-50%);color:var(--oro);font-size:.9rem}
   .ojo{position:absolute;z-index:2;width:9%;aspect-ratio:1;margin:-4.5% 0 0 -4.5%;border-radius:50%;pointer-events:none;mix-blend-mode:screen;
     background:radial-gradient(circle,rgba(200,225,255,.95),rgba(80,140,255,.55) 35%,rgba(40,90,255,0) 70%);animation:mirada 3.6s ease-in-out infinite}
   .ojo.izq{left:42.9%;top:44.6%}.ojo.der{left:57.1%;top:45%}
@@ -282,10 +266,10 @@
             mask-image:linear-gradient(90deg,#000 0,#000 17%,transparent 25%,transparent 75%,#000 83%,#000 100%);
     animation:venas 9s ease-in-out infinite}
   @keyframes venas{0%,55%,100%{opacity:0}70%{opacity:.55}}
-  .rayo{position:absolute;z-index:0;left:50%;top:-30px;width:70%;height:75%;transform:translateX(-50%);pointer-events:none;
+  .rayo{position:absolute;z-index:0;left:50%;top:-10px;width:60%;height:55%;transform:translateX(-50%);pointer-events:none;
     background:radial-gradient(60% 100% at 50% 0,rgba(241,210,138,.28),transparent 70%);animation:respirar 6s ease-in-out infinite}
   @keyframes respirar{50%{opacity:.45}}
-  .brasas{position:absolute;inset:0 0 25%;pointer-events:none;z-index:4;overflow:hidden}
+  .brasas{position:absolute;inset:0 0 18%;pointer-events:none;z-index:4;overflow:hidden}
   .brasas i{position:absolute;bottom:0;left:var(--x);width:var(--s);height:var(--s);border-radius:50%;background:#ffcf7a;box-shadow:0 0 6px 2px rgba(255,170,70,.75);
     opacity:0;animation:brasa var(--t) linear var(--d) infinite}
   @keyframes brasa{0%{opacity:0;transform:translate(0,0)}12%{opacity:.9}70%{opacity:.6}100%{opacity:0;transform:translate(18px,-340px)}}
@@ -295,13 +279,10 @@
   .enlace-flecha{color:var(--suave);text-decoration:none;font-weight:600;letter-spacing:.04em}
   .enlace-flecha:hover{color:var(--oro-claro)}
   @media (prefers-reduced-motion:reduce){
-    .colgante,.ojo,.alas-luz,.rayo,.brasas i,.franja-aviso .punto{animation:none}
+    .ojo,.alas-luz,.rayo,.brasas i,.franja-aviso .punto{animation:none}
     .brasas{display:none}.ojo{opacity:.55}
   }
   @media (max-width:720px){
-    .estandarte{width:86vw}
-    .tela{padding:18px 14px 70px}
-    .vara{margin:0 -14px}.cordon.izq{left:-6px}.cordon.der{right:-6px}
     .franja-aviso{font-size:.82rem}.franja-aviso b{display:none}
     .acciones-hero .boton{flex:1 1 100%;text-align:center}
   }
@@ -373,23 +354,15 @@
 <main>
   <section class="hero" id="inicio" aria-labelledby="t-hero">
     <h1 class="oculto" id="t-hero">El Último Baile</h1>
-    <div class="estandarte">
+    <div class="escudo-hero">
       <span class="rayo" aria-hidden="true"></span>
-      <div class="vara" aria-hidden="true"></div>
-      <div class="colgante">
-        <span class="cordon izq" aria-hidden="true"></span><span class="cordon der" aria-hidden="true"></span>
-        <div class="tela">
-          <div class="tela-fondo" aria-hidden="true"></div>
-          <div class="escudo-vivo">
-            <picture>
-              <source media="(max-width: 720px)" srcset="img/escudo-movil.jpg">
-              <img class="escudo" src="img/escudo.jpg" width="1000" height="1000" alt="Escudo de El Último Baile: cabeza de dragón con ojos azules mordiendo una cinta con el nombre, sobre un aro de runas, con un hacha y una espada cruzadas y alas desplegadas">
-            </picture>
-            <span class="alas-luz" aria-hidden="true"></span>
-            <span class="ojo izq" aria-hidden="true"></span><span class="ojo der" aria-hidden="true"></span>
-          </div>
-          <span class="rombo-tela" aria-hidden="true">◆</span>
-        </div>
+      <div class="escudo-vivo">
+        <picture>
+          <source media="(max-width: 720px)" srcset="img/escudo-movil.jpg">
+          <img class="escudo" src="img/escudo.jpg" width="1000" height="1000" alt="Escudo de El Último Baile: cabeza de dragón con ojos azules mordiendo una cinta con el nombre, sobre un aro de runas, con un hacha y una espada cruzadas y alas desplegadas">
+        </picture>
+        <span class="alas-luz" aria-hidden="true"></span>
+        <span class="ojo izq" aria-hidden="true"></span><span class="ojo der" aria-hidden="true"></span>
       </div>
       <div class="brasas" aria-hidden="true"><i style="--x:14%;--d:0s;--t:7.5s;--s:3px"></i><i style="--x:26%;--d:2.4s;--t:9s;--s:2px"></i><i style="--x:38%;--d:4.1s;--t:8s;--s:3px"></i><i style="--x:50%;--d:1.2s;--t:10s;--s:2px"></i><i style="--x:61%;--d:3.3s;--t:7s;--s:3px"></i><i style="--x:72%;--d:5.2s;--t:8.5s;--s:2px"></i><i style="--x:83%;--d:0.6s;--t:9.5s;--s:3px"></i><i style="--x:31%;--d:6.4s;--t:8s;--s:2px"></i><i style="--x:66%;--d:7.1s;--t:9s;--s:2px"></i><i style="--x:45%;--d:8.3s;--t:7.5s;--s:3px"></i></div>
     </div>
