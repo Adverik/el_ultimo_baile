@@ -1,5 +1,5995 @@
 {
   "actualizado": "2026-11-09",
-  "artesanos": [],
-  "recetas": []
+  "artesanos": [
+    {
+      "personaje": "Aalesian Naeuri",
+      "clase": "warrior",
+      "raider": false,
+      "profesiones": [
+        {
+          "nombre": "Mining",
+          "nivel": 201,
+          "max": 225
+        },
+        {
+          "nombre": "Blacksmithing",
+          "nivel": 147,
+          "max": 225
+        },
+        {
+          "nombre": "Cooking",
+          "nivel": 138,
+          "max": 225
+        },
+        {
+          "nombre": "Fishing",
+          "nivel": 50,
+          "max": 150
+        },
+        {
+          "nombre": "First Aid",
+          "nivel": 150,
+          "max": 225
+        }
+      ]
+    },
+    {
+      "personaje": "Aurelio Amador",
+      "clase": "rogue",
+      "raider": false,
+      "profesiones": [
+        {
+          "nombre": "Leatherworking",
+          "nivel": 101,
+          "max": 150
+        },
+        {
+          "nombre": "Skinning",
+          "nivel": 76,
+          "max": 150
+        },
+        {
+          "nombre": "Cooking",
+          "nivel": 1,
+          "max": 75
+        },
+        {
+          "nombre": "First Aid",
+          "nivel": 72,
+          "max": 150
+        }
+      ]
+    },
+    {
+      "personaje": "Aynita Again",
+      "clase": "hunter",
+      "raider": false,
+      "profesiones": [
+        {
+          "nombre": "Tailoring",
+          "nivel": 1,
+          "max": 75
+        },
+        {
+          "nombre": "Herbalism",
+          "nivel": 31,
+          "max": 75
+        },
+        {
+          "nombre": "Cooking",
+          "nivel": 3,
+          "max": 75
+        },
+        {
+          "nombre": "Fishing",
+          "nivel": 39,
+          "max": 75
+        }
+      ]
+    },
+    {
+      "personaje": "Black Phanter",
+      "clase": "druid",
+      "raider": false,
+      "profesiones": [
+        {
+          "nombre": "Herbalism",
+          "nivel": 4,
+          "max": 75
+        },
+        {
+          "nombre": "Cooking",
+          "nivel": 6,
+          "max": 75
+        }
+      ]
+    },
+    {
+      "personaje": "Blind Minds",
+      "clase": "priest",
+      "raider": true,
+      "profesiones": [
+        {
+          "nombre": "Tailoring",
+          "nivel": 42,
+          "max": 75
+        },
+        {
+          "nombre": "Herbalism",
+          "nivel": 14,
+          "max": 75
+        },
+        {
+          "nombre": "Cooking",
+          "nivel": 1,
+          "max": 75
+        },
+        {
+          "nombre": "Fishing",
+          "nivel": 13,
+          "max": 75
+        },
+        {
+          "nombre": "First Aid",
+          "nivel": 1,
+          "max": 75
+        }
+      ]
+    },
+    {
+      "personaje": "Chaca Choochoo",
+      "clase": "druid",
+      "raider": false,
+      "profesiones": [
+        {
+          "nombre": "Mining",
+          "nivel": 124,
+          "max": 150
+        },
+        {
+          "nombre": "Engineering",
+          "nivel": 150,
+          "max": 225
+        },
+        {
+          "nombre": "Cooking",
+          "nivel": 144,
+          "max": 150
+        },
+        {
+          "nombre": "Fishing",
+          "nivel": 1,
+          "max": 75
+        },
+        {
+          "nombre": "First Aid",
+          "nivel": 81,
+          "max": 150
+        }
+      ]
+    },
+    {
+      "personaje": "Cuzcu Aker",
+      "clase": "paladin",
+      "raider": true,
+      "profesiones": [
+        {
+          "nombre": "Mining",
+          "nivel": 106,
+          "max": 150
+        },
+        {
+          "nombre": "Engineering",
+          "nivel": 116,
+          "max": 150
+        },
+        {
+          "nombre": "Cooking",
+          "nivel": 111,
+          "max": 150
+        },
+        {
+          "nombre": "Fishing",
+          "nivel": 105,
+          "max": 150
+        },
+        {
+          "nombre": "First Aid",
+          "nivel": 1,
+          "max": 75
+        }
+      ]
+    },
+    {
+      "personaje": "Diana Flechaveloz",
+      "clase": "hunter",
+      "raider": false,
+      "profesiones": [
+        {
+          "nombre": "Leatherworking",
+          "nivel": 140,
+          "max": 150
+        },
+        {
+          "nombre": "Skinning",
+          "nivel": 185,
+          "max": 225
+        },
+        {
+          "nombre": "Cooking",
+          "nivel": 150,
+          "max": 150
+        },
+        {
+          "nombre": "Fishing",
+          "nivel": 137,
+          "max": 150
+        },
+        {
+          "nombre": "First Aid",
+          "nivel": 40,
+          "max": 75
+        }
+      ]
+    },
+    {
+      "personaje": "Dio Hotmetal",
+      "clase": "hunter",
+      "raider": false,
+      "profesiones": [
+        {
+          "nombre": "Alchemy",
+          "nivel": 150,
+          "max": 150
+        },
+        {
+          "nombre": "Herbalism",
+          "nivel": 180,
+          "max": 225
+        },
+        {
+          "nombre": "Cooking",
+          "nivel": 74,
+          "max": 150
+        },
+        {
+          "nombre": "First Aid",
+          "nivel": 69,
+          "max": 150
+        }
+      ]
+    },
+    {
+      "personaje": "Don Josechu",
+      "clase": "warlock",
+      "raider": false,
+      "profesiones": [
+        {
+          "nombre": "Alchemy",
+          "nivel": 114,
+          "max": 150
+        },
+        {
+          "nombre": "Herbalism",
+          "nivel": 118,
+          "max": 150
+        },
+        {
+          "nombre": "Cooking",
+          "nivel": 1,
+          "max": 75
+        }
+      ]
+    },
+    {
+      "personaje": "Dum Bo",
+      "clase": "mage",
+      "raider": false,
+      "profesiones": [
+        {
+          "nombre": "Tailoring",
+          "nivel": 116,
+          "max": 150
+        },
+        {
+          "nombre": "Enchanting",
+          "nivel": 125,
+          "max": 150
+        },
+        {
+          "nombre": "Cooking",
+          "nivel": 225,
+          "max": 225
+        },
+        {
+          "nombre": "Fishing",
+          "nivel": 215,
+          "max": 225
+        },
+        {
+          "nombre": "First Aid",
+          "nivel": 78,
+          "max": 150
+        }
+      ]
+    },
+    {
+      "personaje": "Edoras Duskranger",
+      "clase": "hunter",
+      "raider": true,
+      "profesiones": [
+        {
+          "nombre": "Leatherworking",
+          "nivel": 102,
+          "max": 150
+        },
+        {
+          "nombre": "Skinning",
+          "nivel": 197,
+          "max": 225
+        },
+        {
+          "nombre": "Cooking",
+          "nivel": 150,
+          "max": 150
+        },
+        {
+          "nombre": "Fishing",
+          "nivel": 84,
+          "max": 150
+        },
+        {
+          "nombre": "First Aid",
+          "nivel": 150,
+          "max": 150
+        }
+      ]
+    },
+    {
+      "personaje": "Espartaco Gladiador",
+      "clase": "warrior",
+      "raider": true,
+      "profesiones": [
+        {
+          "nombre": "Mining",
+          "nivel": 124,
+          "max": 150
+        },
+        {
+          "nombre": "Blacksmithing",
+          "nivel": 115,
+          "max": 150
+        },
+        {
+          "nombre": "Cooking",
+          "nivel": 150,
+          "max": 225
+        },
+        {
+          "nombre": "Fishing",
+          "nivel": 146,
+          "max": 225
+        },
+        {
+          "nombre": "First Aid",
+          "nivel": 145,
+          "max": 150
+        }
+      ]
+    },
+    {
+      "personaje": "Filps Pachamamamon",
+      "clase": "hunter",
+      "raider": false,
+      "profesiones": [
+        {
+          "nombre": "Leatherworking",
+          "nivel": 53,
+          "max": 150
+        },
+        {
+          "nombre": "Skinning",
+          "nivel": 75,
+          "max": 150
+        },
+        {
+          "nombre": "Cooking",
+          "nivel": 12,
+          "max": 75
+        },
+        {
+          "nombre": "First Aid",
+          "nivel": 83,
+          "max": 150
+        }
+      ]
+    },
+    {
+      "personaje": "Finn Felagund",
+      "clase": "priest",
+      "raider": false,
+      "profesiones": [
+        {
+          "nombre": "Tailoring",
+          "nivel": 116,
+          "max": 150
+        },
+        {
+          "nombre": "Enchanting",
+          "nivel": 130,
+          "max": 150
+        },
+        {
+          "nombre": "Cooking",
+          "nivel": 200,
+          "max": 225
+        },
+        {
+          "nombre": "Fishing",
+          "nivel": 121,
+          "max": 150
+        }
+      ]
+    },
+    {
+      "personaje": "Fitipaldi Sendaumbria",
+      "clase": "rogue",
+      "raider": true,
+      "profesiones": [
+        {
+          "nombre": "Skinning",
+          "nivel": 88,
+          "max": 150
+        },
+        {
+          "nombre": "Herbalism",
+          "nivel": 11,
+          "max": 75
+        },
+        {
+          "nombre": "Cooking",
+          "nivel": 4,
+          "max": 75
+        },
+        {
+          "nombre": "First Aid",
+          "nivel": 51,
+          "max": 75
+        }
+      ]
+    },
+    {
+      "personaje": "Flexita Shadowsoul",
+      "clase": "hunter",
+      "raider": false,
+      "profesiones": [
+        {
+          "nombre": "Mining",
+          "nivel": 105,
+          "max": 150
+        },
+        {
+          "nombre": "Engineering",
+          "nivel": 98,
+          "max": 150
+        },
+        {
+          "nombre": "Cooking",
+          "nivel": 125,
+          "max": 225
+        },
+        {
+          "nombre": "Fishing",
+          "nivel": 75,
+          "max": 150
+        },
+        {
+          "nombre": "First Aid",
+          "nivel": 141,
+          "max": 150
+        }
+      ]
+    },
+    {
+      "personaje": "Fran Furion",
+      "clase": "druid",
+      "raider": true,
+      "profesiones": [
+        {
+          "nombre": "Alchemy",
+          "nivel": 125,
+          "max": 150
+        },
+        {
+          "nombre": "Herbalism",
+          "nivel": 126,
+          "max": 150
+        },
+        {
+          "nombre": "Cooking",
+          "nivel": 8,
+          "max": 75
+        },
+        {
+          "nombre": "First Aid",
+          "nivel": 33,
+          "max": 75
+        }
+      ]
+    },
+    {
+      "personaje": "Genethika Brisaveloz",
+      "clase": "hunter",
+      "raider": false,
+      "profesiones": [
+        {
+          "nombre": "Alchemy",
+          "nivel": 91,
+          "max": 150
+        },
+        {
+          "nombre": "Herbalism",
+          "nivel": 96,
+          "max": 150
+        },
+        {
+          "nombre": "Cooking",
+          "nivel": 33,
+          "max": 75
+        },
+        {
+          "nombre": "First Aid",
+          "nivel": 135,
+          "max": 150
+        }
+      ]
+    },
+    {
+      "personaje": "Hugo Forjaluz",
+      "clase": "paladin",
+      "raider": false,
+      "profesiones": [
+        {
+          "nombre": "Mining",
+          "nivel": 82,
+          "max": 150
+        },
+        {
+          "nombre": "Blacksmithing",
+          "nivel": 76,
+          "max": 150
+        },
+        {
+          "nombre": "Cooking",
+          "nivel": 21,
+          "max": 75
+        },
+        {
+          "nombre": "Fishing",
+          "nivel": 1,
+          "max": 75
+        },
+        {
+          "nombre": "First Aid",
+          "nivel": 75,
+          "max": 75
+        }
+      ]
+    },
+    {
+      "personaje": "Ildaren Belisar",
+      "clase": "rogue",
+      "raider": false,
+      "profesiones": [
+        {
+          "nombre": "Leatherworking",
+          "nivel": 74,
+          "max": 150
+        },
+        {
+          "nombre": "Skinning",
+          "nivel": 136,
+          "max": 225
+        },
+        {
+          "nombre": "Cooking",
+          "nivel": 17,
+          "max": 75
+        },
+        {
+          "nombre": "Fishing",
+          "nivel": 3,
+          "max": 75
+        },
+        {
+          "nombre": "First Aid",
+          "nivel": 108,
+          "max": 150
+        }
+      ]
+    },
+    {
+      "personaje": "Jonaver Legends",
+      "clase": "mage",
+      "raider": false,
+      "profesiones": [
+        {
+          "nombre": "Mining",
+          "nivel": 56,
+          "max": 75
+        },
+        {
+          "nombre": "Engineering",
+          "nivel": 77,
+          "max": 150
+        },
+        {
+          "nombre": "Cooking",
+          "nivel": 22,
+          "max": 75
+        },
+        {
+          "nombre": "Fishing",
+          "nivel": 1,
+          "max": 75
+        },
+        {
+          "nombre": "First Aid",
+          "nivel": 61,
+          "max": 150
+        }
+      ]
+    },
+    {
+      "personaje": "Khyoraku Shunsui",
+      "clase": "warrior",
+      "raider": true,
+      "profesiones": [
+        {
+          "nombre": "Mining",
+          "nivel": 126,
+          "max": 150
+        },
+        {
+          "nombre": "Blacksmithing",
+          "nivel": 87,
+          "max": 150
+        },
+        {
+          "nombre": "Cooking",
+          "nivel": 150,
+          "max": 150
+        },
+        {
+          "nombre": "First Aid",
+          "nivel": 25,
+          "max": 75
+        }
+      ]
+    },
+    {
+      "personaje": "La Pety",
+      "clase": "rogue",
+      "raider": false,
+      "profesiones": [
+        {
+          "nombre": "Mining",
+          "nivel": 119,
+          "max": 150
+        },
+        {
+          "nombre": "Engineering",
+          "nivel": 116,
+          "max": 150
+        },
+        {
+          "nombre": "Cooking",
+          "nivel": 173,
+          "max": 225
+        },
+        {
+          "nombre": "Fishing",
+          "nivel": 20,
+          "max": 75
+        },
+        {
+          "nombre": "First Aid",
+          "nivel": 148,
+          "max": 225
+        }
+      ]
+    },
+    {
+      "personaje": "Layrela Rondanit",
+      "clase": "druid",
+      "raider": true,
+      "profesiones": [
+        {
+          "nombre": "Alchemy",
+          "nivel": 100,
+          "max": 150
+        },
+        {
+          "nombre": "Herbalism",
+          "nivel": 108,
+          "max": 150
+        },
+        {
+          "nombre": "Cooking",
+          "nivel": 123,
+          "max": 150
+        },
+        {
+          "nombre": "Fishing",
+          "nivel": 75,
+          "max": 150
+        },
+        {
+          "nombre": "First Aid",
+          "nivel": 90,
+          "max": 150
+        }
+      ]
+    },
+    {
+      "personaje": "Lithanas Chafardero",
+      "clase": "rogue",
+      "raider": false,
+      "profesiones": [
+        {
+          "nombre": "Leatherworking",
+          "nivel": 80,
+          "max": 150
+        },
+        {
+          "nombre": "Skinning",
+          "nivel": 143,
+          "max": 150
+        },
+        {
+          "nombre": "Cooking",
+          "nivel": 141,
+          "max": 150
+        },
+        {
+          "nombre": "Fishing",
+          "nivel": 150,
+          "max": 150
+        },
+        {
+          "nombre": "First Aid",
+          "nivel": 40,
+          "max": 75
+        }
+      ]
+    },
+    {
+      "personaje": "Manelhon Gargon",
+      "clase": "shaman",
+      "raider": true,
+      "profesiones": [
+        {
+          "nombre": "Leatherworking",
+          "nivel": 93,
+          "max": 150
+        },
+        {
+          "nombre": "Skinning",
+          "nivel": 143,
+          "max": 150
+        },
+        {
+          "nombre": "Cooking",
+          "nivel": 105,
+          "max": 150
+        },
+        {
+          "nombre": "Fishing",
+          "nivel": 46,
+          "max": 75
+        },
+        {
+          "nombre": "First Aid",
+          "nivel": 66,
+          "max": 150
+        }
+      ]
+    },
+    {
+      "personaje": "Memas Tour",
+      "clase": "shaman",
+      "raider": false,
+      "profesiones": [
+        {
+          "nombre": "Leatherworking",
+          "nivel": 111,
+          "max": 150
+        },
+        {
+          "nombre": "Skinning",
+          "nivel": 150,
+          "max": 150
+        },
+        {
+          "nombre": "Cooking",
+          "nivel": 150,
+          "max": 150
+        },
+        {
+          "nombre": "Fishing",
+          "nivel": 163,
+          "max": 225
+        },
+        {
+          "nombre": "First Aid",
+          "nivel": 1,
+          "max": 75
+        }
+      ]
+    },
+    {
+      "personaje": "Nelv Stardancer",
+      "clase": "druid",
+      "raider": false,
+      "profesiones": [
+        {
+          "nombre": "Alchemy",
+          "nivel": 69,
+          "max": 75
+        },
+        {
+          "nombre": "Herbalism",
+          "nivel": 97,
+          "max": 150
+        },
+        {
+          "nombre": "Cooking",
+          "nivel": 83,
+          "max": 150
+        },
+        {
+          "nombre": "Fishing",
+          "nivel": 75,
+          "max": 75
+        },
+        {
+          "nombre": "First Aid",
+          "nivel": 94,
+          "max": 150
+        }
+      ]
+    },
+    {
+      "personaje": "Nimassus Pater",
+      "clase": "priest",
+      "raider": true,
+      "profesiones": [
+        {
+          "nombre": "Tailoring",
+          "nivel": 100,
+          "max": 150
+        },
+        {
+          "nombre": "Enchanting",
+          "nivel": 111,
+          "max": 150
+        },
+        {
+          "nombre": "Cooking",
+          "nivel": 52,
+          "max": 75
+        },
+        {
+          "nombre": "Fishing",
+          "nivel": 75,
+          "max": 75
+        }
+      ]
+    },
+    {
+      "personaje": "Nindalf Pizpireta",
+      "clase": "rogue",
+      "raider": false,
+      "profesiones": [
+        {
+          "nombre": "Leatherworking",
+          "nivel": 44,
+          "max": 75
+        },
+        {
+          "nombre": "Skinning",
+          "nivel": 119,
+          "max": 150
+        },
+        {
+          "nombre": "Cooking",
+          "nivel": 30,
+          "max": 75
+        },
+        {
+          "nombre": "Fishing",
+          "nivel": 30,
+          "max": 75
+        },
+        {
+          "nombre": "First Aid",
+          "nivel": 55,
+          "max": 75
+        }
+      ]
+    },
+    {
+      "personaje": "Palmira Natblida",
+      "clase": "rogue",
+      "raider": true,
+      "profesiones": [
+        {
+          "nombre": "Leatherworking",
+          "nivel": 111,
+          "max": 150
+        },
+        {
+          "nombre": "Skinning",
+          "nivel": 201,
+          "max": 225
+        },
+        {
+          "nombre": "Cooking",
+          "nivel": 121,
+          "max": 150
+        },
+        {
+          "nombre": "Fishing",
+          "nivel": 68,
+          "max": 150
+        },
+        {
+          "nombre": "First Aid",
+          "nivel": 135,
+          "max": 150
+        }
+      ]
+    },
+    {
+      "personaje": "Rhyomen Sukuna",
+      "clase": "warlock",
+      "raider": false,
+      "profesiones": [
+        {
+          "nombre": "Tailoring",
+          "nivel": 75,
+          "max": 75
+        },
+        {
+          "nombre": "Enchanting",
+          "nivel": 17,
+          "max": 75
+        },
+        {
+          "nombre": "Cooking",
+          "nivel": 1,
+          "max": 75
+        }
+      ]
+    },
+    {
+      "personaje": "Runa Ruina",
+      "clase": "shaman",
+      "raider": true,
+      "profesiones": [
+        {
+          "nombre": "Leatherworking",
+          "nivel": 65,
+          "max": 75
+        },
+        {
+          "nombre": "Skinning",
+          "nivel": 147,
+          "max": 225
+        },
+        {
+          "nombre": "Cooking",
+          "nivel": 115,
+          "max": 150
+        },
+        {
+          "nombre": "First Aid",
+          "nivel": 76,
+          "max": 150
+        }
+      ]
+    },
+    {
+      "personaje": "Saint Peligroxa",
+      "clase": "priest",
+      "raider": false,
+      "profesiones": [
+        {
+          "nombre": "Tailoring",
+          "nivel": 88,
+          "max": 150
+        },
+        {
+          "nombre": "Enchanting",
+          "nivel": 106,
+          "max": 150
+        },
+        {
+          "nombre": "Cooking",
+          "nivel": 1,
+          "max": 75
+        },
+        {
+          "nombre": "Fishing",
+          "nivel": 25,
+          "max": 75
+        },
+        {
+          "nombre": "First Aid",
+          "nivel": 1,
+          "max": 75
+        }
+      ]
+    },
+    {
+      "personaje": "Samael Thallanor",
+      "clase": "hunter",
+      "raider": false,
+      "profesiones": [
+        {
+          "nombre": "Cooking",
+          "nivel": 1,
+          "max": 75
+        }
+      ]
+    },
+    {
+      "personaje": "Sugar Papy",
+      "clase": "druid",
+      "raider": false,
+      "profesiones": [
+        {
+          "nombre": "Alchemy",
+          "nivel": 225,
+          "max": 225
+        },
+        {
+          "nombre": "Herbalism",
+          "nivel": 163,
+          "max": 225
+        },
+        {
+          "nombre": "Cooking",
+          "nivel": 119,
+          "max": 150
+        },
+        {
+          "nombre": "Fishing",
+          "nivel": 25,
+          "max": 75
+        },
+        {
+          "nombre": "First Aid",
+          "nivel": 69,
+          "max": 150
+        }
+      ]
+    },
+    {
+      "personaje": "Takkaao Valengri",
+      "clase": "warlock",
+      "raider": false,
+      "profesiones": [
+        {
+          "nombre": "Alchemy",
+          "nivel": 27,
+          "max": 75
+        },
+        {
+          "nombre": "Herbalism",
+          "nivel": 57,
+          "max": 75
+        },
+        {
+          "nombre": "Cooking",
+          "nivel": 19,
+          "max": 75
+        },
+        {
+          "nombre": "First Aid",
+          "nivel": 44,
+          "max": 75
+        }
+      ]
+    },
+    {
+      "personaje": "Tharindel Magnaluz",
+      "clase": "paladin",
+      "raider": false,
+      "profesiones": [
+        {
+          "nombre": "Mining",
+          "nivel": 108,
+          "max": 150
+        },
+        {
+          "nombre": "Blacksmithing",
+          "nivel": 102,
+          "max": 150
+        },
+        {
+          "nombre": "Cooking",
+          "nivel": 130,
+          "max": 150
+        },
+        {
+          "nombre": "Fishing",
+          "nivel": 125,
+          "max": 150
+        },
+        {
+          "nombre": "First Aid",
+          "nivel": 79,
+          "max": 150
+        }
+      ]
+    },
+    {
+      "personaje": "Thundrik Volgrim",
+      "clase": "priest",
+      "raider": false,
+      "profesiones": [
+        {
+          "nombre": "Tailoring",
+          "nivel": 45,
+          "max": 75
+        },
+        {
+          "nombre": "Enchanting",
+          "nivel": 11,
+          "max": 75
+        },
+        {
+          "nombre": "Cooking",
+          "nivel": 1,
+          "max": 75
+        },
+        {
+          "nombre": "Fishing",
+          "nivel": 1,
+          "max": 75
+        },
+        {
+          "nombre": "First Aid",
+          "nivel": 13,
+          "max": 75
+        }
+      ]
+    },
+    {
+      "personaje": "Vaporeta Pizpireta",
+      "clase": "mage",
+      "raider": true,
+      "profesiones": [
+        {
+          "nombre": "Tailoring",
+          "nivel": 23,
+          "max": 75
+        },
+        {
+          "nombre": "Enchanting",
+          "nivel": 16,
+          "max": 75
+        },
+        {
+          "nombre": "Cooking",
+          "nivel": 10,
+          "max": 75
+        },
+        {
+          "nombre": "Fishing",
+          "nivel": 22,
+          "max": 75
+        },
+        {
+          "nombre": "First Aid",
+          "nivel": 41,
+          "max": 75
+        }
+      ]
+    },
+    {
+      "personaje": "Viilar Terrisia",
+      "clase": "druid",
+      "raider": false,
+      "profesiones": [
+        {
+          "nombre": "Alchemy",
+          "nivel": 105,
+          "max": 150
+        },
+        {
+          "nombre": "Herbalism",
+          "nivel": 144,
+          "max": 150
+        },
+        {
+          "nombre": "Cooking",
+          "nivel": 117,
+          "max": 150
+        },
+        {
+          "nombre": "Fishing",
+          "nivel": 47,
+          "max": 75
+        },
+        {
+          "nombre": "First Aid",
+          "nivel": 115,
+          "max": 150
+        }
+      ]
+    }
+  ],
+  "recetas": [
+    {
+      "nombre": "Blackmouth Oil",
+      "profesion": "Alchemy",
+      "calidad": "common",
+      "personajes": [
+        "Dio Hotmetal",
+        "Don Josechu",
+        "Fran Furion",
+        "Layrela Rondanit",
+        "Sugar Papy",
+        "Viilar Terrisia"
+      ]
+    },
+    {
+      "nombre": "Catseye Draught",
+      "profesion": "Alchemy",
+      "calidad": "common",
+      "personajes": [
+        "Sugar Papy"
+      ]
+    },
+    {
+      "nombre": "Cerulean Dye",
+      "profesion": "Alchemy",
+      "calidad": "uncommon",
+      "personajes": [
+        "Dio Hotmetal",
+        "Don Josechu",
+        "Fran Furion",
+        "Genethika Brisaveloz",
+        "Layrela Rondanit",
+        "Nelv Stardancer",
+        "Sugar Papy",
+        "Viilar Terrisia"
+      ]
+    },
+    {
+      "nombre": "Draught of Water Breathing",
+      "profesion": "Alchemy",
+      "calidad": "common",
+      "personajes": [
+        "Dio Hotmetal",
+        "Don Josechu",
+        "Fran Furion",
+        "Layrela Rondanit",
+        "Sugar Papy"
+      ]
+    },
+    {
+      "nombre": "Elixir of Agility",
+      "profesion": "Alchemy",
+      "calidad": "common",
+      "personajes": [
+        "Sugar Papy"
+      ]
+    },
+    {
+      "nombre": "Elixir of Defense",
+      "profesion": "Alchemy",
+      "calidad": "common",
+      "personajes": [
+        "Sugar Papy"
+      ]
+    },
+    {
+      "nombre": "Elixir of Fire Power",
+      "profesion": "Alchemy",
+      "calidad": "common",
+      "personajes": [
+        "Dio Hotmetal",
+        "Sugar Papy"
+      ]
+    },
+    {
+      "nombre": "Elixir of Lesser Defense",
+      "profesion": "Alchemy",
+      "calidad": "common",
+      "personajes": [
+        "Dio Hotmetal",
+        "Sugar Papy"
+      ]
+    },
+    {
+      "nombre": "Elixir of Lesser Fortitude",
+      "profesion": "Alchemy",
+      "calidad": "common",
+      "personajes": [
+        "Sugar Papy"
+      ]
+    },
+    {
+      "nombre": "Elixir of Minor Agility",
+      "profesion": "Alchemy",
+      "calidad": "common",
+      "personajes": [
+        "Layrela Rondanit",
+        "Viilar Terrisia"
+      ]
+    },
+    {
+      "nombre": "Elixir of Minor Defense",
+      "profesion": "Alchemy",
+      "calidad": "common",
+      "personajes": [
+        "Dio Hotmetal",
+        "Don Josechu",
+        "Fran Furion",
+        "Genethika Brisaveloz",
+        "Layrela Rondanit",
+        "Nelv Stardancer",
+        "Sugar Papy",
+        "Takkaao Valengri",
+        "Viilar Terrisia"
+      ]
+    },
+    {
+      "nombre": "Elixir of Minor Force",
+      "profesion": "Alchemy",
+      "calidad": "common",
+      "personajes": [
+        "Dio Hotmetal",
+        "Don Josechu",
+        "Fran Furion",
+        "Genethika Brisaveloz",
+        "Layrela Rondanit",
+        "Nelv Stardancer",
+        "Sugar Papy",
+        "Takkaao Valengri",
+        "Viilar Terrisia"
+      ]
+    },
+    {
+      "nombre": "Elixir of Minor Fortitude",
+      "profesion": "Alchemy",
+      "calidad": "common",
+      "personajes": [
+        "Dio Hotmetal",
+        "Don Josechu",
+        "Fran Furion",
+        "Genethika Brisaveloz",
+        "Layrela Rondanit",
+        "Sugar Papy",
+        "Viilar Terrisia"
+      ]
+    },
+    {
+      "nombre": "Elixir of Minor Strength",
+      "profesion": "Alchemy",
+      "calidad": "common",
+      "personajes": [
+        "Dio Hotmetal",
+        "Don Josechu",
+        "Fran Furion",
+        "Genethika Brisaveloz",
+        "Layrela Rondanit",
+        "Nelv Stardancer",
+        "Sugar Papy",
+        "Takkaao Valengri",
+        "Viilar Terrisia"
+      ]
+    },
+    {
+      "nombre": "Elixir of Wisdom",
+      "profesion": "Alchemy",
+      "calidad": "common",
+      "personajes": [
+        "Dio Hotmetal",
+        "Don Josechu",
+        "Fran Furion",
+        "Layrela Rondanit",
+        "Sugar Papy"
+      ]
+    },
+    {
+      "nombre": "Fire Oil",
+      "profesion": "Alchemy",
+      "calidad": "common",
+      "personajes": [
+        "Dio Hotmetal",
+        "Sugar Papy"
+      ]
+    },
+    {
+      "nombre": "Free Action Potion",
+      "profesion": "Alchemy",
+      "calidad": "common",
+      "personajes": [
+        "Sugar Papy"
+      ]
+    },
+    {
+      "nombre": "Great Rage Potion",
+      "profesion": "Alchemy",
+      "calidad": "common",
+      "personajes": [
+        "Sugar Papy"
+      ]
+    },
+    {
+      "nombre": "Greater Mana Potion",
+      "profesion": "Alchemy",
+      "calidad": "common",
+      "personajes": [
+        "Sugar Papy"
+      ]
+    },
+    {
+      "nombre": "Holy Protection Potion",
+      "profesion": "Alchemy",
+      "calidad": "common",
+      "personajes": [
+        "Dio Hotmetal",
+        "Sugar Papy"
+      ]
+    },
+    {
+      "nombre": "Lesser Invisibility Potion",
+      "profesion": "Alchemy",
+      "calidad": "common",
+      "personajes": [
+        "Sugar Papy"
+      ]
+    },
+    {
+      "nombre": "Lesser Mana Potion",
+      "profesion": "Alchemy",
+      "calidad": "common",
+      "personajes": [
+        "Dio Hotmetal",
+        "Fran Furion",
+        "Sugar Papy"
+      ]
+    },
+    {
+      "nombre": "Lesser Mender's Potion",
+      "profesion": "Alchemy",
+      "calidad": "common",
+      "personajes": [
+        "Viilar Terrisia"
+      ]
+    },
+    {
+      "nombre": "Lesser Spellblasting Potion",
+      "profesion": "Alchemy",
+      "calidad": "common",
+      "personajes": [
+        "Viilar Terrisia"
+      ]
+    },
+    {
+      "nombre": "Lesser Troll's Blood Elixir",
+      "profesion": "Alchemy",
+      "calidad": "common",
+      "personajes": [
+        "Dio Hotmetal",
+        "Fran Furion",
+        "Sugar Papy"
+      ]
+    },
+    {
+      "nombre": "Magenta Dye",
+      "profesion": "Alchemy",
+      "calidad": "uncommon",
+      "personajes": [
+        "Dio Hotmetal",
+        "Fran Furion",
+        "Sugar Papy"
+      ]
+    },
+    {
+      "nombre": "Mana Potion",
+      "profesion": "Alchemy",
+      "calidad": "common",
+      "personajes": [
+        "Sugar Papy"
+      ]
+    },
+    {
+      "nombre": "Mana Well",
+      "profesion": "Alchemy",
+      "calidad": "common",
+      "personajes": [
+        "Dio Hotmetal",
+        "Don Josechu",
+        "Fran Furion",
+        "Genethika Brisaveloz",
+        "Layrela Rondanit",
+        "Nelv Stardancer",
+        "Sugar Papy",
+        "Takkaao Valengri",
+        "Viilar Terrisia"
+      ]
+    },
+    {
+      "nombre": "Minor Arcane Elixir",
+      "profesion": "Alchemy",
+      "calidad": "common",
+      "personajes": [
+        "Dio Hotmetal",
+        "Don Josechu",
+        "Fran Furion",
+        "Genethika Brisaveloz",
+        "Layrela Rondanit",
+        "Nelv Stardancer",
+        "Sugar Papy",
+        "Takkaao Valengri",
+        "Viilar Terrisia"
+      ]
+    },
+    {
+      "nombre": "Minor Cleric's Elixir",
+      "profesion": "Alchemy",
+      "calidad": "common",
+      "personajes": [
+        "Layrela Rondanit",
+        "Viilar Terrisia"
+      ]
+    },
+    {
+      "nombre": "Minor Mageblood Elixir",
+      "profesion": "Alchemy",
+      "calidad": "common",
+      "personajes": [
+        "Layrela Rondanit",
+        "Viilar Terrisia"
+      ]
+    },
+    {
+      "nombre": "Minor Mana Potion",
+      "profesion": "Alchemy",
+      "calidad": "common",
+      "personajes": [
+        "Dio Hotmetal",
+        "Don Josechu",
+        "Fran Furion",
+        "Genethika Brisaveloz",
+        "Layrela Rondanit",
+        "Nelv Stardancer",
+        "Sugar Papy",
+        "Viilar Terrisia"
+      ]
+    },
+    {
+      "nombre": "Minor Mender's Potion",
+      "profesion": "Alchemy",
+      "calidad": "common",
+      "personajes": [
+        "Genethika Brisaveloz"
+      ]
+    },
+    {
+      "nombre": "Minor Rejuvenation Potion",
+      "profesion": "Alchemy",
+      "calidad": "common",
+      "personajes": [
+        "Dio Hotmetal",
+        "Don Josechu",
+        "Fran Furion",
+        "Genethika Brisaveloz",
+        "Layrela Rondanit",
+        "Nelv Stardancer",
+        "Sugar Papy",
+        "Viilar Terrisia"
+      ]
+    },
+    {
+      "nombre": "Minor Spellblasting Potion",
+      "profesion": "Alchemy",
+      "calidad": "common",
+      "personajes": [
+        "Layrela Rondanit"
+      ]
+    },
+    {
+      "nombre": "Minor Troll's Blood Elixir",
+      "profesion": "Alchemy",
+      "calidad": "common",
+      "personajes": [
+        "Dio Hotmetal",
+        "Don Josechu",
+        "Fran Furion",
+        "Genethika Brisaveloz",
+        "Layrela Rondanit",
+        "Nelv Stardancer",
+        "Sugar Papy",
+        "Takkaao Valengri",
+        "Viilar Terrisia"
+      ]
+    },
+    {
+      "nombre": "Oil of Immolation",
+      "profesion": "Alchemy",
+      "calidad": "common",
+      "personajes": [
+        "Sugar Papy"
+      ]
+    },
+    {
+      "nombre": "Rage Potion",
+      "profesion": "Alchemy",
+      "calidad": "common",
+      "personajes": [
+        "Fran Furion",
+        "Genethika Brisaveloz",
+        "Layrela Rondanit"
+      ]
+    },
+    {
+      "nombre": "Shadow Protection Potion",
+      "profesion": "Alchemy",
+      "calidad": "common",
+      "personajes": [
+        "Sugar Papy"
+      ]
+    },
+    {
+      "nombre": "Sulfuric Acid",
+      "profesion": "Alchemy",
+      "calidad": "uncommon",
+      "personajes": [
+        "Dio Hotmetal",
+        "Don Josechu",
+        "Fran Furion",
+        "Genethika Brisaveloz",
+        "Layrela Rondanit",
+        "Nelv Stardancer",
+        "Sugar Papy",
+        "Viilar Terrisia"
+      ]
+    },
+    {
+      "nombre": "Swiftness Potion",
+      "profesion": "Alchemy",
+      "calidad": "common",
+      "personajes": [
+        "Viilar Terrisia"
+      ]
+    },
+    {
+      "nombre": "Swim Speed Potion",
+      "profesion": "Alchemy",
+      "calidad": "common",
+      "personajes": [
+        "Dio Hotmetal",
+        "Don Josechu",
+        "Fran Furion",
+        "Layrela Rondanit",
+        "Sugar Papy"
+      ]
+    },
+    {
+      "nombre": "Acolyte's Chain Helm",
+      "profesion": "Blacksmithing",
+      "calidad": "rare",
+      "personajes": [
+        "Aalesian Naeuri"
+      ]
+    },
+    {
+      "nombre": "Big Bronze Knife",
+      "profesion": "Blacksmithing",
+      "calidad": "uncommon",
+      "personajes": [
+        "Aalesian Naeuri",
+        "Khyoraku Shunsui"
+      ]
+    },
+    {
+      "nombre": "Bronze Axe",
+      "profesion": "Blacksmithing",
+      "calidad": "uncommon",
+      "personajes": [
+        "Aalesian Naeuri",
+        "Tharindel Magnaluz"
+      ]
+    },
+    {
+      "nombre": "Bronze Battle Axe",
+      "profesion": "Blacksmithing",
+      "calidad": "uncommon",
+      "personajes": [
+        "Aalesian Naeuri"
+      ]
+    },
+    {
+      "nombre": "Bronze Greatsword",
+      "profesion": "Blacksmithing",
+      "calidad": "uncommon",
+      "personajes": [
+        "Aalesian Naeuri"
+      ]
+    },
+    {
+      "nombre": "Bronze Mace",
+      "profesion": "Blacksmithing",
+      "calidad": "uncommon",
+      "personajes": [
+        "Aalesian Naeuri",
+        "Khyoraku Shunsui",
+        "Tharindel Magnaluz"
+      ]
+    },
+    {
+      "nombre": "Bronze Shortsword",
+      "profesion": "Blacksmithing",
+      "calidad": "uncommon",
+      "personajes": [
+        "Aalesian Naeuri"
+      ]
+    },
+    {
+      "nombre": "Bronze Warhammer",
+      "profesion": "Blacksmithing",
+      "calidad": "uncommon",
+      "personajes": [
+        "Aalesian Naeuri"
+      ]
+    },
+    {
+      "nombre": "Coarse Grinding Stone",
+      "profesion": "Blacksmithing",
+      "calidad": "common",
+      "personajes": [
+        "Aalesian Naeuri",
+        "Espartaco Gladiador",
+        "Hugo Forjaluz",
+        "Khyoraku Shunsui",
+        "Tharindel Magnaluz"
+      ]
+    },
+    {
+      "nombre": "Coarse Sharpening Stone",
+      "profesion": "Blacksmithing",
+      "calidad": "common",
+      "personajes": [
+        "Aalesian Naeuri",
+        "Espartaco Gladiador",
+        "Hugo Forjaluz",
+        "Khyoraku Shunsui"
+      ]
+    },
+    {
+      "nombre": "Coarse Weightstone",
+      "profesion": "Blacksmithing",
+      "calidad": "common",
+      "personajes": [
+        "Aalesian Naeuri",
+        "Espartaco Gladiador",
+        "Hugo Forjaluz",
+        "Khyoraku Shunsui"
+      ]
+    },
+    {
+      "nombre": "Copper Axe",
+      "profesion": "Blacksmithing",
+      "calidad": "common",
+      "personajes": [
+        "Aalesian Naeuri",
+        "Espartaco Gladiador",
+        "Hugo Forjaluz",
+        "Khyoraku Shunsui",
+        "Tharindel Magnaluz"
+      ]
+    },
+    {
+      "nombre": "Copper Battle Axe",
+      "profesion": "Blacksmithing",
+      "calidad": "uncommon",
+      "personajes": [
+        "Aalesian Naeuri",
+        "Hugo Forjaluz",
+        "Khyoraku Shunsui"
+      ]
+    },
+    {
+      "nombre": "Copper Bracers",
+      "profesion": "Blacksmithing",
+      "calidad": "common",
+      "personajes": [
+        "Aalesian Naeuri",
+        "Espartaco Gladiador",
+        "Hugo Forjaluz",
+        "Khyoraku Shunsui",
+        "Tharindel Magnaluz"
+      ]
+    },
+    {
+      "nombre": "Copper Chain Belt",
+      "profesion": "Blacksmithing",
+      "calidad": "uncommon",
+      "personajes": [
+        "Aalesian Naeuri",
+        "Espartaco Gladiador",
+        "Hugo Forjaluz",
+        "Khyoraku Shunsui",
+        "Tharindel Magnaluz"
+      ]
+    },
+    {
+      "nombre": "Copper Chain Boots",
+      "profesion": "Blacksmithing",
+      "calidad": "uncommon",
+      "personajes": [
+        "Aalesian Naeuri",
+        "Espartaco Gladiador",
+        "Hugo Forjaluz",
+        "Khyoraku Shunsui",
+        "Tharindel Magnaluz"
+      ]
+    },
+    {
+      "nombre": "Copper Chain Pants",
+      "profesion": "Blacksmithing",
+      "calidad": "uncommon",
+      "personajes": [
+        "Aalesian Naeuri",
+        "Espartaco Gladiador",
+        "Hugo Forjaluz",
+        "Khyoraku Shunsui",
+        "Tharindel Magnaluz"
+      ]
+    },
+    {
+      "nombre": "Copper Chain Vest",
+      "profesion": "Blacksmithing",
+      "calidad": "uncommon",
+      "personajes": [
+        "Espartaco Gladiador"
+      ]
+    },
+    {
+      "nombre": "Copper Claymore",
+      "profesion": "Blacksmithing",
+      "calidad": "uncommon",
+      "personajes": [
+        "Aalesian Naeuri",
+        "Espartaco Gladiador",
+        "Hugo Forjaluz",
+        "Khyoraku Shunsui"
+      ]
+    },
+    {
+      "nombre": "Copper Dagger",
+      "profesion": "Blacksmithing",
+      "calidad": "uncommon",
+      "personajes": [
+        "Aalesian Naeuri",
+        "Espartaco Gladiador",
+        "Hugo Forjaluz",
+        "Khyoraku Shunsui"
+      ]
+    },
+    {
+      "nombre": "Copper Mace",
+      "profesion": "Blacksmithing",
+      "calidad": "common",
+      "personajes": [
+        "Aalesian Naeuri",
+        "Espartaco Gladiador",
+        "Hugo Forjaluz",
+        "Khyoraku Shunsui",
+        "Tharindel Magnaluz"
+      ]
+    },
+    {
+      "nombre": "Copper Rod",
+      "profesion": "Blacksmithing",
+      "calidad": "common",
+      "personajes": [
+        "Aalesian Naeuri",
+        "Espartaco Gladiador",
+        "Hugo Forjaluz",
+        "Khyoraku Shunsui",
+        "Tharindel Magnaluz"
+      ]
+    },
+    {
+      "nombre": "Copper Shortsword",
+      "profesion": "Blacksmithing",
+      "calidad": "uncommon",
+      "personajes": [
+        "Aalesian Naeuri",
+        "Espartaco Gladiador",
+        "Hugo Forjaluz",
+        "Khyoraku Shunsui",
+        "Tharindel Magnaluz"
+      ]
+    },
+    {
+      "nombre": "Gemmed Copper Boots",
+      "profesion": "Blacksmithing",
+      "calidad": "rare",
+      "personajes": [
+        "Aalesian Naeuri",
+        "Espartaco Gladiador",
+        "Hugo Forjaluz",
+        "Khyoraku Shunsui",
+        "Tharindel Magnaluz"
+      ]
+    },
+    {
+      "nombre": "Glowing Copper Boots",
+      "profesion": "Blacksmithing",
+      "calidad": "rare",
+      "personajes": [
+        "Aalesian Naeuri",
+        "Hugo Forjaluz",
+        "Khyoraku Shunsui",
+        "Tharindel Magnaluz"
+      ]
+    },
+    {
+      "nombre": "Golden Rod",
+      "profesion": "Blacksmithing",
+      "calidad": "common",
+      "personajes": [
+        "Aalesian Naeuri"
+      ]
+    },
+    {
+      "nombre": "Golden Skeleton Key",
+      "profesion": "Blacksmithing",
+      "calidad": "uncommon",
+      "personajes": [
+        "Aalesian Naeuri"
+      ]
+    },
+    {
+      "nombre": "Green Iron Bracers",
+      "profesion": "Blacksmithing",
+      "calidad": "uncommon",
+      "personajes": [
+        "Aalesian Naeuri"
+      ]
+    },
+    {
+      "nombre": "Green Iron Helm",
+      "profesion": "Blacksmithing",
+      "calidad": "uncommon",
+      "personajes": [
+        "Aalesian Naeuri"
+      ]
+    },
+    {
+      "nombre": "Green Iron Leggings",
+      "profesion": "Blacksmithing",
+      "calidad": "uncommon",
+      "personajes": [
+        "Aalesian Naeuri"
+      ]
+    },
+    {
+      "nombre": "Heavy Bronze Mace",
+      "profesion": "Blacksmithing",
+      "calidad": "uncommon",
+      "personajes": [
+        "Aalesian Naeuri"
+      ]
+    },
+    {
+      "nombre": "Heavy Copper Broadsword",
+      "profesion": "Blacksmithing",
+      "calidad": "uncommon",
+      "personajes": [
+        "Aalesian Naeuri",
+        "Hugo Forjaluz",
+        "Khyoraku Shunsui"
+      ]
+    },
+    {
+      "nombre": "Heavy Copper Maul",
+      "profesion": "Blacksmithing",
+      "calidad": "uncommon",
+      "personajes": [
+        "Aalesian Naeuri",
+        "Espartaco Gladiador",
+        "Hugo Forjaluz",
+        "Khyoraku Shunsui",
+        "Tharindel Magnaluz"
+      ]
+    },
+    {
+      "nombre": "Heavy Grinding Stone",
+      "profesion": "Blacksmithing",
+      "calidad": "common",
+      "personajes": [
+        "Aalesian Naeuri",
+        "Espartaco Gladiador"
+      ]
+    },
+    {
+      "nombre": "Heavy Sharpening Stone",
+      "profesion": "Blacksmithing",
+      "calidad": "common",
+      "personajes": [
+        "Aalesian Naeuri",
+        "Espartaco Gladiador"
+      ]
+    },
+    {
+      "nombre": "Heavy Weightstone",
+      "profesion": "Blacksmithing",
+      "calidad": "common",
+      "personajes": [
+        "Aalesian Naeuri",
+        "Espartaco Gladiador"
+      ]
+    },
+    {
+      "nombre": "Iridescent Hammer",
+      "profesion": "Blacksmithing",
+      "calidad": "uncommon",
+      "personajes": [
+        "Aalesian Naeuri"
+      ]
+    },
+    {
+      "nombre": "Iron Buckle",
+      "profesion": "Blacksmithing",
+      "calidad": "common",
+      "personajes": [
+        "Aalesian Naeuri"
+      ]
+    },
+    {
+      "nombre": "Ironforge Breastplate",
+      "profesion": "Blacksmithing",
+      "calidad": "uncommon",
+      "personajes": [
+        "Espartaco Gladiador",
+        "Tharindel Magnaluz"
+      ]
+    },
+    {
+      "nombre": "Patterned Bronze Bracers",
+      "profesion": "Blacksmithing",
+      "calidad": "uncommon",
+      "personajes": [
+        "Aalesian Naeuri",
+        "Espartaco Gladiador"
+      ]
+    },
+    {
+      "nombre": "Pearl-handled Dagger",
+      "profesion": "Blacksmithing",
+      "calidad": "uncommon",
+      "personajes": [
+        "Aalesian Naeuri",
+        "Khyoraku Shunsui"
+      ]
+    },
+    {
+      "nombre": "Protector's Chain Leggings",
+      "profesion": "Blacksmithing",
+      "calidad": "rare",
+      "personajes": [
+        "Espartaco Gladiador"
+      ]
+    },
+    {
+      "nombre": "Protector's Silvered Chain Helm",
+      "profesion": "Blacksmithing",
+      "calidad": "rare",
+      "personajes": [
+        "Espartaco Gladiador"
+      ]
+    },
+    {
+      "nombre": "Rough Bronze Boots",
+      "profesion": "Blacksmithing",
+      "calidad": "uncommon",
+      "personajes": [
+        "Aalesian Naeuri",
+        "Espartaco Gladiador",
+        "Hugo Forjaluz",
+        "Khyoraku Shunsui",
+        "Tharindel Magnaluz"
+      ]
+    },
+    {
+      "nombre": "Rough Bronze Cuirass",
+      "profesion": "Blacksmithing",
+      "calidad": "uncommon",
+      "personajes": [
+        "Aalesian Naeuri",
+        "Espartaco Gladiador",
+        "Khyoraku Shunsui"
+      ]
+    },
+    {
+      "nombre": "Rough Bronze Leggings",
+      "profesion": "Blacksmithing",
+      "calidad": "uncommon",
+      "personajes": [
+        "Aalesian Naeuri",
+        "Espartaco Gladiador",
+        "Khyoraku Shunsui",
+        "Tharindel Magnaluz"
+      ]
+    },
+    {
+      "nombre": "Rough Bronze Shoulders",
+      "profesion": "Blacksmithing",
+      "calidad": "uncommon",
+      "personajes": [
+        "Aalesian Naeuri",
+        "Espartaco Gladiador",
+        "Khyoraku Shunsui",
+        "Tharindel Magnaluz"
+      ]
+    },
+    {
+      "nombre": "Rough Copper Chain Boots",
+      "profesion": "Blacksmithing",
+      "calidad": "uncommon",
+      "personajes": [
+        "Espartaco Gladiador",
+        "Tharindel Magnaluz"
+      ]
+    },
+    {
+      "nombre": "Rough Copper Vest",
+      "profesion": "Blacksmithing",
+      "calidad": "uncommon",
+      "personajes": [
+        "Aalesian Naeuri",
+        "Espartaco Gladiador",
+        "Hugo Forjaluz",
+        "Khyoraku Shunsui",
+        "Tharindel Magnaluz"
+      ]
+    },
+    {
+      "nombre": "Rough Grinding Stone",
+      "profesion": "Blacksmithing",
+      "calidad": "common",
+      "personajes": [
+        "Aalesian Naeuri",
+        "Espartaco Gladiador",
+        "Hugo Forjaluz",
+        "Khyoraku Shunsui",
+        "Tharindel Magnaluz"
+      ]
+    },
+    {
+      "nombre": "Rough Sharpening Stone",
+      "profesion": "Blacksmithing",
+      "calidad": "common",
+      "personajes": [
+        "Aalesian Naeuri",
+        "Espartaco Gladiador",
+        "Hugo Forjaluz",
+        "Khyoraku Shunsui",
+        "Tharindel Magnaluz"
+      ]
+    },
+    {
+      "nombre": "Rough Weightstone",
+      "profesion": "Blacksmithing",
+      "calidad": "common",
+      "personajes": [
+        "Aalesian Naeuri",
+        "Espartaco Gladiador",
+        "Hugo Forjaluz",
+        "Khyoraku Shunsui",
+        "Tharindel Magnaluz"
+      ]
+    },
+    {
+      "nombre": "Runed Copper Belt",
+      "profesion": "Blacksmithing",
+      "calidad": "uncommon",
+      "personajes": [
+        "Aalesian Naeuri",
+        "Espartaco Gladiador",
+        "Hugo Forjaluz",
+        "Khyoraku Shunsui",
+        "Tharindel Magnaluz"
+      ]
+    },
+    {
+      "nombre": "Runed Copper Bracers",
+      "profesion": "Blacksmithing",
+      "calidad": "uncommon",
+      "personajes": [
+        "Aalesian Naeuri",
+        "Espartaco Gladiador",
+        "Hugo Forjaluz",
+        "Khyoraku Shunsui",
+        "Tharindel Magnaluz"
+      ]
+    },
+    {
+      "nombre": "Runed Copper Gauntlets",
+      "profesion": "Blacksmithing",
+      "calidad": "uncommon",
+      "personajes": [
+        "Aalesian Naeuri",
+        "Espartaco Gladiador",
+        "Hugo Forjaluz",
+        "Khyoraku Shunsui",
+        "Tharindel Magnaluz"
+      ]
+    },
+    {
+      "nombre": "Runed Copper Pants",
+      "profesion": "Blacksmithing",
+      "calidad": "uncommon",
+      "personajes": [
+        "Aalesian Naeuri",
+        "Espartaco Gladiador",
+        "Hugo Forjaluz",
+        "Khyoraku Shunsui",
+        "Tharindel Magnaluz"
+      ]
+    },
+    {
+      "nombre": "Sharpening Wheel",
+      "profesion": "Blacksmithing",
+      "calidad": "common",
+      "personajes": [
+        "Aalesian Naeuri",
+        "Espartaco Gladiador",
+        "Hugo Forjaluz",
+        "Khyoraku Shunsui",
+        "Tharindel Magnaluz"
+      ]
+    },
+    {
+      "nombre": "Shining Silver Breastplate",
+      "profesion": "Blacksmithing",
+      "calidad": "rare",
+      "personajes": [
+        "Aalesian Naeuri"
+      ]
+    },
+    {
+      "nombre": "Silver Rod",
+      "profesion": "Blacksmithing",
+      "calidad": "common",
+      "personajes": [
+        "Aalesian Naeuri",
+        "Espartaco Gladiador",
+        "Hugo Forjaluz",
+        "Khyoraku Shunsui",
+        "Tharindel Magnaluz"
+      ]
+    },
+    {
+      "nombre": "Silver Skeleton Key",
+      "profesion": "Blacksmithing",
+      "calidad": "uncommon",
+      "personajes": [
+        "Aalesian Naeuri",
+        "Espartaco Gladiador",
+        "Hugo Forjaluz",
+        "Khyoraku Shunsui",
+        "Tharindel Magnaluz"
+      ]
+    },
+    {
+      "nombre": "Silvered Bronze Boots",
+      "profesion": "Blacksmithing",
+      "calidad": "uncommon",
+      "personajes": [
+        "Aalesian Naeuri",
+        "Espartaco Gladiador"
+      ]
+    },
+    {
+      "nombre": "Silvered Bronze Breastplate",
+      "profesion": "Blacksmithing",
+      "calidad": "uncommon",
+      "personajes": [
+        "Aalesian Naeuri"
+      ]
+    },
+    {
+      "nombre": "Silvered Bronze Gauntlets",
+      "profesion": "Blacksmithing",
+      "calidad": "uncommon",
+      "personajes": [
+        "Aalesian Naeuri",
+        "Espartaco Gladiador"
+      ]
+    },
+    {
+      "nombre": "Sterling Silver Shoulders",
+      "profesion": "Blacksmithing",
+      "calidad": "uncommon",
+      "personajes": [
+        "Aalesian Naeuri",
+        "Espartaco Gladiador"
+      ]
+    },
+    {
+      "nombre": "Strange Copper Boots",
+      "profesion": "Blacksmithing",
+      "calidad": "rare",
+      "personajes": [
+        "Aalesian Naeuri",
+        "Hugo Forjaluz",
+        "Khyoraku Shunsui",
+        "Tharindel Magnaluz"
+      ]
+    },
+    {
+      "nombre": "Thick War Axe",
+      "profesion": "Blacksmithing",
+      "calidad": "uncommon",
+      "personajes": [
+        "Aalesian Naeuri",
+        "Espartaco Gladiador",
+        "Hugo Forjaluz",
+        "Khyoraku Shunsui"
+      ]
+    },
+    {
+      "nombre": "Basic Campfire",
+      "profesion": "Cooking",
+      "calidad": "common",
+      "personajes": [
+        "Aalesian Naeuri",
+        "Aurelio Amador",
+        "Aynita Again",
+        "Black Phanter",
+        "Blind Minds",
+        "Chaca Choochoo",
+        "Cuzcu Aker",
+        "Diana Flechaveloz",
+        "Dio Hotmetal",
+        "Don Josechu",
+        "Dum Bo",
+        "Edoras Duskranger",
+        "Espartaco Gladiador",
+        "Filps Pachamamamon",
+        "Finn Felagund",
+        "Fitipaldi Sendaumbria",
+        "Flexita Shadowsoul",
+        "Fran Furion",
+        "Genethika Brisaveloz",
+        "Hugo Forjaluz",
+        "Ildaren Belisar",
+        "Jonaver Legends",
+        "Khyoraku Shunsui",
+        "La Pety",
+        "Layrela Rondanit",
+        "Lithanas Chafardero",
+        "Manelhon Gargon",
+        "Memas Tour",
+        "Nelv Stardancer",
+        "Nimassus Pater",
+        "Nindalf Pizpireta",
+        "Palmira Natblida",
+        "Rhyomen Sukuna",
+        "Runa Ruina",
+        "Saint Peligroxa",
+        "Samael Thallanor",
+        "Sugar Papy",
+        "Takkaao Valengri",
+        "Tharindel Magnaluz",
+        "Thundrik Volgrim",
+        "Vaporeta Pizpireta",
+        "Viilar Terrisia"
+      ]
+    },
+    {
+      "nombre": "Beer Basted Boar Ribs",
+      "profesion": "Cooking",
+      "calidad": "common",
+      "personajes": [
+        "Aalesian Naeuri",
+        "Dum Bo",
+        "Khyoraku Shunsui",
+        "Lithanas Chafardero",
+        "Manelhon Gargon",
+        "Memas Tour",
+        "Nindalf Pizpireta",
+        "Runa Ruina",
+        "Tharindel Magnaluz"
+      ]
+    },
+    {
+      "nombre": "Big Bear Steak",
+      "profesion": "Cooking",
+      "calidad": "common",
+      "personajes": [
+        "Espartaco Gladiador"
+      ]
+    },
+    {
+      "nombre": "Blood Sausage",
+      "profesion": "Cooking",
+      "calidad": "common",
+      "personajes": [
+        "Dum Bo",
+        "Espartaco Gladiador",
+        "Khyoraku Shunsui",
+        "Manelhon Gargon",
+        "Memas Tour",
+        "Runa Ruina",
+        "Tharindel Magnaluz"
+      ]
+    },
+    {
+      "nombre": "Boiled Clams",
+      "profesion": "Cooking",
+      "calidad": "common",
+      "personajes": [
+        "Aalesian Naeuri",
+        "Chaca Choochoo",
+        "Diana Flechaveloz",
+        "Dio Hotmetal",
+        "Dum Bo",
+        "Edoras Duskranger",
+        "Espartaco Gladiador",
+        "Finn Felagund",
+        "Flexita Shadowsoul",
+        "Khyoraku Shunsui",
+        "La Pety",
+        "Layrela Rondanit",
+        "Lithanas Chafardero",
+        "Manelhon Gargon",
+        "Memas Tour",
+        "Nelv Stardancer",
+        "Nimassus Pater",
+        "Palmira Natblida",
+        "Runa Ruina",
+        "Sugar Papy",
+        "Tharindel Magnaluz",
+        "Viilar Terrisia"
+      ]
+    },
+    {
+      "nombre": "Breakfast Omelette",
+      "profesion": "Cooking",
+      "calidad": "common",
+      "personajes": [
+        "Diana Flechaveloz",
+        "Flexita Shadowsoul",
+        "Sugar Papy"
+      ]
+    },
+    {
+      "nombre": "Brilliant Smallfish",
+      "profesion": "Cooking",
+      "calidad": "common",
+      "personajes": [
+        "Aalesian Naeuri",
+        "Cuzcu Aker",
+        "Diana Flechaveloz",
+        "Dum Bo",
+        "Edoras Duskranger",
+        "Espartaco Gladiador",
+        "Finn Felagund",
+        "Flexita Shadowsoul",
+        "Jonaver Legends",
+        "La Pety",
+        "Layrela Rondanit",
+        "Manelhon Gargon",
+        "Memas Tour",
+        "Nelv Stardancer",
+        "Nimassus Pater",
+        "Nindalf Pizpireta",
+        "Palmira Natblida",
+        "Sugar Papy",
+        "Tharindel Magnaluz"
+      ]
+    },
+    {
+      "nombre": "Bristle Whisker Catfish",
+      "profesion": "Cooking",
+      "calidad": "common",
+      "personajes": [
+        "Diana Flechaveloz",
+        "Dum Bo",
+        "Edoras Duskranger",
+        "Finn Felagund",
+        "Lithanas Chafardero",
+        "Memas Tour"
+      ]
+    },
+    {
+      "nombre": "Charred Wolf Meat",
+      "profesion": "Cooking",
+      "calidad": "common",
+      "personajes": [
+        "Aalesian Naeuri",
+        "Aurelio Amador",
+        "Aynita Again",
+        "Black Phanter",
+        "Blind Minds",
+        "Chaca Choochoo",
+        "Cuzcu Aker",
+        "Diana Flechaveloz",
+        "Dio Hotmetal",
+        "Don Josechu",
+        "Dum Bo",
+        "Edoras Duskranger",
+        "Espartaco Gladiador",
+        "Filps Pachamamamon",
+        "Finn Felagund",
+        "Fitipaldi Sendaumbria",
+        "Flexita Shadowsoul",
+        "Fran Furion",
+        "Genethika Brisaveloz",
+        "Hugo Forjaluz",
+        "Ildaren Belisar",
+        "Jonaver Legends",
+        "Khyoraku Shunsui",
+        "La Pety",
+        "Layrela Rondanit",
+        "Lithanas Chafardero",
+        "Manelhon Gargon",
+        "Memas Tour",
+        "Nelv Stardancer",
+        "Nimassus Pater",
+        "Nindalf Pizpireta",
+        "Palmira Natblida",
+        "Rhyomen Sukuna",
+        "Runa Ruina",
+        "Saint Peligroxa",
+        "Samael Thallanor",
+        "Sugar Papy",
+        "Takkaao Valengri",
+        "Tharindel Magnaluz",
+        "Thundrik Volgrim",
+        "Vaporeta Pizpireta",
+        "Viilar Terrisia"
+      ]
+    },
+    {
+      "nombre": "Clam Chowder",
+      "profesion": "Cooking",
+      "calidad": "common",
+      "personajes": [
+        "Lithanas Chafardero",
+        "Runa Ruina"
+      ]
+    },
+    {
+      "nombre": "Cooked Crab Claw",
+      "profesion": "Cooking",
+      "calidad": "common",
+      "personajes": [
+        "Chaca Choochoo",
+        "Dum Bo",
+        "Finn Felagund",
+        "Flexita Shadowsoul",
+        "Layrela Rondanit",
+        "Manelhon Gargon"
+      ]
+    },
+    {
+      "nombre": "Coyote Steak",
+      "profesion": "Cooking",
+      "calidad": "common",
+      "personajes": [
+        "Aalesian Naeuri",
+        "Chaca Choochoo",
+        "Diana Flechaveloz",
+        "Dio Hotmetal",
+        "Dum Bo",
+        "Edoras Duskranger",
+        "Espartaco Gladiador",
+        "Finn Felagund",
+        "Flexita Shadowsoul",
+        "Khyoraku Shunsui",
+        "Layrela Rondanit",
+        "Lithanas Chafardero",
+        "Manelhon Gargon",
+        "Memas Tour",
+        "Nelv Stardancer",
+        "Nimassus Pater",
+        "Palmira Natblida",
+        "Runa Ruina",
+        "Sugar Papy",
+        "Tharindel Magnaluz",
+        "Viilar Terrisia"
+      ]
+    },
+    {
+      "nombre": "Crab Cake",
+      "profesion": "Cooking",
+      "calidad": "common",
+      "personajes": [
+        "Aalesian Naeuri",
+        "Chaca Choochoo",
+        "Diana Flechaveloz",
+        "Dum Bo",
+        "Edoras Duskranger",
+        "Espartaco Gladiador",
+        "Finn Felagund",
+        "Flexita Shadowsoul",
+        "Khyoraku Shunsui",
+        "Layrela Rondanit",
+        "Lithanas Chafardero",
+        "Manelhon Gargon",
+        "Memas Tour",
+        "Nelv Stardancer",
+        "Palmira Natblida",
+        "Runa Ruina",
+        "Sugar Papy",
+        "Tharindel Magnaluz",
+        "Viilar Terrisia"
+      ]
+    },
+    {
+      "nombre": "Crocolisk Gumbo",
+      "profesion": "Cooking",
+      "calidad": "common",
+      "personajes": [
+        "Aalesian Naeuri",
+        "Chaca Choochoo",
+        "Diana Flechaveloz",
+        "Edoras Duskranger",
+        "Espartaco Gladiador",
+        "Finn Felagund",
+        "Flexita Shadowsoul",
+        "La Pety",
+        "Memas Tour"
+      ]
+    },
+    {
+      "nombre": "Crocolisk Steak",
+      "profesion": "Cooking",
+      "calidad": "common",
+      "personajes": [
+        "Dum Bo",
+        "Manelhon Gargon",
+        "Memas Tour"
+      ]
+    },
+    {
+      "nombre": "Curiously Tasty Omelet",
+      "profesion": "Cooking",
+      "calidad": "common",
+      "personajes": [
+        "Aalesian Naeuri",
+        "Chaca Choochoo",
+        "Diana Flechaveloz",
+        "Espartaco Gladiador",
+        "La Pety"
+      ]
+    },
+    {
+      "nombre": "Dry Pork Ribs",
+      "profesion": "Cooking",
+      "calidad": "common",
+      "personajes": [
+        "Aalesian Naeuri",
+        "Chaca Choochoo",
+        "Diana Flechaveloz",
+        "Dum Bo",
+        "Edoras Duskranger",
+        "Espartaco Gladiador",
+        "Finn Felagund",
+        "Flexita Shadowsoul",
+        "Khyoraku Shunsui",
+        "Layrela Rondanit",
+        "Lithanas Chafardero",
+        "Manelhon Gargon",
+        "Memas Tour",
+        "Nelv Stardancer",
+        "Palmira Natblida",
+        "Runa Ruina",
+        "Sugar Papy",
+        "Tharindel Magnaluz",
+        "Viilar Terrisia"
+      ]
+    },
+    {
+      "nombre": "Fillet of Frenzy",
+      "profesion": "Cooking",
+      "calidad": "common",
+      "personajes": [
+        "Dio Hotmetal",
+        "Edoras Duskranger",
+        "Lithanas Chafardero",
+        "Runa Ruina"
+      ]
+    },
+    {
+      "nombre": "Goblin Deviled Clams",
+      "profesion": "Cooking",
+      "calidad": "common",
+      "personajes": [
+        "Dum Bo",
+        "Edoras Duskranger",
+        "Espartaco Gladiador",
+        "Finn Felagund",
+        "Khyoraku Shunsui",
+        "La Pety",
+        "Lithanas Chafardero",
+        "Memas Tour"
+      ]
+    },
+    {
+      "nombre": "Gooey Spider Cake",
+      "profesion": "Cooking",
+      "calidad": "common",
+      "personajes": [
+        "Aalesian Naeuri",
+        "Chaca Choochoo",
+        "Diana Flechaveloz",
+        "Dum Bo",
+        "Edoras Duskranger",
+        "Finn Felagund",
+        "Khyoraku Shunsui",
+        "La Pety",
+        "Memas Tour",
+        "Palmira Natblida",
+        "Sugar Papy"
+      ]
+    },
+    {
+      "nombre": "Goretusk Liver Pie",
+      "profesion": "Cooking",
+      "calidad": "common",
+      "personajes": [
+        "Dum Bo",
+        "Edoras Duskranger",
+        "Flexita Shadowsoul",
+        "Khyoraku Shunsui",
+        "La Pety",
+        "Manelhon Gargon",
+        "Memas Tour",
+        "Palmira Natblida",
+        "Runa Ruina"
+      ]
+    },
+    {
+      "nombre": "Herb Baked Egg",
+      "profesion": "Cooking",
+      "calidad": "common",
+      "personajes": [
+        "Aalesian Naeuri",
+        "Aurelio Amador",
+        "Aynita Again",
+        "Black Phanter",
+        "Blind Minds",
+        "Chaca Choochoo",
+        "Cuzcu Aker",
+        "Diana Flechaveloz",
+        "Dio Hotmetal",
+        "Don Josechu",
+        "Dum Bo",
+        "Edoras Duskranger",
+        "Espartaco Gladiador",
+        "Filps Pachamamamon",
+        "Finn Felagund",
+        "Fitipaldi Sendaumbria",
+        "Flexita Shadowsoul",
+        "Fran Furion",
+        "Genethika Brisaveloz",
+        "Hugo Forjaluz",
+        "Ildaren Belisar",
+        "Jonaver Legends",
+        "Khyoraku Shunsui",
+        "La Pety",
+        "Layrela Rondanit",
+        "Lithanas Chafardero",
+        "Manelhon Gargon",
+        "Memas Tour",
+        "Nelv Stardancer",
+        "Nimassus Pater",
+        "Nindalf Pizpireta",
+        "Palmira Natblida",
+        "Rhyomen Sukuna",
+        "Runa Ruina",
+        "Saint Peligroxa",
+        "Samael Thallanor",
+        "Sugar Papy",
+        "Takkaao Valengri",
+        "Tharindel Magnaluz",
+        "Thundrik Volgrim",
+        "Vaporeta Pizpireta",
+        "Viilar Terrisia"
+      ]
+    },
+    {
+      "nombre": "Kaldorei Spider Kabob",
+      "profesion": "Cooking",
+      "calidad": "common",
+      "personajes": [
+        "Aalesian Naeuri",
+        "Diana Flechaveloz",
+        "Finn Felagund",
+        "Flexita Shadowsoul",
+        "Ildaren Belisar",
+        "La Pety",
+        "Lithanas Chafardero",
+        "Nelv Stardancer"
+      ]
+    },
+    {
+      "nombre": "Lean Venison",
+      "profesion": "Cooking",
+      "calidad": "common",
+      "personajes": [
+        "Espartaco Gladiador"
+      ]
+    },
+    {
+      "nombre": "Loch Frenzy Delight",
+      "profesion": "Cooking",
+      "calidad": "common",
+      "personajes": [
+        "Dum Bo",
+        "Edoras Duskranger",
+        "Memas Tour",
+        "Tharindel Magnaluz"
+      ]
+    },
+    {
+      "nombre": "Longjaw Mud Snapper",
+      "profesion": "Cooking",
+      "calidad": "common",
+      "personajes": [
+        "Cuzcu Aker",
+        "Dum Bo",
+        "Edoras Duskranger",
+        "Espartaco Gladiador",
+        "Finn Felagund",
+        "Flexita Shadowsoul",
+        "Memas Tour",
+        "Tharindel Magnaluz"
+      ]
+    },
+    {
+      "nombre": "Mithril Headed Trout",
+      "profesion": "Cooking",
+      "calidad": "common",
+      "personajes": [
+        "Dum Bo",
+        "Finn Felagund"
+      ]
+    },
+    {
+      "nombre": "Murloc Fin Soup",
+      "profesion": "Cooking",
+      "calidad": "common",
+      "personajes": [
+        "Aalesian Naeuri",
+        "Chaca Choochoo",
+        "Cuzcu Aker",
+        "Diana Flechaveloz",
+        "Espartaco Gladiador",
+        "Finn Felagund",
+        "Flexita Shadowsoul",
+        "Khyoraku Shunsui",
+        "La Pety",
+        "Manelhon Gargon",
+        "Palmira Natblida",
+        "Sugar Papy"
+      ]
+    },
+    {
+      "nombre": "Peace Tea",
+      "profesion": "Cooking",
+      "calidad": "common",
+      "personajes": [
+        "Espartaco Gladiador",
+        "Manelhon Gargon",
+        "Tharindel Magnaluz"
+      ]
+    },
+    {
+      "nombre": "Pincer Bites",
+      "profesion": "Cooking",
+      "calidad": "common",
+      "personajes": [
+        "Chaca Choochoo",
+        "Diana Flechaveloz",
+        "Edoras Duskranger",
+        "Khyoraku Shunsui",
+        "Palmira Natblida"
+      ]
+    },
+    {
+      "nombre": "Rainbow Fin Albacore",
+      "profesion": "Cooking",
+      "calidad": "common",
+      "personajes": [
+        "Diana Flechaveloz",
+        "Edoras Duskranger",
+        "Espartaco Gladiador",
+        "Finn Felagund",
+        "Layrela Rondanit",
+        "Lithanas Chafardero",
+        "Manelhon Gargon",
+        "Memas Tour",
+        "Nelv Stardancer",
+        "Palmira Natblida",
+        "Runa Ruina",
+        "Sugar Papy"
+      ]
+    },
+    {
+      "nombre": "Redridge Goulash",
+      "profesion": "Cooking",
+      "calidad": "common",
+      "personajes": [
+        "Aalesian Naeuri",
+        "Chaca Choochoo",
+        "Diana Flechaveloz",
+        "Dum Bo",
+        "Flexita Shadowsoul",
+        "Khyoraku Shunsui",
+        "La Pety",
+        "Sugar Papy"
+      ]
+    },
+    {
+      "nombre": "Roasted Boar Meat",
+      "profesion": "Cooking",
+      "calidad": "common",
+      "personajes": [
+        "Aalesian Naeuri",
+        "Aurelio Amador",
+        "Aynita Again",
+        "Black Phanter",
+        "Blind Minds",
+        "Chaca Choochoo",
+        "Cuzcu Aker",
+        "Diana Flechaveloz",
+        "Dio Hotmetal",
+        "Don Josechu",
+        "Dum Bo",
+        "Edoras Duskranger",
+        "Espartaco Gladiador",
+        "Filps Pachamamamon",
+        "Finn Felagund",
+        "Fitipaldi Sendaumbria",
+        "Flexita Shadowsoul",
+        "Fran Furion",
+        "Genethika Brisaveloz",
+        "Hugo Forjaluz",
+        "Ildaren Belisar",
+        "Jonaver Legends",
+        "Khyoraku Shunsui",
+        "La Pety",
+        "Layrela Rondanit",
+        "Lithanas Chafardero",
+        "Manelhon Gargon",
+        "Memas Tour",
+        "Nelv Stardancer",
+        "Nimassus Pater",
+        "Nindalf Pizpireta",
+        "Palmira Natblida",
+        "Rhyomen Sukuna",
+        "Runa Ruina",
+        "Saint Peligroxa",
+        "Samael Thallanor",
+        "Sugar Papy",
+        "Takkaao Valengri",
+        "Tharindel Magnaluz",
+        "Thundrik Volgrim",
+        "Vaporeta Pizpireta",
+        "Viilar Terrisia"
+      ]
+    },
+    {
+      "nombre": "Rockscale Cod",
+      "profesion": "Cooking",
+      "calidad": "common",
+      "personajes": [
+        "Finn Felagund"
+      ]
+    },
+    {
+      "nombre": "Sagefish Delight",
+      "profesion": "Cooking",
+      "calidad": "common",
+      "personajes": [
+        "Finn Felagund"
+      ]
+    },
+    {
+      "nombre": "Seasoned Wolf Kabob",
+      "profesion": "Cooking",
+      "calidad": "common",
+      "personajes": [
+        "Aalesian Naeuri",
+        "Chaca Choochoo",
+        "Diana Flechaveloz",
+        "Dum Bo",
+        "Edoras Duskranger",
+        "Finn Felagund",
+        "Khyoraku Shunsui",
+        "La Pety",
+        "Memas Tour",
+        "Palmira Natblida",
+        "Sugar Papy"
+      ]
+    },
+    {
+      "nombre": "Skywall Souffle",
+      "profesion": "Cooking",
+      "calidad": "common",
+      "personajes": [
+        "Chaca Choochoo",
+        "Diana Flechaveloz",
+        "Edoras Duskranger",
+        "Khyoraku Shunsui",
+        "Palmira Natblida"
+      ]
+    },
+    {
+      "nombre": "Slitherskin Mackerel",
+      "profesion": "Cooking",
+      "calidad": "common",
+      "personajes": [
+        "Aalesian Naeuri",
+        "Blind Minds",
+        "Diana Flechaveloz",
+        "Dum Bo",
+        "Edoras Duskranger",
+        "Finn Felagund",
+        "Fitipaldi Sendaumbria",
+        "Flexita Shadowsoul",
+        "Fran Furion",
+        "Ildaren Belisar",
+        "Layrela Rondanit",
+        "Lithanas Chafardero",
+        "Memas Tour",
+        "Nelv Stardancer",
+        "Nimassus Pater",
+        "Tharindel Magnaluz"
+      ]
+    },
+    {
+      "nombre": "Smoked Bear Meat",
+      "profesion": "Cooking",
+      "calidad": "common",
+      "personajes": [
+        "Manelhon Gargon",
+        "Tharindel Magnaluz"
+      ]
+    },
+    {
+      "nombre": "Smoked Sagefish",
+      "profesion": "Cooking",
+      "calidad": "common",
+      "personajes": [
+        "Diana Flechaveloz",
+        "Dum Bo",
+        "Edoras Duskranger",
+        "Espartaco Gladiador",
+        "Finn Felagund",
+        "Flexita Shadowsoul",
+        "Layrela Rondanit",
+        "Lithanas Chafardero",
+        "Memas Tour",
+        "Palmira Natblida",
+        "Runa Ruina",
+        "Sugar Papy",
+        "Tharindel Magnaluz"
+      ]
+    },
+    {
+      "nombre": "Soothing Turtle Bisque",
+      "profesion": "Cooking",
+      "calidad": "common",
+      "personajes": [
+        "Finn Felagund"
+      ]
+    },
+    {
+      "nombre": "Spiced Wolf Meat",
+      "profesion": "Cooking",
+      "calidad": "common",
+      "personajes": [
+        "Aalesian Naeuri",
+        "Chaca Choochoo",
+        "Cuzcu Aker",
+        "Diana Flechaveloz",
+        "Dio Hotmetal",
+        "Dum Bo",
+        "Edoras Duskranger",
+        "Espartaco Gladiador",
+        "Finn Felagund",
+        "Flexita Shadowsoul",
+        "Genethika Brisaveloz",
+        "Ildaren Belisar",
+        "Khyoraku Shunsui",
+        "Layrela Rondanit",
+        "Lithanas Chafardero",
+        "Manelhon Gargon",
+        "Memas Tour",
+        "Nelv Stardancer",
+        "Nimassus Pater",
+        "Palmira Natblida",
+        "Runa Ruina",
+        "Sugar Papy",
+        "Takkaao Valengri",
+        "Tharindel Magnaluz",
+        "Viilar Terrisia"
+      ]
+    },
+    {
+      "nombre": "Strider Stew",
+      "profesion": "Cooking",
+      "calidad": "common",
+      "personajes": [
+        "Diana Flechaveloz",
+        "Layrela Rondanit",
+        "Lithanas Chafardero",
+        "Nelv Stardancer"
+      ]
+    },
+    {
+      "nombre": "Succulent Pork Ribs",
+      "profesion": "Cooking",
+      "calidad": "common",
+      "personajes": [
+        "Aalesian Naeuri",
+        "Cuzcu Aker",
+        "Espartaco Gladiador"
+      ]
+    },
+    {
+      "nombre": "Tasty Lion Steak",
+      "profesion": "Cooking",
+      "calidad": "common",
+      "personajes": [
+        "Finn Felagund"
+      ]
+    },
+    {
+      "nombre": "Tasty Raptor Bites",
+      "profesion": "Cooking",
+      "calidad": "common",
+      "personajes": [
+        "Chaca Choochoo",
+        "Espartaco Gladiador",
+        "La Pety",
+        "Palmira Natblida",
+        "Runa Ruina"
+      ]
+    },
+    {
+      "nombre": "Thistle Tea",
+      "profesion": "Cooking",
+      "calidad": "common",
+      "personajes": [
+        "La Pety",
+        "Palmira Natblida"
+      ]
+    },
+    {
+      "nombre": "Westfall Stew",
+      "profesion": "Cooking",
+      "calidad": "common",
+      "personajes": [
+        "Aalesian Naeuri",
+        "Cuzcu Aker",
+        "Dum Bo",
+        "Edoras Duskranger",
+        "Flexita Shadowsoul",
+        "Khyoraku Shunsui",
+        "La Pety",
+        "Manelhon Gargon",
+        "Memas Tour",
+        "Palmira Natblida",
+        "Runa Ruina"
+      ]
+    },
+    {
+      "nombre": "Disenchant",
+      "profesion": "Enchanting",
+      "calidad": "common",
+      "personajes": [
+        "Dum Bo",
+        "Finn Felagund",
+        "Nimassus Pater",
+        "Rhyomen Sukuna",
+        "Saint Peligroxa",
+        "Thundrik Volgrim",
+        "Vaporeta Pizpireta"
+      ]
+    },
+    {
+      "nombre": "Dust to Motes",
+      "profesion": "Enchanting",
+      "calidad": "common",
+      "personajes": [
+        "Dum Bo",
+        "Finn Felagund",
+        "Nimassus Pater",
+        "Rhyomen Sukuna",
+        "Saint Peligroxa",
+        "Thundrik Volgrim",
+        "Vaporeta Pizpireta"
+      ]
+    },
+    {
+      "nombre": "Enchant 2H Weapon - Lesser Intellect",
+      "profesion": "Enchanting",
+      "calidad": "common",
+      "personajes": [
+        "Dum Bo"
+      ]
+    },
+    {
+      "nombre": "Enchant 2H Weapon - Lesser Spirit",
+      "profesion": "Enchanting",
+      "calidad": "common",
+      "personajes": [
+        "Dum Bo",
+        "Nimassus Pater"
+      ]
+    },
+    {
+      "nombre": "Enchant 2H Weapon - Minor Impact",
+      "profesion": "Enchanting",
+      "calidad": "common",
+      "personajes": [
+        "Dum Bo",
+        "Finn Felagund",
+        "Nimassus Pater"
+      ]
+    },
+    {
+      "nombre": "Enchant Boots - Minor Stamina",
+      "profesion": "Enchanting",
+      "calidad": "common",
+      "personajes": [
+        "Dum Bo",
+        "Finn Felagund"
+      ]
+    },
+    {
+      "nombre": "Enchant Bracer - Inferior Stamina",
+      "profesion": "Enchanting",
+      "calidad": "common",
+      "personajes": [
+        "Dum Bo",
+        "Finn Felagund",
+        "Nimassus Pater",
+        "Rhyomen Sukuna",
+        "Saint Peligroxa",
+        "Thundrik Volgrim",
+        "Vaporeta Pizpireta"
+      ]
+    },
+    {
+      "nombre": "Enchant Bracer - Lesser Spirit",
+      "profesion": "Enchanting",
+      "calidad": "common",
+      "personajes": [
+        "Dum Bo"
+      ]
+    },
+    {
+      "nombre": "Enchant Bracer - Lesser Stamina",
+      "profesion": "Enchanting",
+      "calidad": "common",
+      "personajes": [
+        "Finn Felagund"
+      ]
+    },
+    {
+      "nombre": "Enchant Bracer - Minor Agility",
+      "profesion": "Enchanting",
+      "calidad": "common",
+      "personajes": [
+        "Dum Bo",
+        "Finn Felagund",
+        "Nimassus Pater"
+      ]
+    },
+    {
+      "nombre": "Enchant Bracer - Minor Deflect",
+      "profesion": "Enchanting",
+      "calidad": "common",
+      "personajes": [
+        "Dum Bo",
+        "Finn Felagund",
+        "Nimassus Pater",
+        "Rhyomen Sukuna",
+        "Saint Peligroxa",
+        "Thundrik Volgrim",
+        "Vaporeta Pizpireta"
+      ]
+    },
+    {
+      "nombre": "Enchant Bracer - Minor Spirit",
+      "profesion": "Enchanting",
+      "calidad": "common",
+      "personajes": [
+        "Dum Bo"
+      ]
+    },
+    {
+      "nombre": "Enchant Bracer - Minor Stamina",
+      "profesion": "Enchanting",
+      "calidad": "common",
+      "personajes": [
+        "Dum Bo",
+        "Finn Felagund",
+        "Nimassus Pater"
+      ]
+    },
+    {
+      "nombre": "Enchant Bracer - Minor Strength",
+      "profesion": "Enchanting",
+      "calidad": "common",
+      "personajes": [
+        "Dum Bo"
+      ]
+    },
+    {
+      "nombre": "Enchant Chest - Inferior Stamina",
+      "profesion": "Enchanting",
+      "calidad": "common",
+      "personajes": [
+        "Dum Bo",
+        "Finn Felagund",
+        "Nimassus Pater",
+        "Saint Peligroxa"
+      ]
+    },
+    {
+      "nombre": "Enchant Chest - Lesser Stamina",
+      "profesion": "Enchanting",
+      "calidad": "common",
+      "personajes": [
+        "Dum Bo",
+        "Finn Felagund",
+        "Nimassus Pater",
+        "Saint Peligroxa"
+      ]
+    },
+    {
+      "nombre": "Enchant Chest - Minor Absorption",
+      "profesion": "Enchanting",
+      "calidad": "common",
+      "personajes": [
+        "Dum Bo",
+        "Finn Felagund",
+        "Nimassus Pater",
+        "Saint Peligroxa"
+      ]
+    },
+    {
+      "nombre": "Enchant Chest - Minor Intellect",
+      "profesion": "Enchanting",
+      "calidad": "common",
+      "personajes": [
+        "Dum Bo",
+        "Finn Felagund",
+        "Nimassus Pater",
+        "Saint Peligroxa"
+      ]
+    },
+    {
+      "nombre": "Enchant Chest - Stamina",
+      "profesion": "Enchanting",
+      "calidad": "common",
+      "personajes": [
+        "Dum Bo",
+        "Finn Felagund"
+      ]
+    },
+    {
+      "nombre": "Enchant Cloak - Lesser Fire Resistance",
+      "profesion": "Enchanting",
+      "calidad": "common",
+      "personajes": [
+        "Dum Bo",
+        "Finn Felagund"
+      ]
+    },
+    {
+      "nombre": "Enchant Cloak - Lesser Protection",
+      "profesion": "Enchanting",
+      "calidad": "common",
+      "personajes": [
+        "Dum Bo",
+        "Finn Felagund"
+      ]
+    },
+    {
+      "nombre": "Enchant Cloak - Minor Agility",
+      "profesion": "Enchanting",
+      "calidad": "common",
+      "personajes": [
+        "Dum Bo"
+      ]
+    },
+    {
+      "nombre": "Enchant Cloak - Minor Protection",
+      "profesion": "Enchanting",
+      "calidad": "common",
+      "personajes": [
+        "Dum Bo",
+        "Finn Felagund",
+        "Nimassus Pater"
+      ]
+    },
+    {
+      "nombre": "Enchant Cloak - Minor Resistance",
+      "profesion": "Enchanting",
+      "calidad": "common",
+      "personajes": [
+        "Dum Bo",
+        "Finn Felagund",
+        "Nimassus Pater",
+        "Saint Peligroxa"
+      ]
+    },
+    {
+      "nombre": "Enchant Shield - Lesser Protection",
+      "profesion": "Enchanting",
+      "calidad": "common",
+      "personajes": [
+        "Dum Bo",
+        "Finn Felagund"
+      ]
+    },
+    {
+      "nombre": "Enchant Shield - Lesser Spirit",
+      "profesion": "Enchanting",
+      "calidad": "common",
+      "personajes": [
+        "Finn Felagund"
+      ]
+    },
+    {
+      "nombre": "Enchant Shield - Minor Stamina",
+      "profesion": "Enchanting",
+      "calidad": "common",
+      "personajes": [
+        "Dum Bo",
+        "Finn Felagund",
+        "Nimassus Pater"
+      ]
+    },
+    {
+      "nombre": "Enchant Weapon - Minor Beastslayer",
+      "profesion": "Enchanting",
+      "calidad": "common",
+      "personajes": [
+        "Dum Bo"
+      ]
+    },
+    {
+      "nombre": "Enchant Weapon - Minor Striking",
+      "profesion": "Enchanting",
+      "calidad": "common",
+      "personajes": [
+        "Dum Bo",
+        "Finn Felagund",
+        "Nimassus Pater"
+      ]
+    },
+    {
+      "nombre": "Enchanted Lute",
+      "profesion": "Enchanting",
+      "calidad": "common",
+      "personajes": [
+        "Dum Bo",
+        "Finn Felagund",
+        "Nimassus Pater",
+        "Saint Peligroxa"
+      ]
+    },
+    {
+      "nombre": "Greater Magic Wand",
+      "profesion": "Enchanting",
+      "calidad": "uncommon",
+      "personajes": [
+        "Dum Bo",
+        "Finn Felagund",
+        "Nimassus Pater",
+        "Saint Peligroxa"
+      ]
+    },
+    {
+      "nombre": "Lesser Magic Wand",
+      "profesion": "Enchanting",
+      "calidad": "uncommon",
+      "personajes": [
+        "Dum Bo",
+        "Finn Felagund",
+        "Nimassus Pater",
+        "Rhyomen Sukuna",
+        "Saint Peligroxa",
+        "Thundrik Volgrim"
+      ]
+    },
+    {
+      "nombre": "Minor Wizard Oil",
+      "profesion": "Enchanting",
+      "calidad": "common",
+      "personajes": [
+        "Dum Bo",
+        "Finn Felagund",
+        "Thundrik Volgrim"
+      ]
+    },
+    {
+      "nombre": "Novice's Practice Wand",
+      "profesion": "Enchanting",
+      "calidad": "common",
+      "personajes": [
+        "Dum Bo",
+        "Finn Felagund",
+        "Nimassus Pater",
+        "Rhyomen Sukuna",
+        "Saint Peligroxa",
+        "Thundrik Volgrim",
+        "Vaporeta Pizpireta"
+      ]
+    },
+    {
+      "nombre": "Runed Copper Rod",
+      "profesion": "Enchanting",
+      "calidad": "common",
+      "personajes": [
+        "Dum Bo",
+        "Finn Felagund",
+        "Nimassus Pater",
+        "Rhyomen Sukuna",
+        "Saint Peligroxa",
+        "Thundrik Volgrim",
+        "Vaporeta Pizpireta"
+      ]
+    },
+    {
+      "nombre": "Runed Silver Rod",
+      "profesion": "Enchanting",
+      "calidad": "common",
+      "personajes": [
+        "Dum Bo",
+        "Finn Felagund",
+        "Nimassus Pater",
+        "Saint Peligroxa"
+      ]
+    },
+    {
+      "nombre": "Aquadynamic Fish Attractor",
+      "profesion": "Engineering",
+      "calidad": "common",
+      "personajes": [
+        "Chaca Choochoo"
+      ]
+    },
+    {
+      "nombre": "Arclight Spanner",
+      "profesion": "Engineering",
+      "calidad": "common",
+      "personajes": [
+        "Chaca Choochoo",
+        "Cuzcu Aker",
+        "Flexita Shadowsoul",
+        "Jonaver Legends",
+        "La Pety"
+      ]
+    },
+    {
+      "nombre": "Blue Firework",
+      "profesion": "Engineering",
+      "calidad": "common",
+      "personajes": [
+        "Chaca Choochoo"
+      ]
+    },
+    {
+      "nombre": "Bronze Tube",
+      "profesion": "Engineering",
+      "calidad": "common",
+      "personajes": [
+        "Chaca Choochoo",
+        "La Pety"
+      ]
+    },
+    {
+      "nombre": "Coarse Blasting Powder",
+      "profesion": "Engineering",
+      "calidad": "common",
+      "personajes": [
+        "Chaca Choochoo",
+        "Cuzcu Aker",
+        "Flexita Shadowsoul",
+        "Jonaver Legends",
+        "La Pety"
+      ]
+    },
+    {
+      "nombre": "Coarse Dynamite",
+      "profesion": "Engineering",
+      "calidad": "common",
+      "personajes": [
+        "Chaca Choochoo",
+        "Cuzcu Aker",
+        "Flexita Shadowsoul",
+        "Jonaver Legends",
+        "La Pety"
+      ]
+    },
+    {
+      "nombre": "Copper Modulator",
+      "profesion": "Engineering",
+      "calidad": "common",
+      "personajes": [
+        "Chaca Choochoo",
+        "Cuzcu Aker",
+        "Flexita Shadowsoul",
+        "Jonaver Legends"
+      ]
+    },
+    {
+      "nombre": "Copper Tube",
+      "profesion": "Engineering",
+      "calidad": "common",
+      "personajes": [
+        "Chaca Choochoo",
+        "Cuzcu Aker",
+        "Flexita Shadowsoul",
+        "Jonaver Legends"
+      ]
+    },
+    {
+      "nombre": "Crafted Heavy Shot",
+      "profesion": "Engineering",
+      "calidad": "common",
+      "personajes": [
+        "Chaca Choochoo",
+        "Cuzcu Aker",
+        "Flexita Shadowsoul",
+        "Jonaver Legends",
+        "La Pety"
+      ]
+    },
+    {
+      "nombre": "Crafted Light Shot",
+      "profesion": "Engineering",
+      "calidad": "common",
+      "personajes": [
+        "Chaca Choochoo",
+        "Cuzcu Aker",
+        "Flexita Shadowsoul",
+        "Jonaver Legends",
+        "La Pety"
+      ]
+    },
+    {
+      "nombre": "Crafted Solid Shot",
+      "profesion": "Engineering",
+      "calidad": "common",
+      "personajes": [
+        "Chaca Choochoo"
+      ]
+    },
+    {
+      "nombre": "Crude Scope",
+      "profesion": "Engineering",
+      "calidad": "common",
+      "personajes": [
+        "Chaca Choochoo",
+        "Cuzcu Aker",
+        "Flexita Shadowsoul",
+        "Jonaver Legends"
+      ]
+    },
+    {
+      "nombre": "Flying Tiger Goggles",
+      "profesion": "Engineering",
+      "calidad": "uncommon",
+      "personajes": [
+        "Chaca Choochoo",
+        "Cuzcu Aker",
+        "La Pety"
+      ]
+    },
+    {
+      "nombre": "Gnomish Universal Remote",
+      "profesion": "Engineering",
+      "calidad": "uncommon",
+      "personajes": [
+        "Chaca Choochoo"
+      ]
+    },
+    {
+      "nombre": "Green Tinted Goggles",
+      "profesion": "Engineering",
+      "calidad": "uncommon",
+      "personajes": [
+        "Chaca Choochoo"
+      ]
+    },
+    {
+      "nombre": "Handful of Copper Bolts",
+      "profesion": "Engineering",
+      "calidad": "common",
+      "personajes": [
+        "Chaca Choochoo",
+        "Cuzcu Aker",
+        "Flexita Shadowsoul",
+        "Jonaver Legends",
+        "La Pety"
+      ]
+    },
+    {
+      "nombre": "Harvester Override Signalcaster",
+      "profesion": "Engineering",
+      "calidad": "uncommon",
+      "personajes": [
+        "Flexita Shadowsoul"
+      ]
+    },
+    {
+      "nombre": "Heavy Blasting Powder",
+      "profesion": "Engineering",
+      "calidad": "common",
+      "personajes": [
+        "Chaca Choochoo"
+      ]
+    },
+    {
+      "nombre": "Heavy Dynamite",
+      "profesion": "Engineering",
+      "calidad": "common",
+      "personajes": [
+        "Chaca Choochoo"
+      ]
+    },
+    {
+      "nombre": "Large Copper Bomb",
+      "profesion": "Engineering",
+      "calidad": "common",
+      "personajes": [
+        "Chaca Choochoo"
+      ]
+    },
+    {
+      "nombre": "Mechanical Squirrel",
+      "profesion": "Engineering",
+      "calidad": "common",
+      "personajes": [
+        "Chaca Choochoo"
+      ]
+    },
+    {
+      "nombre": "Minor Recombobulator",
+      "profesion": "Engineering",
+      "calidad": "uncommon",
+      "personajes": [
+        "Chaca Choochoo"
+      ]
+    },
+    {
+      "nombre": "Ornate Spyglass",
+      "profesion": "Engineering",
+      "calidad": "common",
+      "personajes": [
+        "Chaca Choochoo"
+      ]
+    },
+    {
+      "nombre": "Practice Lock",
+      "profesion": "Engineering",
+      "calidad": "common",
+      "personajes": [
+        "Chaca Choochoo",
+        "Cuzcu Aker"
+      ]
+    },
+    {
+      "nombre": "Reagent Bot",
+      "profesion": "Engineering",
+      "calidad": "common",
+      "personajes": [
+        "Chaca Choochoo",
+        "Cuzcu Aker",
+        "Flexita Shadowsoul",
+        "Jonaver Legends",
+        "La Pety"
+      ]
+    },
+    {
+      "nombre": "Rough Blasting Powder",
+      "profesion": "Engineering",
+      "calidad": "common",
+      "personajes": [
+        "Chaca Choochoo",
+        "Cuzcu Aker",
+        "Flexita Shadowsoul",
+        "Jonaver Legends",
+        "La Pety"
+      ]
+    },
+    {
+      "nombre": "Rough Boomstick",
+      "profesion": "Engineering",
+      "calidad": "uncommon",
+      "personajes": [
+        "Flexita Shadowsoul",
+        "Jonaver Legends"
+      ]
+    },
+    {
+      "nombre": "Rough Copper Bomb",
+      "profesion": "Engineering",
+      "calidad": "common",
+      "personajes": [
+        "Chaca Choochoo",
+        "Flexita Shadowsoul",
+        "Jonaver Legends",
+        "La Pety"
+      ]
+    },
+    {
+      "nombre": "Rough Dynamite",
+      "profesion": "Engineering",
+      "calidad": "common",
+      "personajes": [
+        "Chaca Choochoo",
+        "Cuzcu Aker",
+        "Flexita Shadowsoul",
+        "Jonaver Legends",
+        "La Pety"
+      ]
+    },
+    {
+      "nombre": "Silver Contact",
+      "profesion": "Engineering",
+      "calidad": "common",
+      "personajes": [
+        "Chaca Choochoo",
+        "Cuzcu Aker",
+        "Flexita Shadowsoul",
+        "La Pety"
+      ]
+    },
+    {
+      "nombre": "Small Bronze Bomb",
+      "profesion": "Engineering",
+      "calidad": "common",
+      "personajes": [
+        "Chaca Choochoo"
+      ]
+    },
+    {
+      "nombre": "Standard Scope",
+      "profesion": "Engineering",
+      "calidad": "common",
+      "personajes": [
+        "Chaca Choochoo"
+      ]
+    },
+    {
+      "nombre": "Target Dummy",
+      "profesion": "Engineering",
+      "calidad": "common",
+      "personajes": [
+        "Chaca Choochoo",
+        "Cuzcu Aker",
+        "Flexita Shadowsoul"
+      ]
+    },
+    {
+      "nombre": "Whirring Bronze Gizmo",
+      "profesion": "Engineering",
+      "calidad": "common",
+      "personajes": [
+        "Chaca Choochoo"
+      ]
+    },
+    {
+      "nombre": "Anti-Venom",
+      "profesion": "First Aid",
+      "calidad": "common",
+      "personajes": [
+        "Aalesian Naeuri",
+        "Edoras Duskranger",
+        "Flexita Shadowsoul",
+        "Genethika Brisaveloz",
+        "Ildaren Belisar",
+        "Layrela Rondanit",
+        "Nelv Stardancer",
+        "Viilar Terrisia"
+      ]
+    },
+    {
+      "nombre": "First Aid Kit",
+      "profesion": "First Aid",
+      "calidad": "common",
+      "personajes": [
+        "Aalesian Naeuri",
+        "Aurelio Amador",
+        "Chaca Choochoo",
+        "Diana Flechaveloz",
+        "Dio Hotmetal",
+        "Dum Bo",
+        "Edoras Duskranger",
+        "Espartaco Gladiador",
+        "Filps Pachamamamon",
+        "Fitipaldi Sendaumbria",
+        "Flexita Shadowsoul",
+        "Fran Furion",
+        "Genethika Brisaveloz",
+        "Hugo Forjaluz",
+        "Ildaren Belisar",
+        "Jonaver Legends",
+        "Khyoraku Shunsui",
+        "La Pety",
+        "Layrela Rondanit",
+        "Lithanas Chafardero",
+        "Manelhon Gargon",
+        "Nelv Stardancer",
+        "Nindalf Pizpireta",
+        "Palmira Natblida",
+        "Runa Ruina",
+        "Sugar Papy",
+        "Takkaao Valengri",
+        "Tharindel Magnaluz",
+        "Vaporeta Pizpireta",
+        "Viilar Terrisia"
+      ]
+    },
+    {
+      "nombre": "Healing Potion",
+      "profesion": "First Aid",
+      "calidad": "common",
+      "personajes": [
+        "Aalesian Naeuri",
+        "Edoras Duskranger",
+        "Flexita Shadowsoul",
+        "Genethika Brisaveloz"
+      ]
+    },
+    {
+      "nombre": "Heavy Linen Bandage",
+      "profesion": "First Aid",
+      "calidad": "common",
+      "personajes": [
+        "Aalesian Naeuri",
+        "Aurelio Amador",
+        "Chaca Choochoo",
+        "Diana Flechaveloz",
+        "Dio Hotmetal",
+        "Dum Bo",
+        "Edoras Duskranger",
+        "Espartaco Gladiador",
+        "Filps Pachamamamon",
+        "Flexita Shadowsoul",
+        "Genethika Brisaveloz",
+        "Hugo Forjaluz",
+        "Ildaren Belisar",
+        "Jonaver Legends",
+        "La Pety",
+        "Layrela Rondanit",
+        "Manelhon Gargon",
+        "Nelv Stardancer",
+        "Palmira Natblida",
+        "Runa Ruina",
+        "Sugar Papy",
+        "Tharindel Magnaluz",
+        "Viilar Terrisia"
+      ]
+    },
+    {
+      "nombre": "Heavy Wool Bandage",
+      "profesion": "First Aid",
+      "calidad": "common",
+      "personajes": [
+        "Aalesian Naeuri",
+        "Edoras Duskranger",
+        "Espartaco Gladiador",
+        "Flexita Shadowsoul",
+        "Genethika Brisaveloz",
+        "La Pety",
+        "Palmira Natblida"
+      ]
+    },
+    {
+      "nombre": "Lesser Healing Potion",
+      "profesion": "First Aid",
+      "calidad": "common",
+      "personajes": [
+        "Aalesian Naeuri",
+        "Aurelio Amador",
+        "Chaca Choochoo",
+        "Dio Hotmetal",
+        "Edoras Duskranger",
+        "Filps Pachamamamon",
+        "Flexita Shadowsoul",
+        "Genethika Brisaveloz",
+        "Ildaren Belisar",
+        "La Pety",
+        "Layrela Rondanit",
+        "Manelhon Gargon",
+        "Nelv Stardancer",
+        "Palmira Natblida",
+        "Runa Ruina",
+        "Sugar Papy",
+        "Viilar Terrisia"
+      ]
+    },
+    {
+      "nombre": "Linen Bandage",
+      "profesion": "First Aid",
+      "calidad": "common",
+      "personajes": [
+        "Aalesian Naeuri",
+        "Aurelio Amador",
+        "Blind Minds",
+        "Chaca Choochoo",
+        "Cuzcu Aker",
+        "Diana Flechaveloz",
+        "Dio Hotmetal",
+        "Dum Bo",
+        "Edoras Duskranger",
+        "Espartaco Gladiador",
+        "Filps Pachamamamon",
+        "Fitipaldi Sendaumbria",
+        "Flexita Shadowsoul",
+        "Fran Furion",
+        "Genethika Brisaveloz",
+        "Hugo Forjaluz",
+        "Ildaren Belisar",
+        "Jonaver Legends",
+        "Khyoraku Shunsui",
+        "La Pety",
+        "Layrela Rondanit",
+        "Lithanas Chafardero",
+        "Manelhon Gargon",
+        "Memas Tour",
+        "Nelv Stardancer",
+        "Nindalf Pizpireta",
+        "Palmira Natblida",
+        "Runa Ruina",
+        "Saint Peligroxa",
+        "Sugar Papy",
+        "Takkaao Valengri",
+        "Tharindel Magnaluz",
+        "Thundrik Volgrim",
+        "Vaporeta Pizpireta",
+        "Viilar Terrisia"
+      ]
+    },
+    {
+      "nombre": "Minor Healing Potion",
+      "profesion": "First Aid",
+      "calidad": "common",
+      "personajes": [
+        "Aalesian Naeuri",
+        "Aurelio Amador",
+        "Chaca Choochoo",
+        "Diana Flechaveloz",
+        "Dio Hotmetal",
+        "Dum Bo",
+        "Edoras Duskranger",
+        "Filps Pachamamamon",
+        "Flexita Shadowsoul",
+        "Fran Furion",
+        "Genethika Brisaveloz",
+        "Hugo Forjaluz",
+        "Ildaren Belisar",
+        "Jonaver Legends",
+        "Khyoraku Shunsui",
+        "La Pety",
+        "Layrela Rondanit",
+        "Lithanas Chafardero",
+        "Manelhon Gargon",
+        "Nelv Stardancer",
+        "Nindalf Pizpireta",
+        "Palmira Natblida",
+        "Runa Ruina",
+        "Sugar Papy",
+        "Takkaao Valengri",
+        "Tharindel Magnaluz",
+        "Thundrik Volgrim",
+        "Viilar Terrisia"
+      ]
+    },
+    {
+      "nombre": "Silk Bandage",
+      "profesion": "First Aid",
+      "calidad": "common",
+      "personajes": [
+        "Aalesian Naeuri"
+      ]
+    },
+    {
+      "nombre": "Simple Poultice",
+      "profesion": "First Aid",
+      "calidad": "common",
+      "personajes": [
+        "Aalesian Naeuri",
+        "Edoras Duskranger",
+        "Flexita Shadowsoul",
+        "Genethika Brisaveloz",
+        "Ildaren Belisar",
+        "Layrela Rondanit",
+        "Nelv Stardancer",
+        "Viilar Terrisia"
+      ]
+    },
+    {
+      "nombre": "Wool Bandage",
+      "profesion": "First Aid",
+      "calidad": "common",
+      "personajes": [
+        "Aalesian Naeuri",
+        "Edoras Duskranger",
+        "Espartaco Gladiador",
+        "Flexita Shadowsoul",
+        "Genethika Brisaveloz",
+        "Ildaren Belisar",
+        "La Pety",
+        "Layrela Rondanit",
+        "Nelv Stardancer",
+        "Palmira Natblida",
+        "Viilar Terrisia"
+      ]
+    },
+    {
+      "nombre": "Woolen Tourniquet",
+      "profesion": "First Aid",
+      "calidad": "common",
+      "personajes": [
+        "Aalesian Naeuri",
+        "Genethika Brisaveloz"
+      ]
+    },
+    {
+      "nombre": "Fish Bowl",
+      "profesion": "Fishing",
+      "calidad": "common",
+      "personajes": [
+        "Aalesian Naeuri",
+        "Aynita Again",
+        "Cuzcu Aker",
+        "Diana Flechaveloz",
+        "Dum Bo",
+        "Edoras Duskranger",
+        "Espartaco Gladiador",
+        "Finn Felagund",
+        "Flexita Shadowsoul",
+        "La Pety",
+        "Layrela Rondanit",
+        "Lithanas Chafardero",
+        "Manelhon Gargon",
+        "Memas Tour",
+        "Nelv Stardancer",
+        "Nimassus Pater",
+        "Nindalf Pizpireta",
+        "Palmira Natblida",
+        "Saint Peligroxa",
+        "Sugar Papy",
+        "Tharindel Magnaluz",
+        "Vaporeta Pizpireta",
+        "Viilar Terrisia"
+      ]
+    },
+    {
+      "nombre": "Fishing",
+      "profesion": "Fishing",
+      "calidad": "common",
+      "personajes": [
+        "Aalesian Naeuri",
+        "Cuzcu Aker",
+        "Diana Flechaveloz",
+        "Edoras Duskranger",
+        "Finn Felagund",
+        "Flexita Shadowsoul",
+        "Layrela Rondanit",
+        "Lithanas Chafardero",
+        "Palmira Natblida",
+        "Tharindel Magnaluz"
+      ]
+    },
+    {
+      "nombre": "Fishing",
+      "profesion": "Fishing",
+      "calidad": "common",
+      "personajes": [
+        "Aynita Again",
+        "Blind Minds",
+        "Chaca Choochoo",
+        "Hugo Forjaluz",
+        "Ildaren Belisar",
+        "Jonaver Legends",
+        "La Pety",
+        "Manelhon Gargon",
+        "Nelv Stardancer",
+        "Nimassus Pater",
+        "Nindalf Pizpireta",
+        "Saint Peligroxa",
+        "Sugar Papy",
+        "Thundrik Volgrim",
+        "Vaporeta Pizpireta",
+        "Viilar Terrisia"
+      ]
+    },
+    {
+      "nombre": "Fishing",
+      "profesion": "Fishing",
+      "calidad": "common",
+      "personajes": [
+        "Dum Bo",
+        "Espartaco Gladiador",
+        "Memas Tour"
+      ]
+    },
+    {
+      "nombre": "Herbalism",
+      "profesion": "Herbalism",
+      "calidad": "common",
+      "personajes": [
+        "Dio Hotmetal",
+        "Don Josechu",
+        "Fran Furion",
+        "Genethika Brisaveloz",
+        "Layrela Rondanit",
+        "Nelv Stardancer",
+        "Sugar Papy",
+        "Viilar Terrisia"
+      ]
+    },
+    {
+      "nombre": "Herbalism",
+      "profesion": "Herbalism",
+      "calidad": "common",
+      "personajes": [
+        "Don Josechu",
+        "Fran Furion",
+        "Genethika Brisaveloz",
+        "Layrela Rondanit",
+        "Nelv Stardancer",
+        "Viilar Terrisia"
+      ]
+    },
+    {
+      "nombre": "Herbalism",
+      "profesion": "Herbalism",
+      "calidad": "common",
+      "personajes": [
+        "Aynita Again",
+        "Black Phanter",
+        "Blind Minds",
+        "Fitipaldi Sendaumbria",
+        "Takkaao Valengri"
+      ]
+    },
+    {
+      "nombre": "Herbalism",
+      "profesion": "Herbalism",
+      "calidad": "common",
+      "personajes": [
+        "Aynita Again",
+        "Black Phanter",
+        "Blind Minds",
+        "Fitipaldi Sendaumbria",
+        "Takkaao Valengri"
+      ]
+    },
+    {
+      "nombre": "Herbalism",
+      "profesion": "Herbalism",
+      "calidad": "common",
+      "personajes": [
+        "Dio Hotmetal",
+        "Sugar Papy"
+      ]
+    },
+    {
+      "nombre": "Herbalism",
+      "profesion": "Herbalism",
+      "calidad": "common",
+      "personajes": [
+        "Dio Hotmetal",
+        "Sugar Papy"
+      ]
+    },
+    {
+      "nombre": "Incense Candle",
+      "profesion": "Herbalism",
+      "calidad": "common",
+      "personajes": [
+        "Aynita Again",
+        "Dio Hotmetal",
+        "Don Josechu",
+        "Fran Furion",
+        "Genethika Brisaveloz",
+        "Layrela Rondanit",
+        "Nelv Stardancer",
+        "Sugar Papy",
+        "Takkaao Valengri",
+        "Viilar Terrisia"
+      ]
+    },
+    {
+      "nombre": "Barbaric Gloves",
+      "profesion": "Leatherworking",
+      "calidad": "uncommon",
+      "personajes": [
+        "Diana Flechaveloz"
+      ]
+    },
+    {
+      "nombre": "Black Whelp Slippers",
+      "profesion": "Leatherworking",
+      "calidad": "rare",
+      "personajes": [
+        "Ildaren Belisar",
+        "Lithanas Chafardero",
+        "Memas Tour",
+        "Palmira Natblida",
+        "Runa Ruina"
+      ]
+    },
+    {
+      "nombre": "Black Whelp Tunic",
+      "profesion": "Leatherworking",
+      "calidad": "uncommon",
+      "personajes": [
+        "Diana Flechaveloz"
+      ]
+    },
+    {
+      "nombre": "Brawler's Leather Armor",
+      "profesion": "Leatherworking",
+      "calidad": "rare",
+      "personajes": [
+        "Memas Tour"
+      ]
+    },
+    {
+      "nombre": "Brawler's Leather Belt",
+      "profesion": "Leatherworking",
+      "calidad": "rare",
+      "personajes": [
+        "Aurelio Amador"
+      ]
+    },
+    {
+      "nombre": "Brawler's Leather Gloves",
+      "profesion": "Leatherworking",
+      "calidad": "rare",
+      "personajes": [
+        "Aurelio Amador"
+      ]
+    },
+    {
+      "nombre": "Brawler's Leather Hood",
+      "profesion": "Leatherworking",
+      "calidad": "rare",
+      "personajes": [
+        "Aurelio Amador"
+      ]
+    },
+    {
+      "nombre": "Brawler's Leather Pants",
+      "profesion": "Leatherworking",
+      "calidad": "rare",
+      "personajes": [
+        "Edoras Duskranger"
+      ]
+    },
+    {
+      "nombre": "Camp Tent",
+      "profesion": "Leatherworking",
+      "calidad": "common",
+      "personajes": [
+        "Aurelio Amador",
+        "Diana Flechaveloz",
+        "Edoras Duskranger",
+        "Filps Pachamamamon",
+        "Ildaren Belisar",
+        "Lithanas Chafardero",
+        "Manelhon Gargon",
+        "Memas Tour",
+        "Nindalf Pizpireta",
+        "Palmira Natblida",
+        "Runa Ruina"
+      ]
+    },
+    {
+      "nombre": "Cured Heavy Hide",
+      "profesion": "Leatherworking",
+      "calidad": "common",
+      "personajes": [
+        "Diana Flechaveloz"
+      ]
+    },
+    {
+      "nombre": "Cured Light Hide",
+      "profesion": "Leatherworking",
+      "calidad": "common",
+      "personajes": [
+        "Aurelio Amador",
+        "Diana Flechaveloz",
+        "Edoras Duskranger",
+        "Filps Pachamamamon",
+        "Ildaren Belisar",
+        "Lithanas Chafardero",
+        "Manelhon Gargon",
+        "Memas Tour",
+        "Nindalf Pizpireta",
+        "Palmira Natblida",
+        "Runa Ruina"
+      ]
+    },
+    {
+      "nombre": "Cured Medium Hide",
+      "profesion": "Leatherworking",
+      "calidad": "common",
+      "personajes": [
+        "Aurelio Amador",
+        "Diana Flechaveloz",
+        "Edoras Duskranger",
+        "Lithanas Chafardero",
+        "Manelhon Gargon",
+        "Memas Tour",
+        "Palmira Natblida"
+      ]
+    },
+    {
+      "nombre": "Dark Leather Belt",
+      "profesion": "Leatherworking",
+      "calidad": "uncommon",
+      "personajes": [
+        "Diana Flechaveloz",
+        "Edoras Duskranger",
+        "Memas Tour",
+        "Palmira Natblida"
+      ]
+    },
+    {
+      "nombre": "Dark Leather Boots",
+      "profesion": "Leatherworking",
+      "calidad": "rare",
+      "personajes": [
+        "Aurelio Amador",
+        "Edoras Duskranger",
+        "Ildaren Belisar",
+        "Lithanas Chafardero",
+        "Manelhon Gargon",
+        "Memas Tour",
+        "Palmira Natblida",
+        "Runa Ruina"
+      ]
+    },
+    {
+      "nombre": "Dark Leather Cloak",
+      "profesion": "Leatherworking",
+      "calidad": "uncommon",
+      "personajes": [
+        "Diana Flechaveloz",
+        "Edoras Duskranger",
+        "Memas Tour",
+        "Palmira Natblida"
+      ]
+    },
+    {
+      "nombre": "Dark Leather Pants",
+      "profesion": "Leatherworking",
+      "calidad": "uncommon",
+      "personajes": [
+        "Diana Flechaveloz",
+        "Edoras Duskranger",
+        "Manelhon Gargon",
+        "Memas Tour",
+        "Palmira Natblida"
+      ]
+    },
+    {
+      "nombre": "Dark Leather Tunic",
+      "profesion": "Leatherworking",
+      "calidad": "uncommon",
+      "personajes": [
+        "Palmira Natblida"
+      ]
+    },
+    {
+      "nombre": "Deviate Scale Belt",
+      "profesion": "Leatherworking",
+      "calidad": "rare",
+      "personajes": [
+        "Edoras Duskranger",
+        "Palmira Natblida"
+      ]
+    },
+    {
+      "nombre": "Deviate Scale Cloak",
+      "profesion": "Leatherworking",
+      "calidad": "uncommon",
+      "personajes": [
+        "Palmira Natblida"
+      ]
+    },
+    {
+      "nombre": "Deviate Scale Gloves",
+      "profesion": "Leatherworking",
+      "calidad": "uncommon",
+      "personajes": [
+        "Palmira Natblida"
+      ]
+    },
+    {
+      "nombre": "Embossed Leather Boots",
+      "profesion": "Leatherworking",
+      "calidad": "uncommon",
+      "personajes": [
+        "Diana Flechaveloz",
+        "Edoras Duskranger",
+        "Ildaren Belisar",
+        "Lithanas Chafardero",
+        "Manelhon Gargon",
+        "Memas Tour",
+        "Palmira Natblida",
+        "Runa Ruina"
+      ]
+    },
+    {
+      "nombre": "Embossed Leather Cloak",
+      "profesion": "Leatherworking",
+      "calidad": "uncommon",
+      "personajes": [
+        "Diana Flechaveloz",
+        "Edoras Duskranger",
+        "Ildaren Belisar",
+        "Lithanas Chafardero",
+        "Manelhon Gargon",
+        "Memas Tour",
+        "Nindalf Pizpireta",
+        "Palmira Natblida",
+        "Runa Ruina"
+      ]
+    },
+    {
+      "nombre": "Embossed Leather Gloves",
+      "profesion": "Leatherworking",
+      "calidad": "uncommon",
+      "personajes": [
+        "Aurelio Amador",
+        "Diana Flechaveloz",
+        "Edoras Duskranger",
+        "Ildaren Belisar",
+        "Lithanas Chafardero",
+        "Manelhon Gargon",
+        "Memas Tour",
+        "Nindalf Pizpireta",
+        "Palmira Natblida",
+        "Runa Ruina"
+      ]
+    },
+    {
+      "nombre": "Embossed Leather Pants",
+      "profesion": "Leatherworking",
+      "calidad": "uncommon",
+      "personajes": [
+        "Diana Flechaveloz",
+        "Edoras Duskranger",
+        "Ildaren Belisar",
+        "Lithanas Chafardero",
+        "Manelhon Gargon",
+        "Memas Tour",
+        "Palmira Natblida"
+      ]
+    },
+    {
+      "nombre": "Embossed Leather Vest",
+      "profesion": "Leatherworking",
+      "calidad": "uncommon",
+      "personajes": [
+        "Diana Flechaveloz",
+        "Edoras Duskranger",
+        "Ildaren Belisar",
+        "Lithanas Chafardero",
+        "Manelhon Gargon",
+        "Memas Tour",
+        "Nindalf Pizpireta",
+        "Palmira Natblida",
+        "Runa Ruina"
+      ]
+    },
+    {
+      "nombre": "Fine Leather Belt",
+      "profesion": "Leatherworking",
+      "calidad": "uncommon",
+      "personajes": [
+        "Aurelio Amador",
+        "Diana Flechaveloz",
+        "Edoras Duskranger",
+        "Ildaren Belisar",
+        "Lithanas Chafardero",
+        "Manelhon Gargon",
+        "Memas Tour",
+        "Palmira Natblida"
+      ]
+    },
+    {
+      "nombre": "Fine Leather Boots",
+      "profesion": "Leatherworking",
+      "calidad": "uncommon",
+      "personajes": [
+        "Lithanas Chafardero",
+        "Manelhon Gargon",
+        "Memas Tour"
+      ]
+    },
+    {
+      "nombre": "Fine Leather Cloak",
+      "profesion": "Leatherworking",
+      "calidad": "uncommon",
+      "personajes": [
+        "Diana Flechaveloz",
+        "Edoras Duskranger",
+        "Ildaren Belisar",
+        "Lithanas Chafardero",
+        "Manelhon Gargon",
+        "Memas Tour",
+        "Palmira Natblida"
+      ]
+    },
+    {
+      "nombre": "Fine Leather Gloves",
+      "profesion": "Leatherworking",
+      "calidad": "uncommon",
+      "personajes": [
+        "Aurelio Amador"
+      ]
+    },
+    {
+      "nombre": "Fine Leather Tunic",
+      "profesion": "Leatherworking",
+      "calidad": "uncommon",
+      "personajes": [
+        "Diana Flechaveloz",
+        "Edoras Duskranger",
+        "Ildaren Belisar",
+        "Lithanas Chafardero",
+        "Manelhon Gargon",
+        "Memas Tour",
+        "Palmira Natblida"
+      ]
+    },
+    {
+      "nombre": "Fletcher's Gloves",
+      "profesion": "Leatherworking",
+      "calidad": "uncommon",
+      "personajes": [
+        "Diana Flechaveloz",
+        "Edoras Duskranger",
+        "Memas Tour",
+        "Palmira Natblida"
+      ]
+    },
+    {
+      "nombre": "Forceful Medium Armor Kit",
+      "profesion": "Leatherworking",
+      "calidad": "uncommon",
+      "personajes": [
+        "Diana Flechaveloz",
+        "Edoras Duskranger",
+        "Lithanas Chafardero",
+        "Memas Tour"
+      ]
+    },
+    {
+      "nombre": "Gray Leather Boots",
+      "profesion": "Leatherworking",
+      "calidad": "uncommon",
+      "personajes": [
+        "Diana Flechaveloz",
+        "Edoras Duskranger",
+        "Lithanas Chafardero",
+        "Manelhon Gargon",
+        "Memas Tour",
+        "Palmira Natblida"
+      ]
+    },
+    {
+      "nombre": "Handstitched Leather Belt",
+      "profesion": "Leatherworking",
+      "calidad": "uncommon",
+      "personajes": [
+        "Diana Flechaveloz",
+        "Edoras Duskranger",
+        "Ildaren Belisar",
+        "Lithanas Chafardero",
+        "Manelhon Gargon",
+        "Memas Tour",
+        "Nindalf Pizpireta",
+        "Palmira Natblida",
+        "Runa Ruina"
+      ]
+    },
+    {
+      "nombre": "Handstitched Leather Boots",
+      "profesion": "Leatherworking",
+      "calidad": "common",
+      "personajes": [
+        "Aurelio Amador",
+        "Diana Flechaveloz",
+        "Edoras Duskranger",
+        "Filps Pachamamamon",
+        "Ildaren Belisar",
+        "Lithanas Chafardero",
+        "Manelhon Gargon",
+        "Memas Tour",
+        "Nindalf Pizpireta",
+        "Palmira Natblida",
+        "Runa Ruina"
+      ]
+    },
+    {
+      "nombre": "Handstitched Leather Bracers",
+      "profesion": "Leatherworking",
+      "calidad": "common",
+      "personajes": [
+        "Aurelio Amador",
+        "Diana Flechaveloz",
+        "Edoras Duskranger",
+        "Filps Pachamamamon",
+        "Ildaren Belisar",
+        "Lithanas Chafardero",
+        "Manelhon Gargon",
+        "Memas Tour",
+        "Nindalf Pizpireta",
+        "Palmira Natblida",
+        "Runa Ruina"
+      ]
+    },
+    {
+      "nombre": "Handstitched Leather Cloak",
+      "profesion": "Leatherworking",
+      "calidad": "common",
+      "personajes": [
+        "Aurelio Amador",
+        "Diana Flechaveloz",
+        "Edoras Duskranger",
+        "Filps Pachamamamon",
+        "Ildaren Belisar",
+        "Lithanas Chafardero",
+        "Manelhon Gargon",
+        "Memas Tour",
+        "Nindalf Pizpireta",
+        "Palmira Natblida",
+        "Runa Ruina"
+      ]
+    },
+    {
+      "nombre": "Handstitched Leather Pants",
+      "profesion": "Leatherworking",
+      "calidad": "uncommon",
+      "personajes": [
+        "Aurelio Amador",
+        "Diana Flechaveloz",
+        "Edoras Duskranger",
+        "Filps Pachamamamon",
+        "Ildaren Belisar",
+        "Lithanas Chafardero",
+        "Manelhon Gargon",
+        "Memas Tour",
+        "Nindalf Pizpireta",
+        "Palmira Natblida",
+        "Runa Ruina"
+      ]
+    },
+    {
+      "nombre": "Handstitched Leather Vest",
+      "profesion": "Leatherworking",
+      "calidad": "uncommon",
+      "personajes": [
+        "Aurelio Amador",
+        "Diana Flechaveloz",
+        "Edoras Duskranger",
+        "Filps Pachamamamon",
+        "Ildaren Belisar",
+        "Lithanas Chafardero",
+        "Manelhon Gargon",
+        "Memas Tour",
+        "Nindalf Pizpireta",
+        "Palmira Natblida",
+        "Runa Ruina"
+      ]
+    },
+    {
+      "nombre": "Heavy Armor Kit",
+      "profesion": "Leatherworking",
+      "calidad": "common",
+      "personajes": [
+        "Diana Flechaveloz"
+      ]
+    },
+    {
+      "nombre": "Heavy Leather",
+      "profesion": "Leatherworking",
+      "calidad": "common",
+      "personajes": [
+        "Diana Flechaveloz"
+      ]
+    },
+    {
+      "nombre": "Heavy Quiver",
+      "profesion": "Leatherworking",
+      "calidad": "uncommon",
+      "personajes": [
+        "Diana Flechaveloz"
+      ]
+    },
+    {
+      "nombre": "Hillman's Belt",
+      "profesion": "Leatherworking",
+      "calidad": "uncommon",
+      "personajes": [
+        "Palmira Natblida"
+      ]
+    },
+    {
+      "nombre": "Hillman's Cloak",
+      "profesion": "Leatherworking",
+      "calidad": "uncommon",
+      "personajes": [
+        "Diana Flechaveloz"
+      ]
+    },
+    {
+      "nombre": "Hillman's Leather Gloves",
+      "profesion": "Leatherworking",
+      "calidad": "uncommon",
+      "personajes": [
+        "Diana Flechaveloz"
+      ]
+    },
+    {
+      "nombre": "Hillman's Leather Vest",
+      "profesion": "Leatherworking",
+      "calidad": "uncommon",
+      "personajes": [
+        "Palmira Natblida"
+      ]
+    },
+    {
+      "nombre": "Hillman's Shoulders",
+      "profesion": "Leatherworking",
+      "calidad": "uncommon",
+      "personajes": [
+        "Diana Flechaveloz",
+        "Memas Tour",
+        "Palmira Natblida"
+      ]
+    },
+    {
+      "nombre": "Light Armor Kit",
+      "profesion": "Leatherworking",
+      "calidad": "common",
+      "personajes": [
+        "Aurelio Amador",
+        "Diana Flechaveloz",
+        "Edoras Duskranger",
+        "Filps Pachamamamon",
+        "Ildaren Belisar",
+        "Lithanas Chafardero",
+        "Manelhon Gargon",
+        "Memas Tour",
+        "Nindalf Pizpireta",
+        "Palmira Natblida",
+        "Runa Ruina"
+      ]
+    },
+    {
+      "nombre": "Light Leather",
+      "profesion": "Leatherworking",
+      "calidad": "common",
+      "personajes": [
+        "Aurelio Amador",
+        "Diana Flechaveloz",
+        "Edoras Duskranger",
+        "Filps Pachamamamon",
+        "Ildaren Belisar",
+        "Lithanas Chafardero",
+        "Manelhon Gargon",
+        "Memas Tour",
+        "Nindalf Pizpireta",
+        "Palmira Natblida",
+        "Runa Ruina"
+      ]
+    },
+    {
+      "nombre": "Light Leather Bracers",
+      "profesion": "Leatherworking",
+      "calidad": "uncommon",
+      "personajes": [
+        "Diana Flechaveloz",
+        "Edoras Duskranger",
+        "Ildaren Belisar",
+        "Lithanas Chafardero",
+        "Manelhon Gargon",
+        "Memas Tour",
+        "Palmira Natblida"
+      ]
+    },
+    {
+      "nombre": "Light Leather Pants",
+      "profesion": "Leatherworking",
+      "calidad": "uncommon",
+      "personajes": [
+        "Diana Flechaveloz",
+        "Edoras Duskranger",
+        "Lithanas Chafardero",
+        "Manelhon Gargon",
+        "Memas Tour",
+        "Palmira Natblida"
+      ]
+    },
+    {
+      "nombre": "Light Leather Quiver",
+      "profesion": "Leatherworking",
+      "calidad": "common",
+      "personajes": [
+        "Diana Flechaveloz",
+        "Edoras Duskranger",
+        "Ildaren Belisar",
+        "Lithanas Chafardero",
+        "Memas Tour",
+        "Nindalf Pizpireta",
+        "Palmira Natblida",
+        "Runa Ruina"
+      ]
+    },
+    {
+      "nombre": "Light Leather Reagent Bag",
+      "profesion": "Leatherworking",
+      "calidad": "common",
+      "personajes": [
+        "Edoras Duskranger",
+        "Ildaren Belisar"
+      ]
+    },
+    {
+      "nombre": "Medium Armor Kit",
+      "profesion": "Leatherworking",
+      "calidad": "common",
+      "personajes": [
+        "Aurelio Amador",
+        "Diana Flechaveloz",
+        "Edoras Duskranger",
+        "Lithanas Chafardero",
+        "Manelhon Gargon",
+        "Memas Tour",
+        "Palmira Natblida"
+      ]
+    },
+    {
+      "nombre": "Medium Leather",
+      "profesion": "Leatherworking",
+      "calidad": "common",
+      "personajes": [
+        "Diana Flechaveloz",
+        "Edoras Duskranger",
+        "Lithanas Chafardero",
+        "Manelhon Gargon",
+        "Memas Tour",
+        "Palmira Natblida"
+      ]
+    },
+    {
+      "nombre": "Moonglow Boots",
+      "profesion": "Leatherworking",
+      "calidad": "rare",
+      "personajes": [
+        "Ildaren Belisar",
+        "Lithanas Chafardero",
+        "Memas Tour",
+        "Palmira Natblida",
+        "Runa Ruina"
+      ]
+    },
+    {
+      "nombre": "Moonglow Vest",
+      "profesion": "Leatherworking",
+      "calidad": "uncommon",
+      "personajes": [
+        "Edoras Duskranger"
+      ]
+    },
+    {
+      "nombre": "Murloc Scale Belt",
+      "profesion": "Leatherworking",
+      "calidad": "uncommon",
+      "personajes": [
+        "Diana Flechaveloz",
+        "Edoras Duskranger",
+        "Ildaren Belisar",
+        "Lithanas Chafardero",
+        "Memas Tour"
+      ]
+    },
+    {
+      "nombre": "Murloc Scale Breastplate",
+      "profesion": "Leatherworking",
+      "calidad": "uncommon",
+      "personajes": [
+        "Aurelio Amador",
+        "Diana Flechaveloz",
+        "Edoras Duskranger",
+        "Ildaren Belisar",
+        "Memas Tour"
+      ]
+    },
+    {
+      "nombre": "Murloc Scale Shoes",
+      "profesion": "Leatherworking",
+      "calidad": "rare",
+      "personajes": [
+        "Ildaren Belisar",
+        "Lithanas Chafardero",
+        "Memas Tour",
+        "Palmira Natblida",
+        "Runa Ruina"
+      ]
+    },
+    {
+      "nombre": "Mystic Medium Armor Kit",
+      "profesion": "Leatherworking",
+      "calidad": "uncommon",
+      "personajes": [
+        "Edoras Duskranger",
+        "Memas Tour"
+      ]
+    },
+    {
+      "nombre": "Nimble Leather Gloves",
+      "profesion": "Leatherworking",
+      "calidad": "uncommon",
+      "personajes": [
+        "Diana Flechaveloz",
+        "Edoras Duskranger",
+        "Memas Tour",
+        "Palmira Natblida"
+      ]
+    },
+    {
+      "nombre": "Rugged Leather Pants",
+      "profesion": "Leatherworking",
+      "calidad": "uncommon",
+      "personajes": [
+        "Memas Tour",
+        "Palmira Natblida"
+      ]
+    },
+    {
+      "nombre": "Small Leather Ammo Pouch",
+      "profesion": "Leatherworking",
+      "calidad": "common",
+      "personajes": [
+        "Diana Flechaveloz",
+        "Edoras Duskranger",
+        "Filps Pachamamamon",
+        "Ildaren Belisar",
+        "Lithanas Chafardero",
+        "Memas Tour",
+        "Nindalf Pizpireta",
+        "Palmira Natblida",
+        "Runa Ruina"
+      ]
+    },
+    {
+      "nombre": "Totemic Leather Pants",
+      "profesion": "Leatherworking",
+      "calidad": "rare",
+      "personajes": [
+        "Edoras Duskranger"
+      ]
+    },
+    {
+      "nombre": "Toughened Leather Armor",
+      "profesion": "Leatherworking",
+      "calidad": "uncommon",
+      "personajes": [
+        "Diana Flechaveloz",
+        "Edoras Duskranger",
+        "Memas Tour",
+        "Palmira Natblida"
+      ]
+    },
+    {
+      "nombre": "Toughened Leather Gloves",
+      "profesion": "Leatherworking",
+      "calidad": "rare",
+      "personajes": [
+        "Diana Flechaveloz",
+        "Memas Tour",
+        "Palmira Natblida"
+      ]
+    },
+    {
+      "nombre": "Trapper's Leather Armor",
+      "profesion": "Leatherworking",
+      "calidad": "rare",
+      "personajes": [
+        "Aurelio Amador",
+        "Memas Tour"
+      ]
+    },
+    {
+      "nombre": "Lodestone",
+      "profesion": "Mining",
+      "calidad": "common",
+      "personajes": [
+        "Aalesian Naeuri",
+        "Chaca Choochoo",
+        "Cuzcu Aker",
+        "Espartaco Gladiador",
+        "Flexita Shadowsoul",
+        "Hugo Forjaluz",
+        "Jonaver Legends",
+        "Khyoraku Shunsui",
+        "La Pety",
+        "Tharindel Magnaluz"
+      ]
+    },
+    {
+      "nombre": "Mining",
+      "profesion": "Mining",
+      "calidad": "common",
+      "personajes": [
+        "Aalesian Naeuri",
+        "Chaca Choochoo",
+        "Cuzcu Aker",
+        "Espartaco Gladiador",
+        "Flexita Shadowsoul",
+        "Hugo Forjaluz",
+        "Khyoraku Shunsui",
+        "La Pety",
+        "Tharindel Magnaluz"
+      ]
+    },
+    {
+      "nombre": "Mining",
+      "profesion": "Mining",
+      "calidad": "common",
+      "personajes": [
+        "Jonaver Legends"
+      ]
+    },
+    {
+      "nombre": "Mining",
+      "profesion": "Mining",
+      "calidad": "common",
+      "personajes": [
+        "Aalesian Naeuri"
+      ]
+    },
+    {
+      "nombre": "Smelt Bronze",
+      "profesion": "Mining",
+      "calidad": "common",
+      "personajes": [
+        "Aalesian Naeuri",
+        "Chaca Choochoo",
+        "Cuzcu Aker",
+        "Espartaco Gladiador",
+        "Flexita Shadowsoul",
+        "Hugo Forjaluz",
+        "Khyoraku Shunsui",
+        "La Pety",
+        "Tharindel Magnaluz"
+      ]
+    },
+    {
+      "nombre": "Smelt Copper",
+      "profesion": "Mining",
+      "calidad": "common",
+      "personajes": [
+        "Aalesian Naeuri",
+        "Chaca Choochoo",
+        "Cuzcu Aker",
+        "Espartaco Gladiador",
+        "Flexita Shadowsoul",
+        "Hugo Forjaluz",
+        "Jonaver Legends",
+        "Khyoraku Shunsui",
+        "La Pety",
+        "Tharindel Magnaluz"
+      ]
+    },
+    {
+      "nombre": "Smelt Iron",
+      "profesion": "Mining",
+      "calidad": "common",
+      "personajes": [
+        "Aalesian Naeuri"
+      ]
+    },
+    {
+      "nombre": "Smelt Silver",
+      "profesion": "Mining",
+      "calidad": "uncommon",
+      "personajes": [
+        "Aalesian Naeuri",
+        "Chaca Choochoo",
+        "Cuzcu Aker",
+        "Espartaco Gladiador",
+        "Flexita Shadowsoul",
+        "Hugo Forjaluz",
+        "Khyoraku Shunsui",
+        "La Pety",
+        "Tharindel Magnaluz"
+      ]
+    },
+    {
+      "nombre": "Smelt Tin",
+      "profesion": "Mining",
+      "calidad": "common",
+      "personajes": [
+        "Aalesian Naeuri",
+        "Chaca Choochoo",
+        "Cuzcu Aker",
+        "Espartaco Gladiador",
+        "Flexita Shadowsoul",
+        "Hugo Forjaluz",
+        "Khyoraku Shunsui",
+        "La Pety",
+        "Tharindel Magnaluz"
+      ]
+    },
+    {
+      "nombre": "Camp Chair",
+      "profesion": "Skinning",
+      "calidad": "common",
+      "personajes": [
+        "Aurelio Amador",
+        "Diana Flechaveloz",
+        "Edoras Duskranger",
+        "Filps Pachamamamon",
+        "Fitipaldi Sendaumbria",
+        "Ildaren Belisar",
+        "Lithanas Chafardero",
+        "Manelhon Gargon",
+        "Memas Tour",
+        "Nindalf Pizpireta",
+        "Palmira Natblida",
+        "Runa Ruina"
+      ]
+    },
+    {
+      "nombre": "Field Guide",
+      "profesion": "Skinning",
+      "calidad": "common",
+      "personajes": [
+        "Edoras Duskranger"
+      ]
+    },
+    {
+      "nombre": "Skinning",
+      "profesion": "Skinning",
+      "calidad": "common",
+      "personajes": [
+        "Diana Flechaveloz",
+        "Edoras Duskranger",
+        "Ildaren Belisar",
+        "Palmira Natblida",
+        "Runa Ruina"
+      ]
+    },
+    {
+      "nombre": "Skinning",
+      "profesion": "Skinning",
+      "calidad": "common",
+      "personajes": [
+        "Aurelio Amador",
+        "Filps Pachamamamon",
+        "Fitipaldi Sendaumbria",
+        "Lithanas Chafardero",
+        "Manelhon Gargon",
+        "Memas Tour",
+        "Nindalf Pizpireta"
+      ]
+    },
+    {
+      "nombre": "Barbaric Linen Vest",
+      "profesion": "Tailoring",
+      "calidad": "uncommon",
+      "personajes": [
+        "Blind Minds",
+        "Dum Bo",
+        "Finn Felagund",
+        "Saint Peligroxa"
+      ]
+    },
+    {
+      "nombre": "Blue Linen Shirt",
+      "profesion": "Tailoring",
+      "calidad": "common",
+      "personajes": [
+        "Dum Bo",
+        "Finn Felagund",
+        "Saint Peligroxa"
+      ]
+    },
+    {
+      "nombre": "Blue Linen Vest",
+      "profesion": "Tailoring",
+      "calidad": "uncommon",
+      "personajes": [
+        "Blind Minds"
+      ]
+    },
+    {
+      "nombre": "Blue Overalls",
+      "profesion": "Tailoring",
+      "calidad": "uncommon",
+      "personajes": [
+        "Dum Bo",
+        "Finn Felagund"
+      ]
+    },
+    {
+      "nombre": "Bolt of Linen Cloth",
+      "profesion": "Tailoring",
+      "calidad": "common",
+      "personajes": [
+        "Aynita Again",
+        "Blind Minds",
+        "Dum Bo",
+        "Finn Felagund",
+        "Nimassus Pater",
+        "Rhyomen Sukuna",
+        "Saint Peligroxa",
+        "Thundrik Volgrim",
+        "Vaporeta Pizpireta"
+      ]
+    },
+    {
+      "nombre": "Bolt of Silk Cloth",
+      "profesion": "Tailoring",
+      "calidad": "common",
+      "personajes": [
+        "Dum Bo",
+        "Finn Felagund",
+        "Nimassus Pater"
+      ]
+    },
+    {
+      "nombre": "Bolt of Woolen Cloth",
+      "profesion": "Tailoring",
+      "calidad": "common",
+      "personajes": [
+        "Dum Bo",
+        "Finn Felagund",
+        "Nimassus Pater",
+        "Rhyomen Sukuna",
+        "Saint Peligroxa"
+      ]
+    },
+    {
+      "nombre": "Brown Linen Pants",
+      "profesion": "Tailoring",
+      "calidad": "uncommon",
+      "personajes": [
+        "Blind Minds",
+        "Dum Bo",
+        "Finn Felagund",
+        "Saint Peligroxa"
+      ]
+    },
+    {
+      "nombre": "Brown Linen Robe",
+      "profesion": "Tailoring",
+      "calidad": "uncommon",
+      "personajes": [
+        "Blind Minds",
+        "Dum Bo",
+        "Finn Felagund",
+        "Saint Peligroxa"
+      ]
+    },
+    {
+      "nombre": "Brown Linen Shirt",
+      "profesion": "Tailoring",
+      "calidad": "common",
+      "personajes": [
+        "Aynita Again",
+        "Blind Minds",
+        "Dum Bo",
+        "Finn Felagund",
+        "Nimassus Pater",
+        "Rhyomen Sukuna",
+        "Saint Peligroxa",
+        "Thundrik Volgrim",
+        "Vaporeta Pizpireta"
+      ]
+    },
+    {
+      "nombre": "Brown Linen Vest",
+      "profesion": "Tailoring",
+      "calidad": "common",
+      "personajes": [
+        "Dum Bo",
+        "Finn Felagund",
+        "Rhyomen Sukuna",
+        "Saint Peligroxa"
+      ]
+    },
+    {
+      "nombre": "Colorful Kilt",
+      "profesion": "Tailoring",
+      "calidad": "uncommon",
+      "personajes": [
+        "Dum Bo",
+        "Finn Felagund"
+      ]
+    },
+    {
+      "nombre": "Double-stitched Woolen Shoulders",
+      "profesion": "Tailoring",
+      "calidad": "uncommon",
+      "personajes": [
+        "Dum Bo",
+        "Finn Felagund",
+        "Nimassus Pater",
+        "Saint Peligroxa"
+      ]
+    },
+    {
+      "nombre": "Faction Banner",
+      "profesion": "Tailoring",
+      "calidad": "common",
+      "personajes": [
+        "Blind Minds",
+        "Dum Bo",
+        "Finn Felagund",
+        "Nimassus Pater",
+        "Rhyomen Sukuna",
+        "Saint Peligroxa"
+      ]
+    },
+    {
+      "nombre": "Filigreed Flame Gown",
+      "profesion": "Tailoring",
+      "calidad": "rare",
+      "personajes": [
+        "Dum Bo"
+      ]
+    },
+    {
+      "nombre": "Filigreed Pristine Leggings",
+      "profesion": "Tailoring",
+      "calidad": "rare",
+      "personajes": [
+        "Nimassus Pater"
+      ]
+    },
+    {
+      "nombre": "Filigreed Shining Leggings",
+      "profesion": "Tailoring",
+      "calidad": "rare",
+      "personajes": [
+        "Dum Bo"
+      ]
+    },
+    {
+      "nombre": "Filigreed Silky Gown",
+      "profesion": "Tailoring",
+      "calidad": "rare",
+      "personajes": [
+        "Finn Felagund"
+      ]
+    },
+    {
+      "nombre": "Gloves of Meditation",
+      "profesion": "Tailoring",
+      "calidad": "uncommon",
+      "personajes": [
+        "Dum Bo",
+        "Finn Felagund"
+      ]
+    },
+    {
+      "nombre": "Gray Woolen Robe",
+      "profesion": "Tailoring",
+      "calidad": "uncommon",
+      "personajes": [
+        "Dum Bo"
+      ]
+    },
+    {
+      "nombre": "Gray Woolen Shirt",
+      "profesion": "Tailoring",
+      "calidad": "common",
+      "personajes": [
+        "Dum Bo",
+        "Finn Felagund"
+      ]
+    },
+    {
+      "nombre": "Green Linen Bracers",
+      "profesion": "Tailoring",
+      "calidad": "uncommon",
+      "personajes": [
+        "Blind Minds",
+        "Dum Bo",
+        "Finn Felagund",
+        "Nimassus Pater",
+        "Saint Peligroxa"
+      ]
+    },
+    {
+      "nombre": "Green Linen Shirt",
+      "profesion": "Tailoring",
+      "calidad": "common",
+      "personajes": [
+        "Dum Bo",
+        "Finn Felagund",
+        "Saint Peligroxa"
+      ]
+    },
+    {
+      "nombre": "Green Woolen Bag",
+      "profesion": "Tailoring",
+      "calidad": "common",
+      "personajes": [
+        "Dum Bo",
+        "Finn Felagund",
+        "Rhyomen Sukuna"
+      ]
+    },
+    {
+      "nombre": "Green Woolen Vest",
+      "profesion": "Tailoring",
+      "calidad": "uncommon",
+      "personajes": [
+        "Dum Bo",
+        "Finn Felagund",
+        "Saint Peligroxa"
+      ]
+    },
+    {
+      "nombre": "Handstitched Linen Britches",
+      "profesion": "Tailoring",
+      "calidad": "uncommon",
+      "personajes": [
+        "Dum Bo",
+        "Finn Felagund",
+        "Nimassus Pater",
+        "Saint Peligroxa"
+      ]
+    },
+    {
+      "nombre": "Heavy Linen Gloves",
+      "profesion": "Tailoring",
+      "calidad": "uncommon",
+      "personajes": [
+        "Blind Minds",
+        "Dum Bo",
+        "Finn Felagund",
+        "Nimassus Pater",
+        "Rhyomen Sukuna",
+        "Saint Peligroxa",
+        "Thundrik Volgrim"
+      ]
+    },
+    {
+      "nombre": "Heavy Woolen Cloak",
+      "profesion": "Tailoring",
+      "calidad": "uncommon",
+      "personajes": [
+        "Dum Bo",
+        "Finn Felagund"
+      ]
+    },
+    {
+      "nombre": "Heavy Woolen Gloves",
+      "profesion": "Tailoring",
+      "calidad": "uncommon",
+      "personajes": [
+        "Dum Bo",
+        "Finn Felagund",
+        "Saint Peligroxa"
+      ]
+    },
+    {
+      "nombre": "Heavy Woolen Pants",
+      "profesion": "Tailoring",
+      "calidad": "uncommon",
+      "personajes": [
+        "Dum Bo",
+        "Finn Felagund",
+        "Nimassus Pater"
+      ]
+    },
+    {
+      "nombre": "Lesser Wizard's Robe",
+      "profesion": "Tailoring",
+      "calidad": "uncommon",
+      "personajes": [
+        "Dum Bo"
+      ]
+    },
+    {
+      "nombre": "Linen Bag",
+      "profesion": "Tailoring",
+      "calidad": "common",
+      "personajes": [
+        "Aynita Again",
+        "Blind Minds",
+        "Dum Bo",
+        "Finn Felagund",
+        "Nimassus Pater",
+        "Rhyomen Sukuna",
+        "Saint Peligroxa",
+        "Thundrik Volgrim",
+        "Vaporeta Pizpireta"
+      ]
+    },
+    {
+      "nombre": "Linen Belt",
+      "profesion": "Tailoring",
+      "calidad": "common",
+      "personajes": [
+        "Blind Minds",
+        "Dum Bo",
+        "Finn Felagund",
+        "Rhyomen Sukuna",
+        "Saint Peligroxa"
+      ]
+    },
+    {
+      "nombre": "Linen Boots",
+      "profesion": "Tailoring",
+      "calidad": "uncommon",
+      "personajes": [
+        "Blind Minds",
+        "Dum Bo",
+        "Finn Felagund",
+        "Nimassus Pater",
+        "Rhyomen Sukuna",
+        "Saint Peligroxa"
+      ]
+    },
+    {
+      "nombre": "Linen Cloak",
+      "profesion": "Tailoring",
+      "calidad": "common",
+      "personajes": [
+        "Aynita Again",
+        "Blind Minds",
+        "Dum Bo",
+        "Finn Felagund",
+        "Nimassus Pater",
+        "Rhyomen Sukuna",
+        "Saint Peligroxa",
+        "Thundrik Volgrim",
+        "Vaporeta Pizpireta"
+      ]
+    },
+    {
+      "nombre": "Linen Reagent Bag",
+      "profesion": "Tailoring",
+      "calidad": "common",
+      "personajes": [
+        "Blind Minds",
+        "Dum Bo",
+        "Finn Felagund",
+        "Nimassus Pater"
+      ]
+    },
+    {
+      "nombre": "Novice Arcanist's Sash",
+      "profesion": "Tailoring",
+      "calidad": "rare",
+      "personajes": [
+        "Blind Minds",
+        "Dum Bo",
+        "Finn Felagund",
+        "Saint Peligroxa",
+        "Thundrik Volgrim"
+      ]
+    },
+    {
+      "nombre": "Novice Ardent's Sash",
+      "profesion": "Tailoring",
+      "calidad": "rare",
+      "personajes": [
+        "Dum Bo",
+        "Finn Felagund",
+        "Nimassus Pater",
+        "Saint Peligroxa",
+        "Thundrik Volgrim"
+      ]
+    },
+    {
+      "nombre": "Pearl-clasped Cloak",
+      "profesion": "Tailoring",
+      "calidad": "uncommon",
+      "personajes": [
+        "Dum Bo",
+        "Finn Felagund"
+      ]
+    },
+    {
+      "nombre": "Phoenix Gloves",
+      "profesion": "Tailoring",
+      "calidad": "uncommon",
+      "personajes": [
+        "Dum Bo"
+      ]
+    },
+    {
+      "nombre": "Phoenix Pants",
+      "profesion": "Tailoring",
+      "calidad": "uncommon",
+      "personajes": [
+        "Dum Bo"
+      ]
+    },
+    {
+      "nombre": "Red Linen Bag",
+      "profesion": "Tailoring",
+      "calidad": "common",
+      "personajes": [
+        "Dum Bo",
+        "Nimassus Pater",
+        "Rhyomen Sukuna"
+      ]
+    },
+    {
+      "nombre": "Red Linen Robe",
+      "profesion": "Tailoring",
+      "calidad": "uncommon",
+      "personajes": [
+        "Dum Bo",
+        "Finn Felagund"
+      ]
+    },
+    {
+      "nombre": "Red Linen Shirt",
+      "profesion": "Tailoring",
+      "calidad": "common",
+      "personajes": [
+        "Dum Bo",
+        "Finn Felagund",
+        "Saint Peligroxa"
+      ]
+    },
+    {
+      "nombre": "Red Linen Vest",
+      "profesion": "Tailoring",
+      "calidad": "uncommon",
+      "personajes": [
+        "Dum Bo"
+      ]
+    },
+    {
+      "nombre": "Red Woolen Boots",
+      "profesion": "Tailoring",
+      "calidad": "uncommon",
+      "personajes": [
+        "Dum Bo"
+      ]
+    },
+    {
+      "nombre": "Reinforced Linen Cape",
+      "profesion": "Tailoring",
+      "calidad": "uncommon",
+      "personajes": [
+        "Blind Minds",
+        "Dum Bo",
+        "Finn Felagund",
+        "Nimassus Pater",
+        "Rhyomen Sukuna",
+        "Saint Peligroxa",
+        "Thundrik Volgrim"
+      ]
+    },
+    {
+      "nombre": "Reinforced Woolen Shoulders",
+      "profesion": "Tailoring",
+      "calidad": "uncommon",
+      "personajes": [
+        "Dum Bo"
+      ]
+    },
+    {
+      "nombre": "Simple Dress",
+      "profesion": "Tailoring",
+      "calidad": "common",
+      "personajes": [
+        "Dum Bo",
+        "Finn Felagund",
+        "Saint Peligroxa"
+      ]
+    },
+    {
+      "nombre": "Simple Kilt",
+      "profesion": "Tailoring",
+      "calidad": "uncommon",
+      "personajes": [
+        "Dum Bo",
+        "Finn Felagund",
+        "Nimassus Pater",
+        "Rhyomen Sukuna",
+        "Saint Peligroxa"
+      ]
+    },
+    {
+      "nombre": "Simple Linen Boots",
+      "profesion": "Tailoring",
+      "calidad": "common",
+      "personajes": [
+        "Dum Bo",
+        "Finn Felagund",
+        "Saint Peligroxa"
+      ]
+    },
+    {
+      "nombre": "Simple Linen Pants",
+      "profesion": "Tailoring",
+      "calidad": "common",
+      "personajes": [
+        "Aynita Again",
+        "Blind Minds",
+        "Dum Bo",
+        "Finn Felagund",
+        "Nimassus Pater",
+        "Rhyomen Sukuna",
+        "Saint Peligroxa",
+        "Thundrik Volgrim",
+        "Vaporeta Pizpireta"
+      ]
+    },
+    {
+      "nombre": "Soft-soled Linen Boots",
+      "profesion": "Tailoring",
+      "calidad": "uncommon",
+      "personajes": [
+        "Dum Bo",
+        "Finn Felagund"
+      ]
+    },
+    {
+      "nombre": "Spider Silk Slippers",
+      "profesion": "Tailoring",
+      "calidad": "uncommon",
+      "personajes": [
+        "Dum Bo"
+      ]
+    },
+    {
+      "nombre": "Spidersilk Boots",
+      "profesion": "Tailoring",
+      "calidad": "rare",
+      "personajes": [
+        "Dum Bo",
+        "Finn Felagund",
+        "Nimassus Pater"
+      ]
+    },
+    {
+      "nombre": "Stylish Blue Shirt",
+      "profesion": "Tailoring",
+      "calidad": "common",
+      "personajes": [
+        "Dum Bo"
+      ]
+    },
+    {
+      "nombre": "Stylish Green Shirt",
+      "profesion": "Tailoring",
+      "calidad": "common",
+      "personajes": [
+        "Dum Bo"
+      ]
+    },
+    {
+      "nombre": "Stylish Red Shirt",
+      "profesion": "Tailoring",
+      "calidad": "common",
+      "personajes": [
+        "Dum Bo",
+        "Finn Felagund"
+      ]
+    },
+    {
+      "nombre": "White Linen Robe",
+      "profesion": "Tailoring",
+      "calidad": "uncommon",
+      "personajes": [
+        "Blind Minds",
+        "Dum Bo",
+        "Finn Felagund",
+        "Rhyomen Sukuna",
+        "Saint Peligroxa"
+      ]
+    },
+    {
+      "nombre": "White Linen Shirt",
+      "profesion": "Tailoring",
+      "calidad": "common",
+      "personajes": [
+        "Dum Bo",
+        "Finn Felagund",
+        "Rhyomen Sukuna",
+        "Saint Peligroxa",
+        "Vaporeta Pizpireta"
+      ]
+    },
+    {
+      "nombre": "White Woolen Dress",
+      "profesion": "Tailoring",
+      "calidad": "uncommon",
+      "personajes": [
+        "Dum Bo",
+        "Finn Felagund",
+        "Saint Peligroxa"
+      ]
+    },
+    {
+      "nombre": "Woolen Bag",
+      "profesion": "Tailoring",
+      "calidad": "common",
+      "personajes": [
+        "Dum Bo",
+        "Finn Felagund",
+        "Saint Peligroxa"
+      ]
+    },
+    {
+      "nombre": "Woolen Boots",
+      "profesion": "Tailoring",
+      "calidad": "uncommon",
+      "personajes": [
+        "Dum Bo",
+        "Finn Felagund",
+        "Saint Peligroxa"
+      ]
+    },
+    {
+      "nombre": "Woolen Cape",
+      "profesion": "Tailoring",
+      "calidad": "uncommon",
+      "personajes": [
+        "Dum Bo",
+        "Finn Felagund",
+        "Nimassus Pater",
+        "Rhyomen Sukuna",
+        "Saint Peligroxa"
+      ]
+    },
+    {
+      "nombre": "Woolen Reagent Bag",
+      "profesion": "Tailoring",
+      "calidad": "common",
+      "personajes": [
+        "Dum Bo",
+        "Finn Felagund",
+        "Nimassus Pater",
+        "Saint Peligroxa"
+      ]
+    }
+  ]
 }
