@@ -136,6 +136,26 @@ def main():
         for r, t in encontrados[:40]:
             print(f"    {r}: {t}")
     mostrar("Personajes", "/v1/characters")
+    # Nombre completo: qué campos del personaje podrían llevar el apellido (solo nombres de campos y recuentos)
+    datos, error = get("/v1/characters")
+    if isinstance(datos, list) and datos:
+        print("\n===== Personaje: campos de texto y cuántos tienen espacios (sin valores)")
+        def textos(d, base=""):
+            if isinstance(d, dict):
+                for k, v in d.items():
+                    yield from textos(v, f"{base}.{k}" if base else k)
+            elif isinstance(d, str):
+                yield base, d
+        resumen = {}
+        for c in datos:
+            for ruta, v in textos(c):
+                r = resumen.setdefault(ruta, [0, 0])
+                r[0] += 1
+                r[1] += (" " in v.strip())
+        for ruta, (n, esp) in sorted(resumen.items()):
+            print(f"  {ruta}: {n} con texto, {esp} con espacios")
+        print("  game_data:")
+        forma(datos[0].get("game_data"), 2)
 
 
 if __name__ == "__main__":
