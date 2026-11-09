@@ -10,6 +10,7 @@
 <title>Tu primera semana · El Último Baile</title>
 <link rel="preload" href="fonts/manrope.woff" as="font" type="font/woff" crossorigin>
 <link rel="preload" href="fonts/cinzel.woff" as="font" type="font/woff" crossorigin>
+<link rel="stylesheet" href="comun/menu.css">
 <style>
   /* Fuentes servidas desde la propia web (licencia SIL OFL, ver fonts/). Sin peticiones a Google. */
   @font-face{font-family:"Cinzel";src:url("fonts/cinzel.woff") format("woff");font-weight:400 900;font-style:normal;font-display:swap}
@@ -69,16 +70,6 @@
   .seccion::before{content:"";position:absolute;top:-7px;left:50%;width:12px;height:12px;margin-left:-6px;transform:rotate(45deg);background:var(--fondo);border:1px solid var(--oro);box-shadow:0 0 10px rgba(91,141,255,.55)}
 
   /* Barra superior fija: marca, enlaces y botón en una fila (en móvil los enlaces bajan a una segunda fila) */
-  .barra{position:sticky;top:0;z-index:30;background:rgba(7,8,10,.94);backdrop-filter:blur(8px);border-bottom:1px solid var(--filete)}
-  .barra .fila1{display:flex;align-items:center;gap:24px;height:76px;max-width:1320px}
-  .marca{display:flex;align-items:center;gap:12px;text-decoration:none;font-family:var(--titulos);font-weight:600;font-size:1.2rem;letter-spacing:.14em;text-transform:uppercase;color:var(--oro);white-space:nowrap}
-  .barra nav{margin-left:auto}
-  .barra .boton{padding:13px 22px;font-size:.78rem}
-  .barra nav ul{list-style:none;display:flex;gap:20px;margin:0;padding:0;overflow-x:auto;scrollbar-width:none}
-  .barra nav ul::-webkit-scrollbar{display:none}
-  .barra nav a{font:600 .76rem/1 var(--texto-f);letter-spacing:.15em;text-transform:uppercase;color:var(--suave);text-decoration:none;white-space:nowrap;padding:6px 0;display:inline-block}
-  .barra nav a.activo{color:var(--oro-claro)}
-  .barra nav a:hover{color:#a9c4ff}
 
   /* Cabecera: título, línea de datos, frase y la imagen completa debajo, separada */
   .hero{position:relative;padding:28px 0 8px;overflow:hidden;text-align:center;
@@ -230,23 +221,12 @@
     .botin{grid-template-columns:1fr;gap:36px}
     .marco{padding:44px 32px}
   }
-  /* Menú en dos filas cuando no cabe en una (portátil pequeño, tablet y móvil) */
-  @media (max-width:1360px){
-    .barra .fila1{height:auto;flex-wrap:wrap;gap:0 12px;padding-top:10px}
-    .marca{flex:1}
-    .barra nav{order:3;flex:0 0 100%;min-width:0;margin:8px 0 0;border-top:1px solid var(--linea)}
-    .barra nav ul{gap:30px;padding:10px 4px;justify-content:center}
-  }
   @media (max-width:720px){
     .perfil-lista{grid-template-columns:1fr}
     .perfil-lista li{border-left:0;border-top:1px solid var(--linea);padding:20px 6px}
     .perfil-lista li:first-child{border-top:0}
     body{font-size:1rem}
     .seccion{padding:80px 0}
-    .marca{font-size:1rem;letter-spacing:.1em;gap:10px}
-    .barra .boton{padding:10px 14px;font-size:.7rem;letter-spacing:.18em}
-    .barra nav ul{gap:22px;justify-content:flex-start}
-    .barra nav a{font-size:.72rem;letter-spacing:.18em}
     .hero{padding:44px 0 0}
     .hero .ficha{gap:12px;letter-spacing:.2em;font-size:.68rem}
     .hero .ficha::before,.hero .ficha::after{flex-basis:20px}
@@ -282,7 +262,7 @@
 <body>
 <header class="barra">
   <div class="envoltura fila1">
-    <a class="marca" href="./">
+    <a class="marca" href="./#inicio">
       <svg width="30" height="34" viewBox="0 0 28 32" aria-hidden="true">
         <path d="M14 1 L27 5 V15 C27 23 21 28.5 14 31 C7 28.5 1 23 1 15 V5 Z" fill="#101218" stroke="#D2A955" stroke-width="1.5"/>
         <path d="M9 22 C9 15 19 15 19 9" stroke="#D2A955" stroke-width="1.6" fill="none" stroke-linecap="round"/>
@@ -290,16 +270,32 @@
       </svg>
       El Último Baile
     </a>
-    <nav aria-label="Principal">
-      <ul>
-        <li><a href="./#inicio">Inicio</a></li>
-        <li><a href="./#hermandad">La hermandad</a></li>
-        <li><a href="./#raids">Raids</a></li>
-        <li><a href="./#botin">Loot</a></li>
-        <li><a href="./#reclutamiento">Reclutamiento</a></li>
-        <li><a href="./#raiders">Raiders</a></li>
-        <li><a href="primera-semana.html" class="activo" aria-current="page">Primera semana</a></li>
-        <li><a href="profesiones.html">Profesiones</a></li>
+    <button class="menu-movil" type="button" aria-expanded="false" aria-controls="menu-principal"><span class="rayas" aria-hidden="true"></span><span class="texto-menu">Menú</span></button>
+    <nav id="menu-principal" aria-label="Principal">
+      <ul class="menu">
+        <li class="grupo-menu">
+          <button class="titulo-menu" type="button" aria-expanded="false" aria-controls="sub-0">La hermandad</button>
+          <ul class="submenu" id="sub-0">
+            <li><a href="./#hermandad">Quiénes somos</a></li>
+            <li><a href="./#raids">Raids</a></li>
+            <li><a href="./#botin">Loot</a></li>
+            <li><a href="./#actividad">Actividad</a></li>
+            <li><a href="./#raiders">Raiders</a></li>
+          </ul>
+        </li>
+        <li class="grupo-menu">
+          <button class="titulo-menu" type="button" aria-expanded="false" aria-controls="sub-1">Reclutamiento</button>
+          <ul class="submenu" id="sub-1">
+            <li><a href="./#reclutamiento">A quién buscamos</a></li>
+            <li><a href="primera-semana.html">Tu primera semana</a></li>
+          </ul>
+        </li>
+        <li class="grupo-menu">
+          <button class="titulo-menu" type="button" aria-expanded="false" aria-controls="sub-2">Recursos</button>
+          <ul class="submenu" id="sub-2">
+            <li><a href="profesiones.html">Profesiones</a></li>
+          </ul>
+        </li>
       </ul>
     </nav>
     <a class="boton" href="https://discord.gg/mdKr9CPTTM" rel="noopener">Únete</a>
@@ -332,12 +328,6 @@
     <p class="legal"><a href="aviso-legal.html">Aviso legal y privacidad</a> · Sin cookies ni analítica</p>
   </div>
 </footer>
-<script>
-  // En móvil el menú se desplaza de lado: deja visible el enlace de esta página
-  (function () {
-    const a = document.querySelector(".barra nav a.activo"), ul = a && a.closest("ul");
-    if (ul && ul.scrollWidth > ul.clientWidth) ul.scrollLeft = a.offsetLeft - (ul.clientWidth - a.offsetWidth) / 2;
-  })();
-</script>
+<script src="comun/menu.js" defer></script>
 </body>
 </html>
