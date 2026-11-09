@@ -6,7 +6,7 @@
   const nav = barra.querySelector("nav");
   const botonMovil = barra.querySelector(".menu-movil");
   const grupos = [...barra.querySelectorAll(".grupo-menu")];
-  const esMovil = () => window.matchMedia("(max-width:960px)").matches;
+  const esMovil = () => window.matchMedia("(max-width:1100px)").matches;
 
   function cerrarGrupos(excepto) {
     grupos.forEach(g => {

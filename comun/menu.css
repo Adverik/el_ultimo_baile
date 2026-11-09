@@ -18,7 +18,7 @@
   background:#0b0c10;border:1px solid var(--filete);box-shadow:0 18px 40px rgba(0,0,0,.55);display:none}
 .submenu::before{content:"";position:absolute;left:0;right:0;top:-10px;height:10px}
 .grupo-menu.abierto>.submenu{display:block}
-@media (hover:hover) and (min-width:961px){
+@media (hover:hover) and (min-width:1101px){
   .grupo-menu:hover>.submenu{display:block}
   .grupo-menu:hover>.titulo-menu::after{transform:translateY(1px) rotate(225deg)}
 }
@@ -35,7 +35,7 @@
 .menu-movil .rayas{width:16px;height:2px;background:currentColor;position:relative}
 .menu-movil .rayas::before,.menu-movil .rayas::after{content:"";position:absolute;left:0;width:16px;height:2px;background:currentColor}
 .menu-movil .rayas::before{top:-5px}.menu-movil .rayas::after{top:5px}
-@media (max-width:960px){
+@media (max-width:1100px){
   .barra .fila1{gap:12px}
   .menu-movil{display:inline-flex}
   .barra nav{display:none;position:absolute;top:100%;left:0;right:0;margin:0;background:#0b0c10;border-bottom:1px solid var(--filete);
