@@ -303,6 +303,7 @@
   .como-entrar{text-align:center;color:var(--suave);margin:26px auto 0;max-width:720px}
   .como-entrar a{color:var(--oro-claro)}
   @media (max-width:820px){.tarjetas-union{grid-template-columns:1fr}.tarjeta-union{padding:26px 20px}}
+  @media (max-width:960px) and (min-width:721px){.clases,.roster{grid-template-columns:1fr 1fr}}
 </style>
 </head>
 <body>
@@ -317,13 +318,19 @@
       </svg>
       El Último Baile
     </a>
+    <ul class="rapidos">
+      <li><a class="enlace-menu" href="./#inicio">Inicio</a></li>
+      <li><a class="enlace-menu" href="./#hermandad">La hermandad</a></li>
+      <li><a class="enlace-menu" href="primera-semana.html">Primera semana</a></li>
+    </ul>
     <button class="menu-movil" type="button" aria-expanded="false" aria-controls="menu-principal"><span class="rayas" aria-hidden="true"></span><span class="texto-menu">Menú</span></button>
     <nav id="menu-principal" aria-label="Principal">
       <ul class="menu">
-        <li class="item-menu"><a class="enlace-menu" href="./#hermandad">La hermandad</a></li>
+        <li class="item-menu fijo"><a class="enlace-menu" href="./#inicio">Inicio</a></li>
+        <li class="item-menu fijo"><a class="enlace-menu" href="./#hermandad">La hermandad</a></li>
         <li class="grupo-menu">
-          <button class="titulo-menu" type="button" aria-expanded="false" aria-controls="sub-1">Raid</button>
-          <ul class="submenu" id="sub-1">
+          <button class="titulo-menu" type="button" aria-expanded="false" aria-controls="sub-2">Raid</button>
+          <ul class="submenu" id="sub-2">
             <li><a href="./#raids"><span class="t">Noches de raid</span><span class="d">Horario y lo que pedimos</span></a></li>
             <li><a href="./#botin"><span class="t">Loot <span class="etiqueta-menu">En revisión</span></span><span class="d">Cómo se reparte el botín</span></a></li>
             <li><a href="./#actividad"><span class="t">Actividad</span><span class="d">Próxima raid y últimas noches</span></a></li>
@@ -331,10 +338,10 @@
           </ul>
         </li>
         <li class="item-menu"><a class="enlace-menu" href="./#reclutamiento">Reclutamiento</a></li>
-        <li class="item-menu"><a class="enlace-menu" href="primera-semana.html">Primera semana</a></li>
+        <li class="item-menu fijo"><a class="enlace-menu" href="primera-semana.html">Primera semana</a></li>
         <li class="grupo-menu">
-          <button class="titulo-menu" type="button" aria-expanded="false" aria-controls="sub-4">Recursos</button>
-          <ul class="submenu" id="sub-4">
+          <button class="titulo-menu" type="button" aria-expanded="false" aria-controls="sub-5">Recursos</button>
+          <ul class="submenu" id="sub-5">
             <li><a href="profesiones.html"><span class="t">Profesiones <span class="etiqueta-menu">Nuevo</span></span><span class="d">Quién fabrica qué en la hermandad</span></a></li>
           </ul>
         </li>

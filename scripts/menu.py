@@ -10,8 +10,11 @@ PAGINAS = ["index.html", "primera-semana.html", "profesiones.html"]
 DISCORD = "https://discord.gg/mdKr9CPTTM"
 
 # Enlaces directos (secciones de base) y desplegables (temas que tendrán más cosas dentro).
+# FIJOS: en pantallas estrechas se quedan siempre a la vista, junto al botón Menú.
+FIJOS = ["Inicio", "La hermandad", "Primera semana"]
 # Desplegable: (título, [(texto, enlace, descripción, etiqueta o None), ...])
 MENU = [
+    ("Inicio", "./#inicio"),
     ("La hermandad", "./#hermandad"),
     ("Raid", [
         ("Noches de raid", "./#raids", "Horario y lo que pedimos", None),
@@ -37,7 +40,8 @@ def cabecera():
     grupos = []
     for i, (titulo, destino) in enumerate(MENU):
         if isinstance(destino, str):
-            grupos.append(f'        <li class="item-menu"><a class="enlace-menu" href="{destino}">{titulo}</a></li>')
+            fijo = " fijo" if titulo in FIJOS else ""
+            grupos.append(f'        <li class="item-menu{fijo}"><a class="enlace-menu" href="{destino}">{titulo}</a></li>')
             continue
         items = []
         for texto, href, desc, etiqueta in destino:
@@ -55,6 +59,9 @@ def cabecera():
       {ESCUDO}
       El Último Baile
     </a>
+    <ul class="rapidos">
+{chr(10).join(f'      <li><a class="enlace-menu" href="{d}">{t}</a></li>' for t, d in MENU if isinstance(d, str) and t in FIJOS)}
+    </ul>
     <button class="menu-movil" type="button" aria-expanded="false" aria-controls="menu-principal"><span class="rayas" aria-hidden="true"></span><span class="texto-menu">Menú</span></button>
     <nav id="menu-principal" aria-label="Principal">
       <ul class="menu">

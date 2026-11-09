@@ -18,7 +18,7 @@
   background:#0b0c10;border:1px solid var(--filete);box-shadow:0 18px 40px rgba(0,0,0,.55);display:none}
 .submenu::before{content:"";position:absolute;left:0;right:0;top:-10px;height:10px}
 .grupo-menu.abierto>.submenu{display:block}
-@media (hover:hover) and (min-width:1101px){
+@media (hover:hover) and (min-width:1241px){
   .grupo-menu:hover>.submenu{display:block}
   .grupo-menu:hover>.titulo-menu::after{transform:translateY(1px) rotate(225deg)}
 }
@@ -35,7 +35,7 @@
 .menu-movil .rayas{width:16px;height:2px;background:currentColor;position:relative}
 .menu-movil .rayas::before,.menu-movil .rayas::after{content:"";position:absolute;left:0;width:16px;height:2px;background:currentColor}
 .menu-movil .rayas::before{top:-5px}.menu-movil .rayas::after{top:5px}
-@media (max-width:1100px){
+@media (max-width:1240px){
   .barra .fila1{gap:12px}
   .menu-movil{display:inline-flex}
   .barra nav{display:none;position:absolute;top:100%;left:0;right:0;margin:0;background:#0b0c10;border-bottom:1px solid var(--filete);
@@ -55,6 +55,26 @@
   .barra nav{padding:10px 24px 18px}
 }
 @media (max-width:400px){
-  .marca{font-size:.86rem;letter-spacing:.08em}
+  .marca{font-size:.82rem;letter-spacing:.06em;gap:8px}
+  .marca svg{width:24px;height:28px}
+  .barra .boton{padding:9px 10px;letter-spacing:.12em}
+  .menu-movil{padding:9px 10px}
+  .rapidos .enlace-menu{padding:12px 7px;letter-spacing:.1em}
   .menu-movil .texto-menu{display:none}
+}
+
+/* Accesos rápidos: en pantallas estrechas, junto al botón Menú */
+.rapidos{display:none;list-style:none;margin:0 0 0 auto;padding:0;gap:2px}
+@media (max-width:1240px){
+  .rapidos{display:flex}
+  .rapidos .enlace-menu{padding:12px 10px}
+  .menu-movil{margin-left:6px}
+  .menu>.fijo{display:none}
+}
+@media (max-width:960px){
+  .barra .fila1{flex-wrap:wrap;height:auto;padding-top:10px;row-gap:0}
+  .marca{flex:1}
+  .rapidos{order:5;flex:0 0 100%;justify-content:center;margin:8px 0 0;border-top:1px solid var(--linea);padding:2px 0}
+  .rapidos .enlace-menu{font-size:.7rem;letter-spacing:.14em;padding:12px 10px}
+  .menu-movil{margin-left:0}
 }

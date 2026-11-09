@@ -6,7 +6,7 @@
   const nav = barra.querySelector("nav");
   const botonMovil = barra.querySelector(".menu-movil");
   const grupos = [...barra.querySelectorAll(".grupo-menu")];
-  const esMovil = () => window.matchMedia("(max-width:1100px)").matches;
+  const esMovil = () => window.matchMedia("(max-width:1240px)").matches;
 
   function cerrarGrupos(excepto) {
     grupos.forEach(g => {
@@ -37,7 +37,7 @@
     botonMovil.setAttribute("aria-expanded", String(abrir));
   });
   // Al elegir una opción, se cierra todo
-  barra.querySelectorAll("nav a").forEach(a => a.addEventListener("click", () => { cerrarGrupos(); cerrarMovil(); }));
+  barra.querySelectorAll("nav a, .rapidos a").forEach(a => a.addEventListener("click", () => { cerrarGrupos(); cerrarMovil(); }));
   document.addEventListener("click", e => { if (!barra.contains(e.target)) { cerrarGrupos(); cerrarMovil(); } });
   document.addEventListener("keydown", e => {
     if (e.key !== "Escape") return;
@@ -49,13 +49,17 @@
   // Página activa (Primera semana, Profesiones...)
   const pagina = location.pathname.split("/").pop() || "index.html";
   const marcar = enlace => {
-    barra.querySelectorAll("nav a.activo").forEach(a => { a.classList.remove("activo"); a.removeAttribute("aria-current"); });
+    barra.querySelectorAll("a.activo").forEach(a => { a.classList.remove("activo"); a.removeAttribute("aria-current"); });
     grupos.forEach(g => g.classList.remove("activo"));
     if (!enlace) return;
-    enlace.classList.add("activo");
-    enlace.setAttribute("aria-current", enlace.hash ? "location" : "page");
-    const g = enlace.closest(".grupo-menu");
-    if (g) g.classList.add("activo");
+    // El mismo destino puede estar en el menú y en los accesos rápidos: se marcan todos
+    barra.querySelectorAll("nav a, .rapidos a").forEach(a => {
+      if (a.getAttribute("href") !== enlace.getAttribute("href")) return;
+      a.classList.add("activo");
+      a.setAttribute("aria-current", a.hash ? "location" : "page");
+      const g = a.closest(".grupo-menu");
+      if (g) g.classList.add("activo");
+    });
   };
   const enlaces = [...barra.querySelectorAll("nav a")];
   const dePagina = enlaces.find(a => !a.hash && a.pathname.split("/").pop() === pagina);
@@ -72,5 +76,5 @@
   }, { rootMargin: "-45% 0px -50% 0px" });
   conSeccion.forEach(a => obs.observe(document.querySelector(a.hash)));
   const inicio = document.getElementById("inicio");
-  if (inicio) new IntersectionObserver(es => es.forEach(e => { if (e.isIntersecting) marcar(null); }), { rootMargin: "-45% 0px -50% 0px" }).observe(inicio);
+  if (inicio) new IntersectionObserver(es => es.forEach(e => { if (e.isIntersecting) marcar(barra.querySelector('nav a[href="./#inicio"]')); }), { rootMargin: "-45% 0px -50% 0px" }).observe(inicio);
 })();
