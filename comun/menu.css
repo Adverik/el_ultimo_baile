@@ -2,7 +2,8 @@
 .barra{position:sticky;top:0;z-index:30;background:rgba(7,8,10,.95);backdrop-filter:blur(8px);border-bottom:1px solid var(--filete)}
 .barra .fila1{display:flex;align-items:center;gap:20px;height:74px;position:relative}
 .marca{display:flex;align-items:center;gap:12px;text-decoration:none;font-family:var(--titulos);font-weight:600;font-size:1.2rem;letter-spacing:.14em;text-transform:uppercase;color:var(--oro);white-space:nowrap}
-.barra nav{margin-left:auto}
+.barra nav{margin-left:16px}
+.barra .fila1>.boton{margin-left:auto}
 .barra .boton{padding:13px 22px;font-size:.78rem}
 .menu{list-style:none;display:flex;gap:4px;margin:0;padding:0}
 .grupo-menu{position:relative}
@@ -64,17 +65,19 @@
 }
 
 /* Accesos rápidos: en pantallas estrechas, junto al botón Menú */
-.rapidos{display:none;list-style:none;margin:0 0 0 auto;padding:0;gap:2px}
+.rapidos{display:none;list-style:none;margin:0 0 0 16px;padding:0;gap:2px}
 @media (max-width:1240px){
   .rapidos{display:flex}
   .rapidos .enlace-menu{padding:12px 10px}
-  .menu-movil{margin-left:6px}
+  .menu-movil{margin-left:auto}
+  .barra .fila1>.boton{margin-left:0}
   .menu>.fijo{display:none}
 }
 @media (max-width:960px){
   .barra .fila1{flex-wrap:wrap;height:auto;padding-top:10px;row-gap:0}
   .marca{flex:1}
-  .rapidos{order:5;flex:0 0 100%;justify-content:center;margin:8px 0 0;border-top:1px solid var(--linea);padding:2px 0}
+  .rapidos{order:5;flex:0 0 100%;justify-content:flex-start;margin:8px 0 0;border-top:1px solid var(--linea);padding:2px 0 2px 0}
+  .rapidos li:first-child .enlace-menu{padding-left:0}
   .rapidos .enlace-menu{font-size:.7rem;letter-spacing:.14em;padding:12px 10px}
-  .menu-movil{margin-left:0}
+  .menu-movil{margin-left:auto}
 }
