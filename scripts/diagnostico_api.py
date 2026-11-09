@@ -115,6 +115,28 @@ def main():
         print(f"\n(estados de raid: {estados}; dificultades: {dific})")
     mostrar("Asistencia", "/v1/attendance")
 
+    # Profesiones: ¿algún campo de profesiones, recetas o artesanía? (solo rutas de campos, nunca valores)
+    def rutas(dato, base=""):
+        if isinstance(dato, dict):
+            for k, v in dato.items():
+                r = f"{base}.{k}" if base else k
+                if any(x in k.lower() for x in ("prof", "recipe", "craft", "skill", "trade")):
+                    yield r, type(v).__name__ + (f"[{len(v)}]" if isinstance(v, (list, dict)) else "")
+                yield from rutas(v, r)
+        elif isinstance(dato, list) and dato:
+            yield from rutas(dato[0], base + "[0]")
+    print("\n===== Búsqueda de campos de profesiones")
+    fuentes = [("characters", "/v1/characters"), ("team", "/v1/team")]
+    if per:
+        fuentes.append(("historical_data", f"/v1/historical_data?period={per}"))
+    for nombre, ruta in fuentes:
+        datos, error = get(ruta)
+        encontrados = sorted(set(rutas(datos))) if not error else []
+        print(f"  {nombre}: {error or (str(len(encontrados)) + ' campos')}")
+        for r, t in encontrados[:40]:
+            print(f"    {r}: {t}")
+    mostrar("Personajes", "/v1/characters")
+
 
 if __name__ == "__main__":
     main()
