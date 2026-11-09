@@ -74,6 +74,8 @@ def main():
         if coinciden:
             buenos.append((suf, d))
 
+    forever(H, chars)
+    return
     print("\n===== Perfil de personajes por namespace (profile-*)")
     for suf in sufijos:
         ns = f"profile-{suf}-eu" if suf else "profile-eu"
@@ -99,6 +101,47 @@ def main():
             print("    campos del perfil:"); forma(ejemplo, 3, 4)
             print("    profesiones:"); forma(prof, 3, 5)
             break
+
+
+def forever(H, chars):
+    """Prueba el acceso de Forever con el roster de la hermandad (nombres de reinos y gremio: públicos)."""
+    print("\n===== Forever: reinos y roster de la hermandad")
+    reinos_wa = sorted({str(c.get("realm", "")) for c in chars})
+    print(f"  reino en wowaudit: {reinos_wa}")
+    slugs = set()
+    for ns in ("dynamic-forever-eu", "profile-forever-eu"):
+        st, d = http(f"{API}/data/wow/realm/index?namespace={ns}&locale=es_ES", H)
+        rs = (d or {}).get("realms", [])
+        print(f"  realm index {ns}: HTTP {st}, {len(rs)} reinos")
+        for x in rs[:40]:
+            print(f"    - {x.get('name')} -> {x.get('slug')}")
+            slugs.add(x.get("slug"))
+    for r in reinos_wa:
+        base = r.lower().split("(")[0].strip()
+        slugs |= {base.replace(" ", "-"), "normal", "pve", "eu-normal", "forever"}
+    gremios = ["el-%C3%BAltimo-baile", "el-ultimo-baile"]
+    for slug in sorted(s for s in slugs if s):
+        for g in gremios:
+            for ns in ("profile-forever-eu",):
+                st, d = http(f"{API}/data/wow/guild/{slug}/{g}/roster?namespace={ns}&locale=es_ES", H)
+                if st == 200 or slug in ("normal",):
+                    print(f"  roster {slug}/{g} ({ns}): HTTP {st}")
+                if st == 200:
+                    miembros = (d or {}).get("members", [])
+                    nombres = [str(m.get("character", {}).get("name", "")) for m in miembros]
+                    print(f"    miembros: {len(miembros)}; nombres con espacio: {sum(' ' in n for n in nombres)}; con guion: {sum('-' in n for n in nombres)}")
+                    print("    forma de un miembro:"); forma(miembros[0] if miembros else {}, 3, 5)
+                    if miembros:
+                        ch = miembros[0].get("character", {})
+                        rs = (ch.get("realm") or {}).get("slug", slug)
+                        nm = urllib.parse.quote(str(ch.get("name", "")).lower().replace(" ", "-"))
+                        sp, perfil = http(f"{API}/profile/wow/character/{rs}/{nm}?namespace={ns}&locale=es_ES", H)
+                        print(f"    perfil del primero: HTTP {sp}")
+                        if perfil: forma(perfil, 3, 4)
+                        sp, prof = http(f"{API}/profile/wow/character/{rs}/{nm}/professions?namespace={ns}&locale=es_ES", H)
+                        print(f"    profesiones del primero: HTTP {sp}")
+                        if prof: forma(prof, 3, 5)
+                    return
 
 
 if __name__ == "__main__":
