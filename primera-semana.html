@@ -70,13 +70,13 @@
 
   /* Barra superior fija: marca, enlaces y botón en una fila (en móvil los enlaces bajan a una segunda fila) */
   .barra{position:sticky;top:0;z-index:30;background:rgba(7,8,10,.94);backdrop-filter:blur(8px);border-bottom:1px solid var(--filete)}
-  .barra .fila1{display:flex;align-items:center;gap:28px;height:76px;max-width:1260px}
+  .barra .fila1{display:flex;align-items:center;gap:24px;height:76px;max-width:1320px}
   .marca{display:flex;align-items:center;gap:12px;text-decoration:none;font-family:var(--titulos);font-weight:600;font-size:1.2rem;letter-spacing:.14em;text-transform:uppercase;color:var(--oro);white-space:nowrap}
   .barra nav{margin-left:auto}
   .barra .boton{padding:13px 22px;font-size:.78rem}
-  .barra nav ul{list-style:none;display:flex;gap:26px;margin:0;padding:0;overflow-x:auto;scrollbar-width:none}
+  .barra nav ul{list-style:none;display:flex;gap:20px;margin:0;padding:0;overflow-x:auto;scrollbar-width:none}
   .barra nav ul::-webkit-scrollbar{display:none}
-  .barra nav a{font:600 .78rem/1 var(--texto-f);letter-spacing:.2em;text-transform:uppercase;color:var(--suave);text-decoration:none;white-space:nowrap;padding:6px 0;display:inline-block}
+  .barra nav a{font:600 .76rem/1 var(--texto-f);letter-spacing:.15em;text-transform:uppercase;color:var(--suave);text-decoration:none;white-space:nowrap;padding:6px 0;display:inline-block}
   .barra nav a.activo{color:var(--oro-claro)}
   .barra nav a:hover{color:#a9c4ff}
 
@@ -231,7 +231,7 @@
     .marco{padding:44px 32px}
   }
   /* Menú en dos filas cuando no cabe en una (portátil pequeño, tablet y móvil) */
-  @media (max-width:1320px){
+  @media (max-width:1360px){
     .barra .fila1{height:auto;flex-wrap:wrap;gap:0 12px;padding-top:10px}
     .marca{flex:1}
     .barra nav{order:3;flex:0 0 100%;min-width:0;margin:8px 0 0;border-top:1px solid var(--linea)}
@@ -299,6 +299,7 @@
         <li><a href="./#reclutamiento">Reclutamiento</a></li>
         <li><a href="./#raiders">Raiders</a></li>
         <li><a href="primera-semana.html" class="activo" aria-current="page">Primera semana</a></li>
+        <li><a href="profesiones.html">Profesiones</a></li>
       </ul>
     </nav>
     <a class="boton" href="https://discord.gg/mdKr9CPTTM" rel="noopener">Únete</a>
