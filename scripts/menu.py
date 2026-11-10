@@ -25,8 +25,7 @@ MENU = [
     ("Reclutamiento", "./#reclutamiento"),
     ("Primera semana", "primera-semana.html"),
     ("Recursos", [
-        ("Profesiones", "profesiones.html", "Todas las recetas y quién sabe hacerlas", "Nuevo"),
-        ("Recetas raras y épicas", "recetas.html", "Lo más valioso que se fabrica en la hermandad", None),
+        ("Profesiones", "profesiones.html", "Quién sabe hacer qué, y las recetas raras y épicas", "Nuevo"),
     ]),
 ]
 

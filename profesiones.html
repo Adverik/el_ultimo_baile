@@ -246,6 +246,10 @@
   }
   @media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
 
+  .vistas{display:inline-flex;margin:22px auto 0;border:1px solid var(--filete);padding:4px;gap:4px}
+  .vistas a{padding:10px 18px;font:600 .74rem/1 var(--texto-f);letter-spacing:.16em;text-transform:uppercase;color:var(--suave);text-decoration:none}
+  .vistas a:hover{color:var(--texto)}
+  .vistas a[aria-current="page"]{background:linear-gradient(180deg,#e2bf73,#b88a3a);color:#0b0b0b}
   .pagina{padding:64px 0 110px}
   .cab-pagina{text-align:center;margin-bottom:34px}
   .cab-pagina h1{font-family:var(--titulos);font-weight:600;font-size:clamp(1.6rem,3.4vw,2.4rem);letter-spacing:.06em;text-transform:uppercase;line-height:1.15;margin:0 0 12px}
@@ -329,8 +333,7 @@
         <li class="grupo-menu">
           <button class="titulo-menu" type="button" aria-expanded="false" aria-controls="sub-5">Recursos</button>
           <ul class="submenu" id="sub-5">
-            <li><a href="profesiones.html"><span class="t">Profesiones <span class="etiqueta-menu">Nuevo</span></span><span class="d">Todas las recetas y quién sabe hacerlas</span></a></li>
-            <li><a href="recetas.html"><span class="t">Recetas raras y épicas</span><span class="d">Lo más valioso que se fabrica en la hermandad</span></a></li>
+            <li><a href="profesiones.html"><span class="t">Profesiones <span class="etiqueta-menu">Nuevo</span></span><span class="d">Quién sabe hacer qué, y las recetas raras y épicas</span></a></li>
           </ul>
         </li>
       </ul>
@@ -342,10 +345,11 @@
 <main class="pagina">
   <div class="envoltura">
     <div class="cab-pagina">
-      <span class="etiqueta">Recursos · Profesiones</span>
+      <span class="etiqueta">Recursos</span>
       <h1>Profesiones de la hermandad</h1>
       <p>Todas las recetas de cada profesión y quién sabe hacerlas. Pasa el ratón por una receta para ver qué necesita, o pulsa para abrirla en Wowhead.</p>
       <p class="fuente" id="fuente" hidden></p>
+      <nav class="vistas" aria-label="Vista de profesiones"><a href="profesiones.html" aria-current="page">Todas las recetas</a><a href="recetas.html">Raras y épicas</a></nav>
     </div>
     <p class="aviso" id="aviso" hidden><b>Cargando el catálogo.</b> Las profesiones aparecerán aquí en cuanto el robot termine de descargar las recetas de Blizzard.</p>
     <div class="pestanas" id="pestanas" role="tablist" aria-label="Profesión"></div>
@@ -358,7 +362,6 @@
       <div class="tabla-cont"><table class="audit" id="tabla"></table></div>
       <p class="leyenda">✓ sabe hacerla · el número es cuántos de la hermandad la saben · debajo de cada nombre, su nivel y el % de recetas que conoce.</p>
     </div>
-    <p class="vacio"><a href="recetas.html" style="color:var(--oro-claro)">Ver solo las recetas raras y épicas →</a></p>
   </div>
 </main>
 

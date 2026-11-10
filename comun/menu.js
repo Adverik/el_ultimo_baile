@@ -47,7 +47,10 @@
   });
 
   // Página activa (Primera semana, Profesiones...)
-  const pagina = location.pathname.split("/").pop() || "index.html";
+  // Páginas que cuelgan de otra entrada del menú
+  const ALIAS = { "recetas.html": "profesiones.html" };
+  const leida = location.pathname.split("/").pop() || "index.html";
+  const pagina = ALIAS[leida] || leida;
   const marcar = enlace => {
     barra.querySelectorAll("a.activo").forEach(a => { a.classList.remove("activo"); a.removeAttribute("aria-current"); });
     grupos.forEach(g => g.classList.remove("activo"));
