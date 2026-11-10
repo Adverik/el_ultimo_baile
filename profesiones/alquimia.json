@@ -15,9 +15,9 @@
       "personaje": "Dio Hotmetal",
       "clase": "hunter",
       "raider": false,
-      "nivel": 150,
+      "nivel": 152,
       "max": 225,
-      "pct": 12
+      "pct": 13
     },
     {
       "personaje": "Fran Furion",
@@ -55,15 +55,15 @@
       "personaje": "Genethika Brisaveloz",
       "clase": "hunter",
       "raider": false,
-      "nivel": 91,
+      "nivel": 97,
       "max": 150,
-      "pct": 7
+      "pct": 9
     },
     {
       "personaje": "Nelv Stardancer",
       "clase": "druid",
       "raider": false,
-      "nivel": 82,
+      "nivel": 84,
       "max": 150,
       "pct": 7
     },
@@ -71,7 +71,7 @@
       "personaje": "Takkaao Valengri",
       "clase": "warlock",
       "raider": false,
-      "nivel": 27,
+      "nivel": 33,
       "max": 75,
       "pct": 3
     }
@@ -213,7 +213,8 @@
             1,
             2,
             3,
-            5
+            5,
+            6
           ]
         },
         {
@@ -1631,7 +1632,9 @@
               "50"
             ]
           },
-          "quien": []
+          "quien": [
+            1
+          ]
         },
         {
           "id": 54539,
@@ -2634,6 +2637,7 @@
             ]
           },
           "quien": [
+            6,
             7
           ]
         },
@@ -4478,7 +4482,9 @@
               "1"
             ]
           },
-          "quien": []
+          "quien": [
+            1
+          ]
         },
         {
           "id": 54664,
@@ -5100,7 +5106,8 @@
             1,
             2,
             3,
-            5
+            5,
+            6
           ]
         },
         {
@@ -5491,6 +5498,7 @@
             3,
             4,
             5,
+            6,
             7
           ]
         },

@@ -7,7 +7,7 @@
       "personaje": "Edoras Duskranger",
       "clase": "hunter",
       "raider": true,
-      "nivel": 206,
+      "nivel": 216,
       "max": 225,
       "pct": 67
     },
@@ -15,7 +15,7 @@
       "personaje": "Palmira Natblida",
       "clase": "rogue",
       "raider": true,
-      "nivel": 202,
+      "nivel": 203,
       "max": 225,
       "pct": 33
     },
@@ -23,7 +23,15 @@
       "personaje": "Diana Flechaveloz",
       "clase": "hunter",
       "raider": false,
-      "nivel": 193,
+      "nivel": 200,
+      "max": 225,
+      "pct": 33
+    },
+    {
+      "personaje": "Runa Ruina",
+      "clase": "shaman",
+      "raider": true,
+      "nivel": 173,
       "max": 225,
       "pct": 33
     },
@@ -31,7 +39,7 @@
       "personaje": "Manelhon Gargon",
       "clase": "shaman",
       "raider": true,
-      "nivel": 161,
+      "nivel": 172,
       "max": 225,
       "pct": 33
     },
@@ -41,14 +49,6 @@
       "raider": false,
       "nivel": 150,
       "max": 150,
-      "pct": 33
-    },
-    {
-      "personaje": "Runa Ruina",
-      "clase": "shaman",
-      "raider": true,
-      "nivel": 150,
-      "max": 225,
       "pct": 33
     },
     {
@@ -79,15 +79,7 @@
       "personaje": "Filps Pachamamamon",
       "clase": "hunter",
       "raider": false,
-      "nivel": 91,
-      "max": 150,
-      "pct": 33
-    },
-    {
-      "personaje": "Sykah Brisaveloz",
-      "clase": "hunter",
-      "raider": false,
-      "nivel": 90,
+      "nivel": 99,
       "max": 150,
       "pct": 33
     },
@@ -95,7 +87,15 @@
       "personaje": "Fitipaldi Sendaumbria",
       "clase": "rogue",
       "raider": true,
-      "nivel": 88,
+      "nivel": 99,
+      "max": 150,
+      "pct": 33
+    },
+    {
+      "personaje": "Sykah Brisaveloz",
+      "clase": "hunter",
+      "raider": false,
+      "nivel": 98,
       "max": 150,
       "pct": 33
     },

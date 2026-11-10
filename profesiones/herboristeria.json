@@ -44,6 +44,14 @@
       "pct": 33
     },
     {
+      "personaje": "Nelv Stardancer",
+      "clase": "druid",
+      "raider": false,
+      "nivel": 114,
+      "max": 150,
+      "pct": 33
+    },
+    {
       "personaje": "Layrela Rondanit",
       "clase": "druid",
       "raider": true,
@@ -52,18 +60,10 @@
       "pct": 33
     },
     {
-      "personaje": "Nelv Stardancer",
-      "clase": "druid",
-      "raider": false,
-      "nivel": 111,
-      "max": 150,
-      "pct": 33
-    },
-    {
       "personaje": "Genethika Brisaveloz",
       "clase": "hunter",
       "raider": false,
-      "nivel": 99,
+      "nivel": 103,
       "max": 150,
       "pct": 33
     },
@@ -71,7 +71,7 @@
       "personaje": "Takkaao Valengri",
       "clase": "warlock",
       "raider": false,
-      "nivel": 57,
+      "nivel": 59,
       "max": 75,
       "pct": 33
     },
@@ -95,7 +95,7 @@
       "personaje": "Fitipaldi Sendaumbria",
       "clase": "rogue",
       "raider": true,
-      "nivel": 11,
+      "nivel": 14,
       "max": 75,
       "pct": 0
     },

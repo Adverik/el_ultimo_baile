@@ -51,12 +51,12 @@
           "clase": "warrior"
         },
         {
-          "n": "Espartaco Gladiador",
-          "clase": "warrior"
-        },
-        {
           "n": "Tharindel Magnaluz",
           "clase": "paladin"
+        },
+        {
+          "n": "Espartaco Gladiador",
+          "clase": "warrior"
         },
         {
           "n": "Coloso Tempestad",
@@ -69,6 +69,10 @@
         {
           "n": "Hugo Forjaluz",
           "clase": "paladin"
+        },
+        {
+          "n": "Mosu Warryn",
+          "clase": "warrior"
         }
       ]
     },
@@ -697,6 +701,10 @@
       "profesion": "Peletería",
       "personajes": [
         {
+          "n": "Palmira Natblida",
+          "clase": "rogue"
+        },
+        {
           "n": "Edoras Duskranger",
           "clase": "hunter"
         },
@@ -705,15 +713,15 @@
           "clase": "shaman"
         },
         {
-          "n": "Palmira Natblida",
-          "clase": "rogue"
+          "n": "Manelhon Gargon",
+          "clase": "shaman"
         },
         {
           "n": "Aurelio Amador",
           "clase": "rogue"
         },
         {
-          "n": "Manelhon Gargon",
+          "n": "Runa Ruina",
           "clase": "shaman"
         },
         {
@@ -723,10 +731,6 @@
         {
           "n": "Ildaren Belisar",
           "clase": "rogue"
-        },
-        {
-          "n": "Runa Ruina",
-          "clase": "shaman"
         },
         {
           "n": "Sykah Brisaveloz",
@@ -776,12 +780,16 @@
       "profesion": "Peletería",
       "personajes": [
         {
+          "n": "Palmira Natblida",
+          "clase": "rogue"
+        },
+        {
           "n": "Memas Tour",
           "clase": "shaman"
         },
         {
-          "n": "Palmira Natblida",
-          "clase": "rogue"
+          "n": "Runa Ruina",
+          "clase": "shaman"
         },
         {
           "n": "Lithanas Chafardero",
@@ -790,10 +798,6 @@
         {
           "n": "Ildaren Belisar",
           "clase": "rogue"
-        },
-        {
-          "n": "Runa Ruina",
-          "clase": "shaman"
         },
         {
           "n": "Sykah Brisaveloz",
@@ -861,6 +865,55 @@
       ]
     },
     {
+      "id": 55140,
+      "n": "Cinturón de cuero de acechador",
+      "q": "rare",
+      "ico": "132514",
+      "reac": [
+        [
+          "Cuero pesado",
+          8
+        ],
+        [
+          "Pellejo medio curado",
+          2
+        ],
+        [
+          "Elemental de aire",
+          1
+        ]
+      ],
+      "obj": {
+        "arm": "63 armadura",
+        "id": 252521,
+        "ilvl": 35,
+        "lig": "Se liga al recogerlo",
+        "n": "Cinturón de cuero de acechador",
+        "q": "rare",
+        "ranura": "Cintura",
+        "req": 30,
+        "stats": [
+          "+6 intelecto",
+          "+9 agilidad",
+          "+6 aguante",
+          "+4 espíritu"
+        ],
+        "sub": "Cuero",
+        "venta": [
+          "0",
+          "21",
+          "30"
+        ]
+      },
+      "profesion": "Peletería",
+      "personajes": [
+        {
+          "n": "Palmira Natblida",
+          "clase": "rogue"
+        }
+      ]
+    },
+    {
       "id": 55203,
       "n": "Cinturón de cuero de camorrista",
       "q": "rare",
@@ -917,6 +970,301 @@
       ]
     },
     {
+      "id": 55139,
+      "n": "Cinturón de cuero de celador",
+      "q": "rare",
+      "ico": "132495",
+      "reac": [
+        [
+          "Cuero pesado",
+          8
+        ],
+        [
+          "Pellejo medio curado",
+          2
+        ],
+        [
+          "Elemental de tierra",
+          1
+        ]
+      ],
+      "obj": {
+        "arm": "63 armadura",
+        "id": 252460,
+        "ilvl": 35,
+        "lig": "Se liga al recogerlo",
+        "n": "Cinturón de cuero de celador",
+        "q": "rare",
+        "ranura": "Cintura",
+        "req": 30,
+        "stats": [
+          "+6 agilidad",
+          "+6 fuerza",
+          "+9 aguante",
+          "+38 bonus de armadura"
+        ],
+        "sub": "Cuero",
+        "venta": [
+          "0",
+          "22",
+          "84"
+        ]
+      },
+      "profesion": "Peletería",
+      "personajes": [
+        {
+          "n": "Palmira Natblida",
+          "clase": "rogue"
+        }
+      ]
+    },
+    {
+      "id": 55137,
+      "n": "Cinturón de cuero de clamacielos",
+      "q": "rare",
+      "ico": "236903",
+      "reac": [
+        [
+          "Cuero pesado",
+          8
+        ],
+        [
+          "Pellejo medio curado",
+          2
+        ],
+        [
+          "Elemental de agua",
+          1
+        ]
+      ],
+      "obj": {
+        "arm": "63 armadura",
+        "id": 252522,
+        "ilvl": 35,
+        "lig": "Se liga al recogerlo",
+        "n": "Cinturón de cuero de clamacielos",
+        "q": "rare",
+        "ranura": "Cintura",
+        "req": 30,
+        "stats": [
+          "+6 intelecto",
+          "+6 aguante",
+          "+10 poder con hechizos",
+          "+4 espíritu"
+        ],
+        "sub": "Cuero",
+        "venta": [
+          "0",
+          "21",
+          "39"
+        ]
+      },
+      "profesion": "Peletería",
+      "personajes": [
+        {
+          "n": "Palmira Natblida",
+          "clase": "rogue"
+        }
+      ]
+    },
+    {
+      "id": 55136,
+      "n": "Cinturón de cuero de ensalmador",
+      "q": "rare",
+      "ico": "132515",
+      "reac": [
+        [
+          "Cuero pesado",
+          8
+        ],
+        [
+          "Pellejo medio curado",
+          2
+        ],
+        [
+          "Perla iridiscente",
+          1
+        ]
+      ],
+      "obj": {
+        "arm": "63 armadura",
+        "id": 252523,
+        "ilvl": 35,
+        "lig": "Se liga al recogerlo",
+        "n": "Cinturón de cuero de ensalmador",
+        "q": "rare",
+        "ranura": "Cintura",
+        "req": 30,
+        "stats": [
+          "+6 intelecto",
+          "+4 aguante",
+          "+6 Daño con hechizos",
+          "+19 Sanación con hechizos",
+          "+6 espíritu"
+        ],
+        "sub": "Cuero",
+        "venta": [
+          "0",
+          "21",
+          "46"
+        ]
+      },
+      "profesion": "Peletería",
+      "personajes": [
+        {
+          "n": "Palmira Natblida",
+          "clase": "rogue"
+        }
+      ]
+    },
+    {
+      "id": 55138,
+      "n": "Cinturón de cuero de hostigador",
+      "q": "rare",
+      "ico": "236895",
+      "reac": [
+        [
+          "Cuero pesado",
+          8
+        ],
+        [
+          "Pellejo medio curado",
+          2
+        ],
+        [
+          "Citrino",
+          1
+        ]
+      ],
+      "obj": {
+        "arm": "63 armadura",
+        "id": 252461,
+        "ilvl": 35,
+        "lig": "Se liga al recogerlo",
+        "n": "Cinturón de cuero de hostigador",
+        "q": "rare",
+        "ranura": "Cintura",
+        "req": 30,
+        "stats": [
+          "+4 intelecto",
+          "+9 fuerza",
+          "+6 aguante",
+          "+7 poder con hechizos"
+        ],
+        "sub": "Cuero",
+        "venta": [
+          "0",
+          "22",
+          "92"
+        ]
+      },
+      "profesion": "Peletería",
+      "personajes": [
+        {
+          "n": "Palmira Natblida",
+          "clase": "rogue"
+        }
+      ]
+    },
+    {
+      "id": 55142,
+      "n": "Cinturón de cuero de merodeador",
+      "q": "rare",
+      "ico": "236918",
+      "reac": [
+        [
+          "Cuero pesado",
+          8
+        ],
+        [
+          "Pellejo medio curado",
+          2
+        ],
+        [
+          "Jade",
+          1
+        ]
+      ],
+      "obj": {
+        "arm": "63 armadura",
+        "id": 252459,
+        "ilvl": 35,
+        "lig": "Se liga al recogerlo",
+        "n": "Cinturón de cuero de merodeador",
+        "q": "rare",
+        "ranura": "Cintura",
+        "req": 30,
+        "stats": [
+          "+4 intelecto",
+          "+6 agilidad",
+          "+9 fuerza",
+          "+6 aguante"
+        ],
+        "sub": "Cuero",
+        "venta": [
+          "0",
+          "22",
+          "76"
+        ]
+      },
+      "profesion": "Peletería",
+      "personajes": [
+        {
+          "n": "Palmira Natblida",
+          "clase": "rogue"
+        }
+      ]
+    },
+    {
+      "id": 55141,
+      "n": "Cinturón de cuero de vagador",
+      "q": "rare",
+      "ico": "236896",
+      "reac": [
+        [
+          "Cuero pesado",
+          8
+        ],
+        [
+          "Pellejo medio curado",
+          2
+        ],
+        [
+          "Seda de araña",
+          1
+        ]
+      ],
+      "obj": {
+        "arm": "63 armadura",
+        "id": 252520,
+        "ilvl": 35,
+        "lig": "Se liga al recogerlo",
+        "n": "Cinturón de cuero de vagador",
+        "q": "rare",
+        "ranura": "Cintura",
+        "req": 30,
+        "stats": [
+          "+9 agilidad",
+          "+6 fuerza",
+          "+6 aguante",
+          "+4 espíritu"
+        ],
+        "sub": "Cuero",
+        "venta": [
+          "0",
+          "21",
+          "22"
+        ]
+      },
+      "profesion": "Peletería",
+      "personajes": [
+        {
+          "n": "Palmira Natblida",
+          "clase": "rogue"
+        }
+      ]
+    },
+    {
       "id": 4419,
       "n": "Cinturón de escamas descarriadas",
       "q": "rare",
@@ -959,12 +1307,12 @@
       "profesion": "Peletería",
       "personajes": [
         {
-          "n": "Edoras Duskranger",
-          "clase": "hunter"
-        },
-        {
           "n": "Palmira Natblida",
           "clase": "rogue"
+        },
+        {
+          "n": "Edoras Duskranger",
+          "clase": "hunter"
         }
       ]
     },
@@ -1075,6 +1423,10 @@
       "profesion": "Peletería",
       "personajes": [
         {
+          "n": "Palmira Natblida",
+          "clase": "rogue"
+        },
+        {
           "n": "Diana Flechaveloz",
           "clase": "hunter"
         },
@@ -1085,10 +1437,6 @@
         {
           "n": "Memas Tour",
           "clase": "shaman"
-        },
-        {
-          "n": "Palmira Natblida",
-          "clase": "rogue"
         }
       ]
     },
@@ -1136,8 +1484,62 @@
       "profesion": "Peletería",
       "personajes": [
         {
+          "n": "Palmira Natblida",
+          "clase": "rogue"
+        },
+        {
           "n": "Edoras Duskranger",
           "clase": "hunter"
+        }
+      ]
+    },
+    {
+      "id": 55171,
+      "n": "Pantalones de cuero de la sabiduría",
+      "q": "rare",
+      "ico": "134586",
+      "reac": [
+        [
+          "Cuero medio",
+          8
+        ],
+        [
+          "Pellejo ligero curado",
+          4
+        ],
+        [
+          "Perla lustrosa pequeña",
+          2
+        ]
+      ],
+      "obj": {
+        "arm": "82 armadura",
+        "id": 252503,
+        "ilvl": 25,
+        "lig": "Se liga al recogerlo",
+        "n": "Pantalones de cuero de la sabiduría",
+        "q": "rare",
+        "ranura": "Piernas",
+        "req": 20,
+        "stats": [
+          "+6 intelecto",
+          "+4 aguante",
+          "+7 Daño con hechizos",
+          "+20 Sanación con hechizos",
+          "+4 espíritu"
+        ],
+        "sub": "Cuero",
+        "venta": [
+          "0",
+          "15",
+          "98"
+        ]
+      },
+      "profesion": "Peletería",
+      "personajes": [
+        {
+          "n": "Memas Tour",
+          "clase": "shaman"
         }
       ]
     },
@@ -1233,12 +1635,16 @@
       "profesion": "Peletería",
       "personajes": [
         {
+          "n": "Palmira Natblida",
+          "clase": "rogue"
+        },
+        {
           "n": "Memas Tour",
           "clase": "shaman"
         },
         {
-          "n": "Palmira Natblida",
-          "clase": "rogue"
+          "n": "Runa Ruina",
+          "clase": "shaman"
         },
         {
           "n": "Lithanas Chafardero",
@@ -1247,10 +1653,6 @@
         {
           "n": "Ildaren Belisar",
           "clase": "rogue"
-        },
-        {
-          "n": "Runa Ruina",
-          "clase": "shaman"
         },
         {
           "n": "Sykah Brisaveloz",
@@ -1300,12 +1702,16 @@
       "profesion": "Peletería",
       "personajes": [
         {
+          "n": "Palmira Natblida",
+          "clase": "rogue"
+        },
+        {
           "n": "Memas Tour",
           "clase": "shaman"
         },
         {
-          "n": "Palmira Natblida",
-          "clase": "rogue"
+          "n": "Runa Ruina",
+          "clase": "shaman"
         },
         {
           "n": "Lithanas Chafardero",
@@ -1314,10 +1720,6 @@
         {
           "n": "Ildaren Belisar",
           "clase": "rogue"
-        },
-        {
-          "n": "Runa Ruina",
-          "clase": "shaman"
         },
         {
           "n": "Sykah Brisaveloz",
@@ -1382,6 +1784,57 @@
         {
           "n": "Nimassus Pater",
           "clase": "priest"
+        }
+      ]
+    },
+    {
+      "id": 55470,
+      "n": "Diadema de llamas de filigrana",
+      "q": "rare",
+      "ico": "132767",
+      "reac": [
+        [
+          "Madeja de paño de seda",
+          8
+        ],
+        [
+          "Hilo refinado",
+          4
+        ],
+        [
+          "Tinte cerúleo",
+          2
+        ],
+        [
+          "Aceite de fuego",
+          6
+        ]
+      ],
+      "obj": {
+        "arm": "38 armadura",
+        "id": 253979,
+        "ilvl": 30,
+        "lig": "Se liga al recogerlo",
+        "n": "Diadema de llamas de filigrana",
+        "q": "rare",
+        "ranura": "Cabeza",
+        "req": 25,
+        "stats": [
+          "+12 aguante",
+          "+14 Daño de Fuego"
+        ],
+        "sub": "Tela",
+        "venta": [
+          "0",
+          "16",
+          "28"
+        ]
+      },
+      "profesion": "Sastrería",
+      "personajes": [
+        {
+          "n": "Dum Bo",
+          "clase": "mage"
         }
       ]
     },

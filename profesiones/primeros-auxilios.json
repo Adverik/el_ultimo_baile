@@ -33,7 +33,7 @@
       "raider": true,
       "nivel": 150,
       "max": 150,
-      "pct": 31
+      "pct": 38
     },
     {
       "personaje": "Chaca Choochoo",
@@ -44,6 +44,14 @@
       "pct": 28
     },
     {
+      "personaje": "Flexita Shadowsoul",
+      "clase": "hunter",
+      "raider": false,
+      "nivel": 147,
+      "max": 225,
+      "pct": 34
+    },
+    {
       "personaje": "Espartaco Gladiador",
       "clase": "warrior",
       "raider": true,
@@ -52,12 +60,12 @@
       "pct": 16
     },
     {
-      "personaje": "Flexita Shadowsoul",
-      "clase": "hunter",
-      "raider": false,
-      "nivel": 141,
+      "personaje": "Palmira Natblida",
+      "clase": "rogue",
+      "raider": true,
+      "nivel": 139,
       "max": 150,
-      "pct": 31
+      "pct": 22
     },
     {
       "personaje": "Genethika Brisaveloz",
@@ -66,14 +74,6 @@
       "nivel": 135,
       "max": 150,
       "pct": 34
-    },
-    {
-      "personaje": "Palmira Natblida",
-      "clase": "rogue",
-      "raider": true,
-      "nivel": 135,
-      "max": 150,
-      "pct": 22
     },
     {
       "personaje": "Viilar Terrisia",
@@ -90,6 +90,14 @@
       "nivel": 108,
       "max": 150,
       "pct": 25
+    },
+    {
+      "personaje": "Dio Hotmetal",
+      "clase": "hunter",
+      "raider": false,
+      "nivel": 95,
+      "max": 150,
+      "pct": 16
     },
     {
       "personaje": "Layrela Rondanit",
@@ -136,14 +144,6 @@
       "clase": "rogue",
       "raider": false,
       "nivel": 77,
-      "max": 150,
-      "pct": 16
-    },
-    {
-      "personaje": "Dio Hotmetal",
-      "clase": "hunter",
-      "raider": false,
-      "nivel": 76,
       "max": 150,
       "pct": 16
     },
@@ -232,6 +232,14 @@
       "clase": "rogue",
       "raider": false,
       "nivel": 40,
+      "max": 75,
+      "pct": 9
+    },
+    {
+      "personaje": "Mosu Warryn",
+      "clase": "warrior",
+      "raider": false,
+      "nivel": 38,
       "max": 75,
       "pct": 9
     },
@@ -358,7 +366,8 @@
             32,
             33,
             34,
-            35
+            35,
+            36
           ]
         },
         {
@@ -452,8 +461,8 @@
             8,
             9,
             10,
-            11,
-            12
+            12,
+            13
           ]
         },
         {
@@ -522,7 +531,8 @@
           "quien": [
             0,
             1,
-            2
+            2,
+            3
           ]
         },
         {
@@ -768,12 +778,12 @@
             2,
             3,
             4,
-            6,
-            7,
+            5,
+            8,
             9,
             10,
-            11,
-            12
+            12,
+            13
           ]
         },
         {
@@ -939,8 +949,10 @@
           "quien": [
             1,
             2,
+            3,
             4,
-            7
+            5,
+            8
           ]
         },
         {
@@ -1093,12 +1105,12 @@
             1,
             2,
             3,
-            6,
-            7,
+            5,
+            8,
             9,
             10,
-            11,
-            12
+            12,
+            13
           ]
         },
         {
@@ -1192,7 +1204,8 @@
             27,
             28,
             29,
-            30
+            30,
+            31
           ]
         },
         {
@@ -1304,7 +1317,7 @@
             2,
             3,
             4,
-            6,
+            5,
             7,
             8,
             9,
@@ -1327,7 +1340,8 @@
             28,
             29,
             30,
-            32
+            31,
+            33
           ]
         },
         {
@@ -1371,7 +1385,7 @@
             2,
             3,
             4,
-            6,
+            5,
             7,
             8,
             9,
@@ -1379,7 +1393,7 @@
             11,
             12,
             13,
-            16,
+            14,
             17,
             18,
             20,
@@ -1424,8 +1438,8 @@
             1,
             2,
             3,
-            6,
-            7
+            5,
+            8
           ]
         },
         {

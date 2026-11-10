@@ -47,7 +47,7 @@
       "personaje": "Diana Flechaveloz",
       "clase": "hunter",
       "raider": false,
-      "nivel": 150,
+      "nivel": 160,
       "max": 225,
       "pct": 19
     },
@@ -57,7 +57,7 @@
       "raider": true,
       "nivel": 150,
       "max": 150,
-      "pct": 19
+      "pct": 20
     },
     {
       "personaje": "Espartaco Gladiador",
@@ -89,7 +89,7 @@
       "raider": true,
       "nivel": 150,
       "max": 150,
-      "pct": 18
+      "pct": 20
     },
     {
       "personaje": "Lithanas Chafardero",
@@ -105,7 +105,7 @@
       "raider": false,
       "nivel": 139,
       "max": 150,
-      "pct": 15
+      "pct": 16
     },
     {
       "personaje": "Layrela Rondanit",
@@ -116,10 +116,18 @@
       "pct": 12
     },
     {
+      "personaje": "Runa Ruina",
+      "clase": "shaman",
+      "raider": true,
+      "nivel": 133,
+      "max": 150,
+      "pct": 15
+    },
+    {
       "personaje": "Flexita Shadowsoul",
       "clase": "hunter",
       "raider": false,
-      "nivel": 125,
+      "nivel": 128,
       "max": 225,
       "pct": 16
     },
@@ -140,14 +148,6 @@
       "pct": 7
     },
     {
-      "personaje": "Runa Ruina",
-      "clase": "shaman",
-      "raider": true,
-      "nivel": 116,
-      "max": 150,
-      "pct": 14
-    },
-    {
       "personaje": "Cuzcu Aker",
       "clase": "paladin",
       "raider": true,
@@ -161,7 +161,7 @@
       "raider": true,
       "nivel": 111,
       "max": 150,
-      "pct": 17
+      "pct": 18
     },
     {
       "personaje": "Coloso Tempestad",
@@ -175,7 +175,7 @@
       "personaje": "Nelv Stardancer",
       "clase": "druid",
       "raider": false,
-      "nivel": 91,
+      "nivel": 92,
       "max": 150,
       "pct": 12
     },
@@ -183,7 +183,7 @@
       "personaje": "Dio Hotmetal",
       "clase": "hunter",
       "raider": false,
-      "nivel": 75,
+      "nivel": 77,
       "max": 150,
       "pct": 8
     },
@@ -228,6 +228,14 @@
       "pct": 5
     },
     {
+      "personaje": "Filps Pachamamamon",
+      "clase": "hunter",
+      "raider": false,
+      "nivel": 22,
+      "max": 75,
+      "pct": 4
+    },
+    {
       "personaje": "Jonaver Legends",
       "clase": "mage",
       "raider": false,
@@ -252,12 +260,12 @@
       "pct": 4
     },
     {
-      "personaje": "Filps Pachamamamon",
-      "clase": "hunter",
+      "personaje": "Mosu Warryn",
+      "clase": "warrior",
       "raider": false,
       "nivel": 12,
       "max": 75,
-      "pct": 4
+      "pct": 3
     },
     {
       "personaje": "Vaporeta Pizpireta",
@@ -431,7 +439,8 @@
             40,
             41,
             42,
-            43
+            43,
+            44
           ]
         },
         {
@@ -504,7 +513,7 @@
             3,
             5,
             11,
-            14,
+            15,
             21,
             26
           ]
@@ -575,7 +584,7 @@
           },
           "quien": [
             11,
-            17
+            14
           ]
         },
         {
@@ -1002,7 +1011,7 @@
             24,
             25,
             26,
-            30,
+            28,
             31
           ]
         },
@@ -1100,7 +1109,8 @@
             8,
             9,
             10,
-            15
+            16,
+            19
           ]
         },
         {
@@ -1183,7 +1193,8 @@
             7,
             9,
             10,
-            14
+            14,
+            15
           ]
         },
         {
@@ -1566,7 +1577,8 @@
             40,
             41,
             42,
-            43
+            43,
+            44
           ]
         },
         {
@@ -1608,7 +1620,7 @@
             10,
             12,
             14,
-            17,
+            15,
             19,
             20
           ]
@@ -1740,7 +1752,7 @@
             9,
             11,
             12,
-            17,
+            14,
             19,
             27
           ]
@@ -1787,7 +1799,7 @@
             8,
             9,
             12,
-            17,
+            14,
             19,
             20
           ]
@@ -2143,7 +2155,7 @@
             10,
             12,
             14,
-            17,
+            15,
             18,
             19,
             20
@@ -2535,8 +2547,9 @@
             1,
             2,
             4,
+            12,
             13,
-            14,
+            15,
             19,
             20
           ]
@@ -2581,6 +2594,7 @@
             8,
             14,
             15,
+            16,
             19
           ]
         },
@@ -3024,7 +3038,7 @@
             4,
             7,
             10,
-            17,
+            14,
             22
           ]
         }
@@ -3074,8 +3088,8 @@
             7,
             8,
             10,
-            14,
             15,
+            16,
             18,
             19,
             20
@@ -3118,7 +3132,9 @@
             3,
             4,
             5,
-            7
+            6,
+            7,
+            10
           ]
         },
         {
@@ -3162,7 +3178,8 @@
             8,
             9,
             10,
-            15
+            16,
+            19
           ]
         },
         {
@@ -3308,7 +3325,8 @@
             40,
             41,
             42,
-            43
+            43,
+            44
           ]
         },
         {
@@ -3481,8 +3499,8 @@
           },
           "quien": [
             5,
-            14,
             15,
+            16,
             20,
             22
           ]
@@ -3567,7 +3585,7 @@
           "quien": [
             6,
             11,
-            17,
+            14,
             22
           ]
         },
@@ -3780,14 +3798,14 @@
             10,
             12,
             13,
-            14,
             15,
+            16,
             18,
             19,
             21,
             23,
             27,
-            28
+            29
           ]
         },
         {
@@ -3824,16 +3842,17 @@
             5,
             6,
             9,
+            10,
             11,
             12,
             13,
-            14,
+            15,
             21,
             23,
             26,
-            33,
-            35,
-            38
+            34,
+            36,
+            39
           ]
         },
         {
@@ -3870,7 +3889,7 @@
             7,
             9,
             12,
-            14,
+            15,
             18,
             19,
             21
@@ -4050,10 +4069,11 @@
             10,
             11,
             13,
-            15,
-            17,
+            14,
+            16,
             19,
-            21
+            21,
+            22
           ]
         },
         {
@@ -4228,7 +4248,7 @@
             13,
             14,
             15,
-            17,
+            16,
             20,
             21
           ]
@@ -4778,7 +4798,8 @@
             40,
             41,
             42,
-            43
+            43,
+            44
           ]
         },
         {

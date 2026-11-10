@@ -10,7 +10,7 @@
     "slug": "cocina",
     "nombre": "Cocina",
     "ico": "133971",
-    "artesanos": 44,
+    "artesanos": 45,
     "total": 132
   },
   {
@@ -38,7 +38,7 @@
     "slug": "herreria",
     "nombre": "Herrería",
     "ico": "136241",
-    "artesanos": 6,
+    "artesanos": 7,
     "total": 507
   },
   {
@@ -52,7 +52,7 @@
     "slug": "mineria",
     "nombre": "Minería",
     "ico": "136248",
-    "artesanos": 11,
+    "artesanos": 12,
     "total": 17
   },
   {
@@ -66,14 +66,14 @@
     "slug": "pesca",
     "nombre": "Pesca",
     "ico": "136245",
-    "artesanos": 31,
+    "artesanos": 33,
     "total": 3
   },
   {
     "slug": "primeros-auxilios",
     "nombre": "Primeros auxilios",
     "ico": "135966",
-    "artesanos": 36,
+    "artesanos": 37,
     "total": 32
   },
   {

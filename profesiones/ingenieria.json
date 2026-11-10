@@ -17,7 +17,7 @@
       "raider": true,
       "nivel": 116,
       "max": 150,
-      "pct": 6
+      "pct": 7
     },
     {
       "personaje": "La Pety",
@@ -31,7 +31,7 @@
       "personaje": "Flexita Shadowsoul",
       "clase": "hunter",
       "raider": false,
-      "nivel": 106,
+      "nivel": 112,
       "max": 150,
       "pct": 8
     },
@@ -272,6 +272,7 @@
           },
           "quien": [
             0,
+            1,
             2,
             3
           ]
@@ -1316,6 +1317,7 @@
           },
           "quien": [
             0,
+            1,
             3
           ]
         },
@@ -4048,7 +4050,8 @@
             ]
           },
           "quien": [
-            0
+            0,
+            3
           ]
         },
         {
