@@ -420,7 +420,7 @@
     let filas = 0;
     datos.categorias.forEach((c, ci) => {
       if (cat !== "" && String(ci) !== cat) return;
-      const lista = c.recetas.filter(r => (!q || norm(r.n).includes(q) || (r.obj && norm(r.obj.n).includes(q))) && (!solo || r.quien.length));
+      const lista = c.recetas.filter(r => r.n && (!q || norm(r.n).includes(q) || (r.obj && norm(r.obj.n).includes(q))) && (!solo || r.quien.length));
       if (!lista.length) return;
       if (cat === "") { const tr = el("tr", "cat"); const td = el("td", "", c.nombre); td.colSpan = arts.length + 2; tr.append(td); tbody.append(tr); }
       lista.forEach(r => {
