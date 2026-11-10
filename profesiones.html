@@ -246,6 +246,10 @@
   }
   @media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
 
+  .vistas{display:inline-flex;margin:22px auto 0;border:1px solid var(--filete);padding:4px;gap:4px}
+  .vistas a{padding:10px 18px;font:600 .74rem/1 var(--texto-f);letter-spacing:.16em;text-transform:uppercase;color:var(--suave);text-decoration:none}
+  .vistas a:hover{color:var(--texto)}
+  .vistas a[aria-current="page"]{background:linear-gradient(180deg,#e2bf73,#b88a3a);color:#0b0b0b}
   .pagina{padding:64px 0 110px}
   .cab-pagina{text-align:center;margin-bottom:34px}
   .cab-pagina h1{font-family:var(--titulos);font-weight:600;font-size:clamp(1.6rem,3.4vw,2.4rem);letter-spacing:.06em;text-transform:uppercase;line-height:1.15;margin:0 0 12px}
@@ -274,15 +278,35 @@
   .filtros label{display:flex;flex-direction:column;gap:6px;font-size:.85rem;color:var(--suave)}
   .selector{min-width:240px;padding:11px 12px;background:var(--panel);border:1px solid var(--linea);color:var(--texto);font:400 1rem var(--texto-f)}
   .check{flex-direction:row !important;align-items:center;gap:8px !important;padding-bottom:12px;cursor:pointer}
-  .tabla-cont{overflow-x:auto;border:1px solid var(--linea);background:var(--panel)}
+  .tabla-cont{overflow:auto;max-height:calc(100vh - 150px);border:1px solid var(--linea);background:var(--panel);overscroll-behavior:contain}
   table.audit{border-collapse:collapse;width:100%;font-size:.93rem}
   .audit th,.audit td{border-bottom:1px solid var(--linea);padding:9px 12px;white-space:nowrap}
   .audit thead th{position:sticky;top:0;background:#0d0f14;z-index:1;font-weight:600;text-align:center;vertical-align:bottom}
-  .audit thead th:first-child,.audit tbody td:first-child{text-align:left;position:sticky;left:0;background:#0d0f14;z-index:2;max-width:340px;min-width:260px}
-  .audit tbody td:first-child{background:#0b0c10}
-  .audit th .pj{display:block;max-width:120px;overflow:hidden;text-overflow:ellipsis}
+  .audit thead th:first-child,.audit tbody td:first-child{text-align:left;position:sticky;left:0;background:#0d0f14;z-index:2;max-width:300px;min-width:300px;width:300px}
+  .audit tbody td:first-child{background:#0b0c10;overflow:hidden}
+  .audit td:first-child .receta-enlace{max-width:100%}
+  .audit thead th.art{width:104px;min-width:104px;max-width:104px;vertical-align:bottom;padding:9px 6px}
+  .audit td.celda{width:104px;padding:8px 6px}
+  .audit th.art .pj{display:block;white-space:normal;line-height:1.25;font-size:.86rem;overflow-wrap:anywhere}
+  .audit th.art small{display:block;margin-top:4px;color:var(--suave);font:400 .74rem/1 ui-monospace,monospace}
+  .audit thead th.art{cursor:pointer}
+  .audit th.art button{all:unset;cursor:pointer;display:block;width:100%}
+  .audit th.art button:focus-visible{outline:1px solid var(--oro);outline-offset:3px}
+  .audit thead th.art:hover{background:#171a22}
+  .audit th.art:hover .pj{text-decoration:underline;text-underline-offset:3px}
+  .ficha{display:flex;align-items:center;gap:14px;flex-wrap:wrap;border:1px solid var(--linea);border-bottom:0;background:var(--panel);padding:14px 16px}
+  .ficha .nombre{font-family:var(--serif, inherit);font-size:1.25rem;color:var(--c)}
+  .ficha .datos{color:var(--suave);font-size:.9rem}
+  .ficha button{margin-left:auto;background:none;border:1px solid var(--linea);color:var(--texto);padding:8px 14px;cursor:pointer;font:inherit;font-size:.88rem}
+  .ficha button:hover{border-color:var(--oro);color:var(--oro-claro)}
+  .unica{display:inline-block;margin-left:8px;padding:1px 7px;border:1px solid rgba(201,162,74,.5);color:var(--oro-claro);font-size:.7rem;letter-spacing:.06em;text-transform:uppercase;vertical-align:middle}
+  .paginador{display:flex;align-items:center;gap:10px;margin-left:auto;padding-bottom:4px}
+  .paginador button{width:38px;height:38px;background:var(--panel);border:1px solid var(--linea);color:var(--texto);font-size:1.1rem;cursor:pointer}
+  .paginador button:hover:not(:disabled){border-color:var(--oro);color:var(--oro-claro)}
+  .paginador button:disabled{opacity:.35;cursor:default}
+  .paginador span{color:var(--suave);font-size:.88rem;min-width:150px;text-align:center}
   .audit th small{display:block;color:var(--suave);font-weight:400;font-size:.75rem;font-family:ui-monospace,monospace}
-  .audit .num{font-family:ui-monospace,monospace;text-align:right;width:50px}
+  .audit .num{font-family:ui-monospace,monospace;text-align:right;width:50px;min-width:50px}
   .audit .num.cero{color:#e06060}.audit .num.si{color:#86d39c}
   .audit td.celda{text-align:center;color:#3a3e48}
   .audit td.celda.si{color:#86d39c;font-weight:700}
@@ -291,7 +315,7 @@
   .audit tbody tr:hover td:first-child{background:#14161c}
   .pct-total{font-family:ui-monospace,monospace;color:var(--suave)}
   .leyenda{color:var(--suave);font-size:.85rem;margin:12px 2px 0}
-  @media (max-width:720px){.audit thead th:first-child,.audit tbody td:first-child{min-width:190px;max-width:220px}.selector{min-width:0;width:100%}.filtros label{flex:1 1 100%}}
+  @media (max-width:720px){.audit thead th:first-child,.audit tbody td:first-child{min-width:140px;max-width:140px;width:140px}.audit .num{width:38px;min-width:38px;padding-left:4px;padding-right:4px}.audit thead th.art,.audit td.celda{width:76px;min-width:76px;max-width:76px;padding-left:4px;padding-right:4px}.audit th.art .pj{font-size:.8rem}.selector{min-width:0;width:100%}.filtros label{flex:1 1 100%}}
 </style>
 </head>
 <body>
@@ -329,8 +353,7 @@
         <li class="grupo-menu">
           <button class="titulo-menu" type="button" aria-expanded="false" aria-controls="sub-5">Recursos</button>
           <ul class="submenu" id="sub-5">
-            <li><a href="profesiones.html"><span class="t">Profesiones <span class="etiqueta-menu">Nuevo</span></span><span class="d">Todas las recetas y quién sabe hacerlas</span></a></li>
-            <li><a href="recetas.html"><span class="t">Recetas raras y épicas</span><span class="d">Lo más valioso que se fabrica en la hermandad</span></a></li>
+            <li><a href="profesiones.html"><span class="t">Profesiones <span class="etiqueta-menu">Nuevo</span></span><span class="d">Quién sabe hacer qué, y las recetas raras y épicas</span></a></li>
           </ul>
         </li>
       </ul>
@@ -342,10 +365,11 @@
 <main class="pagina">
   <div class="envoltura">
     <div class="cab-pagina">
-      <span class="etiqueta">Recursos · Profesiones</span>
+      <span class="etiqueta">Recursos</span>
       <h1>Profesiones de la hermandad</h1>
       <p>Todas las recetas de cada profesión y quién sabe hacerlas. Pasa el ratón por una receta para ver qué necesita, o pulsa para abrirla en Wowhead.</p>
       <p class="fuente" id="fuente" hidden></p>
+      <nav class="vistas" aria-label="Vista de profesiones"><a href="profesiones.html" aria-current="page">Todas las recetas</a><a href="recetas.html">Raras y épicas</a></nav>
     </div>
     <p class="aviso" id="aviso" hidden><b>Cargando el catálogo.</b> Las profesiones aparecerán aquí en cuanto el robot termine de descargar las recetas de Blizzard.</p>
     <div class="pestanas" id="pestanas" role="tablist" aria-label="Profesión"></div>
@@ -353,12 +377,18 @@
       <div class="filtros">
         <label>Categoría<select class="selector" id="categoria"></select></label>
         <label>Buscar<input class="buscador" id="buscar" type="search" placeholder="Busca una receta…" autocomplete="off"></label>
+        <label>Artesano<select class="selector" id="artesano"></select></label>
         <label class="check"><input type="checkbox" id="solo-conocidas"> Solo las que sabe alguien</label>
+        <div class="paginador" id="paginador" hidden>
+          <button type="button" id="ant" aria-label="Artesanos anteriores">‹</button>
+          <span id="rango"></span>
+          <button type="button" id="sig" aria-label="Artesanos siguientes">›</button>
+        </div>
       </div>
+      <div class="ficha" id="ficha" hidden></div>
       <div class="tabla-cont"><table class="audit" id="tabla"></table></div>
-      <p class="leyenda">✓ sabe hacerla · el número es cuántos de la hermandad la saben · debajo de cada nombre, su nivel y el % de recetas que conoce.</p>
+      <p class="leyenda">✓ sabe hacerla · Nº: cuántos de la hermandad la saben · bajo cada nombre, su nivel de profesión y el % de recetas que conoce. Los artesanos van de mayor a menor nivel; usa las flechas para ver al resto. Pincha en un nombre (o elígelo en «Artesano») para ver solo sus recetas.</p>
     </div>
-    <p class="vacio"><a href="recetas.html" style="color:var(--oro-claro)">Ver solo las recetas raras y épicas →</a></p>
   </div>
 </main>
 
@@ -377,7 +407,15 @@
   const el = (t, c, x) => { const e = document.createElement(t); if (c) e.className = c; if (x !== undefined) e.textContent = x; return e; };
   const norm = t => String(t || "").toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "");
   const $ = id => document.getElementById(id);
-  let indice = [], actual = null, datos = null;
+  let indice = [], actual = null, datos = null, pagina = 0, elegido = -1;
+  const ORDEN_Q = { legendary: 0, epic: 1, rare: 2, uncommon: 3, common: 4, poor: 5 };
+  // Cuántos artesanos caben sin scroll lateral, según el ancho de la tabla
+  const POR_PAGINA = () => {
+    const c = document.querySelector(".tabla-cont");
+    const movil = innerWidth <= 720;
+    const libre = (c ? c.clientWidth : innerWidth) - (movil ? 140 + 40 : 300 + 60);
+    return Math.max(1, Math.min(10, Math.floor(libre / (movil ? 76 : 104))));
+  };
   const cacheProf = {};
 
   function pestanas() {
@@ -385,11 +423,18 @@
       const b = el("button", "pestana"); b.type = "button"; b.setAttribute("role", "tab"); b.setAttribute("aria-selected", String(p.slug === actual));
       if (p.ico) { const i = el("img"); i.src = (window.BASE_ICONOS || "img/iconos/") + p.ico + ".jpg"; i.alt = ""; b.append(i); }
       const t = el("span"); t.append(el("b", "", p.nombre), el("small", "", p.artesanos === 1 ? "1 artesano" : p.artesanos + " artesanos")); b.append(t);
-      b.addEventListener("click", () => abrir(p.slug));
+      b.addEventListener("click", () => { elegido = -1; abrir(p.slug); });
       return b;
     }));
   }
-  function abrir(slug) {
+  function hash() { history.replaceState(null, "", "#" + actual + (elegido >= 0 ? "/" + encodeURIComponent(datos.artesanos[elegido].personaje) : "")); }
+  function elegir(i) {
+    elegido = i;
+    $("artesano").value = String(i);
+    hash(); tabla();
+    if (i >= 0) $("ficha").scrollIntoView({ block: "nearest", behavior: "smooth" });
+  }
+  function abrir(slug, pj) {
     actual = slug;
     history.replaceState(null, "", "#" + slug);
     pestanas();
@@ -400,20 +445,40 @@
       const sel = $("categoria");
       sel.replaceChildren(el("option", "", "Todas las categorías"), ...d.categorias.map((c, i) => { const o = el("option", "", c.nombre); o.value = String(i); return o; }));
       sel.firstChild.value = "";
+      const as = $("artesano");
+      const orden = d.artesanos.map((a, i) => [a.personaje, i]).sort((x, y) => x[0].localeCompare(y[0], "es"));
+      as.replaceChildren(el("option", "", "Todos"), ...orden.map(([nm, i]) => { const o = el("option", "", nm); o.value = String(i); return o; }));
+      as.firstChild.value = "-1";
       $("panel").hidden = false;
-      tabla();
+      pagina = 0;
+      const k = pj ? d.artesanos.findIndex(a => a.personaje === pj) : -1;
+      elegir(k);
     }).catch(() => { $("tabla").replaceChildren(); });
   }
   function tabla() {
     if (!datos) return;
-    const arts = datos.artesanos || [];
+    if (elegido >= 0) return fichaPj();
+    $("ficha").hidden = true;
+    $("solo-conocidas").disabled = false;
+    // Artesanos por páginas (ya vienen ordenados por nivel, de mayor a menor)
+    const todos = datos.artesanos || [];
+    const n = POR_PAGINA(), paginas = Math.max(1, Math.ceil(todos.length / n));
+    pagina = Math.min(Math.max(0, pagina), paginas - 1);
+    const desde = pagina * n;
+    const arts = todos.slice(desde, desde + n);
+    $("paginador").hidden = paginas < 2;
+    $("rango").textContent = "Artesanos " + (todos.length ? desde + 1 : 0) + "–" + (desde + arts.length) + " de " + todos.length;
+    $("ant").disabled = pagina === 0;
+    $("sig").disabled = pagina >= paginas - 1;
     const q = norm($("buscar").value), cat = $("categoria").value, solo = $("solo-conocidas").checked;
     const thead = el("thead"), hr = el("tr");
     const th0 = el("th", "", "Recetas de " + datos.nombre);
     hr.append(th0, el("th", "num", "Nº"));
     arts.forEach(a => {
-      const th = el("th"); const n = el("span", "pj", a.personaje); n.style.setProperty("--c", CLASES[a.clase] || "#ece6d6"); n.title = a.personaje;
-      th.append(n, el("small", "", a.nivel + " · " + a.pct + "%")); hr.append(th);
+      const th = el("th", "art"); const bt = el("button"); bt.type = "button"; bt.title = "Ver solo las recetas de " + a.personaje;
+      const nm = el("span", "pj", a.personaje); nm.style.setProperty("--c", CLASES[a.clase] || "#ece6d6");
+      bt.append(nm, el("small", "", a.nivel + " · " + a.pct + "%")); bt.addEventListener("click", () => elegir(desde + arts.indexOf(a)));
+      th.append(bt); hr.append(th);
     });
     thead.append(hr);
     const tbody = el("tbody");
@@ -427,13 +492,47 @@
         const tr = el("tr"); const td = el("td"); td.append(enlaceReceta(r));
         const n = el("td", "num " + (r.quien.length ? "si" : "cero"), String(r.quien.length));
         tr.append(td, n);
-        arts.forEach((a, i) => { const sabe = r.quien.includes(i); const m = el("td", "celda" + (sabe ? " si" : ""), sabe ? "✓" : "—"); if (sabe) m.title = a.personaje; tr.append(m); });
+        arts.forEach((a, i) => { const sabe = r.quien.includes(desde + i); const m = el("td", "celda" + (sabe ? " si" : ""), sabe ? "✓" : "—"); if (sabe) m.title = a.personaje; tr.append(m); });
         tbody.append(tr); filas++;
       });
     });
     if (!filas) { const tr = el("tr"); const td = el("td", "vacio", "No hay recetas que coincidan."); td.colSpan = arts.length + 2; tr.append(td); tbody.append(tr); }
     $("tabla").replaceChildren(thead, tbody);
   }
+  function fichaPj() {
+    const a = datos.artesanos[elegido];
+    $("paginador").hidden = true;
+    $("solo-conocidas").disabled = true;
+    const sabe = datos.categorias.reduce((s, c) => s + c.recetas.filter(r => r.n && r.quien.includes(elegido)).length, 0);
+    const f = $("ficha"); f.hidden = false; f.style.setProperty("--c", CLASES[a.clase] || "#ece6d6");
+    const vuelta = el("button", "", "✕ Ver a todos"); vuelta.type = "button"; vuelta.addEventListener("click", () => elegir(-1));
+    f.replaceChildren(el("span", "nombre", a.personaje),
+      el("span", "datos", datos.nombre + " " + a.nivel + "/" + a.max + " · sabe " + sabe + (sabe === 1 ? " receta" : " recetas") + " (" + a.pct + "%)"), vuelta);
+    const q = norm($("buscar").value), cat = $("categoria").value;
+    const thead = el("thead"), hr = el("tr");
+    hr.append(el("th", "", "Recetas de " + datos.nombre + " que sabe"), el("th", "num", "Nº"));
+    thead.append(hr);
+    const tbody = el("tbody"); let filas = 0;
+    datos.categorias.forEach((c, ci) => {
+      if (cat !== "" && String(ci) !== cat) return;
+      const lista = c.recetas.filter(r => r.n && r.quien.includes(elegido) && (!q || norm(r.n).includes(q) || (r.obj && norm(r.obj.n).includes(q))))
+        .sort((x, y) => (ORDEN_Q[x.q] ?? 9) - (ORDEN_Q[y.q] ?? 9) || x.n.localeCompare(y.n, "es"));
+      if (!lista.length) return;
+      if (cat === "") { const tr = el("tr", "cat"); const td = el("td", "", c.nombre); td.colSpan = 2; tr.append(td); tbody.append(tr); }
+      lista.forEach(r => {
+        const tr = el("tr"), td = el("td"); td.append(enlaceReceta(r));
+        if (r.quien.length === 1) { const u = el("span", "unica", "Única"); u.title = "Nadie más en la hermandad la sabe"; td.append(u); }
+        tr.append(td, el("td", "num si", String(r.quien.length))); tbody.append(tr); filas++;
+      });
+    });
+    if (!filas) { const tr = el("tr"); const td = el("td", "vacio", sabe ? "No hay recetas que coincidan." : "Todavía no sabe ninguna receta de " + datos.nombre + "."); td.colSpan = 2; tr.append(td); tbody.append(tr); }
+    $("tabla").replaceChildren(thead, tbody);
+  }
+  $("artesano").addEventListener("change", e => elegir(Number(e.target.value)));
+  $("ant").addEventListener("click", () => { pagina--; tabla(); });
+  $("sig").addEventListener("click", () => { pagina++; tabla(); });
+  let ancho = innerWidth;
+  addEventListener("resize", () => { if (Math.abs(innerWidth - ancho) > 50) { ancho = innerWidth; tabla(); } });
   ["categoria", "buscar", "solo-conocidas"].forEach(id => $(id).addEventListener(id === "buscar" ? "input" : "change", tabla));
   fetch("profesiones/indice.json", { cache: "no-cache" }).then(r => r.ok ? r.json() : []).catch(() => [])
     .then(idx => {
@@ -443,8 +542,8 @@
       if (!indice.length) return;
       const total = indice.reduce((s, p) => s + p.total, 0);
       const f = $("fuente"); f.textContent = indice.length + " profesiones · " + total + " recetas · Datos de Blizzard, se actualizan solos cada hora"; f.hidden = false;
-      const pedida = location.hash.slice(1);
-      abrir(indice.some(p => p.slug === pedida) ? pedida : indice[0].slug);
+      const [pedida, pj] = location.hash.slice(1).split("/");
+      abrir(indice.some(p => p.slug === pedida) ? pedida : indice[0].slug, pj ? decodeURIComponent(pj) : null);
     });
 })();
 </script>
