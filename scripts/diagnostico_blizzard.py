@@ -74,7 +74,7 @@ def main():
         if coinciden:
             buenos.append((suf, d))
 
-    detalle(H)
+    catalogo(H)
     return
     print("\n===== Perfil de personajes por namespace (profile-*)")
     for suf in sufijos:
@@ -194,6 +194,41 @@ def detalle(H):
                     si, item = http(f"{API}/data/wow/item/{it['id']}?namespace={sns}&locale=es_ES", H)
                     print(f"    objeto fabricado en {sns}: HTTP {si}, tiene quality: {'quality' in (item or {})}")
                 break
+
+
+def catalogo(H):
+    ns = "static-forever-eu"
+    print("\n===== Catálogo de profesiones (static-forever-eu)")
+    st, idx = http(f"{API}/data/wow/profession/index?namespace={ns}&locale=es_ES", H)
+    profs = (idx or {}).get("professions", [])
+    print(f"  index: HTTP {st}, {len(profs)} profesiones: {[p.get('name') for p in profs]}")
+    sastre = next((p for p in profs if p.get("name") in ("Tailoring", "Sastrería")), profs[0] if profs else None)
+    if not sastre:
+        return
+    st, pr = http(f"{API}/data/wow/profession/{sastre['id']}?namespace={ns}&locale=es_ES", H)
+    print(f"  profesión {sastre.get('name')}: HTTP {st}"); forma(pr, 2, 3)
+    tiers = (pr or {}).get("skill_tiers", [])
+    if tiers:
+        st, t = http(f"{API}/data/wow/profession/{sastre['id']}/skill-tier/{tiers[0]['id']}?namespace={ns}&locale=es_ES", H)
+        cats = (t or {}).get("categories", [])
+        print(f"  tier: HTTP {st}, {len(cats)} categorías, {sum(len(c.get('recipes', [])) for c in cats)} recetas")
+        print(f"  categorías: {[c.get('name') for c in cats][:30]}")
+    total = 0
+    for p in profs:
+        st, pr = http(f"{API}/data/wow/profession/{p['id']}?namespace={ns}&locale=es_ES", H)
+        for tt in (pr or {}).get("skill_tiers", []):
+            st2, t = http(f"{API}/data/wow/profession/{p['id']}/skill-tier/{tt['id']}?namespace={ns}&locale=es_ES", H)
+            n = sum(len(c.get("recipes", [])) for c in (t or {}).get("categories", []))
+            total += n
+            print(f"    {p.get('name')} / {tt.get('name')}: {n} recetas")
+    print(f"  TOTAL recetas en el catálogo: {total}")
+    # Objeto de ejemplo: Bottomless Bag (14156) para ver preview_item
+    st, it = http(f"{API}/data/wow/item/14156?namespace={ns}&locale=es_ES", H)
+    print(f"\n  objeto 14156: HTTP {st}")
+    forma(it, 2, 4)
+    st, md = http(f"{API}/data/wow/media/item/14156?namespace={ns}&locale=es_ES", H)
+    print(f"  media 14156: HTTP {st}"); forma(md, 2, 4)
+    if md: print("   ", [a.get("value") for a in md.get("assets", [])])
 
 
 if __name__ == "__main__":
