@@ -22,7 +22,7 @@
     const t = tooltip();
     const o = r.obj || {};
     const cab = el("div", "tip-cab");
-    if (r.ico) { const i = el("img"); i.src = "img/iconos/" + r.ico + ".jpg"; i.alt = ""; i.width = 36; i.height = 36; cab.append(i); }
+    if (r.ico) { const i = el("img"); i.src = (window.BASE_ICONOS || "img/iconos/") + r.ico + ".jpg"; i.alt = ""; i.width = 36; i.height = 36; cab.append(i); }
     const nom = el("div", "tip-nombre", r.n);
     nom.style.color = COLOR[r.q] || COLOR.common;
     cab.append(nom);
@@ -87,7 +87,7 @@
     a.target = "_blank";
     a.rel = "noopener";
     a._receta = r;
-    if (r.ico) { const i = el("img"); i.src = "img/iconos/" + r.ico + ".jpg"; i.alt = ""; i.width = 24; i.height = 24; i.loading = "lazy"; a.append(i); }
+    if (r.ico) { const i = el("img"); i.src = (window.BASE_ICONOS || "img/iconos/") + r.ico + ".jpg"; i.alt = ""; i.width = 24; i.height = 24; i.loading = "lazy"; a.append(i); }
     else a.append(el("span", "sin-icono"));
     const n = el("span", "receta-nombre", r.n);
     n.style.color = COLOR[r.q] || COLOR.common;
