@@ -12,18 +12,26 @@
       "pct": 53
     },
     {
+      "personaje": "Khyoraku Shunsui",
+      "clase": "warrior",
+      "raider": true,
+      "nivel": 142,
+      "max": 150,
+      "pct": 29
+    },
+    {
       "personaje": "Coloso Tempestad",
       "clase": "warrior",
       "raider": false,
-      "nivel": 136,
+      "nivel": 140,
       "max": 150,
       "pct": 24
     },
     {
-      "personaje": "Khyoraku Shunsui",
-      "clase": "warrior",
-      "raider": true,
-      "nivel": 126,
+      "personaje": "Chaca Choochoo",
+      "clase": "druid",
+      "raider": false,
+      "nivel": 137,
       "max": 150,
       "pct": 29
     },
@@ -32,14 +40,6 @@
       "clase": "rogue",
       "raider": false,
       "nivel": 126,
-      "max": 150,
-      "pct": 29
-    },
-    {
-      "personaje": "Chaca Choochoo",
-      "clase": "druid",
-      "raider": false,
-      "nivel": 124,
       "max": 150,
       "pct": 29
     },
@@ -55,7 +55,15 @@
       "personaje": "Tharindel Magnaluz",
       "clase": "paladin",
       "raider": false,
-      "nivel": 112,
+      "nivel": 117,
+      "max": 150,
+      "pct": 29
+    },
+    {
+      "personaje": "Flexita Shadowsoul",
+      "clase": "hunter",
+      "raider": false,
+      "nivel": 109,
       "max": 150,
       "pct": 29
     },
@@ -64,14 +72,6 @@
       "clase": "paladin",
       "raider": true,
       "nivel": 107,
-      "max": 150,
-      "pct": 29
-    },
-    {
-      "personaje": "Flexita Shadowsoul",
-      "clase": "hunter",
-      "raider": false,
-      "nivel": 105,
       "max": 150,
       "pct": 29
     },
@@ -122,7 +122,7 @@
           },
           "quien": [
             0,
-            2,
+            1,
             3,
             4,
             5,

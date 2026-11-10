@@ -4,20 +4,20 @@
   "total": 262,
   "artesanos": [
     {
+      "personaje": "Dum Bo",
+      "clase": "mage",
+      "raider": false,
+      "nivel": 161,
+      "max": 225,
+      "pct": 15
+    },
+    {
       "personaje": "Finn Felagund",
       "clase": "priest",
       "raider": false,
       "nivel": 130,
       "max": 150,
       "pct": 11
-    },
-    {
-      "personaje": "Dum Bo",
-      "clase": "mage",
-      "raider": false,
-      "nivel": 125,
-      "max": 150,
-      "pct": 13
     },
     {
       "personaje": "Nimassus Pater",
@@ -139,7 +139,7 @@
           ],
           "desc": "Encanta de forma permanente unos brazales para que aumenten 3 p. el espíritu del portador.",
           "quien": [
-            1
+            0
           ]
         },
         {
@@ -177,7 +177,7 @@
           ],
           "desc": "Encanta de forma permanente unos brazales para que aumenten 3 p. la fuerza del portador.",
           "quien": [
-            1
+            0
           ]
         },
         {
@@ -193,7 +193,7 @@
           ],
           "desc": "Encanta de forma permanente un brazal para que aumente 4 p. el espíritu del portador.",
           "quien": [
-            1
+            0
           ]
         },
         {
@@ -209,7 +209,8 @@
           ],
           "desc": "Encanta de forma permanente un brazal para que aumente 4 p. el aguante del portador.",
           "quien": [
-            0
+            0,
+            1
           ]
         },
         {
@@ -800,7 +801,9 @@
             ]
           ],
           "desc": "Encanta una armadura de torso para obtener un 5% de probabilidad por golpe de conseguir 25 p. de daño amortiguados. Solo puede suceder una vez cada 5 s.",
-          "quien": []
+          "quien": [
+            0
+          ]
         },
         {
           "id": 7496,
@@ -814,7 +817,9 @@
             ]
           ],
           "desc": "Encanta de forma permanente una armadura de torso para que aumente 4 p. el intelecto del portador.",
-          "quien": []
+          "quien": [
+            0
+          ]
         },
         {
           "id": 7501,
@@ -1308,7 +1313,7 @@
           ],
           "desc": "Encanta de forma permanente una capa para que proporcione +3 p. de agilidad.",
           "quien": [
-            1
+            0
           ]
         },
         {
@@ -1631,7 +1636,7 @@
           ],
           "desc": "Encanta de forma permanente un arma cuerpo a cuerpo para que cause 2 p. de daño a las bestias.",
           "quien": [
-            1
+            0
           ]
         },
         {
@@ -1676,7 +1681,9 @@
             ]
           ],
           "desc": "Encanta de forma permanente un arma cuerpo a cuerpo para que cause 2 p. extra de daño.",
-          "quien": []
+          "quien": [
+            0
+          ]
         },
         {
           "id": 7511,
@@ -2210,7 +2217,7 @@
           ],
           "desc": "Encanta de forma permanente un arma cuerpo a cuerpo de dos manos para añadir 5 p. de intelecto.",
           "quien": [
-            1
+            0
           ]
         },
         {
@@ -2230,7 +2237,7 @@
           ],
           "desc": "Encanta de forma permanente un arma cuerpo a cuerpo de dos manos para añadir 5 p. de espíritu.",
           "quien": [
-            1,
+            0,
             2
           ]
         },
@@ -2250,7 +2257,9 @@
             ]
           ],
           "desc": "Encanta de forma permanente un arma cuerpo a cuerpo de dos manos para que cause 5 p. extra de daño.",
-          "quien": []
+          "quien": [
+            0
+          ]
         },
         {
           "id": 7530,
@@ -2802,7 +2811,8 @@
           ],
           "desc": "Encanta de forma permanente un escudo para que proporcione 3 p. de espíritu.",
           "quien": [
-            0
+            0,
+            1
           ]
         },
         {

@@ -15,7 +15,7 @@
       "personaje": "Aalesian Naeuri",
       "clase": "warrior",
       "raider": false,
-      "nivel": 188,
+      "nivel": 197,
       "max": 225,
       "pct": 41
     },
@@ -79,7 +79,7 @@
       "personaje": "Viilar Terrisia",
       "clase": "druid",
       "raider": false,
-      "nivel": 115,
+      "nivel": 118,
       "max": 150,
       "pct": 25
     },
@@ -92,18 +92,18 @@
       "pct": 25
     },
     {
-      "personaje": "Nelv Stardancer",
+      "personaje": "Layrela Rondanit",
       "clase": "druid",
-      "raider": false,
+      "raider": true,
       "nivel": 94,
       "max": 150,
       "pct": 25
     },
     {
-      "personaje": "Layrela Rondanit",
+      "personaje": "Nelv Stardancer",
       "clase": "druid",
-      "raider": true,
-      "nivel": 90,
+      "raider": false,
+      "nivel": 94,
       "max": 150,
       "pct": 25
     },
@@ -119,7 +119,7 @@
       "personaje": "Tharindel Magnaluz",
       "clase": "paladin",
       "raider": false,
-      "nivel": 79,
+      "nivel": 80,
       "max": 150,
       "pct": 12
     },
@@ -130,6 +130,22 @@
       "nivel": 78,
       "max": 150,
       "pct": 12
+    },
+    {
+      "personaje": "Aurelio Amador",
+      "clase": "rogue",
+      "raider": false,
+      "nivel": 77,
+      "max": 150,
+      "pct": 16
+    },
+    {
+      "personaje": "Dio Hotmetal",
+      "clase": "hunter",
+      "raider": false,
+      "nivel": 76,
+      "max": 150,
+      "pct": 16
     },
     {
       "personaje": "Runa Ruina",
@@ -146,22 +162,6 @@
       "nivel": 75,
       "max": 75,
       "pct": 12
-    },
-    {
-      "personaje": "Aurelio Amador",
-      "clase": "rogue",
-      "raider": false,
-      "nivel": 72,
-      "max": 150,
-      "pct": 16
-    },
-    {
-      "personaje": "Dio Hotmetal",
-      "clase": "hunter",
-      "raider": false,
-      "nivel": 72,
-      "max": 150,
-      "pct": 16
     },
     {
       "personaje": "Sugar Papy",
@@ -1380,8 +1380,8 @@
             12,
             13,
             16,
+            17,
             18,
-            19,
             20,
             21
           ]

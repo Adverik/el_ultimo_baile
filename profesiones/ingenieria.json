@@ -31,9 +31,9 @@
       "personaje": "Flexita Shadowsoul",
       "clase": "hunter",
       "raider": false,
-      "nivel": 98,
+      "nivel": 106,
       "max": 150,
-      "pct": 6
+      "pct": 8
     },
     {
       "personaje": "Jonaver Legends",
@@ -272,7 +272,8 @@
           },
           "quien": [
             0,
-            2
+            2,
+            3
           ]
         },
         {
@@ -1314,7 +1315,8 @@
             ]
           },
           "quien": [
-            0
+            0,
+            3
           ]
         },
         {
@@ -3287,7 +3289,9 @@
               "90"
             ]
           },
-          "quien": []
+          "quien": [
+            3
+          ]
         },
         {
           "id": 2436,
@@ -4896,7 +4900,8 @@
           "quien": [
             0,
             1,
-            2
+            2,
+            3
           ]
         },
         {
@@ -6908,7 +6913,8 @@
           },
           "quien": [
             0,
-            1
+            1,
+            3
           ]
         },
         {

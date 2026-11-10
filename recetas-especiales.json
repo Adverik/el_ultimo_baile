@@ -697,16 +697,16 @@
       "profesion": "Peletería",
       "personajes": [
         {
+          "n": "Edoras Duskranger",
+          "clase": "hunter"
+        },
+        {
           "n": "Memas Tour",
           "clase": "shaman"
         },
         {
           "n": "Palmira Natblida",
           "clase": "rogue"
-        },
-        {
-          "n": "Edoras Duskranger",
-          "clase": "hunter"
         },
         {
           "n": "Aurelio Amador",
@@ -727,6 +727,10 @@
         {
           "n": "Runa Ruina",
           "clase": "shaman"
+        },
+        {
+          "n": "Sykah Brisaveloz",
+          "clase": "hunter"
         }
       ]
     },
@@ -790,6 +794,10 @@
         {
           "n": "Runa Ruina",
           "clase": "shaman"
+        },
+        {
+          "n": "Sykah Brisaveloz",
+          "clase": "hunter"
         }
       ]
     },
@@ -842,6 +850,10 @@
       },
       "profesion": "Peletería",
       "personajes": [
+        {
+          "n": "Edoras Duskranger",
+          "clase": "hunter"
+        },
         {
           "n": "Aurelio Amador",
           "clase": "rogue"
@@ -947,12 +959,12 @@
       "profesion": "Peletería",
       "personajes": [
         {
-          "n": "Palmira Natblida",
-          "clase": "rogue"
-        },
-        {
           "n": "Edoras Duskranger",
           "clase": "hunter"
+        },
+        {
+          "n": "Palmira Natblida",
+          "clase": "rogue"
         }
       ]
     },
@@ -1064,6 +1076,10 @@
       "personajes": [
         {
           "n": "Diana Flechaveloz",
+          "clase": "hunter"
+        },
+        {
+          "n": "Edoras Duskranger",
           "clase": "hunter"
         },
         {
@@ -1235,6 +1251,10 @@
         {
           "n": "Runa Ruina",
           "clase": "shaman"
+        },
+        {
+          "n": "Sykah Brisaveloz",
+          "clase": "hunter"
         }
       ]
     },
@@ -1298,6 +1318,10 @@
         {
           "n": "Runa Ruina",
           "clase": "shaman"
+        },
+        {
+          "n": "Sykah Brisaveloz",
+          "clase": "hunter"
         }
       ]
     },

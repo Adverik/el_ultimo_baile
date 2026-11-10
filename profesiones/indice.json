@@ -10,14 +10,14 @@
     "slug": "cocina",
     "nombre": "Cocina",
     "ico": "133971",
-    "artesanos": 43,
+    "artesanos": 44,
     "total": 132
   },
   {
     "slug": "desuello",
     "nombre": "Desuello",
     "ico": "134366",
-    "artesanos": 12,
+    "artesanos": 13,
     "total": 3
   },
   {
@@ -59,14 +59,14 @@
     "slug": "peleteria",
     "nombre": "Peletería",
     "ico": "136247",
-    "artesanos": 11,
+    "artesanos": 12,
     "total": 592
   },
   {
     "slug": "pesca",
     "nombre": "Pesca",
     "ico": "136245",
-    "artesanos": 30,
+    "artesanos": 31,
     "total": 3
   },
   {
