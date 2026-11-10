@@ -383,7 +383,7 @@
   function pestanas() {
     $("pestanas").replaceChildren(...indice.map(p => {
       const b = el("button", "pestana"); b.type = "button"; b.setAttribute("role", "tab"); b.setAttribute("aria-selected", String(p.slug === actual));
-      if (p.ico) { const i = el("img"); i.src = "img/iconos/" + p.ico + ".jpg"; i.alt = ""; b.append(i); }
+      if (p.ico) { const i = el("img"); i.src = (window.BASE_ICONOS || "img/iconos/") + p.ico + ".jpg"; i.alt = ""; b.append(i); }
       const t = el("span"); t.append(el("b", "", p.nombre), el("small", "", p.artesanos === 1 ? "1 artesano" : p.artesanos + " artesanos")); b.append(t);
       b.addEventListener("click", () => abrir(p.slug));
       return b;
