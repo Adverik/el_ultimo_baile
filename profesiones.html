@@ -7,10 +7,11 @@
 <meta name="robots" content="noindex, nofollow">
 <meta name="theme-color" content="#07080a">
 <meta name="color-scheme" content="dark">
-<title>Profesiones · El Último Baile</title>
+<title>Profesiones de la hermandad · El Último Baile</title>
 <link rel="preload" href="fonts/manrope.woff" as="font" type="font/woff" crossorigin>
 <link rel="preload" href="fonts/cinzel.woff" as="font" type="font/woff" crossorigin>
 <link rel="stylesheet" href="comun/menu.css">
+<link rel="stylesheet" href="comun/recetas.css">
 <style>
   /* Fuentes servidas desde la propia web (licencia SIL OFL, ver fonts/). Sin peticiones a Google. */
   @font-face{font-family:"Cinzel";src:url("fonts/cinzel.woff") format("woff");font-weight:400 900;font-style:normal;font-display:swap}
@@ -245,50 +246,52 @@
   }
   @media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
 
-  /* Profesiones */
-  .pagina{padding:72px 0 110px}
-  .cab-pagina{text-align:center;margin-bottom:36px}
+  .pagina{padding:64px 0 110px}
+  .cab-pagina{text-align:center;margin-bottom:34px}
   .cab-pagina h1{font-family:var(--titulos);font-weight:600;font-size:clamp(1.6rem,3.4vw,2.4rem);letter-spacing:.06em;text-transform:uppercase;line-height:1.15;margin:0 0 12px}
-  .cab-pagina p{color:var(--suave);max-width:640px;margin:0 auto}
+  .cab-pagina p{color:var(--suave);max-width:680px;margin:0 auto}
   .cab-pagina .fuente{margin-top:10px;font-size:.85rem;letter-spacing:.04em;color:#7d818b}
-  .controles{display:flex;flex-direction:column;gap:14px;align-items:center;margin:0 auto 40px;max-width:1020px}
-  .buscador{width:min(100%,520px);padding:13px 16px;background:var(--panel);border:1px solid var(--linea);color:var(--texto);font:400 1rem var(--texto-f)}
-  .buscador:focus{outline:none;border-color:var(--oro)}
+  .vacio{color:var(--suave);text-align:center;padding:26px 0;grid-column:1/-1}
+  .aviso{max-width:680px;margin:0 auto 34px;padding:12px 18px;border:1px dashed rgba(210,169,85,.55);background:rgba(210,169,85,.06);color:#d9cfb6;text-align:center}
+  .aviso b{color:var(--oro-claro)}
+  .buscador{width:min(100%,420px);padding:12px 14px;background:var(--panel);border:1px solid var(--linea);color:var(--texto);font:400 1rem var(--texto-f)}
+  .buscador:focus,.selector:focus{outline:none;border-color:var(--oro)}
   .chips{display:flex;flex-wrap:wrap;gap:8px;justify-content:center}
   .chip{font:600 .72rem/1 var(--texto-f);letter-spacing:.12em;text-transform:uppercase;padding:9px 12px;background:none;border:1px solid var(--linea);color:var(--suave);cursor:pointer}
   .chip:hover{border-color:var(--filete);color:var(--texto)}
   .chip[aria-pressed="true"]{border-color:var(--oro);color:var(--oro-claro);background:rgba(210,169,85,.08)}
-  .bloque{max-width:1020px;margin:0 auto 54px}
-  .bloque>h2{font-family:var(--titulos);font-weight:600;font-size:1.1rem;letter-spacing:.16em;text-transform:uppercase;color:var(--oro-claro);margin:0 0 16px;padding-bottom:12px;border-bottom:1px solid var(--filete)}
-  .grupo-cal{margin:0 0 18px}
-  .grupo-cal>summary{cursor:pointer;list-style:none;font:600 .8rem/1 var(--texto-f);letter-spacing:.2em;text-transform:uppercase;padding:12px 0;color:var(--q)}
-  .grupo-cal>summary::-webkit-details-marker{display:none}
-  .grupo-cal>summary::before{content:"▸ ";color:var(--suave)}
-  .grupo-cal[open]>summary::before{content:"▾ "}
-  .grupo-cal>summary small{color:var(--suave);letter-spacing:.1em;margin-left:6px}
-  .receta{display:grid;grid-template-columns:1fr 150px 1.2fr;gap:14px;align-items:center;padding:12px 6px;border-top:1px solid var(--linea)}
-  .receta .nombre{color:var(--q);font-weight:600}
-  .receta .prof{color:var(--suave);font-size:.85rem;letter-spacing:.06em}
-  .artesanos{display:flex;flex-wrap:wrap;gap:6px 12px;font-size:.92rem}
-  .artesanos span{color:var(--c)}
-  .tabla-art{display:grid;grid-template-columns:repeat(3,1fr);gap:14px}
-  .prof-caja{background:var(--panel);border:1px solid var(--linea);border-top:2px solid var(--oro);padding:16px 18px}
-  .prof-caja h3{margin:0 0 10px;font-family:var(--titulos);font-size:.98rem;letter-spacing:.14em;text-transform:uppercase;color:var(--oro-claro)}
-  .prof-caja ul{list-style:none;margin:0;padding:0}
-  .prof-caja li{display:flex;justify-content:space-between;gap:10px;padding:5px 0;border-top:1px solid var(--linea);font-size:.93rem}
-  .prof-caja li:first-child{border-top:0}
-  .prof-caja .pj{color:var(--c);font-weight:500}
-  .prof-caja .nivel{color:var(--suave);font-variant-numeric:tabular-nums}
-  .prof-caja .social{font-size:.68rem;letter-spacing:.12em;text-transform:uppercase;color:var(--suave);border:1px solid var(--linea);padding:2px 5px;margin-left:6px}
-  .vacio{color:var(--suave);text-align:center;padding:26px 0;font-style:normal;grid-column:1/-1}
-  .aviso{max-width:680px;margin:0 auto 34px;padding:12px 18px;border:1px dashed rgba(210,169,85,.55);background:rgba(210,169,85,.06);color:#d9cfb6;font-size:.98rem;text-align:center}
-  .aviso b{color:var(--oro-claro);font-weight:600}
-  @media (max-width:900px){.tabla-art{grid-template-columns:1fr 1fr}}
-  @media (max-width:720px){
-    .pagina{padding:44px 0 70px}
-    .tabla-art{grid-template-columns:1fr}
-    .receta{grid-template-columns:1fr;gap:4px}
-  }
+  .pj{color:var(--c);font-weight:500}
+  @media (max-width:720px){.pagina{padding:40px 0 70px}}
+  .pestanas{display:flex;flex-wrap:wrap;gap:8px;justify-content:center;margin:0 auto 26px;max-width:1240px}
+  .pestana{display:flex;align-items:center;gap:10px;padding:10px 14px;background:var(--panel);border:1px solid var(--linea);color:var(--texto);cursor:pointer;text-align:left;font:inherit}
+  .pestana img{width:26px;height:26px;border-radius:3px;border:1px solid #2a2d35}
+  .pestana b{display:block;font-weight:600;font-size:.95rem}
+  .pestana small{display:block;color:var(--suave);font-size:.78rem}
+  .pestana:hover{border-color:var(--filete)}
+  .pestana[aria-selected="true"]{border-color:var(--oro);background:rgba(210,169,85,.08)}
+  .pestana[aria-selected="true"] b{color:var(--oro-claro)}
+  .filtros{display:flex;flex-wrap:wrap;gap:14px;align-items:flex-end;margin:0 0 16px}
+  .filtros label{display:flex;flex-direction:column;gap:6px;font-size:.85rem;color:var(--suave)}
+  .selector{min-width:240px;padding:11px 12px;background:var(--panel);border:1px solid var(--linea);color:var(--texto);font:400 1rem var(--texto-f)}
+  .check{flex-direction:row !important;align-items:center;gap:8px !important;padding-bottom:12px;cursor:pointer}
+  .tabla-cont{overflow-x:auto;border:1px solid var(--linea);background:var(--panel)}
+  table.audit{border-collapse:collapse;width:100%;font-size:.93rem}
+  .audit th,.audit td{border-bottom:1px solid var(--linea);padding:9px 12px;white-space:nowrap}
+  .audit thead th{position:sticky;top:0;background:#0d0f14;z-index:1;font-weight:600;text-align:center;vertical-align:bottom}
+  .audit thead th:first-child,.audit tbody td:first-child{text-align:left;position:sticky;left:0;background:#0d0f14;z-index:2;max-width:340px;min-width:260px}
+  .audit tbody td:first-child{background:#0b0c10}
+  .audit th .pj{display:block;max-width:120px;overflow:hidden;text-overflow:ellipsis}
+  .audit th small{display:block;color:var(--suave);font-weight:400;font-size:.75rem;font-family:ui-monospace,monospace}
+  .audit .num{font-family:ui-monospace,monospace;text-align:right;width:50px}
+  .audit .num.cero{color:#e06060}.audit .num.si{color:#86d39c}
+  .audit td.celda{text-align:center;color:#3a3e48}
+  .audit td.celda.si{color:#86d39c;font-weight:700}
+  .audit tr.cat td{background:rgba(210,169,85,.05);color:var(--oro);font:700 .72rem/1 var(--texto-f);letter-spacing:.2em;text-transform:uppercase;padding:12px}
+  .audit tbody tr:hover td{background:rgba(255,255,255,.025)}
+  .audit tbody tr:hover td:first-child{background:#14161c}
+  .pct-total{font-family:ui-monospace,monospace;color:var(--suave)}
+  .leyenda{color:var(--suave);font-size:.85rem;margin:12px 2px 0}
+  @media (max-width:720px){.audit thead th:first-child,.audit tbody td:first-child{min-width:190px;max-width:220px}.selector{min-width:0;width:100%}.filtros label{flex:1 1 100%}}
 </style>
 </head>
 <body>
@@ -326,7 +329,8 @@
         <li class="grupo-menu">
           <button class="titulo-menu" type="button" aria-expanded="false" aria-controls="sub-5">Recursos</button>
           <ul class="submenu" id="sub-5">
-            <li><a href="profesiones.html"><span class="t">Profesiones <span class="etiqueta-menu">Nuevo</span></span><span class="d">Quién fabrica qué en la hermandad</span></a></li>
+            <li><a href="profesiones.html"><span class="t">Profesiones <span class="etiqueta-menu">Nuevo</span></span><span class="d">Todas las recetas y quién sabe hacerlas</span></a></li>
+            <li><a href="recetas.html"><span class="t">Recetas raras y épicas</span><span class="d">Lo más valioso que se fabrica en la hermandad</span></a></li>
           </ul>
         </li>
       </ul>
@@ -338,27 +342,23 @@
 <main class="pagina">
   <div class="envoltura">
     <div class="cab-pagina">
-      <span class="etiqueta">Artesanos</span>
-      <h1>Profesiones</h1>
-      <p>Quién fabrica qué en la hermandad. Busca una receta o un personaje y pídeselo en Discord.</p>
-      <p class="fuente" id="fuente-prof" hidden></p>
+      <span class="etiqueta">Recursos · Profesiones</span>
+      <h1>Profesiones de la hermandad</h1>
+      <p>Todas las recetas de cada profesión y quién sabe hacerlas. Pasa el ratón por una receta para ver qué necesita, o pulsa para abrirla en Wowhead.</p>
+      <p class="fuente" id="fuente" hidden></p>
     </div>
-    <p class="aviso" id="aviso-prof" hidden><b>En construcción.</b> Aún no hay profesiones registradas. Se irán llenando cuando arranquemos en Forever.</p>
-
-    <div class="controles">
-      <input class="buscador" id="buscar" type="search" placeholder="Busca una receta o un personaje…" aria-label="Buscar receta o personaje" autocomplete="off">
-      <div class="chips" id="chips" role="group" aria-label="Filtrar por profesión"></div>
+    <p class="aviso" id="aviso" hidden><b>Cargando el catálogo.</b> Las profesiones aparecerán aquí en cuanto el robot termine de descargar las recetas de Blizzard.</p>
+    <div class="pestanas" id="pestanas" role="tablist" aria-label="Profesión"></div>
+    <div id="panel" hidden>
+      <div class="filtros">
+        <label>Categoría<select class="selector" id="categoria"></select></label>
+        <label>Buscar<input class="buscador" id="buscar" type="search" placeholder="Busca una receta…" autocomplete="off"></label>
+        <label class="check"><input type="checkbox" id="solo-conocidas"> Solo las que sabe alguien</label>
+      </div>
+      <div class="tabla-cont"><table class="audit" id="tabla"></table></div>
+      <p class="leyenda">✓ sabe hacerla · el número es cuántos de la hermandad la saben · debajo de cada nombre, su nivel y el % de recetas que conoce.</p>
     </div>
-
-    <section class="bloque" aria-labelledby="t-recetas">
-      <h2 id="t-recetas">Recetas especiales</h2>
-      <div id="recetas"></div>
-    </section>
-
-    <section class="bloque" aria-labelledby="t-artesanos">
-      <h2 id="t-artesanos">Artesanos por profesión</h2>
-      <div class="tabla-art" id="artesanos"></div>
-    </section>
+    <p class="vacio"><a href="recetas.html" style="color:var(--oro-claro)">Ver solo las recetas raras y épicas →</a></p>
   </div>
 </main>
 
@@ -369,125 +369,83 @@
     <p class="legal"><a href="aviso-legal.html">Aviso legal y privacidad</a> · Sin cookies ni analítica</p>
   </div>
 </footer>
+<script src="comun/recetas.js"></script>
 <script>
 (function () {
   "use strict";
-  const CLASES = {
-    warrior: ["Guerrero", "#C69B6D"], paladin: ["Paladín", "#F48CBA"], hunter: ["Cazador", "#AAD372"],
-    rogue: ["Pícaro", "#FFF468"], priest: ["Sacerdote", "#FFFFFF"], shaman: ["Chamán", "#3D9BFF"],
-    mage: ["Mago", "#3FC7EB"], warlock: ["Brujo", "#8788EE"], druid: ["Druida", "#FF7C0A"]
-  };
-  const PROFESIONES = ["Alquimia", "Herrería", "Encantamiento", "Ingeniería", "Peletería", "Sastrería",
-    "Herboristería", "Minería", "Desuello", "Cocina", "Primeros auxilios", "Pesca"];
-  const CALIDADES = [
-    ["legendary", "Legendarias", "#FF8000", true], ["epic", "Épicas", "#A335EE", true], ["rare", "Raras", "#0070DD", true],
-    ["uncommon", "Poco comunes", "#1EFF00", false], ["common", "Comunes", "#ECE6D6", false]
-  ];
-  const el = (tag, clase, texto) => {
-    const e = document.createElement(tag);
-    if (clase) e.className = clase;
-    if (texto !== undefined) e.textContent = texto;
-    return e;
-  };
+  const CLASES = { warrior: "#C69B6D", paladin: "#F48CBA", hunter: "#AAD372", rogue: "#FFF468", priest: "#FFFFFF", shaman: "#3D9BFF", mage: "#3FC7EB", warlock: "#8788EE", druid: "#FF7C0A" };
+  const el = (t, c, x) => { const e = document.createElement(t); if (c) e.className = c; if (x !== undefined) e.textContent = x; return e; };
   const norm = t => String(t || "").toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "");
-  const color = c => (CLASES[c] || ["", "#ECE6D6"])[1];
+  const $ = id => document.getElementById(id);
+  let indice = [], actual = null, datos = null;
+  const cacheProf = {};
 
-  let datos = { artesanos: [], recetas: [] }, filtro = "", texto = "";
-  const chips = document.getElementById("chips");
-
-  function pintarChips() {
-    // Profesiones que hay en los datos (en el orden de PROFESIONES; las desconocidas, al final)
-    const enDatos = new Set();
-    datos.artesanos.forEach(a => (a.profesiones || []).forEach(p => enDatos.add(p.nombre)));
-    const lista = [...PROFESIONES.filter(p => enDatos.has(p)), ...[...enDatos].filter(p => !PROFESIONES.includes(p)).sort()];
-    chips.replaceChildren(...["", ...(lista.length ? lista : PROFESIONES)].map(p => {
-      const b = el("button", "chip", p || "Todas");
-      b.type = "button";
-      b.setAttribute("aria-pressed", String(p === filtro));
-      b.addEventListener("click", () => { filtro = p; pintar(); });
+  function pestanas() {
+    $("pestanas").replaceChildren(...indice.map(p => {
+      const b = el("button", "pestana"); b.type = "button"; b.setAttribute("role", "tab"); b.setAttribute("aria-selected", String(p.slug === actual));
+      if (p.ico) { const i = el("img"); i.src = "img/iconos/" + p.ico + ".jpg"; i.alt = ""; b.append(i); }
+      const t = el("span"); t.append(el("b", "", p.nombre), el("small", "", p.artesanos === 1 ? "1 artesano" : p.artesanos + " artesanos")); b.append(t);
+      b.addEventListener("click", () => abrir(p.slug));
       return b;
     }));
   }
-
-  function pintar() {
-    pintarChips();
-    const q = norm(texto);
-    const clasePj = {};
-    datos.artesanos.forEach(a => { clasePj[a.personaje] = a.clase; });
-
-    // Recetas por calidad
-    const cont = document.getElementById("recetas");
-    const recetas = datos.recetas.filter(r => (!filtro || r.profesion === filtro) &&
-      (!q || norm(r.nombre).includes(q) || (r.personajes || []).some(p => norm(p).includes(q))));
-    const grupos = CALIDADES.map(([cal, titulo, col, abierto]) => {
-      const lista = recetas.filter(r => (r.calidad || "common") === cal).sort((a, b) => a.nombre.localeCompare(b.nombre, "es"));
-      if (!lista.length) return null;
-      const d = el("details", "grupo-cal");
-      d.style.setProperty("--q", col);
-      if (abierto || q) d.open = true;
-      const s = el("summary", "", titulo);
-      s.append(el("small", "", "(" + lista.length + ")"));
-      d.append(s, ...lista.map(r => {
-        const fila = el("div", "receta");
-        fila.style.setProperty("--q", col);
-        const arts = el("div", "artesanos");
-        (r.personajes || []).forEach(p => { const sp = el("span", "", p); sp.style.setProperty("--c", color(clasePj[p])); arts.append(sp); });
-        fila.append(el("span", "nombre", r.nombre), el("span", "prof", r.profesion), arts);
-        return fila;
-      }));
-      return d;
-    }).filter(Boolean);
-    cont.replaceChildren(...(grupos.length ? grupos : [el("p", "vacio", q || filtro ? "No hay recetas que coincidan." : "Aún no hay recetas registradas.")]));
-
-    // Artesanos por profesión
-    const tabla = document.getElementById("artesanos");
-    const todas = [...PROFESIONES, ...new Set(datos.artesanos.flatMap(a => (a.profesiones || []).map(p => p.nombre)).filter(p => !PROFESIONES.includes(p)))];
-    const cajas = todas.filter(p => !filtro || p === filtro).map(p => {
-      const gente = [];
-      datos.artesanos.forEach(a => (a.profesiones || []).forEach(pr => {
-        if (pr.nombre === p && (!q || norm(a.personaje).includes(q))) gente.push([a, pr.nivel]);
-      }));
-      if (!gente.length) return null;
-      gente.sort((x, y) => (y[1] || 0) - (x[1] || 0) || x[0].personaje.localeCompare(y[0].personaje, "es"));
-      const caja = el("div", "prof-caja");
-      const ul = el("ul");
-      gente.forEach(([a, nivel]) => {
-        const li = el("li");
-        const izq = el("span");
-        const pj = el("span", "pj", a.personaje);
-        pj.style.setProperty("--c", color(a.clase));
-        izq.append(pj);
-        if (a.raider === false) izq.append(el("span", "social", "Social"));
-        li.append(izq, el("span", "nivel", Number.isInteger(nivel) ? String(nivel) : "—"));
-        ul.append(li);
-      });
-      caja.append(el("h3", "", p), ul);
-      return caja;
-    }).filter(Boolean);
-    tabla.replaceChildren(...(cajas.length ? cajas : [el("p", "vacio", q || filtro ? "Nadie coincide con la búsqueda." : "Aún no hay artesanos registrados.")]));
+  function abrir(slug) {
+    actual = slug;
+    history.replaceState(null, "", "#" + slug);
+    pestanas();
+    const cargar = cacheProf[slug] ? Promise.resolve(cacheProf[slug]) :
+      fetch("profesiones/" + slug + ".json", { cache: "no-cache" }).then(r => r.json()).then(d => (cacheProf[slug] = d));
+    cargar.then(d => {
+      datos = d;
+      const sel = $("categoria");
+      sel.replaceChildren(el("option", "", "Todas las categorías"), ...d.categorias.map((c, i) => { const o = el("option", "", c.nombre); o.value = String(i); return o; }));
+      sel.firstChild.value = "";
+      $("panel").hidden = false;
+      tabla();
+    }).catch(() => { $("tabla").replaceChildren(); });
   }
-
-  document.getElementById("buscar").addEventListener("input", e => { texto = e.target.value; pintar(); });
-
-  fetch("profesiones.json", { cache: "no-cache" })
-    .then(r => { if (!r.ok) throw new Error(r.status); return r.json(); })
-    .then(d => {
-      datos = {
-        artesanos: Array.isArray(d.artesanos) ? d.artesanos.filter(a => a && a.personaje) : [],
-        recetas: Array.isArray(d.recetas) ? d.recetas.filter(r => r && r.nombre) : []
-      };
-    })
-    .catch(() => {})
-    .finally(() => {
-      document.getElementById("aviso-prof").hidden = datos.artesanos.length + datos.recetas.length > 0;
-      const f = document.getElementById("fuente-prof");
-      if (datos.artesanos.length) {
-        f.textContent = datos.artesanos.length + " artesanos y " + datos.recetas.length + " recetas · Datos de Blizzard, se actualizan solos cada hora";
-        f.hidden = false;
-      }
-      pintar();
+  function tabla() {
+    if (!datos) return;
+    const arts = datos.artesanos || [];
+    const q = norm($("buscar").value), cat = $("categoria").value, solo = $("solo-conocidas").checked;
+    const thead = el("thead"), hr = el("tr");
+    const th0 = el("th", "", "Recetas de " + datos.nombre);
+    hr.append(th0, el("th", "num", "Nº"));
+    arts.forEach(a => {
+      const th = el("th"); const n = el("span", "pj", a.personaje); n.style.setProperty("--c", CLASES[a.clase] || "#ece6d6"); n.title = a.personaje;
+      th.append(n, el("small", "", a.nivel + " · " + a.pct + "%")); hr.append(th);
     });
-
+    thead.append(hr);
+    const tbody = el("tbody");
+    let filas = 0;
+    datos.categorias.forEach((c, ci) => {
+      if (cat !== "" && String(ci) !== cat) return;
+      const lista = c.recetas.filter(r => (!q || norm(r.n).includes(q) || (r.obj && norm(r.obj.n).includes(q))) && (!solo || r.quien.length));
+      if (!lista.length) return;
+      if (cat === "") { const tr = el("tr", "cat"); const td = el("td", "", c.nombre); td.colSpan = arts.length + 2; tr.append(td); tbody.append(tr); }
+      lista.forEach(r => {
+        const tr = el("tr"); const td = el("td"); td.append(enlaceReceta(r));
+        const n = el("td", "num " + (r.quien.length ? "si" : "cero"), String(r.quien.length));
+        tr.append(td, n);
+        arts.forEach((a, i) => { const sabe = r.quien.includes(i); const m = el("td", "celda" + (sabe ? " si" : ""), sabe ? "✓" : "—"); if (sabe) m.title = a.personaje; tr.append(m); });
+        tbody.append(tr); filas++;
+      });
+    });
+    if (!filas) { const tr = el("tr"); const td = el("td", "vacio", "No hay recetas que coincidan."); td.colSpan = arts.length + 2; tr.append(td); tbody.append(tr); }
+    $("tabla").replaceChildren(thead, tbody);
+  }
+  ["categoria", "buscar", "solo-conocidas"].forEach(id => $(id).addEventListener(id === "buscar" ? "input" : "change", tabla));
+  fetch("profesiones/indice.json", { cache: "no-cache" }).then(r => r.ok ? r.json() : []).catch(() => [])
+    .then(idx => {
+      indice = (Array.isArray(idx) ? idx : []).filter(p => p && p.slug && p.total > 3)
+        .sort((a, b) => b.artesanos - a.artesanos || a.nombre.localeCompare(b.nombre, "es"));
+      $("aviso").hidden = indice.length > 0;
+      if (!indice.length) return;
+      const total = indice.reduce((s, p) => s + p.total, 0);
+      const f = $("fuente"); f.textContent = indice.length + " profesiones · " + total + " recetas · Datos de Blizzard, se actualizan solos cada hora"; f.hidden = false;
+      const pedida = location.hash.slice(1);
+      abrir(indice.some(p => p.slug === pedida) ? pedida : indice[0].slug);
+    });
 })();
 </script>
 <script src="comun/menu.js" defer></script>
