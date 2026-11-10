@@ -6,7 +6,7 @@ Para añadir una página o sección al menú, edítala en MENU y ejecuta:  pytho
 from pathlib import Path
 
 RAIZ = Path(__file__).resolve().parent.parent
-PAGINAS = ["index.html", "primera-semana.html", "profesiones.html", "recetas.html"]
+PAGINAS = ["index.html", "primera-semana.html", "profesiones.html", "recetas.html", "banco.html"]
 DISCORD = "https://discord.gg/mdKr9CPTTM"
 
 # Enlaces directos (secciones de base) y desplegables (temas que tendrán más cosas dentro).
@@ -26,6 +26,7 @@ MENU = [
     ("Primera semana", "primera-semana.html"),
     ("Recursos", [
         ("Profesiones", "profesiones.html", "Quién sabe hacer qué, y las recetas raras y épicas", "Nuevo"),
+        ("Banco", "banco.html", "Lo que guarda la hermandad y cómo pedirlo", "En construcción"),
     ]),
 ]
 
