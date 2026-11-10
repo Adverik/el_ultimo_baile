@@ -23,8 +23,8 @@
         },
         {
           "nombre": "Pesca",
-          "nivel": 50,
-          "max": 150
+          "nivel": 150,
+          "max": 225
         },
         {
           "nombre": "Primeros auxilios",
@@ -153,7 +153,39 @@
         },
         {
           "nombre": "Cocina",
-          "nivel": 144,
+          "nivel": 183,
+          "max": 225
+        },
+        {
+          "nombre": "Pesca",
+          "nivel": 1,
+          "max": 75
+        },
+        {
+          "nombre": "Primeros auxilios",
+          "nivel": 148,
+          "max": 150
+        }
+      ]
+    },
+    {
+      "personaje": "Coloso Tempestad",
+      "clase": "warrior",
+      "raider": false,
+      "profesiones": [
+        {
+          "nombre": "Minería",
+          "nivel": 136,
+          "max": 150
+        },
+        {
+          "nombre": "Herrería",
+          "nivel": 97,
+          "max": 150
+        },
+        {
+          "nombre": "Cocina",
+          "nivel": 96,
           "max": 150
         },
         {
@@ -163,7 +195,7 @@
         },
         {
           "nombre": "Primeros auxilios",
-          "nivel": 81,
+          "nivel": 150,
           "max": 150
         }
       ]
@@ -212,7 +244,7 @@
         },
         {
           "nombre": "Desuello",
-          "nivel": 185,
+          "nivel": 191,
           "max": 225
         },
         {
@@ -240,11 +272,11 @@
         {
           "nombre": "Alquimia",
           "nivel": 150,
-          "max": 150
+          "max": 225
         },
         {
           "nombre": "Herboristería",
-          "nivel": 180,
+          "nivel": 190,
           "max": 225
         },
         {
@@ -254,7 +286,7 @@
         },
         {
           "nombre": "Primeros auxilios",
-          "nivel": 69,
+          "nivel": 72,
           "max": 150
         }
       ]
@@ -411,7 +443,7 @@
       "profesiones": [
         {
           "nombre": "Sastrería",
-          "nivel": 116,
+          "nivel": 127,
           "max": 150
         },
         {
@@ -426,8 +458,8 @@
         },
         {
           "nombre": "Pesca",
-          "nivel": 121,
-          "max": 150
+          "nivel": 146,
+          "max": 225
         }
       ]
     },
@@ -551,7 +583,7 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 82,
+          "nivel": 83,
           "max": 150
         },
         {
@@ -588,12 +620,12 @@
         },
         {
           "nombre": "Desuello",
-          "nivel": 136,
+          "nivel": 139,
           "max": 225
         },
         {
           "nombre": "Cocina",
-          "nivel": 17,
+          "nivel": 25,
           "max": 75
         },
         {
@@ -674,7 +706,7 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 119,
+          "nivel": 126,
           "max": 150
         },
         {
@@ -684,7 +716,7 @@
         },
         {
           "nombre": "Cocina",
-          "nivel": 173,
+          "nivel": 197,
           "max": 225
         },
         {
@@ -694,7 +726,7 @@
         },
         {
           "nombre": "Primeros auxilios",
-          "nivel": 148,
+          "nivel": 214,
           "max": 225
         }
       ]
@@ -834,23 +866,23 @@
       "profesiones": [
         {
           "nombre": "Alquimia",
-          "nivel": 69,
-          "max": 75
+          "nivel": 82,
+          "max": 150
         },
         {
           "nombre": "Herboristería",
-          "nivel": 97,
+          "nivel": 111,
           "max": 150
         },
         {
           "nombre": "Cocina",
-          "nivel": 83,
+          "nivel": 91,
           "max": 150
         },
         {
           "nombre": "Pesca",
-          "nivel": 75,
-          "max": 75
+          "nivel": 82,
+          "max": 150
         },
         {
           "nombre": "Primeros auxilios",
@@ -984,12 +1016,12 @@
         },
         {
           "nombre": "Desuello",
-          "nivel": 147,
+          "nivel": 150,
           "max": 225
         },
         {
           "nombre": "Cocina",
-          "nivel": 115,
+          "nivel": 116,
           "max": 150
         },
         {
@@ -1109,7 +1141,7 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 108,
+          "nivel": 112,
           "max": 150
         },
         {
@@ -1210,7 +1242,7 @@
         },
         {
           "nombre": "Herboristería",
-          "nivel": 144,
+          "nivel": 148,
           "max": 150
         },
         {
@@ -1241,6 +1273,7 @@
         "Don Josechu",
         "Fran Furion",
         "Layrela Rondanit",
+        "Nelv Stardancer",
         "Sugar Papy",
         "Viilar Terrisia"
       ]
@@ -1373,6 +1406,7 @@
         "Fran Furion",
         "Genethika Brisaveloz",
         "Layrela Rondanit",
+        "Nelv Stardancer",
         "Sugar Papy",
         "Viilar Terrisia"
       ]
@@ -1419,6 +1453,7 @@
       "profesion": "Alquimia",
       "calidad": "common",
       "personajes": [
+        "Dio Hotmetal",
         "Sugar Papy"
       ]
     },
@@ -1548,6 +1583,14 @@
       "personajes": [
         "Layrela Rondanit",
         "Viilar Terrisia"
+      ]
+    },
+    {
+      "nombre": "Minor Discolored Healing Potion",
+      "profesion": "Alquimia",
+      "calidad": "common",
+      "personajes": [
+        "Nelv Stardancer"
       ]
     },
     {
@@ -1693,6 +1736,7 @@
         "Black Phanter",
         "Blind Minds",
         "Chaca Choochoo",
+        "Coloso Tempestad",
         "Cuzcu Aker",
         "Diana Flechaveloz",
         "Dio Hotmetal",
@@ -1760,6 +1804,7 @@
       "profesion": "Cocina",
       "calidad": "common",
       "personajes": [
+        "Coloso Tempestad",
         "Dum Bo",
         "Espartaco Gladiador",
         "Khyoraku Shunsui",
@@ -1776,6 +1821,7 @@
       "personajes": [
         "Aalesian Naeuri",
         "Chaca Choochoo",
+        "Coloso Tempestad",
         "Diana Flechaveloz",
         "Dio Hotmetal",
         "Dum Bo",
@@ -1803,6 +1849,7 @@
       "profesion": "Cocina",
       "calidad": "common",
       "personajes": [
+        "Coloso Tempestad",
         "Diana Flechaveloz",
         "Flexita Shadowsoul",
         "Sugar Papy"
@@ -1839,6 +1886,7 @@
       "profesion": "Cocina",
       "calidad": "common",
       "personajes": [
+        "Aalesian Naeuri",
         "Diana Flechaveloz",
         "Dum Bo",
         "Edoras Duskranger",
@@ -1858,6 +1906,7 @@
         "Black Phanter",
         "Blind Minds",
         "Chaca Choochoo",
+        "Coloso Tempestad",
         "Cuzcu Aker",
         "Diana Flechaveloz",
         "Dio Hotmetal",
@@ -1911,6 +1960,7 @@
       "calidad": "common",
       "personajes": [
         "Chaca Choochoo",
+        "Coloso Tempestad",
         "Dum Bo",
         "Finn Felagund",
         "Flexita Shadowsoul",
@@ -1925,6 +1975,7 @@
       "personajes": [
         "Aalesian Naeuri",
         "Chaca Choochoo",
+        "Coloso Tempestad",
         "Diana Flechaveloz",
         "Dio Hotmetal",
         "Dum Bo",
@@ -1953,6 +2004,7 @@
       "personajes": [
         "Aalesian Naeuri",
         "Chaca Choochoo",
+        "Coloso Tempestad",
         "Diana Flechaveloz",
         "Dum Bo",
         "Edoras Duskranger",
@@ -1994,6 +2046,7 @@
       "profesion": "Cocina",
       "calidad": "common",
       "personajes": [
+        "Coloso Tempestad",
         "Dum Bo",
         "Manelhon Gargon",
         "Memas Tour"
@@ -2019,6 +2072,7 @@
       "personajes": [
         "Aalesian Naeuri",
         "Chaca Choochoo",
+        "Coloso Tempestad",
         "Diana Flechaveloz",
         "Dum Bo",
         "Edoras Duskranger",
@@ -2088,6 +2142,7 @@
       "profesion": "Cocina",
       "calidad": "common",
       "personajes": [
+        "Coloso Tempestad",
         "Dum Bo",
         "Edoras Duskranger",
         "Flexita Shadowsoul",
@@ -2110,6 +2165,7 @@
         "Black Phanter",
         "Blind Minds",
         "Chaca Choochoo",
+        "Coloso Tempestad",
         "Cuzcu Aker",
         "Diana Flechaveloz",
         "Dio Hotmetal",
@@ -2196,6 +2252,7 @@
         "Flexita Shadowsoul",
         "Manelhon Gargon",
         "Memas Tour",
+        "Nelv Stardancer",
         "Tharindel Magnaluz"
       ]
     },
@@ -2204,6 +2261,7 @@
       "profesion": "Cocina",
       "calidad": "common",
       "personajes": [
+        "Aalesian Naeuri",
         "Dum Bo",
         "Finn Felagund"
       ]
@@ -2215,6 +2273,7 @@
       "personajes": [
         "Aalesian Naeuri",
         "Chaca Choochoo",
+        "Coloso Tempestad",
         "Cuzcu Aker",
         "Diana Flechaveloz",
         "Dum Bo",
@@ -2226,6 +2285,14 @@
         "Manelhon Gargon",
         "Palmira Natblida",
         "Sugar Papy"
+      ]
+    },
+    {
+      "nombre": "Mystery Stew",
+      "profesion": "Cocina",
+      "calidad": "common",
+      "personajes": [
+        "Finn Felagund"
       ]
     },
     {
@@ -2286,6 +2353,14 @@
       ]
     },
     {
+      "nombre": "Roast Raptor",
+      "profesion": "Cocina",
+      "calidad": "common",
+      "personajes": [
+        "Finn Felagund"
+      ]
+    },
+    {
       "nombre": "Roasted Boar Meat",
       "profesion": "Cocina",
       "calidad": "common",
@@ -2296,6 +2371,7 @@
         "Black Phanter",
         "Blind Minds",
         "Chaca Choochoo",
+        "Coloso Tempestad",
         "Cuzcu Aker",
         "Diana Flechaveloz",
         "Dio Hotmetal",
@@ -2339,6 +2415,7 @@
       "profesion": "Cocina",
       "calidad": "common",
       "personajes": [
+        "Aalesian Naeuri",
         "Finn Felagund"
       ]
     },
@@ -2419,6 +2496,7 @@
       "profesion": "Cocina",
       "calidad": "common",
       "personajes": [
+        "Coloso Tempestad",
         "Diana Flechaveloz",
         "Dum Bo",
         "Edoras Duskranger",
@@ -2428,6 +2506,7 @@
         "Layrela Rondanit",
         "Lithanas Chafardero",
         "Memas Tour",
+        "Nelv Stardancer",
         "Palmira Natblida",
         "Runa Ruina",
         "Sugar Papy",
@@ -2450,6 +2529,7 @@
       "personajes": [
         "Aalesian Naeuri",
         "Chaca Choochoo",
+        "Coloso Tempestad",
         "Cuzcu Aker",
         "Diana Flechaveloz",
         "Dio Hotmetal",
@@ -2533,6 +2613,7 @@
       "calidad": "common",
       "personajes": [
         "Aalesian Naeuri",
+        "Coloso Tempestad",
         "Cuzcu Aker",
         "Dum Bo",
         "Edoras Duskranger",
@@ -3073,6 +3154,7 @@
       "calidad": "uncommon",
       "personajes": [
         "Aalesian Naeuri",
+        "Coloso Tempestad",
         "Khyoraku Shunsui"
       ]
     },
@@ -3082,6 +3164,7 @@
       "calidad": "uncommon",
       "personajes": [
         "Aalesian Naeuri",
+        "Coloso Tempestad",
         "Tharindel Magnaluz"
       ]
     },
@@ -3107,6 +3190,7 @@
       "calidad": "uncommon",
       "personajes": [
         "Aalesian Naeuri",
+        "Coloso Tempestad",
         "Khyoraku Shunsui",
         "Tharindel Magnaluz"
       ]
@@ -3116,7 +3200,8 @@
       "profesion": "Herrería",
       "calidad": "uncommon",
       "personajes": [
-        "Aalesian Naeuri"
+        "Aalesian Naeuri",
+        "Coloso Tempestad"
       ]
     },
     {
@@ -3133,6 +3218,7 @@
       "calidad": "common",
       "personajes": [
         "Aalesian Naeuri",
+        "Coloso Tempestad",
         "Espartaco Gladiador",
         "Hugo Forjaluz",
         "Khyoraku Shunsui",
@@ -3145,6 +3231,7 @@
       "calidad": "common",
       "personajes": [
         "Aalesian Naeuri",
+        "Coloso Tempestad",
         "Espartaco Gladiador",
         "Hugo Forjaluz",
         "Khyoraku Shunsui"
@@ -3156,6 +3243,7 @@
       "calidad": "common",
       "personajes": [
         "Aalesian Naeuri",
+        "Coloso Tempestad",
         "Espartaco Gladiador",
         "Hugo Forjaluz",
         "Khyoraku Shunsui"
@@ -3167,6 +3255,7 @@
       "calidad": "common",
       "personajes": [
         "Aalesian Naeuri",
+        "Coloso Tempestad",
         "Espartaco Gladiador",
         "Hugo Forjaluz",
         "Khyoraku Shunsui",
@@ -3179,6 +3268,7 @@
       "calidad": "uncommon",
       "personajes": [
         "Aalesian Naeuri",
+        "Coloso Tempestad",
         "Hugo Forjaluz",
         "Khyoraku Shunsui"
       ]
@@ -3189,6 +3279,7 @@
       "calidad": "common",
       "personajes": [
         "Aalesian Naeuri",
+        "Coloso Tempestad",
         "Espartaco Gladiador",
         "Hugo Forjaluz",
         "Khyoraku Shunsui",
@@ -3201,6 +3292,7 @@
       "calidad": "uncommon",
       "personajes": [
         "Aalesian Naeuri",
+        "Coloso Tempestad",
         "Espartaco Gladiador",
         "Hugo Forjaluz",
         "Khyoraku Shunsui",
@@ -3213,6 +3305,7 @@
       "calidad": "uncommon",
       "personajes": [
         "Aalesian Naeuri",
+        "Coloso Tempestad",
         "Espartaco Gladiador",
         "Hugo Forjaluz",
         "Khyoraku Shunsui",
@@ -3225,6 +3318,7 @@
       "calidad": "uncommon",
       "personajes": [
         "Aalesian Naeuri",
+        "Coloso Tempestad",
         "Espartaco Gladiador",
         "Hugo Forjaluz",
         "Khyoraku Shunsui",
@@ -3236,6 +3330,7 @@
       "profesion": "Herrería",
       "calidad": "uncommon",
       "personajes": [
+        "Coloso Tempestad",
         "Espartaco Gladiador"
       ]
     },
@@ -3245,6 +3340,7 @@
       "calidad": "uncommon",
       "personajes": [
         "Aalesian Naeuri",
+        "Coloso Tempestad",
         "Espartaco Gladiador",
         "Hugo Forjaluz",
         "Khyoraku Shunsui"
@@ -3256,6 +3352,7 @@
       "calidad": "uncommon",
       "personajes": [
         "Aalesian Naeuri",
+        "Coloso Tempestad",
         "Espartaco Gladiador",
         "Hugo Forjaluz",
         "Khyoraku Shunsui"
@@ -3267,6 +3364,7 @@
       "calidad": "common",
       "personajes": [
         "Aalesian Naeuri",
+        "Coloso Tempestad",
         "Espartaco Gladiador",
         "Hugo Forjaluz",
         "Khyoraku Shunsui",
@@ -3279,6 +3377,7 @@
       "calidad": "common",
       "personajes": [
         "Aalesian Naeuri",
+        "Coloso Tempestad",
         "Espartaco Gladiador",
         "Hugo Forjaluz",
         "Khyoraku Shunsui",
@@ -3291,6 +3390,7 @@
       "calidad": "uncommon",
       "personajes": [
         "Aalesian Naeuri",
+        "Coloso Tempestad",
         "Espartaco Gladiador",
         "Hugo Forjaluz",
         "Khyoraku Shunsui",
@@ -3303,6 +3403,7 @@
       "calidad": "rare",
       "personajes": [
         "Aalesian Naeuri",
+        "Coloso Tempestad",
         "Espartaco Gladiador",
         "Hugo Forjaluz",
         "Khyoraku Shunsui",
@@ -3315,6 +3416,7 @@
       "calidad": "rare",
       "personajes": [
         "Aalesian Naeuri",
+        "Coloso Tempestad",
         "Hugo Forjaluz",
         "Khyoraku Shunsui",
         "Tharindel Magnaluz"
@@ -3369,6 +3471,14 @@
       ]
     },
     {
+      "nombre": "Guard's Chain Belt",
+      "profesion": "Herrería",
+      "calidad": "rare",
+      "personajes": [
+        "Coloso Tempestad"
+      ]
+    },
+    {
       "nombre": "Heavy Bronze Mace",
       "profesion": "Herrería",
       "calidad": "uncommon",
@@ -3382,6 +3492,7 @@
       "calidad": "uncommon",
       "personajes": [
         "Aalesian Naeuri",
+        "Coloso Tempestad",
         "Hugo Forjaluz",
         "Khyoraku Shunsui"
       ]
@@ -3392,6 +3503,7 @@
       "calidad": "uncommon",
       "personajes": [
         "Aalesian Naeuri",
+        "Coloso Tempestad",
         "Espartaco Gladiador",
         "Hugo Forjaluz",
         "Khyoraku Shunsui",
@@ -3464,6 +3576,7 @@
       "calidad": "uncommon",
       "personajes": [
         "Aalesian Naeuri",
+        "Coloso Tempestad",
         "Espartaco Gladiador"
       ]
     },
@@ -3473,6 +3586,7 @@
       "calidad": "uncommon",
       "personajes": [
         "Aalesian Naeuri",
+        "Coloso Tempestad",
         "Khyoraku Shunsui"
       ]
     },
@@ -3498,6 +3612,7 @@
       "calidad": "uncommon",
       "personajes": [
         "Aalesian Naeuri",
+        "Coloso Tempestad",
         "Espartaco Gladiador",
         "Hugo Forjaluz",
         "Khyoraku Shunsui",
@@ -3510,6 +3625,7 @@
       "calidad": "uncommon",
       "personajes": [
         "Aalesian Naeuri",
+        "Coloso Tempestad",
         "Espartaco Gladiador",
         "Khyoraku Shunsui"
       ]
@@ -3520,6 +3636,7 @@
       "calidad": "uncommon",
       "personajes": [
         "Aalesian Naeuri",
+        "Coloso Tempestad",
         "Espartaco Gladiador",
         "Khyoraku Shunsui",
         "Tharindel Magnaluz"
@@ -3531,6 +3648,7 @@
       "calidad": "uncommon",
       "personajes": [
         "Aalesian Naeuri",
+        "Coloso Tempestad",
         "Espartaco Gladiador",
         "Khyoraku Shunsui",
         "Tharindel Magnaluz"
@@ -3541,6 +3659,7 @@
       "profesion": "Herrería",
       "calidad": "uncommon",
       "personajes": [
+        "Coloso Tempestad",
         "Espartaco Gladiador",
         "Tharindel Magnaluz"
       ]
@@ -3551,6 +3670,7 @@
       "calidad": "uncommon",
       "personajes": [
         "Aalesian Naeuri",
+        "Coloso Tempestad",
         "Espartaco Gladiador",
         "Hugo Forjaluz",
         "Khyoraku Shunsui",
@@ -3563,6 +3683,7 @@
       "calidad": "common",
       "personajes": [
         "Aalesian Naeuri",
+        "Coloso Tempestad",
         "Espartaco Gladiador",
         "Hugo Forjaluz",
         "Khyoraku Shunsui",
@@ -3575,6 +3696,7 @@
       "calidad": "common",
       "personajes": [
         "Aalesian Naeuri",
+        "Coloso Tempestad",
         "Espartaco Gladiador",
         "Hugo Forjaluz",
         "Khyoraku Shunsui",
@@ -3587,6 +3709,7 @@
       "calidad": "common",
       "personajes": [
         "Aalesian Naeuri",
+        "Coloso Tempestad",
         "Espartaco Gladiador",
         "Hugo Forjaluz",
         "Khyoraku Shunsui",
@@ -3599,6 +3722,7 @@
       "calidad": "uncommon",
       "personajes": [
         "Aalesian Naeuri",
+        "Coloso Tempestad",
         "Espartaco Gladiador",
         "Hugo Forjaluz",
         "Khyoraku Shunsui",
@@ -3611,10 +3735,19 @@
       "calidad": "uncommon",
       "personajes": [
         "Aalesian Naeuri",
+        "Coloso Tempestad",
         "Espartaco Gladiador",
         "Hugo Forjaluz",
         "Khyoraku Shunsui",
         "Tharindel Magnaluz"
+      ]
+    },
+    {
+      "nombre": "Runed Copper Breastplate",
+      "profesion": "Herrería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Coloso Tempestad"
       ]
     },
     {
@@ -3623,6 +3756,7 @@
       "calidad": "uncommon",
       "personajes": [
         "Aalesian Naeuri",
+        "Coloso Tempestad",
         "Espartaco Gladiador",
         "Hugo Forjaluz",
         "Khyoraku Shunsui",
@@ -3635,6 +3769,7 @@
       "calidad": "uncommon",
       "personajes": [
         "Aalesian Naeuri",
+        "Coloso Tempestad",
         "Espartaco Gladiador",
         "Hugo Forjaluz",
         "Khyoraku Shunsui",
@@ -3655,6 +3790,7 @@
       "calidad": "common",
       "personajes": [
         "Aalesian Naeuri",
+        "Coloso Tempestad",
         "Espartaco Gladiador",
         "Hugo Forjaluz",
         "Khyoraku Shunsui",
@@ -3675,6 +3811,7 @@
       "calidad": "common",
       "personajes": [
         "Aalesian Naeuri",
+        "Coloso Tempestad",
         "Espartaco Gladiador",
         "Hugo Forjaluz",
         "Khyoraku Shunsui",
@@ -3687,6 +3824,7 @@
       "calidad": "uncommon",
       "personajes": [
         "Aalesian Naeuri",
+        "Coloso Tempestad",
         "Espartaco Gladiador",
         "Hugo Forjaluz",
         "Khyoraku Shunsui",
@@ -3766,6 +3904,7 @@
       "calidad": "rare",
       "personajes": [
         "Aalesian Naeuri",
+        "Coloso Tempestad",
         "Hugo Forjaluz",
         "Khyoraku Shunsui",
         "Tharindel Magnaluz"
@@ -3777,6 +3916,7 @@
       "calidad": "uncommon",
       "personajes": [
         "Aalesian Naeuri",
+        "Coloso Tempestad",
         "Espartaco Gladiador",
         "Hugo Forjaluz",
         "Khyoraku Shunsui"
@@ -4135,6 +4275,7 @@
       "personajes": [
         "Aalesian Naeuri",
         "Chaca Choochoo",
+        "Coloso Tempestad",
         "Cuzcu Aker",
         "Espartaco Gladiador",
         "Flexita Shadowsoul",
@@ -4152,6 +4293,7 @@
       "personajes": [
         "Aalesian Naeuri",
         "Chaca Choochoo",
+        "Coloso Tempestad",
         "Cuzcu Aker",
         "Espartaco Gladiador",
         "Flexita Shadowsoul",
@@ -4177,6 +4319,7 @@
       "personajes": [
         "Aalesian Naeuri",
         "Chaca Choochoo",
+        "Coloso Tempestad",
         "Cuzcu Aker",
         "Espartaco Gladiador",
         "Flexita Shadowsoul",
@@ -4193,6 +4336,7 @@
       "personajes": [
         "Aalesian Naeuri",
         "Chaca Choochoo",
+        "Coloso Tempestad",
         "Cuzcu Aker",
         "Espartaco Gladiador",
         "Flexita Shadowsoul",
@@ -4258,6 +4402,7 @@
       "personajes": [
         "Aalesian Naeuri",
         "Chaca Choochoo",
+        "Coloso Tempestad",
         "Cuzcu Aker",
         "Espartaco Gladiador",
         "Flexita Shadowsoul",
@@ -5112,14 +5257,25 @@
       "calidad": "common",
       "personajes": [
         "Aalesian Naeuri",
+        "Dum Bo",
+        "Espartaco Gladiador",
+        "Finn Felagund",
+        "Memas Tour"
+      ]
+    },
+    {
+      "nombre": "Fishing",
+      "profesion": "Pesca",
+      "calidad": "common",
+      "personajes": [
         "Cuzcu Aker",
         "Diana Flechaveloz",
         "Edoras Duskranger",
-        "Finn Felagund",
         "Flexita Shadowsoul",
         "Layrela Rondanit",
         "Lithanas Chafardero",
         "Manelhon Gargon",
+        "Nelv Stardancer",
         "Palmira Natblida",
         "Tharindel Magnaluz"
       ]
@@ -5132,11 +5288,11 @@
         "Aynita Again",
         "Blind Minds",
         "Chaca Choochoo",
+        "Coloso Tempestad",
         "Hugo Forjaluz",
         "Ildaren Belisar",
         "Jonaver Legends",
         "La Pety",
-        "Nelv Stardancer",
         "Nimassus Pater",
         "Nindalf Pizpireta",
         "Saint Peligroxa",
@@ -5147,21 +5303,13 @@
       ]
     },
     {
-      "nombre": "Fishing",
-      "profesion": "Pesca",
-      "calidad": "common",
-      "personajes": [
-        "Dum Bo",
-        "Espartaco Gladiador",
-        "Memas Tour"
-      ]
-    },
-    {
       "nombre": "Anti-Venom",
       "profesion": "Primeros auxilios",
       "calidad": "common",
       "personajes": [
         "Aalesian Naeuri",
+        "Chaca Choochoo",
+        "Coloso Tempestad",
         "Edoras Duskranger",
         "Flexita Shadowsoul",
         "Genethika Brisaveloz",
@@ -5179,6 +5327,7 @@
         "Aalesian Naeuri",
         "Aurelio Amador",
         "Chaca Choochoo",
+        "Coloso Tempestad",
         "Diana Flechaveloz",
         "Dio Hotmetal",
         "Dum Bo",
@@ -5214,6 +5363,7 @@
       "calidad": "common",
       "personajes": [
         "Aalesian Naeuri",
+        "Coloso Tempestad",
         "Edoras Duskranger",
         "Flexita Shadowsoul",
         "Genethika Brisaveloz"
@@ -5227,6 +5377,7 @@
         "Aalesian Naeuri",
         "Aurelio Amador",
         "Chaca Choochoo",
+        "Coloso Tempestad",
         "Diana Flechaveloz",
         "Dio Hotmetal",
         "Dum Bo",
@@ -5254,7 +5405,8 @@
       "profesion": "Primeros auxilios",
       "calidad": "common",
       "personajes": [
-        "Aalesian Naeuri"
+        "Aalesian Naeuri",
+        "La Pety"
       ]
     },
     {
@@ -5263,6 +5415,8 @@
       "calidad": "common",
       "personajes": [
         "Aalesian Naeuri",
+        "Chaca Choochoo",
+        "Coloso Tempestad",
         "Edoras Duskranger",
         "Espartaco Gladiador",
         "Flexita Shadowsoul",
@@ -5279,6 +5433,7 @@
         "Aalesian Naeuri",
         "Aurelio Amador",
         "Chaca Choochoo",
+        "Coloso Tempestad",
         "Dio Hotmetal",
         "Edoras Duskranger",
         "Filps Pachamamamon",
@@ -5304,6 +5459,7 @@
         "Aurelio Amador",
         "Blind Minds",
         "Chaca Choochoo",
+        "Coloso Tempestad",
         "Cuzcu Aker",
         "Diana Flechaveloz",
         "Dio Hotmetal",
@@ -5338,6 +5494,14 @@
       ]
     },
     {
+      "nombre": "Mageweave Bandage",
+      "profesion": "Primeros auxilios",
+      "calidad": "common",
+      "personajes": [
+        "La Pety"
+      ]
+    },
+    {
       "nombre": "Minor Healing Potion",
       "profesion": "Primeros auxilios",
       "calidad": "common",
@@ -5345,6 +5509,7 @@
         "Aalesian Naeuri",
         "Aurelio Amador",
         "Chaca Choochoo",
+        "Coloso Tempestad",
         "Diana Flechaveloz",
         "Dio Hotmetal",
         "Dum Bo",
@@ -5377,7 +5542,9 @@
       "profesion": "Primeros auxilios",
       "calidad": "common",
       "personajes": [
-        "Aalesian Naeuri"
+        "Aalesian Naeuri",
+        "Coloso Tempestad",
+        "La Pety"
       ]
     },
     {
@@ -5386,6 +5553,7 @@
       "calidad": "common",
       "personajes": [
         "Aalesian Naeuri",
+        "Coloso Tempestad",
         "Edoras Duskranger",
         "Flexita Shadowsoul",
         "Genethika Brisaveloz",
@@ -5401,6 +5569,8 @@
       "calidad": "common",
       "personajes": [
         "Aalesian Naeuri",
+        "Chaca Choochoo",
+        "Coloso Tempestad",
         "Edoras Duskranger",
         "Espartaco Gladiador",
         "Flexita Shadowsoul",
@@ -5419,7 +5589,33 @@
       "calidad": "common",
       "personajes": [
         "Aalesian Naeuri",
+        "Chaca Choochoo",
+        "Coloso Tempestad",
         "Genethika Brisaveloz"
+      ]
+    },
+    {
+      "nombre": "Azure Silk Hood",
+      "profesion": "Sastrería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Finn Felagund"
+      ]
+    },
+    {
+      "nombre": "Azure Silk Pants",
+      "profesion": "Sastrería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Finn Felagund"
+      ]
+    },
+    {
+      "nombre": "Azure Silk Vest",
+      "profesion": "Sastrería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Finn Felagund"
       ]
     },
     {
@@ -5640,6 +5836,14 @@
       ]
     },
     {
+      "nombre": "Greater Adept's Robe",
+      "profesion": "Sastrería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Finn Felagund"
+      ]
+    },
+    {
       "nombre": "Green Linen Bracers",
       "profesion": "Sastrería",
       "calidad": "uncommon",
@@ -5740,7 +5944,8 @@
       "profesion": "Sastrería",
       "calidad": "uncommon",
       "personajes": [
-        "Dum Bo"
+        "Dum Bo",
+        "Finn Felagund"
       ]
     },
     {
@@ -5861,6 +6066,14 @@
       ]
     },
     {
+      "nombre": "Pristine Circlet",
+      "profesion": "Sastrería",
+      "calidad": "rare",
+      "personajes": [
+        "Finn Felagund"
+      ]
+    },
+    {
       "nombre": "Red Linen Bag",
       "profesion": "Sastrería",
       "calidad": "common",
@@ -5898,6 +6111,14 @@
       ]
     },
     {
+      "nombre": "Red Woolen Bag",
+      "profesion": "Sastrería",
+      "calidad": "common",
+      "personajes": [
+        "Finn Felagund"
+      ]
+    },
+    {
       "nombre": "Red Woolen Boots",
       "profesion": "Sastrería",
       "calidad": "uncommon",
@@ -5925,6 +6146,14 @@
       "calidad": "uncommon",
       "personajes": [
         "Dum Bo"
+      ]
+    },
+    {
+      "nombre": "Robes of Arcana",
+      "profesion": "Sastrería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Finn Felagund"
       ]
     },
     {
@@ -5973,6 +6202,14 @@
         "Saint Peligroxa",
         "Thundrik Volgrim",
         "Vaporeta Pizpireta"
+      ]
+    },
+    {
+      "nombre": "Small Silk Pack",
+      "profesion": "Sastrería",
+      "calidad": "common",
+      "personajes": [
+        "Finn Felagund"
       ]
     },
     {

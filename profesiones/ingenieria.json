@@ -1,0 +1,2982 @@
+{
+  "nombre": "Ingeniería",
+  "ico": "136243",
+  "total": 275,
+  "artesanos": [
+    {
+      "personaje": "Chaca Choochoo",
+      "clase": "druid",
+      "raider": false,
+      "nivel": 150,
+      "max": 225,
+      "pct": 12
+    },
+    {
+      "personaje": "Cuzcu Aker",
+      "clase": "paladin",
+      "raider": true,
+      "nivel": 116,
+      "max": 150,
+      "pct": 6
+    },
+    {
+      "personaje": "La Pety",
+      "clase": "rogue",
+      "raider": false,
+      "nivel": 116,
+      "max": 150,
+      "pct": 5
+    },
+    {
+      "personaje": "Flexita Shadowsoul",
+      "clase": "hunter",
+      "raider": false,
+      "nivel": 98,
+      "max": 150,
+      "pct": 6
+    },
+    {
+      "personaje": "Jonaver Legends",
+      "clase": "mage",
+      "raider": false,
+      "nivel": 82,
+      "max": 150,
+      "pct": 5
+    }
+  ],
+  "categorias": [
+    {
+      "nombre": "Piezas",
+      "recetas": [
+        {
+          "id": 2413,
+          "n": "Pólvora férrea",
+          "q": "common",
+          "ico": "133848",
+          "reac": [
+            [
+              "Piedra basta",
+              1
+            ]
+          ],
+          "obj": {
+            "id": 4357,
+            "ilvl": 5,
+            "n": "Pólvora férrea",
+            "q": "common",
+            "sub": "Piezas",
+            "venta": [
+              "0",
+              "0",
+              "4"
+            ]
+          },
+          "quien": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "id": 2417,
+          "n": "Manojo de cuentas de cobre",
+          "q": "common",
+          "ico": "134068",
+          "reac": [
+            [
+              "Lingote de cobre",
+              1
+            ]
+          ],
+          "obj": {
+            "id": 4359,
+            "ilvl": 8,
+            "n": "Un puñado de tornillos de cobre",
+            "q": "common",
+            "sub": "Piezas",
+            "venta": [
+              "0",
+              "0",
+              "12"
+            ]
+          },
+          "quien": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "id": 2419,
+          "n": "Tubo de cobre",
+          "q": "common",
+          "ico": "133025",
+          "reac": [
+            [
+              "Lingote de cobre",
+              2
+            ],
+            [
+              "Flujo débil",
+              1
+            ]
+          ],
+          "obj": {
+            "id": 4361,
+            "ilvl": 10,
+            "n": "Tubo de cobre",
+            "q": "common",
+            "sub": "Piezas",
+            "venta": [
+              "0",
+              "1",
+              "20"
+            ]
+          },
+          "quien": [
+            0,
+            1,
+            3,
+            4
+          ]
+        },
+        {
+          "id": 2422,
+          "n": "Contacto de plata",
+          "q": "common",
+          "ico": "133218",
+          "reac": [
+            [
+              "Lingote de plata",
+              1
+            ]
+          ],
+          "cant": 5.0,
+          "obj": {
+            "id": 4404,
+            "ilvl": 18,
+            "n": "Contacto de plata",
+            "q": "common",
+            "sub": "Piezas",
+            "venta": [
+              "0",
+              "0",
+              "25"
+            ]
+          },
+          "quien": [
+            0,
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "id": 2423,
+          "n": "Modulador de cobre",
+          "q": "common",
+          "reac": [
+            [
+              "Un puñado de tornillos de cobre",
+              2
+            ],
+            [
+              "Lingote de cobre",
+              1
+            ],
+            [
+              "Paño de lino",
+              2
+            ]
+          ],
+          "obj": {
+            "id": 4363,
+            "ilvl": 13,
+            "n": "Modulador de cobre",
+            "q": "common",
+            "sub": "Piezas",
+            "venta": [
+              "0",
+              "0",
+              "50"
+            ]
+          },
+          "quien": [
+            0,
+            1,
+            3,
+            4
+          ]
+        },
+        {
+          "id": 2425,
+          "n": "Pólvora gruesa",
+          "q": "common",
+          "ico": "133849",
+          "reac": [
+            [
+              "Piedra burda",
+              1
+            ]
+          ],
+          "obj": {
+            "id": 4364,
+            "ilvl": 15,
+            "n": "Pólvora burda",
+            "q": "common",
+            "sub": "Piezas",
+            "venta": [
+              "0",
+              "0",
+              "12"
+            ]
+          },
+          "quien": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "id": 2433,
+          "n": "Tubo de bronce",
+          "q": "common",
+          "ico": "133024",
+          "reac": [
+            [
+              "Lingote de bronce",
+              2
+            ],
+            [
+              "Flujo débil",
+              1
+            ]
+          ],
+          "obj": {
+            "id": 4371,
+            "ilvl": 21,
+            "n": "Tubo de bronce",
+            "q": "common",
+            "sub": "Piezas",
+            "venta": [
+              "0",
+              "2",
+              "0"
+            ]
+          },
+          "quien": [
+            0,
+            2
+          ]
+        },
+        {
+          "id": 2439,
+          "n": "Cacharro zumbón de bronce",
+          "q": "common",
+          "ico": "132996",
+          "reac": [
+            [
+              "Lingote de bronce",
+              2
+            ],
+            [
+              "Paño de lana",
+              1
+            ]
+          ],
+          "obj": {
+            "id": 4375,
+            "ilvl": 25,
+            "n": "Cacharros zumbones de bronce",
+            "q": "common",
+            "sub": "Piezas",
+            "venta": [
+              "0",
+              "1",
+              "15"
+            ]
+          },
+          "quien": [
+            0
+          ]
+        },
+        {
+          "id": 2441,
+          "n": "Pólvora pesada",
+          "q": "common",
+          "ico": "133853",
+          "reac": [
+            [
+              "Piedra pesada",
+              1
+            ]
+          ],
+          "obj": {
+            "id": 4377,
+            "ilvl": 25,
+            "n": "Pólvora pesada",
+            "q": "common",
+            "sub": "Piezas",
+            "venta": [
+              "0",
+              "1",
+              "50"
+            ]
+          },
+          "quien": [
+            0
+          ]
+        },
+        {
+          "id": 2447,
+          "n": "Marco de bronce",
+          "q": "common",
+          "ico": "133006",
+          "reac": [
+            [
+              "Lingote de bronce",
+              2
+            ],
+            [
+              "Cuero medio",
+              1
+            ],
+            [
+              "Paño de lana",
+              1
+            ]
+          ],
+          "obj": {
+            "id": 4382,
+            "ilvl": 29,
+            "n": "Marco de bronce",
+            "q": "common",
+            "sub": "Piezas",
+            "venta": [
+              "0",
+              "6",
+              "0"
+            ]
+          },
+          "quien": []
+        },
+        {
+          "id": 2452,
+          "n": "Tornapunta de hierro",
+          "q": "common",
+          "ico": "135128",
+          "reac": [
+            [
+              "Lingote de hierro",
+              2
+            ]
+          ],
+          "obj": {
+            "id": 4387,
+            "ilvl": 32,
+            "n": "Tornapunta de hierro",
+            "q": "common",
+            "sub": "Piezas",
+            "venta": [
+              "0",
+              "4",
+              "0"
+            ]
+          },
+          "quien": []
+        },
+        {
+          "id": 2455,
+          "n": "Girocronátomo",
+          "q": "common",
+          "ico": "134377",
+          "reac": [
+            [
+              "Lingote de hierro",
+              1
+            ],
+            [
+              "Núcleo de energía de oro",
+              1
+            ]
+          ],
+          "obj": {
+            "id": 4389,
+            "ilvl": 34,
+            "n": "Girocronátomo",
+            "q": "common",
+            "sub": "Piezas",
+            "venta": [
+              "0",
+              "7",
+              "50"
+            ]
+          },
+          "quien": []
+        },
+        {
+          "id": 4294,
+          "n": "Llave arqueluz",
+          "q": "common",
+          "ico": "134520",
+          "reac": [
+            [
+              "Lingote de cobre",
+              6
+            ]
+          ],
+          "obj": {
+            "dano": "7 - 14 Daño",
+            "dps": "(4,4 daño por segundo)",
+            "id": 6219,
+            "ilvl": 10,
+            "n": "Llave inglesa Arcoluz",
+            "q": "common",
+            "ranura": "Mano principal",
+            "sub": "Miscelánea",
+            "vel": "Velocidad 2,40",
+            "venta": [
+              "0",
+              "1",
+              "44"
+            ]
+          },
+          "quien": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "id": 6857,
+          "n": "Nucleo de poder de oro",
+          "q": "common",
+          "reac": [
+            [
+              "Lingote de oro",
+              1
+            ]
+          ],
+          "cant": 3.0,
+          "obj": {
+            "id": 10558,
+            "ilvl": 30,
+            "n": "Núcleo de energía de oro",
+            "q": "common",
+            "sub": "Piezas",
+            "venta": [
+              "0",
+              "2",
+              "50"
+            ]
+          },
+          "quien": []
+        },
+        {
+          "id": 6858,
+          "n": "Polvos explosivos puros",
+          "q": "common",
+          "ico": "134380",
+          "reac": [
+            [
+              "Piedra sólida",
+              2
+            ]
+          ],
+          "obj": {
+            "id": 10505,
+            "ilvl": 35,
+            "n": "Pólvora",
+            "q": "common",
+            "sub": "Piezas",
+            "venta": [
+              "0",
+              "2",
+              "50"
+            ]
+          },
+          "quien": []
+        },
+        {
+          "id": 6861,
+          "n": "Microajustador giromático",
+          "q": "common",
+          "ico": "134429",
+          "reac": [
+            [
+              "Lingote de acero",
+              4
+            ]
+          ],
+          "obj": {
+            "id": 10498,
+            "ilvl": 35,
+            "n": "Microajustador giromático",
+            "q": "common",
+            "req": 1,
+            "sub": "Piezas",
+            "venta": [
+              "0",
+              "0",
+              "16"
+            ]
+          },
+          "quien": []
+        },
+        {
+          "id": 6862,
+          "n": "Tubo de mitril",
+          "q": "common",
+          "ico": "134535",
+          "reac": [
+            [
+              "Lingote de mitril",
+              3
+            ]
+          ],
+          "obj": {
+            "id": 10559,
+            "ilvl": 39,
+            "n": "Tubo de mitril",
+            "q": "common",
+            "sub": "Piezas",
+            "venta": [
+              "0",
+              "7",
+              "50"
+            ]
+          },
+          "quien": []
+        },
+        {
+          "id": 6863,
+          "n": "Activador inestable",
+          "q": "common",
+          "reac": [
+            [
+              "Lingote de mitril",
+              1
+            ],
+            [
+              "Tela de paño mágico",
+              1
+            ],
+            [
+              "Pólvora",
+              1
+            ]
+          ],
+          "obj": {
+            "id": 10560,
+            "ilvl": 40,
+            "n": "Disparador inestable",
+            "q": "common",
+            "sub": "Piezas",
+            "venta": [
+              "0",
+              "10",
+              "0"
+            ]
+          },
+          "quien": []
+        },
+        {
+          "id": 6868,
+          "n": "Envoltura de mitril",
+          "q": "common",
+          "ico": "133021",
+          "reac": [
+            [
+              "Lingote de mitril",
+              3
+            ]
+          ],
+          "obj": {
+            "id": 10561,
+            "ilvl": 43,
+            "n": "Envoltura de mitril",
+            "q": "common",
+            "sub": "Piezas",
+            "venta": [
+              "0",
+              "10",
+              "0"
+            ]
+          },
+          "quien": []
+        },
+        {
+          "id": 6938,
+          "n": "Receta de gasolina de cohete goblin",
+          "q": "common",
+          "ico": "134939",
+          "reac": [
+            [
+              "Pliego negro",
+              1
+            ],
+            [
+              "Tinta de ingeniero",
+              1
+            ]
+          ],
+          "obj": {
+            "id": 10644,
+            "ilvl": 42,
+            "n": "Receta: combustible de cohete goblin",
+            "q": "common",
+            "sub": "Alquimia",
+            "venta": [
+              "0",
+              "5",
+              "0"
+            ]
+          },
+          "quien": []
+        },
+        {
+          "id": 7063,
+          "n": "Planos de cilindro incrustado de mitril",
+          "q": "common",
+          "ico": "134941",
+          "reac": [
+            [
+              "Pliego negro",
+              1
+            ],
+            [
+              "Tinta de ingeniero",
+              1
+            ]
+          ],
+          "obj": {
+            "id": 10713,
+            "ilvl": 40,
+            "n": "Diseño: cilindro de mitril taraceado",
+            "q": "common",
+            "sub": "Herrería",
+            "venta": [
+              "0",
+              "5",
+              "0"
+            ]
+          },
+          "quien": []
+        },
+        {
+          "id": 11228,
+          "n": "Pólvora densa",
+          "q": "common",
+          "ico": "133587",
+          "reac": [
+            [
+              "Piedra densa",
+              2
+            ]
+          ],
+          "obj": {
+            "id": 15992,
+            "ilvl": 50,
+            "n": "Pólvora densa",
+            "q": "common",
+            "sub": "Piezas",
+            "venta": [
+              "0",
+              "2",
+              "50"
+            ]
+          },
+          "quien": []
+        },
+        {
+          "id": 11231,
+          "n": "Trasto de torio",
+          "q": "common",
+          "ico": "132998",
+          "reac": [
+            [
+              "Lingote de torio",
+              3
+            ],
+            [
+              "Paño rúnico",
+              1
+            ]
+          ],
+          "obj": {
+            "id": 15994,
+            "ilvl": 52,
+            "n": "Trastos wow de torio",
+            "q": "common",
+            "sub": "Piezas",
+            "venta": [
+              "0",
+              "25",
+              "0"
+            ]
+          },
+          "quien": []
+        },
+        {
+          "id": 11236,
+          "n": "Tubo de torio",
+          "q": "common",
+          "ico": "133027",
+          "reac": [
+            [
+              "Lingote de torio",
+              6
+            ]
+          ],
+          "obj": {
+            "id": 16000,
+            "ilvl": 39,
+            "n": "Tubo de torio",
+            "q": "common",
+            "sub": "Piezas",
+            "venta": [
+              "0",
+              "37",
+              "50"
+            ]
+          },
+          "quien": []
+        },
+        {
+          "id": 11237,
+          "n": "Convertidor arcanita delicado",
+          "q": "common",
+          "ico": "133001",
+          "reac": [
+            [
+              "Lingote de arcanita",
+              1
+            ],
+            [
+              "Seda de araña Tejehierro",
+              1
+            ]
+          ],
+          "obj": {
+            "id": 16006,
+            "ilvl": 58,
+            "n": "Conversor de arcanita delicado",
+            "q": "common",
+            "sub": "Piezas",
+            "venta": [
+              "1",
+              "0",
+              "0"
+            ]
+          },
+          "quien": []
+        },
+        {
+          "id": 12425,
+          "n": "Transformador de veraplata",
+          "q": "common",
+          "ico": "135155",
+          "reac": [
+            [
+              "Lingote de veraplata",
+              2
+            ],
+            [
+              "Elemental de tierra",
+              2
+            ],
+            [
+              "Elemental de aire",
+              1
+            ]
+          ],
+          "obj": {
+            "id": 18631,
+            "ilvl": 50,
+            "n": "Transformador de veraplata",
+            "q": "common",
+            "sub": "Piezas",
+            "venta": [
+              "0",
+              "30",
+              "0"
+            ]
+          },
+          "quien": []
+        },
+        {
+          "id": 54457,
+          "n": "Papel de lija",
+          "q": "uncommon",
+          "ico": "237132",
+          "reac": [
+            [
+              "Bauxita",
+              2
+            ],
+            [
+              "Madeja de paño de lino",
+              1
+            ]
+          ],
+          "obj": {
+            "id": 249432,
+            "ilvl": 45,
+            "n": "Papel de lija",
+            "q": "uncommon",
+            "sub": "Piezas",
+            "venta": [
+              "0",
+              "2",
+              "50"
+            ]
+          },
+          "quien": []
+        },
+        {
+          "id": 56756,
+          "n": "SECUR-lengüetas",
+          "q": "common",
+          "ico": "134393",
+          "reac": [
+            [
+              "Capa de lino",
+              1
+            ],
+            [
+              "Tinte cerúleo",
+              1
+            ]
+          ],
+          "obj": {
+            "id": 260784,
+            "ilvl": 5,
+            "n": "SECUR-lengüetas",
+            "q": "common",
+            "req": 1,
+            "sub": "Piezas",
+            "venta": [
+              "0",
+              "0",
+              "4"
+            ]
+          },
+          "quien": []
+        },
+        {
+          "id": 56759,
+          "n": "Envoltura Ez-Thro",
+          "q": "common",
+          "reac": [
+            [
+              "Paño de lana",
+              1
+            ],
+            [
+              "Ácido sulfúrico",
+              1
+            ]
+          ],
+          "obj": {
+            "id": 260794,
+            "ilvl": 15,
+            "n": "Envoltura Ez-Thro",
+            "q": "common",
+            "req": 1,
+            "sub": "Piezas",
+            "venta": [
+              "0",
+              "1",
+              "50"
+            ]
+          },
+          "quien": []
+        },
+        {
+          "id": 56761,
+          "n": "SECUR-relleno antideslizante",
+          "q": "common",
+          "ico": "134260",
+          "reac": [
+            [
+              "Cuero pesado",
+              1
+            ],
+            [
+              "Tinte magenta",
+              1
+            ]
+          ],
+          "obj": {
+            "id": 260796,
+            "ilvl": 29,
+            "n": "SECUR-relleno antideslizante",
+            "q": "common",
+            "req": 1,
+            "sub": "Piezas",
+            "venta": [
+              "0",
+              "2",
+              "0"
+            ]
+          },
+          "quien": []
+        },
+        {
+          "id": 56764,
+          "n": "SECUR-campana",
+          "q": "common",
+          "ico": "133706",
+          "reac": [
+            [
+              "Lingote de bronce",
+              2
+            ],
+            [
+              "Papel de lija",
+              1
+            ]
+          ],
+          "obj": {
+            "id": 260799,
+            "ilvl": 35,
+            "n": "SECUR-campana",
+            "q": "common",
+            "req": 1,
+            "sub": "Piezas",
+            "venta": [
+              "0",
+              "2",
+              "50"
+            ]
+          },
+          "quien": []
+        },
+        {
+          "id": 56766,
+          "n": "Mecha a prueba de fuego EZ-Thro",
+          "q": "common",
+          "ico": "133243",
+          "reac": [
+            [
+              "Contacto de plata",
+              1
+            ],
+            [
+              "Pellejo prístino",
+              1
+            ]
+          ],
+          "obj": {
+            "id": 260801,
+            "ilvl": 39,
+            "n": "Mecha a prueba de fuego EZ-Thro",
+            "q": "common",
+            "req": 1,
+            "sub": "Piezas",
+            "venta": [
+              "0",
+              "3",
+              "0"
+            ]
+          },
+          "quien": []
+        },
+        {
+          "id": 56769,
+          "n": "SECUR-carcasa",
+          "q": "common",
+          "ico": "133022",
+          "reac": [
+            [
+              "Envoltura de mitril",
+              1
+            ],
+            [
+              "Cuero pesado",
+              1
+            ]
+          ],
+          "obj": {
+            "id": 260804,
+            "ilvl": 43,
+            "n": "SECUR-carcasa",
+            "q": "common",
+            "req": 1,
+            "sub": "Piezas",
+            "venta": [
+              "0",
+              "10",
+              "0"
+            ]
+          },
+          "quien": []
+        },
+        {
+          "id": 56773,
+          "n": "",
+          "q": "common",
+          "ico": "1405812",
+          "reac": [
+            [
+              "Lingote de veraplata",
+              1
+            ],
+            [
+              "Tinte viridiano",
+              1
+            ]
+          ],
+          "obj": {
+            "id": 260808,
+            "ilvl": 48,
+            "n": "",
+            "q": "common",
+            "req": 1,
+            "sub": "Piezas",
+            "venta": [
+              "0",
+              "11",
+              "0"
+            ]
+          },
+          "quien": []
+        },
+        {
+          "id": 56778,
+          "n": "SECUR-tubo",
+          "q": "common",
+          "ico": "133016",
+          "reac": [
+            [
+              "Lingote de torio",
+              1
+            ],
+            [
+              "Barra de azerothium",
+              1
+            ]
+          ],
+          "obj": {
+            "id": 260813,
+            "ilvl": 55,
+            "n": "SECUR-tubo",
+            "q": "common",
+            "req": 1,
+            "sub": "Piezas",
+            "venta": [
+              "0",
+              "15",
+              "0"
+            ]
+          },
+          "quien": []
+        },
+        {
+          "id": 56780,
+          "n": "Casquillo EZ-Thro",
+          "q": "common",
+          "ico": "134882",
+          "reac": [
+            [
+              "Lingote de torio",
+              2
+            ],
+            [
+              "Escama prístina",
+              1
+            ]
+          ],
+          "obj": {
+            "id": 260815,
+            "ilvl": 57,
+            "n": "Casquillo EZ-Thro",
+            "q": "common",
+            "req": 1,
+            "sub": "Piezas",
+            "venta": [
+              "0",
+              "20",
+              "0"
+            ]
+          },
+          "quien": []
+        }
+      ]
+    },
+    {
+      "nombre": "Explosivos",
+      "recetas": [
+        {
+          "id": 2414,
+          "n": "Dinamita férrea",
+          "q": "common",
+          "ico": "133714",
+          "reac": [
+            [
+              "Pólvora férrea",
+              1
+            ],
+            [
+              "Paño de lino",
+              1
+            ]
+          ],
+          "cant": 2.0,
+          "obj": {
+            "efectos": [
+              "Usar: Inflige 26 a 34 p. de daño de Fuego en un radio de 5 metros. (1 min de tiempo de reutilización)."
+            ],
+            "id": 4358,
+            "ilvl": 10,
+            "n": "Dinamita férrea",
+            "q": "common",
+            "sub": "Explosivos",
+            "venta": [
+              "0",
+              "0",
+              "30"
+            ]
+          },
+          "quien": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "id": 2418,
+          "n": "Bomba de cobre férrea",
+          "q": "common",
+          "ico": "133717",
+          "reac": [
+            [
+              "Lingote de cobre",
+              1
+            ],
+            [
+              "Un puñado de tornillos de cobre",
+              1
+            ],
+            [
+              "Pólvora férrea",
+              2
+            ],
+            [
+              "Paño de lino",
+              1
+            ]
+          ],
+          "cant": 2.0,
+          "obj": {
+            "efectos": [
+              "Usar: Inflige 22 a 28 p. de daño de Fuego y aturde a los objetivos de un radio de 3 metros durante 1 s. Cualquier daño anulará el efecto. (1 min de tiempo de reutilización)."
+            ],
+            "id": 4360,
+            "ilvl": 14,
+            "n": "Bomba de cobre férrea",
+            "q": "common",
+            "sub": "Explosivos",
+            "venta": [
+              "0",
+              "0",
+              "60"
+            ]
+          },
+          "quien": [
+            0,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "id": 2427,
+          "n": "Dinamita gruesa",
+          "q": "common",
+          "ico": "133714",
+          "reac": [
+            [
+              "Pólvora burda",
+              3
+            ],
+            [
+              "Paño de lino",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Inflige 51 a 69 p. de daño de Fuego en un radio de 5 metros. (1 min de tiempo de reutilización)."
+            ],
+            "id": 4365,
+            "ilvl": 20,
+            "n": "Dinamita burda",
+            "q": "common",
+            "sub": "Explosivos",
+            "venta": [
+              "0",
+              "0",
+              "75"
+            ]
+          },
+          "quien": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "id": 2429,
+          "n": "Carga pequeña de seforio",
+          "q": "common",
+          "ico": "134514",
+          "reac": [
+            [
+              "Pólvora burda",
+              2
+            ],
+            [
+              "Modulador de cobre",
+              1
+            ],
+            [
+              "Cuero ligero",
+              1
+            ],
+            [
+              "Agua de manantial refrescante",
+              1
+            ]
+          ],
+          "desc": "Una carga de seforio pequeña suficiente para abrir algunas puertas con una explosión.",
+          "obj": {
+            "efectos": [
+              "Usar: Revienta cerraduras simples. (1 s de tiempo de reutilización)."
+            ],
+            "id": 4367,
+            "ilvl": 20,
+            "n": "Carga de seforio pequeña",
+            "q": "common",
+            "sub": "Explosivos",
+            "venta": [
+              "0",
+              "1",
+              "50"
+            ]
+          },
+          "quien": []
+        },
+        {
+          "id": 2432,
+          "n": "Bomba grande de cobre",
+          "q": "common",
+          "ico": "133709",
+          "reac": [
+            [
+              "Lingote de cobre",
+              3
+            ],
+            [
+              "Pólvora burda",
+              4
+            ],
+            [
+              "Contacto de plata",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Inflige 43 a 57 p. de daño de Fuego y aturde a los objetivos de un radio de 5 metros durante 1 s. Cualquier daño anulará el efecto. (1 min de tiempo de reutilización)."
+            ],
+            "id": 4370,
+            "ilvl": 26,
+            "n": "Bomba de cobre grande",
+            "q": "common",
+            "sub": "Explosivos",
+            "venta": [
+              "0",
+              "1",
+              "75"
+            ]
+          },
+          "quien": [
+            0
+          ]
+        },
+        {
+          "id": 2438,
+          "n": "Bomba pequeña de bronce",
+          "q": "common",
+          "ico": "133717",
+          "reac": [
+            [
+              "Pólvora burda",
+              4
+            ],
+            [
+              "Lingote de bronce",
+              2
+            ],
+            [
+              "Contacto de plata",
+              1
+            ],
+            [
+              "Paño de lana",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Inflige 73 a 97 p. de daño de Fuego y aturde a los objetivos de un radio de 3 metros durante 2 s. Cualquier daño anulará el efecto. (1 min de tiempo de reutilización)."
+            ],
+            "id": 4374,
+            "ilvl": 29,
+            "n": "Bomba de bronce pequeña",
+            "q": "common",
+            "sub": "Explosivos",
+            "venta": [
+              "0",
+              "2",
+              "0"
+            ]
+          },
+          "quien": [
+            0
+          ]
+        },
+        {
+          "id": 2442,
+          "n": "Dinamita pesada",
+          "q": "common",
+          "ico": "133714",
+          "reac": [
+            [
+              "Pólvora pesada",
+              2
+            ],
+            [
+              "Paño de lana",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Inflige 128 a 172 p. de daño de Fuego en un radio de 5 metros. (1 min de tiempo de reutilización)."
+            ],
+            "id": 4378,
+            "ilvl": 30,
+            "n": "Dinamita pesada",
+            "q": "common",
+            "sub": "Explosivos",
+            "venta": [
+              "0",
+              "3",
+              "50"
+            ]
+          },
+          "quien": [
+            0
+          ]
+        },
+        {
+          "id": 2445,
+          "n": "Bomba grande de bronce",
+          "q": "common",
+          "ico": "133713",
+          "reac": [
+            [
+              "Pólvora pesada",
+              2
+            ],
+            [
+              "Lingote de bronce",
+              3
+            ],
+            [
+              "Contacto de plata",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Inflige 85 a 115 p. de daño de Fuego y aturde a los objetivos de un radio de 5 metros durante 2 s. Cualquier daño anulará el efecto. (1 min de tiempo de reutilización)."
+            ],
+            "id": 4380,
+            "ilvl": 33,
+            "n": "Bomba de bronce grande",
+            "q": "common",
+            "sub": "Explosivos",
+            "venta": [
+              "0",
+              "5",
+              "0"
+            ]
+          },
+          "quien": []
+        },
+        {
+          "id": 2449,
+          "n": "Oveja explosiva",
+          "q": "common",
+          "ico": "136071",
+          "reac": [
+            [
+              "Marco de bronce",
+              1
+            ],
+            [
+              "Cacharros zumbones de bronce",
+              1
+            ],
+            [
+              "Pólvora pesada",
+              2
+            ],
+            [
+              "Paño de lana",
+              2
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Invoca una oveja explosiva que carga contra un enemigo cercano y estalla para infligir 135 a 165 p. de daño. Dura 3 minutos o hasta que estalla. (1 min de tiempo de reutilización)."
+            ],
+            "id": 4384,
+            "ilvl": 30,
+            "n": "Oveja explosiva",
+            "q": "common",
+            "sub": "Explosivos",
+            "venta": [
+              "0",
+              "10",
+              "0"
+            ]
+          },
+          "quien": []
+        },
+        {
+          "id": 2454,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 2456,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 2462,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 2463,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 2466,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 4571,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 4607,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 6859,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 6869,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 6876,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 6939,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 6944,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 6948,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 6949,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 7296,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 11229,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 11238,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 11241,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 12423,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 12424,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 12429,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 56757,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 56758,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 56760,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 56762,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 56763,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 56765,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 56767,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 56768,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 56770,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 56774,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 56779,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 56781,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 56782,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 56783,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 59404,
+          "n": "",
+          "q": "common",
+          "quien": []
+        }
+      ]
+    },
+    {
+      "nombre": "Munición",
+      "recetas": [
+        {
+          "id": 2415,
+          "n": "",
+          "q": "common",
+          "quien": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "id": 2426,
+          "n": "",
+          "q": "common",
+          "quien": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "id": 2443,
+          "n": "",
+          "q": "common",
+          "quien": [
+            0
+          ]
+        },
+        {
+          "id": 6866,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 6878,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 6945,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 11239,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 58424,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 58425,
+          "n": "",
+          "q": "common",
+          "quien": []
+        }
+      ]
+    },
+    {
+      "nombre": "Armas a distancia",
+      "recetas": [
+        {
+          "id": 2420,
+          "n": "",
+          "q": "common",
+          "quien": [
+            3,
+            4
+          ]
+        },
+        {
+          "id": 2431,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 2436,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 2444,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 2448,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 6865,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 6871,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 11230,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 11234,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 11244,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 12320,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 58904,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 59485,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 59486,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 59487,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 59488,
+          "n": "",
+          "q": "common",
+          "quien": []
+        }
+      ]
+    },
+    {
+      "nombre": "Miras",
+      "recetas": [
+        {
+          "id": 2421,
+          "n": "",
+          "q": "common",
+          "quien": [
+            0,
+            1,
+            3,
+            4
+          ]
+        },
+        {
+          "id": 2435,
+          "n": "",
+          "q": "common",
+          "quien": [
+            0
+          ]
+        },
+        {
+          "id": 2459,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 3945,
+          "n": "",
+          "q": "common",
+          "quien": [
+            0
+          ]
+        },
+        {
+          "id": 6867,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 6877,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 12319,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 58903,
+          "n": "",
+          "q": "common",
+          "quien": []
+        }
+      ]
+    },
+    {
+      "nombre": "Mascotas y guardianes",
+      "recetas": [
+        {
+          "id": 2424,
+          "n": "",
+          "q": "common",
+          "quien": [
+            0
+          ]
+        },
+        {
+          "id": 2428,
+          "n": "",
+          "q": "common",
+          "quien": [
+            0,
+            1,
+            3
+          ]
+        },
+        {
+          "id": 2460,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 2464,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 6880,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 7066,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 8464,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 8465,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 11232,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 11235,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 11242,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 12432,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 13381,
+          "n": "",
+          "q": "common",
+          "quien": []
+        }
+      ]
+    },
+    {
+      "nombre": "Casco de tela",
+      "recetas": [
+        {
+          "id": 2430,
+          "n": "",
+          "q": "common",
+          "quien": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "id": 2437,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 2450,
+          "n": "",
+          "q": "common",
+          "quien": [
+            0
+          ]
+        },
+        {
+          "id": 2461,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 6860,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 6864,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 6870,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 6872,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 6874,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 6875,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 6879,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 6940,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 6943,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 6951,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 7064,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 7072,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 11233,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 11243,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 12890,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 12891,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 59090,
+          "n": "",
+          "q": "common",
+          "quien": []
+        }
+      ]
+    },
+    {
+      "nombre": "Artilugios",
+      "recetas": [
+        {
+          "id": 2440,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 2446,
+          "n": "",
+          "q": "common",
+          "quien": [
+            0
+          ]
+        },
+        {
+          "id": 2451,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 2453,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 2465,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 4927,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 5066,
+          "n": "",
+          "q": "common",
+          "quien": [
+            0
+          ]
+        },
+        {
+          "id": 6873,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 6950,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 7065,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 7067,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 7068,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 7069,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 7070,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 7071,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 7073,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 12321,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 56771,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 56775,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 56789,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 56790,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 56792,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 59086,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 59087,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 59088,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 59089,
+          "n": "",
+          "q": "common",
+          "quien": []
+        }
+      ]
+    },
+    {
+      "nombre": "Dispositivos consumibles",
+      "recetas": [
+        {
+          "id": 2457,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 4606,
+          "n": "",
+          "q": "common",
+          "quien": [
+            0,
+            1
+          ]
+        },
+        {
+          "id": 5067,
+          "n": "",
+          "q": "common",
+          "quien": [
+            0
+          ]
+        },
+        {
+          "id": 8196,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 12296,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 56784,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 56785,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 56786,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 56787,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 56793,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 56794,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 56795,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 57280,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 58398,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 58794,
+          "n": "",
+          "q": "common",
+          "quien": [
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Dispositivos",
+      "recetas": [
+        {
+          "id": 5068,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 6946,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 6947,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 11031,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 11240,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 12139,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 12426,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 12427,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 12428,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 12430,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 12431,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 12451,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 12617,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 12618,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 13930,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 49329,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 56772,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 56776,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 56777,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 56788,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 56791,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 57281,
+          "n": "",
+          "q": "common",
+          "quien": []
+        }
+      ]
+    },
+    {
+      "nombre": "Fuegos artificiales",
+      "recetas": [
+        {
+          "id": 12420,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 12421,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 12422,
+          "n": "",
+          "q": "common",
+          "quien": [
+            0
+          ]
+        },
+        {
+          "id": 12636,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 13424,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 13425,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 13426,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 13427,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 13428,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 13429,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 13430,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 13431,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 13432,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 13433,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 13434,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 13435,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 13436,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 13437,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 59502,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 59503,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 59504,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 59505,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 59506,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 59507,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 59508,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 59509,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 59510,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 59511,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 59512,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 59513,
+          "n": "",
+          "q": "common",
+          "quien": []
+        }
+      ]
+    },
+    {
+      "nombre": "TEMPORADA DEL DESCUBRIMIENTO",
+      "recetas": [
+        {
+          "id": 49656,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 49864,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 49869,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 49870,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 49871,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 49872,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 50569,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 50570,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 50571,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 51386,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 51683,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 51684,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 51685,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 51686,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 51687,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 51703,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 51711,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 51764,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 51815,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 52084,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 52085,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 52086,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 52087,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 52088,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 52089,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 52090,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 52091,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 52151,
+          "n": "",
+          "q": "common",
+          "quien": []
+        }
+      ]
+    },
+    {
+      "nombre": "Acampada",
+      "recetas": [
+        {
+          "id": 52650,
+          "n": "",
+          "q": "common",
+          "quien": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "id": 57011,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 57035,
+          "n": "",
+          "q": "common",
+          "quien": []
+        }
+      ]
+    },
+    {
+      "nombre": "Casco de cuero",
+      "recetas": [
+        {
+          "id": 59091,
+          "n": "",
+          "q": "common",
+          "quien": []
+        }
+      ]
+    },
+    {
+      "nombre": "Casco de malla",
+      "recetas": [
+        {
+          "id": 59092,
+          "n": "",
+          "q": "common",
+          "quien": []
+        }
+      ]
+    },
+    {
+      "nombre": "Casco de placas",
+      "recetas": [
+        {
+          "id": 59093,
+          "n": "",
+          "q": "common",
+          "quien": []
+        }
+      ]
+    }
+  ]
+}

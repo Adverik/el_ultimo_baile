@@ -1,0 +1,217 @@
+{
+  "nombre": "Desuello",
+  "ico": "134366",
+  "total": 3,
+  "artesanos": [
+    {
+      "personaje": "Palmira Natblida",
+      "clase": "rogue",
+      "raider": true,
+      "nivel": 201,
+      "max": 225,
+      "pct": 33
+    },
+    {
+      "personaje": "Edoras Duskranger",
+      "clase": "hunter",
+      "raider": true,
+      "nivel": 197,
+      "max": 225,
+      "pct": 67
+    },
+    {
+      "personaje": "Diana Flechaveloz",
+      "clase": "hunter",
+      "raider": false,
+      "nivel": 191,
+      "max": 225,
+      "pct": 33
+    },
+    {
+      "personaje": "Manelhon Gargon",
+      "clase": "shaman",
+      "raider": true,
+      "nivel": 161,
+      "max": 225,
+      "pct": 33
+    },
+    {
+      "personaje": "Memas Tour",
+      "clase": "shaman",
+      "raider": false,
+      "nivel": 150,
+      "max": 150,
+      "pct": 33
+    },
+    {
+      "personaje": "Runa Ruina",
+      "clase": "shaman",
+      "raider": true,
+      "nivel": 150,
+      "max": 225,
+      "pct": 33
+    },
+    {
+      "personaje": "Lithanas Chafardero",
+      "clase": "rogue",
+      "raider": false,
+      "nivel": 143,
+      "max": 150,
+      "pct": 33
+    },
+    {
+      "personaje": "Ildaren Belisar",
+      "clase": "rogue",
+      "raider": false,
+      "nivel": 139,
+      "max": 225,
+      "pct": 33
+    },
+    {
+      "personaje": "Nindalf Pizpireta",
+      "clase": "rogue",
+      "raider": false,
+      "nivel": 119,
+      "max": 150,
+      "pct": 33
+    },
+    {
+      "personaje": "Filps Pachamamamon",
+      "clase": "hunter",
+      "raider": false,
+      "nivel": 91,
+      "max": 150,
+      "pct": 33
+    },
+    {
+      "personaje": "Fitipaldi Sendaumbria",
+      "clase": "rogue",
+      "raider": true,
+      "nivel": 88,
+      "max": 150,
+      "pct": 33
+    },
+    {
+      "personaje": "Aurelio Amador",
+      "clase": "rogue",
+      "raider": false,
+      "nivel": 79,
+      "max": 150,
+      "pct": 33
+    }
+  ],
+  "categorias": [
+    {
+      "nombre": "Acampada",
+      "recetas": [
+        {
+          "id": 52644,
+          "n": "Silla de campamento",
+          "q": "common",
+          "ico": "132761",
+          "reac": [
+            [
+              "Cuero ligero",
+              3
+            ],
+            [
+              "Madera simple",
+              2
+            ]
+          ],
+          "desc": "Fabrica una silla de campamento.",
+          "obj": {
+            "efectos": [
+              "Usar: Monta una silla de campamento que permite que tú y otros os sentéis cerca para obtener un 2% más de probabilidad de golpe crítico con todos los hechizos y ataques. Incompatible con Aura de lechúcico lunar. Requiere una hoguera cercana"
+            ],
+            "id": 279979,
+            "ilvl": 4,
+            "n": "Silla de campamento",
+            "q": "common",
+            "sub": "Otros"
+          },
+          "quien": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+          ]
+        },
+        {
+          "id": 57017,
+          "n": "Guía de campo",
+          "q": "common",
+          "ico": "133735",
+          "reac": [
+            [
+              "Cuero medio",
+              3
+            ],
+            [
+              "Escama de múrloc babosa",
+              2
+            ],
+            [
+              "Hilo refinado",
+              1
+            ]
+          ],
+          "desc": "Fabrica una guía de campo.",
+          "obj": {
+            "efectos": [
+              "Usar: Coloca una guía de campo que permite que los jugadores la lean para obtener Rastrear bestias. Ofrece todos los beneficios de una silla de campamento. Requiere una hoguera cercana. Se puede colocar sobre una silla de campamento para su"
+            ],
+            "id": 279969,
+            "ilvl": 28,
+            "n": "Guía de campo",
+            "q": "common",
+            "sub": "Otros"
+          },
+          "quien": [
+            1
+          ]
+        },
+        {
+          "id": 57029,
+          "n": "Banco de trabajo de trampero",
+          "q": "common",
+          "ico": "5948139",
+          "reac": [
+            [
+              "Madera simple",
+              2
+            ],
+            [
+              "Cuero pesado",
+              4
+            ],
+            [
+              "Lingote de hierro",
+              1
+            ]
+          ],
+          "desc": "Fabrica un banco de trabajo de trampero.",
+          "obj": {
+            "efectos": [
+              "Usar: Coloca un banco de trabajo de trampero que contiene 1 trampa y que ofrece todos los beneficios de una silla de campamento. Requiere una hoguera cercana. Se puede colocar sobre una silla de campamento para sustituirla. Todas las caract"
+            ],
+            "id": 279938,
+            "ilvl": 60,
+            "n": "Banco de trabajo de trampero",
+            "q": "common",
+            "sub": "Otros"
+          },
+          "quien": []
+        }
+      ]
+    }
+  ]
+}

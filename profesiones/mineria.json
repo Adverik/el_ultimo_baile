@@ -1,0 +1,644 @@
+{
+  "nombre": "Minería",
+  "ico": "136248",
+  "total": 17,
+  "artesanos": [
+    {
+      "personaje": "Aalesian Naeuri",
+      "clase": "warrior",
+      "raider": false,
+      "nivel": 201,
+      "max": 300,
+      "pct": 53
+    },
+    {
+      "personaje": "Coloso Tempestad",
+      "clase": "warrior",
+      "raider": false,
+      "nivel": 136,
+      "max": 150,
+      "pct": 24
+    },
+    {
+      "personaje": "Khyoraku Shunsui",
+      "clase": "warrior",
+      "raider": true,
+      "nivel": 126,
+      "max": 150,
+      "pct": 29
+    },
+    {
+      "personaje": "La Pety",
+      "clase": "rogue",
+      "raider": false,
+      "nivel": 126,
+      "max": 150,
+      "pct": 29
+    },
+    {
+      "personaje": "Chaca Choochoo",
+      "clase": "druid",
+      "raider": false,
+      "nivel": 124,
+      "max": 150,
+      "pct": 29
+    },
+    {
+      "personaje": "Espartaco Gladiador",
+      "clase": "warrior",
+      "raider": true,
+      "nivel": 124,
+      "max": 150,
+      "pct": 29
+    },
+    {
+      "personaje": "Tharindel Magnaluz",
+      "clase": "paladin",
+      "raider": false,
+      "nivel": 112,
+      "max": 150,
+      "pct": 29
+    },
+    {
+      "personaje": "Cuzcu Aker",
+      "clase": "paladin",
+      "raider": true,
+      "nivel": 107,
+      "max": 150,
+      "pct": 29
+    },
+    {
+      "personaje": "Flexita Shadowsoul",
+      "clase": "hunter",
+      "raider": false,
+      "nivel": 105,
+      "max": 150,
+      "pct": 29
+    },
+    {
+      "personaje": "Hugo Forjaluz",
+      "clase": "paladin",
+      "raider": false,
+      "nivel": 83,
+      "max": 150,
+      "pct": 29
+    },
+    {
+      "personaje": "Jonaver Legends",
+      "clase": "mage",
+      "raider": false,
+      "nivel": 62,
+      "max": 150,
+      "pct": 12
+    }
+  ],
+  "categorias": [
+    {
+      "nombre": "Barras fundidas",
+      "recetas": [
+        {
+          "id": 1599,
+          "n": "Palata fundida",
+          "q": "uncommon",
+          "ico": "133215",
+          "reac": [
+            [
+              "Mineral de plata",
+              1
+            ]
+          ],
+          "desc": "Permite al minero fundir un trozo de mineral de plata y convertirlo en un lingote de plata. Fundir plata requiere una forja.",
+          "obj": {
+            "id": 2842,
+            "ilvl": 10,
+            "n": "Lingote de plata",
+            "q": "uncommon",
+            "sub": "Metal y piedra",
+            "venta": [
+              "0",
+              "1",
+              "0"
+            ]
+          },
+          "quien": [
+            0,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ]
+        },
+        {
+          "id": 1600,
+          "n": "Bronce fundido",
+          "q": "common",
+          "ico": "133227",
+          "reac": [
+            [
+              "Lingote de cobre",
+              1
+            ],
+            [
+              "Lingote de estaño",
+              1
+            ]
+          ],
+          "cant": 2.0,
+          "desc": "Permite al minero fundir un lingote de estaño y uno de cobre para convertirlos en dos lingotes de bronce. Fundir bronce requiere una forja.",
+          "obj": {
+            "id": 2841,
+            "ilvl": 20,
+            "n": "Lingote de bronce",
+            "q": "common",
+            "sub": "Metal y piedra",
+            "venta": [
+              "0",
+              "0",
+              "50"
+            ]
+          },
+          "quien": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ]
+        },
+        {
+          "id": 1846,
+          "n": "Oro fundido",
+          "q": "uncommon",
+          "reac": [
+            [
+              "Mineral de oro",
+              1
+            ]
+          ],
+          "desc": "Permite al minero fundir un trozo de mineral de oro y convertirlo en un lingote de oro. Fundir oro requiere una forja.",
+          "obj": {
+            "id": 3577,
+            "ilvl": 30,
+            "n": "Lingote de oro",
+            "q": "uncommon",
+            "sub": "Metal y piedra",
+            "venta": [
+              "0",
+              "6",
+              "0"
+            ]
+          },
+          "quien": [
+            0
+          ]
+        },
+        {
+          "id": 1847,
+          "n": "Hierro fundido",
+          "q": "common",
+          "ico": "133232",
+          "reac": [
+            [
+              "Hierro",
+              1
+            ]
+          ],
+          "desc": "Permite al minero fundir un trozo de mineral de hierro y convertirlo en un lingote de hierro. Fundir hierro requiere una forja.",
+          "obj": {
+            "id": 3575,
+            "ilvl": 30,
+            "n": "Lingote de hierro",
+            "q": "common",
+            "sub": "Metal y piedra",
+            "venta": [
+              "0",
+              "2",
+              "0"
+            ]
+          },
+          "quien": [
+            0
+          ]
+        },
+        {
+          "id": 1848,
+          "n": "Chapa fundida",
+          "q": "common",
+          "ico": "133219",
+          "reac": [
+            [
+              "Mineral de estaño",
+              1
+            ]
+          ],
+          "desc": "Permite al minero fundir un trozo de mineral de estaño y convertirlo en un lingote de estaño. Fundir estaño requiere una forja.",
+          "obj": {
+            "id": 3576,
+            "ilvl": 20,
+            "n": "Lingote de estaño",
+            "q": "common",
+            "sub": "Metal y piedra",
+            "venta": [
+              "0",
+              "0",
+              "35"
+            ]
+          },
+          "quien": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ]
+        },
+        {
+          "id": 2037,
+          "n": "Acero fundido",
+          "q": "common",
+          "ico": "133234",
+          "reac": [
+            [
+              "Lingote de hierro",
+              1
+            ],
+            [
+              "Carbón",
+              1
+            ]
+          ],
+          "desc": "Permite al minero fundir un trozo de mineral de hierro y uno de carbón para convertirlos en un lingote de acero. Fundir acero requiere una forja.",
+          "obj": {
+            "id": 3859,
+            "ilvl": 35,
+            "n": "Lingote de acero",
+            "q": "common",
+            "sub": "Metal y piedra",
+            "venta": [
+              "0",
+              "0",
+              "60"
+            ]
+          },
+          "quien": [
+            0
+          ]
+        },
+        {
+          "id": 3324,
+          "n": "Cobre fundido",
+          "q": "common",
+          "ico": "133216",
+          "reac": [
+            [
+              "Mineral de cobre",
+              1
+            ]
+          ],
+          "desc": "Permite al minero fundir un trozo de mineral de cobre y convertirlo en un lingote de cobre. Fundir cobre requiere una forja.",
+          "obj": {
+            "id": 2840,
+            "ilvl": 10,
+            "n": "Lingote de cobre",
+            "q": "common",
+            "sub": "Metal y piedra",
+            "venta": [
+              "0",
+              "0",
+              "10"
+            ]
+          },
+          "quien": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "id": 5386,
+          "n": "Veraplata fundida",
+          "q": "uncommon",
+          "ico": "133222",
+          "reac": [
+            [
+              "Veraplata",
+              1
+            ]
+          ],
+          "desc": "Permite al minero fundir un trozo de mineral de veraplata y convertirlo en un lingote de veraplata. Fundir veraplata requiere una forja.",
+          "obj": {
+            "id": 6037,
+            "ilvl": 50,
+            "n": "Lingote de veraplata",
+            "q": "uncommon",
+            "sub": "Metal y piedra",
+            "venta": [
+              "0",
+              "12",
+              "50"
+            ]
+          },
+          "quien": []
+        },
+        {
+          "id": 5387,
+          "n": "Mitril fundido",
+          "q": "common",
+          "ico": "133220",
+          "reac": [
+            [
+              "Mineral de mitril",
+              1
+            ]
+          ],
+          "desc": "Permite al minero fundir un trozo de mineral de mitril y convertirlo en un lingote de mitril. Fundir mitril requiere una forja.",
+          "obj": {
+            "id": 3860,
+            "ilvl": 40,
+            "n": "Lingote de mitril",
+            "q": "common",
+            "sub": "Metal y piedra",
+            "venta": [
+              "0",
+              "4",
+              "0"
+            ]
+          },
+          "quien": [
+            0
+          ]
+        },
+        {
+          "id": 8016,
+          "n": "Hierro negro fundido",
+          "q": "common",
+          "ico": "133233",
+          "reac": [
+            [
+              "Hierro Negro",
+              8
+            ]
+          ],
+          "desc": "Permite al minero fundir un trozo de mineral de hierro negro y convertirlo en un lingote de hierro negro. Solo se puede fundir hierro negro en la Forja Negra de las Profundidades de Roca Negra.",
+          "obj": {
+            "id": 11371,
+            "ilvl": 50,
+            "n": "Lingote Hierro Negro",
+            "q": "common",
+            "sub": "Metal y piedra",
+            "venta": [
+              "0",
+              "6",
+              "0"
+            ]
+          },
+          "quien": []
+        },
+        {
+          "id": 8796,
+          "n": "Torio fundido",
+          "q": "common",
+          "ico": "133221",
+          "reac": [
+            [
+              "Torio",
+              1
+            ]
+          ],
+          "desc": "Permite al minero fundir un trozo de mineral de torio y convertirlo en un lingote de torio. Fundir torio requiere una forja.",
+          "obj": {
+            "id": 12359,
+            "ilvl": 50,
+            "n": "Lingote de torio",
+            "q": "common",
+            "sub": "Metal y piedra",
+            "venta": [
+              "0",
+              "6",
+              "0"
+            ]
+          },
+          "quien": []
+        },
+        {
+          "id": 12382,
+          "n": "Elementium fundido",
+          "q": "legendary",
+          "ico": "133235",
+          "reac": [
+            [
+              "Mena de elementium",
+              1
+            ],
+            [
+              "Lingote de arcanita",
+              10
+            ],
+            [
+              "Núcleo ígneo",
+              1
+            ],
+            [
+              "Flujo elemental",
+              3
+            ]
+          ],
+          "obj": {
+            "id": 17771,
+            "ilvl": 60,
+            "n": "Barra de elementium",
+            "q": "legendary",
+            "sub": "Metal y piedra"
+          },
+          "quien": []
+        },
+        {
+          "id": 58875,
+          "n": "Fundir torio pesado",
+          "q": "uncommon",
+          "ico": "348540",
+          "reac": [
+            [
+              "Mena de torio pesado",
+              1
+            ]
+          ],
+          "desc": "Permite al minero fundir un trozo de mena de torio pesado y convertirlo en un lingote de torio pesado. Para fundir torio pesado, hace falta una fundición de magma.",
+          "obj": {
+            "id": 251291,
+            "ilvl": 60,
+            "n": "Barra de torio pesado",
+            "q": "uncommon",
+            "sub": "Metal y piedra",
+            "venta": [
+              "0",
+              "15",
+              "0"
+            ]
+          },
+          "quien": []
+        },
+        {
+          "id": 59104,
+          "n": "Azerothium fundido",
+          "q": "uncommon",
+          "ico": "612100",
+          "reac": [
+            [
+              "Uraninita",
+              2
+            ],
+            [
+              "Carbón",
+              1
+            ]
+          ],
+          "obj": {
+            "id": 249726,
+            "ilvl": 55,
+            "n": "Barra de azerothium",
+            "q": "uncommon",
+            "sub": "Metal y piedra",
+            "venta": [
+              "0",
+              "30",
+              "0"
+            ]
+          },
+          "quien": []
+        }
+      ]
+    },
+    {
+      "nombre": "Acampada",
+      "recetas": [
+        {
+          "id": 52643,
+          "n": "Magnetita",
+          "q": "common",
+          "ico": "134419",
+          "reac": [
+            [
+              "Piedra basta",
+              1
+            ],
+            [
+              "Lingote de cobre",
+              1
+            ]
+          ],
+          "desc": "Fabrica una magnetita.",
+          "obj": {
+            "efectos": [
+              "Usar: Erige una magnetita que permite que tú y otros os sentéis cerca para obtener 90 p. más de poder de ataque cuerpo a cuerpo. Incompatible con Bendición de poderío. Requiere una hoguera cercana. Todas las características de acampada comp"
+            ],
+            "id": 279960,
+            "ilvl": 4,
+            "n": "Magnetita",
+            "q": "common",
+            "sub": "Otros"
+          },
+          "quien": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "id": 57016,
+          "n": "Jardín de piedra",
+          "q": "common",
+          "ico": "134385",
+          "reac": [
+            [
+              "Piedra pesada",
+              2
+            ],
+            [
+              "Hierro",
+              1
+            ],
+            [
+              "Lingote de plata",
+              1
+            ]
+          ],
+          "desc": "Fabrica un jardín de piedra.",
+          "obj": {
+            "efectos": [
+              "Usar: Coloca un jardín de piedra que genera un nodo de minería común con el tiempo. Ofrece todos los beneficios de una magnetita. Requiere una hoguera cercana. Se puede colocar sobre una magnetita para sustituirla. Todas las características"
+            ],
+            "id": 279948,
+            "ilvl": 28,
+            "n": "Jardín de piedra",
+            "q": "common",
+            "sub": "Otros"
+          },
+          "quien": []
+        },
+        {
+          "id": 57040,
+          "n": "Fundición de magma",
+          "q": "common",
+          "ico": "5931157",
+          "reac": [
+            [
+              "Lingote de torio",
+              5
+            ],
+            [
+              "Piedra densa",
+              2
+            ],
+            [
+              "Lingote de veraplata",
+              1
+            ]
+          ],
+          "desc": "Fabrica una fundición de magma.",
+          "obj": {
+            "efectos": [
+              "Usar: Coloca una fundición de magma que permite crear recetas que requieran esta mesa de trabajo y que ofrece todos los beneficios de una magnetita. Requiere una hoguera cercana. Se puede colocar sobre una magnetita para sustituirla. Todas "
+            ],
+            "id": 279952,
+            "ilvl": 60,
+            "n": "Fundición de magma",
+            "q": "common",
+            "sub": "Otros"
+          },
+          "quien": []
+        }
+      ]
+    }
+  ]
+}

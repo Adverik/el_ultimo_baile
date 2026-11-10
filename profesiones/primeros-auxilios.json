@@ -1,0 +1,717 @@
+{
+  "nombre": "Primeros auxilios",
+  "ico": "135966",
+  "total": 32,
+  "artesanos": [
+    {
+      "personaje": "La Pety",
+      "clase": "rogue",
+      "raider": false,
+      "nivel": 214,
+      "max": 225,
+      "pct": 31
+    },
+    {
+      "personaje": "Aalesian Naeuri",
+      "clase": "warrior",
+      "raider": false,
+      "nivel": 188,
+      "max": 225,
+      "pct": 41
+    },
+    {
+      "personaje": "Coloso Tempestad",
+      "clase": "warrior",
+      "raider": false,
+      "nivel": 150,
+      "max": 150,
+      "pct": 38
+    },
+    {
+      "personaje": "Edoras Duskranger",
+      "clase": "hunter",
+      "raider": true,
+      "nivel": 150,
+      "max": 150,
+      "pct": 31
+    },
+    {
+      "personaje": "Chaca Choochoo",
+      "clase": "druid",
+      "raider": false,
+      "nivel": 148,
+      "max": 150,
+      "pct": 28
+    },
+    {
+      "personaje": "Espartaco Gladiador",
+      "clase": "warrior",
+      "raider": true,
+      "nivel": 145,
+      "max": 150,
+      "pct": 16
+    },
+    {
+      "personaje": "Flexita Shadowsoul",
+      "clase": "hunter",
+      "raider": false,
+      "nivel": 141,
+      "max": 150,
+      "pct": 31
+    },
+    {
+      "personaje": "Genethika Brisaveloz",
+      "clase": "hunter",
+      "raider": false,
+      "nivel": 135,
+      "max": 150,
+      "pct": 34
+    },
+    {
+      "personaje": "Palmira Natblida",
+      "clase": "rogue",
+      "raider": true,
+      "nivel": 135,
+      "max": 150,
+      "pct": 22
+    },
+    {
+      "personaje": "Viilar Terrisia",
+      "clase": "druid",
+      "raider": false,
+      "nivel": 115,
+      "max": 150,
+      "pct": 25
+    },
+    {
+      "personaje": "Ildaren Belisar",
+      "clase": "rogue",
+      "raider": false,
+      "nivel": 108,
+      "max": 150,
+      "pct": 25
+    },
+    {
+      "personaje": "Nelv Stardancer",
+      "clase": "druid",
+      "raider": false,
+      "nivel": 94,
+      "max": 150,
+      "pct": 25
+    },
+    {
+      "personaje": "Layrela Rondanit",
+      "clase": "druid",
+      "raider": true,
+      "nivel": 90,
+      "max": 150,
+      "pct": 25
+    },
+    {
+      "personaje": "Filps Pachamamamon",
+      "clase": "hunter",
+      "raider": false,
+      "nivel": 83,
+      "max": 150,
+      "pct": 16
+    },
+    {
+      "personaje": "Tharindel Magnaluz",
+      "clase": "paladin",
+      "raider": false,
+      "nivel": 79,
+      "max": 150,
+      "pct": 12
+    },
+    {
+      "personaje": "Dum Bo",
+      "clase": "mage",
+      "raider": false,
+      "nivel": 78,
+      "max": 150,
+      "pct": 12
+    },
+    {
+      "personaje": "Runa Ruina",
+      "clase": "shaman",
+      "raider": true,
+      "nivel": 76,
+      "max": 150,
+      "pct": 16
+    },
+    {
+      "personaje": "Hugo Forjaluz",
+      "clase": "paladin",
+      "raider": false,
+      "nivel": 75,
+      "max": 75,
+      "pct": 12
+    },
+    {
+      "personaje": "Aurelio Amador",
+      "clase": "rogue",
+      "raider": false,
+      "nivel": 72,
+      "max": 150,
+      "pct": 16
+    },
+    {
+      "personaje": "Dio Hotmetal",
+      "clase": "hunter",
+      "raider": false,
+      "nivel": 72,
+      "max": 150,
+      "pct": 16
+    },
+    {
+      "personaje": "Sugar Papy",
+      "clase": "druid",
+      "raider": false,
+      "nivel": 69,
+      "max": 150,
+      "pct": 16
+    },
+    {
+      "personaje": "Manelhon Gargon",
+      "clase": "shaman",
+      "raider": true,
+      "nivel": 66,
+      "max": 150,
+      "pct": 16
+    },
+    {
+      "personaje": "Jonaver Legends",
+      "clase": "mage",
+      "raider": false,
+      "nivel": 61,
+      "max": 150,
+      "pct": 12
+    },
+    {
+      "personaje": "Nindalf Pizpireta",
+      "clase": "rogue",
+      "raider": false,
+      "nivel": 55,
+      "max": 75,
+      "pct": 9
+    },
+    {
+      "personaje": "Fitipaldi Sendaumbria",
+      "clase": "rogue",
+      "raider": true,
+      "nivel": 51,
+      "max": 75,
+      "pct": 6
+    },
+    {
+      "personaje": "Takkaao Valengri",
+      "clase": "warlock",
+      "raider": false,
+      "nivel": 44,
+      "max": 75,
+      "pct": 9
+    },
+    {
+      "personaje": "Vaporeta Pizpireta",
+      "clase": "mage",
+      "raider": true,
+      "nivel": 41,
+      "max": 75,
+      "pct": 6
+    },
+    {
+      "personaje": "Diana Flechaveloz",
+      "clase": "hunter",
+      "raider": false,
+      "nivel": 40,
+      "max": 75,
+      "pct": 12
+    },
+    {
+      "personaje": "Lithanas Chafardero",
+      "clase": "rogue",
+      "raider": false,
+      "nivel": 40,
+      "max": 75,
+      "pct": 9
+    },
+    {
+      "personaje": "Fran Furion",
+      "clase": "druid",
+      "raider": true,
+      "nivel": 33,
+      "max": 75,
+      "pct": 9
+    },
+    {
+      "personaje": "Khyoraku Shunsui",
+      "clase": "warrior",
+      "raider": true,
+      "nivel": 25,
+      "max": 75,
+      "pct": 9
+    },
+    {
+      "personaje": "Cuzcu Aker",
+      "clase": "paladin",
+      "raider": true,
+      "nivel": 14,
+      "max": 75,
+      "pct": 3
+    },
+    {
+      "personaje": "Thundrik Volgrim",
+      "clase": "priest",
+      "raider": false,
+      "nivel": 13,
+      "max": 75,
+      "pct": 6
+    },
+    {
+      "personaje": "Blind Minds",
+      "clase": "priest",
+      "raider": true,
+      "nivel": 1,
+      "max": 75,
+      "pct": 3
+    },
+    {
+      "personaje": "Memas Tour",
+      "clase": "shaman",
+      "raider": false,
+      "nivel": 1,
+      "max": 75,
+      "pct": 3
+    },
+    {
+      "personaje": "Saint Peligroxa",
+      "clase": "priest",
+      "raider": false,
+      "nivel": 1,
+      "max": 75,
+      "pct": 3
+    }
+  ],
+  "categorias": [
+    {
+      "nombre": "Vendas",
+      "recetas": [
+        {
+          "id": 1838,
+          "n": "",
+          "q": "common",
+          "quien": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35
+          ]
+        },
+        {
+          "id": 1839,
+          "n": "",
+          "q": "common",
+          "quien": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            27
+          ]
+        },
+        {
+          "id": 1840,
+          "n": "",
+          "q": "common",
+          "quien": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "id": 1841,
+          "n": "",
+          "q": "common",
+          "quien": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "id": 4414,
+          "n": "",
+          "q": "common",
+          "quien": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "id": 4415,
+          "n": "",
+          "q": "common",
+          "quien": [
+            0,
+            1
+          ]
+        },
+        {
+          "id": 5767,
+          "n": "",
+          "q": "common",
+          "quien": [
+            0
+          ]
+        },
+        {
+          "id": 5768,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 10488,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 10489,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 14274,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 51728,
+          "n": "",
+          "q": "common",
+          "quien": []
+        }
+      ]
+    },
+    {
+      "nombre": "Remedios",
+      "recetas": [
+        {
+          "id": 4417,
+          "n": "",
+          "q": "common",
+          "quien": [
+            1,
+            2,
+            3,
+            4,
+            6,
+            7,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "id": 4418,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 12716,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 55741,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 55742,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 55743,
+          "n": "",
+          "q": "common",
+          "quien": [
+            1,
+            2,
+            4,
+            7
+          ]
+        },
+        {
+          "id": 55744,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 55745,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 55746,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 55747,
+          "n": "",
+          "q": "common",
+          "quien": [
+            1,
+            2,
+            3,
+            6,
+            7,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "id": 55748,
+          "n": "",
+          "q": "common",
+          "quien": []
+        }
+      ]
+    },
+    {
+      "nombre": "Acampada",
+      "recetas": [
+        {
+          "id": 52641,
+          "n": "",
+          "q": "common",
+          "quien": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30
+          ]
+        },
+        {
+          "id": 57024,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 57036,
+          "n": "",
+          "q": "common",
+          "quien": []
+        }
+      ]
+    },
+    {
+      "nombre": "Pociones de sanación",
+      "recetas": [
+        {
+          "id": 54191,
+          "n": "",
+          "q": "common",
+          "quien": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            25,
+            27,
+            28,
+            29,
+            30,
+            32
+          ]
+        },
+        {
+          "id": 54192,
+          "n": "",
+          "q": "common",
+          "quien": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            16,
+            18,
+            19,
+            20,
+            21
+          ]
+        },
+        {
+          "id": 54193,
+          "n": "",
+          "q": "common",
+          "quien": [
+            1,
+            2,
+            3,
+            6,
+            7
+          ]
+        },
+        {
+          "id": 54194,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 54195,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 54196,
+          "n": "",
+          "q": "common",
+          "quien": []
+        }
+      ]
+    }
+  ]
+}

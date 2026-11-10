@@ -1,0 +1,5344 @@
+{
+  "nombre": "Cocina",
+  "ico": "133971",
+  "total": 132,
+  "artesanos": [
+    {
+      "personaje": "Dum Bo",
+      "clase": "mage",
+      "raider": false,
+      "nivel": 225,
+      "max": 225,
+      "pct": 25
+    },
+    {
+      "personaje": "Finn Felagund",
+      "clase": "priest",
+      "raider": false,
+      "nivel": 200,
+      "max": 225,
+      "pct": 22
+    },
+    {
+      "personaje": "La Pety",
+      "clase": "rogue",
+      "raider": false,
+      "nivel": 197,
+      "max": 225,
+      "pct": 14
+    },
+    {
+      "personaje": "Aalesian Naeuri",
+      "clase": "warrior",
+      "raider": false,
+      "nivel": 195,
+      "max": 225,
+      "pct": 20
+    },
+    {
+      "personaje": "Chaca Choochoo",
+      "clase": "druid",
+      "raider": false,
+      "nivel": 183,
+      "max": 225,
+      "pct": 14
+    },
+    {
+      "personaje": "Diana Flechaveloz",
+      "clase": "hunter",
+      "raider": false,
+      "nivel": 150,
+      "max": 150,
+      "pct": 19
+    },
+    {
+      "personaje": "Edoras Duskranger",
+      "clase": "hunter",
+      "raider": true,
+      "nivel": 150,
+      "max": 150,
+      "pct": 19
+    },
+    {
+      "personaje": "Espartaco Gladiador",
+      "clase": "warrior",
+      "raider": true,
+      "nivel": 150,
+      "max": 225,
+      "pct": 17
+    },
+    {
+      "personaje": "Khyoraku Shunsui",
+      "clase": "warrior",
+      "raider": true,
+      "nivel": 150,
+      "max": 150,
+      "pct": 15
+    },
+    {
+      "personaje": "Memas Tour",
+      "clase": "shaman",
+      "raider": false,
+      "nivel": 150,
+      "max": 150,
+      "pct": 19
+    },
+    {
+      "personaje": "Lithanas Chafardero",
+      "clase": "rogue",
+      "raider": false,
+      "nivel": 141,
+      "max": 150,
+      "pct": 14
+    },
+    {
+      "personaje": "Tharindel Magnaluz",
+      "clase": "paladin",
+      "raider": false,
+      "nivel": 130,
+      "max": 150,
+      "pct": 14
+    },
+    {
+      "personaje": "Flexita Shadowsoul",
+      "clase": "hunter",
+      "raider": false,
+      "nivel": 125,
+      "max": 225,
+      "pct": 16
+    },
+    {
+      "personaje": "Layrela Rondanit",
+      "clase": "druid",
+      "raider": true,
+      "nivel": 123,
+      "max": 150,
+      "pct": 11
+    },
+    {
+      "personaje": "Palmira Natblida",
+      "clase": "rogue",
+      "raider": true,
+      "nivel": 121,
+      "max": 150,
+      "pct": 16
+    },
+    {
+      "personaje": "Sugar Papy",
+      "clase": "druid",
+      "raider": false,
+      "nivel": 119,
+      "max": 150,
+      "pct": 13
+    },
+    {
+      "personaje": "Viilar Terrisia",
+      "clase": "druid",
+      "raider": false,
+      "nivel": 117,
+      "max": 150,
+      "pct": 7
+    },
+    {
+      "personaje": "Runa Ruina",
+      "clase": "shaman",
+      "raider": true,
+      "nivel": 116,
+      "max": 150,
+      "pct": 14
+    },
+    {
+      "personaje": "Cuzcu Aker",
+      "clase": "paladin",
+      "raider": true,
+      "nivel": 111,
+      "max": 150,
+      "pct": 8
+    },
+    {
+      "personaje": "Manelhon Gargon",
+      "clase": "shaman",
+      "raider": true,
+      "nivel": 111,
+      "max": 150,
+      "pct": 17
+    },
+    {
+      "personaje": "Coloso Tempestad",
+      "clase": "warrior",
+      "raider": false,
+      "nivel": 96,
+      "max": 150,
+      "pct": 13
+    },
+    {
+      "personaje": "Nelv Stardancer",
+      "clase": "druid",
+      "raider": false,
+      "nivel": 91,
+      "max": 150,
+      "pct": 12
+    },
+    {
+      "personaje": "Dio Hotmetal",
+      "clase": "hunter",
+      "raider": false,
+      "nivel": 74,
+      "max": 150,
+      "pct": 6
+    },
+    {
+      "personaje": "Nimassus Pater",
+      "clase": "priest",
+      "raider": true,
+      "nivel": 52,
+      "max": 75,
+      "pct": 7
+    },
+    {
+      "personaje": "Genethika Brisaveloz",
+      "clase": "hunter",
+      "raider": false,
+      "nivel": 33,
+      "max": 75,
+      "pct": 4
+    },
+    {
+      "personaje": "Nindalf Pizpireta",
+      "clase": "rogue",
+      "raider": false,
+      "nivel": 30,
+      "max": 75,
+      "pct": 5
+    },
+    {
+      "personaje": "Ildaren Belisar",
+      "clase": "rogue",
+      "raider": false,
+      "nivel": 25,
+      "max": 75,
+      "pct": 5
+    },
+    {
+      "personaje": "Jonaver Legends",
+      "clase": "mage",
+      "raider": false,
+      "nivel": 22,
+      "max": 75,
+      "pct": 4
+    },
+    {
+      "personaje": "Hugo Forjaluz",
+      "clase": "paladin",
+      "raider": false,
+      "nivel": 21,
+      "max": 75,
+      "pct": 3
+    },
+    {
+      "personaje": "Takkaao Valengri",
+      "clase": "warlock",
+      "raider": false,
+      "nivel": 19,
+      "max": 75,
+      "pct": 4
+    },
+    {
+      "personaje": "Filps Pachamamamon",
+      "clase": "hunter",
+      "raider": false,
+      "nivel": 12,
+      "max": 75,
+      "pct": 4
+    },
+    {
+      "personaje": "Vaporeta Pizpireta",
+      "clase": "mage",
+      "raider": true,
+      "nivel": 10,
+      "max": 75,
+      "pct": 3
+    },
+    {
+      "personaje": "Fran Furion",
+      "clase": "druid",
+      "raider": true,
+      "nivel": 8,
+      "max": 75,
+      "pct": 4
+    },
+    {
+      "personaje": "Black Phanter",
+      "clase": "druid",
+      "raider": false,
+      "nivel": 6,
+      "max": 75,
+      "pct": 3
+    },
+    {
+      "personaje": "Fitipaldi Sendaumbria",
+      "clase": "rogue",
+      "raider": true,
+      "nivel": 4,
+      "max": 75,
+      "pct": 4
+    },
+    {
+      "personaje": "Aynita Again",
+      "clase": "hunter",
+      "raider": false,
+      "nivel": 3,
+      "max": 75,
+      "pct": 3
+    },
+    {
+      "personaje": "Aurelio Amador",
+      "clase": "rogue",
+      "raider": false,
+      "nivel": 1,
+      "max": 75,
+      "pct": 3
+    },
+    {
+      "personaje": "Blind Minds",
+      "clase": "priest",
+      "raider": true,
+      "nivel": 1,
+      "max": 75,
+      "pct": 4
+    },
+    {
+      "personaje": "Don Josechu",
+      "clase": "warlock",
+      "raider": false,
+      "nivel": 1,
+      "max": 75,
+      "pct": 3
+    },
+    {
+      "personaje": "Rhyomen Sukuna",
+      "clase": "warlock",
+      "raider": false,
+      "nivel": 1,
+      "max": 75,
+      "pct": 3
+    },
+    {
+      "personaje": "Saint Peligroxa",
+      "clase": "priest",
+      "raider": false,
+      "nivel": 1,
+      "max": 75,
+      "pct": 3
+    },
+    {
+      "personaje": "Samael Thallanor",
+      "clase": "hunter",
+      "raider": false,
+      "nivel": 1,
+      "max": 75,
+      "pct": 3
+    },
+    {
+      "personaje": "Thundrik Volgrim",
+      "clase": "priest",
+      "raider": false,
+      "nivel": 1,
+      "max": 75,
+      "pct": 3
+    }
+  ],
+  "categorias": [
+    {
+      "nombre": "Comidas cotidianas",
+      "recetas": [
+        {
+          "id": 1535,
+          "n": "Carne de lobo carbonizada",
+          "q": "common",
+          "ico": "133974",
+          "reac": [
+            [
+              "Carne fibrosa de lobo",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Restaura 58 p. de salud durante 18 s. Debes permanecer sentado mientras comes. (1 s de tiempo de reutilización)."
+            ],
+            "id": 2679,
+            "ilvl": 10,
+            "n": "Carne de lobo carbonizada",
+            "q": "common",
+            "req": 1,
+            "sub": "Comida y bebida",
+            "venta": [
+              "0",
+              "0",
+              "5"
+            ]
+          },
+          "quien": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42
+          ]
+        },
+        {
+          "id": 1904,
+          "n": "Sopa de tortuga reconfortante",
+          "q": "common",
+          "ico": "133748",
+          "reac": [
+            [
+              "Carne de tortuga",
+              1
+            ],
+            [
+              "Especias calmantes",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Restaura 530 p. de salud durante 24 s. Debes permanecer sentado mientras comes. Si pasas al menos 10 s comiendo, quedarás bien alimentado y ganarás 5 p. de aguante durante 15 min. Además, la experiencia obtenida al matar enemigos aume"
+            ],
+            "id": 3729,
+            "ilvl": 25,
+            "n": "Sopa de tortuga reconfortante",
+            "q": "common",
+            "req": 15,
+            "sub": "Comida y bebida",
+            "venta": [
+              "0",
+              "3",
+              "0"
+            ]
+          },
+          "quien": [
+            0,
+            1
+          ]
+        },
+        {
+          "id": 3926,
+          "n": "Kebab de araña Kaldorei",
+          "q": "common",
+          "ico": "134024",
+          "reac": [
+            [
+              "Pata de araña pequeña",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Restaura 58 p. de salud durante 18 s. Debes permanecer sentado mientras comes. Si pasas al menos 10 s comiendo, quedarás bien alimentado y ganarás 1 p. de aguante durante 15 min. Además, la experiencia obtenida al matar enemigos aumen"
+            ],
+            "id": 5472,
+            "ilvl": 10,
+            "n": "Kebab de araña Kaldorei",
+            "q": "common",
+            "req": 1,
+            "sub": "Comida y bebida",
+            "venta": [
+              "0",
+              "0",
+              "10"
+            ]
+          },
+          "quien": [
+            0,
+            1,
+            2,
+            3,
+            5,
+            10,
+            12,
+            21,
+            26
+          ]
+        },
+        {
+          "id": 3931,
+          "n": "Estofado de ratas de excavación",
+          "q": "common",
+          "ico": "133748",
+          "reac": [
+            [
+              "Rata de excavación",
+              1
+            ]
+          ],
+          "cant": 2.0,
+          "obj": {
+            "efectos": [
+              "Usar: Restaura 530 p. de salud durante 24 s. Debes permanecer sentado mientras comes. (1 s de tiempo de reutilización)."
+            ],
+            "id": 5478,
+            "ilvl": 25,
+            "n": "Estofado de ratas de excavación",
+            "q": "common",
+            "req": 15,
+            "sub": "Comida y bebida",
+            "venta": [
+              "0",
+              "0",
+              "70"
+            ]
+          },
+          "quien": []
+        },
+        {
+          "id": 3962,
+          "n": "Sopa de almejas",
+          "q": "common",
+          "reac": [
+            [
+              "Carne de almeja",
+              1
+            ],
+            [
+              "Leche fría como el hielo",
+              1
+            ],
+            [
+              "Especias suaves",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Restaura 234 p. de salud durante 21 s. Debes permanecer sentado mientras comes. (1 s de tiempo de reutilización)."
+            ],
+            "id": 5526,
+            "ilvl": 15,
+            "n": "Sopa de almejas",
+            "q": "common",
+            "req": 5,
+            "sub": "Comida y bebida",
+            "venta": [
+              "0",
+              "0",
+              "75"
+            ]
+          },
+          "quien": [
+            10,
+            17
+          ]
+        },
+        {
+          "id": 3963,
+          "n": "Almejas picantes a la goblin",
+          "q": "common",
+          "ico": "134431",
+          "reac": [
+            [
+              "Carne de almeja ácida",
+              1
+            ],
+            [
+              "Especias picantes",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Restaura 530 p. de salud durante 24 s. Debes permanecer sentado mientras comes. Si comes durante al menos 10 segundos, estarás bien alimentado y ganarás 6 p. de aguante y espíritu durante 15 min. (1 s de tiempo de reutilización)."
+            ],
+            "id": 5527,
+            "ilvl": 25,
+            "n": "Almejas picantes a la goblin",
+            "q": "common",
+            "req": 15,
+            "sub": "Comida y bebida",
+            "venta": [
+              "0",
+              "0",
+              "95"
+            ]
+          },
+          "quien": [
+            0,
+            1,
+            2,
+            3,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "id": 3964,
+          "n": "Almejas hervidas",
+          "q": "common",
+          "ico": "134432",
+          "reac": [
+            [
+              "Carne de almeja",
+              1
+            ],
+            [
+              "Agua de manantial refrescante",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Restaura 58 p. de salud durante 18 s. Debes permanecer sentado mientras comes. (1 s de tiempo de reutilización)."
+            ],
+            "id": 5525,
+            "ilvl": 10,
+            "n": "Almejas hervidas",
+            "q": "common",
+            "req": 1,
+            "sub": "Comida y bebida",
+            "venta": [
+              "0",
+              "0",
+              "20"
+            ]
+          },
+          "quien": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            19,
+            20,
+            21,
+            22,
+            23
+          ]
+        },
+        {
+          "id": 4204,
+          "n": "Almeja gigante a la brasa",
+          "q": "common",
+          "ico": "132386",
+          "reac": [
+            [
+              "Carne de almeja gigante",
+              1
+            ],
+            [
+              "Especias picantes",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Restaura 841 p. de salud durante 27 s. Debes permanecer sentado mientras comes. Si pasas al menos 10 s comiendo, quedarás bien alimentado y recibirás 10 p. de aguante durante 15 min. Además, la experiencia obtenida al matar enemigos a"
+            ],
+            "id": 6038,
+            "ilvl": 35,
+            "n": "Almeja gigante chamuscada",
+            "q": "common",
+            "req": 25,
+            "sub": "Comida y bebida",
+            "venta": [
+              "0",
+              "3",
+              "12"
+            ]
+          },
+          "quien": []
+        },
+        {
+          "id": 8621,
+          "n": "Sorpresa de carroña",
+          "q": "common",
+          "ico": "134005",
+          "reac": [
+            [
+              "Carne misteriosa",
+              1
+            ],
+            [
+              "Especias picantes",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Restaura 234 p. de salud durante 21 s. Debes permanecer sentado mientras comes. Si pasas al menos 10 s comiendo, quedarás bien alimentado y ganarás 3 p. de aguante durante 15 min. Además, la experiencia obtenida al matar enemigos aume"
+            ],
+            "id": 12213,
+            "ilvl": 15,
+            "n": "Sorpresa de carroñero",
+            "q": "common",
+            "req": 5,
+            "sub": "Comida y bebida",
+            "venta": [
+              "0",
+              "3",
+              "0"
+            ]
+          },
+          "quien": []
+        },
+        {
+          "id": 8622,
+          "n": "Guisado misterioso",
+          "q": "common",
+          "ico": "132806",
+          "reac": [
+            [
+              "Carne misteriosa",
+              1
+            ],
+            [
+              "Nata de cerveza enana",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Restaura 530 p. de salud durante 24 s. Debes permanecer sentado mientras comes. Si pasas al menos 10 s comiendo, quedarás bien alimentado y ganarás 5 p. de aguante durante 15 min. Además, la experiencia obtenida al matar enemigos aume"
+            ],
+            "id": 12214,
+            "ilvl": 25,
+            "n": "Estofado misterioso",
+            "q": "common",
+            "req": 15,
+            "sub": "Comida y bebida",
+            "venta": [
+              "0",
+              "3",
+              "0"
+            ]
+          },
+          "quien": [
+            1
+          ]
+        },
+        {
+          "id": 8623,
+          "n": "Chili de aliento de dragón",
+          "q": "common",
+          "ico": "132804",
+          "reac": [
+            [
+              "Carne misteriosa",
+              1
+            ],
+            [
+              "Glándula de llamas pequeña",
+              1
+            ],
+            [
+              "Especias picantes",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Escupe ocasionalmente llamas a los enemigos en combate cuerpo a cuerpo durante 10 min."
+            ],
+            "id": 12217,
+            "ilvl": 35,
+            "n": "Ají aliento de dragón",
+            "q": "common",
+            "req": 25,
+            "sub": "Comida y bebida",
+            "venta": [
+              "0",
+              "3",
+              "0"
+            ]
+          },
+          "quien": []
+        },
+        {
+          "id": 11740,
+          "n": "Sopa de almejas debilitadora",
+          "q": "common",
+          "ico": "132804",
+          "reac": [
+            [
+              "Carne de almeja sabrosa",
+              2
+            ],
+            [
+              "Especias picantes",
+              1
+            ],
+            [
+              "Leche fría como el hielo",
+              1
+            ]
+          ],
+          "cant": 2.0,
+          "obj": {
+            "efectos": [
+              "Usar: Restaura 1338 p. de salud durante 30 s. Debes permanecer sentado mientras comes. (1 s de tiempo de reutilización)."
+            ],
+            "id": 16766,
+            "ilvl": 45,
+            "n": "Sopa de almejas de Villabajo",
+            "q": "common",
+            "req": 35,
+            "sub": "Comida y bebida",
+            "venta": [
+              "0",
+              "1",
+              "0"
+            ]
+          },
+          "quien": []
+        },
+        {
+          "id": 11997,
+          "n": "Salchicha de araña",
+          "q": "common",
+          "ico": "134022",
+          "reac": [
+            [
+              "Carne de araña blanca",
+              2
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Restaura 1338 p. de salud durante 30 s. Debes permanecer sentado mientras comes. Si pasas al menos 10 s comiendo, quedarás bien alimentado y recibirás 15 p. de aguante durante 15 min. Además, la experiencia obtenida al matar enemigos "
+            ],
+            "id": 17222,
+            "ilvl": 45,
+            "n": "Salchicha de araña",
+            "q": "common",
+            "req": 35,
+            "sub": "Comida y bebida",
+            "venta": [
+              "0",
+              "3",
+              "0"
+            ]
+          },
+          "quien": []
+        },
+        {
+          "id": 54506,
+          "n": "Linguini de almejas",
+          "q": "common",
+          "ico": "133748",
+          "reac": [
+            [
+              "Carne de almeja sabrosa",
+              3
+            ],
+            [
+              "Especias calmantes",
+              4
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Restaura 2065 p. de salud durante 30 s. Debes permanecer sentado mientras comes. (1 s de tiempo de reutilización)."
+            ],
+            "id": 250081,
+            "ilvl": 55,
+            "n": "Linguini de almejas",
+            "q": "common",
+            "req": 45,
+            "sub": "Comida y bebida",
+            "venta": [
+              "0",
+              "0",
+              "10"
+            ]
+          },
+          "quien": []
+        },
+        {
+          "id": 55023,
+          "n": "Estofado purificador",
+          "q": "common",
+          "ico": "1046255",
+          "reac": [
+            [
+              "Brotevil purificado",
+              1
+            ],
+            [
+              "Carne de ciervo",
+              1
+            ],
+            [
+              "Huevo gigante",
+              1
+            ]
+          ],
+          "quien": []
+        }
+      ]
+    },
+    {
+      "nombre": "Comida de agilidad",
+      "recetas": [
+        {
+          "id": 1536,
+          "n": "Carne de lobo picante",
+          "q": "common",
+          "ico": "134021",
+          "reac": [
+            [
+              "Carne fibrosa de lobo",
+              1
+            ],
+            [
+              "Especias suaves",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Restaura 58 p. de salud durante 18 s. Debes permanecer sentado mientras comes. Si pasas al menos 10 s comiendo, quedarás bien alimentado y ganarás 1 p. de agilidad durante 15 min. Además, la experiencia obtenida al matar enemigos aume"
+            ],
+            "id": 2680,
+            "ilvl": 10,
+            "n": "Carne de lobo especiada",
+            "q": "common",
+            "req": 1,
+            "sub": "Comida y bebida",
+            "venta": [
+              "0",
+              "0",
+              "10"
+            ]
+          },
+          "quien": [
+            0,
+            1,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            26,
+            29,
+            30
+          ]
+        },
+        {
+          "id": 1538,
+          "n": "Chuleta de coyote",
+          "q": "common",
+          "ico": "134021",
+          "reac": [
+            [
+              "Carne de coyote",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Restaura 234 p. de salud durante 21 s. Debes permanecer sentado mientras comes. Si pasas al menos 10 s comiendo, quedarás bien alimentado y ganarás 3 p. de agilidad durante 15 min. Además, la experiencia obtenida al matar enemigos aum"
+            ],
+            "id": 2684,
+            "ilvl": 15,
+            "n": "Filete de coyote",
+            "q": "common",
+            "req": 5,
+            "sub": "Comida y bebida",
+            "venta": [
+              "0",
+              "0",
+              "20"
+            ]
+          },
+          "quien": [
+            0,
+            1,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            19,
+            20,
+            21,
+            22,
+            23
+          ]
+        },
+        {
+          "id": 1548,
+          "n": "Kebab de lobo sazonado",
+          "q": "common",
+          "reac": [
+            [
+              "Costillar de lobo magro",
+              2
+            ],
+            [
+              "Especias suaves",
+              1
+            ]
+          ],
+          "cant": 3.0,
+          "obj": {
+            "efectos": [
+              "Usar: Restaura 530 p. de salud durante 24 s. Debes permanecer sentado mientras comes. Si pasas al menos 10 s comiendo, quedarás bien alimentado y recibirás 5 p. de agilidad durante 15 min. Además, la experiencia obtenida al matar enemigos a"
+            ],
+            "id": 1017,
+            "ilvl": 25,
+            "n": "Kebab de lobo salpimentado",
+            "q": "common",
+            "req": 15,
+            "sub": "Comida y bebida",
+            "venta": [
+              "0",
+              "1",
+              "0"
+            ]
+          },
+          "quien": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            8,
+            9,
+            14,
+            15
+          ]
+        },
+        {
+          "id": 1871,
+          "n": "Filete de crocolisco",
+          "q": "common",
+          "ico": "134003",
+          "reac": [
+            [
+              "Carne de crocolisco",
+              1
+            ],
+            [
+              "Especias suaves",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Restaura 234 p. de salud durante 21 s. Debes permanecer sentado mientras comes. Si pasas al menos 10 s comiendo, quedarás bien alimentado y ganarás 3 p. de agilidad durante 15 min. Además, la experiencia obtenida al matar enemigos aum"
+            ],
+            "id": 3662,
+            "ilvl": 15,
+            "n": "Chuleta de crocolisco",
+            "q": "common",
+            "req": 5,
+            "sub": "Comida y bebida",
+            "venta": [
+              "0",
+              "0",
+              "25"
+            ]
+          },
+          "quien": [
+            0,
+            9,
+            19,
+            20
+          ]
+        },
+        {
+          "id": 1874,
+          "n": "Sopa de crocolisco",
+          "q": "common",
+          "ico": "133748",
+          "reac": [
+            [
+              "Carne de crocolisco tierna",
+              1
+            ],
+            [
+              "Especias picantes",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Restaura 530 p. de salud durante 24 s. Debes permanecer sentado mientras comes. Si pasas al menos 10 s comiendo, quedarás bien alimentado y recibirás 5 p. de agilidad durante 15 min. Además, la experiencia obtenida al matar enemigos a"
+            ],
+            "id": 3664,
+            "ilvl": 25,
+            "n": "Potaje de crocolisco",
+            "q": "common",
+            "req": 15,
+            "sub": "Comida y bebida",
+            "venta": [
+              "0",
+              "1",
+              "0"
+            ]
+          },
+          "quien": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            9,
+            12
+          ]
+        },
+        {
+          "id": 1902,
+          "n": "Chuletillas de león picantes",
+          "q": "common",
+          "ico": "133974",
+          "reac": [
+            [
+              "Carne de león",
+              1
+            ],
+            [
+              "Especias picantes",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Restaura 530 p. de salud durante 24 s. Debes permanecer sentado mientras comes. Si pasas al menos 10 s comiendo, quedarás bien alimentado y recibirás 5 p. de agilidad durante 15 min. Además, la experiencia obtenida al matar enemigos a"
+            ],
+            "id": 3727,
+            "ilvl": 25,
+            "n": "Chuletillas de león picantes",
+            "q": "common",
+            "req": 15,
+            "sub": "Comida y bebida",
+            "venta": [
+              "0",
+              "1",
+              "25"
+            ]
+          },
+          "quien": []
+        },
+        {
+          "id": 1903,
+          "n": "Chuletón de león suculento",
+          "q": "common",
+          "ico": "133970",
+          "reac": [
+            [
+              "Carne de león",
+              2
+            ],
+            [
+              "Especias calmantes",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Restaura 841 p. de salud durante 27 s. Debes permanecer sentado mientras comes. Si pasas al menos 10 s comiendo, quedarás bien alimentado y recibirás 10 p. de agilidad durante 15 min. Además, la experiencia obtenida al matar enemigos "
+            ],
+            "id": 3728,
+            "ilvl": 35,
+            "n": "Filete de león sabroso",
+            "q": "common",
+            "req": 25,
+            "sub": "Comida y bebida",
+            "venta": [
+              "0",
+              "3",
+              "0"
+            ]
+          },
+          "quien": [
+            0,
+            1
+          ]
+        },
+        {
+          "id": 8617,
+          "n": "Filete de lobo magro",
+          "q": "common",
+          "ico": "134003",
+          "reac": [
+            [
+              "Costillar de lobo magro",
+              1
+            ],
+            [
+              "Especias suaves",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Restaura 530 p. de salud durante 24 s. Debes permanecer sentado mientras comes. Si pasas al menos 10 s comiendo, quedarás bien alimentado y recibirás 5 p. de agilidad durante 15 min. Además, la experiencia obtenida al matar enemigos a"
+            ],
+            "id": 12209,
+            "ilvl": 25,
+            "n": "Chuleta de lobo magro",
+            "q": "common",
+            "req": 15,
+            "sub": "Comida y bebida",
+            "venta": [
+              "0",
+              "0",
+              "95"
+            ]
+          },
+          "quien": []
+        },
+        {
+          "id": 8619,
+          "n": "Costillas de lobo cocidas",
+          "q": "common",
+          "reac": [
+            [
+              "Carne de lobo rojo",
+              1
+            ],
+            [
+              "Especias picantes",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Restaura 841 p. de salud durante 27 s. Debes permanecer sentado mientras comes. Si pasas al menos 10 s comiendo, quedarás bien alimentado y recibirás 10 p. de agilidad durante 15 min. Además, la experiencia obtenida al matar enemigos "
+            ],
+            "id": 13851,
+            "ilvl": 35,
+            "n": "Costillas de lobo picantes",
+            "q": "common",
+            "req": 25,
+            "sub": "Comida y bebida",
+            "venta": [
+              "0",
+              "3",
+              "12"
+            ]
+          },
+          "quien": []
+        },
+        {
+          "id": 8620,
+          "n": "Estofado de la selva",
+          "q": "common",
+          "ico": "132804",
+          "reac": [
+            [
+              "Carne de tigre",
+              1
+            ],
+            [
+              "Agua de manantial refrescante",
+              1
+            ],
+            [
+              "Manzana roja lustrosa",
+              2
+            ]
+          ],
+          "cant": 2.0,
+          "obj": {
+            "efectos": [
+              "Usar: Restaura 1338 p. de salud durante 30 s. Debes permanecer sentado mientras comes. Si pasas al menos 10 s comiendo, quedarás bien alimentado y recibirás 15 p. de agilidad durante 15 min. Además, la experiencia obtenida al matar enemigos"
+            ],
+            "id": 12212,
+            "ilvl": 45,
+            "n": "Estofado de la selva",
+            "q": "common",
+            "req": 35,
+            "sub": "Comida y bebida",
+            "venta": [
+              "0",
+              "3",
+              "0"
+            ]
+          },
+          "quien": []
+        },
+        {
+          "id": 12236,
+          "n": "Chuletón de lobo tierno",
+          "q": "common",
+          "ico": "134003",
+          "reac": [
+            [
+              "Carne de lobo tierna",
+              1
+            ],
+            [
+              "Especias calmantes",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Restaura 1338 p. de salud durante 30 s. Debes permanecer sentado mientras comes. Si pasas al menos 10 s comiendo, quedarás bien alimentado y recibirás 15 p. de agilidad durante 15 min. Además, la experiencia obtenida al matar enemigos"
+            ],
+            "id": 18045,
+            "ilvl": 45,
+            "n": "Chuleta de lobo tierno",
+            "q": "common",
+            "req": 35,
+            "sub": "Comida y bebida",
+            "venta": [
+              "0",
+              "3",
+              "0"
+            ]
+          },
+          "quien": []
+        },
+        {
+          "id": 12905,
+          "n": "Guiso de crocolisco",
+          "q": "common",
+          "ico": "134020",
+          "reac": [
+            [
+              "Carne de crocolisco tierna",
+              2
+            ],
+            [
+              "Especias calmantes",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Restaura 841 p. de salud durante 27 s. Debes permanecer sentado mientras comes. Si pasas al menos 10 s comiendo, quedarás bien alimentado y recibirás 10 p. de agilidad durante 15 min. Además, la experiencia obtenida al matar enemigos "
+            ],
+            "id": 20074,
+            "ilvl": 35,
+            "n": "Estofado de crocolisco pesado",
+            "q": "common",
+            "req": 25,
+            "sub": "Comida y bebida",
+            "venta": [
+              "0",
+              "3",
+              "0"
+            ]
+          },
+          "quien": []
+        },
+        {
+          "id": 54494,
+          "n": "Carne de falda au Poivre",
+          "q": "common",
+          "ico": "350563",
+          "reac": [
+            [
+              "Carne de lobo rojo",
+              3
+            ],
+            [
+              "Especias calmantes",
+              3
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Restaura 2065 p. de salud durante 30 s. Debes permanecer sentado mientras comes. Si pasas al menos 10 s comiendo, quedarás bien alimentado y recibirás 20 p. de agilidad durante 15 min. Además, la experiencia obtenida al matar enemigos"
+            ],
+            "id": 250069,
+            "ilvl": 55,
+            "n": "Carne de falda au Poivre",
+            "q": "common",
+            "req": 45,
+            "sub": "Comida y bebida",
+            "venta": [
+              "0",
+              "0",
+              "25"
+            ]
+          },
+          "quien": []
+        },
+        {
+          "id": 54497,
+          "n": "Filete Golpeveloz",
+          "q": "common",
+          "ico": "134005",
+          "reac": [
+            [
+              "Carne de tigre",
+              3
+            ],
+            [
+              "Especias calmantes",
+              2
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Restaura 2065 p. de salud durante 30 s. Debes permanecer sentado mientras comes. Si pasas al menos 10 s comiendo, quedarás bien alimentado y recibirás 20 p. de agilidad durante 15 min. Además, la experiencia obtenida al matar enemigos"
+            ],
+            "id": 250072,
+            "ilvl": 55,
+            "n": "Filete Golpeveloz",
+            "q": "common",
+            "req": 45,
+            "sub": "Comida y bebida",
+            "venta": [
+              "0",
+              "0",
+              "40"
+            ]
+          },
+          "quien": []
+        }
+      ]
+    },
+    {
+      "nombre": "Comida de fuerza",
+      "recetas": [
+        {
+          "id": 1537,
+          "n": "Carne de jabalí a la brasa",
+          "q": "common",
+          "ico": "133974",
+          "reac": [
+            [
+              "Trozo de carne de jabalí",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Restaura 58 p. de salud durante 18 s. Debes permanecer sentado mientras comes. Si pasas al menos 10 s comiendo, quedarás bien alimentado y ganarás 1 p. de fuerza durante 15 min. Además, la experiencia obtenida al matar enemigos aument"
+            ],
+            "id": 2681,
+            "ilvl": 10,
+            "n": "Carne de jabalí asado",
+            "q": "common",
+            "req": 1,
+            "sub": "Comida y bebida",
+            "venta": [
+              "0",
+              "0",
+              "6"
+            ]
+          },
+          "quien": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42
+          ]
+        },
+        {
+          "id": 1539,
+          "n": "Pastel de hígado de dentosangre",
+          "q": "common",
+          "reac": [
+            [
+              "Hígado de Dentosangre",
+              1
+            ],
+            [
+              "Especias suaves",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Restaura 234 p. de salud durante 21 s. Debes permanecer sentado mientras comes. Si pasas al menos 10 s comiendo, quedarás bien alimentado y ganarás 3 p. de fuerza durante 15 min. Además, la experiencia obtenida al matar enemigos aumen"
+            ],
+            "id": 724,
+            "ilvl": 15,
+            "n": "Pastel de hígado de Dentosangre",
+            "q": "common",
+            "req": 5,
+            "sub": "Comida y bebida",
+            "venta": [
+              "0",
+              "0",
+              "25"
+            ]
+          },
+          "quien": [
+            0,
+            2,
+            6,
+            8,
+            9,
+            12,
+            14,
+            17,
+            19,
+            20
+          ]
+        },
+        {
+          "id": 1545,
+          "n": "Costillas de cerdo secas",
+          "q": "common",
+          "reac": [
+            [
+              "Costillas de jabalí",
+              1
+            ],
+            [
+              "Especias suaves",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Restaura 234 p. de salud durante 21 s. Debes permanecer sentado mientras comes. Si pasas al menos 10 s comiendo, quedarás bien alimentado y ganarás 3 p. de fuerza durante 15 min. Además, la experiencia obtenida al matar enemigos aumen"
+            ],
+            "id": 2687,
+            "ilvl": 15,
+            "n": "Costillas de cerdo secas",
+            "q": "common",
+            "req": 5,
+            "sub": "Comida y bebida",
+            "venta": [
+              "0",
+              "0",
+              "25"
+            ]
+          },
+          "quien": [
+            0,
+            1,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            19,
+            20,
+            21
+          ]
+        },
+        {
+          "id": 1547,
+          "n": "Costillas de cerdo suculentas",
+          "q": "common",
+          "reac": [
+            [
+              "Costillas de jabalí",
+              2
+            ],
+            [
+              "Especias picantes",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Restaura 530 p. de salud durante 24 s. Debes permanecer sentado mientras comes. Si pasas al menos 10 s comiendo, quedarás bien alimentado y recibirás 5 p. de fuerza durante 15 min. Además, la experiencia obtenida al matar enemigos aum"
+            ],
+            "id": 2685,
+            "ilvl": 25,
+            "n": "Costillas de cerdo suculentas",
+            "q": "common",
+            "req": 15,
+            "sub": "Comida y bebida",
+            "venta": [
+              "0",
+              "0",
+              "75"
+            ]
+          },
+          "quien": [
+            3,
+            7,
+            18
+          ]
+        },
+        {
+          "id": 1674,
+          "n": "Costillas de jabalí rociadas con cerveza",
+          "q": "common",
+          "reac": [
+            [
+              "Costilla de jabalí del risco",
+              1
+            ],
+            [
+              "Malta rapsódica",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Restaura 58 p. de salud durante 18 s. Debes permanecer sentado mientras comes. Si pasas al menos 10 s comiendo, quedarás bien alimentado y ganarás 1 p. de fuerza durante 15 min. Además, la experiencia obtenida al matar enemigos aument"
+            ],
+            "id": 2888,
+            "ilvl": 10,
+            "n": "Costillas de jabalí a la cerveza",
+            "q": "common",
+            "req": 1,
+            "sub": "Comida y bebida",
+            "venta": [
+              "0",
+              "0",
+              "10"
+            ]
+          },
+          "quien": [
+            0,
+            3,
+            8,
+            9,
+            10,
+            11,
+            17,
+            19,
+            25
+          ]
+        },
+        {
+          "id": 1872,
+          "n": "Morcilla",
+          "q": "common",
+          "ico": "134005",
+          "reac": [
+            [
+              "Carne de oso",
+              1
+            ],
+            [
+              "Intestinos de jabalí",
+              1
+            ],
+            [
+              "Icor de araña",
+              1
+            ]
+          ],
+          "cant": 2.0,
+          "obj": {
+            "efectos": [
+              "Usar: Restaura 234 p. de salud durante 21 s. Debes permanecer sentado mientras comes. Si pasas al menos 10 s comiendo, quedarás bien alimentado y ganarás 3 p. de fuerza durante 15 min. Además, la experiencia obtenida al matar enemigos aumen"
+            ],
+            "id": 3220,
+            "ilvl": 15,
+            "n": "Morcilla",
+            "q": "common",
+            "req": 5,
+            "sub": "Comida y bebida",
+            "venta": [
+              "0",
+              "0",
+              "40"
+            ]
+          },
+          "quien": [
+            0,
+            7,
+            8,
+            9,
+            11,
+            17,
+            19,
+            20
+          ]
+        },
+        {
+          "id": 1901,
+          "n": "Chuleta grande de oso",
+          "q": "common",
+          "ico": "134003",
+          "reac": [
+            [
+              "Carne de oso grande",
+              1
+            ],
+            [
+              "Especias picantes",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Restaura 234 p. de salud durante 21 s. Debes permanecer sentado mientras comes. Si pasas al menos 10 s comiendo, quedarás bien alimentado y ganarás 3 p. de fuerza durante 15 min. Además, la experiencia obtenida al matar enemigos aumen"
+            ],
+            "id": 3726,
+            "ilvl": 15,
+            "n": "Chuleta de oso grande",
+            "q": "common",
+            "req": 5,
+            "sub": "Comida y bebida",
+            "venta": [
+              "0",
+              "1",
+              "25"
+            ]
+          },
+          "quien": [
+            7
+          ]
+        },
+        {
+          "id": 3933,
+          "n": "Venado magro",
+          "q": "common",
+          "ico": "134028",
+          "reac": [
+            [
+              "Carne de ciervo",
+              1
+            ],
+            [
+              "Especias suaves",
+              4
+            ]
+          ],
+          "cant": 2.0,
+          "obj": {
+            "efectos": [
+              "Usar: Restaura 530 p. de salud durante 24 s. Debes permanecer sentado mientras comes. Si pasas al menos 10 s comiendo, quedarás bien alimentado y recibirás 5 p. de fuerza durante 15 min. Además, la experiencia obtenida al matar enemigos aum"
+            ],
+            "id": 5480,
+            "ilvl": 25,
+            "n": "Venado magro",
+            "q": "common",
+            "req": 15,
+            "sub": "Comida y bebida",
+            "venta": [
+              "0",
+              "0",
+              "95"
+            ]
+          },
+          "quien": [
+            7
+          ]
+        },
+        {
+          "id": 4787,
+          "n": "Carne de oso",
+          "q": "common",
+          "ico": "133969",
+          "reac": [
+            [
+              "Carne de oso",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Restaura 58 p. de salud durante 18 s. Debes permanecer sentado mientras comes. Si pasas al menos 10 s comiendo, quedarás bien alimentado y ganarás 1 p. de fuerza durante 15 min. Además, la experiencia obtenida al matar enemigos aument"
+            ],
+            "id": 6890,
+            "ilvl": 10,
+            "n": "Carne de oso ahumado",
+            "q": "common",
+            "req": 1,
+            "sub": "Comida y bebida",
+            "venta": [
+              "0",
+              "0",
+              "6"
+            ]
+          },
+          "quien": [
+            11,
+            19
+          ]
+        },
+        {
+          "id": 13056,
+          "n": "Torrijas al horno del desierto",
+          "q": "common",
+          "ico": "134020",
+          "reac": [
+            [
+              "Carne de gusano de arena",
+              1
+            ],
+            [
+              "Especias calmantes",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Restaura 2065 p. de salud durante 30 s. Debes permanecer sentado mientras comes. Si pasas al menos 10 s comiendo, quedarás bien alimentado y recibirás 20 p. de fuerza durante 15 min. Además, la experiencia obtenida al matar enemigos a"
+            ],
+            "id": 20452,
+            "ilvl": 55,
+            "n": "Bolas de masa del desierto ahumadas",
+            "q": "common",
+            "req": 45,
+            "sub": "Comida y bebida",
+            "venta": [
+              "0",
+              "2",
+              "50"
+            ]
+          },
+          "quien": []
+        },
+        {
+          "id": 54490,
+          "n": "Minihamburguesas de venado sabrosas",
+          "q": "common",
+          "ico": "237335",
+          "reac": [
+            [
+              "Carne de ciervo",
+              2
+            ],
+            [
+              "Especias picantes",
+              3
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Restaura 1338 p. de salud durante 30 s. Debes permanecer sentado mientras comes. Si pasas al menos 10 s comiendo, quedarás bien alimentado y recibirás 15 p. de fuerza durante 15 min. Además, la experiencia obtenida al matar enemigos a"
+            ],
+            "id": 250065,
+            "ilvl": 45,
+            "n": "Minihamburguesas de venado sabrosas",
+            "q": "common",
+            "req": 35,
+            "sub": "Comida y bebida",
+            "venta": [
+              "0",
+              "1",
+              "50"
+            ]
+          },
+          "quien": []
+        },
+        {
+          "id": 54495,
+          "n": "Bruscitti de oso",
+          "q": "common",
+          "ico": "1387649",
+          "reac": [
+            [
+              "Carne de oso grande",
+              3
+            ],
+            [
+              "Especias calmantes",
+              3
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Restaura 2065 p. de salud durante 30 s. Debes permanecer sentado mientras comes. Si pasas al menos 10 s comiendo, quedarás bien alimentado y recibirás 20 p. de fuerza durante 15 min. Además, la experiencia obtenida al matar enemigos a"
+            ],
+            "id": 250070,
+            "ilvl": 55,
+            "n": "Bruscitti de oso",
+            "q": "common",
+            "req": 45,
+            "sub": "Comida y bebida",
+            "venta": [
+              "0",
+              "0",
+              "25"
+            ]
+          },
+          "quien": []
+        },
+        {
+          "id": 54496,
+          "n": "Filete de venado humeante",
+          "q": "common",
+          "ico": "350558",
+          "reac": [
+            [
+              "Carne de ciervo",
+              3
+            ],
+            [
+              "Especias calmantes",
+              4
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Restaura 2065 p. de salud durante 30 s. Debes permanecer sentado mientras comes. Si pasas al menos 10 s comiendo, quedarás bien alimentado y recibirás 20 p. de fuerza durante 15 min. Además, la experiencia obtenida al matar enemigos a"
+            ],
+            "id": 250071,
+            "ilvl": 55,
+            "n": "Filete de venado humeante",
+            "q": "common",
+            "req": 45,
+            "sub": "Comida y bebida",
+            "venta": [
+              "0",
+              "0",
+              "10"
+            ]
+          },
+          "quien": []
+        },
+        {
+          "id": 54499,
+          "n": "Costilla de oso",
+          "q": "common",
+          "ico": "134003",
+          "reac": [
+            [
+              "Carne de oso grande",
+              2
+            ],
+            [
+              "Especias picantes",
+              3
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Restaura 841 p. de salud durante 27 s. Debes permanecer sentado mientras comes. Si pasas al menos 10 s comiendo, quedarás bien alimentado y recibirás 10 p. de fuerza durante 15 min. Además, la experiencia obtenida al matar enemigos au"
+            ],
+            "id": 250074,
+            "ilvl": 35,
+            "n": "Costilla de oso",
+            "q": "common",
+            "req": 25,
+            "sub": "Comida y bebida",
+            "venta": [
+              "0",
+              "1",
+              "25"
+            ]
+          },
+          "quien": []
+        },
+        {
+          "id": 58469,
+          "n": "Colmillopálido sencillo",
+          "q": "common",
+          "reac": [
+            [
+              "Trozo de carne de jabalí",
+              2
+            ],
+            [
+              "Especias suaves",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Restaura 841 p. de salud durante 27 s. Debes permanecer sentado mientras comes. Si pasas al menos 10 s comiendo, quedarás bien alimentado y recibirás 10 p. de fuerza durante 15 min. Además, la experiencia obtenida al matar enemigos au"
+            ],
+            "id": 274976,
+            "ilvl": 35,
+            "n": "Colmillopálido sencillo",
+            "q": "common",
+            "req": 25,
+            "sub": "Comida y bebida",
+            "venta": [
+              "0",
+              "0",
+              "75"
+            ]
+          },
+          "quien": []
+        }
+      ]
+    },
+    {
+      "nombre": "Cocinas misceláneas",
+      "recetas": [
+        {
+          "id": 1540,
+          "n": "Estofado de Páramos de Poniente",
+          "q": "common",
+          "ico": "133748",
+          "reac": [
+            [
+              "Carne fibrosa de buitre",
+              1
+            ],
+            [
+              "Ojo de múrloc",
+              1
+            ],
+            [
+              "Morro de dentrosangre",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Restaura 234 p. de salud durante 21 s. Debes permanecer sentado mientras comes. Si pasas al menos 10 s comiendo, quedarás bien alimentado y recibirás un 15% de velocidad de movimiento mientras estás en los Páramos de Poniente durante "
+            ],
+            "id": 733,
+            "ilvl": 15,
+            "n": "Estofado de Páramos de Poniente",
+            "q": "common",
+            "req": 5,
+            "sub": "Comida y bebida",
+            "venta": [
+              "0",
+              "1",
+              "0"
+            ]
+          },
+          "quien": [
+            0,
+            2,
+            3,
+            6,
+            8,
+            9,
+            12,
+            14,
+            17,
+            18,
+            19,
+            20
+          ]
+        },
+        {
+          "id": 3927,
+          "n": "Sorpresa de escórpido",
+          "q": "common",
+          "reac": [
+            [
+              "Aguijón de escórpido",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Cura 282 p. de daño durante 21 s siempre que no muerdas una glándula de veneno. (1 s de tiempo de reutilización)."
+            ],
+            "id": 5473,
+            "ilvl": 10,
+            "n": "Sorpresa de escórpido",
+            "q": "common",
+            "req": 1,
+            "sub": "Comida y bebida",
+            "venta": [
+              "0",
+              "0",
+              "10"
+            ]
+          },
+          "quien": []
+        },
+        {
+          "id": 4569,
+          "n": "Delicia sobrosa retorcida",
+          "q": "common",
+          "ico": "134302",
+          "reac": [
+            [
+              "Pez descarriado",
+              1
+            ],
+            [
+              "Especias suaves",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Cómeme. (10 s de tiempo de reutilización)."
+            ],
+            "id": 6657,
+            "ilvl": 10,
+            "n": "Delicia desviada sabrosa",
+            "q": "common",
+            "req": 1,
+            "sub": "Comida y bebida",
+            "venta": [
+              "0",
+              "0",
+              "5"
+            ]
+          },
+          "quien": []
+        },
+        {
+          "id": 5149,
+          "n": "Te de cardo",
+          "q": "common",
+          "ico": "132819",
+          "reac": [
+            [
+              "Cardoveloz",
+              1
+            ],
+            [
+              "Agua de manantial refrescante",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Restaura instantáneamente 100 p. de energía. (5 min de tiempo de reutilización)."
+            ],
+            "id": 7676,
+            "ilvl": 15,
+            "n": "Té de cardo",
+            "q": "common",
+            "req": 5,
+            "sub": "Comida y bebida",
+            "venta": [
+              "0",
+              "0",
+              "30"
+            ]
+          },
+          "quien": [
+            2,
+            14
+          ]
+        },
+        {
+          "id": 7181,
+          "n": "Té espina de oro",
+          "q": "common",
+          "ico": "132802",
+          "reac": [
+            [
+              "Espina de oro",
+              1
+            ],
+            [
+              "Agua de manantial refrescante",
+              1
+            ]
+          ],
+          "cant": 4.0,
+          "obj": {
+            "efectos": [
+              "Usar: Restaura 1344 p. de maná durante 27 s. Debes permanecer sentado mientras bebes. Si pasas al menos 10 s bebiendo, quedarás bien alimentado y recibirás 15 p. de habilidad en herboristería durante 15 min. Además, la experiencia obtenida "
+            ],
+            "id": 10841,
+            "ilvl": 35,
+            "n": "Té de espina de oro",
+            "q": "common",
+            "req": 25,
+            "sub": "Comida y bebida",
+            "venta": [
+              "0",
+              "0",
+              "85"
+            ]
+          },
+          "quien": []
+        },
+        {
+          "id": 13343,
+          "n": "Fabulosas chuletillas de quimerok de Dirge",
+          "q": "common",
+          "ico": "134021",
+          "reac": [
+            [
+              "Especias picantes",
+              1
+            ],
+            [
+              "Combustible de cohete goblin",
+              1
+            ],
+            [
+              "Sal de roca",
+              1
+            ],
+            [
+              "Solomillo de Quimerok",
+              1
+            ]
+          ],
+          "cant": 5.0,
+          "obj": {
+            "efectos": [
+              "Usar: Restaura 2451 p. de salud durante 30 s. Debes permanecer sentado mientras comes. Si comes durante al menos 10 segundos, estarás bien alimentado y ganarás 25 p. de aguante durante 15 min. (1 s de tiempo de reutilización)."
+            ],
+            "id": 21023,
+            "ilvl": 55,
+            "n": "Fabulosas chuletillas de quimerok de Dirge",
+            "q": "common",
+            "req": 45,
+            "sub": "Comida y bebida",
+            "venta": [
+              "0",
+              "2",
+              "50"
+            ]
+          },
+          "quien": []
+        },
+        {
+          "id": 56880,
+          "n": "Galleta con forma de alimaña",
+          "q": "common",
+          "ico": "237363",
+          "reac": [
+            [
+              "Harina estándar",
+              5
+            ]
+          ],
+          "quien": []
+        },
+        {
+          "id": 56882,
+          "n": "Pinchitos de cangrejo",
+          "q": "common",
+          "ico": "1508493",
+          "reac": [
+            [
+              "Garra de reptador",
+              1
+            ],
+            [
+              "Harina estándar",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Restaura 58 p. de salud durante 18 s. Debes permanecer sentado mientras comes. Si pasas al menos 10 s comiendo, quedarás bien alimentado y ganarás 1 p. de intelecto durante 15 min. Además, la experiencia obtenida al matar enemigos aum"
+            ],
+            "id": 263512,
+            "ilvl": 15,
+            "n": "Pinchitos de cangrejo",
+            "q": "common",
+            "req": 5,
+            "sub": "Comida y bebida",
+            "venta": [
+              "0",
+              "1",
+              "0"
+            ]
+          },
+          "quien": [
+            4,
+            5,
+            6,
+            8,
+            14
+          ]
+        },
+        {
+          "id": 58426,
+          "n": "Mermelada patadulce",
+          "q": "common",
+          "ico": "133748",
+          "reac": [
+            [
+              "Bayas de Hyjal",
+              3
+            ],
+            [
+              "Especias calmantes",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Restaura 2065 p. de salud durante 30 s. Debes permanecer sentado mientras comes. Si pasas al menos 10 s comiendo, quedarás bien alimentado y recibirás un 15% de velocidad de movimiento mientras estés en Hyjal durante 15 min. Además, l"
+            ],
+            "id": 267341,
+            "ilvl": 60,
+            "n": "Mermelada patadulce",
+            "q": "common",
+            "req": 55,
+            "sub": "Comida y bebida",
+            "venta": [
+              "0",
+              "2",
+              "0"
+            ]
+          },
+          "quien": []
+        },
+        {
+          "id": 58479,
+          "n": "Delicia de aletantojo sabrosa",
+          "q": "common",
+          "ico": "237320",
+          "reac": [
+            [
+              "Aletantojo",
+              1
+            ],
+            [
+              "Especias suaves",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Cómeme. (10 s de tiempo de reutilización)."
+            ],
+            "id": 251525,
+            "ilvl": 10,
+            "n": "Delicia de aletantojo sabrosa",
+            "q": "common",
+            "req": 1,
+            "sub": "Otros",
+            "venta": [
+              "0",
+              "0",
+              "5"
+            ]
+          },
+          "quien": []
+        }
+      ]
+    },
+    {
+      "nombre": "Comida de intelecto",
+      "recetas": [
+        {
+          "id": 1543,
+          "n": "Pastel de cangrejo",
+          "q": "common",
+          "ico": "133950",
+          "reac": [
+            [
+              "Carne de reptador",
+              1
+            ],
+            [
+              "Especias suaves",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Restaura 234 p. de salud durante 21 s. Debes permanecer sentado mientras comes. Si pasas al menos 10 s comiendo, quedarás bien alimentado y ganarás 3 p. de intelecto durante 15 min. Además, la experiencia obtenida al matar enemigos au"
+            ],
+            "id": 2683,
+            "ilvl": 15,
+            "n": "Pastel de cangrejo",
+            "q": "common",
+            "req": 5,
+            "sub": "Comida y bebida",
+            "venta": [
+              "0",
+              "0",
+              "25"
+            ]
+          },
+          "quien": [
+            0,
+            1,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            19,
+            20,
+            21
+          ]
+        },
+        {
+          "id": 1544,
+          "n": "Pinza de cangrejo cocida",
+          "q": "common",
+          "ico": "133708",
+          "reac": [
+            [
+              "Garra de reptador",
+              1
+            ],
+            [
+              "Especias suaves",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Restaura 58 p. de salud durante 18 s. Debes permanecer sentado mientras comes. Si pasas al menos 10 s comiendo, quedarás bien alimentado y ganarás 1 p. de intelecto durante 15 min. Además, la experiencia obtenida al matar enemigos aum"
+            ],
+            "id": 2682,
+            "ilvl": 10,
+            "n": "Pinza de cangrejo cocida",
+            "q": "common",
+            "req": 1,
+            "sub": "Comida y bebida",
+            "venta": [
+              "0",
+              "0",
+              "25"
+            ]
+          },
+          "quien": [
+            0,
+            1,
+            4,
+            12,
+            13,
+            19,
+            20
+          ]
+        },
+        {
+          "id": 1546,
+          "n": "Estofado de Crestagrana",
+          "q": "common",
+          "ico": "133748",
+          "reac": [
+            [
+              "Carne de araña crujiente",
+              1
+            ],
+            [
+              "Carne de cóndor dura",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Restaura 234 p. de salud durante 21 s. Debes permanecer sentado mientras comes. Si pasas al menos 10 s comiendo, quedarás bien alimentado y ganarás 3 p. de intelecto durante 15 min. Además, la experiencia obtenida al matar enemigos au"
+            ],
+            "id": 1082,
+            "ilvl": 15,
+            "n": "Estofado Crestagrana",
+            "q": "common",
+            "req": 5,
+            "sub": "Comida y bebida",
+            "venta": [
+              "0",
+              "1",
+              "50"
+            ]
+          },
+          "quien": [
+            0,
+            2,
+            3,
+            4,
+            5,
+            8,
+            12,
+            15,
+            19
+          ]
+        },
+        {
+          "id": 2499,
+          "n": "Alas de águila ratonera a la parrilla",
+          "q": "common",
+          "ico": "133974",
+          "reac": [
+            [
+              "Ala de águila ratonera",
+              1
+            ],
+            [
+              "Especias picantes",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Restaura 841 p. de salud durante 27 s. Debes permanecer sentado mientras comes. Si pasas al menos 10 s comiendo, quedarás bien alimentado y recibirás 10 p. de intelecto durante 15 min. Además, la experiencia obtenida al matar enemigos"
+            ],
+            "id": 4457,
+            "ilvl": 35,
+            "n": "Ala de águila ratonera a la parrilla",
+            "q": "common",
+            "req": 25,
+            "sub": "Comida y bebida",
+            "venta": [
+              "0",
+              "3",
+              "0"
+            ]
+          },
+          "quien": []
+        },
+        {
+          "id": 3930,
+          "n": "Estofado de zancudo",
+          "q": "common",
+          "ico": "133748",
+          "reac": [
+            [
+              "Carne de zancudo",
+              1
+            ],
+            [
+              "Manzana roja lustrosa",
+              1
+            ]
+          ],
+          "cant": 2.0,
+          "obj": {
+            "efectos": [
+              "Usar: Restaura 58 p. de salud durante 18 s. Debes permanecer sentado mientras comes. Si pasas al menos 10 s comiendo, quedarás bien alimentado y ganarás 1 p. de intelecto durante 15 min. Además, la experiencia obtenida al matar enemigos aum"
+            ],
+            "id": 5477,
+            "ilvl": 10,
+            "n": "Estofado de zancudo",
+            "q": "common",
+            "req": 1,
+            "sub": "Comida y bebida",
+            "venta": [
+              "0",
+              "0",
+              "18"
+            ]
+          },
+          "quien": [
+            5,
+            10,
+            13,
+            21
+          ]
+        },
+        {
+          "id": 8616,
+          "n": "Ala crocante de murciélago",
+          "q": "common",
+          "ico": "134002",
+          "reac": [
+            [
+              "Ala de murciélago carnosa",
+              1
+            ],
+            [
+              "Especias suaves",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Restaura 58 p. de salud durante 18 s. Debes permanecer sentado mientras comes. Si pasas al menos 10 s comiendo, quedarás bien alimentado y ganarás 1 p. de intelecto durante 15 min. Además, la experiencia obtenida al matar enemigos aum"
+            ],
+            "id": 12224,
+            "ilvl": 10,
+            "n": "Ala de murciélago crujiente",
+            "q": "common",
+            "req": 1,
+            "sub": "Comida y bebida",
+            "venta": [
+              "0",
+              "0",
+              "10"
+            ]
+          },
+          "quien": []
+        },
+        {
+          "id": 8618,
+          "n": "Raptor a la brasa",
+          "q": "common",
+          "ico": "134006",
+          "reac": [
+            [
+              "Carne de raptor",
+              1
+            ],
+            [
+              "Especias picantes",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Restaura 530 p. de salud durante 24 s. Debes permanecer sentado mientras comes. Si pasas al menos 10 s comiendo, quedarás bien alimentado y recibirás 5 p. de intelecto durante 15 min. Además, la experiencia obtenida al matar enemigos "
+            ],
+            "id": 12210,
+            "ilvl": 25,
+            "n": "Raptor asado",
+            "q": "common",
+            "req": 15,
+            "sub": "Comida y bebida",
+            "venta": [
+              "0",
+              "3",
+              "0"
+            ]
+          },
+          "quien": [
+            1
+          ]
+        },
+        {
+          "id": 8625,
+          "n": "cangrejo al chili picante",
+          "q": "common",
+          "reac": [
+            [
+              "Carne de cangrejo tierna",
+              1
+            ],
+            [
+              "Especias picantes",
+              2
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Restaura 841 p. de salud durante 27 s. Debes permanecer sentado mientras comes. Si pasas al menos 10 s comiendo, quedarás bien alimentado y recibirás 10 p. de intelecto durante 15 min. Además, la experiencia obtenida al matar enemigos"
+            ],
+            "id": 12216,
+            "ilvl": 35,
+            "n": "Chili de cangrejo especiado",
+            "q": "common",
+            "req": 25,
+            "sub": "Comida y bebida",
+            "venta": [
+              "0",
+              "3",
+              "0"
+            ]
+          },
+          "quien": []
+        },
+        {
+          "id": 12304,
+          "n": "Sorpresa de tubérculo Runn Tum",
+          "q": "common",
+          "ico": "134019",
+          "reac": [
+            [
+              "Tubérculo runtún",
+              1
+            ],
+            [
+              "Especias calmantes",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Restaura 1338 p. de salud durante 30 s. Debes permanecer sentado mientras comes. Si pasas al menos 10 s comiendo, quedarás bien alimentado y recibirás 15 p. de intelecto durante 15 min. Además, la experiencia obtenida al matar enemigo"
+            ],
+            "id": 18254,
+            "ilvl": 45,
+            "n": "Sorpresa de tubérculo runtún",
+            "q": "common",
+            "req": 35,
+            "sub": "Comida y bebida",
+            "venta": [
+              "0",
+              "0",
+              "18"
+            ]
+          },
+          "quien": []
+        },
+        {
+          "id": 54491,
+          "n": "Pamplona rasante",
+          "q": "common",
+          "ico": "350562",
+          "reac": [
+            [
+              "Ala de águila ratonera",
+              3
+            ],
+            [
+              "Especias calmantes",
+              3
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Restaura 2065 p. de salud durante 30 s. Debes permanecer sentado mientras comes. Si pasas al menos 10 s comiendo, quedarás bien alimentado y recibirás 20 p. de intelecto durante 15 min. Además, la experiencia obtenida al matar enemigo"
+            ],
+            "id": 250066,
+            "ilvl": 55,
+            "n": "Pamplona rasante",
+            "q": "common",
+            "req": 45,
+            "sub": "Comida y bebida",
+            "venta": [
+              "0",
+              "0",
+              "5"
+            ]
+          },
+          "quien": []
+        },
+        {
+          "id": 54492,
+          "n": "Hachee de murciélago",
+          "q": "common",
+          "ico": "237329",
+          "reac": [
+            [
+              "Ala de murciélago carnosa",
+              3
+            ],
+            [
+              "Especias calmantes",
+              2
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Restaura 2065 p. de salud durante 30 s. Debes permanecer sentado mientras comes. Si pasas al menos 10 s comiendo, quedarás bien alimentado y recibirás 20 p. de intelecto durante 15 min. Además, la experiencia obtenida al matar enemigo"
+            ],
+            "id": 250067,
+            "ilvl": 55,
+            "n": "Hachee de murciélago",
+            "q": "common",
+            "req": 45,
+            "sub": "Comida y bebida",
+            "venta": [
+              "0",
+              "0",
+              "10"
+            ]
+          },
+          "quien": []
+        },
+        {
+          "id": 54498,
+          "n": "Costillas de raptor picantes",
+          "q": "common",
+          "ico": "1387664",
+          "reac": [
+            [
+              "Carne de raptor",
+              2
+            ],
+            [
+              "Especias picantes",
+              3
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Restaura 841 p. de salud durante 27 s. Debes permanecer sentado mientras comes. Si pasas al menos 10 s comiendo, quedarás bien alimentado y recibirás 10 p. de intelecto durante 15 min. Además, la experiencia obtenida al matar enemigos"
+            ],
+            "id": 250073,
+            "ilvl": 35,
+            "n": "Costillas de raptor picantes",
+            "q": "common",
+            "req": 25,
+            "sub": "Comida y bebida",
+            "venta": [
+              "0",
+              "1",
+              "25"
+            ]
+          },
+          "quien": []
+        },
+        {
+          "id": 54500,
+          "n": "Carne mechada de raptor prehistórico",
+          "q": "common",
+          "ico": "237337",
+          "reac": [
+            [
+              "Carne de raptor",
+              3
+            ],
+            [
+              "Especias calmantes",
+              4
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Restaura 2065 p. de salud durante 30 s. Debes permanecer sentado mientras comes. Si pasas al menos 10 s comiendo, quedarás bien alimentado y recibirás 20 p. de intelecto durante 15 min. Además, la experiencia obtenida al matar enemigo"
+            ],
+            "id": 250075,
+            "ilvl": 55,
+            "n": "Carne mechada de raptor prehistórico",
+            "q": "common",
+            "req": 45,
+            "sub": "Comida y bebida",
+            "venta": [
+              "0",
+              "0",
+              "10"
+            ]
+          },
+          "quien": []
+        },
+        {
+          "id": 54501,
+          "n": "Rollo de carne de raptor",
+          "q": "common",
+          "ico": "350564",
+          "reac": [
+            [
+              "Carne de raptor",
+              2
+            ],
+            [
+              "Especias picantes",
+              4
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Restaura 1338 p. de salud durante 30 s. Debes permanecer sentado mientras comes. Si pasas al menos 10 s comiendo, quedarás bien alimentado y recibirás 15 p. de intelecto durante 15 min. Además, la experiencia obtenida al matar enemigo"
+            ],
+            "id": 250076,
+            "ilvl": 45,
+            "n": "Rollo de carne de raptor",
+            "q": "common",
+            "req": 35,
+            "sub": "Comida y bebida",
+            "venta": [
+              "0",
+              "0",
+              "10"
+            ]
+          },
+          "quien": []
+        },
+        {
+          "id": 54502,
+          "n": "Filete de raptor con dos especias",
+          "q": "common",
+          "ico": "1387662",
+          "reac": [
+            [
+              "Carne de raptor",
+              1
+            ],
+            [
+              "Especias suaves",
+              2
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Restaura 234 p. de salud durante 21 s. Debes permanecer sentado mientras comes. Si pasas al menos 10 s comiendo, quedarás bien alimentado y ganarás 3 p. de intelecto durante 15 min. Además, la experiencia obtenida al matar enemigos au"
+            ],
+            "id": 250077,
+            "ilvl": 15,
+            "n": "Filete de raptor con dos especias",
+            "q": "common",
+            "req": 5,
+            "sub": "Comida y bebida",
+            "venta": [
+              "0",
+              "0",
+              "9"
+            ]
+          },
+          "quien": []
+        },
+        {
+          "id": 54504,
+          "n": "Pinchitos de raptor sabrosos",
+          "q": "common",
+          "ico": "134024",
+          "reac": [
+            [
+              "Huevo de raptor",
+              1
+            ],
+            [
+              "Especias suaves",
+              4
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Restaura 58 p. de salud durante 18 s. Debes permanecer sentado mientras comes. Si pasas al menos 10 s comiendo, quedarás bien alimentado y ganarás 1 p. de intelecto durante 15 min. Además, la experiencia obtenida al matar enemigos aum"
+            ],
+            "id": 250079,
+            "ilvl": 10,
+            "n": "Pinchitos de raptor sabrosos",
+            "q": "common",
+            "req": 1,
+            "sub": "Comida y bebida",
+            "venta": [
+              "0",
+              "0",
+              "10"
+            ]
+          },
+          "quien": [
+            2,
+            4,
+            7,
+            14,
+            17
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Comida de aguante",
+      "recetas": [
+        {
+          "id": 1873,
+          "n": "Sopa de aleta de múrloc",
+          "q": "common",
+          "ico": "133748",
+          "reac": [
+            [
+              "Aleta de múrloc",
+              2
+            ],
+            [
+              "Especias picantes",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Restaura 58 p. de salud durante 18 s. Debes permanecer sentado mientras comes. Si pasas al menos 10 s comiendo, quedarás bien alimentado y ganarás 1 p. de aguante durante 15 min. Además, la experiencia obtenida al matar enemigos aumen"
+            ],
+            "id": 3663,
+            "ilvl": 10,
+            "n": "Sopa de aleta de múrloc",
+            "q": "common",
+            "req": 1,
+            "sub": "Comida y bebida",
+            "venta": [
+              "0",
+              "1",
+              "25"
+            ]
+          },
+          "quien": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            7,
+            8,
+            12,
+            14,
+            15,
+            18,
+            19,
+            20
+          ]
+        },
+        {
+          "id": 1875,
+          "n": "Tortilla con un sabor curioso",
+          "q": "common",
+          "ico": "132835",
+          "reac": [
+            [
+              "Huevo de raptor",
+              1
+            ],
+            [
+              "Especias picantes",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Restaura 530 p. de salud durante 24 s. Debes permanecer sentado mientras comes. Si pasas al menos 10 s comiendo, quedarás bien alimentado y ganarás 5 p. de aguante durante 15 min. Además, la experiencia obtenida al matar enemigos aume"
+            ],
+            "id": 3665,
+            "ilvl": 25,
+            "n": "Tortilla con un sabor curioso",
+            "q": "common",
+            "req": 15,
+            "sub": "Comida y bebida",
+            "venta": [
+              "0",
+              "1",
+              "50"
+            ]
+          },
+          "quien": [
+            0,
+            2,
+            3,
+            4,
+            5,
+            7
+          ]
+        },
+        {
+          "id": 1876,
+          "n": "Pastel pegajoso de araña",
+          "q": "common",
+          "reac": [
+            [
+              "Pata de araña babosa",
+              2
+            ],
+            [
+              "Especias picantes",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Restaura 530 p. de salud durante 24 s. Debes permanecer sentado mientras comes. Si pasas al menos 10 s comiendo, quedarás bien alimentado y ganarás 5 p. de aguante durante 15 min. Además, la experiencia obtenida al matar enemigos aume"
+            ],
+            "id": 3666,
+            "ilvl": 25,
+            "n": "Pastel de araña babosa",
+            "q": "common",
+            "req": 15,
+            "sub": "Comida y bebida",
+            "venta": [
+              "0",
+              "1",
+              "0"
+            ]
+          },
+          "quien": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            8,
+            9,
+            14,
+            15
+          ]
+        },
+        {
+          "id": 3928,
+          "n": "Carne de kodo a la brasa",
+          "q": "common",
+          "ico": "134016",
+          "reac": [
+            [
+              "Carne de kodo",
+              1
+            ],
+            [
+              "Especias suaves",
+              1
+            ]
+          ],
+          "cant": 2.0,
+          "obj": {
+            "efectos": [
+              "Usar: Restaura 58 p. de salud durante 18 s. Debes permanecer sentado mientras comes. Si pasas al menos 10 s comiendo, quedarás bien alimentado y ganarás 1 p. de aguante durante 15 min. Además, la experiencia obtenida al matar enemigos aumen"
+            ],
+            "id": 5474,
+            "ilvl": 10,
+            "n": "Carne de kodo asado",
+            "q": "common",
+            "req": 1,
+            "sub": "Comida y bebida",
+            "venta": [
+              "0",
+              "0",
+              "9"
+            ]
+          },
+          "quien": []
+        },
+        {
+          "id": 3932,
+          "n": "Cola de lagarto crujiente",
+          "q": "common",
+          "ico": "133973",
+          "reac": [
+            [
+              "Cola de truenagarto",
+              1
+            ],
+            [
+              "Especias picantes",
+              1
+            ]
+          ],
+          "cant": 2.0,
+          "obj": {
+            "efectos": [
+              "Usar: Restaura 234 p. de salud durante 21 s. Debes permanecer sentado mientras comes. Si pasas al menos 10 s comiendo, quedarás bien alimentado y ganarás 3 p. de aguante durante 15 min. Además, la experiencia obtenida al matar enemigos aume"
+            ],
+            "id": 5479,
+            "ilvl": 15,
+            "n": "Cola de lagarto crujiente",
+            "q": "common",
+            "req": 5,
+            "sub": "Comida y bebida",
+            "venta": [
+              "0",
+              "1",
+              "25"
+            ]
+          },
+          "quien": []
+        },
+        {
+          "id": 4786,
+          "n": "Huevo cocido con hierbas",
+          "q": "common",
+          "ico": "132834",
+          "reac": [
+            [
+              "Huevo pequeño",
+              1
+            ],
+            [
+              "Especias suaves",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Restaura 58 p. de salud durante 18 s. Debes permanecer sentado mientras comes. Si pasas al menos 10 s comiendo, quedarás bien alimentado y ganarás 1 p. de aguante durante 15 min. Además, la experiencia obtenida al matar enemigos aumen"
+            ],
+            "id": 6888,
+            "ilvl": 10,
+            "n": "Huevo cocido con hierbas",
+            "q": "common",
+            "req": 1,
+            "sub": "Comida y bebida",
+            "venta": [
+              "0",
+              "0",
+              "10"
+            ]
+          },
+          "quien": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42
+          ]
+        },
+        {
+          "id": 8624,
+          "n": "Estofado pesado de kodo",
+          "q": "common",
+          "ico": "132806",
+          "reac": [
+            [
+              "Carne de kodo pesada",
+              2
+            ],
+            [
+              "Especias calmantes",
+              1
+            ],
+            [
+              "Agua de manantial refrescante",
+              1
+            ]
+          ],
+          "cant": 2.0,
+          "obj": {
+            "efectos": [
+              "Usar: Restaura 841 p. de salud durante 27 s. Debes permanecer sentado mientras comes. Si pasas al menos 10 s comiendo, quedarás bien alimentado y recibirás 10 p. de aguante durante 15 min. Además, la experiencia obtenida al matar enemigos a"
+            ],
+            "id": 12215,
+            "ilvl": 35,
+            "n": "Estofado de kodo pesado",
+            "q": "common",
+            "req": 25,
+            "sub": "Comida y bebida",
+            "venta": [
+              "0",
+              "3",
+              "0"
+            ]
+          },
+          "quien": []
+        },
+        {
+          "id": 8626,
+          "n": "Mezcolanza de mosntruo",
+          "q": "common",
+          "ico": "133948",
+          "reac": [
+            [
+              "Huevo gigante",
+              1
+            ],
+            [
+              "Especias calmantes",
+              2
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Restaura 1338 p. de salud durante 30 s. Debes permanecer sentado mientras comes. Si pasas al menos 10 s comiendo, quedarás bien alimentado y recibirás 15 p. de aguante durante 15 min. Además, la experiencia obtenida al matar enemigos "
+            ],
+            "id": 12218,
+            "ilvl": 45,
+            "n": "Tortilla de monstruo",
+            "q": "common",
+            "req": 35,
+            "sub": "Comida y bebida",
+            "venta": [
+              "0",
+              "3",
+              "0"
+            ]
+          },
+          "quien": []
+        },
+        {
+          "id": 54493,
+          "n": "Estofado de tortuga sabroso",
+          "q": "common",
+          "ico": "651567",
+          "reac": [
+            [
+              "Carne de tortuga",
+              3
+            ],
+            [
+              "Especias calmantes",
+              3
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Restaura 2065 p. de salud durante 30 s. Debes permanecer sentado mientras comes. Si pasas al menos 10 s comiendo, quedarás bien alimentado y recibirás 20 p. de aguante durante 15 min. Además, la experiencia obtenida al matar enemigos "
+            ],
+            "id": 250068,
+            "ilvl": 55,
+            "n": "Estofado de tortuga sabroso",
+            "q": "common",
+            "req": 45,
+            "sub": "Comida y bebida",
+            "venta": [
+              "0",
+              "0",
+              "6"
+            ]
+          },
+          "quien": []
+        },
+        {
+          "id": 54503,
+          "n": "Huevos gigantes revueltos",
+          "q": "common",
+          "ico": "133748",
+          "reac": [
+            [
+              "Huevo gigante",
+              2
+            ],
+            [
+              "Especias picantes",
+              4
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Restaura 841 p. de salud durante 27 s. Debes permanecer sentado mientras comes. Si pasas al menos 10 s comiendo, quedarás bien alimentado y recibirás 10 p. de aguante durante 15 min. Además, la experiencia obtenida al matar enemigos a"
+            ],
+            "id": 250078,
+            "ilvl": 35,
+            "n": "Huevos gigantes revueltos",
+            "q": "common",
+            "req": 25,
+            "sub": "Comida y bebida",
+            "venta": [
+              "0",
+              "0",
+              "18"
+            ]
+          },
+          "quien": []
+        },
+        {
+          "id": 54505,
+          "n": "Tortilla de desayuno",
+          "q": "common",
+          "ico": "651570",
+          "reac": [
+            [
+              "Huevo pequeño",
+              1
+            ],
+            [
+              "Especias suaves",
+              4
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Restaura 234 p. de salud durante 21 s. Debes permanecer sentado mientras comes. Si pasas al menos 10 s comiendo, quedarás bien alimentado y ganarás 3 p. de aguante durante 15 min. Además, la experiencia obtenida al matar enemigos aume"
+            ],
+            "id": 250080,
+            "ilvl": 15,
+            "n": "Tortilla de desayuno",
+            "q": "common",
+            "req": 5,
+            "sub": "Comida y bebida",
+            "venta": [
+              "0",
+              "0",
+              "6"
+            ]
+          },
+          "quien": [
+            5,
+            12,
+            15,
+            20
+          ]
+        },
+        {
+          "id": 56881,
+          "n": "Suflé del Muro Celeste",
+          "q": "common",
+          "ico": "651570",
+          "reac": [
+            [
+              "Huevo pequeño",
+              2
+            ],
+            [
+              "Harina estándar",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Restaura 58 p. de salud durante 18 s. Debes permanecer sentado mientras comes. Si pasas al menos 10 s comiendo, quedarás bien alimentado y ganarás 1 p. de aguante durante 15 min. Además, la experiencia obtenida al matar enemigos aumen"
+            ],
+            "id": 263509,
+            "ilvl": 15,
+            "n": "Suflé del Muro Celeste",
+            "q": "common",
+            "req": 5,
+            "sub": "Comida y bebida",
+            "venta": [
+              "0",
+              "1",
+              "0"
+            ]
+          },
+          "quien": [
+            0,
+            4,
+            5,
+            6,
+            8,
+            14
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Delicias de pescador",
+      "recetas": [
+        {
+          "id": 3929,
+          "n": "Filete de pez furia",
+          "q": "common",
+          "ico": "133891",
+          "reac": [
+            [
+              "Carne de frenesí tierna",
+              1
+            ],
+            [
+              "Especias suaves",
+              1
+            ]
+          ],
+          "cant": 2.0,
+          "obj": {
+            "efectos": [
+              "Usar: Restaura 234 p. de salud durante 21 s. Debes permanecer sentado mientras comes. Si pasas al menos 10 s comiendo, quedarás bien alimentado y recibirás 5 p. de habilidad en pesca durante 15 min. Además, la experiencia obtenida al matar "
+            ],
+            "id": 5476,
+            "ilvl": 15,
+            "n": "Filete de pez furia",
+            "q": "common",
+            "req": 5,
+            "sub": "Comida y bebida",
+            "venta": [
+              "0",
+              "0",
+              "3"
+            ]
+          },
+          "quien": [
+            6,
+            10,
+            17,
+            22
+          ]
+        },
+        {
+          "id": 4356,
+          "n": "Delicia de merluza del Loch",
+          "q": "common",
+          "reac": [
+            [
+              "Frenesí del lago crudo",
+              1
+            ],
+            [
+              "Especias suaves",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Restaura 58 p. de salud durante 18 s. Debes permanecer sentado mientras comes. Si pasas al menos 10 s comiendo, quedarás bien alimentado y recibirás 3 p. de habilidad en pesca durante 15 min. Además, la experiencia obtenida al matar e"
+            ],
+            "id": 6316,
+            "ilvl": 15,
+            "n": "Delicia de furia de Loch Modan",
+            "q": "common",
+            "req": 5,
+            "sub": "Comida y bebida",
+            "venta": [
+              "0",
+              "0",
+              "3"
+            ]
+          },
+          "quien": [
+            0,
+            6,
+            9,
+            11
+          ]
+        },
+        {
+          "id": 4359,
+          "n": "Siluro mostacherizo",
+          "q": "common",
+          "ico": "133916",
+          "reac": [
+            [
+              "Siluro mostacherizo crudo",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Restaura 530 p. de salud durante 24 s. Debes permanecer sentado mientras comes. Si pasas al menos 10 s comiendo, quedarás bien alimentado y recibirás 8 p. de habilidad en pesca durante 15 min. Además, la experiencia obtenida al matar "
+            ],
+            "id": 4593,
+            "ilvl": 25,
+            "n": "Siluro mostacherizo",
+            "q": "common",
+            "req": 15,
+            "sub": "Comida y bebida",
+            "venta": [
+              "0",
+              "0",
+              "4"
+            ]
+          },
+          "quien": [
+            0,
+            1,
+            3,
+            5,
+            6,
+            9,
+            10
+          ]
+        },
+        {
+          "id": 4392,
+          "n": "Bacalao piedrescama",
+          "q": "common",
+          "ico": "133890",
+          "reac": [
+            [
+              "Bacalao Piedrescama crudo",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Restaura 841 p. de salud durante 27 s. Debes permanecer sentado mientras comes. Si pasas al menos 10 s comiendo, quedarás bien alimentado y recibirás 12 p. de habilidad en pesca durante 15 min. Además, la experiencia obtenida al matar"
+            ],
+            "id": 4594,
+            "ilvl": 35,
+            "n": "Bacalao Piedrescama",
+            "q": "common",
+            "req": 25,
+            "sub": "Comida y bebida",
+            "venta": [
+              "0",
+              "0",
+              "6"
+            ]
+          },
+          "quien": [
+            1,
+            3
+          ]
+        },
+        {
+          "id": 10245,
+          "n": "Filete de Agallarroja",
+          "q": "common",
+          "ico": "133892",
+          "reac": [
+            [
+              "Branquirrojo crudo",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Restaura 1338 p. de salud durante 30 s. Debes permanecer sentado mientras comes. Si pasas al menos 10 s comiendo, quedarás bien alimentado y recibirás 18 p. de habilidad en pesca durante 15 min. Además, la experiencia obtenida al mata"
+            ],
+            "id": 13930,
+            "ilvl": 45,
+            "n": "Filete de branquirrojo",
+            "q": "common",
+            "req": 35,
+            "sub": "Comida y bebida",
+            "venta": [
+              "0",
+              "0",
+              "5"
+            ]
+          },
+          "quien": []
+        },
+        {
+          "id": 54336,
+          "n": "Mero espinoso",
+          "q": "common",
+          "ico": "133908",
+          "reac": [
+            [
+              "Mero espinoso crudo",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Restaura 1338 p. de salud durante 30 s. Debes permanecer sentado mientras comes. Si pasas al menos 10 s comiendo, quedarás bien alimentado y recibirás 18 p. de habilidad en pesca durante 15 min. Además, la experiencia obtenida al mata"
+            ],
+            "id": 8957,
+            "ilvl": 55,
+            "n": "Mero espinoso",
+            "q": "common",
+            "req": 45,
+            "sub": "Comida y bebida",
+            "venta": [
+              "0",
+              "2",
+              "0"
+            ]
+          },
+          "quien": []
+        }
+      ]
+    },
+    {
+      "nombre": "Comida de poder de ataque",
+      "recetas": [
+        {
+          "id": 4353,
+          "n": "Pececito brillante",
+          "q": "common",
+          "ico": "133893",
+          "reac": [
+            [
+              "Pececito luminoso crudo",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Restaura 58 p. de salud durante 18 s. Debes permanecer sentado mientras comes. Si pasas al menos 10 s comiendo, quedarás bien alimentado y recibirás 2 p. de poder de ataque durante 15 min. Además, la experiencia obtenida al matar enem"
+            ],
+            "id": 6290,
+            "ilvl": 10,
+            "n": "Pececito luminoso",
+            "q": "common",
+            "req": 1,
+            "sub": "Comida y bebida",
+            "venta": [
+              "0",
+              "0",
+              "1"
+            ]
+          },
+          "quien": [
+            0,
+            1,
+            2,
+            3,
+            5,
+            6,
+            7,
+            9,
+            11,
+            12,
+            13,
+            14,
+            15,
+            18,
+            19,
+            21,
+            23,
+            25,
+            27
+          ]
+        },
+        {
+          "id": 4354,
+          "n": "Caballa de piel escurridiza",
+          "q": "common",
+          "ico": "133910",
+          "reac": [
+            [
+              "Caballa suave cruda",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Restaura 234 p. de salud durante 21 s. Debes permanecer sentado mientras comes. Si pasas al menos 10 s comiendo, quedarás bien alimentado y recibirás 6 p. de poder de ataque durante 15 min. Además, la experiencia obtenida al matar ene"
+            ],
+            "id": 787,
+            "ilvl": 10,
+            "n": "Caballa de piel escurridiza",
+            "q": "common",
+            "req": 1,
+            "sub": "Comida y bebida",
+            "venta": [
+              "0",
+              "0",
+              "1"
+            ]
+          },
+          "quien": [
+            0,
+            1,
+            3,
+            5,
+            6,
+            9,
+            10,
+            11,
+            12,
+            13,
+            21,
+            23,
+            26,
+            32,
+            34,
+            37
+          ]
+        },
+        {
+          "id": 4355,
+          "n": "Pargo de lodo boquilargo",
+          "q": "common",
+          "ico": "133918",
+          "reac": [
+            [
+              "Pargo de loco boquilargo crudo",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Restaura 530 p. de salud durante 24 s. Debes permanecer sentado mientras comes. Si pasas al menos 10 s comiendo, quedarás bien alimentado y recibirás 10 p. de poder de ataque durante 15 min. Además, la experiencia obtenida al matar en"
+            ],
+            "id": 4592,
+            "ilvl": 15,
+            "n": "Pargo de lodo boquilargo",
+            "q": "common",
+            "req": 5,
+            "sub": "Comida y bebida",
+            "venta": [
+              "0",
+              "0",
+              "1"
+            ]
+          },
+          "quien": [
+            0,
+            1,
+            6,
+            7,
+            9,
+            11,
+            12,
+            18,
+            19,
+            21
+          ]
+        },
+        {
+          "id": 10243,
+          "n": "Vigorpez brilloso cocinado",
+          "q": "common",
+          "ico": "134301",
+          "reac": [
+            [
+              "Vigorpez lustroso crudo",
+              1
+            ],
+            [
+              "Especias calmantes",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Restaura 1338 p. de salud durante 30 s. Debes permanecer sentado mientras comes. Si pasas al menos 10 s comiendo, quedarás bien alimentado y recibirás 30 p. de poder de ataque durante 15 min. Además, la experiencia obtenida al matar e"
+            ],
+            "id": 13927,
+            "ilvl": 45,
+            "n": "Vigorpez lustroso cocido",
+            "q": "common",
+            "req": 35,
+            "sub": "Comida y bebida",
+            "venta": [
+              "0",
+              "0",
+              "8"
+            ]
+          },
+          "quien": []
+        },
+        {
+          "id": 10249,
+          "n": "Salmón solescamas salvaje",
+          "q": "common",
+          "ico": "133905",
+          "reac": [
+            [
+              "Salmón escama de sol crudo",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Restaura 2065 p. de salud durante 30 s. Debes permanecer sentado mientras comes. Si pasas al menos 10 s comiendo, quedarás bien alimentado y recibirás 40 p. de poder de ataque durante 15 min. Además, la experiencia obtenida al matar e"
+            ],
+            "id": 13932,
+            "ilvl": 45,
+            "n": "Salmón escama de sol pochado",
+            "q": "common",
+            "req": 35,
+            "sub": "Comida y bebida",
+            "venta": [
+              "0",
+              "0",
+              "12"
+            ]
+          },
+          "quien": []
+        },
+        {
+          "id": 10251,
+          "n": "Filete de vigorpez",
+          "q": "common",
+          "ico": "134003",
+          "reac": [
+            [
+              "Vigorpez crudo grande",
+              1
+            ],
+            [
+              "Especias picantes",
+              1
+            ],
+            [
+              "Especias calmantes",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Restaura 2065 p. de salud durante 30 s. Debes permanecer sentado mientras comes. Si pasas al menos 10 s comiendo, quedarás bien alimentado y recibirás 40 p. de poder de ataque durante 15 min. Además, la experiencia obtenida al matar e"
+            ],
+            "id": 13934,
+            "ilvl": 55,
+            "n": "Filete de vigorpez",
+            "q": "common",
+            "req": 45,
+            "sub": "Comida y bebida",
+            "venta": [
+              "0",
+              "0",
+              "18"
+            ]
+          },
+          "quien": []
+        },
+        {
+          "id": 11873,
+          "n": "Trucha cabeza de mitril",
+          "q": "common",
+          "reac": [
+            [
+              "Trucha cabeza de mitril cruda",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Restaura 841 p. de salud durante 27 s. Debes permanecer sentado mientras comes. Si pasas al menos 10 s comiendo, quedarás bien alimentado y recibirás 20 p. de poder de ataque durante 15 min. Además, la experiencia obtenida al matar en"
+            ],
+            "id": 8364,
+            "ilvl": 35,
+            "n": "Trucha de cabeza de mitril",
+            "q": "common",
+            "req": 25,
+            "sub": "Comida y bebida",
+            "venta": [
+              "0",
+              "0",
+              "6"
+            ]
+          },
+          "quien": [
+            0,
+            1,
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Comida de daño con hechizos",
+      "recetas": [
+        {
+          "id": 4391,
+          "n": "Atún blanco arco iris",
+          "q": "common",
+          "ico": "133913",
+          "reac": [
+            [
+              "Atún blanco arco iris crudo",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Restaura 58 p. de salud durante 18 s. Debes permanecer sentado mientras comes. Si pasas al menos 10 s comiendo, quedarás bien alimentado y recibirás 1 p. de daño con hechizos durante 15 min. Además, la experiencia obtenida al matar en"
+            ],
+            "id": 5095,
+            "ilvl": 15,
+            "n": "Atún blanco arco iris",
+            "q": "common",
+            "req": 5,
+            "sub": "Comida y bebida",
+            "venta": [
+              "0",
+              "0",
+              "3"
+            ]
+          },
+          "quien": [
+            1,
+            5,
+            6,
+            7,
+            9,
+            10,
+            13,
+            14,
+            15,
+            17,
+            19,
+            21
+          ]
+        },
+        {
+          "id": 10244,
+          "n": "Serviola moteada",
+          "q": "common",
+          "ico": "133887",
+          "reac": [
+            [
+              "Serviola moteada cruda",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Restaura 1338 p. de salud durante 30 s. Debes permanecer sentado mientras comes. Si pasas al menos 10 s comiendo, quedarás bien alimentado y recibirás 22 p. de daño con hechizos durante 15 min. Además, la experiencia obtenida al matar"
+            ],
+            "id": 6887,
+            "ilvl": 45,
+            "n": "Serviola moteada",
+            "q": "common",
+            "req": 35,
+            "sub": "Comida y bebida",
+            "venta": [
+              "0",
+              "0",
+              "5"
+            ]
+          },
+          "quien": []
+        },
+        {
+          "id": 10248,
+          "n": "Sopa de pargo nocturno",
+          "q": "common",
+          "ico": "132804",
+          "reac": [
+            [
+              "Pargo nocturno crudo",
+              1
+            ],
+            [
+              "Agua de manantial refrescante",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Restaura 1338 p. de salud durante 30 s. Debes permanecer sentado mientras comes. Si pasas al menos 10 s comiendo, quedarás bien alimentado y recibirás 22 p. de daño con hechizos durante 15 min. Además, la experiencia obtenida al matar"
+            ],
+            "id": 13931,
+            "ilvl": 45,
+            "n": "Sopa de pargo nocturno",
+            "q": "common",
+            "req": 35,
+            "sub": "Comida y bebida",
+            "venta": [
+              "0",
+              "0",
+              "12"
+            ]
+          },
+          "quien": []
+        },
+        {
+          "id": 10250,
+          "n": "Estofado de langosta",
+          "q": "common",
+          "ico": "132804",
+          "reac": [
+            [
+              "Langosta pinza oscura",
+              1
+            ],
+            [
+              "Agua de manantial refrescante",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Restaura 2065 p. de salud durante 30 s. Debes permanecer sentado mientras comes. Si pasas al menos 10 s comiendo, quedarás bien alimentado y recibirás 28 p. de daño con hechizos durante 15 min. Además, la experiencia obtenida al matar"
+            ],
+            "id": 13933,
+            "ilvl": 55,
+            "n": "Estofado de langosta",
+            "q": "common",
+            "req": 45,
+            "sub": "Comida y bebida",
+            "venta": [
+              "0",
+              "0",
+              "14"
+            ]
+          },
+          "quien": []
+        },
+        {
+          "id": 10252,
+          "n": "Salmón al horno",
+          "q": "common",
+          "ico": "133906",
+          "reac": [
+            [
+              "Salmón escama blanca crudo",
+              1
+            ],
+            [
+              "Especias calmantes",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Restaura 2065 p. de salud durante 30 s. Debes permanecer sentado mientras comes. Si pasas al menos 10 s comiendo, quedarás bien alimentado y recibirás 28 p. de daño con hechizos durante 15 min. Además, la experiencia obtenida al matar"
+            ],
+            "id": 13935,
+            "ilvl": 55,
+            "n": "Salmón al horno",
+            "q": "common",
+            "req": 45,
+            "sub": "Comida y bebida",
+            "venta": [
+              "0",
+              "0",
+              "10"
+            ]
+          },
+          "quien": []
+        },
+        {
+          "id": 13344,
+          "n": "Sabiola ahumada",
+          "q": "common",
+          "ico": "133906",
+          "reac": [
+            [
+              "Sabiola cruda",
+              1
+            ],
+            [
+              "Especias suaves",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Restaura 234 p. de salud durante 21 s. Debes permanecer sentado mientras comes. Si pasas al menos 10 s comiendo, quedarás bien alimentado y recibirás 4 p. de daño con hechizos durante 15 min. Además, la experiencia obtenida al matar e"
+            ],
+            "id": 21072,
+            "ilvl": 20,
+            "n": "Sabiola ahumada",
+            "q": "common",
+            "req": 10,
+            "sub": "Comida y bebida",
+            "venta": [
+              "0",
+              "0",
+              "40"
+            ]
+          },
+          "quien": [
+            0,
+            1,
+            5,
+            6,
+            7,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            17,
+            20,
+            21
+          ]
+        },
+        {
+          "id": 13375,
+          "n": "Delicia de sabiola",
+          "q": "common",
+          "ico": "133907",
+          "reac": [
+            [
+              "Sabiola cruda superior",
+              1
+            ],
+            [
+              "Especias picantes",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Restaura 530 p. de salud durante 24 s. Debes permanecer sentado mientras comes. Si pasas al menos 10 s comiendo, quedarás bien alimentado y recibirás 7 p. de daño con hechizos durante 15 min. Además, la experiencia obtenida al matar e"
+            ],
+            "id": 21217,
+            "ilvl": 55,
+            "n": "Delicia de sabiolas",
+            "q": "common",
+            "req": 30,
+            "sub": "Comida y bebida",
+            "venta": [
+              "0",
+              "1",
+              "25"
+            ]
+          },
+          "quien": [
+            1,
+            3
+          ]
+        },
+        {
+          "id": 58468,
+          "n": "Estofado de marisco salobre",
+          "q": "common",
+          "ico": "461131",
+          "reac": [
+            [
+              "Ojo de múrloc",
+              2
+            ],
+            [
+              "Carne de cangrejo tierna",
+              1
+            ],
+            [
+              "Especias picantes",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Restaura 841 p. de salud durante 27 s. Debes permanecer sentado mientras comes. Si pasas al menos 10 s comiendo, quedarás bien alimentado y recibirás 14 p. de daño con hechizos durante 15 min. Además, la experiencia obtenida al matar "
+            ],
+            "id": 274971,
+            "ilvl": 35,
+            "n": "Estofado de marisco salobre",
+            "q": "common",
+            "req": 25,
+            "sub": "Comida y bebida",
+            "venta": [
+              "0",
+              "0",
+              "12"
+            ]
+          },
+          "quien": []
+        }
+      ]
+    },
+    {
+      "nombre": "Comida de destreza de combate",
+      "recetas": [
+        {
+          "id": 10246,
+          "n": "Calamar asado",
+          "q": "common",
+          "ico": "133899",
+          "reac": [
+            [
+              "Calamar de invierno crudo",
+              1
+            ],
+            [
+              "Especias calmantes",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Restaura 2065 p. de salud durante 30 s. Debes permanecer sentado mientras comes. Si pasas al menos 10 s comiendo, quedarás bien alimentado y recibirás un 1% de probabilidad de golpe crítico durante 15 min. Además, la experiencia obten"
+            ],
+            "id": 13928,
+            "ilvl": 45,
+            "n": "Calamar a la parrilla",
+            "q": "common",
+            "req": 35,
+            "sub": "Comida y bebida",
+            "venta": [
+              "0",
+              "0",
+              "8"
+            ]
+          },
+          "quien": []
+        },
+        {
+          "id": 10247,
+          "n": "Perca ahumada",
+          "q": "common",
+          "ico": "133889",
+          "reac": [
+            [
+              "Lubina cruda",
+              1
+            ],
+            [
+              "Especias picantes",
+              2
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Restaura 2065 p. de salud durante 30 s. Debes permanecer sentado mientras comes. Si pasas al menos 10 s comiendo, quedarás bien alimentado y recibirás un 1% de probabilidad de golpe crítico durante 15 min. Además, la experiencia obten"
+            ],
+            "id": 13929,
+            "ilvl": 45,
+            "n": "Lubina ahumada caliente",
+            "q": "common",
+            "req": 35,
+            "sub": "Comida y bebida",
+            "venta": [
+              "0",
+              "0",
+              "10"
+            ]
+          },
+          "quien": []
+        }
+      ]
+    },
+    {
+      "nombre": "Galletas del Festival de Invierno",
+      "recetas": [
+        {
+          "id": 11976,
+          "n": "Huevo cocido",
+          "q": "common",
+          "ico": "132791",
+          "reac": [
+            [
+              "Huevo pequeño",
+              1
+            ],
+            [
+              "Leche fría como el hielo",
+              1
+            ],
+            [
+              "Espíritus de vacaciones",
+              1
+            ],
+            [
+              "Especias de vacaciones",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Restaura 58 p. de salud durante 18 s. Debes permanecer sentado mientras comes. Si comes durante al menos 10 segundos, estarás bien alimentado y ganarás 2 p. de aguante y espíritu durante 15 min. Y es explosivo... (1 s de tiempo de reu"
+            ],
+            "id": 17198,
+            "ilvl": 10,
+            "n": "Ponche de huevo",
+            "q": "common",
+            "req": 1,
+            "sub": "Comida y bebida",
+            "venta": [
+              "0",
+              "0",
+              "9"
+            ]
+          },
+          "quien": []
+        },
+        {
+          "id": 11977,
+          "n": "Galleta de jengibre",
+          "q": "common",
+          "ico": "134018",
+          "reac": [
+            [
+              "Huevo pequeño",
+              1
+            ],
+            [
+              "Especias de vacaciones",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Restaura 58 p. de salud durante 18 s. Debes permanecer sentado mientras comes. Si comes durante al menos 10 segundos, estarás bien alimentado y ganarás 2 p. de aguante y espíritu durante 15 min. (1 s de tiempo de reutilización)."
+            ],
+            "id": 17197,
+            "ilvl": 10,
+            "n": "Galleta de jengibre",
+            "q": "common",
+            "req": 1,
+            "sub": "Comida y bebida",
+            "venta": [
+              "0",
+              "0",
+              "10"
+            ]
+          },
+          "quien": []
+        }
+      ]
+    },
+    {
+      "nombre": "TEMPORADA DEL DESCUBRIMIENTO",
+      "recetas": [
+        {
+          "id": 51732,
+          "n": "Sopa de Garranegra",
+          "q": "common",
+          "ico": "237331",
+          "reac": [
+            [
+              "Langosta pinza oscura",
+              1
+            ],
+            [
+              "Agua bendita de Stratholme potable",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Restaura 2065 p. de salud durante 30 s. Debes permanecer sentado mientras comes. Si comes durante 10 segundos, también aumentará 12 p. tu daño con hechizos durante 10 min. (1 s de tiempo de reutilización)."
+            ],
+            "id": 232436,
+            "ilvl": 55,
+            "n": "Sopa de Garranegra",
+            "q": "common",
+            "req": 45,
+            "sub": "Otros",
+            "venta": [
+              "0",
+              "1",
+              "0"
+            ]
+          },
+          "quien": []
+        },
+        {
+          "id": 51733,
+          "n": "Branquirrojo ahumado",
+          "q": "common",
+          "ico": "133965",
+          "reac": [
+            [
+              "Branquirrojo crudo",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Restaura 1338 p. de salud durante 30 s. Debes permanecer sentado mientras comes. Si comes durante 10 s también aumentarás la sanación realizada 22 p. durante 10 min. (1 s de tiempo de reutilización)."
+            ],
+            "id": 232438,
+            "ilvl": 45,
+            "n": "Branquirrojo ahumado",
+            "q": "common",
+            "req": 35,
+            "sub": "Otros",
+            "venta": [
+              "0",
+              "0",
+              "5"
+            ]
+          },
+          "quien": []
+        },
+        {
+          "id": 52010,
+          "n": "Filete de merodeador",
+          "q": "common",
+          "ico": "134040",
+          "reac": [
+            [
+              "Carne de tigre",
+              2
+            ],
+            [
+              "Sales sagradas",
+              1
+            ]
+          ],
+          "cant": 2.0,
+          "obj": {
+            "efectos": [
+              "Usar: Restaura 2451 p. de salud durante 30 s. Debes permanecer sentado mientras comes. Si pasas al menos 10 s comiendo, quedarás bien alimentado, y ganarás 25 p. de fuerza y 10 p. de aguante durante 15 min. (1 s de tiempo de reutilización)."
+            ],
+            "id": 238637,
+            "ilvl": 65,
+            "n": "Filete de merodeador",
+            "q": "common",
+            "req": 55,
+            "sub": "Otros",
+            "venta": [
+              "0",
+              "2",
+              "50"
+            ]
+          },
+          "quien": []
+        },
+        {
+          "id": 52011,
+          "n": "Filete de falda",
+          "q": "common",
+          "ico": "134044",
+          "reac": [
+            [
+              "Carne de lobo rojo",
+              2
+            ],
+            [
+              "Sales sagradas",
+              1
+            ]
+          ],
+          "cant": 2.0,
+          "obj": {
+            "efectos": [
+              "Usar: Restaura 2451 p. de salud durante 30 s. Debes permanecer sentado mientras comes. Si pasas al menos 10 s comiendo, quedarás bien alimentado, y ganarás 25 p. de agilidad y 10 p. de aguante durante 15 min. (1 s de tiempo de reutilización"
+            ],
+            "id": 238638,
+            "ilvl": 65,
+            "n": "Filete de falda",
+            "q": "common",
+            "req": 55,
+            "sub": "Comida y bebida",
+            "venta": [
+              "0",
+              "2",
+              "50"
+            ]
+          },
+          "quien": []
+        },
+        {
+          "id": 52012,
+          "n": "Tortilla del alba",
+          "q": "common",
+          "ico": "133991",
+          "reac": [
+            [
+              "Huevo gigante",
+              2
+            ],
+            [
+              "Sales sagradas",
+              1
+            ]
+          ],
+          "cant": 2.0,
+          "obj": {
+            "efectos": [
+              "Usar: Restaura 2451 p. de salud durante 30 s. Debes permanecer sentado mientras comes. Si pasas al menos 10 s comiendo, quedarás bien alimentado y ganarás 25 p. de daño con hechizos, 55 p. de poder de sanación y 10 p. de aguante durante 15 "
+            ],
+            "id": 238639,
+            "ilvl": 65,
+            "n": "Tortilla del alba",
+            "q": "common",
+            "req": 55,
+            "sub": "Otros",
+            "venta": [
+              "0",
+              "2",
+              "50"
+            ]
+          },
+          "quien": []
+        },
+        {
+          "id": 52014,
+          "n": "Festín de pez moteado",
+          "q": "uncommon",
+          "ico": "237331",
+          "reac": [
+            [
+              "Serviola moteada cruda",
+              12
+            ],
+            [
+              "Carne de raptor",
+              4
+            ],
+            [
+              "Bacalao Piedrescama crudo",
+              3
+            ],
+            [
+              "Especias exquisitas",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Sirve un delicioso festín para 40 jugadores que dura 3 min. Comida Restaura 2451 p. de salud durante 30 s. Debes permanecer sentado mientras comes. Si pasas al menos 10 s comiendo, quedarás bien alimentado y ganarás 20 p. de poder de "
+            ],
+            "id": 238641,
+            "ilvl": 65,
+            "n": "Festín de pez moteado",
+            "q": "uncommon",
+            "req": 55,
+            "sub": "Otros",
+            "venta": [
+              "0",
+              "2",
+              "50"
+            ]
+          },
+          "quien": []
+        },
+        {
+          "id": 52015,
+          "n": "Gran festín de langostas",
+          "q": "uncommon",
+          "ico": "134019",
+          "reac": [
+            [
+              "Langosta pinza oscura",
+              12
+            ],
+            [
+              "Carne de tortuga",
+              4
+            ],
+            [
+              "Ala de águila ratonera",
+              3
+            ],
+            [
+              "Especias exquisitas",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Sirve un delicioso festín para 40 jugadores que dura 3 min. Comida Restaura 2451 p. de salud durante 30 s. Debes permanecer sentado mientras comes. Si pasas al menos 10 s comiendo, quedarás bien alimentado y ganarás 20 p. de poder de "
+            ],
+            "id": 238642,
+            "ilvl": 65,
+            "n": "Gran festín de langostas",
+            "q": "uncommon",
+            "req": 55,
+            "sub": "Otros",
+            "venta": [
+              "0",
+              "2",
+              "50"
+            ]
+          },
+          "quien": []
+        }
+      ]
+    },
+    {
+      "nombre": "Acampada",
+      "recetas": [
+        {
+          "id": 52640,
+          "n": "Hoguera básica",
+          "q": "common",
+          "ico": "7808148",
+          "reac": [
+            [
+              "Madera simple",
+              1
+            ]
+          ],
+          "desc": "Fabrica una hoguera básica.",
+          "obj": {
+            "efectos": [
+              "Usar: Construye una hoguera básica que permite cocinar y colocar hasta 3 funciones de acampada adicionales. Los jugadores que estén sentados o fabricando en las cercanías durante 1 min obtendrán los beneficios de otras funciones de acampada"
+            ],
+            "id": 279981,
+            "ilvl": 4,
+            "n": "Equipo de hoguera básica",
+            "q": "common",
+            "sub": "Otros"
+          },
+          "quien": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42
+          ]
+        },
+        {
+          "id": 57021,
+          "n": "Festín de Cocinitas",
+          "q": "common",
+          "ico": "2066011",
+          "reac": [
+            [
+              "Carne misteriosa",
+              2
+            ],
+            [
+              "Carne de kodo pesada",
+              1
+            ],
+            [
+              "Especias calmantes",
+              1
+            ]
+          ],
+          "desc": "Fabrica el festín de Cocinitas.",
+          "obj": {
+            "efectos": [
+              "Usar: Coloca el festín de Cocinitas que aumenta el aguante. Requiere una lumbre cercana. Todas las características de acampada comparten el mismo tiempo de reutilización de 1 h. (1 h de tiempo de reutilización)."
+            ],
+            "id": 279957,
+            "ilvl": 28,
+            "n": "Festín de Cocinitas",
+            "q": "common",
+            "sub": "Otros"
+          },
+          "quien": []
+        },
+        {
+          "id": 57033,
+          "n": "Horno de hierro",
+          "q": "common",
+          "ico": "629055",
+          "reac": [
+            [
+              "Harina estándar",
+              10
+            ],
+            [
+              "Agua de manantial refrescante",
+              5
+            ],
+            [
+              "Especias calmantes",
+              4
+            ]
+          ],
+          "desc": "Fabrica un horno de hierro.",
+          "obj": {
+            "efectos": [
+              "Usar: Coloca un horno de hierro necesario para las recetas de cocina más avanzadas. Requiere una lumbre cercana. Todas las características de acampada comparten el mismo tiempo de reutilización de 1 h. (1 h de tiempo de reutilización)."
+            ],
+            "id": 279982,
+            "ilvl": 60,
+            "n": "Horno de hierro",
+            "q": "common",
+            "sub": "Otros"
+          },
+          "quien": []
+        },
+        {
+          "id": 57200,
+          "n": "Hoguera de oficial",
+          "q": "common",
+          "ico": "7808148",
+          "reac": [
+            [
+              "Madera de estrella",
+              1
+            ]
+          ],
+          "desc": "Fabrica una hoguera de oficial.",
+          "obj": {
+            "efectos": [
+              "Usar: Construye una hoguera de oficial que permite cocinar y colocar hasta 5 funciones de acampada adicionales. Los jugadores que estén sentados o fabricando cerca durante 1 min obtendrán los beneficios de otras funciones de acampada. (5 mi"
+            ],
+            "id": 279961,
+            "ilvl": 18,
+            "n": "Equipo de hoguera de oficial",
+            "q": "common",
+            "sub": "Otros"
+          },
+          "quien": []
+        },
+        {
+          "id": 58290,
+          "n": "Hoguera de experto",
+          "q": "common",
+          "ico": "7808148",
+          "reac": [
+            [
+              "Troncos gruesos",
+              1
+            ]
+          ],
+          "desc": "Fabrica una hoguera de experto.",
+          "obj": {
+            "efectos": [
+              "Usar: Construye una hoguera de experto que permite cocinar y colocar hasta 10 funciones de acampada adicionales. Los jugadores que estén sentados o fabricando en las cercanías durante 1 min obtendrán los beneficios de otras funciones de aca"
+            ],
+            "id": 279974,
+            "ilvl": 40,
+            "n": "Equipo de hoguera de experto",
+            "q": "common",
+            "sub": "Otros"
+          },
+          "quien": []
+        }
+      ]
+    },
+    {
+      "nombre": "Bebidas reconfortantes",
+      "recetas": [
+        {
+          "id": 54473,
+          "n": "Té de paz",
+          "q": "common",
+          "ico": "132802",
+          "reac": [
+            [
+              "Agua de manantial refrescante",
+              1
+            ],
+            [
+              "Flor de paz",
+              2
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Restaura 151 p. de maná durante 18 s. Debes permanecer sentado mientras bebes. Si pasas al menos 10 s comiendo, quedarás bien alimentado y recibirás 2 p. de poder de sanación durante 15 min. Además, la experiencia obtenida al matar en"
+            ],
+            "id": 249865,
+            "ilvl": 5,
+            "n": "Té de paz",
+            "q": "common",
+            "req": 1,
+            "sub": "Comida y bebida",
+            "venta": [
+              "0",
+              "0",
+              "1"
+            ]
+          },
+          "quien": [
+            7,
+            11,
+            19
+          ]
+        },
+        {
+          "id": 54474,
+          "n": "Té regio",
+          "q": "common",
+          "ico": "132802",
+          "reac": [
+            [
+              "Leche fría como el hielo",
+              1
+            ],
+            [
+              "Marregal",
+              2
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Restaura 437 p. de maná durante 21 s. Debes permanecer sentado mientras bebes. Si pasas al menos 10 s comiendo, quedarás bien alimentado y recibirás 7 p. de poder de sanación durante 15 min. Además, la experiencia obtenida al matar en"
+            ],
+            "id": 249866,
+            "ilvl": 15,
+            "n": "Té regio",
+            "q": "common",
+            "req": 5,
+            "sub": "Comida y bebida",
+            "venta": [
+              "0",
+              "0",
+              "1"
+            ]
+          },
+          "quien": []
+        },
+        {
+          "id": 54475,
+          "n": "Té de raíz",
+          "q": "common",
+          "ico": "132802",
+          "reac": [
+            [
+              "Zumo de melón",
+              1
+            ],
+            [
+              "Vidarraíz",
+              2
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Restaura 835 p. de maná durante 24 s. Debes permanecer sentado mientras bebes. Si pasas al menos 10 s comiendo, quedarás bien alimentado y recibirás 11 p. de poder de sanación durante 15 min. Además, la experiencia obtenida al matar e"
+            ],
+            "id": 249867,
+            "ilvl": 25,
+            "n": "Té de raíz",
+            "q": "common",
+            "req": 15,
+            "sub": "Comida y bebida",
+            "venta": [
+              "0",
+              "0",
+              "1"
+            ]
+          },
+          "quien": []
+        },
+        {
+          "id": 54476,
+          "n": "Té reconstituyente",
+          "q": "common",
+          "ico": "132802",
+          "reac": [
+            [
+              "Néctar dulce",
+              1
+            ],
+            [
+              "Pálida",
+              2
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Restaura 1344 p. de maná durante 27 s. Debes permanecer sentado mientras bebes. Si pasas al menos 10 s comiendo, quedarás bien alimentado y recibirás 22 p. de poder de sanación durante 15 min. Además, la experiencia obtenida al matar "
+            ],
+            "id": 249868,
+            "ilvl": 35,
+            "n": "Té reconstituyente",
+            "q": "common",
+            "req": 25,
+            "sub": "Comida y bebida",
+            "venta": [
+              "0",
+              "0",
+              "1"
+            ]
+          },
+          "quien": []
+        },
+        {
+          "id": 54477,
+          "n": "Té soleado",
+          "q": "common",
+          "ico": "132802",
+          "reac": [
+            [
+              "Zumo de baya lunar",
+              1
+            ],
+            [
+              "Solea",
+              2
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Restaura 1915 p. de maná durante 30 s. Debes permanecer sentado mientras bebes. Si pasas al menos 10 s comiendo, quedarás bien alimentado y recibirás 33 p. de poder de sanación durante 15 min. Además, la experiencia obtenida al matar "
+            ],
+            "id": 249869,
+            "ilvl": 45,
+            "n": "Té soleado",
+            "q": "common",
+            "req": 35,
+            "sub": "Comida y bebida",
+            "venta": [
+              "0",
+              "0",
+              "1"
+            ]
+          },
+          "quien": []
+        },
+        {
+          "id": 54478,
+          "n": "Té de salvia",
+          "q": "common",
+          "ico": "132802",
+          "reac": [
+            [
+              "Rocío de gloria matinal",
+              1
+            ],
+            [
+              "Salviargenta de montaña",
+              2
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Restaura 2821 p. de maná durante 30 s. Debes permanecer sentado mientras bebes. Si pasas al menos 10 s comiendo, quedarás bien alimentado y recibirás 44 p. de poder de sanación durante 15 min. Además, la experiencia obtenida al matar "
+            ],
+            "id": 249870,
+            "ilvl": 55,
+            "n": "Té de salvia",
+            "q": "common",
+            "req": 45,
+            "sub": "Comida y bebida",
+            "venta": [
+              "0",
+              "0",
+              "1"
+            ]
+          },
+          "quien": []
+        }
+      ]
+    },
+    {
+      "nombre": "Bebidas deliciosas",
+      "recetas": [
+        {
+          "id": 54479,
+          "n": "Batido venenoso",
+          "q": "common",
+          "ico": "132808",
+          "reac": [
+            [
+              "Agua de manantial refrescante",
+              1
+            ],
+            [
+              "Especias suaves",
+              1
+            ],
+            [
+              "Glándula de veneno pequeña",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Restaura 151 p. de maná durante 18 s. Debes permanecer sentado mientras bebes. Si pasas al menos 10 s comiendo, quedarás bien alimentado y recibirás 1 p. de espíritu durante 15 min. Además, la experiencia obtenida al matar enemigos au"
+            ],
+            "id": 249871,
+            "ilvl": 5,
+            "n": "Batido venenoso",
+            "q": "common",
+            "req": 1,
+            "sub": "Comida y bebida",
+            "venta": [
+              "0",
+              "0",
+              "1"
+            ]
+          },
+          "quien": []
+        },
+        {
+          "id": 54480,
+          "n": "Batido baboso",
+          "q": "common",
+          "ico": "4621577",
+          "reac": [
+            [
+              "Leche fría como el hielo",
+              1
+            ],
+            [
+              "Especias suaves",
+              2
+            ],
+            [
+              "Icor de araña",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Restaura 437 p. de maná durante 21 s. Debes permanecer sentado mientras bebes. Si pasas al menos 10 s comiendo, quedarás bien alimentado y recibirás 3 p. de espíritu durante 15 min. Además, la experiencia obtenida al matar enemigos au"
+            ],
+            "id": 249872,
+            "ilvl": 15,
+            "n": "Batido baboso",
+            "q": "common",
+            "req": 5,
+            "sub": "Comida y bebida",
+            "venta": [
+              "0",
+              "0",
+              "1"
+            ]
+          },
+          "quien": []
+        },
+        {
+          "id": 54481,
+          "n": "Mrrgltido",
+          "q": "common",
+          "ico": "4621583",
+          "reac": [
+            [
+              "Zumo de melón",
+              1
+            ],
+            [
+              "Especias picantes",
+              2
+            ],
+            [
+              "Aleta de múrloc",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Restaura 835 p. de maná durante 24 s. Debes permanecer sentado mientras bebes. Si pasas al menos 10 s comiendo, quedarás bien alimentado y recibirás 5 p. de espíritu durante 15 min. Además, la experiencia obtenida al matar enemigos au"
+            ],
+            "id": 249873,
+            "ilvl": 25,
+            "n": "Mrrgltido",
+            "q": "common",
+            "req": 15,
+            "sub": "Comida y bebida",
+            "venta": [
+              "0",
+              "0",
+              "1"
+            ]
+          },
+          "quien": []
+        },
+        {
+          "id": 54482,
+          "n": "Batido calcificado",
+          "q": "common",
+          "ico": "4621575",
+          "reac": [
+            [
+              "Néctar dulce",
+              1
+            ],
+            [
+              "Especias picantes",
+              3
+            ],
+            [
+              "Colmillo grande",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Restaura 1344 p. de maná durante 27 s. Debes permanecer sentado mientras bebes. Si pasas al menos 10 s comiendo, quedarás bien alimentado y recibirás 10 p. de espíritu durante 15 min. Además, la experiencia obtenida al matar enemigos "
+            ],
+            "id": 249874,
+            "ilvl": 35,
+            "n": "Batido calcificado",
+            "q": "common",
+            "req": 25,
+            "sub": "Comida y bebida",
+            "venta": [
+              "0",
+              "0",
+              "1"
+            ]
+          },
+          "quien": []
+        },
+        {
+          "id": 54483,
+          "n": "Batido picante",
+          "q": "common",
+          "ico": "4621586",
+          "reac": [
+            [
+              "Zumo de baya lunar",
+              1
+            ],
+            [
+              "Especias calmantes",
+              3
+            ],
+            [
+              "Glándula de llamas pequeña",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Restaura 1915 p. de maná durante 30 s. Debes permanecer sentado mientras bebes. Si pasas al menos 10 s comiendo, quedarás bien alimentado y recibirás 15 p. de espíritu durante 15 min. Además, la experiencia obtenida al matar enemigos "
+            ],
+            "id": 249875,
+            "ilvl": 45,
+            "n": "Batido picante",
+            "q": "common",
+            "req": 35,
+            "sub": "Comida y bebida",
+            "venta": [
+              "0",
+              "0",
+              "1"
+            ]
+          },
+          "quien": []
+        },
+        {
+          "id": 54484,
+          "n": "Batido perverso",
+          "q": "common",
+          "ico": "4621578",
+          "reac": [
+            [
+              "Rocío de gloria matinal",
+              1
+            ],
+            [
+              "Especias calmantes",
+              4
+            ],
+            [
+              "Garra maligna",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Restaura 2821 p. de maná durante 30 s. Debes permanecer sentado mientras bebes. Si pasas al menos 10 s comiendo, quedarás bien alimentado y recibirás 20 p. de espíritu durante 15 min. Además, la experiencia obtenida al matar enemigos "
+            ],
+            "id": 249876,
+            "ilvl": 55,
+            "n": "Batido perverso",
+            "q": "common",
+            "req": 45,
+            "sub": "Comida y bebida",
+            "venta": [
+              "0",
+              "0",
+              "1"
+            ]
+          },
+          "quien": []
+        }
+      ]
+    },
+    {
+      "nombre": "Comida de armadura",
+      "recetas": [
+        {
+          "id": 59518,
+          "n": "Pez coraza de placas",
+          "q": "common",
+          "ico": "133890",
+          "reac": [
+            [
+              "Pez coraza de placas crudo",
+              1
+            ],
+            [
+              "Especias calmantes",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Restaura 1338 p. de salud durante 30 s. Debes permanecer sentado mientras comes. Si pasas al menos 10 s comiendo, quedarás bien alimentado y recibirás 150 p. de armadura durante 15 min. Además, la experiencia obtenida al matar enemigo"
+            ],
+            "id": 286152,
+            "ilvl": 45,
+            "n": "Pez coraza de placas",
+            "q": "common",
+            "req": 35,
+            "sub": "Comida y bebida",
+            "venta": [
+              "0",
+              "0",
+              "8"
+            ]
+          },
+          "quien": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "nombre": "Herboristería",
+  "ico": "136246",
+  "total": 3,
+  "artesanos": [
+    {
+      "personaje": "Dio Hotmetal",
+      "clase": "hunter",
+      "raider": false,
+      "nivel": 190,
+      "max": 225,
+      "pct": 33
+    },
+    {
+      "personaje": "Sugar Papy",
+      "clase": "druid",
+      "raider": false,
+      "nivel": 181,
+      "max": 225,
+      "pct": 33
+    },
+    {
+      "personaje": "Viilar Terrisia",
+      "clase": "druid",
+      "raider": false,
+      "nivel": 148,
+      "max": 150,
+      "pct": 33
+    },
+    {
+      "personaje": "Fran Furion",
+      "clase": "druid",
+      "raider": true,
+      "nivel": 126,
+      "max": 225,
+      "pct": 33
+    },
+    {
+      "personaje": "Don Josechu",
+      "clase": "warlock",
+      "raider": false,
+      "nivel": 118,
+      "max": 150,
+      "pct": 33
+    },
+    {
+      "personaje": "Nelv Stardancer",
+      "clase": "druid",
+      "raider": false,
+      "nivel": 111,
+      "max": 150,
+      "pct": 33
+    },
+    {
+      "personaje": "Layrela Rondanit",
+      "clase": "druid",
+      "raider": true,
+      "nivel": 108,
+      "max": 150,
+      "pct": 33
+    },
+    {
+      "personaje": "Genethika Brisaveloz",
+      "clase": "hunter",
+      "raider": false,
+      "nivel": 96,
+      "max": 150,
+      "pct": 33
+    },
+    {
+      "personaje": "Takkaao Valengri",
+      "clase": "warlock",
+      "raider": false,
+      "nivel": 57,
+      "max": 75,
+      "pct": 33
+    },
+    {
+      "personaje": "Aynita Again",
+      "clase": "hunter",
+      "raider": false,
+      "nivel": 31,
+      "max": 75,
+      "pct": 33
+    },
+    {
+      "personaje": "Blind Minds",
+      "clase": "priest",
+      "raider": true,
+      "nivel": 14,
+      "max": 75,
+      "pct": 0
+    },
+    {
+      "personaje": "Fitipaldi Sendaumbria",
+      "clase": "rogue",
+      "raider": true,
+      "nivel": 11,
+      "max": 75,
+      "pct": 0
+    },
+    {
+      "personaje": "Black Phanter",
+      "clase": "druid",
+      "raider": false,
+      "nivel": 4,
+      "max": 75,
+      "pct": 0
+    }
+  ],
+  "categorias": [
+    {
+      "nombre": "Acampada",
+      "recetas": [
+        {
+          "id": 52642,
+          "n": "",
+          "q": "common",
+          "quien": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ]
+        },
+        {
+          "id": 57026,
+          "n": "",
+          "q": "common",
+          "quien": []
+        },
+        {
+          "id": 57038,
+          "n": "",
+          "q": "common",
+          "quien": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6937 @@
+{
+  "nombre": "Encantamiento",
+  "ico": "136244",
+  "total": 262,
+  "artesanos": [
+    {
+      "personaje": "Finn Felagund",
+      "clase": "priest",
+      "raider": false,
+      "nivel": 130,
+      "max": 150,
+      "pct": 11
+    },
+    {
+      "personaje": "Dum Bo",
+      "clase": "mage",
+      "raider": false,
+      "nivel": 125,
+      "max": 150,
+      "pct": 13
+    },
+    {
+      "personaje": "Nimassus Pater",
+      "clase": "priest",
+      "raider": true,
+      "nivel": 111,
+      "max": 150,
+      "pct": 8
+    },
+    {
+      "personaje": "Saint Peligroxa",
+      "clase": "priest",
+      "raider": false,
+      "nivel": 106,
+      "max": 150,
+      "pct": 5
+    },
+    {
+      "personaje": "Rhyomen Sukuna",
+      "clase": "warlock",
+      "raider": false,
+      "nivel": 17,
+      "max": 75,
+      "pct": 2
+    },
+    {
+      "personaje": "Vaporeta Pizpireta",
+      "clase": "mage",
+      "raider": true,
+      "nivel": 16,
+      "max": 75,
+      "pct": 2
+    },
+    {
+      "personaje": "Thundrik Volgrim",
+      "clase": "priest",
+      "raider": false,
+      "nivel": 11,
+      "max": 75,
+      "pct": 3
+    }
+  ],
+  "categorias": [
+    {
+      "nombre": "Encantamientos de brazales",
+      "recetas": [
+        {
+          "id": 4289,
+          "n": "Encantar brazales: aguante menor",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Mota de magia",
+              1
+            ]
+          ],
+          "desc": "Encanta de forma permanente unos brazales para que aumenten 2 p. el aguante del portador.",
+          "quien": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        },
+        {
+          "id": 4293,
+          "n": "Encantar brazal: desvío menor",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Esencia mágica inferior",
+              1
+            ]
+          ],
+          "desc": "Encanta los brazales permanentemente para que la habilidad en defensa del portador aumente 3 p.",
+          "quien": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        },
+        {
+          "id": 4301,
+          "n": "Encantar brazal: aguante menor",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Polvo extraño",
+              2
+            ]
+          ],
+          "desc": "Encanta de forma permanente unos brazales para que aumenten 3 p. el aguante del portador.",
+          "quien": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "id": 4360,
+          "n": "Encantar brazal: espíritu menor",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Esencia mágica inferior",
+              1
+            ]
+          ],
+          "desc": "Encanta de forma permanente unos brazales para que aumenten 3 p. el espíritu del portador.",
+          "quien": [
+            1
+          ]
+        },
+        {
+          "id": 4364,
+          "n": "Encantar brazal: agilidad menor",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Polvo extraño",
+              1
+            ],
+            [
+              "Esencia mágica inferior",
+              2
+            ]
+          ],
+          "desc": "Encanta de forma permanente unos brazales para que aumenten 3 p. la agilidad del portador.",
+          "quien": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "id": 4365,
+          "n": "Encantar brazal: fuerza menor",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Polvo extraño",
+              3
+            ]
+          ],
+          "desc": "Encanta de forma permanente unos brazales para que aumenten 3 p. la fuerza del portador.",
+          "quien": [
+            1
+          ]
+        },
+        {
+          "id": 4400,
+          "n": "Encantar brazal: espíritu inferior",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Esencia astral inferior",
+              1
+            ]
+          ],
+          "desc": "Encanta de forma permanente un brazal para que aumente 4 p. el espíritu del portador.",
+          "quien": [
+            1
+          ]
+        },
+        {
+          "id": 7425,
+          "n": "Encantar brazal: aguante inferior",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Polvo de alma",
+              1
+            ]
+          ],
+          "desc": "Encanta de forma permanente un brazal para que aumente 4 p. el aguante del portador.",
+          "quien": [
+            0
+          ]
+        },
+        {
+          "id": 7456,
+          "n": "Encantar brazal: fuerza inferior",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Polvo de alma",
+              1
+            ]
+          ],
+          "desc": "Encanta de forma permanente un brazal para que aumente 4 p. la fuerza del portador.",
+          "quien": []
+        },
+        {
+          "id": 7500,
+          "n": "Encantar brazal: intelecto inferior",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Esencia astral superior",
+              1
+            ]
+          ],
+          "desc": "Encanta de forma permanente un brazal para que aumente el intelecto del portador en 3 p.",
+          "quien": []
+        },
+        {
+          "id": 7507,
+          "n": "Encantar brazal: espíritu",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Esencia mística inferior",
+              1
+            ]
+          ],
+          "desc": "Encanta de forma permanente unos brazales para que proporcionen +5 p. de espíritu.",
+          "quien": []
+        },
+        {
+          "id": 7509,
+          "n": "Encantar brazal: desvío inferior",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Esencia mística inferior",
+              1
+            ],
+            [
+              "Polvo de alma",
+              1
+            ]
+          ],
+          "desc": "Encanta de forma permanente unos brazales para que proporcionen +5 p. de defensa.",
+          "quien": []
+        },
+        {
+          "id": 7510,
+          "n": "Encantar brazal: aguante",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Polvo de alma",
+              3
+            ]
+          ],
+          "desc": "Encanta de forma permanente unos brazales para que proporcionen +5 p. de aguante.",
+          "quien": []
+        },
+        {
+          "id": 7522,
+          "n": "Encantar brazal: fuerza",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Polvo de visión",
+              1
+            ]
+          ],
+          "desc": "Encanta de forma permanente unos brazales para que proporcionen +5 p. de fuerza.",
+          "quien": []
+        },
+        {
+          "id": 7661,
+          "n": "Encantar brazal: intelecto",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Esencia abisal inferior",
+              1
+            ]
+          ],
+          "desc": "Encanta de forma permanente unos brazales para que proporcionen +5 p. de intelecto.",
+          "quien": []
+        },
+        {
+          "id": 7664,
+          "n": "Encantar brazal: espíritu superior",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Esencia abisal inferior",
+              1
+            ],
+            [
+              "Polvo de visión",
+              1
+            ]
+          ],
+          "desc": "Encanta de forma permanente unos brazales para que proporcionen +7 p. de espíritu.",
+          "quien": []
+        },
+        {
+          "id": 7676,
+          "n": "Encantar brazal: desvío",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Esencia abisal inferior",
+              2
+            ],
+            [
+              "Polvo onírico",
+              1
+            ]
+          ],
+          "desc": "Encanta de forma permanente unos brazales para que proporcionen +7 p. de defensa.",
+          "quien": []
+        },
+        {
+          "id": 7680,
+          "n": "Encantar brazal: fuerza superior",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Polvo onírico",
+              1
+            ],
+            [
+              "Esencia abisal inferior",
+              2
+            ]
+          ],
+          "desc": "Encanta de forma permanente unos brazales para que proporcionen +7 p. de fuerza.",
+          "quien": []
+        },
+        {
+          "id": 7683,
+          "n": "Encantar brazal: aguante superior",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Polvo onírico",
+              3
+            ]
+          ],
+          "desc": "Encanta de forma permanente unos brazales para que proporcionen +7 p. de aguante.",
+          "quien": []
+        },
+        {
+          "id": 11373,
+          "n": "Encantar brazal: intelecto superior",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Esencia eterna inferior",
+              2
+            ]
+          ],
+          "desc": "Encanta de forma permanente unos brazales para que proporcionen +7 p. de intelecto.",
+          "quien": []
+        },
+        {
+          "id": 11377,
+          "n": "Encantar brazal: espíritu excelente",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Esencia eterna inferior",
+              2
+            ],
+            [
+              "Polvo onírico",
+              7
+            ]
+          ],
+          "desc": "Encanta de forma permanente unos brazales para que proporcionen +9 p. de espíritu.",
+          "quien": []
+        },
+        {
+          "id": 11388,
+          "n": "Encantar brazal: fuerza excelente",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Polvo de ilusión",
+              6
+            ],
+            [
+              "Esencia eterna superior",
+              6
+            ]
+          ],
+          "desc": "Encanta de forma permanente unos brazales para que proporcionen +9 p. de fuerza.",
+          "quien": []
+        },
+        {
+          "id": 11393,
+          "n": "Encantar brazal: aguante excelente",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Polvo de ilusión",
+              15
+            ]
+          ],
+          "desc": "Encanta de forma permanente unos brazales para que proporcionen +9 p. de aguante.",
+          "quien": []
+        },
+        {
+          "id": 12719,
+          "n": "Encantar brazal: regeneración de maná",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Polvo de ilusión",
+              16
+            ],
+            [
+              "Esencia eterna superior",
+              4
+            ],
+            [
+              "Esencia de agua",
+              2
+            ]
+          ],
+          "desc": "Encanta permanentemente unos brazales para que restauren 4 de maná cada 5 s.",
+          "quien": []
+        },
+        {
+          "id": 12720,
+          "n": "Encantar brazal: poder de curación",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Fragmento luminoso grande",
+              2
+            ],
+            [
+              "Polvo de ilusión",
+              20
+            ],
+            [
+              "Esencia eterna superior",
+              4
+            ],
+            [
+              "Esencia viva",
+              6
+            ]
+          ],
+          "desc": "Encanta de forma permanente unos brazales para aumentar hasta 24 p. los efectos de tus hechizos de sanación y hasta 8 p. los efectos de tus hechizos de daño.",
+          "quien": []
+        },
+        {
+          "id": 51807,
+          "n": "Encantar brazales: poder con hechizos superior",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Esencia eterna superior",
+              3
+            ],
+            [
+              "Polvo de ilusión",
+              9
+            ],
+            [
+              "Esencia de no-muerto",
+              12
+            ],
+            [
+              "Loto morado",
+              2
+            ]
+          ],
+          "cant": 16.0,
+          "desc": "Encanta de forma permanente unos brazales para añadirles 16 p. de poder con hechizos.",
+          "quien": []
+        },
+        {
+          "id": 54401,
+          "n": "Encantar brazal: intelecto menor",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Esencia mágica inferior",
+              1
+            ]
+          ],
+          "desc": "Encanta de forma permanente unos brazales para otorgar +3 p. de intelecto.",
+          "quien": []
+        },
+        {
+          "id": 54402,
+          "n": "Encantar brazal: poder de sanación menor",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Esencia mágica inferior",
+              2
+            ]
+          ],
+          "desc": "Encanta de forma permanente unos brazales para aumentar hasta 8 p. los hechizos de sanación y hasta 3 p. los hechizos de daño del portador.",
+          "quien": []
+        },
+        {
+          "id": 54414,
+          "n": "Encantar brazales: agilidad",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Polvo de visión",
+              1
+            ]
+          ],
+          "desc": "Encanta de forma permanente unos brazales para otorgar +5 p. de agilidad.",
+          "quien": []
+        },
+        {
+          "id": 54432,
+          "n": "Encantar brazales: agilidad superior",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Polvo onírico",
+              3
+            ],
+            [
+              "Esencia abisal inferior",
+              1
+            ]
+          ],
+          "desc": "Encanta de forma permanente unos brazales para que proporcionen +7 p. de agilidad.",
+          "quien": []
+        },
+        {
+          "id": 54440,
+          "n": "Encantar brazal: agilidad excelente",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Polvo de ilusión",
+              3
+            ],
+            [
+              "Esencia eterna superior",
+              3
+            ],
+            [
+              "Fragmento luminoso grande",
+              1
+            ]
+          ],
+          "desc": "Encanta de forma permanente unos brazales para que proporcionen +9 p. de agilidad.",
+          "quien": []
+        },
+        {
+          "id": 54448,
+          "n": "Encantar brazal: intelecto excelente",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Esencia eterna superior",
+              10
+            ]
+          ],
+          "desc": "Encanta de forma permanente unos brazales para que proporcionen +9 p. de intelecto.",
+          "quien": []
+        },
+        {
+          "id": 54449,
+          "n": "Encantar brazal: desvío excelente",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Fragmento luminoso grande",
+              3
+            ]
+          ],
+          "desc": "Encanta de forma permanente unos brazales para otorgar +9 p. a la habilidad en defensa.",
+          "quien": []
+        },
+        {
+          "id": 54450,
+          "n": "Encantar brazal: agilidad inferior",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Esencia mística inferior",
+              1
+            ]
+          ],
+          "desc": "Encanta de forma permanente un brazal para que aumente 4 p. la agilidad del portador.",
+          "quien": []
+        },
+        {
+          "id": 54451,
+          "n": "Encantar brazal: poder de sanación inferior",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Esencia mística inferior",
+              2
+            ]
+          ],
+          "desc": "Encanta de forma permanente unos brazales para aumentar hasta 16 p. la sanación y hasta 6 p. el daño.",
+          "quien": []
+        }
+      ]
+    },
+    {
+      "nombre": "Encantamientos de torso",
+      "recetas": [
+        {
+          "id": 4290,
+          "n": "Encantar torso: aguante menor",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Polvo extraño",
+              1
+            ]
+          ],
+          "cant": 2.0,
+          "desc": "Encanta de forma permanente una armadura de torso para que aumente 2 p. el aguante del portador.",
+          "quien": [
+            0,
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "id": 4292,
+          "n": "Encantar pechera: absorción menor",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Esencia mágica inferior",
+              1
+            ]
+          ],
+          "desc": "Encanta una armadura de torso para obtener un 2% de probabilidad de conseguir 10 p. de daño amortiguados por cada golpe. Solo puede suceder una vez cada 5 s.",
+          "quien": [
+            0,
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "id": 4297,
+          "n": "Encantar torso: intelecto menor",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Esencia mágica inferior",
+              1
+            ]
+          ],
+          "desc": "Encanta de forma permanente una armadura de torso para que aumente 2 p. el intelecto del portador.",
+          "quien": [
+            0,
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "id": 4352,
+          "n": "Encantar torso: aguante inferior",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Polvo extraño",
+              1
+            ],
+            [
+              "Esencia mágica inferior",
+              1
+            ]
+          ],
+          "desc": "Encanta de forma permanente una armadura de torso para que aumente 3 p. el aguante del portador.",
+          "quien": [
+            0,
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "id": 4363,
+          "n": "Encantar torso: intelecto inferior",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Esencia mágica inferior",
+              2
+            ]
+          ],
+          "desc": "Encanta de forma permanente una armadura de torso para que aumente 3 p. el intelecto del portador.",
+          "quien": []
+        },
+        {
+          "id": 4399,
+          "n": "Encantar torso: aguante",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Polvo extraño",
+              2
+            ],
+            [
+              "Esencia astral inferior",
+              1
+            ]
+          ],
+          "desc": "Encanta de forma permanente una armadura de torso para que aumente 4 p. el aguante del portador.",
+          "quien": [
+            0,
+            1
+          ]
+        },
+        {
+          "id": 7457,
+          "n": "Encantar pechera: absorción inferior",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Polvo extraño",
+              1
+            ],
+            [
+              "Esencia astral inferior",
+              1
+            ],
+            [
+              "Fragmento con luz trémula grande",
+              1
+            ]
+          ],
+          "desc": "Encanta una armadura de torso para obtener un 5% de probabilidad por golpe de conseguir 25 p. de daño amortiguados. Solo puede suceder una vez cada 5 s.",
+          "quien": []
+        },
+        {
+          "id": 7496,
+          "n": "Encantar torso: intelecto",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Esencia astral superior",
+              1
+            ]
+          ],
+          "desc": "Encanta de forma permanente una armadura de torso para que aumente 4 p. el intelecto del portador.",
+          "quien": []
+        },
+        {
+          "id": 7501,
+          "n": "Encantar pechera: estadísticas menores",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Esencia astral inferior",
+              1
+            ],
+            [
+              "Polvo de alma",
+              1
+            ],
+            [
+              "Fragmento con luz trémula grande",
+              1
+            ]
+          ],
+          "desc": "Encanta de forma permanente una pieza de armadura de torso para que proporcione +1 p. a todas las estadísticas.",
+          "quien": []
+        },
+        {
+          "id": 7506,
+          "n": "Encantar torso: aguante superior",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Polvo de alma",
+              2
+            ]
+          ],
+          "desc": "Encanta de forma permanente una armadura de torso para que proporcione +6 p. de aguante.",
+          "quien": []
+        },
+        {
+          "id": 7523,
+          "n": "Encantar torso: intelecto superior",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Esencia mística inferior",
+              1
+            ]
+          ],
+          "desc": "Encanta de forma permanente una armadura de torso para que proporcione +6 p. de intelecto.",
+          "quien": []
+        },
+        {
+          "id": 7532,
+          "n": "Encantar pechera: estadísticas inferiores",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Esencia mística superior",
+              1
+            ],
+            [
+              "Polvo de visión",
+              1
+            ],
+            [
+              "Fragmento resplandeciente grande",
+              1
+            ]
+          ],
+          "desc": "Encanta de forma permanente una coraza para que proporcione +2 de todas las estadísticas.",
+          "quien": []
+        },
+        {
+          "id": 7665,
+          "n": "Encantar torso: aguante excelente",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Polvo de visión",
+              3
+            ]
+          ],
+          "desc": "Encanta de forma permanente una armadura de torso para que proporcione +8 de aguante.",
+          "quien": []
+        },
+        {
+          "id": 7673,
+          "n": "Encantar torso: intelecto excelente",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Esencia abisal superior",
+              1
+            ]
+          ],
+          "desc": "Encanta de forma permanente una armadura de torso para que proporcione +8 p. de intelecto.",
+          "quien": []
+        },
+        {
+          "id": 7681,
+          "n": "Encantar pechera: estadísticas",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Fragmento radiante grande",
+              1
+            ],
+            [
+              "Polvo onírico",
+              1
+            ],
+            [
+              "Esencia abisal superior",
+              1
+            ]
+          ],
+          "desc": "Encanta de forma permanente una coraza para que proporcione +3 de todas las estadísticas.",
+          "quien": []
+        },
+        {
+          "id": 11380,
+          "n": "Encantar torso: aguante sublime",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Polvo de ilusión",
+              6
+            ],
+            [
+              "Fragmento luminoso pequeño",
+              1
+            ]
+          ],
+          "desc": "Encanta de forma permanente una armadura de torso para que proporcione +10 p. de aguante.",
+          "quien": []
+        },
+        {
+          "id": 11384,
+          "n": "Encantar torso: intelecto sublime",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Esencia eterna superior",
+              3
+            ],
+            [
+              "Fragmento luminoso pequeño",
+              1
+            ]
+          ],
+          "desc": "Encanta de forma permanente una armadura de torso para que proporcione +10 p. de intelecto.",
+          "quien": []
+        },
+        {
+          "id": 11395,
+          "n": "Encantar pechera: estadísticas superiores",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Fragmento luminoso grande",
+              4
+            ],
+            [
+              "Polvo de ilusión",
+              15
+            ],
+            [
+              "Esencia eterna superior",
+              10
+            ]
+          ],
+          "desc": "Encanta de forma permanente una coraza para que proporcione +4 de todas las estadísticas.",
+          "quien": []
+        },
+        {
+          "id": 54428,
+          "n": "Encantar torso: absorción",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Polvo onírico",
+              10
+            ],
+            [
+              "Esencia abisal superior",
+              4
+            ],
+            [
+              "Fragmento radiante grande",
+              2
+            ]
+          ],
+          "desc": "Encanta una armadura de torso para obtener un 25% de probabilidad por golpe de conseguir 50 p. de absorción de daño. Solo puede suceder una vez cada 5 s.",
+          "quien": []
+        }
+      ]
+    },
+    {
+      "nombre": "Varas encantadoras con runas",
+      "recetas": [
+        {
+          "id": 4291,
+          "n": "Vara de cobre rúnico",
+          "q": "common",
+          "ico": "135225",
+          "reac": [
+            [
+              "Vara de cobre",
+              1
+            ],
+            [
+              "Mota de magia",
+              1
+            ]
+          ],
+          "obj": {
+            "id": 6218,
+            "ilvl": 5,
+            "lig": "Se liga al recogerlo",
+            "n": "Vara de cobre con runas",
+            "q": "common",
+            "req": 1,
+            "sub": "Encantamiento",
+            "venta": [
+              "0",
+              "0",
+              "24"
+            ]
+          },
+          "quien": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        },
+        {
+          "id": 4370,
+          "n": "Vara rúnica plateada",
+          "q": "common",
+          "ico": "135138",
+          "reac": [
+            [
+              "Vara de plata",
+              1
+            ],
+            [
+              "Polvo extraño",
+              3
+            ],
+            [
+              "Esencia mágica inferior",
+              4
+            ],
+            [
+              "Gema de las Sombras",
+              1
+            ]
+          ],
+          "obj": {
+            "id": 6339,
+            "ilvl": 20,
+            "lig": "Se liga al recogerlo",
+            "n": "Vara de plata con runas",
+            "q": "common",
+            "req": 1,
+            "sub": "Encantamiento",
+            "venta": [
+              "0",
+              "0",
+              "24"
+            ]
+          },
+          "quien": [
+            0,
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "id": 7502,
+          "n": "Vara rúnica dorada",
+          "q": "common",
+          "ico": "135147",
+          "reac": [
+            [
+              "Vara de oro",
+              1
+            ],
+            [
+              "Perla iridiscente",
+              1
+            ],
+            [
+              "Esencia astral superior",
+              1
+            ],
+            [
+              "Polvo de alma",
+              1
+            ]
+          ],
+          "obj": {
+            "id": 11130,
+            "ilvl": 30,
+            "lig": "Se liga al recogerlo",
+            "n": "Vara de oro rúnica",
+            "q": "common",
+            "sub": "Encantamiento",
+            "venta": [
+              "0",
+              "5",
+              "0"
+            ]
+          },
+          "quien": []
+        },
+        {
+          "id": 7533,
+          "n": "Vara rúnica de veraplata",
+          "q": "common",
+          "ico": "135148",
+          "reac": [
+            [
+              "Vara de veraplata",
+              1
+            ],
+            [
+              "Perla negra",
+              1
+            ],
+            [
+              "Esencia mística superior",
+              1
+            ],
+            [
+              "Polvo de visión",
+              1
+            ]
+          ],
+          "obj": {
+            "id": 11145,
+            "ilvl": 40,
+            "lig": "Se liga al recogerlo",
+            "n": "Vara de veraplata con runas",
+            "q": "common",
+            "sub": "Encantamiento",
+            "venta": [
+              "0",
+              "12",
+              "50"
+            ]
+          },
+          "quien": []
+        },
+        {
+          "id": 11385,
+          "n": "Vara de arcanita rúnica",
+          "q": "common",
+          "ico": "135471",
+          "reac": [
+            [
+              "Vara de arcanita",
+              1
+            ],
+            [
+              "Perla de oro",
+              1
+            ],
+            [
+              "Polvo de ilusión",
+              10
+            ],
+            [
+              "Esencia eterna superior",
+              4
+            ],
+            [
+              "Fragmento luminoso pequeño",
+              4
+            ],
+            [
+              "Fragmento luminoso grande",
+              2
+            ]
+          ],
+          "obj": {
+            "id": 16207,
+            "ilvl": 58,
+            "lig": "Se liga al recogerlo",
+            "n": "Vara arcanita con runas",
+            "q": "common",
+            "sub": "Encantamiento",
+            "venta": [
+              "0",
+              "12",
+              "50"
+            ]
+          },
+          "quien": []
+        }
+      ]
+    },
+    {
+      "nombre": "Encantamientos de capa",
+      "recetas": [
+        {
+          "id": 4300,
+          "n": "Encantar capa: resistencia menor",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Polvo extraño",
+              1
+            ],
+            [
+              "Esencia mágica inferior",
+              1
+            ]
+          ],
+          "desc": "Encanta de forma permanente una capa para que aumente 2 p. la resistencia a todos los tipos de magia.",
+          "quien": [
+            0,
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "id": 4362,
+          "n": "Encantar capa: protección menor",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Polvo extraño",
+              2
+            ]
+          ],
+          "desc": "Encanta de forma permanente una capa para que aumente 10 p. la armadura.",
+          "quien": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "id": 4401,
+          "n": "Encantar capa: resistencia al Fuego inferior",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Aceite de fuego",
+              1
+            ],
+            [
+              "Esencia astral inferior",
+              1
+            ]
+          ],
+          "desc": "Encanta de forma permanente una capa para que aumente 10 p. la resistencia al Fuego.",
+          "quien": [
+            0,
+            1
+          ]
+        },
+        {
+          "id": 7376,
+          "n": "Encantar capa: agilidad menor",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Esencia astral inferior",
+              1
+            ]
+          ],
+          "desc": "Encanta de forma permanente una capa para que proporcione +3 p. de agilidad.",
+          "quien": [
+            1
+          ]
+        },
+        {
+          "id": 7377,
+          "n": "Encantar capa: protección inferior",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Polvo extraño",
+              3
+            ],
+            [
+              "Fragmento de luz trémula pequeño",
+              1
+            ]
+          ],
+          "desc": "Encanta de forma permanente una capa para que aumente 20 p. la armadura.",
+          "quien": [
+            0,
+            1
+          ]
+        },
+        {
+          "id": 7436,
+          "n": "Encantar capa: resistencia a las sombras inferior",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Esencia astral inferior",
+              1
+            ],
+            [
+              "Poción de protección de las Sombras",
+              1
+            ]
+          ],
+          "desc": "Encanta de forma permanente una capa para que aumente la resistencia a las Sombras en 10 p.",
+          "quien": []
+        },
+        {
+          "id": 7504,
+          "n": "Encantar capa: defensa",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Fragmento resplandeciente pequeño",
+              1
+            ],
+            [
+              "Polvo de alma",
+              1
+            ]
+          ],
+          "desc": "Permanently enchant a cloak to give 30 additional armor.",
+          "quien": []
+        },
+        {
+          "id": 7513,
+          "n": "Encantar capa: resistencia al Fuego",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Esencia mística inferior",
+              1
+            ],
+            [
+              "Elemental de Fuego",
+              1
+            ]
+          ],
+          "desc": "Encanta de forma permanente una capa para que proporcione 12 p. de resistencia al Fuego.",
+          "quien": []
+        },
+        {
+          "id": 7657,
+          "n": "Encantar capa: defensa superior",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Polvo de visión",
+              1
+            ]
+          ],
+          "desc": "Permanently enchant a cloak to give 60 additional armor.",
+          "quien": []
+        },
+        {
+          "id": 7658,
+          "n": "Encantar capa: resistencia",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Esencia abisal inferior",
+              1
+            ]
+          ],
+          "desc": "Encanta de forma permanente una capa para que proporcione 3 p. de resistencia a todo.",
+          "quien": []
+        },
+        {
+          "id": 7667,
+          "n": "Encantar capa: agilidad inferior",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Esencia abisal inferior",
+              1
+            ]
+          ],
+          "desc": "Encanta de forma permanente una capa para que proporcione 3 p. de agilidad.",
+          "quien": []
+        },
+        {
+          "id": 11375,
+          "n": "Encantar capa: resistencia superior",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Esencia eterna inferior",
+              1
+            ],
+            [
+              "Corazón de fuego",
+              1
+            ],
+            [
+              "Núcleo de tierra",
+              1
+            ],
+            [
+              "Globo de agua",
+              1
+            ],
+            [
+              "Aliento del Viento",
+              1
+            ],
+            [
+              "Icor de no-muerto",
+              1
+            ]
+          ],
+          "desc": "Encanta de forma permanente una capa para que proporcione 5 p. de resistencia a todo.",
+          "quien": []
+        },
+        {
+          "id": 11383,
+          "n": "Encantar capa: defensa excelente",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Polvo de ilusión",
+              8
+            ]
+          ],
+          "desc": "Permanently enchant a cloak to give 70 additional armor.",
+          "quien": []
+        },
+        {
+          "id": 13127,
+          "n": "Encantar capa: resistencia al Fuego superior",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Cristal Nexus",
+              3
+            ],
+            [
+              "Fragmento luminoso grande",
+              8
+            ],
+            [
+              "Esencia de Fuego",
+              4
+            ]
+          ],
+          "desc": "Encanta de forma permanente una capa para que proporcione 15 p. de resistencia al Fuego.",
+          "quien": []
+        },
+        {
+          "id": 13128,
+          "n": "Encantar capa: resistencia a la naturaleza superior",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Cristal Nexus",
+              2
+            ],
+            [
+              "Fragmento luminoso grande",
+              8
+            ],
+            [
+              "Esencia viva",
+              4
+            ]
+          ],
+          "desc": "Encanta de forma permanente una capa para que proporcione 15 p. de resistencia a la Naturaleza.",
+          "quien": []
+        },
+        {
+          "id": 13129,
+          "n": "Encantar capa: sigilo",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Cristal Nexus",
+              3
+            ],
+            [
+              "Fragmento luminoso grande",
+              8
+            ],
+            [
+              "Loto negro",
+              2
+            ]
+          ],
+          "desc": "Encanta permanentemente una capa para aumentar tu sigilo como si tuvieras un nivel más.",
+          "quien": []
+        },
+        {
+          "id": 13130,
+          "n": "Encantar capa: sutileza",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Cristal Nexus",
+              4
+            ],
+            [
+              "Fragmento luminoso grande",
+              6
+            ],
+            [
+              "Diamante negro",
+              2
+            ]
+          ],
+          "desc": "Encanta de forma permanente una capa para reducir la amenaza del portador en un 2%.",
+          "quien": []
+        },
+        {
+          "id": 13131,
+          "n": "Encantar capa: esquivar",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Cristal Nexus",
+              3
+            ],
+            [
+              "Fragmento luminoso grande",
+              8
+            ],
+            [
+              "Piedra guardián",
+              8
+            ]
+          ],
+          "desc": "Encanta de forma permanente una capa para que proporcione una probabilidad del 1% de esquivar.",
+          "quien": []
+        },
+        {
+          "id": 51809,
+          "n": "Encantar capa: agilidad",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Esencia eterna superior",
+              3
+            ],
+            [
+              "Polvo de ilusión",
+              9
+            ],
+            [
+              "Esencia de Fuego",
+              1
+            ]
+          ],
+          "cant": 5.0,
+          "desc": "Encanta de forma permanente una capa para añadir 5 p. de agilidad.",
+          "quien": []
+        }
+      ]
+    },
+    {
+      "nombre": "Encantamientos de arma",
+      "recetas": [
+        {
+          "id": 4366,
+          "n": "Encantar arma: bestiacida menor",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Polvo extraño",
+              2
+            ],
+            [
+              "Esencia mágica superior",
+              1
+            ]
+          ],
+          "desc": "Encanta de forma permanente un arma cuerpo a cuerpo para que cause 2 p. de daño a las bestias.",
+          "quien": [
+            1
+          ]
+        },
+        {
+          "id": 4367,
+          "n": "Encantar arma: golpear menor",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Polvo extraño",
+              1
+            ],
+            [
+              "Esencia mágica inferior",
+              1
+            ],
+            [
+              "Fragmento de luz trémula pequeño",
+              1
+            ]
+          ],
+          "desc": "Encanta de forma permanente un arma cuerpo a cuerpo para que cause 1 p. de daño extra.",
+          "quien": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "id": 7426,
+          "n": "Encantar arma: golpear inferior",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Polvo de alma",
+              1
+            ],
+            [
+              "Fragmento con luz trémula grande",
+              1
+            ]
+          ],
+          "desc": "Encanta de forma permanente un arma cuerpo a cuerpo para que cause 2 p. extra de daño.",
+          "quien": []
+        },
+        {
+          "id": 7511,
+          "n": "Encantar arma: bestiacida inferior",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Colmillo grande",
+              1
+            ],
+            [
+              "Fragmento resplandeciente pequeño",
+              1
+            ]
+          ],
+          "desc": "Encanta de forma permanente un arma cuerpo a cuerpo para que cause 6 p. extra de daño a las bestias.",
+          "quien": []
+        },
+        {
+          "id": 7512,
+          "n": "Encantar arma: mataelementales inferior",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Elemental de tierra",
+              1
+            ],
+            [
+              "Fragmento resplandeciente pequeño",
+              1
+            ]
+          ],
+          "desc": "Encanta de forma permanente un arma cuerpo a cuerpo para que cause 6 p. extra de daño contra los elementales.",
+          "quien": []
+        },
+        {
+          "id": 7529,
+          "n": "Encantar arma: golpear",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Esencia mística superior",
+              1
+            ],
+            [
+              "Fragmento resplandeciente grande",
+              1
+            ]
+          ],
+          "desc": "Encanta de forma permanente un arma cuerpo a cuerpo para que cause 3 p. extra de daño.",
+          "quien": []
+        },
+        {
+          "id": 7670,
+          "n": "Encantar arma: arma abrasadora",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Fragmento radiante pequeño",
+              2
+            ],
+            [
+              "Esencia de Fuego",
+              1
+            ]
+          ],
+          "desc": "Encanta de forma permanente un arma cuerpo a cuerpo para que cause a menudo 40 p. de daño de Fuego extra.",
+          "quien": []
+        },
+        {
+          "id": 7672,
+          "n": "Encantar arma: matanza de demonios",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Fragmento radiante pequeño",
+              1
+            ],
+            [
+              "Polvo onírico",
+              1
+            ],
+            [
+              "Poción de matanza de demonios",
+              1
+            ]
+          ],
+          "desc": "Encanta de forma permanente un arma cuerpo a cuerpo para ofrecer la probabilidad de aturdir y causar un gran daño a los demonios.",
+          "quien": []
+        },
+        {
+          "id": 7682,
+          "n": "Encantar arma: golpear superior",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Fragmento radiante grande",
+              1
+            ],
+            [
+              "Esencia abisal superior",
+              1
+            ]
+          ],
+          "desc": "Encanta de forma permanente un arma cuerpo a cuerpo para que cause 4 p. extra de daño.",
+          "quien": []
+        },
+        {
+          "id": 11382,
+          "n": "Encantar arma: escalofrío gélido",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Fragmento luminoso pequeño",
+              4
+            ],
+            [
+              "Esencia de agua",
+              1
+            ],
+            [
+              "Esencia de aire",
+              1
+            ],
+            [
+              "Setelo",
+              1
+            ]
+          ],
+          "desc": "Encanta de forma permanente un arma cuerpo a cuerpo para que cause a menudo Escalofrío al objetivo reduciendo su velocidad de movimiento y ataque.",
+          "quien": []
+        },
+        {
+          "id": 11390,
+          "n": "Encantar arma: arma profana",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Fragmento luminoso grande",
+              4
+            ],
+            [
+              "Esencia de no-muerto",
+              4
+            ]
+          ],
+          "desc": "Encanta de forma permanente un arma cuerpo a cuerpo para que inflija a menudo una maldición al objetivo reduciendo su daño cuerpo a cuerpo.",
+          "quien": []
+        },
+        {
+          "id": 11392,
+          "n": "Encantar arma: golpear excelente",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Fragmento luminoso grande",
+              2
+            ],
+            [
+              "Esencia eterna superior",
+              10
+            ]
+          ],
+          "desc": "Encanta de forma permanente un arma cuerpo a cuerpo para que cause 5 p. extra de daño.",
+          "quien": []
+        },
+        {
+          "id": 11394,
+          "n": "Encantar arma: cruzado",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Fragmento luminoso grande",
+              4
+            ],
+            [
+              "Orbe de rectitud",
+              2
+            ]
+          ],
+          "desc": "Encanta de forma permanente un arma cuerpo a cuerpo para que, cuando se ataque cuerpo a cuerpo, cure a menudo 75 a 125 p. y aumente la fuerza en 100 p. durante 15 s.",
+          "quien": []
+        },
+        {
+          "id": 11396,
+          "n": "Encantar arma: robo de vida",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Fragmento luminoso grande",
+              6
+            ],
+            [
+              "Esencia de no-muerto",
+              6
+            ],
+            [
+              "Esencia viva",
+              6
+            ]
+          ],
+          "desc": "Encanta de forma permanente un arma cuerpo a cuerpo para que robe a menudo vida del enemigo y la traspase al portador.",
+          "quien": []
+        },
+        {
+          "id": 12138,
+          "n": "Encantar arma: poderío del invierno",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Esencia mística superior",
+              1
+            ],
+            [
+              "Polvo de visión",
+              1
+            ],
+            [
+              "Fragmento resplandeciente grande",
+              1
+            ],
+            [
+              "Invernalia",
+              1
+            ]
+          ],
+          "desc": "Encanta de forma permanente un arma para que inflija hasta 15 p. extra de daño de Escarcha cuando se lancen hechizos de Escarcha.",
+          "quien": []
+        },
+        {
+          "id": 12300,
+          "n": "Encantar arma: poder con hechizos",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Fragmento luminoso grande",
+              4
+            ],
+            [
+              "Esencia eterna superior",
+              12
+            ],
+            [
+              "Esencia de Fuego",
+              4
+            ],
+            [
+              "Esencia de agua",
+              4
+            ],
+            [
+              "Esencia de aire",
+              4
+            ],
+            [
+              "Perla de oro",
+              2
+            ]
+          ],
+          "desc": "Encanta de forma permanente un arma cuerpo a cuerpo para añadir 30 p. de daño a los hechizos.",
+          "quien": []
+        },
+        {
+          "id": 12301,
+          "n": "Encantar arma: poder de sanación",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Fragmento luminoso grande",
+              4
+            ],
+            [
+              "Esencia eterna superior",
+              8
+            ],
+            [
+              "Esencia viva",
+              6
+            ],
+            [
+              "Esencia de agua",
+              6
+            ],
+            [
+              "Orbe de rectitud",
+              1
+            ]
+          ],
+          "desc": "Encanta de forma permanente un arma de combate cuerpo a cuerpo para añadir 55 p. de sanación a los hechizos de sanación y hasta 19 p. de daño a los hechizos de daño.",
+          "quien": []
+        },
+        {
+          "id": 12717,
+          "n": "Encantar arma: fuerza",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Fragmento luminoso grande",
+              6
+            ],
+            [
+              "Esencia eterna superior",
+              6
+            ],
+            [
+              "Polvo de ilusión",
+              4
+            ],
+            [
+              "Esencia de tierra",
+              2
+            ]
+          ],
+          "desc": "Encanta de forma permanente un arma cuerpo a cuerpo para que proporcione +15 p. de fuerza.",
+          "quien": []
+        },
+        {
+          "id": 12718,
+          "n": "Encantar arma: agilidad",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Fragmento luminoso grande",
+              6
+            ],
+            [
+              "Esencia eterna superior",
+              6
+            ],
+            [
+              "Polvo de ilusión",
+              4
+            ],
+            [
+              "Esencia de aire",
+              2
+            ]
+          ],
+          "desc": "Encanta de forma permanente un arma cuerpo a cuerpo para que proporcione +15 p. de agilidad.",
+          "quien": []
+        },
+        {
+          "id": 12721,
+          "n": "Encantar arma: espíritu poderoso",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Fragmento luminoso grande",
+              10
+            ],
+            [
+              "Esencia eterna superior",
+              8
+            ],
+            [
+              "Polvo de ilusión",
+              15
+            ]
+          ],
+          "desc": "Encanta de forma permanente un arma de combate cuerpo a cuerpo para que proporcione +22 p. de espíritu.",
+          "quien": []
+        },
+        {
+          "id": 12722,
+          "n": "Encantar arma: intelecto poderoso",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Fragmento luminoso grande",
+              15
+            ],
+            [
+              "Esencia eterna superior",
+              12
+            ],
+            [
+              "Polvo de ilusión",
+              20
+            ]
+          ],
+          "desc": "Encanta de forma permanente un arma cuerpo a cuerpo para que proporcione +22 p. de intelecto.",
+          "quien": []
+        },
+        {
+          "id": 54406,
+          "n": "Encantar arma: perspicacia",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Polvo extraño",
+              10
+            ],
+            [
+              "Fragmento con luz trémula grande",
+              4
+            ],
+            [
+              "Esencia astral superior",
+              4
+            ],
+            [
+              "Pirita",
+              4
+            ],
+            [
+              "Liquen con volantes",
+              4
+            ]
+          ],
+          "desc": "Encanta de forma permanente un arma cuerpo a cuerpo para que otorgue Perspicacia al lanzar un hechizo, que aumenta el espíritu un 100% durante 10 s.",
+          "quien": []
+        },
+        {
+          "id": 54407,
+          "n": "Encantar arma: recuperación",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Polvo de alma",
+              6
+            ],
+            [
+              "Fragmento con luz trémula grande",
+              4
+            ],
+            [
+              "Esencia astral superior",
+              6
+            ],
+            [
+              "Pirita",
+              4
+            ],
+            [
+              "Mineral de plata",
+              4
+            ]
+          ],
+          "cant": 10.0,
+          "desc": "Encanta de forma permanente un arma cuerpo a cuerpo para que active una recuperación cuando esquiven o paren tus ataques, lo que te sanará un 5% de tu salud máxima. No puede ocurrir más de una vez cada 10 s.",
+          "quien": []
+        },
+        {
+          "id": 54408,
+          "n": "Encantar arma: revelación",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Polvo de alma",
+              8
+            ],
+            [
+              "Fragmento con luz trémula grande",
+              6
+            ],
+            [
+              "Esencia astral superior",
+              2
+            ],
+            [
+              "Tinte cerúleo",
+              4
+            ],
+            [
+              "Ácido sulfúrico",
+              4
+            ]
+          ],
+          "cant": 10.0,
+          "desc": "Encanta de forma permanente un arma cuerpo a cuerpo para que, a veces, pueda activar Revelación cuando uno de tus hechizos no periódicos no aseste un golpe crítico. Revelación otorgará un 100% más de probabilidad de golpe crítico al siguien",
+          "quien": []
+        }
+      ]
+    },
+    {
+      "nombre": "Encantamientos de arma de dos manos",
+      "recetas": [
+        {
+          "id": 4368,
+          "n": "Encantar arma 2M: impacto menor",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Polvo extraño",
+              1
+            ],
+            [
+              "Fragmento de luz trémula pequeño",
+              1
+            ]
+          ],
+          "desc": "Encanta de forma permanente un arma cuerpo a cuerpo de dos manos para que cause 4 p. extra de daño.",
+          "quien": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "id": 4369,
+          "n": "Encantar arma 2M: intelecto inferior",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Esencia mágica inferior",
+              4
+            ]
+          ],
+          "desc": "Encanta de forma permanente un arma cuerpo a cuerpo de dos manos para añadir 5 p. de intelecto.",
+          "quien": [
+            1
+          ]
+        },
+        {
+          "id": 7357,
+          "n": "Encantar arma 2M: espíritu inferior",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Esencia astral inferior",
+              1
+            ],
+            [
+              "Polvo extraño",
+              3
+            ]
+          ],
+          "desc": "Encanta de forma permanente un arma cuerpo a cuerpo de dos manos para añadir 5 p. de espíritu.",
+          "quien": [
+            1,
+            2
+          ]
+        },
+        {
+          "id": 7437,
+          "n": "Encantar arma 2M: impacto inferior",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Polvo de alma",
+              1
+            ],
+            [
+              "Fragmento con luz trémula grande",
+              1
+            ]
+          ],
+          "desc": "Encanta de forma permanente un arma cuerpo a cuerpo de dos manos para que cause 5 p. extra de daño.",
+          "quien": []
+        },
+        {
+          "id": 7530,
+          "n": "Encantar arma 2M: impacto",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Polvo de visión",
+              2
+            ],
+            [
+              "Fragmento resplandeciente grande",
+              1
+            ]
+          ],
+          "desc": "Encanta de forma permanente un arma cuerpo a cuerpo de dos manos para que inflija 6 p. extra de daño.",
+          "quien": []
+        },
+        {
+          "id": 7679,
+          "n": "Encantar arma 2M: impacto superior",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Fragmento radiante grande",
+              1
+            ],
+            [
+              "Polvo onírico",
+              1
+            ]
+          ],
+          "desc": "Encanta de forma permanente un arma cuerpo a cuerpo de dos manos para que cause +7 p. de daño.",
+          "quien": []
+        },
+        {
+          "id": 11389,
+          "n": "Encantar arma 2M: impacto excelente",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Fragmento luminoso grande",
+              4
+            ],
+            [
+              "Polvo de ilusión",
+              10
+            ]
+          ],
+          "desc": "Encanta de forma permanente un arma cuerpo a cuerpo de dos manos para que cause +9 p. de daño.",
+          "quien": []
+        },
+        {
+          "id": 11391,
+          "n": "Encantar arma 2M: intelecto sublime",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Esencia eterna superior",
+              12
+            ],
+            [
+              "Fragmento luminoso grande",
+              2
+            ]
+          ],
+          "desc": "Encanta de forma permanente un arma cuerpo a cuerpo de dos manos para añadir 9 p. de intelecto.",
+          "quien": []
+        },
+        {
+          "id": 11397,
+          "n": "Encantar arma 2M: espíritu sublime",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Esencia eterna superior",
+              12
+            ],
+            [
+              "Fragmento luminoso grande",
+              2
+            ]
+          ],
+          "desc": "Encanta de forma permanente un arma cuerpo a cuerpo de dos manos para añadir 9 p. de espíritu.",
+          "quien": []
+        },
+        {
+          "id": 13845,
+          "n": "Encantar arma 2M: agilidad",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Fragmento luminoso grande",
+              10
+            ],
+            [
+              "Esencia eterna superior",
+              6
+            ],
+            [
+              "Polvo de ilusión",
+              14
+            ],
+            [
+              "Esencia de aire",
+              4
+            ]
+          ],
+          "desc": "Encanta de forma permanente un arma cuerpo a cuerpo de dos manos para que proporcione +25 p. de agilidad.",
+          "quien": []
+        },
+        {
+          "id": 51804,
+          "n": "Encantar arma 2M: explosión de hechizos",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Cristal Nexus",
+              3
+            ],
+            [
+              "Polvo de ilusión",
+              24
+            ],
+            [
+              "Sangre de héroes",
+              1
+            ],
+            [
+              "Loto morado",
+              6
+            ]
+          ],
+          "cant": 65.0,
+          "desc": "Encanta de forma permanente un arma de 2 manos para añadir 65 p. de poder con hechizos.",
+          "quien": []
+        },
+        {
+          "id": 54429,
+          "n": "",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Polvo de visión",
+              2
+            ],
+            [
+              "Fragmento resplandeciente grande",
+              1
+            ],
+            [
+              "Esencia abisal inferior",
+              1
+            ]
+          ],
+          "desc": "Encanta de forma permanente un arma cuerpo a cuerpo de dos manos para otorgar +15 p. de agilidad.",
+          "quien": []
+        },
+        {
+          "id": 54431,
+          "n": "",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Polvo de visión",
+              1
+            ],
+            [
+              "Fragmento resplandeciente grande",
+              1
+            ],
+            [
+              "Esencia abisal inferior",
+              2
+            ]
+          ],
+          "desc": "Encanta de forma permanente un arma cuerpo a cuerpo de dos manos para otorgar +15 p. de fuerza.",
+          "quien": []
+        },
+        {
+          "id": 54441,
+          "n": "",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Cristal vil",
+              4
+            ],
+            [
+              "Esencia eterna superior",
+              6
+            ],
+            [
+              "Esencia de tierra",
+              4
+            ],
+            [
+              "Esencia de no-muerto",
+              4
+            ],
+            [
+              "Cristal Nexus",
+              4
+            ],
+            [
+              "Torbernita",
+              2
+            ]
+          ],
+          "desc": "Encanta de forma permanente un arma de combate cuerpo a cuerpo de dos manos para aumentar hasta 55 p. el daño y la sanación.",
+          "quien": []
+        },
+        {
+          "id": 54442,
+          "n": "",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Cristal vil",
+              4
+            ],
+            [
+              "Esencia eterna superior",
+              6
+            ],
+            [
+              "Barra de azerothium",
+              4
+            ],
+            [
+              "Estranguladora",
+              4
+            ],
+            [
+              "Cristal Nexus",
+              4
+            ],
+            [
+              "Torbernita",
+              4
+            ]
+          ],
+          "desc": "Encanta de forma permanente un arma de combate cuerpo a cuerpo de dos manos para aumentar hasta 100 p. la sanación y hasta 34 p. el daño.",
+          "quien": []
+        },
+        {
+          "id": 59138,
+          "n": "",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Fragmento luminoso grande",
+              8
+            ],
+            [
+              "Esencia eterna superior",
+              10
+            ],
+            [
+              "Polvo de ilusión",
+              8
+            ],
+            [
+              "Cristal Arcano",
+              4
+            ]
+          ],
+          "desc": "Encanta de forma permanente un arma cuerpo a cuerpo de dos manos para otorgar +25 p. de fuerza.",
+          "quien": []
+        }
+      ]
+    },
+    {
+      "nombre": "Encantamientos de botas",
+      "recetas": [
+        {
+          "id": 4402,
+          "n": "Encantar botas: aguante menor",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Polvo extraño",
+              4
+            ]
+          ],
+          "desc": "Encanta de forma permanente un par de botas para que aumenten 3 p. el aguante del portador.",
+          "quien": [
+            0,
+            1
+          ]
+        },
+        {
+          "id": 4404,
+          "n": "Encantar botas: agilidad menor",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Polvo extraño",
+              3
+            ],
+            [
+              "Esencia astral inferior",
+              1
+            ]
+          ],
+          "desc": "Encanta de forma permanente un par de botas para que aumenten 3 p. la agilidad del portador.",
+          "quien": []
+        },
+        {
+          "id": 7505,
+          "n": "Encantar botas: agilidad inferior",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Polvo de alma",
+              1
+            ]
+          ],
+          "desc": "Encanta de forma permanente unas botas para que proporcionen +4 p. de agilidad.",
+          "quien": []
+        },
+        {
+          "id": 7508,
+          "n": "Encantar botas: aguante inferior",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Polvo de alma",
+              2
+            ]
+          ],
+          "desc": "Encanta de forma permanente unas botas para que proporcionen +4 p. de aguante.",
+          "quien": []
+        },
+        {
+          "id": 7524,
+          "n": "Encantar botas: espíritu inferior",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Esencia mística inferior",
+              2
+            ]
+          ],
+          "desc": "Encanta de forma permanente unas botas para que proporcionen +4 p. de espíritu.",
+          "quien": []
+        },
+        {
+          "id": 7662,
+          "n": "Encantar botas: aguante",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Polvo de visión",
+              2
+            ]
+          ],
+          "desc": "Encanta de forma permanente unas botas para que proporcionen +5 p. de aguante.",
+          "quien": []
+        },
+        {
+          "id": 7669,
+          "n": "Encantar botas: velocidad menor",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Fragmento radiante pequeño",
+              1
+            ],
+            [
+              "Aguamarina",
+              1
+            ],
+            [
+              "Esencia abisal inferior",
+              1
+            ]
+          ],
+          "desc": "Encanta de forma permanente unas botas para aumentar un 4% la velocidad de movimiento.",
+          "quien": []
+        },
+        {
+          "id": 7678,
+          "n": "Encantar botas: agilidad",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Esencia abisal superior",
+              1
+            ]
+          ],
+          "desc": "Encanta de forma permanente unas botas para que proporcionen +5 p. de agilidad.",
+          "quien": []
+        },
+        {
+          "id": 11374,
+          "n": "Encantar botas: aguante superior",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Polvo onírico",
+              6
+            ]
+          ],
+          "desc": "Encanta de forma permanente unas botas para que proporcionen +7 p. de aguante.",
+          "quien": []
+        },
+        {
+          "id": 11379,
+          "n": "Encantar botas: espíritu",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Esencia eterna superior",
+              2
+            ],
+            [
+              "Esencia eterna inferior",
+              1
+            ]
+          ],
+          "desc": "Encanta de forma permanente unas botas para que proporcionen +5 p. de espíritu.",
+          "quien": []
+        },
+        {
+          "id": 11387,
+          "n": "Encantar botas: agilidad superior",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Esencia eterna superior",
+              8
+            ]
+          ],
+          "desc": "Encanta de forma permanente unas botas para que proporcionen +7 p. de agilidad.",
+          "quien": []
+        },
+        {
+          "id": 59890,
+          "n": "Encantar botas: velocidad",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Fragmento radiante grande",
+              2
+            ],
+            [
+              "Polvo onírico",
+              8
+            ],
+            [
+              "Esencia abisal superior",
+              2
+            ],
+            [
+              "Zafiro azul",
+              1
+            ]
+          ],
+          "desc": "Encanta de forma permanente unas botas para aumentar un 8% la velocidad de movimiento.",
+          "quien": []
+        }
+      ]
+    },
+    {
+      "nombre": "Encantamientos de escudo",
+      "recetas": [
+        {
+          "id": 7356,
+          "n": "Encantar escudo: aguante menor",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Esencia astral inferior",
+              1
+            ],
+            [
+              "Polvo extraño",
+              1
+            ]
+          ],
+          "desc": "Encanta de forma permanente un escudo para que aumente 3 p. el aguante del portador.",
+          "quien": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "id": 7416,
+          "n": "Encantar escudo: protección inferior",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Polvo extraño",
+              1
+            ],
+            [
+              "Fragmento de luz trémula pequeño",
+              1
+            ]
+          ],
+          "desc": "Encanta de forma permanente un escudo para aumentar su armadura en 30 p.",
+          "quien": [
+            0,
+            1
+          ]
+        },
+        {
+          "id": 7422,
+          "n": "Encantar escudo: espíritu inferior",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Esencia astral inferior",
+              1
+            ],
+            [
+              "Polvo extraño",
+              2
+            ]
+          ],
+          "desc": "Encanta de forma permanente un escudo para que proporcione 3 p. de espíritu.",
+          "quien": [
+            0
+          ]
+        },
+        {
+          "id": 7503,
+          "n": "Encantar escudo: aguante inferior",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Esencia mística inferior",
+              1
+            ]
+          ],
+          "desc": "Encanta de forma permanente un escudo para que proporcione 5 p. de aguante.",
+          "quien": []
+        },
+        {
+          "id": 7521,
+          "n": "Encantar escudo: espíritu",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Esencia mística inferior",
+              1
+            ],
+            [
+              "Polvo de visión",
+              1
+            ]
+          ],
+          "desc": "Encanta de forma permanente un escudo para que proporcione 5 p. de espíritu.",
+          "quien": []
+        },
+        {
+          "id": 7528,
+          "n": "Encantar escudo: bloqueo inferior",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Esencia mística superior",
+              1
+            ],
+            [
+              "Polvo de visión",
+              1
+            ],
+            [
+              "Fragmento resplandeciente grande",
+              1
+            ]
+          ],
+          "desc": "Encanta de forma permanente un escudo para que proporcione una probabilidad de bloquear de +2%.",
+          "quien": []
+        },
+        {
+          "id": 7660,
+          "n": "Encantar escudo: aguante",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Polvo de visión",
+              2
+            ]
+          ],
+          "desc": "Encanta de forma permanente un escudo para que proporcione +7 p. de aguante.",
+          "quien": []
+        },
+        {
+          "id": 7671,
+          "n": "Encantar escudo: espíritu superior",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Esencia abisal inferior",
+              2
+            ],
+            [
+              "Polvo onírico",
+              1
+            ]
+          ],
+          "desc": "Encanta de forma permanente un escudo para que proporcione +7 p. de espíritu.",
+          "quien": []
+        },
+        {
+          "id": 7677,
+          "n": "Encantar escudo: resistencia a la Escarcha",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Fragmento radiante grande",
+              1
+            ],
+            [
+              "Aceite escarchado",
+              1
+            ]
+          ],
+          "desc": "Encanta de forma permanente un escudo para que proporcione +8 p. de resistencia a la Escarcha.",
+          "quien": []
+        },
+        {
+          "id": 11376,
+          "n": "Encantar escudo: aguante superior",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Polvo onírico",
+              6
+            ]
+          ],
+          "desc": "Encanta de forma permanente un escudo para que proporcione +9 p. de aguante.",
+          "quien": []
+        },
+        {
+          "id": 11381,
+          "n": "Encantar escudo: espíritu excelente",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Esencia eterna superior",
+              2
+            ],
+            [
+              "Polvo de ilusión",
+              4
+            ]
+          ],
+          "desc": "Encanta de forma permanente un escudo para que proporcione +9 p. de espíritu.",
+          "quien": []
+        },
+        {
+          "id": 51805,
+          "n": "Encantar escudo: aguante excelente",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Fragmento luminoso grande",
+              6
+            ],
+            [
+              "Polvo de ilusión",
+              18
+            ],
+            [
+              "Esencia de tierra",
+              2
+            ]
+          ],
+          "cant": 12.0,
+          "desc": "Encanta de forma permanente un escudo para añadir 12 p. de aguante.",
+          "quien": []
+        },
+        {
+          "id": 51806,
+          "n": "Encantar escudo: golpe crítico",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Fragmento luminoso grande",
+              5
+            ],
+            [
+              "Polvo de ilusión",
+              15
+            ],
+            [
+              "Sangre de héroes",
+              1
+            ]
+          ],
+          "desc": "Encanta de forma permanente un escudo para añadir un 1% de probabilidad de golpe crítico.",
+          "quien": []
+        }
+      ]
+    },
+    {
+      "nombre": "Encantamientos de guantes",
+      "recetas": [
+        {
+          "id": 7497,
+          "n": "Encantar guantes: minería",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Polvo de alma",
+              1
+            ],
+            [
+              "Hierro",
+              1
+            ]
+          ],
+          "desc": "Encanta de forma permanente unos guantes para que concedan +2 de minería.",
+          "quien": []
+        },
+        {
+          "id": 7498,
+          "n": "Encantar guantes: herboristería",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Polvo de alma",
+              1
+            ],
+            [
+              "Sangrerregia",
+              1
+            ]
+          ],
+          "desc": "Encanta de forma permanente unos guantes para que concedan +2 de botánica.",
+          "quien": []
+        },
+        {
+          "id": 7499,
+          "n": "Encantar guantes: pesca",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Polvo de alma",
+              1
+            ],
+            [
+              "Aceite bocanegra",
+              1
+            ]
+          ],
+          "desc": "Encanta de forma permanente unos guantes para que concedan +2 de pesca.",
+          "quien": []
+        },
+        {
+          "id": 7531,
+          "n": "Encantar guantes: desuello",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Polvo de visión",
+              1
+            ],
+            [
+              "Escama de cría verde",
+              1
+            ]
+          ],
+          "desc": "Encanta de forma permanente unos guantes para que concedan +5 de desollar.",
+          "quien": []
+        },
+        {
+          "id": 7659,
+          "n": "Encantar guantes: agilidad",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Polvo de visión",
+              1
+            ]
+          ],
+          "desc": "Encanta de forma permanente unos guantes para que proporcionen +7 p. de agilidad.",
+          "quien": []
+        },
+        {
+          "id": 7663,
+          "n": "Encantar guantes: minería avanzada",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Polvo de visión",
+              2
+            ],
+            [
+              "Lingote de veraplata",
+              1
+            ]
+          ],
+          "desc": "Encanta de forma permanente unos guantes para que concedan +5 de minería.",
+          "quien": []
+        },
+        {
+          "id": 7666,
+          "n": "Encantar guantes: herboristería avanzada",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Polvo de visión",
+              2
+            ],
+            [
+              "Solea",
+              1
+            ]
+          ],
+          "desc": "Encanta de forma permanente unos guantes para que concedan +5 de botánica.",
+          "quien": []
+        },
+        {
+          "id": 7668,
+          "n": "Encantar guantes: fuerza",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Esencia abisal inferior",
+              1
+            ],
+            [
+              "Polvo de visión",
+              2
+            ]
+          ],
+          "desc": "Encanta de forma permanente unos guantes para que proporcionen +7 p. de fuerza.",
+          "quien": []
+        },
+        {
+          "id": 7684,
+          "n": "Encantar guantes: equitación",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Fragmento radiante grande",
+              1
+            ],
+            [
+              "Polvo onírico",
+              2
+            ]
+          ],
+          "desc": "Encanta de forma permanente unos guantes para que concedan un bonus de velocidad menor cuando el portador vaya montado.",
+          "quien": []
+        },
+        {
+          "id": 7685,
+          "n": "Encantar guantes: velocidad menor",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Fragmento radiante grande",
+              1
+            ],
+            [
+              "Atriplex salvaje",
+              1
+            ]
+          ],
+          "desc": "Encanta permanentemente unos guantes para que concedan un bonus de +1% de velocidades de ataque y de lanzamiento.",
+          "quien": []
+        },
+        {
+          "id": 11378,
+          "n": "Encantar guantes: agilidad superior",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Esencia eterna inferior",
+              2
+            ],
+            [
+              "Polvo de ilusión",
+              2
+            ]
+          ],
+          "desc": "Encanta de forma permanente unos guantes para que proporcionen +10 p. de agilidad.",
+          "quien": []
+        },
+        {
+          "id": 11386,
+          "n": "Encantar guantes: fuerza superior",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Esencia eterna superior",
+              4
+            ],
+            [
+              "Polvo de ilusión",
+              4
+            ]
+          ],
+          "desc": "Encanta de forma permanente unos guantes para que proporcionen +10 p. de fuerza.",
+          "quien": []
+        },
+        {
+          "id": 13121,
+          "n": "Encantar guantes: amenaza",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Cristal Nexus",
+              4
+            ],
+            [
+              "Fragmento luminoso grande",
+              6
+            ],
+            [
+              "Ácido de larval",
+              8
+            ]
+          ],
+          "desc": "Encanta de forma permanente unos guantes para aumentar la amenaza de todos los ataques y hechizos en un 2%.",
+          "quien": []
+        },
+        {
+          "id": 13122,
+          "n": "Encantar guantes: poder de las Sombras",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Cristal Nexus",
+              3
+            ],
+            [
+              "Fragmento luminoso grande",
+              10
+            ],
+            [
+              "Esencia de no-muerto",
+              6
+            ]
+          ],
+          "desc": "Encanta de forma permanente unos guantes para aumentar el daño de las Sombras hasta 20 p.",
+          "quien": []
+        },
+        {
+          "id": 13123,
+          "n": "Encantar guantes: poder de Escarcha",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Cristal Nexus",
+              3
+            ],
+            [
+              "Fragmento luminoso grande",
+              10
+            ],
+            [
+              "Esencia de agua",
+              4
+            ]
+          ],
+          "desc": "Encanta de forma permanente unos guantes para aumentar el daño de Escarcha hasta 20 p.",
+          "quien": []
+        },
+        {
+          "id": 13124,
+          "n": "Encantar guantes: poder de Fuego",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Cristal Nexus",
+              2
+            ],
+            [
+              "Fragmento luminoso grande",
+              10
+            ],
+            [
+              "Esencia de Fuego",
+              4
+            ]
+          ],
+          "desc": "Encanta de forma permanente unos guantes para aumentar el daño de Fuego hasta 20 p.",
+          "quien": []
+        },
+        {
+          "id": 13125,
+          "n": "Encantar guantes: poder de curación",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Cristal Nexus",
+              3
+            ],
+            [
+              "Fragmento luminoso grande",
+              8
+            ],
+            [
+              "Orbe de rectitud",
+              1
+            ]
+          ],
+          "desc": "Encanta de forma permanente unos guantes para aumentar hasta 35 p. los hechizos de sanación del taumaturgo y hasta 12 p. sus hechizos de daño.",
+          "quien": []
+        },
+        {
+          "id": 13126,
+          "n": "Encantar guantes: agilidad excelente",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Cristal Nexus",
+              3
+            ],
+            [
+              "Fragmento luminoso grande",
+              8
+            ],
+            [
+              "Esencia de aire",
+              4
+            ]
+          ],
+          "desc": "Encanta de forma permanente unos guantes para aumentar 15 p. la agilidad.",
+          "quien": []
+        },
+        {
+          "id": 51696,
+          "n": "Encantar guantes: poder sagrado",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Cristal Nexus",
+              2
+            ],
+            [
+              "Fragmento luminoso grande",
+              5
+            ],
+            [
+              "Agua bendita de Stratholme",
+              5
+            ],
+            [
+              "Punto de abominación deshilachado",
+              2
+            ]
+          ],
+          "desc": "Encanta de forma permanente unos guantes para aumentar el daño Sagrado hasta 20 p.",
+          "quien": []
+        },
+        {
+          "id": 51697,
+          "n": "Encantar guantes: poder Arcano",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Cristal Nexus",
+              2
+            ],
+            [
+              "Fragmento luminoso grande",
+              5
+            ],
+            [
+              "Piel de las Sombras",
+              2
+            ]
+          ],
+          "desc": "Encanta de forma permanente unos guantes para aumentar el daño Arcano hasta 20 p.",
+          "quien": []
+        },
+        {
+          "id": 54434,
+          "n": "Encantar guantes: desuello avanzado",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Polvo onírico",
+              2
+            ],
+            [
+              "Pellejo basto curado",
+              1
+            ]
+          ],
+          "desc": "Encanta de forma permanente unos guantes para otorgar +10 p. a la habilidad en desollar.",
+          "quien": []
+        },
+        {
+          "id": 54446,
+          "n": "Encantar guantes: poder de la Naturaleza",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Cristal Nexus",
+              2
+            ],
+            [
+              "Fragmento luminoso grande",
+              5
+            ],
+            [
+              "Loto mortal",
+              4
+            ]
+          ],
+          "desc": "Encanta de forma permanente unos guantes para aumentar hasta 20 p. el daño de Naturaleza.",
+          "quien": []
+        },
+        {
+          "id": 54452,
+          "n": "Encantar guantes: fuerza excelente",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Cristal Nexus",
+              4
+            ],
+            [
+              "Esencia eterna superior",
+              8
+            ],
+            [
+              "Esencia de tierra",
+              4
+            ]
+          ],
+          "desc": "Encanta de forma permanente unos guantes para otorgar +15 p. de fuerza.",
+          "quien": []
+        },
+        {
+          "id": 58428,
+          "n": "Encantar guantes: garra de loto",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Loto mortal",
+              1
+            ],
+            [
+              "Fragmento luminoso pequeño",
+              2
+            ],
+            [
+              "Polvo de ilusión",
+              12
+            ],
+            [
+              "Esencia eterna inferior",
+              4
+            ]
+          ],
+          "desc": "Encanta unos guantes para que ofrezcan una pequeña probabilidad de adquirir un loto mortal al recoger cualquier hierba en Hyjal.",
+          "quien": []
+        }
+      ]
+    },
+    {
+      "nombre": "Varitas",
+      "recetas": [
+        {
+          "id": 7999,
+          "n": "Varita mágica inferior",
+          "q": "uncommon",
+          "ico": "135139",
+          "reac": [
+            [
+              "Madera simple",
+              1
+            ],
+            [
+              "Esencia mágica inferior",
+              1
+            ]
+          ],
+          "desc": "Crea una varita mágica inferior.",
+          "obj": {
+            "dano": "12 - 22 Arcano Daño",
+            "dps": "(11,3 daño por segundo)",
+            "id": 11287,
+            "ilvl": 15,
+            "lig": "Se liga al equiparlo",
+            "n": "Varita mágica inferior",
+            "q": "uncommon",
+            "ranura": "A distancia",
+            "req": 5,
+            "stats": [
+              "+1 poder con hechizos"
+            ],
+            "sub": "Varita",
+            "vel": "Velocidad 1,50",
+            "venta": [
+              "0",
+              "1",
+              "10"
+            ]
+          },
+          "quien": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            6
+          ]
+        },
+        {
+          "id": 8000,
+          "n": "Varita mágica superior",
+          "q": "uncommon",
+          "ico": "135144",
+          "reac": [
+            [
+              "Madera simple",
+              1
+            ],
+            [
+              "Esencia mágica inferior",
+              2
+            ]
+          ],
+          "desc": "Crea una varita mágica superior.",
+          "obj": {
+            "dano": "22 - 41 Arcano Daño",
+            "dps": "(17,5 daño por segundo)",
+            "id": 11288,
+            "ilvl": 23,
+            "lig": "Se liga al equiparlo",
+            "n": "Varita mágica superior",
+            "q": "uncommon",
+            "ranura": "A distancia",
+            "req": 13,
+            "stats": [
+              "+2 poder con hechizos"
+            ],
+            "sub": "Varita",
+            "vel": "Velocidad 1,80",
+            "venta": [
+              "0",
+              "2",
+              "0"
+            ]
+          },
+          "quien": [
+            0,
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "id": 8001,
+          "n": "Varita mística inferior",
+          "q": "uncommon",
+          "ico": "135139",
+          "reac": [
+            [
+              "Madera de estrella",
+              1
+            ],
+            [
+              "Esencia mística inferior",
+              1
+            ]
+          ],
+          "desc": "Crea una varita mística inferior.",
+          "obj": {
+            "dano": "23 - 43 Arcano Daño",
+            "dps": "(25,4 daño por segundo)",
+            "id": 11289,
+            "ilvl": 31,
+            "lig": "Se liga al equiparlo",
+            "n": "Varita mística inferior",
+            "q": "uncommon",
+            "ranura": "A distancia",
+            "req": 26,
+            "stats": [
+              "+4 intelecto"
+            ],
+            "sub": "Varita",
+            "vel": "Velocidad 1,30",
+            "venta": [
+              "0",
+              "4",
+              "50"
+            ]
+          },
+          "quien": []
+        },
+        {
+          "id": 8002,
+          "n": "Varita mística superior",
+          "q": "uncommon",
+          "ico": "135469",
+          "reac": [
+            [
+              "Madera de estrella",
+              1
+            ],
+            [
+              "Esencia mística inferior",
+              1
+            ],
+            [
+              "Polvo de visión",
+              1
+            ]
+          ],
+          "desc": "Crea una varita mística superior.",
+          "obj": {
+            "dano": "40 - 76 Arcano Daño",
+            "dps": "(29 daño por segundo)",
+            "id": 217287,
+            "ilvl": 35,
+            "lig": "Se liga al equiparlo",
+            "n": "Varita mística superior",
+            "q": "uncommon",
+            "ranura": "A distancia",
+            "req": 30,
+            "stats": [
+              "+5 poder con hechizos"
+            ],
+            "sub": "Varita",
+            "vel": "Velocidad 2,00",
+            "venta": [
+              "0",
+              "6",
+              "0"
+            ]
+          },
+          "quien": []
+        },
+        {
+          "id": 54214,
+          "n": "Varita de prácticas de novicio",
+          "q": "common",
+          "ico": "135645",
+          "reac": [
+            [
+              "Madera simple",
+              1
+            ],
+            [
+              "Mota de magia",
+              1
+            ]
+          ],
+          "desc": "Crea una varita mágica inferior.",
+          "obj": {
+            "dano": "4 - 8 Arcano Daño",
+            "dps": "(4,0 daño por segundo)",
+            "id": 247789,
+            "ilvl": 6,
+            "lig": "Se liga al equiparlo",
+            "n": "Varita de prácticas de novicio",
+            "q": "common",
+            "ranura": "A distancia",
+            "req": 1,
+            "sub": "Varita",
+            "vel": "Velocidad 1,50",
+            "venta": [
+              "0",
+              "0",
+              "5"
+            ]
+          },
+          "quien": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        },
+        {
+          "id": 54413,
+          "n": "Varita del Vacío Abisal",
+          "q": "uncommon",
+          "ico": "135465",
+          "reac": [
+            [
+              "Esencia abisal inferior",
+              1
+            ],
+            [
+              "Polvo onírico",
+              1
+            ],
+            [
+              "Madera de estrella",
+              1
+            ]
+          ],
+          "desc": "Crea una varita del Vacío Abisal.",
+          "obj": {
+            "dano": "35 - 67 Sombras Daño",
+            "dps": "(34,0 daño por segundo)",
+            "id": 249144,
+            "ilvl": 42,
+            "lig": "Se liga al equiparlo",
+            "n": "Varita del Vacío Abisal",
+            "q": "uncommon",
+            "ranura": "A distancia",
+            "req": 37,
+            "stats": [
+              "+6 poder con hechizos"
+            ],
+            "sub": "Varita",
+            "vel": "Velocidad 1,50",
+            "venta": [
+              "0",
+              "10",
+              "0"
+            ]
+          },
+          "quien": []
+        },
+        {
+          "id": 54430,
+          "n": "Varita de Ramaoniria",
+          "q": "uncommon",
+          "reac": [
+            [
+              "Esencia abisal inferior",
+              2
+            ],
+            [
+              "Polvo de visión",
+              1
+            ],
+            [
+              "Madera de estrella",
+              1
+            ]
+          ],
+          "desc": "Crea una varita de Ramaoniria.",
+          "obj": {
+            "dano": "49 - 92 Naturaleza Daño",
+            "dps": "(39,2 daño por segundo)",
+            "id": 249234,
+            "ilvl": 48,
+            "lig": "Se liga al equiparlo",
+            "n": "Varita de Ramaoniria",
+            "q": "uncommon",
+            "ranura": "A distancia",
+            "req": 43,
+            "stats": [
+              "+7 poder con hechizos"
+            ],
+            "sub": "Varita",
+            "vel": "Velocidad 1,80",
+            "venta": [
+              "0",
+              "15",
+              "0"
+            ]
+          },
+          "quien": []
+        },
+        {
+          "id": 54433,
+          "n": "Varita eterna inferior",
+          "q": "uncommon",
+          "ico": "135467",
+          "reac": [
+            [
+              "Esencia eterna inferior",
+              1
+            ],
+            [
+              "Polvo onírico",
+              1
+            ],
+            [
+              "Madera de estrella",
+              1
+            ]
+          ],
+          "desc": "Crea una varita eterna inferior.",
+          "obj": {
+            "dano": "64 - 119 Arcano Daño",
+            "dps": "(45,8 daño por segundo)",
+            "id": 249232,
+            "ilvl": 54,
+            "lig": "Se liga al equiparlo",
+            "n": "Varita eterna inferior",
+            "q": "uncommon",
+            "ranura": "A distancia",
+            "req": 49,
+            "stats": [
+              "+8 poder con hechizos"
+            ],
+            "sub": "Varita",
+            "vel": "Velocidad 2,00",
+            "venta": [
+              "0",
+              "20",
+              "0"
+            ]
+          },
+          "quien": []
+        },
+        {
+          "id": 54438,
+          "n": "Varita eterna superior",
+          "q": "uncommon",
+          "ico": "135475",
+          "reac": [
+            [
+              "Esencia eterna superior",
+              2
+            ],
+            [
+              "Polvo de ilusión",
+              1
+            ],
+            [
+              "Madera de estrella",
+              1
+            ]
+          ],
+          "desc": "Crea una varita eterna superior.",
+          "obj": {
+            "dano": "56 - 104 Arcano Daño",
+            "dps": "(53,3 daño por segundo)",
+            "id": 249237,
+            "ilvl": 60,
+            "lig": "Se liga al equiparlo",
+            "n": "Varita eterna superior",
+            "q": "uncommon",
+            "ranura": "A distancia",
+            "req": 55,
+            "stats": [
+              "+9 poder con hechizos"
+            ],
+            "sub": "Varita",
+            "vel": "Velocidad 1,50",
+            "venta": [
+              "0",
+              "25",
+              "0"
+            ]
+          },
+          "quien": []
+        },
+        {
+          "id": 54447,
+          "n": "Varita brillante",
+          "q": "rare",
+          "ico": "135469",
+          "reac": [
+            [
+              "Esencia eterna superior",
+              1
+            ],
+            [
+              "Polvo de ilusión",
+              3
+            ],
+            [
+              "Fragmento luminoso grande",
+              2
+            ],
+            [
+              "Madera de estrella",
+              1
+            ]
+          ],
+          "desc": "Crea una varita brillante.",
+          "obj": {
+            "dano": "50 - 93 Fuego Daño",
+            "dps": "(59,6 daño por segundo)",
+            "id": 249385,
+            "ilvl": 60,
+            "lig": "Se liga al recogerlo",
+            "n": "Varita brillante",
+            "q": "rare",
+            "ranura": "A distancia",
+            "req": 55,
+            "stats": [
+              "+7 intelecto",
+              "+9 poder con hechizos"
+            ],
+            "sub": "Varita",
+            "vel": "Velocidad 1,20",
+            "venta": [
+              "0",
+              "52",
+              "63"
+            ]
+          },
+          "quien": []
+        },
+        {
+          "id": 58877,
+          "n": "Antorcha de luz",
+          "q": "epic",
+          "ico": "135432",
+          "reac": [
+            [
+              "Esencia maleable de la Naturaleza",
+              2
+            ],
+            [
+              "Cristal Nexus",
+              1
+            ],
+            [
+              "Fragmento luminoso grande",
+              6
+            ],
+            [
+              "Esencia eterna inferior",
+              5
+            ]
+          ],
+          "obj": {
+            "dano": "91 - 170 Arcano Daño",
+            "dps": "(76,8 daño por segundo)",
+            "id": 279246,
+            "ilvl": 65,
+            "lig": "Se liga al equiparlo",
+            "n": "Antorcha de luz",
+            "q": "epic",
+            "ranura": "A distancia",
+            "req": 60,
+            "stats": [
+              "+6 Daño con hechizos",
+              "+17 Sanación con hechizos",
+              "+11 espíritu"
+            ],
+            "sub": "Varita",
+            "vel": "Velocidad 1,70",
+            "venta": [
+              "6",
+              "65",
+              "13"
+            ]
+          },
+          "quien": []
+        }
+      ]
+    },
+    {
+      "nombre": "Bibelots",
+      "recetas": [
+        {
+          "id": 8440,
+          "n": "Corazón fumeante de la montaña",
+          "q": "common",
+          "ico": "134084",
+          "reac": [
+            [
+              "Sangre de la Montaña",
+              1
+            ],
+            [
+              "Esencia de Fuego",
+              1
+            ],
+            [
+              "Fragmento luminoso pequeño",
+              3
+            ]
+          ],
+          "quien": []
+        },
+        {
+          "id": 54435,
+          "n": "Corazón de la montaña congelado",
+          "q": "rare",
+          "ico": "134131",
+          "reac": [
+            [
+              "Sangre de la Montaña",
+              1
+            ],
+            [
+              "Esencia de no-muerto",
+              1
+            ],
+            [
+              "Fragmento luminoso pequeño",
+              3
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Aumenta hasta 29 p. el daño infligido con hechizos de Escarcha y de las Sombras durante 15 s. El efecto se duplica en zonas nevadas. (5 min de tiempo de reutilización)."
+            ],
+            "id": 249469,
+            "ilvl": 55,
+            "lig": "Se liga al recogerlo",
+            "n": "Corazón de la montaña congelado",
+            "q": "rare",
+            "ranura": "Alhaja",
+            "req": 50,
+            "stats": [
+              "+9 golpe",
+              "+7 resistencia a Fuego",
+              "+7 resistencia a Escarcha",
+              "+7 resistencia a Sombras",
+              "+7 resistencia a Naturaleza"
+            ],
+            "sub": "Misceláneo",
+            "venta": [
+              "0",
+              "15",
+              "0"
+            ]
+          },
+          "quien": []
+        },
+        {
+          "id": 54436,
+          "n": "Corazón de la montaña fundido",
+          "q": "rare",
+          "ico": "134128",
+          "reac": [
+            [
+              "Sangre de la Montaña",
+              1
+            ],
+            [
+              "Esencia de tierra",
+              1
+            ],
+            [
+              "Fragmento luminoso pequeño",
+              3
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Aumenta 55 p. el poder de ataque durante 15 s. El efecto se duplica en zonas volcánicas. (5 min de tiempo de reutilización)."
+            ],
+            "id": 249470,
+            "ilvl": 55,
+            "lig": "Se liga al recogerlo",
+            "n": "Corazón de la montaña fundido",
+            "q": "rare",
+            "ranura": "Alhaja",
+            "req": 50,
+            "stats": [
+              "+7 resistencia a Fuego",
+              "+7 resistencia a Escarcha",
+              "+7 resistencia a Sombras",
+              "+7 resistencia a Naturaleza",
+              "+2 Daño físico"
+            ],
+            "sub": "Misceláneo",
+            "venta": [
+              "0",
+              "15",
+              "0"
+            ]
+          },
+          "quien": []
+        },
+        {
+          "id": 54437,
+          "n": "Corazón de la montaña durmiente",
+          "q": "rare",
+          "ico": "134094",
+          "reac": [
+            [
+              "Sangre de la Montaña",
+              1
+            ],
+            [
+              "Esencia de agua",
+              1
+            ],
+            [
+              "Fragmento luminoso pequeño",
+              3
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Equipar: Tus lanzamientos de Sanación superior, Toque de sanación, Ola de sanación o Luz Sagrada en combate otorgan hasta 40 p. más de sanación y hasta 13 p. más de daño durante 15 s."
+            ],
+            "id": 249473,
+            "ilvl": 55,
+            "lig": "Se liga al recogerlo",
+            "n": "Corazón de la montaña durmiente",
+            "q": "rare",
+            "ranura": "Alhaja",
+            "req": 50,
+            "stats": [
+              "+7 resistencia a Fuego",
+              "+7 resistencia a Escarcha",
+              "+7 resistencia a Sombras",
+              "+7 resistencia a Naturaleza"
+            ],
+            "sub": "Misceláneo",
+            "venta": [
+              "0",
+              "15",
+              "0"
+            ]
+          },
+          "quien": []
+        }
+      ]
+    },
+    {
+      "nombre": "Componentes",
+      "recetas": [
+        {
+          "id": 9597,
+          "n": "Cuero encantado",
+          "q": "common",
+          "ico": "134418",
+          "reac": [
+            [
+              "Cuero basto",
+              1
+            ],
+            [
+              "Esencia eterna inferior",
+              1
+            ]
+          ],
+          "obj": {
+            "id": 12810,
+            "ilvl": 55,
+            "n": "Cuero encantado",
+            "q": "common",
+            "sub": "Cuero",
+            "venta": [
+              "0",
+              "5",
+              "0"
+            ]
+          },
+          "quien": []
+        },
+        {
+          "id": 9598,
+          "n": "Torio encantado",
+          "q": "common",
+          "ico": "133229",
+          "reac": [
+            [
+              "Lingote de torio",
+              1
+            ],
+            [
+              "Polvo onírico",
+              3
+            ]
+          ],
+          "obj": {
+            "id": 12655,
+            "ilvl": 55,
+            "n": "Lingote de torio encantado",
+            "q": "common",
+            "sub": "Metal y piedra",
+            "venta": [
+              "0",
+              "5",
+              "0"
+            ]
+          },
+          "quien": []
+        },
+        {
+          "id": 54213,
+          "n": "De polvo a motas",
+          "q": "common",
+          "ico": "132841",
+          "reac": [
+            [
+              "Polvo extraño",
+              1
+            ]
+          ],
+          "cant": 3.0,
+          "desc": "Divide 1 montón de polvo extraño en 3 motas de magia.",
+          "obj": {
+            "id": 247786,
+            "ilvl": 5,
+            "n": "Mota de magia",
+            "q": "common",
+            "sub": "Encantamiento"
+          },
+          "quien": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Aceites de zahorí",
+      "recetas": [
+        {
+          "id": 13137,
+          "n": "Aceite de zahorí menor",
+          "q": "common",
+          "ico": "134711",
+          "reac": [
+            [
+              "Polvo extraño",
+              1
+            ],
+            [
+              "Semillas de arce",
+              1
+            ],
+            [
+              "Vial vacío",
+              1
+            ]
+          ],
+          "desc": "Crea aceite menor de zahorí.",
+          "obj": {
+            "efectos": [
+              "Usar: Aplicado al escudo del objetivo, aumenta hasta 8 p. el daño con hechizos y la curación. Dura 30 minutos. (1 s de tiempo de reutilización)."
+            ],
+            "id": 20744,
+            "ilvl": 15,
+            "n": "Aceite de zahorí menor",
+            "q": "common",
+            "req": 5,
+            "sub": "Otros",
+            "venta": [
+              "0",
+              "1",
+              "0"
+            ]
+          },
+          "quien": [
+            0,
+            1,
+            6
+          ]
+        },
+        {
+          "id": 13138,
+          "n": "Aceite menor de maná",
+          "q": "common",
+          "ico": "134878",
+          "reac": [
+            [
+              "Polvo de alma",
+              1
+            ],
+            [
+              "Semillas de arce",
+              2
+            ],
+            [
+              "Vial con plomo",
+              1
+            ]
+          ],
+          "desc": "Crea aceite menor de maná.",
+          "obj": {
+            "efectos": [
+              "Usar: Aplicado al arma del objetivo, restaura 5 p. de maná al taumaturgo cada 5 s y aumenta hasta 10 p. la sanación realizada. Dura 30 minutos. (1 s de tiempo de reutilización)."
+            ],
+            "id": 20745,
+            "ilvl": 30,
+            "n": "Aceite de maná menor",
+            "q": "common",
+            "req": 20,
+            "sub": "Otros",
+            "venta": [
+              "0",
+              "5",
+              "0"
+            ]
+          },
+          "quien": []
+        },
+        {
+          "id": 13139,
+          "n": "Aceite de zahorí inferior",
+          "q": "common",
+          "ico": "134725",
+          "reac": [
+            [
+              "Polvo de visión",
+              1
+            ],
+            [
+              "Semilla Tuercespina",
+              2
+            ],
+            [
+              "Vial con plomo",
+              1
+            ]
+          ],
+          "desc": "Crea aceite inferior de zahorí.",
+          "obj": {
+            "efectos": [
+              "Usar: Aplicado al arma del objetivo, aumenta hasta 16 p. el daño con hechizos y la sanación. Dura 30 minutos. (1 s de tiempo de reutilización)."
+            ],
+            "id": 20746,
+            "ilvl": 40,
+            "n": "Aceite de zahorí inferior",
+            "q": "common",
+            "req": 30,
+            "sub": "Encantamiento",
+            "venta": [
+              "0",
+              "10",
+              "0"
+            ]
+          },
+          "quien": []
+        },
+        {
+          "id": 13140,
+          "n": "Aceite inferior de maná",
+          "q": "common",
+          "ico": "134879",
+          "reac": [
+            [
+              "Polvo onírico",
+              1
+            ],
+            [
+              "Loto morado",
+              1
+            ],
+            [
+              "Vial de cristal",
+              1
+            ]
+          ],
+          "desc": "Crea aceite inferior de maná.",
+          "obj": {
+            "efectos": [
+              "Usar: Aplicado al arma del objetivo, restaura 10 p. de maná al taumaturgo cada 5 s y aumenta hasta 20 p. la sanación. Dura 30 minutos. (1 s de tiempo de reutilización)."
+            ],
+            "id": 20747,
+            "ilvl": 50,
+            "n": "Aceite de maná inferior",
+            "q": "common",
+            "req": 40,
+            "sub": "Encantamiento",
+            "venta": [
+              "0",
+              "10",
+              "0"
+            ]
+          },
+          "quien": []
+        },
+        {
+          "id": 13141,
+          "n": "Aceite de zahorí",
+          "q": "common",
+          "ico": "134726",
+          "reac": [
+            [
+              "Polvo de ilusión",
+              3
+            ],
+            [
+              "Flor de Fuego",
+              2
+            ],
+            [
+              "Vial de cristal",
+              1
+            ]
+          ],
+          "desc": "Crea aceite de zahorí.",
+          "obj": {
+            "efectos": [
+              "Usar: Aplicado al arma del objetivo, aumenta hasta 24 p. la sanación y el daño con hechizos. Dura 30 minutos. (1 s de tiempo de reutilización)."
+            ],
+            "id": 20750,
+            "ilvl": 50,
+            "n": "Aceite de zahorí",
+            "q": "common",
+            "req": 40,
+            "sub": "Otros",
+            "venta": [
+              "0",
+              "10",
+              "0"
+            ]
+          },
+          "quien": []
+        },
+        {
+          "id": 13142,
+          "n": "Aceite de zahorí luminoso",
+          "q": "common",
+          "ico": "134727",
+          "reac": [
+            [
+              "Fragmento luminoso grande",
+              2
+            ],
+            [
+              "Flor de Fuego",
+              3
+            ],
+            [
+              "Vial imbuida",
+              1
+            ]
+          ],
+          "desc": "Crea aceite brillante de zahorí.",
+          "obj": {
+            "efectos": [
+              "Usar: Aplicado al arma del objetivo, aumenta hasta 36 p. el daño con hechizos y un 1% la probabilidad de impacto crítico. Dura 30 minutos. (1 s de tiempo de reutilización)."
+            ],
+            "id": 20749,
+            "ilvl": 55,
+            "n": "Aceite de zahorí luminoso",
+            "q": "common",
+            "req": 45,
+            "sub": "Otros",
+            "venta": [
+              "0",
+              "10",
+              "0"
+            ]
+          },
+          "quien": []
+        },
+        {
+          "id": 13143,
+          "n": "Aceite de maná resplandeciente",
+          "q": "common",
+          "ico": "134722",
+          "reac": [
+            [
+              "Fragmento luminoso grande",
+              2
+            ],
+            [
+              "Loto morado",
+              3
+            ],
+            [
+              "Vial imbuida",
+              1
+            ]
+          ],
+          "desc": "Aplicado al arma del objetivo restaura 12 p. de maná al taumaturgo cada 5 segundos y aumenta el efecto de los hechizos curativos en 25. Dura 30 minutos.",
+          "obj": {
+            "efectos": [
+              "Usar: Aplicado al arma del objetivo, restaura 15 p. de maná al taumaturgo cada 5 s y aumenta hasta 30 p. el efecto de los hechizos de sanación. Dura 30 minutos. (1 s de tiempo de reutilización)."
+            ],
+            "id": 20748,
+            "ilvl": 55,
+            "n": "Aceite de maná luminoso",
+            "q": "common",
+            "req": 45,
+            "sub": "Otros",
+            "venta": [
+              "0",
+              "10",
+              "0"
+            ]
+          },
+          "quien": []
+        }
+      ]
+    },
+    {
+      "nombre": "TEMPORADA DEL DESCUBRIMIENTO",
+      "recetas": [
+        {
+          "id": 49377,
+          "n": "Aceite de maná Brazanegra",
+          "q": "common",
+          "ico": "134879",
+          "reac": [
+            [
+              "Vial con plomo",
+              1
+            ],
+            [
+              "Esencia mágica superior",
+              1
+            ],
+            [
+              "Polvo extraño",
+              5
+            ]
+          ],
+          "desc": "Crea aceite de maná Brazanegra.",
+          "quien": []
+        },
+        {
+          "id": 49816,
+          "n": "Encantar arma: desmantelar",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Esencia abisal inferior",
+              4
+            ],
+            [
+              "Colmillo grande",
+              2
+            ],
+            [
+              "Fragmento radiante pequeño",
+              2
+            ]
+          ],
+          "desc": "Encanta de forma permanente un arma para que, a veces, todos los hechizos y ataques inflijan 60 a 90 p. más de daño contra criaturas mecánicas.",
+          "quien": []
+        },
+        {
+          "id": 49854,
+          "n": "Encantar pechera: Retribucionismo",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Fragmento radiante pequeño",
+              1
+            ],
+            [
+              "Polvo onírico",
+              2
+            ]
+          ],
+          "desc": "Te enseña a encantar de forma permanente una pieza de armadura de torso para que refleje 9 p. de daño al atacante cuando el portador recibe un golpe cuerpo a cuerpo.",
+          "quien": []
+        },
+        {
+          "id": 49969,
+          "n": "Varita mística superior",
+          "q": "uncommon",
+          "ico": "135469",
+          "reac": [
+            [
+              "Madera de estrella",
+              1
+            ],
+            [
+              "Esencia mística superior",
+              1
+            ],
+            [
+              "Polvo de visión",
+              1
+            ]
+          ],
+          "desc": "Crea una varita mística superior.",
+          "obj": {
+            "dano": "40 - 76 Arcano Daño",
+            "dps": "(29 daño por segundo)",
+            "id": 217287,
+            "ilvl": 35,
+            "lig": "Se liga al equiparlo",
+            "n": "Varita mística superior",
+            "q": "uncommon",
+            "ranura": "A distancia",
+            "req": 30,
+            "stats": [
+              "+5 poder con hechizos"
+            ],
+            "sub": "Varita",
+            "vel": "Velocidad 2,00",
+            "venta": [
+              "0",
+              "6",
+              "0"
+            ]
+          },
+          "quien": []
+        },
+        {
+          "id": 49970,
+          "n": "Sigilo de innovación",
+          "q": "uncommon",
+          "ico": "254884",
+          "reac": [
+            [
+              "Polvo de visión",
+              5
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Obtienes un sigilo encantado de innovación que te potencia. Aumentas hasta 20 p. más el daño y la sanación con hechizos, e incrementas en 20 p. tu poder de ataque durante 30 min. Solo se puede aplicar cuando no estás en combate. (30 m"
+            ],
+            "id": 217308,
+            "ilvl": 40,
+            "lig": "Se liga al recogerlo",
+            "n": "Sigilo encantado: Innovación",
+            "q": "uncommon",
+            "req": 40,
+            "sub": "Otros"
+          },
+          "quien": []
+        },
+        {
+          "id": 50556,
+          "n": "Sigilo de sueños vivos",
+          "q": "common",
+          "ico": "254882",
+          "reac": [
+            [
+              "Polvo onírico",
+              5
+            ]
+          ],
+          "quien": []
+        },
+        {
+          "id": 51075,
+          "n": "Pergamino de alivio espacial",
+          "q": "uncommon",
+          "ico": "134945",
+          "reac": [
+            [
+              "Madera simple",
+              1
+            ],
+            [
+              "Polvo extraño",
+              4
+            ]
+          ],
+          "desc": "Crea un pergamino de alivio espacial.",
+          "obj": {
+            "efectos": [
+              "Usar: Cierras el portal vil seleccionado. Quizá atraigas atenciones no deseadas del otro lado."
+            ],
+            "id": 220792,
+            "ilvl": 15,
+            "n": "Pergamino de alivio espacial",
+            "q": "uncommon",
+            "req": 1,
+            "sub": "Otros",
+            "venta": [
+              "0",
+              "1",
+              "50"
+            ]
+          },
+          "quien": []
+        },
+        {
+          "id": 51427,
+          "n": "Encantar escudo: ley de la naturaleza",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Fragmento luminoso grande",
+              4
+            ],
+            [
+              "Esencia eterna superior",
+              12
+            ],
+            [
+              "Esencia de Fuego",
+              4
+            ],
+            [
+              "Esencia de agua",
+              4
+            ],
+            [
+              "Esencia de tierra",
+              1
+            ],
+            [
+              "Orbe de rectitud",
+              1
+            ]
+          ],
+          "desc": "Encantas un escudo de forma permanente para añadir hasta 30 p. de daño a los hechizos y hasta 55 p. de sanación a los de sanación.",
+          "quien": []
+        },
+        {
+          "id": 51428,
+          "n": "Revestimiento de escudo conductivo",
+          "q": "common",
+          "ico": "134722",
+          "reac": [
+            [
+              "Polvo de ilusión",
+              2
+            ],
+            [
+              "Flor de Fuego",
+              1
+            ],
+            [
+              "Vial de cristal",
+              1
+            ]
+          ],
+          "desc": "Crea un revestimiento de escudo conductivo.",
+          "obj": {
+            "efectos": [
+              "Usar: Cuando se aplica al escudo seleccionado, aumenta hasta 24 p. el daño con hechizos y la sanación. Dura 30 min. (1 s de tiempo de reutilización)."
+            ],
+            "id": 228980,
+            "ilvl": 50,
+            "n": "Revestimiento de escudo conductivo",
+            "q": "common",
+            "req": 40,
+            "sub": "Temporal",
+            "venta": [
+              "0",
+              "4",
+              "0"
+            ]
+          },
+          "quien": []
+        },
+        {
+          "id": 51429,
+          "n": "Sigilo de agua corriente",
+          "q": "rare",
+          "ico": "254883",
+          "reac": [
+            [
+              "Polvo de ilusión",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Obtienes un sigilo de agua corriente encantado que potencia a tu banda. Aumentas hasta 30 p. más el daño y la sanación con hechizos, e incrementas 30 p. tu poder de ataque durante 1 h. (1 min de tiempo de reutilización)."
+            ],
+            "id": 228978,
+            "ilvl": 60,
+            "lig": "Se liga al recogerlo",
+            "n": "Sigilo encantado: Agua corriente",
+            "q": "rare",
+            "req": 60,
+            "sub": "Otros"
+          },
+          "quien": []
+        },
+        {
+          "id": 51547,
+          "n": "Abrillantador trol magnífico",
+          "q": "common",
+          "ico": "134876",
+          "reac": [
+            [
+              "Frasco de mojo",
+              3
+            ],
+            [
+              "Frasco de gran mojo",
+              3
+            ],
+            [
+              "Fragmento luminoso grande",
+              2
+            ],
+            [
+              "Vial imbuida",
+              1
+            ]
+          ],
+          "desc": "Crea un abrillantador trol magnífico.",
+          "obj": {
+            "efectos": [
+              "Usar: Cuando se aplica al escudo seleccionado, aumenta hasta 36 p. el daño con hechizos y la sanación, así como un 1% la probabilidad de golpe crítico con hechizos. Dura 30 min. (1 s de tiempo de reutilización)."
+            ],
+            "id": 232611,
+            "ilvl": 55,
+            "n": "Abrillantador trol magnífico",
+            "q": "common",
+            "req": 45,
+            "sub": "Temporal",
+            "venta": [
+              "0",
+              "10",
+              "0"
+            ]
+          },
+          "quien": []
+        },
+        {
+          "id": 51688,
+          "n": "Piedraveloz",
+          "q": "common",
+          "ico": "294481",
+          "reac": [
+            [
+              "Quitina de silítido monstruoso",
+              10
+            ],
+            [
+              "Bilis de gusano de arena antiguo",
+              10
+            ],
+            [
+              "Cristal Nexus",
+              6
+            ],
+            [
+              "Piedra de pulir obsidiana",
+              6
+            ],
+            [
+              "Cardoveloz",
+              20
+            ]
+          ],
+          "quien": []
+        },
+        {
+          "id": 51689,
+          "n": "Lágrima del soñador",
+          "q": "common",
+          "ico": "237004",
+          "reac": [
+            [
+              "Quitina de silítido monstruoso",
+              10
+            ],
+            [
+              "Bilis de gusano de arena antiguo",
+              10
+            ],
+            [
+              "Cristal Nexus",
+              4
+            ],
+            [
+              "Lingote de torio imbuido de obsidiana",
+              10
+            ],
+            [
+              "Cardo de la colmena",
+              10
+            ]
+          ],
+          "quien": []
+        },
+        {
+          "id": 51690,
+          "n": "Magnetita de la represalia",
+          "q": "common",
+          "ico": "135234",
+          "reac": [
+            [
+              "Quitina de silítido con pinchos",
+              10
+            ],
+            [
+              "Bilis de gusano de arena antiguo",
+              5
+            ],
+            [
+              "Cristal Nexus",
+              4
+            ],
+            [
+              "Lingote de torio imbuido de obsidiana",
+              10
+            ],
+            [
+              "Veneno de acechador Qiraji",
+              10
+            ]
+          ],
+          "quien": []
+        },
+        {
+          "id": 51691,
+          "n": "Cronómetro encantado",
+          "q": "common",
+          "ico": "134377",
+          "reac": [
+            [
+              "Lingote de torio imbuido de obsidiana",
+              3
+            ],
+            [
+              "Pólvora obsidiana",
+              6
+            ],
+            [
+              "Fragmento luminoso grande",
+              4
+            ],
+            [
+              "Poción de velocidad",
+              3
+            ]
+          ],
+          "quien": []
+        },
+        {
+          "id": 51692,
+          "n": "Broche incrustado de rubíes",
+          "q": "common",
+          "ico": "133302",
+          "reac": [
+            [
+              "Quitina de silítido con pinchos",
+              10
+            ],
+            [
+              "Bilis de gusano de arena antiguo",
+              5
+            ],
+            [
+              "Cristal Nexus",
+              6
+            ],
+            [
+              "Lingote de torio imbuido de obsidiana",
+              10
+            ],
+            [
+              "Cardo de la colmena",
+              10
+            ],
+            [
+              "Veneno de acechador Qiraji",
+              10
+            ]
+          ],
+          "quien": []
+        },
+        {
+          "id": 51693,
+          "n": "Pergamino: cólera del enjambre",
+          "q": "common",
+          "ico": "237449",
+          "reac": [
+            [
+              "Esencia eterna superior",
+              1
+            ],
+            [
+              "Paño rúnico",
+              1
+            ]
+          ],
+          "quien": []
+        },
+        {
+          "id": 51694,
+          "n": "Repelente encantado",
+          "q": "common",
+          "ico": "134723",
+          "reac": [
+            [
+              "Veneno de acechador Qiraji",
+              3
+            ],
+            [
+              "Cardo de la colmena",
+              3
+            ],
+            [
+              "Polvo de ilusión",
+              2
+            ]
+          ],
+          "desc": "Crea repelente encantado.",
+          "quien": []
+        },
+        {
+          "id": 51695,
+          "n": "Encantar pechera: estadísticas vivientes",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Cristal Nexus",
+              2
+            ],
+            [
+              "Polvo de ilusión",
+              8
+            ],
+            [
+              "Esencia eterna superior",
+              5
+            ],
+            [
+              "Poción de protección de Naturaleza superior",
+              10
+            ],
+            [
+              "Veneno de acechador Qiraji",
+              2
+            ],
+            [
+              "Bilis de gusano de arena antiguo",
+              2
+            ]
+          ],
+          "desc": "Encanta permanentemente una pieza de protección del pecho para aumentar todas las estadísticas 4 p. y la resistencia a la Naturaleza 15 p.",
+          "quien": []
+        },
+        {
+          "id": 51698,
+          "n": "Libro de plegarias encantado",
+          "q": "common",
+          "reac": [
+            [
+              "Cristal Nexus",
+              3
+            ],
+            [
+              "Seda Qiraji",
+              10
+            ],
+            [
+              "Lingote de torio imbuido de obsidiana",
+              2
+            ],
+            [
+              "Cuero encantado",
+              4
+            ]
+          ],
+          "quien": []
+        },
+        {
+          "id": 51699,
+          "n": "Tótem encantado",
+          "q": "common",
+          "ico": "134918",
+          "reac": [
+            [
+              "Cristal Nexus",
+              3
+            ],
+            [
+              "Cardo de la colmena",
+              10
+            ],
+            [
+              "Lingote de torio imbuido de obsidiana",
+              2
+            ],
+            [
+              "Cuero encantado",
+              3
+            ]
+          ],
+          "quien": []
+        },
+        {
+          "id": 51700,
+          "n": "Seta encantada",
+          "q": "common",
+          "reac": [
+            [
+              "Cristal Nexus",
+              2
+            ],
+            [
+              "Cardo de la colmena",
+              20
+            ],
+            [
+              "Cuero encantado",
+              3
+            ],
+            [
+              "Veneno de acechador Qiraji",
+              4
+            ],
+            [
+              "Bilis de gusano de arena antiguo",
+              4
+            ]
+          ],
+          "quien": []
+        },
+        {
+          "id": 51734,
+          "n": "Tratado sobre Rectitud",
+          "q": "common",
+          "ico": "134916",
+          "reac": [
+            [
+              "Cristal Nexus",
+              3
+            ],
+            [
+              "Seda Qiraji",
+              10
+            ],
+            [
+              "Lingote de torio imbuido de obsidiana",
+              2
+            ],
+            [
+              "Cuero encantado",
+              4
+            ]
+          ],
+          "quien": []
+        },
+        {
+          "id": 51735,
+          "n": "Tratado del exorcista",
+          "q": "common",
+          "reac": [
+            [
+              "Cristal Nexus",
+              3
+            ],
+            [
+              "Seda Qiraji",
+              10
+            ],
+            [
+              "Lingote de torio imbuido de obsidiana",
+              2
+            ],
+            [
+              "Cuero encantado",
+              4
+            ]
+          ],
+          "quien": []
+        },
+        {
+          "id": 51736,
+          "n": "Tratado sobre Santidad",
+          "q": "common",
+          "ico": "134915",
+          "reac": [
+            [
+              "Cristal Nexus",
+              3
+            ],
+            [
+              "Seda Qiraji",
+              10
+            ],
+            [
+              "Lingote de torio imbuido de obsidiana",
+              2
+            ],
+            [
+              "Cuero encantado",
+              4
+            ]
+          ],
+          "quien": []
+        },
+        {
+          "id": 51737,
+          "n": "Tótem de trueno piroclástico",
+          "q": "common",
+          "ico": "134920",
+          "reac": [
+            [
+              "Cristal Nexus",
+              3
+            ],
+            [
+              "Cardo de la colmena",
+              10
+            ],
+            [
+              "Lingote de torio imbuido de obsidiana",
+              2
+            ],
+            [
+              "Cuero encantado",
+              3
+            ]
+          ],
+          "quien": []
+        },
+        {
+          "id": 51738,
+          "n": "Tótem de golpes atronadores",
+          "q": "common",
+          "ico": "134919",
+          "reac": [
+            [
+              "Cristal Nexus",
+              3
+            ],
+            [
+              "Cardo de la colmena",
+              10
+            ],
+            [
+              "Lingote de torio imbuido de obsidiana",
+              2
+            ],
+            [
+              "Cuero encantado",
+              3
+            ]
+          ],
+          "quien": []
+        },
+        {
+          "id": 51739,
+          "n": "Tótem de magma fluyente",
+          "q": "common",
+          "ico": "134919",
+          "reac": [
+            [
+              "Cristal Nexus",
+              3
+            ],
+            [
+              "Cardo de la colmena",
+              10
+            ],
+            [
+              "Lingote de torio imbuido de obsidiana",
+              2
+            ],
+            [
+              "Cuero encantado",
+              3
+            ]
+          ],
+          "quien": []
+        },
+        {
+          "id": 51740,
+          "n": "Ídolo de cólera sideral",
+          "q": "common",
+          "ico": "134914",
+          "reac": [
+            [
+              "Cristal Nexus",
+              2
+            ],
+            [
+              "Cardo de la colmena",
+              20
+            ],
+            [
+              "Cuero encantado",
+              3
+            ],
+            [
+              "Veneno de acechador Qiraji",
+              4
+            ],
+            [
+              "Bilis de gusano de arena antiguo",
+              4
+            ]
+          ],
+          "quien": []
+        },
+        {
+          "id": 51741,
+          "n": "Ídolo de ferocidad felina",
+          "q": "common",
+          "reac": [
+            [
+              "Cristal Nexus",
+              2
+            ],
+            [
+              "Cardo de la colmena",
+              20
+            ],
+            [
+              "Cuero encantado",
+              3
+            ],
+            [
+              "Veneno de acechador Qiraji",
+              4
+            ],
+            [
+              "Bilis de gusano de arena antiguo",
+              4
+            ]
+          ],
+          "quien": []
+        },
+        {
+          "id": 51742,
+          "n": "Ídolo de poder osuno",
+          "q": "common",
+          "reac": [
+            [
+              "Cristal Nexus",
+              2
+            ],
+            [
+              "Cardo de la colmena",
+              20
+            ],
+            [
+              "Cuero encantado",
+              3
+            ],
+            [
+              "Veneno de acechador Qiraji",
+              4
+            ],
+            [
+              "Bilis de gusano de arena antiguo",
+              4
+            ]
+          ],
+          "quien": []
+        },
+        {
+          "id": 51762,
+          "n": "Encantar brazales: poder con hechizos",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Fragmento luminoso grande",
+              2
+            ],
+            [
+              "Polvo de ilusión",
+              20
+            ],
+            [
+              "Esencia eterna superior",
+              4
+            ],
+            [
+              "Esencia de agua",
+              2
+            ],
+            [
+              "Esencia de Fuego",
+              2
+            ],
+            [
+              "Esencia de aire",
+              2
+            ]
+          ],
+          "desc": "Encanta de forma permanente unos brazales para añadir hasta 12 p. de daño con hechizos.",
+          "quien": []
+        },
+        {
+          "id": 51763,
+          "n": "Encantar brazales: agilidad",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Cristal Nexus",
+              2
+            ],
+            [
+              "Polvo de ilusión",
+              10
+            ],
+            [
+              "Esencia eterna superior",
+              2
+            ],
+            [
+              "Esencia de aire",
+              2
+            ]
+          ],
+          "desc": "Encanta de forma permanente unos brazales para aumentar 9 p. la agilidad.",
+          "quien": []
+        },
+        {
+          "id": 52723,
+          "n": "Encantar arma: gran cruzado",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Fragmento luminoso grande",
+              5
+            ],
+            [
+              "Orbe de rectitud",
+              2
+            ],
+            [
+              "Cristal Nexus",
+              2
+            ],
+            [
+              "Sangre de héroes",
+              1
+            ]
+          ],
+          "desc": "Encanta de forma permanente un arma cuerpo a cuerpo para que, cuando se ataque cuerpo a cuerpo, cure a menudo 350 a 450 p. y aumente 120 p. la fuerza durante 20 s.",
+          "quien": []
+        },
+        {
+          "id": 52726,
+          "n": "Encantar arma 2M: gran arcanista",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Fragmento luminoso grande",
+              10
+            ],
+            [
+              "Orbe de rectitud",
+              4
+            ],
+            [
+              "Cristal Nexus",
+              4
+            ],
+            [
+              "Sangre de héroes",
+              1
+            ]
+          ],
+          "desc": "Encanta de forma permanente un arma cuerpo a cuerpo de dos manos para que, al golpear con un hechizo, restaure a menudo 350 a 450 p. de maná y aumente 140 p. el poder con hechizos durante 20 s.",
+          "quien": []
+        },
+        {
+          "id": 52727,
+          "n": "Encantar arma: gran hechicero",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Fragmento luminoso grande",
+              6
+            ],
+            [
+              "Orbe de rectitud",
+              3
+            ],
+            [
+              "Cristal Nexus",
+              2
+            ],
+            [
+              "Sangre de héroes",
+              1
+            ]
+          ],
+          "desc": "Encanta de forma permanente un arma cuerpo a cuerpo para que, al golpear con un hechizo, restaure a menudo 350 a 450 p. de maná y aumente 70 p. el poder con hechizos en durante 20 s.",
+          "quien": []
+        },
+        {
+          "id": 52730,
+          "n": "Encantar arma 2M: gran inquisidor",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Fragmento luminoso grande",
+              10
+            ],
+            [
+              "Orbe de rectitud",
+              6
+            ],
+            [
+              "Cristal Nexus",
+              4
+            ],
+            [
+              "Sangre de héroes",
+              1
+            ]
+          ],
+          "desc": "Encanta de forma permanente un arma cuerpo a cuerpo de dos manos para que, cuando se ataque cuerpo a cuerpo, cure a menudo 350 a 450 p. y aumente 200 p. la fuerza durante 20 s.",
+          "quien": []
+        }
+      ]
+    },
+    {
+      "nombre": "Encantamientos de mano izquierda",
+      "recetas": [
+        {
+          "id": 51801,
+          "n": "Encantar mano izq.: intelecto excelente",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Cristal Nexus",
+              2
+            ],
+            [
+              "Polvo de ilusión",
+              18
+            ],
+            [
+              "Esencia de aire",
+              2
+            ]
+          ],
+          "cant": 9.0,
+          "desc": "Encanta de forma permanente un arma de mano izquierda para añadir 9 p. de intelecto.",
+          "quien": []
+        },
+        {
+          "id": 51802,
+          "n": "Encantar mano izq.: espíritu excelente",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Cristal Nexus",
+              2
+            ],
+            [
+              "Polvo de ilusión",
+              18
+            ],
+            [
+              "Esencia de agua",
+              2
+            ]
+          ],
+          "cant": 12.0,
+          "desc": "Encanta de forma permanente un arma de mano izquierda para añadir 12 p. de espíritu.",
+          "quien": []
+        },
+        {
+          "id": 51803,
+          "n": "Encantar mano izq.: sabiduría",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Fragmento luminoso grande",
+              6
+            ],
+            [
+              "Polvo de ilusión",
+              18
+            ],
+            [
+              "Esencia de aire",
+              1
+            ],
+            [
+              "Esencia de agua",
+              1
+            ]
+          ],
+          "cant": 6.0,
+          "desc": "Encanta de forma permanente un arma de mano izquierda para añadir 6 p. de intelecto y 5 p. de espíritu.",
+          "quien": []
+        }
+      ]
+    },
+    {
+      "nombre": "Acampada",
+      "recetas": [
+        {
+          "id": 52649,
+          "n": "Laúd encantado",
+          "q": "common",
+          "ico": "4631367",
+          "reac": [
+            [
+              "Madera simple",
+              1
+            ],
+            [
+              "Polvo extraño",
+              1
+            ]
+          ],
+          "desc": "Fabrica un laúd encantado.",
+          "obj": {
+            "efectos": [
+              "Usar: Invoca un laúd encantado que permite que tú y otros os sentéis cerca para obtener 308 p. más de armadura, 13 p. más a todas las estadísticas y 22 p. más a todas las resistencias. Incompatible con Marca de lo Salvaje. Requiere una hogu"
+            ],
+            "id": 279976,
+            "ilvl": 4,
+            "n": "Laúd encantado",
+            "q": "common",
+            "sub": "Otros"
+          },
+          "quien": [
+            0,
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "id": 57022,
+          "n": "Recuperador Arcano",
+          "q": "common",
+          "ico": "986482",
+          "reac": [
+            [
+              "Polvo de visión",
+              2
+            ],
+            [
+              "Esencia abisal inferior",
+              1
+            ]
+          ],
+          "desc": "Fabrica un recuperador Arcano.",
+          "obj": {
+            "efectos": [
+              "Usar: Coloca un recuperador Arcano que permite desencantar objetos de forma más eficiente y que ofrece todos los beneficios de un laúd encantado. Requiere una hoguera cercana. Se puede colocar sobre un laúd encantado para sustituirlo. Todas"
+            ],
+            "id": 279985,
+            "ilvl": 28,
+            "n": "Recuperador Arcano",
+            "q": "common",
+            "sub": "Otros"
+          },
+          "quien": []
+        },
+        {
+          "id": 57034,
+          "n": "Forja Arcana",
+          "q": "common",
+          "ico": "3622205",
+          "reac": [
+            [
+              "Chispa de hacedor",
+              1
+            ],
+            [
+              "Fragmento luminoso grande",
+              2
+            ],
+            [
+              "Esencia eterna superior",
+              4
+            ]
+          ],
+          "desc": "Fabrica una forja Arcana.",
+          "obj": {
+            "efectos": [
+              "Usar: Coloca una forja Arcana que permite crear recetas que requieran esta mesa de trabajo y que ofrece todos los beneficios de un laúd encantado. Requiere una hoguera cercana. Se puede colocar sobre un laúd encantado para sustituirlo. Toda"
+            ],
+            "id": 279987,
+            "ilvl": 60,
+            "n": "Forja Arcana",
+            "q": "common",
+            "sub": "Otros"
+          },
+          "quien": []
+        }
+      ]
+    },
+    {
+      "nombre": "Reliquias",
+      "recetas": [
+        {
+          "id": 54403,
+          "n": "Champiñón místico",
+          "q": "rare",
+          "reac": [
+            [
+              "Fragmento de luz trémula pequeño",
+              1
+            ],
+            [
+              "Esencia mágica superior",
+              2
+            ],
+            [
+              "Polvo extraño",
+              5
+            ],
+            [
+              "Champiñón con motas rojas",
+              1
+            ]
+          ],
+          "desc": "Crea un champiñón místico.",
+          "obj": {
+            "efectos": [
+              "Equipar: Aumenta un 5% el espíritu."
+            ],
+            "id": 249396,
+            "ilvl": 25,
+            "lig": "Se liga al recogerlo",
+            "n": "Champiñón místico",
+            "q": "rare",
+            "ranura": "Reliquia",
+            "req": 20,
+            "sub": "Ídolo",
+            "venta": [
+              "0",
+              "4",
+              "99"
+            ]
+          },
+          "quien": []
+        },
+        {
+          "id": 54404,
+          "n": "Principios de la Mano de Plata",
+          "q": "rare",
+          "ico": "133745",
+          "reac": [
+            [
+              "Fragmento con luz trémula grande",
+              1
+            ],
+            [
+              "Esencia mágica superior",
+              1
+            ],
+            [
+              "Polvo extraño",
+              2
+            ],
+            [
+              "Pergamino de Protección",
+              5
+            ]
+          ],
+          "desc": "Crea una copia de los principios de la Mano de Plata.",
+          "obj": {
+            "efectos": [
+              "Equipar: Aumenta un 1% tu daño contra los no-muertos."
+            ],
+            "id": 249397,
+            "ilvl": 25,
+            "lig": "Se liga al recogerlo",
+            "n": "Principios de la Mano de Plata",
+            "q": "rare",
+            "ranura": "Reliquia",
+            "req": 20,
+            "sub": "Tratado",
+            "venta": [
+              "0",
+              "4",
+              "50"
+            ]
+          },
+          "quien": []
+        },
+        {
+          "id": 54405,
+          "n": "Icono de madera a la deriva pulido",
+          "q": "rare",
+          "ico": "310733",
+          "reac": [
+            [
+              "Fragmento con luz trémula grande",
+              1
+            ],
+            [
+              "Esencia mágica superior",
+              2
+            ],
+            [
+              "Polvo extraño",
+              3
+            ],
+            [
+              "Madera simple",
+              1
+            ]
+          ],
+          "desc": "Crea un icono de madera a la deriva pulido.",
+          "obj": {
+            "efectos": [
+              "Equipar: Permite que un 8% de la regeneración de maná continúe mientras lanzas hechizos."
+            ],
+            "id": 249398,
+            "ilvl": 25,
+            "lig": "Se liga al recogerlo",
+            "n": "Icono de madera a la deriva pulido",
+            "q": "rare",
+            "ranura": "Reliquia",
+            "req": 20,
+            "sub": "Tótem",
+            "venta": [
+              "0",
+              "4",
+              "99"
+            ]
+          },
+          "quien": []
+        },
+        {
+          "id": 54415,
+          "n": "Garfas de Cólera",
+          "q": "rare",
+          "ico": "136063",
+          "reac": [
+            [
+              "Fragmento radiante grande",
+              2
+            ],
+            [
+              "Esencia abisal superior",
+              4
+            ],
+            [
+              "Polvo onírico",
+              6
+            ],
+            [
+              "Tinte magenta",
+              2
+            ],
+            [
+              "Tinte cerúleo",
+              1
+            ],
+            [
+              "Madera de estrella",
+              1
+            ]
+          ],
+          "desc": "Crea unas garfas de Cólera.",
+          "obj": {
+            "efectos": [
+              "Equipar: Hace que Cólera tenga un 50% de probabilidad de restaurar 35 p. de maná."
+            ],
+            "id": 249441,
+            "ilvl": 45,
+            "lig": "Se liga al recogerlo",
+            "n": "Garfas de Cólera",
+            "q": "rare",
+            "ranura": "Reliquia",
+            "req": 40,
+            "sub": "Ídolo",
+            "venta": [
+              "0",
+              "20",
+              "1"
+            ]
+          },
+          "quien": []
+        },
+        {
+          "id": 54416,
+          "n": "Tratado sobre invocación",
+          "q": "rare",
+          "ico": "134916",
+          "reac": [
+            [
+              "Fragmento radiante grande",
+              3
+            ],
+            [
+              "Esencia abisal superior",
+              3
+            ],
+            [
+              "Polvo onírico",
+              4
+            ],
+            [
+              "Tinte magenta",
+              2
+            ],
+            [
+              "Tinte cerúleo",
+              1
+            ],
+            [
+              "Pergamino de Fuerza II",
+              4
+            ]
+          ],
+          "desc": "Crea un tratado sobre invocación.",
+          "obj": {
+            "efectos": [
+              "Equipar: Reduce 5 p. el coste de maná de tus hechizos de sello."
+            ],
+            "id": 249442,
+            "ilvl": 45,
+            "lig": "Se liga al recogerlo",
+            "n": "Tratado sobre invocación",
+            "q": "rare",
+            "ranura": "Reliquia",
+            "req": 40,
+            "sub": "Tratado",
+            "venta": [
+              "0",
+              "26",
+              "55"
+            ]
+          },
+          "quien": []
+        },
+        {
+          "id": 54417,
+          "n": "Tótem de protección ancestral",
+          "q": "rare",
+          "ico": "134919",
+          "reac": [
+            [
+              "Fragmento radiante grande",
+              4
+            ],
+            [
+              "Esencia abisal superior",
+              2
+            ],
+            [
+              "Polvo onírico",
+              2
+            ],
+            [
+              "Papel de lija",
+              4
+            ],
+            [
+              "Ácido sulfúrico",
+              2
+            ],
+            [
+              "Madera de estrella",
+              2
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Equipar: Reduce 1 s el tiempo de reutilización de Tótem derribador."
+            ],
+            "id": 249443,
+            "ilvl": 45,
+            "lig": "Se liga al recogerlo",
+            "n": "Tótem de protección ancestral",
+            "q": "rare",
+            "ranura": "Reliquia",
+            "req": 40,
+            "sub": "Tótem",
+            "venta": [
+              "0",
+              "47",
+              "52"
+            ]
+          },
+          "quien": []
+        },
+        {
+          "id": 54443,
+          "n": "Ídolo del Sueño",
+          "q": "rare",
+          "reac": [
+            [
+              "Fragmento luminoso grande",
+              2
+            ],
+            [
+              "Esencia eterna superior",
+              4
+            ],
+            [
+              "Polvo de ilusión",
+              6
+            ],
+            [
+              "Tinte viridiano",
+              8
+            ],
+            [
+              "Tinte magenta",
+              4
+            ],
+            [
+              "Tinte cerúleo",
+              2
+            ],
+            [
+              "Madera de estrella",
+              4
+            ]
+          ],
+          "desc": "Crea un ídolo del Sueño.",
+          "obj": {
+            "efectos": [
+              "Equipar: Aumenta 2 s la duración de Destripar."
+            ],
+            "id": 220606,
+            "ilvl": 60,
+            "lig": "Se liga al recogerlo",
+            "n": "Ídolo del Sueño",
+            "q": "rare",
+            "ranura": "Reliquia",
+            "req": 55,
+            "sub": "Ídolo",
+            "venta": [
+              "1",
+              "18",
+              "50"
+            ]
+          },
+          "quien": []
+        },
+        {
+          "id": 54444,
+          "n": "Tratado sobre prontitud sagrada",
+          "q": "rare",
+          "ico": "134916",
+          "reac": [
+            [
+              "Fragmento luminoso grande",
+              4
+            ],
+            [
+              "Esencia eterna superior",
+              3
+            ],
+            [
+              "Polvo de ilusión",
+              4
+            ],
+            [
+              "Tinte viridiano",
+              8
+            ],
+            [
+              "Tinte magenta",
+              4
+            ],
+            [
+              "Tinte cerúleo",
+              2
+            ],
+            [
+              "Pergamino de Intelecto IV",
+              4
+            ]
+          ],
+          "desc": "Crea un tratado sobre prontitud sagrada.",
+          "obj": {
+            "efectos": [
+              "Equipar: Hace que Choque Sagrado reduzca 0,2 s el tiempo de lanzamiento de la siguiente Luz Sagrada que lances en 10 s."
+            ],
+            "id": 228175,
+            "ilvl": 60,
+            "lig": "Se liga al recogerlo",
+            "n": "Tratado sobre prontitud sagrada",
+            "q": "rare",
+            "ranura": "Reliquia",
+            "req": 55,
+            "sub": "Tratado"
+          },
+          "quien": []
+        },
+        {
+          "id": 54445,
+          "n": "Tótem de trueno",
+          "q": "rare",
+          "ico": "134920",
+          "reac": [
+            [
+              "Fragmento luminoso grande",
+              1
+            ],
+            [
+              "Esencia eterna superior",
+              8
+            ],
+            [
+              "Polvo de ilusión",
+              10
+            ],
+            [
+              "Tinte viridiano",
+              8
+            ],
+            [
+              "Tinte magenta",
+              4
+            ],
+            [
+              "Tinte cerúleo",
+              2
+            ],
+            [
+              "Madera de estrella",
+              4
+            ]
+          ],
+          "desc": "Crea un tótem de trueno.",
+          "obj": {
+            "efectos": [
+              "Equipar: Aumenta un 1% la probabilidad de golpe crítico de Descarga de relámpagos."
+            ],
+            "id": 228176,
+            "ilvl": 65,
+            "lig": "Se liga al recogerlo",
+            "n": "Tótem de trueno",
+            "q": "rare",
+            "ranura": "Reliquia",
+            "req": 60,
+            "sub": "Tótem"
+          },
+          "quien": []
+        },
+        {
+          "id": 58878,
+          "n": "Tratado sobre firmeza",
+          "q": "epic",
+          "ico": "134915",
+          "reac": [
+            [
+              "Esencia maleable de la Naturaleza",
+              1
+            ],
+            [
+              "Cristal Nexus",
+              1
+            ],
+            [
+              "Esencia eterna superior",
+              2
+            ],
+            [
+              "Polvo de ilusión",
+              12
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Equipar: Aumenta un 30% el valor de bloqueo de tu escudo mientras Escudo Sagrado está activo."
+            ],
+            "id": 279247,
+            "ilvl": 65,
+            "lig": "Se liga al equiparlo",
+            "n": "Tratado sobre firmeza",
+            "q": "epic",
+            "ranura": "Reliquia",
+            "req": 60,
+            "sub": "Tratado",
+            "venta": [
+              "2",
+              "41",
+              "57"
+            ]
+          },
+          "quien": []
+        },
+        {
+          "id": 58879,
+          "n": "Tratado sobre infusión",
+          "q": "epic",
+          "ico": "133745",
+          "reac": [
+            [
+              "Esencia maleable de la Naturaleza",
+              1
+            ],
+            [
+              "Cristal Nexus",
+              1
+            ],
+            [
+              "Esencia eterna superior",
+              2
+            ],
+            [
+              "Polvo de ilusión",
+              12
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Equipar: Aumenta un 6% la probabilidad de golpe crítico de tu hechizo Choque Sagrado."
+            ],
+            "id": 279248,
+            "ilvl": 65,
+            "lig": "Se liga al equiparlo",
+            "n": "Tratado sobre infusión",
+            "q": "epic",
+            "ranura": "Reliquia",
+            "req": 60,
+            "sub": "Tratado",
+            "venta": [
+              "2",
+              "49",
+              "24"
+            ]
+          },
+          "quien": []
+        },
+        {
+          "id": 58880,
+          "n": "Tótem de urgencia",
+          "q": "epic",
+          "ico": "5927655",
+          "reac": [
+            [
+              "Esencia maleable de la Naturaleza",
+              1
+            ],
+            [
+              "Cristal Nexus",
+              1
+            ],
+            [
+              "Esencia eterna superior",
+              2
+            ],
+            [
+              "Polvo de ilusión",
+              12
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Equipar: Aumenta un 4% la probabilidad de golpe crítico de tu hechizo Ola de sanación inferior."
+            ],
+            "id": 279249,
+            "ilvl": 65,
+            "lig": "Se liga al equiparlo",
+            "n": "Tótem de urgencia",
+            "q": "epic",
+            "ranura": "Reliquia",
+            "req": 60,
+            "sub": "Tótem",
+            "venta": [
+              "2",
+              "50",
+              "15"
+            ]
+          },
+          "quien": []
+        },
+        {
+          "id": 58881,
+          "n": "Ídolo de presteza",
+          "q": "epic",
+          "ico": "236162",
+          "reac": [
+            [
+              "Esencia maleable de la Naturaleza",
+              1
+            ],
+            [
+              "Cristal Nexus",
+              1
+            ],
+            [
+              "Esencia eterna superior",
+              2
+            ],
+            [
+              "Polvo de ilusión",
+              12
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Equipar: Reduce 3 s el tiempo de reutilización de tu hechizo Alivio presto."
+            ],
+            "id": 279250,
+            "ilvl": 65,
+            "lig": "Se liga al equiparlo",
+            "n": "Ídolo de presteza",
+            "q": "epic",
+            "ranura": "Reliquia",
+            "req": 60,
+            "sub": "Ídolo",
+            "venta": [
+              "2",
+              "51",
+              "9"
+            ]
+          },
+          "quien": []
+        },
+        {
+          "id": 58882,
+          "n": "Ídolo de los gemelos osunos",
+          "q": "epic",
+          "reac": [
+            [
+              "Esencia maleable de la Naturaleza",
+              1
+            ],
+            [
+              "Cristal Nexus",
+              1
+            ],
+            [
+              "Esencia eterna superior",
+              2
+            ],
+            [
+              "Polvo de ilusión",
+              12
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Equipar: Your Lacerate hits have a 10% chance to reset the cooldown on Primal Bite."
+            ],
+            "id": 279251,
+            "ilvl": 65,
+            "lig": "Se liga al equiparlo",
+            "n": "Ídolo de los gemelos osunos",
+            "q": "epic",
+            "ranura": "Reliquia",
+            "req": 60,
+            "sub": "Ídolo",
+            "venta": [
+              "2",
+              "52",
+              "3"
+            ]
+          },
+          "quien": []
+        }
+      ]
+    },
+    {
+      "nombre": "Bastones",
+      "recetas": [
+        {
+          "id": 54409,
+          "n": "Bastón de luz trémula",
+          "q": "rare",
+          "ico": "135156",
+          "reac": [
+            [
+              "Fragmento con luz trémula grande",
+              4
+            ],
+            [
+              "Fragmento de luz trémula pequeño",
+              2
+            ],
+            [
+              "Madera de estrella",
+              4
+            ],
+            [
+              "Esencia astral superior",
+              1
+            ],
+            [
+              "Polvo extraño",
+              5
+            ],
+            [
+              "Pirita",
+              3
+            ]
+          ],
+          "desc": "Crea un bastón de luz trémula.",
+          "obj": {
+            "dano": "32 - 49 Daño",
+            "dps": "(18,4 daño por segundo)",
+            "id": 249392,
+            "ilvl": 30,
+            "lig": "Se liga al recogerlo",
+            "n": "Bastón de luz trémula",
+            "q": "rare",
+            "ranura": "Dos manos",
+            "req": 25,
+            "stats": [
+              "+11 intelecto",
+              "+11 aguante"
+            ],
+            "sub": "Bastón",
+            "vel": "Velocidad 2,20",
+            "venta": [
+              "0",
+              "6",
+              "1"
+            ]
+          },
+          "quien": []
+        },
+        {
+          "id": 54410,
+          "n": "Bastón de las almas",
+          "q": "rare",
+          "ico": "135168",
+          "reac": [
+            [
+              "Fragmento con luz trémula grande",
+              2
+            ],
+            [
+              "Fragmento de luz trémula pequeño",
+              1
+            ],
+            [
+              "Madera de estrella",
+              4
+            ],
+            [
+              "Esencia astral superior",
+              1
+            ],
+            [
+              "Polvo de alma",
+              6
+            ],
+            [
+              "Gema de las Sombras",
+              2
+            ]
+          ],
+          "desc": "Crea un bastón de las almas.",
+          "obj": {
+            "dano": "26 - 40 Daño",
+            "dps": "(18,3 daño por segundo)",
+            "id": 249393,
+            "ilvl": 30,
+            "lig": "Se liga al recogerlo",
+            "n": "Bastón de las almas",
+            "q": "rare",
+            "ranura": "Dos manos",
+            "req": 25,
+            "stats": [
+              "+11 aguante",
+              "+11 espíritu"
+            ],
+            "sub": "Bastón",
+            "vel": "Velocidad 1,80",
+            "venta": [
+              "0",
+              "6",
+              "1"
+            ]
+          },
+          "quien": []
+        },
+        {
+          "id": 54424,
+          "n": "Bastón radiante",
+          "q": "rare",
+          "ico": "135150",
+          "reac": [
+            [
+              "Fragmento radiante grande",
+              6
+            ],
+            [
+              "Fragmento radiante pequeño",
+              2
+            ],
+            [
+              "Madera de estrella",
+              4
+            ],
+            [
+              "Esencia abisal superior",
+              4
+            ],
+            [
+              "Polvo onírico",
+              6
+            ],
+            [
+              "Tinte cerúleo",
+              2
+            ],
+            [
+              "Tinte magenta",
+              4
+            ]
+          ],
+          "desc": "Crea un bastón radiante.",
+          "obj": {
+            "dano": "62 - 93 Daño",
+            "dps": "(32,3 daño por segundo)",
+            "id": 249453,
+            "ilvl": 50,
+            "lig": "Se liga al recogerlo",
+            "n": "Bastón radiante",
+            "q": "rare",
+            "ranura": "Dos manos",
+            "req": 45,
+            "stats": [
+              "+19 intelecto",
+              "+19 aguante"
+            ],
+            "sub": "Bastón",
+            "vel": "Velocidad 2,40",
+            "venta": [
+              "3",
+              "36",
+              "5"
+            ]
+          },
+          "quien": []
+        },
+        {
+          "id": 54425,
+          "n": "Bastonsueño",
+          "q": "rare",
+          "ico": "135151",
+          "reac": [
+            [
+              "Fragmento radiante grande",
+              4
+            ],
+            [
+              "Fragmento radiante pequeño",
+              4
+            ],
+            [
+              "Madera de estrella",
+              4
+            ],
+            [
+              "Esencia abisal superior",
+              6
+            ],
+            [
+              "Polvo onírico",
+              8
+            ],
+            [
+              "Tinte cerúleo",
+              2
+            ],
+            [
+              "Tinte magenta",
+              4
+            ]
+          ],
+          "desc": "Crea un bastonsueño.",
+          "obj": {
+            "dano": "62 - 93 Daño",
+            "dps": "(32,3 daño por segundo)",
+            "id": 249454,
+            "ilvl": 50,
+            "lig": "Se liga al recogerlo",
+            "n": "Bastonsueño",
+            "q": "rare",
+            "ranura": "Dos manos",
+            "req": 45,
+            "stats": [
+              "+19 aguante",
+              "+19 espíritu"
+            ],
+            "sub": "Bastón",
+            "vel": "Velocidad 2,40",
+            "venta": [
+              "3",
+              "37",
+              "31"
+            ]
+          },
+          "quien": []
+        }
+      ]
+    },
+    {
+      "nombre": "Mano izquierda",
+      "recetas": [
+        {
+          "id": 54411,
+          "n": "Orbe de perspicacia mística",
+          "q": "rare",
+          "ico": "1769010",
+          "reac": [
+            [
+              "Fragmento de luz trémula pequeño",
+              2
+            ],
+            [
+              "Esencia astral superior",
+              2
+            ],
+            [
+              "Polvo extraño",
+              5
+            ]
+          ],
+          "desc": "Crea un orbe de perspicacia mística.",
+          "obj": {
+            "id": 249394,
+            "ilvl": 30,
+            "lig": "Se liga al recogerlo",
+            "n": "Orbe de perspicacia mística",
+            "q": "rare",
+            "ranura": "Sostener con la mano izquierda",
+            "req": 25,
+            "stats": [
+              "+6 intelecto",
+              "+7 poder con hechizos"
+            ],
+            "sub": "Misceláneo",
+            "venta": [
+              "0",
+              "4",
+              "99"
+            ]
+          },
+          "quien": []
+        },
+        {
+          "id": 54412,
+          "n": "Orbe de almas",
+          "q": "rare",
+          "ico": "134336",
+          "reac": [
+            [
+              "Fragmento de luz trémula pequeño",
+              2
+            ],
+            [
+              "Esencia astral superior",
+              2
+            ],
+            [
+              "Polvo de alma",
+              2
+            ]
+          ],
+          "desc": "Crea un orbe de almas.",
+          "obj": {
+            "id": 249395,
+            "ilvl": 30,
+            "lig": "Se liga al recogerlo",
+            "n": "Orbe de almas",
+            "q": "rare",
+            "ranura": "Sostener con la mano izquierda",
+            "req": 25,
+            "stats": [
+              "+4 Daño con hechizos",
+              "+13 Sanación con hechizos",
+              "+6 espíritu"
+            ],
+            "sub": "Misceláneo",
+            "venta": [
+              "0",
+              "4",
+              "96"
+            ]
+          },
+          "quien": []
+        },
+        {
+          "id": 54426,
+          "n": "Conducto de veraplata",
+          "q": "rare",
+          "ico": "134922",
+          "reac": [
+            [
+              "Fragmento radiante grande",
+              3
+            ],
+            [
+              "Fragmento radiante pequeño",
+              1
+            ],
+            [
+              "Madera de estrella",
+              2
+            ],
+            [
+              "Esencia abisal superior",
+              2
+            ],
+            [
+              "Polvo onírico",
+              3
+            ],
+            [
+              "Tinte cerúleo",
+              1
+            ],
+            [
+              "Tinte magenta",
+              2
+            ]
+          ],
+          "desc": "Crea un conducto de veraplata.",
+          "obj": {
+            "id": 249455,
+            "ilvl": 50,
+            "lig": "Se liga al recogerlo",
+            "n": "Conducto de veraplata",
+            "q": "rare",
+            "ranura": "Sostener con la mano izquierda",
+            "req": 45,
+            "stats": [
+              "+8 intelecto",
+              "+8 aguante",
+              "+10 poder con hechizos"
+            ],
+            "sub": "Misceláneo",
+            "venta": [
+              "1",
+              "8",
+              "35"
+            ]
+          },
+          "quien": []
+        },
+        {
+          "id": 54427,
+          "n": "Tarro de esencia sinuosa",
+          "q": "rare",
+          "ico": "4638472",
+          "reac": [
+            [
+              "Lingote de veraplata",
+              4
+            ],
+            [
+              "Esencia abisal superior",
+              12
+            ],
+            [
+              "Esencia mística superior",
+              12
+            ],
+            [
+              "Tinte cerúleo",
+              1
+            ],
+            [
+              "Tinte magenta",
+              2
+            ]
+          ],
+          "desc": "Crea un tarro de esencia sinuosa.",
+          "obj": {
+            "id": 249456,
+            "ilvl": 50,
+            "lig": "Se liga al recogerlo",
+            "n": "Tarro de esencia sinuosa",
+            "q": "rare",
+            "ranura": "Sostener con la mano izquierda",
+            "req": 45,
+            "stats": [
+              "+8 aguante",
+              "+6 Daño con hechizos",
+              "+19 Sanación con hechizos",
+              "+8 espíritu"
+            ],
+            "sub": "Misceláneo",
+            "venta": [
+              "1",
+              "8",
+              "77"
+            ]
+          },
+          "quien": []
+        }
+      ]
+    },
+    {
+      "nombre": "Encantamientos de amuleto",
+      "recetas": [
+        {
+          "id": 54418,
+          "n": "Encantar collar: fuerza",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Esencia abisal superior",
+              4
+            ],
+            [
+              "Fragmento radiante grande",
+              4
+            ],
+            [
+              "Polvo onírico",
+              10
+            ],
+            [
+              "Ácido sulfúrico",
+              4
+            ],
+            [
+              "Bauxita",
+              4
+            ]
+          ],
+          "desc": "Encanta de forma permanente un collar para otorgar +5 p. de fuerza.",
+          "quien": []
+        },
+        {
+          "id": 54419,
+          "n": "Encantar collar: poder con hechizos",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Esencia abisal superior",
+              5
+            ],
+            [
+              "Fragmento radiante grande",
+              3
+            ],
+            [
+              "Polvo onírico",
+              8
+            ],
+            [
+              "Tinte cerúleo",
+              4
+            ],
+            [
+              "Tinte magenta",
+              4
+            ]
+          ],
+          "desc": "Encanta de forma permanente un collar para aumentar hasta 6 p. el daño con hechizos y la sanación.",
+          "quien": []
+        },
+        {
+          "id": 54420,
+          "n": "Encantar collar: poder de sanación",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Esencia abisal superior",
+              3
+            ],
+            [
+              "Fragmento radiante grande",
+              5
+            ],
+            [
+              "Polvo onírico",
+              4
+            ],
+            [
+              "Pirita",
+              4
+            ],
+            [
+              "Sombrerrosa",
+              4
+            ]
+          ],
+          "desc": "Encanta de forma permanente un collar para aumentar hasta 11 p. la sanación y hasta 4 p. el daño con hechizos.",
+          "quien": []
+        },
+        {
+          "id": 54422,
+          "n": "Encantar collar: agilidad",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Esencia abisal superior",
+              2
+            ],
+            [
+              "Fragmento radiante grande",
+              8
+            ],
+            [
+              "Polvo onírico",
+              6
+            ],
+            [
+              "Ácido sulfúrico",
+              4
+            ],
+            [
+              "Tinte magenta",
+              4
+            ]
+          ],
+          "desc": "Encanta de forma permanente un collar para otorgar +5 p. de agilidad.",
+          "quien": []
+        },
+        {
+          "id": 54423,
+          "n": "Encantar collar: desvío",
+          "q": "common",
+          "ico": "135913",
+          "reac": [
+            [
+              "Esencia abisal superior",
+              8
+            ],
+            [
+              "Fragmento radiante grande",
+              2
+            ],
+            [
+              "Polvo onírico",
+              2
+            ],
+            [
+              "Tinte cerúleo",
+              4
+            ],
+            [
+              "Tinte magenta",
+              4
+            ]
+          ],
+          "desc": "Encanta de forma permanente un collar para otorgar +5 p. a la habilidad en defensa.",
+          "quien": []
+        }
+      ]
+    }
+  ]
+}

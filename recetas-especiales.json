@@ -1,0 +1,1767 @@
+{
+  "actualizado": "2026-11-10",
+  "recetas": [
+    {
+      "id": 54692,
+      "n": "Botas de cobre con gemas",
+      "q": "rare",
+      "ico": "132554",
+      "reac": [
+        [
+          "Lingote de cobre",
+          2
+        ],
+        [
+          "Ojo de tigre",
+          2
+        ],
+        [
+          "Malaquita",
+          2
+        ],
+        [
+          "Cuero ligero",
+          4
+        ]
+      ],
+      "obj": {
+        "arm": "109 armadura",
+        "id": 250620,
+        "ilvl": 15,
+        "lig": "Se liga al recogerlo",
+        "n": "Botas de cobre con gemas",
+        "q": "rare",
+        "ranura": "Pies",
+        "req": 10,
+        "stats": [
+          "+4 fuerza",
+          "+4 aguante"
+        ],
+        "sub": "Mallas",
+        "venta": [
+          "0",
+          "4",
+          "1"
+        ]
+      },
+      "profesion": "Herrería",
+      "personajes": [
+        {
+          "n": "Aalesian Naeuri",
+          "clase": "warrior"
+        },
+        {
+          "n": "Espartaco Gladiador",
+          "clase": "warrior"
+        },
+        {
+          "n": "Tharindel Magnaluz",
+          "clase": "paladin"
+        },
+        {
+          "n": "Coloso Tempestad",
+          "clase": "warrior"
+        },
+        {
+          "n": "Khyoraku Shunsui",
+          "clase": "warrior"
+        },
+        {
+          "n": "Hugo Forjaluz",
+          "clase": "paladin"
+        }
+      ]
+    },
+    {
+      "id": 54693,
+      "n": "Botas de cobre extrañas",
+      "q": "rare",
+      "ico": "132582",
+      "reac": [
+        [
+          "Lingote de cobre",
+          2
+        ],
+        [
+          "Polvo extraño",
+          4
+        ],
+        [
+          "Cuero ligero",
+          2
+        ]
+      ],
+      "obj": {
+        "arm": "109 armadura",
+        "id": 250621,
+        "ilvl": 15,
+        "lig": "Se liga al recogerlo",
+        "n": "Botas de cobre extrañas",
+        "q": "rare",
+        "ranura": "Pies",
+        "req": 10,
+        "stats": [
+          "+4 aguante",
+          "+5 poder con hechizos"
+        ],
+        "sub": "Mallas",
+        "venta": [
+          "0",
+          "2",
+          "43"
+        ]
+      },
+      "profesion": "Herrería",
+      "personajes": [
+        {
+          "n": "Aalesian Naeuri",
+          "clase": "warrior"
+        },
+        {
+          "n": "Tharindel Magnaluz",
+          "clase": "paladin"
+        },
+        {
+          "n": "Coloso Tempestad",
+          "clase": "warrior"
+        },
+        {
+          "n": "Khyoraku Shunsui",
+          "clase": "warrior"
+        },
+        {
+          "n": "Hugo Forjaluz",
+          "clase": "paladin"
+        }
+      ]
+    },
+    {
+      "id": 54694,
+      "n": "Botas de cobre resplandecientes",
+      "q": "rare",
+      "ico": "132535",
+      "reac": [
+        [
+          "Lingote de cobre",
+          2
+        ],
+        [
+          "Esencia mágica inferior",
+          4
+        ],
+        [
+          "Cuero ligero",
+          2
+        ]
+      ],
+      "obj": {
+        "arm": "109 armadura",
+        "id": 250482,
+        "ilvl": 15,
+        "lig": "Se liga al recogerlo",
+        "n": "Botas de cobre resplandecientes",
+        "q": "rare",
+        "ranura": "Pies",
+        "req": 10,
+        "stats": [
+          "+4 intelecto",
+          "+3 Daño con hechizos",
+          "+9 Sanación con hechizos"
+        ],
+        "sub": "Mallas",
+        "venta": [
+          "0",
+          "2",
+          "56"
+        ]
+      },
+      "profesion": "Herrería",
+      "personajes": [
+        {
+          "n": "Aalesian Naeuri",
+          "clase": "warrior"
+        },
+        {
+          "n": "Tharindel Magnaluz",
+          "clase": "paladin"
+        },
+        {
+          "n": "Coloso Tempestad",
+          "clase": "warrior"
+        },
+        {
+          "n": "Khyoraku Shunsui",
+          "clase": "warrior"
+        },
+        {
+          "n": "Hugo Forjaluz",
+          "clase": "paladin"
+        }
+      ]
+    },
+    {
+      "id": 54726,
+      "n": "Cinturón de anillas de guardia",
+      "q": "rare",
+      "ico": "132504",
+      "reac": [
+        [
+          "Lingote de cobre",
+          12
+        ],
+        [
+          "Piedra de pulir férrea",
+          4
+        ],
+        [
+          "Cuero prístino",
+          2
+        ],
+        [
+          "Gema de las Sombras",
+          2
+        ]
+      ],
+      "obj": {
+        "arm": "98 armadura",
+        "id": 250514,
+        "ilvl": 17,
+        "lig": "Se liga al recogerlo",
+        "n": "Cinturón de anillas de guardia",
+        "q": "rare",
+        "ranura": "Cintura",
+        "req": 12,
+        "stats": [
+          "+4 fuerza",
+          "+4 aguante",
+          "+3 Defensa"
+        ],
+        "sub": "Mallas",
+        "venta": [
+          "0",
+          "3",
+          "36"
+        ]
+      },
+      "profesion": "Herrería",
+      "personajes": [
+        {
+          "n": "Coloso Tempestad",
+          "clase": "warrior"
+        }
+      ]
+    },
+    {
+      "id": 54769,
+      "n": "Cinturón de centinela",
+      "q": "rare",
+      "ico": "236895",
+      "reac": [
+        [
+          "Lingote de hierro",
+          6
+        ],
+        [
+          "Piedra de pulir pesada",
+          2
+        ],
+        [
+          "Loto morado",
+          2
+        ]
+      ],
+      "obj": {
+        "arm": "132 armadura",
+        "id": 250557,
+        "ilvl": 35,
+        "lig": "Se liga al recogerlo",
+        "n": "Cinturón de centinela",
+        "q": "rare",
+        "ranura": "Cintura",
+        "req": 30,
+        "stats": [
+          "+6 fuerza",
+          "+10 aguante",
+          "+7 Defensa"
+        ],
+        "sub": "Mallas",
+        "venta": [
+          "0",
+          "26",
+          "31"
+        ]
+      },
+      "profesion": "Herrería",
+      "personajes": [
+        {
+          "n": "Aalesian Naeuri",
+          "clase": "warrior"
+        }
+      ]
+    },
+    {
+      "id": 54768,
+      "n": "Cinturón de oficial",
+      "q": "rare",
+      "ico": "132509",
+      "reac": [
+        [
+          "Lingote de hierro",
+          6
+        ],
+        [
+          "Piedra de pulir pesada",
+          2
+        ],
+        [
+          "Jade",
+          2
+        ]
+      ],
+      "obj": {
+        "arm": "132 armadura",
+        "id": 250556,
+        "ilvl": 35,
+        "lig": "Se liga al recogerlo",
+        "n": "Cinturón de oficial",
+        "q": "rare",
+        "ranura": "Cintura",
+        "req": 30,
+        "stats": [
+          "+6 agilidad",
+          "+10 fuerza",
+          "+7 aguante"
+        ],
+        "sub": "Mallas",
+        "venta": [
+          "0",
+          "26",
+          "22"
+        ]
+      },
+      "profesion": "Herrería",
+      "personajes": [
+        {
+          "n": "Aalesian Naeuri",
+          "clase": "warrior"
+        }
+      ]
+    },
+    {
+      "id": 54707,
+      "n": "Leotardos de anillas de protector",
+      "q": "rare",
+      "ico": "134657",
+      "reac": [
+        [
+          "Lingote de bronce",
+          6
+        ],
+        [
+          "Piedra de pulir burda",
+          2
+        ],
+        [
+          "Ojo de tigre",
+          4
+        ]
+      ],
+      "obj": {
+        "arm": "176 armadura",
+        "id": 250495,
+        "ilvl": 25,
+        "lig": "Se liga al recogerlo",
+        "n": "Leotardos de anillas de protector",
+        "q": "rare",
+        "ranura": "Piernas",
+        "req": 20,
+        "stats": [
+          "+9 aguante",
+          "+5 Defensa",
+          "+6 poder con hechizos"
+        ],
+        "sub": "Mallas",
+        "venta": [
+          "0",
+          "7",
+          "88"
+        ]
+      },
+      "profesion": "Herrería",
+      "personajes": [
+        {
+          "n": "Espartaco Gladiador",
+          "clase": "warrior"
+        }
+      ]
+    },
+    {
+      "id": 1645,
+      "n": "Peto de plata resplandeciente",
+      "q": "rare",
+      "ico": "132750",
+      "reac": [
+        [
+          "Lingote de bronce",
+          20
+        ],
+        [
+          "Ágata musgosa",
+          2
+        ],
+        [
+          "Piedra lunar inferior",
+          2
+        ],
+        [
+          "Perla iridiscente",
+          2
+        ],
+        [
+          "Lingote de plata",
+          4
+        ]
+      ],
+      "obj": {
+        "arm": "214 armadura",
+        "id": 2870,
+        "ilvl": 29,
+        "lig": "Se liga al equiparlo",
+        "n": "Peto de plata lustrosa",
+        "q": "rare",
+        "ranura": "Pecho",
+        "req": 24,
+        "stats": [
+          "+14 fuerza",
+          "+6 aguante"
+        ],
+        "sub": "Mallas",
+        "venta": [
+          "0",
+          "29",
+          "35"
+        ]
+      },
+      "profesion": "Herrería",
+      "personajes": [
+        {
+          "n": "Aalesian Naeuri",
+          "clase": "warrior"
+        }
+      ]
+    },
+    {
+      "id": 54742,
+      "n": "Yelmo de anillas bañado en plata de protector",
+      "q": "rare",
+      "ico": "136192",
+      "reac": [
+        [
+          "Lingote de bronce",
+          15
+        ],
+        [
+          "Piedra de pulir burda",
+          6
+        ],
+        [
+          "Lingote de plata",
+          4
+        ],
+        [
+          "Cuero prístino",
+          4
+        ],
+        [
+          "Ojo de tigre",
+          6
+        ]
+      ],
+      "obj": {
+        "arm": "163 armadura",
+        "id": 250530,
+        "ilvl": 25,
+        "lig": "Se liga al recogerlo",
+        "n": "Yelmo de anillas bañado en plata de protector",
+        "q": "rare",
+        "ranura": "Cabeza",
+        "req": 20,
+        "stats": [
+          "+9 aguante",
+          "+7 Defensa"
+        ],
+        "sub": "Mallas",
+        "venta": [
+          "0",
+          "14",
+          "50"
+        ]
+      },
+      "profesion": "Herrería",
+      "personajes": [
+        {
+          "n": "Espartaco Gladiador",
+          "clase": "warrior"
+        }
+      ]
+    },
+    {
+      "id": 54713,
+      "n": "Yelmo de anillas de acólito",
+      "q": "rare",
+      "ico": "133138",
+      "reac": [
+        [
+          "Lingote de bronce",
+          8
+        ],
+        [
+          "Piedra de pulir burda",
+          2
+        ],
+        [
+          "Polvo extraño",
+          6
+        ]
+      ],
+      "obj": {
+        "arm": "177 armadura",
+        "id": 250501,
+        "ilvl": 30,
+        "lig": "Se liga al recogerlo",
+        "n": "Yelmo de anillas de acólito",
+        "q": "rare",
+        "ranura": "Cabeza",
+        "req": 25,
+        "stats": [
+          "+11 aguante",
+          "+8 Daño con hechizos",
+          "+25 Sanación con hechizos"
+        ],
+        "sub": "Mallas",
+        "venta": [
+          "0",
+          "10",
+          "88"
+        ]
+      },
+      "profesion": "Herrería",
+      "personajes": [
+        {
+          "n": "Aalesian Naeuri",
+          "clase": "warrior"
+        }
+      ]
+    },
+    {
+      "id": 55197,
+      "n": "Armadura de cuero de camorrista",
+      "q": "rare",
+      "ico": "136235",
+      "reac": [
+        [
+          "Cuero ligero",
+          16
+        ],
+        [
+          "Pellejo ligero curado",
+          2
+        ],
+        [
+          "Gema de las Sombras",
+          1
+        ]
+      ],
+      "obj": {
+        "arm": "85 armadura",
+        "id": 252490,
+        "ilvl": 20,
+        "lig": "Se liga al recogerlo",
+        "n": "Armadura de cuero de camorrista",
+        "q": "rare",
+        "ranura": "Pecho",
+        "req": 15,
+        "stats": [
+          "+7 agilidad",
+          "+5 fuerza",
+          "+3 aguante",
+          "+3 espíritu"
+        ],
+        "sub": "Cuero",
+        "venta": [
+          "0",
+          "8",
+          "60"
+        ]
+      },
+      "profesion": "Peletería",
+      "personajes": [
+        {
+          "n": "Memas Tour",
+          "clase": "shaman"
+        }
+      ]
+    },
+    {
+      "id": 55196,
+      "n": "Armadura de cuero de trampero",
+      "q": "rare",
+      "ico": "132723",
+      "reac": [
+        [
+          "Cuero ligero",
+          16
+        ],
+        [
+          "Pellejo ligero curado",
+          2
+        ],
+        [
+          "Escama desviada",
+          1
+        ]
+      ],
+      "obj": {
+        "arm": "85 armadura",
+        "id": 252491,
+        "ilvl": 20,
+        "lig": "Se liga al recogerlo",
+        "n": "Armadura de cuero de trampero",
+        "q": "rare",
+        "ranura": "Pecho",
+        "req": 15,
+        "stats": [
+          "+3 intelecto",
+          "+7 agilidad",
+          "+5 aguante",
+          "+3 espíritu"
+        ],
+        "sub": "Cuero",
+        "venta": [
+          "0",
+          "8",
+          "63"
+        ]
+      },
+      "profesion": "Peletería",
+      "personajes": [
+        {
+          "n": "Memas Tour",
+          "clase": "shaman"
+        },
+        {
+          "n": "Aurelio Amador",
+          "clase": "rogue"
+        }
+      ]
+    },
+    {
+      "id": 55206,
+      "n": "Botas de cuero oscuro",
+      "q": "rare",
+      "ico": "132539",
+      "reac": [
+        [
+          "Cuero ligero",
+          24
+        ],
+        [
+          "Pellejo ligero curado",
+          2
+        ],
+        [
+          "Tinte gris",
+          1
+        ]
+      ],
+      "obj": {
+        "arm": "53 armadura",
+        "id": 252425,
+        "ilvl": 15,
+        "lig": "Se liga al recogerlo",
+        "n": "Botas de cuero oscuro",
+        "q": "rare",
+        "ranura": "Pies",
+        "req": 10,
+        "stats": [
+          "+4 agilidad",
+          "+4 aguante"
+        ],
+        "sub": "Cuero",
+        "venta": [
+          "0",
+          "3",
+          "7"
+        ]
+      },
+      "profesion": "Peletería",
+      "personajes": [
+        {
+          "n": "Memas Tour",
+          "clase": "shaman"
+        },
+        {
+          "n": "Palmira Natblida",
+          "clase": "rogue"
+        },
+        {
+          "n": "Edoras Duskranger",
+          "clase": "hunter"
+        },
+        {
+          "n": "Aurelio Amador",
+          "clase": "rogue"
+        },
+        {
+          "n": "Manelhon Gargon",
+          "clase": "shaman"
+        },
+        {
+          "n": "Lithanas Chafardero",
+          "clase": "rogue"
+        },
+        {
+          "n": "Ildaren Belisar",
+          "clase": "rogue"
+        },
+        {
+          "n": "Runa Ruina",
+          "clase": "shaman"
+        }
+      ]
+    },
+    {
+      "id": 55204,
+      "n": "Botas de resplandor lunar",
+      "q": "rare",
+      "ico": "132560",
+      "reac": [
+        [
+          "Cuero ligero",
+          12
+        ],
+        [
+          "Pellejo ligero curado",
+          2
+        ],
+        [
+          "Perla lustrosa pequeña",
+          1
+        ]
+      ],
+      "obj": {
+        "arm": "53 armadura",
+        "id": 252427,
+        "ilvl": 15,
+        "lig": "Se liga al recogerlo",
+        "n": "Botas de resplandor lunar",
+        "q": "rare",
+        "ranura": "Pies",
+        "req": 10,
+        "stats": [
+          "+4 aguante",
+          "+5 poder con hechizos"
+        ],
+        "sub": "Cuero",
+        "venta": [
+          "0",
+          "3",
+          "9"
+        ]
+      },
+      "profesion": "Peletería",
+      "personajes": [
+        {
+          "n": "Memas Tour",
+          "clase": "shaman"
+        },
+        {
+          "n": "Palmira Natblida",
+          "clase": "rogue"
+        },
+        {
+          "n": "Lithanas Chafardero",
+          "clase": "rogue"
+        },
+        {
+          "n": "Ildaren Belisar",
+          "clase": "rogue"
+        },
+        {
+          "n": "Runa Ruina",
+          "clase": "shaman"
+        }
+      ]
+    },
+    {
+      "id": 55170,
+      "n": "Caperuza de cuero de camorrista",
+      "q": "rare",
+      "ico": "133133",
+      "reac": [
+        [
+          "Cuero medio",
+          8
+        ],
+        [
+          "Pellejo medio curado",
+          2
+        ],
+        [
+          "Cuero prístino",
+          4
+        ],
+        [
+          "Hilo refinado",
+          2
+        ],
+        [
+          "Gema de las Sombras",
+          4
+        ]
+      ],
+      "obj": {
+        "arm": "76 armadura",
+        "id": 252504,
+        "ilvl": 25,
+        "lig": "Se liga al recogerlo",
+        "n": "Caperuza de cuero de camorrista",
+        "q": "rare",
+        "ranura": "Cabeza",
+        "req": 20,
+        "stats": [
+          "+8 agilidad",
+          "+10 aguante"
+        ],
+        "sub": "Cuero",
+        "venta": [
+          "0",
+          "12",
+          "6"
+        ]
+      },
+      "profesion": "Peletería",
+      "personajes": [
+        {
+          "n": "Aurelio Amador",
+          "clase": "rogue"
+        }
+      ]
+    },
+    {
+      "id": 55203,
+      "n": "Cinturón de cuero de camorrista",
+      "q": "rare",
+      "ico": "132493",
+      "reac": [
+        [
+          "Cuero ligero",
+          10
+        ],
+        [
+          "Pellejo ligero curado",
+          2
+        ],
+        [
+          "Cuero prístino",
+          2
+        ],
+        [
+          "Hilo burdo",
+          1
+        ],
+        [
+          "Gema de las Sombras",
+          1
+        ]
+      ],
+      "obj": {
+        "arm": "45 armadura",
+        "id": 252428,
+        "ilvl": 17,
+        "lig": "Se liga al recogerlo",
+        "n": "Cinturón de cuero de camorrista",
+        "q": "rare",
+        "ranura": "Cintura",
+        "req": 12,
+        "stats": [
+          "+4 agilidad",
+          "+4 fuerza",
+          "+3 aguante"
+        ],
+        "sub": "Cuero",
+        "venta": [
+          "0",
+          "2",
+          "75"
+        ]
+      },
+      "profesion": "Peletería",
+      "personajes": [
+        {
+          "n": "Aurelio Amador",
+          "clase": "rogue"
+        }
+      ]
+    },
+    {
+      "id": 4419,
+      "n": "Cinturón de escamas descarriadas",
+      "q": "rare",
+      "ico": "132498",
+      "reac": [
+        [
+          "Escama desviada perfecta",
+          10
+        ],
+        [
+          "Escama desviada",
+          10
+        ],
+        [
+          "Hilo refinado",
+          2
+        ]
+      ],
+      "obj": {
+        "arm": "51 armadura",
+        "id": 6468,
+        "ilvl": 23,
+        "lig": "Se liga al equiparlo",
+        "n": "Cinturón de escamas desviadas",
+        "q": "rare",
+        "ranura": "Cintura",
+        "req": 18,
+        "stats": [
+          "+5 agilidad",
+          "+3 fuerza",
+          "+6 aguante"
+        ],
+        "sub": "Cuero",
+        "venta": [
+          "0",
+          "6",
+          "58"
+        ]
+      },
+      "profesion": "Peletería",
+      "personajes": [
+        {
+          "n": "Palmira Natblida",
+          "clase": "rogue"
+        },
+        {
+          "n": "Edoras Duskranger",
+          "clase": "hunter"
+        }
+      ]
+    },
+    {
+      "id": 55191,
+      "n": "Guantes de cuero de camorrista",
+      "q": "rare",
+      "ico": "132955",
+      "reac": [
+        [
+          "Cuero ligero",
+          12
+        ],
+        [
+          "Pellejo ligero curado",
+          3
+        ],
+        [
+          "Cuero prístino",
+          2
+        ],
+        [
+          "Hilo refinado",
+          1
+        ],
+        [
+          "Gema de las Sombras",
+          2
+        ]
+      ],
+      "obj": {
+        "arm": "53 armadura",
+        "id": 252494,
+        "ilvl": 20,
+        "lig": "Se liga al recogerlo",
+        "n": "Guantes de cuero de camorrista",
+        "q": "rare",
+        "ranura": "Manos",
+        "req": 15,
+        "stats": [
+          "+4 agilidad",
+          "+4 fuerza",
+          "+3 aguante"
+        ],
+        "sub": "Cuero",
+        "venta": [
+          "0",
+          "4",
+          "39"
+        ]
+      },
+      "profesion": "Peletería",
+      "personajes": [
+        {
+          "n": "Aurelio Amador",
+          "clase": "rogue"
+        }
+      ]
+    },
+    {
+      "id": 2179,
+      "n": "Guantes de cuero fortalecido",
+      "q": "rare",
+      "ico": "132958",
+      "reac": [
+        [
+          "Cuero medio",
+          4
+        ],
+        [
+          "Pellejo medio curado",
+          2
+        ],
+        [
+          "Elixir de defensa inferior",
+          2
+        ],
+        [
+          "Seda de araña",
+          2
+        ],
+        [
+          "Hilo refinado",
+          2
+        ]
+      ],
+      "obj": {
+        "arm": "61 armadura",
+        "id": 4253,
+        "ilvl": 27,
+        "lig": "Se liga al equiparlo",
+        "n": "Guantes de cuero fortalecido",
+        "q": "rare",
+        "ranura": "Manos",
+        "req": 22,
+        "stats": [
+          "+6 agilidad",
+          "+6 fuerza",
+          "+3 aguante"
+        ],
+        "sub": "Cuero",
+        "venta": [
+          "0",
+          "9",
+          "62"
+        ]
+      },
+      "profesion": "Peletería",
+      "personajes": [
+        {
+          "n": "Diana Flechaveloz",
+          "clase": "hunter"
+        },
+        {
+          "n": "Memas Tour",
+          "clase": "shaman"
+        },
+        {
+          "n": "Palmira Natblida",
+          "clase": "rogue"
+        }
+      ]
+    },
+    {
+      "id": 55176,
+      "n": "Pantalones de cuero de camorrista",
+      "q": "rare",
+      "ico": "134586",
+      "reac": [
+        [
+          "Cuero medio",
+          8
+        ],
+        [
+          "Pellejo ligero curado",
+          4
+        ],
+        [
+          "Gema de las Sombras",
+          2
+        ]
+      ],
+      "obj": {
+        "arm": "82 armadura",
+        "id": 252500,
+        "ilvl": 25,
+        "lig": "Se liga al recogerlo",
+        "n": "Pantalones de cuero de camorrista",
+        "q": "rare",
+        "ranura": "Piernas",
+        "req": 20,
+        "stats": [
+          "+9 agilidad",
+          "+6 fuerza",
+          "+4 aguante",
+          "+4 espíritu"
+        ],
+        "sub": "Cuero",
+        "venta": [
+          "0",
+          "17",
+          "0"
+        ]
+      },
+      "profesion": "Peletería",
+      "personajes": [
+        {
+          "n": "Edoras Duskranger",
+          "clase": "hunter"
+        }
+      ]
+    },
+    {
+      "id": 55173,
+      "n": "Pantalones de cuero totémicos",
+      "q": "rare",
+      "ico": "134581",
+      "reac": [
+        [
+          "Cuero medio",
+          8
+        ],
+        [
+          "Pellejo ligero curado",
+          4
+        ],
+        [
+          "Ácido sulfúrico",
+          2
+        ]
+      ],
+      "obj": {
+        "arm": "82 armadura",
+        "id": 252446,
+        "ilvl": 25,
+        "lig": "Se liga al recogerlo",
+        "n": "Pantalones de cuero totémicos",
+        "q": "rare",
+        "ranura": "Piernas",
+        "req": 20,
+        "stats": [
+          "+4 intelecto",
+          "+9 fuerza",
+          "+4 aguante",
+          "+7 poder con hechizos"
+        ],
+        "sub": "Cuero",
+        "venta": [
+          "0",
+          "15",
+          "74"
+        ]
+      },
+      "profesion": "Peletería",
+      "personajes": [
+        {
+          "n": "Edoras Duskranger",
+          "clase": "hunter"
+        }
+      ]
+    },
+    {
+      "id": 55207,
+      "n": "Zapatillas de cría negra",
+      "q": "rare",
+      "ico": "321409",
+      "reac": [
+        [
+          "Cuero ligero",
+          12
+        ],
+        [
+          "Pellejo ligero curado",
+          2
+        ],
+        [
+          "Escama de cría negra",
+          2
+        ]
+      ],
+      "obj": {
+        "arm": "53 armadura",
+        "id": 252424,
+        "ilvl": 15,
+        "lig": "Se liga al recogerlo",
+        "n": "Zapatillas de cría negra",
+        "q": "rare",
+        "ranura": "Pies",
+        "req": 10,
+        "stats": [
+          "+4 intelecto",
+          "+3 Daño con hechizos",
+          "+9 Sanación con hechizos"
+        ],
+        "sub": "Cuero",
+        "venta": [
+          "0",
+          "3",
+          "6"
+        ]
+      },
+      "profesion": "Peletería",
+      "personajes": [
+        {
+          "n": "Memas Tour",
+          "clase": "shaman"
+        },
+        {
+          "n": "Palmira Natblida",
+          "clase": "rogue"
+        },
+        {
+          "n": "Lithanas Chafardero",
+          "clase": "rogue"
+        },
+        {
+          "n": "Ildaren Belisar",
+          "clase": "rogue"
+        },
+        {
+          "n": "Runa Ruina",
+          "clase": "shaman"
+        }
+      ]
+    },
+    {
+      "id": 55205,
+      "n": "Zapatos de escamas de múrloc",
+      "q": "rare",
+      "ico": "136235",
+      "reac": [
+        [
+          "Cuero ligero",
+          12
+        ],
+        [
+          "Pellejo ligero curado",
+          2
+        ],
+        [
+          "Escama de múrloc babosa",
+          4
+        ]
+      ],
+      "obj": {
+        "arm": "53 armadura",
+        "id": 252426,
+        "ilvl": 15,
+        "lig": "Se liga al recogerlo",
+        "n": "Zapatos de escamas de múrloc",
+        "q": "rare",
+        "ranura": "Pies",
+        "req": 10,
+        "stats": [
+          "+4 fuerza",
+          "+4 aguante"
+        ],
+        "sub": "Cuero",
+        "venta": [
+          "0",
+          "3",
+          "8"
+        ]
+      },
+      "profesion": "Peletería",
+      "personajes": [
+        {
+          "n": "Memas Tour",
+          "clase": "shaman"
+        },
+        {
+          "n": "Palmira Natblida",
+          "clase": "rogue"
+        },
+        {
+          "n": "Lithanas Chafardero",
+          "clase": "rogue"
+        },
+        {
+          "n": "Ildaren Belisar",
+          "clase": "rogue"
+        },
+        {
+          "n": "Runa Ruina",
+          "clase": "shaman"
+        }
+      ]
+    },
+    {
+      "id": 2391,
+      "n": "Botas de sedarácnida",
+      "q": "rare",
+      "ico": "132539",
+      "reac": [
+        [
+          "Madeja de paño de seda",
+          2
+        ],
+        [
+          "Cuero medio",
+          4
+        ],
+        [
+          "Seda de araña",
+          4
+        ],
+        [
+          "Perla iridiscente",
+          1
+        ]
+      ],
+      "obj": {
+        "arm": "29 armadura",
+        "id": 4320,
+        "ilvl": 25,
+        "lig": "Se liga al equiparlo",
+        "n": "Botas de seda de araña",
+        "q": "rare",
+        "ranura": "Pies",
+        "req": 20,
+        "stats": [
+          "+4 intelecto",
+          "+4 aguante",
+          "+7 poder con hechizos"
+        ],
+        "sub": "Tela",
+        "venta": [
+          "0",
+          "9",
+          "79"
+        ]
+      },
+      "profesion": "Sastrería",
+      "personajes": [
+        {
+          "n": "Finn Felagund",
+          "clase": "priest"
+        },
+        {
+          "n": "Dum Bo",
+          "clase": "mage"
+        },
+        {
+          "n": "Nimassus Pater",
+          "clase": "priest"
+        }
+      ]
+    },
+    {
+      "id": 55455,
+      "n": "Diadema prístina",
+      "q": "rare",
+      "ico": "132767",
+      "reac": [
+        [
+          "Madeja de paño de seda",
+          10
+        ],
+        [
+          "Hilo de seda",
+          2
+        ],
+        [
+          "Tinte cerúleo",
+          4
+        ],
+        [
+          "Cuero prístino",
+          4
+        ],
+        [
+          "Lingote de plata",
+          1
+        ],
+        [
+          "Esencia astral superior",
+          2
+        ]
+      ],
+      "obj": {
+        "arm": "35 armadura",
+        "id": 253949,
+        "ilvl": 25,
+        "lig": "Se liga al recogerlo",
+        "n": "Diadema prístina",
+        "q": "rare",
+        "ranura": "Cabeza",
+        "req": 20,
+        "stats": [
+          "+10 aguante",
+          "+6 Daño con hechizos",
+          "+18 Sanación con hechizos"
+        ],
+        "sub": "Tela",
+        "venta": [
+          "0",
+          "9",
+          "48"
+        ]
+      },
+      "profesion": "Sastrería",
+      "personajes": [
+        {
+          "n": "Finn Felagund",
+          "clase": "priest"
+        }
+      ]
+    },
+    {
+      "id": 55423,
+      "n": "Fajín de arcanista novicio",
+      "q": "rare",
+      "ico": "236919",
+      "reac": [
+        [
+          "Madeja de paño de lino",
+          8
+        ],
+        [
+          "Hilo refinado",
+          2
+        ],
+        [
+          "Poción de maná menor",
+          2
+        ]
+      ],
+      "obj": {
+        "arm": "17 armadura",
+        "id": 253885,
+        "ilvl": 15,
+        "lig": "Se liga al recogerlo",
+        "n": "Fajín de arcanista novicio",
+        "q": "rare",
+        "ranura": "Cintura",
+        "req": 10,
+        "stats": [
+          "+3 intelecto",
+          "+3 aguante",
+          "+4 poder con hechizos"
+        ],
+        "sub": "Tela",
+        "venta": [
+          "0",
+          "1",
+          "74"
+        ]
+      },
+      "profesion": "Sastrería",
+      "personajes": [
+        {
+          "n": "Finn Felagund",
+          "clase": "priest"
+        },
+        {
+          "n": "Dum Bo",
+          "clase": "mage"
+        },
+        {
+          "n": "Saint Peligroxa",
+          "clase": "priest"
+        },
+        {
+          "n": "Thundrik Volgrim",
+          "clase": "priest"
+        },
+        {
+          "n": "Blind Minds",
+          "clase": "priest"
+        }
+      ]
+    },
+    {
+      "id": 55424,
+      "n": "Fajín de ferviente novicio",
+      "q": "rare",
+      "ico": "236918",
+      "reac": [
+        [
+          "Madeja de paño de lino",
+          12
+        ],
+        [
+          "Hilo refinado",
+          2
+        ],
+        [
+          "Poción de curación menor",
+          2
+        ]
+      ],
+      "obj": {
+        "arm": "17 armadura",
+        "id": 253887,
+        "ilvl": 15,
+        "lig": "Se liga al recogerlo",
+        "n": "Fajín de ferviente novicio",
+        "q": "rare",
+        "ranura": "Cintura",
+        "req": 10,
+        "stats": [
+          "+3 intelecto",
+          "+2 Daño con hechizos",
+          "+6 Sanación con hechizos",
+          "+3 espíritu"
+        ],
+        "sub": "Tela",
+        "venta": [
+          "0",
+          "1",
+          "76"
+        ]
+      },
+      "profesion": "Sastrería",
+      "personajes": [
+        {
+          "n": "Finn Felagund",
+          "clase": "priest"
+        },
+        {
+          "n": "Dum Bo",
+          "clase": "mage"
+        },
+        {
+          "n": "Nimassus Pater",
+          "clase": "priest"
+        },
+        {
+          "n": "Saint Peligroxa",
+          "clase": "priest"
+        },
+        {
+          "n": "Thundrik Volgrim",
+          "clase": "priest"
+        }
+      ]
+    },
+    {
+      "id": 55433,
+      "n": "Gonela de llamas de filigrana",
+      "q": "rare",
+      "ico": "132643",
+      "reac": [
+        [
+          "Madeja de paño de lana",
+          8
+        ],
+        [
+          "Hilo refinado",
+          4
+        ],
+        [
+          "Tinte cerúleo",
+          2
+        ],
+        [
+          "Aceite de fuego",
+          2
+        ]
+      ],
+      "obj": {
+        "arm": "37 armadura",
+        "id": 253905,
+        "ilvl": 20,
+        "lig": "Se liga al recogerlo",
+        "n": "Gonela de llamas de filigrana",
+        "q": "rare",
+        "ranura": "Pecho",
+        "req": 15,
+        "stats": [
+          "+5 intelecto",
+          "+4 aguante",
+          "+3 espíritu",
+          "+9 Daño de Fuego"
+        ],
+        "sub": "Tela",
+        "venta": [
+          "0",
+          "7",
+          "3"
+        ]
+      },
+      "profesion": "Sastrería",
+      "personajes": [
+        {
+          "n": "Dum Bo",
+          "clase": "mage"
+        }
+      ]
+    },
+    {
+      "id": 55432,
+      "n": "Gonela sedosa de filigrana",
+      "q": "rare",
+      "ico": "132644",
+      "reac": [
+        [
+          "Madeja de paño de lana",
+          8
+        ],
+        [
+          "Hilo refinado",
+          4
+        ],
+        [
+          "Tinte cerúleo",
+          2
+        ],
+        [
+          "Seda de araña",
+          2
+        ]
+      ],
+      "obj": {
+        "arm": "37 armadura",
+        "id": 253903,
+        "ilvl": 20,
+        "lig": "Se liga al recogerlo",
+        "n": "Gonela sedosa de filigrana",
+        "q": "rare",
+        "ranura": "Pecho",
+        "req": 15,
+        "stats": [
+          "+5 intelecto",
+          "+4 aguante",
+          "+3 espíritu",
+          "+9 Daño de Escarcha"
+        ],
+        "sub": "Tela",
+        "venta": [
+          "0",
+          "6",
+          "98"
+        ]
+      },
+      "profesion": "Sastrería",
+      "personajes": [
+        {
+          "n": "Finn Felagund",
+          "clase": "priest"
+        }
+      ]
+    },
+    {
+      "id": 55454,
+      "n": "Leotardos brillantes de filigrana",
+      "q": "rare",
+      "ico": "134595",
+      "reac": [
+        [
+          "Madeja de paño de seda",
+          8
+        ],
+        [
+          "Hilo refinado",
+          4
+        ],
+        [
+          "Tinte cerúleo",
+          2
+        ],
+        [
+          "Pirita",
+          4
+        ]
+      ],
+      "obj": {
+        "arm": "37 armadura",
+        "id": 253947,
+        "ilvl": 25,
+        "lig": "Se liga al recogerlo",
+        "n": "Leotardos brillantes de filigrana",
+        "q": "rare",
+        "ranura": "Piernas",
+        "req": 20,
+        "stats": [
+          "+6 intelecto",
+          "+5 aguante",
+          "+4 espíritu",
+          "+11 Daño Sagrado"
+        ],
+        "sub": "Tela",
+        "venta": [
+          "0",
+          "13",
+          "51"
+        ]
+      },
+      "profesion": "Sastrería",
+      "personajes": [
+        {
+          "n": "Dum Bo",
+          "clase": "mage"
+        }
+      ]
+    },
+    {
+      "id": 55449,
+      "n": "Leotardos prístinos de filigrana",
+      "q": "rare",
+      "ico": "134581",
+      "reac": [
+        [
+          "Madeja de paño de seda",
+          8
+        ],
+        [
+          "Hilo refinado",
+          4
+        ],
+        [
+          "Tinte cerúleo",
+          2
+        ],
+        [
+          "Cuero prístino",
+          4
+        ]
+      ],
+      "obj": {
+        "arm": "37 armadura",
+        "id": 253937,
+        "ilvl": 25,
+        "lig": "Se liga al recogerlo",
+        "n": "Leotardos prístinos de filigrana",
+        "q": "rare",
+        "ranura": "Piernas",
+        "req": 20,
+        "stats": [
+          "+6 intelecto",
+          "+5 aguante",
+          "+6 Daño con hechizos",
+          "+18 Sanación con hechizos",
+          "+4 espíritu"
+        ],
+        "sub": "Tela",
+        "venta": [
+          "0",
+          "13",
+          "3"
+        ]
+      },
+      "profesion": "Sastrería",
+      "personajes": [
+        {
+          "n": "Nimassus Pater",
+          "clase": "priest"
+        }
+      ]
+    }
+  ]
+}
