@@ -1,0 +1,35 @@
+name: Catálogo de profesiones (Blizzard)
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "41 4 * * 1"   # los lunes de madrugada, por si Blizzard añade recetas
+
+permissions:
+  contents: write
+
+concurrency:
+  group: roster        # no pisarse con el robot de cada hora al hacer commit
+  cancel-in-progress: false
+
+jobs:
+  catalogo:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+      - name: Descargar catálogo e iconos
+        env:
+          BLIZZARD_CLIENT_ID: ${{ secrets.BLIZZARD_CLIENT_ID }}
+          BLIZZARD_CLIENT_SECRET: ${{ secrets.BLIZZARD_CLIENT_SECRET }}
+          LIMITE_SEGUNDOS: "4800"
+        run: python3 scripts/catalogo_blizzard.py
+      - name: Guardar
+        run: |
+          git add datos/catalogo.json img/iconos 2>/dev/null || true
+          if git diff --cached --quiet; then echo "Sin cambios"; exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Catálogo de profesiones (Blizzard)"
+          git pull --rebase -q origin main
+          git push
