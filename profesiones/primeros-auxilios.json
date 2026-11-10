@@ -298,8 +298,30 @@
       "recetas": [
         {
           "id": 1838,
-          "n": "",
+          "n": "Vendaje de lino",
           "q": "common",
+          "ico": "133685",
+          "reac": [
+            [
+              "Paño de lino",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Cura 66 p. de daño durante 6 s."
+            ],
+            "id": 1251,
+            "ilvl": 1,
+            "n": "Venda de lino",
+            "q": "common",
+            "sub": "Vendas",
+            "venta": [
+              "0",
+              "0",
+              "10"
+            ]
+          },
           "quien": [
             0,
             1,
@@ -341,8 +363,30 @@
         },
         {
           "id": 1839,
-          "n": "",
+          "n": "Vendaje pesado de lino",
           "q": "common",
+          "ico": "133688",
+          "reac": [
+            [
+              "Paño de lino",
+              2
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Cura 114 p. de daño durante 6 s."
+            ],
+            "id": 2581,
+            "ilvl": 1,
+            "n": "Venda de lino pesado",
+            "q": "common",
+            "sub": "Vendas",
+            "venta": [
+              "0",
+              "0",
+              "20"
+            ]
+          },
           "quien": [
             0,
             1,
@@ -372,8 +416,30 @@
         },
         {
           "id": 1840,
-          "n": "",
+          "n": "Vendaje de lana",
           "q": "common",
+          "ico": "133684",
+          "reac": [
+            [
+              "Paño de lana",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Cura 161 p. de daño durante 7 s."
+            ],
+            "id": 3530,
+            "ilvl": 1,
+            "n": "Venda de lana",
+            "q": "common",
+            "sub": "Vendas",
+            "venta": [
+              "0",
+              "0",
+              "28"
+            ]
+          },
           "quien": [
             0,
             1,
@@ -392,8 +458,30 @@
         },
         {
           "id": 1841,
-          "n": "",
+          "n": "Vendaje pesado de lana",
           "q": "common",
+          "ico": "133687",
+          "reac": [
+            [
+              "Paño de lana",
+              2
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Cura 301 p. de daño durante 7 s."
+            ],
+            "id": 3531,
+            "ilvl": 1,
+            "n": "Venda de lana pesada",
+            "q": "common",
+            "sub": "Vendas",
+            "venta": [
+              "0",
+              "0",
+              "57"
+            ]
+          },
           "quien": [
             0,
             1,
@@ -408,8 +496,29 @@
         },
         {
           "id": 4414,
-          "n": "",
+          "n": "Venda de seda",
           "q": "common",
+          "reac": [
+            [
+              "Paño de seda",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Cura 400 p. de daño durante 8 s."
+            ],
+            "id": 6450,
+            "ilvl": 1,
+            "n": "Venda de seda",
+            "q": "common",
+            "sub": "Vendas",
+            "venta": [
+              "0",
+              "2",
+              "0"
+            ]
+          },
           "quien": [
             0,
             1,
@@ -418,8 +527,30 @@
         },
         {
           "id": 4415,
-          "n": "",
+          "n": "Vendaje pesado de seda",
           "q": "common",
+          "ico": "133672",
+          "reac": [
+            [
+              "Paño de seda",
+              2
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Cura 640 p. de daño durante 8 s."
+            ],
+            "id": 6451,
+            "ilvl": 1,
+            "n": "Venda de seda pesada",
+            "q": "common",
+            "sub": "Vendas",
+            "venta": [
+              "0",
+              "4",
+              "0"
+            ]
+          },
           "quien": [
             0,
             1
@@ -427,40 +558,177 @@
         },
         {
           "id": 5767,
-          "n": "",
+          "n": "Vendaje de tejido mágico",
           "q": "common",
+          "ico": "133689",
+          "reac": [
+            [
+              "Tela de paño mágico",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Cura 800 p. de daño durante 8 s."
+            ],
+            "id": 8544,
+            "ilvl": 1,
+            "n": "Venda de tejido mágico",
+            "q": "common",
+            "sub": "Vendas",
+            "venta": [
+              "0",
+              "4",
+              "0"
+            ]
+          },
           "quien": [
             0
           ]
         },
         {
           "id": 5768,
-          "n": "",
+          "n": "Venda de tejido mágico gruesa",
           "q": "common",
+          "ico": "133690",
+          "reac": [
+            [
+              "Tela de paño mágico",
+              2
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Cura 1104 p. de daño durante 8 s."
+            ],
+            "id": 8545,
+            "ilvl": 1,
+            "n": "Venda de tejido mágico gruesa",
+            "q": "common",
+            "sub": "Vendas",
+            "venta": [
+              "0",
+              "6",
+              "0"
+            ]
+          },
           "quien": []
         },
         {
           "id": 10488,
-          "n": "",
+          "n": "Venda de paño rúnico",
           "q": "common",
+          "ico": "133681",
+          "reac": [
+            [
+              "Paño rúnico",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Cura 1360 p. de daño durante 8 s."
+            ],
+            "id": 14529,
+            "ilvl": 52,
+            "n": "Venda de paño rúnico",
+            "q": "common",
+            "sub": "Vendas",
+            "venta": [
+              "0",
+              "5",
+              "0"
+            ]
+          },
           "quien": []
         },
         {
           "id": 10489,
-          "n": "",
+          "n": "Vendaje pesado de paño rúnico",
           "q": "common",
+          "ico": "133682",
+          "reac": [
+            [
+              "Paño rúnico",
+              2
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Cura 2000 p. de daño durante 8 s."
+            ],
+            "id": 14530,
+            "ilvl": 58,
+            "n": "Venda de paño rúnico pesada",
+            "q": "common",
+            "sub": "Vendas",
+            "venta": [
+              "0",
+              "10",
+              "0"
+            ]
+          },
           "quien": []
         },
         {
           "id": 14274,
-          "n": "",
+          "n": "Venda de cristal imbuido",
           "q": "common",
+          "ico": "133686",
+          "reac": [
+            [
+              "",
+              1
+            ],
+            [
+              "Paño rúnico",
+              10
+            ]
+          ],
+          "cant": 4.0,
+          "obj": {
+            "efectos": [
+              "Usar: Sana 2500 p. de daño durante 10 s."
+            ],
+            "id": 23684,
+            "ilvl": 60,
+            "n": "Venda de cristal imbuido",
+            "q": "common",
+            "sub": "Vendas",
+            "venta": [
+              "0",
+              "15",
+              "0"
+            ]
+          },
           "quien": []
         },
         {
           "id": 51728,
-          "n": "",
+          "n": "Venda de paño rúnico densa",
           "q": "common",
+          "reac": [
+            [
+              "Venda de paño rúnico pesada",
+              2
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Sana 3400 p. de daño durante 8 s."
+            ],
+            "id": 232433,
+            "ilvl": 70,
+            "n": "Venda de paño rúnico densa",
+            "q": "common",
+            "req": 50,
+            "sub": "Otros",
+            "venta": [
+              "0",
+              "20",
+              "0"
+            ]
+          },
           "quien": []
         }
       ]
@@ -470,8 +738,31 @@
       "recetas": [
         {
           "id": 4417,
-          "n": "",
+          "n": "Antídoto",
           "q": "common",
+          "reac": [
+            [
+              "Glándula de veneno pequeña",
+              1
+            ]
+          ],
+          "cant": 3.0,
+          "desc": "Crea 3 viales de antídoto.",
+          "obj": {
+            "efectos": [
+              "Usar: El objetivo se cura de envenenamientos hasta el nivel 25. (1 min de tiempo de reutilización)."
+            ],
+            "id": 6452,
+            "ilvl": 16,
+            "n": "Antídoto",
+            "q": "common",
+            "sub": "Otros",
+            "venta": [
+              "0",
+              "0",
+              "28"
+            ]
+          },
           "quien": [
             1,
             2,
@@ -487,32 +778,164 @@
         },
         {
           "id": 4418,
-          "n": "",
+          "n": "Antídoto fuerte",
           "q": "common",
+          "reac": [
+            [
+              "Glándula de veneno grande",
+              1
+            ]
+          ],
+          "cant": 3.0,
+          "desc": "Crea 3 viales de antídoto fuerte.",
+          "obj": {
+            "efectos": [
+              "Usar: El objetivo se cura de envenenamientos hasta el nivel 35. (1 min de tiempo de reutilización)."
+            ],
+            "id": 6453,
+            "ilvl": 26,
+            "n": "Antídoto fuerte",
+            "q": "common",
+            "sub": "Otros",
+            "venta": [
+              "0",
+              "0",
+              "62"
+            ]
+          },
           "quien": []
         },
         {
           "id": 12716,
-          "n": "",
+          "n": "Antídoto potente",
           "q": "common",
+          "ico": "132801",
+          "reac": [
+            [
+              "Glándula de veneno enorme",
+              1
+            ]
+          ],
+          "cant": 3.0,
+          "desc": "Crea un vial de antídoto potente.",
+          "obj": {
+            "efectos": [
+              "Usar: El objetivo se cura de envenenamientos hasta el nivel 65. (1 min de tiempo de reutilización)."
+            ],
+            "id": 19440,
+            "ilvl": 58,
+            "n": "Antídoto potente",
+            "q": "common",
+            "sub": "Otros",
+            "venta": [
+              "0",
+              "5",
+              "0"
+            ]
+          },
           "quien": []
         },
         {
           "id": 55741,
-          "n": "",
+          "n": "Torniquete quirúrgico",
           "q": "common",
+          "ico": "133679",
+          "reac": [
+            [
+              "Cuero basto",
+              2
+            ],
+            [
+              "Paño rúnico",
+              2
+            ],
+            [
+              "Hilo de seda pesada",
+              2
+            ]
+          ],
+          "desc": "Crea un torniquete quirúrgico.",
+          "obj": {
+            "efectos": [
+              "Usar: El objetivo se cura del sangrado hasta el nivel 65. No se puede usar en combate. (1 min de tiempo de reutilización)."
+            ],
+            "id": 255722,
+            "ilvl": 58,
+            "n": "Torniquete quirúrgico",
+            "q": "common",
+            "sub": "Otros",
+            "venta": [
+              "0",
+              "5",
+              "0"
+            ]
+          },
           "quien": []
         },
         {
           "id": 55742,
-          "n": "",
+          "n": "Torniquete de cuero",
           "q": "common",
+          "ico": "133676",
+          "reac": [
+            [
+              "Cuero grueso",
+              2
+            ],
+            [
+              "Hilo de seda",
+              2
+            ]
+          ],
+          "desc": "Crea un torniquete de cuero.",
+          "obj": {
+            "efectos": [
+              "Usar: El objetivo se cura del sangrado hasta el nivel 45. No se puede usar en combate. (1 min de tiempo de reutilización)."
+            ],
+            "id": 255721,
+            "ilvl": 36,
+            "n": "Torniquete de cuero",
+            "q": "common",
+            "sub": "Otros",
+            "venta": [
+              "0",
+              "1",
+              "25"
+            ]
+          },
           "quien": []
         },
         {
           "id": 55743,
-          "n": "",
+          "n": "Torniquete de lana",
           "q": "common",
+          "ico": "133675",
+          "reac": [
+            [
+              "Paño de lana",
+              2
+            ],
+            [
+              "Hilo refinado",
+              2
+            ]
+          ],
+          "desc": "Crea un torniquete de lana.",
+          "obj": {
+            "efectos": [
+              "Usar: El objetivo se cura del sangrado hasta el nivel 30. No se puede usar en combate. (1 min de tiempo de reutilización)."
+            ],
+            "id": 255720,
+            "ilvl": 21,
+            "n": "Torniquete de lana",
+            "q": "common",
+            "sub": "Otros",
+            "venta": [
+              "0",
+              "0",
+              "50"
+            ]
+          },
           "quien": [
             1,
             2,
@@ -522,26 +945,150 @@
         },
         {
           "id": 55744,
-          "n": "",
+          "n": "Cataplasma poderosa",
           "q": "common",
+          "ico": "4554332",
+          "reac": [
+            [
+              "Esencia de agua",
+              1
+            ],
+            [
+              "Especias picantes",
+              1
+            ],
+            [
+              "Cántaro de hidromiel enana",
+              1
+            ]
+          ],
+          "cant": 3.0,
+          "obj": {
+            "efectos": [
+              "Usar: El objetivo se cura de enfermedades hasta el nivel 65. No se puede usar en combate. (1 min de tiempo de reutilización)."
+            ],
+            "id": 255719,
+            "ilvl": 58,
+            "n": "Cataplasma poderosa",
+            "q": "common",
+            "sub": "Otros",
+            "venta": [
+              "0",
+              "5",
+              "0"
+            ]
+          },
           "quien": []
         },
         {
           "id": 55745,
-          "n": "",
+          "n": "Cataplasma excelente",
           "q": "common",
+          "ico": "4554334",
+          "reac": [
+            [
+              "Elemental de agua",
+              1
+            ],
+            [
+              "Especias picantes",
+              1
+            ],
+            [
+              "Nata de cerveza enana",
+              1
+            ]
+          ],
+          "cant": 3.0,
+          "obj": {
+            "efectos": [
+              "Usar: El objetivo se cura de enfermedades hasta el nivel 45. No se puede usar en combate. (1 min de tiempo de reutilización)."
+            ],
+            "id": 255718,
+            "ilvl": 36,
+            "n": "Cataplasma excelente",
+            "q": "common",
+            "sub": "Otros",
+            "venta": [
+              "0",
+              "1",
+              "25"
+            ]
+          },
           "quien": []
         },
         {
           "id": 55746,
-          "n": "",
+          "n": "Cataplasma ingeniosa",
           "q": "common",
+          "ico": "4554335",
+          "reac": [
+            [
+              "Aleta de múrloc",
+              1
+            ],
+            [
+              "Especias calmantes",
+              1
+            ],
+            [
+              "Cerveza del Trueno",
+              1
+            ]
+          ],
+          "cant": 3.0,
+          "obj": {
+            "efectos": [
+              "Usar: El objetivo se cura de enfermedades hasta el nivel 35. No se puede usar en combate. (1 min de tiempo de reutilización)."
+            ],
+            "id": 255717,
+            "ilvl": 26,
+            "n": "Cataplasma ingeniosa",
+            "q": "common",
+            "sub": "Otros",
+            "venta": [
+              "0",
+              "0",
+              "62"
+            ]
+          },
           "quien": []
         },
         {
           "id": 55747,
-          "n": "",
+          "n": "Cataplasma sencilla",
           "q": "common",
+          "ico": "4554333",
+          "reac": [
+            [
+              "Icor de araña",
+              1
+            ],
+            [
+              "Especias suaves",
+              1
+            ],
+            [
+              "Botella de Dalaran Noir",
+              1
+            ]
+          ],
+          "cant": 3.0,
+          "obj": {
+            "efectos": [
+              "Usar: El objetivo se cura de enfermedades hasta el nivel 25. No se puede usar en combate. (1 min de tiempo de reutilización)."
+            ],
+            "id": 255716,
+            "ilvl": 16,
+            "n": "Cataplasma sencilla",
+            "q": "common",
+            "sub": "Otros",
+            "venta": [
+              "0",
+              "0",
+              "28"
+            ]
+          },
           "quien": [
             1,
             2,
@@ -556,8 +1103,31 @@
         },
         {
           "id": 55748,
-          "n": "",
+          "n": "Antídoto potente",
           "q": "common",
+          "ico": "132104",
+          "reac": [
+            [
+              "Glándula de veneno inflamada",
+              1
+            ]
+          ],
+          "cant": 3.0,
+          "obj": {
+            "efectos": [
+              "Usar: El objetivo se cura de envenenamientos hasta el nivel 45. (1 min de tiempo de reutilización)."
+            ],
+            "id": 255715,
+            "ilvl": 36,
+            "n": "Antídoto potente",
+            "q": "common",
+            "sub": "Otros",
+            "venta": [
+              "0",
+              "1",
+              "25"
+            ]
+          },
           "quien": []
         }
       ]
@@ -567,8 +1137,30 @@
       "recetas": [
         {
           "id": 52641,
-          "n": "",
+          "n": "Equipo de primeros auxilios",
           "q": "common",
+          "ico": "133681",
+          "reac": [
+            [
+              "Venda de lino",
+              3
+            ],
+            [
+              "Agua de manantial refrescante",
+              1
+            ]
+          ],
+          "desc": "Fabrica un equipo de primeros auxilios.",
+          "obj": {
+            "efectos": [
+              "Usar: Abre un equipo de primeros auxilios que permite que tú y otros os sentéis cerca para obtener 56 p. más de aguante. Incompatible con Palabra de poder: entereza. Requiere una hoguera cercana. Todas las características de acampada compar"
+            ],
+            "id": 279968,
+            "ilvl": 4,
+            "n": "Equipo de primeros auxilios",
+            "q": "common",
+            "sub": "Otros"
+          },
           "quien": [
             0,
             1,
@@ -605,14 +1197,65 @@
         },
         {
           "id": 57024,
-          "n": "",
+          "n": "Estudio sobre toxinas",
           "q": "common",
+          "reac": [
+            [
+              "Antídoto",
+              1
+            ],
+            [
+              "Venda de tejido mágico",
+              2
+            ],
+            [
+              "Madera simple",
+              2
+            ]
+          ],
+          "desc": "Fabrica un estudio sobre toxinas.",
+          "obj": {
+            "efectos": [
+              "Usar: Coloca un estudio sobre toxinas que ofrece pociones de sanación, antídotos y todos los beneficios de un equipo de primeros auxilios. Requiere una hoguera cercana. Se puede colocar sobre un equipo de primeros auxilios para sustituirlo."
+            ],
+            "id": 279940,
+            "ilvl": 28,
+            "n": "Estudio sobre toxinas",
+            "q": "common",
+            "sub": "Otros"
+          },
           "quien": []
         },
         {
           "id": 57036,
-          "n": "",
+          "n": "Laboratorio de doctor de peste",
           "q": "common",
+          "ico": "4626285",
+          "reac": [
+            [
+              "Madera simple",
+              2
+            ],
+            [
+              "Antídoto fuerte",
+              2
+            ],
+            [
+              "Venda de paño rúnico pesada",
+              5
+            ]
+          ],
+          "desc": "Fabrica un laboratorio de doctor de peste.",
+          "obj": {
+            "efectos": [
+              "Usar: Coloca un laboratorio de doctor de peste que ofrece pociones de sanación, cataplasmas y todos los beneficios de un equipo de primeros auxilios. Requiere una hoguera cercana. Se puede colocar sobre un equipo de primeros auxilios para s"
+            ],
+            "id": 279951,
+            "ilvl": 60,
+            "n": "Laboratorio de doctor de peste",
+            "q": "common",
+            "sub": "Otros"
+          },
           "quien": []
         }
       ]
@@ -622,8 +1265,39 @@
       "recetas": [
         {
           "id": 54191,
-          "n": "",
+          "n": "Poción de sanación menor",
           "q": "common",
+          "ico": "134829",
+          "reac": [
+            [
+              "Vial vacío",
+              1
+            ],
+            [
+              "Especias suaves",
+              1
+            ],
+            [
+              "Flor de paz",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Restaura 70 a 90 p. de salud. (2 min de tiempo de reutilización)."
+            ],
+            "id": 118,
+            "ilvl": 5,
+            "n": "Poción de curación menor",
+            "q": "common",
+            "req": 1,
+            "sub": "Pociones",
+            "venta": [
+              "0",
+              "0",
+              "5"
+            ]
+          },
           "quien": [
             0,
             1,
@@ -658,8 +1332,39 @@
         },
         {
           "id": 54192,
-          "n": "",
+          "n": "Poción de sanación inferior",
           "q": "common",
+          "ico": "134830",
+          "reac": [
+            [
+              "Vial vacío",
+              1
+            ],
+            [
+              "Especias suaves",
+              2
+            ],
+            [
+              "Brezospina",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Restaura 140 a 180 p. de salud. (2 min de tiempo de reutilización)."
+            ],
+            "id": 858,
+            "ilvl": 13,
+            "n": "Poción de Curación inferior",
+            "q": "common",
+            "req": 3,
+            "sub": "Pociones",
+            "venta": [
+              "0",
+              "0",
+              "25"
+            ]
+          },
           "quien": [
             0,
             1,
@@ -683,8 +1388,38 @@
         },
         {
           "id": 54193,
-          "n": "",
+          "n": "Poción de sanación",
           "q": "common",
+          "reac": [
+            [
+              "Vial con plomo",
+              1
+            ],
+            [
+              "Especias picantes",
+              1
+            ],
+            [
+              "Hierba cardenal",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Restaura 280 a 360 p. de salud. (2 min de tiempo de reutilización)."
+            ],
+            "id": 929,
+            "ilvl": 22,
+            "n": "Poción de curación",
+            "q": "common",
+            "req": 12,
+            "sub": "Pociones",
+            "venta": [
+              "0",
+              "0",
+              "75"
+            ]
+          },
           "quien": [
             1,
             2,
@@ -695,20 +1430,113 @@
         },
         {
           "id": 54194,
-          "n": "",
+          "n": "Poción de sanación superior",
           "q": "common",
+          "ico": "134832",
+          "reac": [
+            [
+              "Vial con plomo",
+              1
+            ],
+            [
+              "Especias picantes",
+              3
+            ],
+            [
+              "Vidarraíz",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Restaura 455 a 585 p. de salud. (2 min de tiempo de reutilización)."
+            ],
+            "id": 1710,
+            "ilvl": 31,
+            "n": "Poción de curación superior",
+            "q": "common",
+            "req": 21,
+            "sub": "Pociones",
+            "venta": [
+              "0",
+              "1",
+              "25"
+            ]
+          },
           "quien": []
         },
         {
           "id": 54195,
-          "n": "",
+          "n": "Poción de sanación excelente",
           "q": "common",
+          "ico": "134833",
+          "reac": [
+            [
+              "Vial de cristal",
+              1
+            ],
+            [
+              "Especias calmantes",
+              1
+            ],
+            [
+              "Solea",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Restaura 700 a 900 p. de salud. (2 min de tiempo de reutilización)."
+            ],
+            "id": 3928,
+            "ilvl": 45,
+            "n": "Poción de curación excelente",
+            "q": "common",
+            "req": 35,
+            "sub": "Pociones",
+            "venta": [
+              "0",
+              "2",
+              "50"
+            ]
+          },
           "quien": []
         },
         {
           "id": 54196,
-          "n": "",
+          "n": "Poción de sanación sublime",
           "q": "common",
+          "ico": "134834",
+          "reac": [
+            [
+              "Vial de cristal",
+              1
+            ],
+            [
+              "Especias calmantes",
+              3
+            ],
+            [
+              "Sansam dorado",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Restaura 1050 a 1750 p. de salud. (2 min de tiempo de reutilización)."
+            ],
+            "id": 13446,
+            "ilvl": 55,
+            "n": "Poción de curación sublime",
+            "q": "common",
+            "req": 45,
+            "sub": "Pociones",
+            "venta": [
+              "0",
+              "10",
+              "0"
+            ]
+          },
           "quien": []
         }
       ]

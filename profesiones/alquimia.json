@@ -82,8 +82,39 @@
       "recetas": [
         {
           "id": 1378,
-          "n": "",
+          "n": "Elixir de fuerza menor",
           "q": "common",
+          "ico": "134836",
+          "reac": [
+            [
+              "Raíz de tierra",
+              1
+            ],
+            [
+              "Hojaplata",
+              1
+            ],
+            [
+              "Vial vacío",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Aumenta la fuerza en 4 p. durante 1 h. (3 s de tiempo de reutilización)."
+            ],
+            "id": 2454,
+            "ilvl": 5,
+            "n": "Elixir de fuerza menor",
+            "q": "common",
+            "req": 1,
+            "sub": "Elixires",
+            "venta": [
+              "0",
+              "0",
+              "20"
+            ]
+          },
           "quien": [
             0,
             1,
@@ -98,8 +129,39 @@
         },
         {
           "id": 1382,
-          "n": "",
+          "n": "Elixir de entereza menor",
           "q": "common",
+          "ico": "134822",
+          "reac": [
+            [
+              "Raíz de tierra",
+              2
+            ],
+            [
+              "Flor de paz",
+              1
+            ],
+            [
+              "Vial vacío",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Aumenta la salud máxima del jugador en 27 p. durante 1 h. (3 s de tiempo de reutilización)."
+            ],
+            "id": 2458,
+            "ilvl": 12,
+            "n": "Elixir de entereza menor",
+            "q": "common",
+            "req": 2,
+            "sub": "Elixires",
+            "venta": [
+              "0",
+              "0",
+              "15"
+            ]
+          },
           "quien": [
             0,
             1,
@@ -113,8 +175,39 @@
         },
         {
           "id": 1814,
-          "n": "",
+          "n": "Elixir de sabiduría",
           "q": "common",
+          "ico": "134717",
+          "reac": [
+            [
+              "Marregal",
+              1
+            ],
+            [
+              "Brezospina",
+              2
+            ],
+            [
+              "Vial vacío",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Aumenta el intelecto en 3 p. durante 30 min. (3 s de tiempo de reutilización)."
+            ],
+            "id": 3383,
+            "ilvl": 20,
+            "n": "Elixir de sabiduría",
+            "q": "common",
+            "req": 10,
+            "sub": "Elixires",
+            "venta": [
+              "0",
+              "1",
+              "0"
+            ]
+          },
           "quien": [
             0,
             1,
@@ -125,14 +218,76 @@
         },
         {
           "id": 1817,
-          "n": "",
+          "n": "Poción de purificación de veneno",
           "q": "common",
+          "ico": "134743",
+          "reac": [
+            [
+              "Glándula de veneno grande",
+              1
+            ],
+            [
+              "Hierba cardenal",
+              1
+            ],
+            [
+              "Vial con plomo",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Quien la ingiere se curará de hasta cuatro venenos hasta el nivel 60. (3 s de tiempo de reutilización)."
+            ],
+            "id": 3386,
+            "ilvl": 55,
+            "n": "Poción de purificación de veneno",
+            "q": "common",
+            "req": 14,
+            "sub": "Elixires",
+            "venta": [
+              "0",
+              "0",
+              "35"
+            ]
+          },
           "quien": []
         },
         {
           "id": 1819,
-          "n": "",
+          "n": "Elixir de sangre de trol inferior",
           "q": "common",
+          "ico": "134859",
+          "reac": [
+            [
+              "Hierba cardenal",
+              2
+            ],
+            [
+              "Brezospina",
+              2
+            ],
+            [
+              "Vial con plomo",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Regenera 6 p. de salud cada 5 s. durante 1 h. (3 s de tiempo de reutilización)."
+            ],
+            "id": 3388,
+            "ilvl": 25,
+            "n": "Elixir de sangre de trol inferior",
+            "q": "common",
+            "req": 15,
+            "sub": "Elixires",
+            "venta": [
+              "0",
+              "0",
+              "40"
+            ]
+          },
           "quien": [
             0,
             1,
@@ -141,8 +296,39 @@
         },
         {
           "id": 1820,
-          "n": "",
+          "n": "Elixir de defensa inferior",
           "q": "common",
+          "ico": "134844",
+          "reac": [
+            [
+              "Acérita salvaje",
+              1
+            ],
+            [
+              "Alga estranguladora",
+              1
+            ],
+            [
+              "Vial con plomo",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Aumenta la armadura en 150 p. durante 1 h. (3 s de tiempo de reutilización)."
+            ],
+            "id": 3389,
+            "ilvl": 26,
+            "n": "Elixir de defensa inferior",
+            "q": "common",
+            "req": 16,
+            "sub": "Elixires",
+            "venta": [
+              "0",
+              "0",
+              "40"
+            ]
+          },
           "quien": [
             0,
             1
@@ -150,20 +336,113 @@
         },
         {
           "id": 1821,
-          "n": "",
+          "n": "Elixir de agilidad inferior",
           "q": "common",
+          "ico": "134872",
+          "reac": [
+            [
+              "Acérita salvaje",
+              1
+            ],
+            [
+              "Cardoveloz",
+              1
+            ],
+            [
+              "Vial con plomo",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Aumenta la agilidad en 8 p. durante 1 h. (3 s de tiempo de reutilización)."
+            ],
+            "id": 3390,
+            "ilvl": 28,
+            "n": "Elixir de agilidad inferior",
+            "q": "common",
+            "req": 18,
+            "sub": "Elixires",
+            "venta": [
+              "0",
+              "0",
+              "35"
+            ]
+          },
           "quien": []
         },
         {
           "id": 1822,
-          "n": "",
+          "n": "Elixir de fuerza de ogro",
           "q": "common",
+          "ico": "134837",
+          "reac": [
+            [
+              "Raíz de tierra",
+              1
+            ],
+            [
+              "Sangrerregia",
+              1
+            ],
+            [
+              "Vial con plomo",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Aumenta la fuerza en 8 p. durante 1 h. (3 s de tiempo de reutilización)."
+            ],
+            "id": 3391,
+            "ilvl": 30,
+            "n": "Elixir de fuerza de ogro",
+            "q": "common",
+            "req": 20,
+            "sub": "Elixires",
+            "venta": [
+              "0",
+              "0",
+              "20"
+            ]
+          },
           "quien": []
         },
         {
           "id": 1832,
-          "n": "",
+          "n": "Elixir de sangre de trol menor",
           "q": "common",
+          "ico": "134858",
+          "reac": [
+            [
+              "Flor de paz",
+              1
+            ],
+            [
+              "Raíz de tierra",
+              2
+            ],
+            [
+              "Vial vacío",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Regenera 2 p. de salud cada 5 s. durante 1 h. (3 s de tiempo de reutilización)."
+            ],
+            "id": 3382,
+            "ilvl": 8,
+            "n": "Elixir de sangre de trol menor",
+            "q": "common",
+            "req": 1,
+            "sub": "Elixires",
+            "venta": [
+              "0",
+              "0",
+              "10"
+            ]
+          },
           "quien": [
             0,
             1,
@@ -178,8 +457,39 @@
         },
         {
           "id": 1833,
-          "n": "",
+          "n": "Elixir de agilidad menor",
           "q": "common",
+          "ico": "134871",
+          "reac": [
+            [
+              "Cardoveloz",
+              1
+            ],
+            [
+              "Hojaplata",
+              1
+            ],
+            [
+              "Vial vacío",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Aumenta la agilidad en 4 p. durante 1 h. (3 s de tiempo de reutilización)."
+            ],
+            "id": 2457,
+            "ilvl": 12,
+            "n": "Elixir de agilidad menor",
+            "q": "common",
+            "req": 2,
+            "sub": "Elixires",
+            "venta": [
+              "0",
+              "0",
+              "15"
+            ]
+          },
           "quien": [
             4,
             5
@@ -187,22 +497,115 @@
         },
         {
           "id": 1933,
-          "n": "",
+          "n": "Elixir de entereza inferior",
           "q": "common",
+          "ico": "134823",
+          "reac": [
+            [
+              "Acérita salvaje",
+              1
+            ],
+            [
+              "Espina de oro",
+              1
+            ],
+            [
+              "Vial con plomo",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Aumenta la salud máxima del jugador en 120 p. durante 1 h. (3 s de tiempo de reutilización)."
+            ],
+            "id": 3825,
+            "ilvl": 35,
+            "n": "Elixir de entereza inferior",
+            "q": "common",
+            "req": 25,
+            "sub": "Elixires",
+            "venta": [
+              "0",
+              "1",
+              "10"
+            ]
+          },
           "quien": [
             0
           ]
         },
         {
           "id": 1934,
-          "n": "",
+          "n": "Elixir de sangre de trol",
           "q": "common",
+          "ico": "134860",
+          "reac": [
+            [
+              "Vidarraíz",
+              1
+            ],
+            [
+              "Hierba cardenal",
+              1
+            ],
+            [
+              "Vial con plomo",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Regenera 12 p. de salud cada 5 s. durante 1 h. (3 s de tiempo de reutilización)."
+            ],
+            "id": 3826,
+            "ilvl": 36,
+            "n": "Elixir de sangre de trol",
+            "q": "common",
+            "req": 26,
+            "sub": "Elixires",
+            "venta": [
+              "0",
+              "1",
+              "5"
+            ]
+          },
           "quien": []
         },
         {
           "id": 4178,
-          "n": "",
+          "n": "Elixir de defensa menor",
           "q": "common",
+          "ico": "134843",
+          "reac": [
+            [
+              "Hojaplata",
+              1
+            ],
+            [
+              "Flor de paz",
+              1
+            ],
+            [
+              "Vial vacío",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Aumenta la armadura en 50 p. durante 1 h. (3 s de tiempo de reutilización)."
+            ],
+            "id": 5997,
+            "ilvl": 5,
+            "n": "Elixir de defensa menor",
+            "q": "common",
+            "req": 1,
+            "sub": "Elixires",
+            "venta": [
+              "0",
+              "0",
+              "5"
+            ]
+          },
           "quien": [
             0,
             1,
@@ -217,8 +620,39 @@
         },
         {
           "id": 4396,
-          "n": "",
+          "n": "Elixir de poder de Fuego",
           "q": "common",
+          "ico": "134835",
+          "reac": [
+            [
+              "Aceite de fuego",
+              2
+            ],
+            [
+              "Sangrerregia",
+              1
+            ],
+            [
+              "Vial con plomo",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Aumenta el daño de Fuego de los hechizos hasta en 10 p. durante 30 min. (3 s de tiempo de reutilización)."
+            ],
+            "id": 6373,
+            "ilvl": 28,
+            "n": "Elixir de poder de Fuego",
+            "q": "common",
+            "req": 18,
+            "sub": "Elixires",
+            "venta": [
+              "0",
+              "0",
+              "35"
+            ]
+          },
           "quien": [
             0,
             1
@@ -226,132 +660,773 @@
         },
         {
           "id": 4570,
-          "n": "",
+          "n": "Elixir de crecimiento gigante",
           "q": "common",
+          "ico": "134721",
+          "reac": [
+            [
+              "Pez descarriado",
+              1
+            ],
+            [
+              "Raíz de tierra",
+              1
+            ],
+            [
+              "Vial vacío",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Tu tamaño aumenta y tu fuerza sube 8 p. de acuerdo a tu nuevo tamaño. Dura 2 min. (3 s de tiempo de reutilización)."
+            ],
+            "id": 6662,
+            "ilvl": 18,
+            "n": "Elixir de crecimiento gigante",
+            "q": "common",
+            "req": 8,
+            "sub": "Elixires",
+            "venta": [
+              "0",
+              "0",
+              "95"
+            ]
+          },
           "quien": []
         },
         {
           "id": 5997,
-          "n": "",
+          "n": "Elixir de agilidad",
           "q": "common",
+          "ico": "134873",
+          "reac": [
+            [
+              "Alga estranguladora",
+              1
+            ],
+            [
+              "Espina de oro",
+              1
+            ],
+            [
+              "Vial con plomo",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Aumenta la agilidad del objetivo en 15 p. durante 1 h. (3 s de tiempo de reutilización)."
+            ],
+            "id": 8949,
+            "ilvl": 37,
+            "n": "Elixir de agilidad",
+            "q": "common",
+            "req": 27,
+            "sub": "Elixires",
+            "venta": [
+              "0",
+              "2",
+              "0"
+            ]
+          },
           "quien": [
             0
           ]
         },
         {
           "id": 5998,
-          "n": "",
+          "n": "Elixir de defensa",
           "q": "common",
+          "ico": "134845",
+          "reac": [
+            [
+              "Acérita salvaje",
+              1
+            ],
+            [
+              "Espina de oro",
+              1
+            ],
+            [
+              "Vial con plomo",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Aumenta la armadura en 250 p. durante 1 h. (3 s de tiempo de reutilización)."
+            ],
+            "id": 8951,
+            "ilvl": 39,
+            "n": "Elixir de defensa",
+            "q": "common",
+            "req": 29,
+            "sub": "Elixires",
+            "venta": [
+              "0",
+              "2",
+              "0"
+            ]
+          },
           "quien": [
             0
           ]
         },
         {
           "id": 6009,
-          "n": "",
+          "n": "Elixir Arcano",
           "q": "common",
+          "ico": "134810",
+          "reac": [
+            [
+              "Carolina",
+              1
+            ],
+            [
+              "Espina de oro",
+              1
+            ],
+            [
+              "Vial de cristal",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Aumenta el daño de los hechizos hasta en 20 p. durante 30 min. (3 s de tiempo de reutilización)."
+            ],
+            "id": 9155,
+            "ilvl": 47,
+            "n": "Elixir Arcano",
+            "q": "common",
+            "req": 37,
+            "sub": "Elixires",
+            "venta": [
+              "0",
+              "4",
+              "0"
+            ]
+          },
           "quien": []
         },
         {
           "id": 6011,
-          "n": "",
+          "n": "Elixir de intelecto superior",
           "q": "common",
+          "ico": "134721",
+          "reac": [
+            [
+              "Carolina",
+              1
+            ],
+            [
+              "Mostacho de Khadgar",
+              1
+            ],
+            [
+              "Vial de cristal",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Aumenta el intelecto en 25 p. durante 1 h. (3 s de tiempo de reutilización)."
+            ],
+            "id": 9179,
+            "ilvl": 47,
+            "n": "Elixir de intelecto superior",
+            "q": "common",
+            "req": 37,
+            "sub": "Elixires",
+            "venta": [
+              "0",
+              "10",
+              "0"
+            ]
+          },
           "quien": []
         },
         {
           "id": 6012,
-          "n": "",
+          "n": "Regalo de Arthas",
           "q": "common",
+          "ico": "134808",
+          "reac": [
+            [
+              "Lágrimas de Arthas",
+              1
+            ],
+            [
+              "Carolina",
+              1
+            ],
+            [
+              "Vial de cristal",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Aumenta la resistencia a las Sombras en 10 p. Si un enemigo ataca a quien la ingiere, el atacante tiene un 30% de probabilidad de enfermar de forma que aumente el daño que reciba en 8 p. durante 3 min. Dura 30 min. (3 s de tiempo de r"
+            ],
+            "id": 9088,
+            "ilvl": 48,
+            "n": "Ofrenda de Arthas",
+            "q": "common",
+            "req": 38,
+            "sub": "Elixires",
+            "venta": [
+              "0",
+              "2",
+              "50"
+            ]
+          },
           "quien": []
         },
         {
           "id": 6013,
-          "n": "",
+          "n": "Elixir de agilidad superior",
           "q": "common",
+          "ico": "134874",
+          "reac": [
+            [
+              "Solea",
+              1
+            ],
+            [
+              "Espina de oro",
+              1
+            ],
+            [
+              "Vial de cristal",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Aumenta la agilidad en 25 p. durante 1 h. (3 s de tiempo de reutilización)."
+            ],
+            "id": 9187,
+            "ilvl": 48,
+            "n": "Elixir de agilidad superior",
+            "q": "common",
+            "req": 38,
+            "sub": "Elixires",
+            "venta": [
+              "0",
+              "6",
+              "0"
+            ]
+          },
           "quien": []
         },
         {
           "id": 6015,
-          "n": "",
+          "n": "Elixir de fuerza superior",
           "q": "common",
+          "ico": "134839",
+          "reac": [
+            [
+              "Solea",
+              1
+            ],
+            [
+              "Gromsanguina",
+              1
+            ],
+            [
+              "Vial de cristal",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Aumenta tu fuerza en 25 durante 1 h. (3 s de tiempo de reutilización)."
+            ],
+            "id": 9206,
+            "ilvl": 48,
+            "n": "Elixir de fuerza superior",
+            "q": "common",
+            "req": 48,
+            "sub": "Elixires",
+            "venta": [
+              "0",
+              "7",
+              "0"
+            ]
+          },
           "quien": []
         },
         {
           "id": 6017,
-          "n": "",
+          "n": "Elixir de poder de las sombras",
           "q": "common",
+          "ico": "134828",
+          "reac": [
+            [
+              "Champiñón fantasma",
+              3
+            ],
+            [
+              "Vial de cristal",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Aumenta el daño de las Sombras de los hechizos hasta en 40 p. durante 30 min. (3 s de tiempo de reutilización)."
+            ],
+            "id": 9264,
+            "ilvl": 50,
+            "n": "Elixir de poder de las Sombras",
+            "q": "common",
+            "req": 40,
+            "sub": "Elixires",
+            "venta": [
+              "0",
+              "0",
+              "35"
+            ]
+          },
           "quien": []
         },
         {
           "id": 6018,
-          "n": "",
+          "n": "Poción de matanza de demonios",
           "q": "common",
+          "ico": "134807",
+          "reac": [
+            [
+              "Gromsanguina",
+              1
+            ],
+            [
+              "Champiñón fantasma",
+              1
+            ],
+            [
+              "Vial de cristal",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Aumenta 180 p. el poder de ataque contra demonios. Dura 5 min. (2 min de tiempo de reutilización)."
+            ],
+            "id": 9224,
+            "ilvl": 50,
+            "n": "Poción de matanza de demonios",
+            "q": "common",
+            "req": 40,
+            "sub": "Elixires",
+            "venta": [
+              "0",
+              "7",
+              "0"
+            ]
+          },
           "quien": []
         },
         {
           "id": 9939,
-          "n": "",
+          "n": "Elixir de defensa superior",
           "q": "common",
+          "ico": "134846",
+          "reac": [
+            [
+              "Aceite de Escama Tormentosa",
+              2
+            ],
+            [
+              "Solea",
+              1
+            ],
+            [
+              "Vial de cristal",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Aumenta la armadura en 450 p. durante 1 h. (3 s de tiempo de reutilización)."
+            ],
+            "id": 13445,
+            "ilvl": 53,
+            "n": "Elixir de defensa superior",
+            "q": "common",
+            "req": 43,
+            "sub": "Elixires",
+            "venta": [
+              "0",
+              "5",
+              "0"
+            ]
+          },
           "quien": []
         },
         {
           "id": 9940,
-          "n": "",
+          "n": "Elixir de los sabios",
           "q": "common",
+          "ico": "134809",
+          "reac": [
+            [
+              "Hojasueño",
+              1
+            ],
+            [
+              "Flor de peste",
+              2
+            ],
+            [
+              "Vial de cristal",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Aumenta el intelecto y el espíritu en 18 p. durante 1 h. (3 s de tiempo de reutilización)."
+            ],
+            "id": 13447,
+            "ilvl": 44,
+            "n": "Elixir de los sabios",
+            "q": "common",
+            "req": 38,
+            "sub": "Elixires",
+            "venta": [
+              "0",
+              "12",
+              "50"
+            ]
+          },
           "quien": []
         },
         {
           "id": 9942,
-          "n": "",
+          "n": "Elixir de fuerza bruta",
           "q": "common",
+          "reac": [
+            [
+              "Gromsanguina",
+              2
+            ],
+            [
+              "Flor de peste",
+              2
+            ],
+            [
+              "Vial de cristal",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Aumenta la fuerza y el aguante en 18 p. durante 1 h. (3 s de tiempo de reutilización)."
+            ],
+            "id": 13453,
+            "ilvl": 55,
+            "n": "Elixir de potencia bruta",
+            "q": "common",
+            "req": 45,
+            "sub": "Elixires",
+            "venta": [
+              "0",
+              "12",
+              "50"
+            ]
+          },
           "quien": []
         },
         {
           "id": 9952,
-          "n": "",
+          "n": "Elixir de la mangosta",
           "q": "common",
+          "ico": "134812",
+          "reac": [
+            [
+              "Salviargenta de montaña",
+              2
+            ],
+            [
+              "Flor de peste",
+              2
+            ],
+            [
+              "Vial de cristal",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Aumenta la agilidad 25 p. la agilidad y un 2% la probabilidad de conseguir un golpe crítico. Dura 30 min. (3 s de tiempo de reutilización)."
+            ],
+            "id": 13452,
+            "ilvl": 56,
+            "n": "Elixir de la mangosta",
+            "q": "common",
+            "req": 46,
+            "sub": "Elixires",
+            "venta": [
+              "0",
+              "12",
+              "50"
+            ]
+          },
           "quien": []
         },
         {
           "id": 9954,
-          "n": "",
+          "n": "Elixir superior Arcano",
           "q": "common",
+          "ico": "134731",
+          "reac": [
+            [
+              "Hojasueño",
+              3
+            ],
+            [
+              "Salviargenta de montaña",
+              1
+            ],
+            [
+              "Vial de cristal",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Aumenta el daño de los hechizos hasta en 35 p. durante 1 h. (3 s de tiempo de reutilización)."
+            ],
+            "id": 13454,
+            "ilvl": 57,
+            "n": "Elixir superior arcano",
+            "q": "common",
+            "req": 47,
+            "sub": "Elixires",
+            "venta": [
+              "0",
+              "7",
+              "50"
+            ]
+          },
           "quien": []
         },
         {
           "id": 12137,
-          "n": "",
+          "n": "Elixir de poder de Escarcha",
           "q": "common",
+          "ico": "134856",
+          "reac": [
+            [
+              "Invernalia",
+              2
+            ],
+            [
+              "Mostacho de Khadgar",
+              1
+            ],
+            [
+              "Vial con plomo",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Aumenta el daño de Escarcha de los hechizos hasta en 15 p. durante 30 min. (3 s de tiempo de reutilización)."
+            ],
+            "id": 17708,
+            "ilvl": 38,
+            "n": "Elixir de poder de Escarcha",
+            "q": "common",
+            "req": 28,
+            "sub": "Elixires",
+            "venta": [
+              "0",
+              "0",
+              "35"
+            ]
+          },
           "quien": []
         },
         {
           "id": 12892,
-          "n": "",
+          "n": "Elixir de sangre de mago",
           "q": "common",
+          "ico": "134762",
+          "reac": [
+            [
+              "Hojasueño",
+              1
+            ],
+            [
+              "Flor de peste",
+              2
+            ],
+            [
+              "Vial de cristal",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Regenera 12 p. de maná cada 5 s. durante 1 h. (3 s de tiempo de reutilización)."
+            ],
+            "id": 20007,
+            "ilvl": 50,
+            "n": "Elixir de sangre de mago",
+            "q": "common",
+            "req": 40,
+            "sub": "Elixires",
+            "venta": [
+              "0",
+              "10",
+              "0"
+            ]
+          },
           "quien": []
         },
         {
           "id": 12895,
-          "n": "",
+          "n": "Elixir de sangre de trol sublime",
           "q": "common",
+          "ico": "134862",
+          "reac": [
+            [
+              "Gromsanguina",
+              1
+            ],
+            [
+              "Flor de peste",
+              2
+            ],
+            [
+              "Vial de cristal",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Regenera 20 p. de salud cada 5 s. durante 1 h. (3 s de tiempo de reutilización)."
+            ],
+            "id": 20004,
+            "ilvl": 58,
+            "n": "Elixir de sangre de trol sublime",
+            "q": "common",
+            "req": 53,
+            "sub": "Elixires",
+            "venta": [
+              "0",
+              "10",
+              "0"
+            ]
+          },
           "quien": []
         },
         {
           "id": 13417,
-          "n": "",
+          "n": "Elixir de poder Sagrado",
           "q": "common",
+          "reac": [
+            [
+              "Aceite de fuego",
+              3
+            ],
+            [
+              "Flor de Fuego",
+              3
+            ],
+            [
+              "Vial de cristal",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Aumenta hasta 40 p. el daño Sagrado con hechizos durante 30 min. (3 s de tiempo de reutilización)."
+            ],
+            "id": 21546,
+            "ilvl": 50,
+            "n": "Elixir de poder Sagrado",
+            "q": "common",
+            "req": 40,
+            "sub": "Elixires",
+            "venta": [
+              "0",
+              "0",
+              "35"
+            ]
+          },
           "quien": []
         },
         {
           "id": 54190,
-          "n": "",
+          "n": "Piroagua destilada",
           "q": "common",
+          "ico": "134872",
+          "reac": [
+            [
+              "Invernalia",
+              4
+            ],
+            [
+              "Gromsanguina",
+              2
+            ],
+            [
+              "Vial con plomo",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Aumenta el poder de ataque cuerpo a cuerpo del taumaturgo en 35 p. durante 20 min. (1 min de tiempo de reutilización)."
+            ],
+            "id": 246948,
+            "ilvl": 45,
+            "n": "Piroagua destilada",
+            "q": "common",
+            "req": 45,
+            "sub": "Elixires",
+            "venta": [
+              "0",
+              "2",
+              "0"
+            ]
+          },
           "quien": []
         },
         {
           "id": 54210,
-          "n": "",
+          "n": "Elixir Arcano menor",
           "q": "common",
+          "ico": "134728",
+          "reac": [
+            [
+              "Flor de paz",
+              1
+            ],
+            [
+              "Vial vacío",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Aumenta hasta en 5 p. el daño con hechizos durante 30 min. (3 s de tiempo de reutilización)."
+            ],
+            "id": 247754,
+            "ilvl": 5,
+            "n": "Elixir Arcano menor",
+            "q": "common",
+            "req": 1,
+            "sub": "Elixires",
+            "venta": [
+              "0",
+              "0",
+              "25"
+            ]
+          },
           "quien": [
             0,
             1,
@@ -366,8 +1441,35 @@
         },
         {
           "id": 54211,
-          "n": "",
+          "n": "Elixir de fuerza menor",
           "q": "common",
+          "ico": "134857",
+          "reac": [
+            [
+              "Hojaplata",
+              1
+            ],
+            [
+              "Vial vacío",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Aumenta 1 p. el daño físico durante 30 min. (3 s de tiempo de reutilización)."
+            ],
+            "id": 247755,
+            "ilvl": 5,
+            "n": "Elixir de fuerza menor",
+            "q": "common",
+            "req": 1,
+            "sub": "Elixires",
+            "venta": [
+              "0",
+              "0",
+              "25"
+            ]
+          },
           "quien": [
             0,
             1,
@@ -382,20 +1484,113 @@
         },
         {
           "id": 54535,
-          "n": "",
+          "n": "Elixir de astucia",
           "q": "common",
+          "ico": "134794",
+          "reac": [
+            [
+              "Hojasueño",
+              3
+            ],
+            [
+              "Gromsanguina",
+              2
+            ],
+            [
+              "Vial de cristal",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Bebe esto para obtener 25 p. de agilidad y de intelecto. Dura 30 min. (3 s de tiempo de reutilización)."
+            ],
+            "id": 250328,
+            "ilvl": 55,
+            "n": "Elixir de astucia",
+            "q": "common",
+            "req": 55,
+            "sub": "Elixires",
+            "venta": [
+              "0",
+              "1",
+              "25"
+            ]
+          },
           "quien": []
         },
         {
           "id": 54536,
-          "n": "",
+          "n": "Elixir de la falange",
           "q": "common",
+          "ico": "967529",
+          "reac": [
+            [
+              "Sansam dorado",
+              2
+            ],
+            [
+              "Solea",
+              4
+            ],
+            [
+              "Vial de cristal",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Bebe esto obtener 400 p. de salud máxima y 500 p. de armadura. Dura 30 min. (3 s de tiempo de reutilización)."
+            ],
+            "id": 250329,
+            "ilvl": 55,
+            "n": "Elixir de la falange",
+            "q": "common",
+            "req": 55,
+            "sub": "Elixires",
+            "venta": [
+              "0",
+              "1",
+              "25"
+            ]
+          },
           "quien": []
         },
         {
           "id": 54537,
-          "n": "",
+          "n": "Elixir de clérigo menor",
           "q": "common",
+          "ico": "967524",
+          "reac": [
+            [
+              "Marregal",
+              2
+            ],
+            [
+              "Hierba cardenal",
+              1
+            ],
+            [
+              "Vial vacío",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Bebe esto para aumentar hasta 10 p. la sanación realizada con hechizos y efectos. Dura 30 min. (3 s de tiempo de reutilización)."
+            ],
+            "id": 250330,
+            "ilvl": 5,
+            "n": "Elixir de clérigo menor",
+            "q": "common",
+            "req": 5,
+            "sub": "Elixires",
+            "venta": [
+              "0",
+              "0",
+              "25"
+            ]
+          },
           "quien": [
             4,
             5
@@ -403,56 +1598,323 @@
         },
         {
           "id": 54538,
-          "n": "",
+          "n": "Elixir de clérigo inferior",
           "q": "common",
+          "ico": "134752",
+          "reac": [
+            [
+              "Sangrerregia",
+              2
+            ],
+            [
+              "Vidarraíz",
+              2
+            ],
+            [
+              "Vial con plomo",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Bebe esto para aumentar hasta 20 p. la sanación realizada con hechizos y efectos. Dura 30 min. (3 s de tiempo de reutilización)."
+            ],
+            "id": 250331,
+            "ilvl": 25,
+            "n": "Elixir de clérigo inferior",
+            "q": "common",
+            "req": 25,
+            "sub": "Elixires",
+            "venta": [
+              "0",
+              "0",
+              "50"
+            ]
+          },
           "quien": []
         },
         {
           "id": 54539,
-          "n": "",
+          "n": "Elixir de clérigo",
           "q": "common",
+          "ico": "134764",
+          "reac": [
+            [
+              "Invernalia",
+              2
+            ],
+            [
+              "Flor de Fuego",
+              2
+            ],
+            [
+              "Vial con plomo",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Bebe esto para aumentar hasta 30 p. la sanación realizada con hechizos y efectos. Dura 30 min. (3 s de tiempo de reutilización)."
+            ],
+            "id": 250332,
+            "ilvl": 45,
+            "n": "Elixir de clérigo",
+            "q": "common",
+            "req": 45,
+            "sub": "Elixires",
+            "venta": [
+              "0",
+              "0",
+              "75"
+            ]
+          },
           "quien": []
         },
         {
           "id": 54540,
-          "n": "",
+          "n": "Elixir de clérigo superior",
           "q": "common",
+          "ico": "134777",
+          "reac": [
+            [
+              "Lágrimas de Arthas",
+              3
+            ],
+            [
+              "Loto morado",
+              1
+            ],
+            [
+              "Vial de cristal",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Bebe esto para aumentar hasta 40 p. la sanación realizada con hechizos y efectos. Dura 30 min. (3 s de tiempo de reutilización)."
+            ],
+            "id": 250333,
+            "ilvl": 55,
+            "n": "Elixir de clérigo superior",
+            "q": "common",
+            "req": 55,
+            "sub": "Elixires",
+            "venta": [
+              "0",
+              "1",
+              "0"
+            ]
+          },
           "quien": []
         },
         {
           "id": 54541,
-          "n": "",
+          "n": "Elixir de entereza",
           "q": "common",
+          "ico": "134824",
+          "reac": [
+            [
+              "Espina de oro",
+              4
+            ],
+            [
+              "Vial con plomo",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Bebe esto para aumentar 200 p. tu salud máxima. Dura 30 min. (3 s de tiempo de reutilización)."
+            ],
+            "id": 250334,
+            "ilvl": 45,
+            "n": "Elixir de entereza",
+            "q": "common",
+            "req": 45,
+            "sub": "Elixires",
+            "venta": [
+              "0",
+              "0",
+              "75"
+            ]
+          },
           "quien": []
         },
         {
           "id": 54542,
-          "n": "",
+          "n": "Elixir de entereza superior",
           "q": "common",
+          "ico": "134825",
+          "reac": [
+            [
+              "Solea",
+              4
+            ],
+            [
+              "Vial de cristal",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Bebe esto para aumentar 400 p. tu salud máxima. Dura 30 min. (3 s de tiempo de reutilización)."
+            ],
+            "id": 250335,
+            "ilvl": 55,
+            "n": "Elixir de entereza superior",
+            "q": "common",
+            "req": 55,
+            "sub": "Elixires",
+            "venta": [
+              "0",
+              "1",
+              "0"
+            ]
+          },
           "quien": []
         },
         {
           "id": 54543,
-          "n": "",
+          "n": "Elixir de regeneración perversa",
           "q": "common",
+          "ico": "967526",
+          "reac": [
+            [
+              "Sansam dorado",
+              3
+            ],
+            [
+              "Hojasueño",
+              2
+            ],
+            [
+              "Vial de cristal",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Bebe esto para restaurar 9 p. de salud y 10 p. de maná cada 5 s. Dura 30 min. (3 s de tiempo de reutilización)."
+            ],
+            "id": 250336,
+            "ilvl": 55,
+            "n": "Elixir de regeneración perversa",
+            "q": "common",
+            "req": 55,
+            "sub": "Elixires",
+            "venta": [
+              "0",
+              "1",
+              "25"
+            ]
+          },
           "quien": []
         },
         {
           "id": 54544,
-          "n": "",
+          "n": "Elixir del búho",
           "q": "common",
+          "ico": "134792",
+          "reac": [
+            [
+              "Hojasueño",
+              4
+            ],
+            [
+              "Salviargenta de montaña",
+              2
+            ],
+            [
+              "Vial imbuida",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Bebe esto para aumentar 25 p. tu intelecto y un 2% la probabilidad de asestar un golpe crítico. Dura 30 min. (3 s de tiempo de reutilización)."
+            ],
+            "id": 250337,
+            "ilvl": 55,
+            "n": "Elixir del búho",
+            "q": "common",
+            "req": 55,
+            "sub": "Elixires",
+            "venta": [
+              "0",
+              "1",
+              "25"
+            ]
+          },
           "quien": []
         },
         {
           "id": 54545,
-          "n": "",
+          "n": "Elixir de los sabios",
           "q": "common",
+          "ico": "134793",
+          "reac": [
+            [
+              "Hojasueño",
+              4
+            ],
+            [
+              "Sansam dorado",
+              2
+            ],
+            [
+              "Vial imbuida",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Bebe para aumentar 25 p. tu espíritu y para aumentar un 2% la probabilidad de asestar un golpe crítico. Dura 30 min. (3 s de tiempo de reutilización)."
+            ],
+            "id": 250338,
+            "ilvl": 55,
+            "n": "Elixir de los sabios",
+            "q": "common",
+            "req": 55,
+            "sub": "Elixires",
+            "venta": [
+              "0",
+              "1",
+              "25"
+            ]
+          },
           "quien": []
         },
         {
           "id": 54546,
-          "n": "",
+          "n": "Elixir de sangre de mago menor",
           "q": "common",
+          "ico": "967519",
+          "reac": [
+            [
+              "Marregal",
+              2
+            ],
+            [
+              "Vial vacío",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Bebe esto para regenerar 3 p. de maná cada 5 s. Dura 30 min. (3 s de tiempo de reutilización)."
+            ],
+            "id": 250339,
+            "ilvl": 5,
+            "n": "Elixir de sangre de mago menor",
+            "q": "common",
+            "req": 5,
+            "sub": "Elixires",
+            "venta": [
+              "0",
+              "0",
+              "25"
+            ]
+          },
           "quien": [
             4,
             5
@@ -460,86 +1922,503 @@
         },
         {
           "id": 54547,
-          "n": "",
+          "n": "Elixir de sangre de mago inferior",
           "q": "common",
+          "ico": "134750",
+          "reac": [
+            [
+              "Sangrerregia",
+              3
+            ],
+            [
+              "Vial vacío",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Bebe esto para regenerar 6 p. de maná cada 5 s. Dura 30 min. (3 s de tiempo de reutilización)."
+            ],
+            "id": 250340,
+            "ilvl": 25,
+            "n": "Elixir de sangre de mago inferior",
+            "q": "common",
+            "req": 25,
+            "sub": "Elixires",
+            "venta": [
+              "0",
+              "0",
+              "50"
+            ]
+          },
           "quien": []
         },
         {
           "id": 54548,
-          "n": "",
+          "n": "Elixir de sangre de mago superior",
           "q": "common",
+          "ico": "134796",
+          "reac": [
+            [
+              "Carolina",
+              3
+            ],
+            [
+              "Lágrimas de Arthas",
+              2
+            ],
+            [
+              "Vial de cristal",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Bebe esto para regenerar 20 p. de maná cada 5 s. Dura 30 min. (3 s de tiempo de reutilización)."
+            ],
+            "id": 250341,
+            "ilvl": 55,
+            "n": "Elixir de sangre de mago superior",
+            "q": "common",
+            "req": 55,
+            "sub": "Elixires",
+            "venta": [
+              "0",
+              "1",
+              "0"
+            ]
+          },
           "quien": []
         },
         {
           "id": 54549,
-          "n": "",
+          "n": "Elixir Arcano inferior",
           "q": "common",
+          "ico": "134729",
+          "reac": [
+            [
+              "Sangrerregia",
+              4
+            ],
+            [
+              "Vial con plomo",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Bebe esto para aumentar hasta 15 p. el daño con hechizos. Dura 30 min. (3 s de tiempo de reutilización)."
+            ],
+            "id": 250342,
+            "ilvl": 25,
+            "n": "Elixir Arcano inferior",
+            "q": "common",
+            "req": 25,
+            "sub": "Elixires",
+            "venta": [
+              "0",
+              "0",
+              "50"
+            ]
+          },
           "quien": []
         },
         {
           "id": 54550,
-          "n": "",
+          "n": "Elixir de poder de la Naturaleza",
           "q": "common",
+          "ico": "134877",
+          "reac": [
+            [
+              "Sansam dorado",
+              4
+            ],
+            [
+              "Solea",
+              2
+            ],
+            [
+              "Vial de cristal",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Bebe para aumentar hasta 40 p. el daño con hechizos de Naturaleza. Dura 30 min. (3 s de tiempo de reutilización)."
+            ],
+            "id": 250343,
+            "ilvl": 55,
+            "n": "Elixir de poder de la Naturaleza",
+            "q": "common",
+            "req": 55,
+            "sub": "Elixires",
+            "venta": [
+              "0",
+              "1",
+              "25"
+            ]
+          },
           "quien": []
         },
         {
           "id": 54551,
-          "n": "",
+          "n": "Elixir de espíritu menor",
           "q": "common",
+          "ico": "134736",
+          "reac": [
+            [
+              "Raíz de tierra",
+              2
+            ],
+            [
+              "Flor de paz",
+              1
+            ],
+            [
+              "Vial vacío",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Bebe esto para aumentar 3 p. tu espíritu. Dura 30 min. (3 s de tiempo de reutilización)."
+            ],
+            "id": 250344,
+            "ilvl": 5,
+            "n": "Elixir de espíritu menor",
+            "q": "common",
+            "req": 5,
+            "sub": "Elixires",
+            "venta": [
+              "0",
+              "0",
+              "25"
+            ]
+          },
           "quien": []
         },
         {
           "id": 54552,
-          "n": "",
+          "n": "Elixir de espíritu inferior",
           "q": "common",
+          "ico": "134737",
+          "reac": [
+            [
+              "Acérita salvaje",
+              2
+            ],
+            [
+              "Marregal",
+              1
+            ],
+            [
+              "Vial vacío",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Bebe esto para aumentar 6 p. tu espíritu. Dura 30 min. (3 s de tiempo de reutilización)."
+            ],
+            "id": 250345,
+            "ilvl": 25,
+            "n": "Elixir de espíritu inferior",
+            "q": "common",
+            "req": 25,
+            "sub": "Elixires",
+            "venta": [
+              "0",
+              "0",
+              "50"
+            ]
+          },
           "quien": []
         },
         {
           "id": 54553,
-          "n": "",
+          "n": "Elixir de espíritu",
           "q": "common",
+          "reac": [
+            [
+              "Mostacho de Khadgar",
+              3
+            ],
+            [
+              "Sangrerregia",
+              1
+            ],
+            [
+              "Vial con plomo",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Bebe esto para aumentar 10 p. tu espíritu. Dura 30 min. (3 s de tiempo de reutilización)."
+            ],
+            "id": 250346,
+            "ilvl": 45,
+            "n": "Elixir de espíritu",
+            "q": "common",
+            "req": 45,
+            "sub": "Elixires",
+            "venta": [
+              "0",
+              "0",
+              "75"
+            ]
+          },
           "quien": []
         },
         {
           "id": 54554,
-          "n": "",
+          "n": "Elixir de espíritu superior",
           "q": "common",
+          "ico": "134739",
+          "reac": [
+            [
+              "Lágrimas de Arthas",
+              3
+            ],
+            [
+              "Loto morado",
+              2
+            ],
+            [
+              "Vial de cristal",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Bebe esto para aumentar 18 p. tu espíritu. Dura 30 min. (3 s de tiempo de reutilización)."
+            ],
+            "id": 250347,
+            "ilvl": 55,
+            "n": "Elixir de espíritu superior",
+            "q": "common",
+            "req": 55,
+            "sub": "Elixires",
+            "venta": [
+              "0",
+              "1",
+              "0"
+            ]
+          },
           "quien": []
         },
         {
           "id": 54555,
-          "n": "",
+          "n": "Elixir de la ballena",
           "q": "common",
+          "ico": "134791",
+          "reac": [
+            [
+              "Hojasueño",
+              3
+            ],
+            [
+              "Gromsanguina",
+              1
+            ],
+            [
+              "Vial de cristal",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Bebe para aumentar 25 p. tu espíritu y para aumentar un 2% la probabilidad de asestar un golpe crítico. Dura 30 min. (3 s de tiempo de reutilización)."
+            ],
+            "id": 250348,
+            "ilvl": 55,
+            "n": "Elixir de la ballena",
+            "q": "common",
+            "req": 55,
+            "sub": "Elixires",
+            "venta": [
+              "0",
+              "1",
+              "25"
+            ]
+          },
           "quien": []
         },
         {
           "id": 54556,
-          "n": "",
+          "n": "Elixir de fuerza",
           "q": "common",
+          "ico": "134838",
+          "reac": [
+            [
+              "Acérita salvaje",
+              3
+            ],
+            [
+              "Espina de oro",
+              1
+            ],
+            [
+              "Vial con plomo",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Bebes esto para aumentar 10 p. tu fuerza. Dura 30 min. (3 s de tiempo de reutilización)."
+            ],
+            "id": 250349,
+            "ilvl": 45,
+            "n": "Elixir de fuerza",
+            "q": "common",
+            "req": 45,
+            "sub": "Elixires",
+            "venta": [
+              "0",
+              "0",
+              "75"
+            ]
+          },
           "quien": []
         },
         {
           "id": 54557,
-          "n": "",
+          "n": "Elixir de ferocidad",
           "q": "common",
+          "ico": "134789",
+          "reac": [
+            [
+              "Gromsanguina",
+              3
+            ],
+            [
+              "Champiñón fantasma",
+              1
+            ],
+            [
+              "Vial de cristal",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Bebe esto para aumentar 18 p. tu fuerza y agilidad. Dura 30 min. (3 s de tiempo de reutilización)."
+            ],
+            "id": 250350,
+            "ilvl": 55,
+            "n": "Elixir de ferocidad",
+            "q": "common",
+            "req": 55,
+            "sub": "Elixires",
+            "venta": [
+              "0",
+              "1",
+              "25"
+            ]
+          },
           "quien": []
         },
         {
           "id": 54558,
-          "n": "",
+          "n": "Elixir de los pardos",
           "q": "common",
+          "ico": "134788",
+          "reac": [
+            [
+              "Gromsanguina",
+              3
+            ],
+            [
+              "Carolina",
+              1
+            ],
+            [
+              "Vial de cristal",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Bebes esto para aumentar 25 p. tu fuerza y un 2% la probabilidad de asestar un golpe crítico. Dura 30 min. (3 s de tiempo de reutilización)."
+            ],
+            "id": 250351,
+            "ilvl": 55,
+            "n": "Elixir de los pardos",
+            "q": "common",
+            "req": 55,
+            "sub": "Elixires",
+            "venta": [
+              "0",
+              "1",
+              "25"
+            ]
+          },
           "quien": []
         },
         {
           "id": 54559,
-          "n": "",
+          "n": "Elixir de intelecto inferior",
           "q": "common",
+          "ico": "134823",
+          "reac": [
+            [
+              "Sangrerregia",
+              3
+            ],
+            [
+              "Vial con plomo",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Bebe esto para aumentar 6 p. tu intelecto. Dura 30 min. (3 s de tiempo de reutilización)."
+            ],
+            "id": 250353,
+            "ilvl": 25,
+            "n": "Elixir de intelecto inferior",
+            "q": "common",
+            "req": 25,
+            "sub": "Elixires",
+            "venta": [
+              "0",
+              "0",
+              "50"
+            ]
+          },
           "quien": []
         },
         {
           "id": 54560,
-          "n": "",
+          "n": "Elixir de intelecto",
           "q": "common",
+          "ico": "134824",
+          "reac": [
+            [
+              "Mostacho de Khadgar",
+              3
+            ],
+            [
+              "Vial con plomo",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Bebe esto para aumentar 10 p. tu intelecto. Dura 30 min. (3 s de tiempo de reutilización)."
+            ],
+            "id": 250354,
+            "ilvl": 45,
+            "n": "Elixir de intelecto",
+            "q": "common",
+            "req": 45,
+            "sub": "Elixires",
+            "venta": [
+              "0",
+              "0",
+              "75"
+            ]
+          },
           "quien": []
         }
       ]
@@ -549,8 +2428,39 @@
       "recetas": [
         {
           "id": 1379,
-          "n": "",
+          "n": "Poción menor de maná",
           "q": "common",
+          "ico": "134850",
+          "reac": [
+            [
+              "Marregal",
+              1
+            ],
+            [
+              "Flor de paz",
+              1
+            ],
+            [
+              "Vial vacío",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Restaura 140 a 180 p. de maná. (2 min de tiempo de reutilización)."
+            ],
+            "id": 2455,
+            "ilvl": 15,
+            "n": "Poción de maná menor",
+            "q": "common",
+            "req": 5,
+            "sub": "Pociones",
+            "venta": [
+              "0",
+              "0",
+              "10"
+            ]
+          },
           "quien": [
             0,
             1,
@@ -564,8 +2474,39 @@
         },
         {
           "id": 1380,
-          "n": "",
+          "n": "Poción menor de rejuvenecimiento",
           "q": "common",
+          "ico": "134713",
+          "reac": [
+            [
+              "Marregal",
+              2
+            ],
+            [
+              "Flor de paz",
+              1
+            ],
+            [
+              "Vial vacío",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Restaura 90 a 150 p. de maná y 90 a 150 de salud. (2 min de tiempo de reutilización)."
+            ],
+            "id": 2456,
+            "ilvl": 15,
+            "n": "Poción de Rejuvenecimiento menor",
+            "q": "common",
+            "req": 5,
+            "sub": "Pociones",
+            "venta": [
+              "0",
+              "0",
+              "15"
+            ]
+          },
           "quien": [
             0,
             1,
@@ -579,8 +2520,39 @@
         },
         {
           "id": 1816,
-          "n": "",
+          "n": "Poción inferior de maná",
           "q": "common",
+          "ico": "134851",
+          "reac": [
+            [
+              "Marregal",
+              1
+            ],
+            [
+              "Alga estranguladora",
+              1
+            ],
+            [
+              "Vial vacío",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Restaura 280 a 360 p. de maná. (2 min de tiempo de reutilización)."
+            ],
+            "id": 3385,
+            "ilvl": 24,
+            "n": "Poción de maná inferior",
+            "q": "common",
+            "req": 14,
+            "sub": "Pociones",
+            "venta": [
+              "0",
+              "0",
+              "30"
+            ]
+          },
           "quien": [
             0,
             1,
@@ -589,92 +2561,524 @@
         },
         {
           "id": 1935,
-          "n": "",
+          "n": "Poción de maná",
           "q": "common",
+          "ico": "134852",
+          "reac": [
+            [
+              "Alga estranguladora",
+              1
+            ],
+            [
+              "Sangrerregia",
+              1
+            ],
+            [
+              "Vial con plomo",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Restaura 455 a 585 p. de maná. (2 min de tiempo de reutilización)."
+            ],
+            "id": 3827,
+            "ilvl": 32,
+            "n": "Poción de maná",
+            "q": "common",
+            "req": 22,
+            "sub": "Pociones",
+            "venta": [
+              "0",
+              "1",
+              "20"
+            ]
+          },
           "quien": [
             0
           ]
         },
         {
           "id": 2907,
-          "n": "",
+          "n": "Poción de sanación descolorida menor",
           "q": "common",
+          "ico": "134815",
+          "reac": [
+            [
+              "Vial vacío",
+              1
+            ],
+            [
+              "Flor de paz",
+              1
+            ],
+            [
+              "Ojo de múrloc",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Restaura 150 a 170 p. de salud al instante, pero también pierdes un 75% de esa cantidad con el tiempo. Los síntomas de este efecto pueden manifestarse como un veneno de 6 s o una enfermedad de 12 s. (2 min de tiempo de reutilización)."
+            ],
+            "id": 4596,
+            "ilvl": 15,
+            "n": "Poción de sanación descolorida menor",
+            "q": "common",
+            "req": 5,
+            "sub": "Pociones",
+            "venta": [
+              "0",
+              "0",
+              "25"
+            ]
+          },
           "quien": [
             7
           ]
         },
         {
           "id": 6000,
-          "n": "",
+          "n": "Poción superior de maná",
           "q": "common",
+          "ico": "134853",
+          "reac": [
+            [
+              "Mostacho de Khadgar",
+              1
+            ],
+            [
+              "Espina de oro",
+              1
+            ],
+            [
+              "Vial con plomo",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Restaura 700 a 900 p. de maná. (2 min de tiempo de reutilización)."
+            ],
+            "id": 6149,
+            "ilvl": 41,
+            "n": "Poción de maná superior",
+            "q": "common",
+            "req": 31,
+            "sub": "Pociones",
+            "venta": [
+              "0",
+              "1",
+              "20"
+            ]
+          },
           "quien": [
             0
           ]
         },
         {
           "id": 6006,
-          "n": "",
+          "n": "Poción de atriplex salvaje",
           "q": "common",
+          "ico": "134814",
+          "reac": [
+            [
+              "Atriplex salvaje",
+              1
+            ],
+            [
+              "Loto morado",
+              1
+            ],
+            [
+              "Vial de cristal",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Restaura 1 a 1500 p. de salud y 1 a 1500 de maná. (2 min de tiempo de reutilización)."
+            ],
+            "id": 9144,
+            "ilvl": 45,
+            "n": "Poción de atriplex salvaje",
+            "q": "common",
+            "req": 35,
+            "sub": "Pociones",
+            "venta": [
+              "0",
+              "2",
+              "50"
+            ]
+          },
           "quien": []
         },
         {
           "id": 8596,
-          "n": "",
+          "n": "Poción de letargo sin sueños",
           "q": "common",
+          "ico": "134863",
+          "reac": [
+            [
+              "Loto morado",
+              3
+            ],
+            [
+              "Vial de cristal",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Quien lo bebe entra en un letargo sin sueños durante 12 s. Durante ese tiempo, se cura 1200 p. de salud y 1200 p. de maná. (2 min de tiempo de reutilización)."
+            ],
+            "id": 12190,
+            "ilvl": 45,
+            "n": "Poción de letargo sin sueños",
+            "q": "common",
+            "req": 35,
+            "sub": "Pociones",
+            "venta": [
+              "0",
+              "2",
+              "50"
+            ]
+          },
           "quien": []
         },
         {
           "id": 9938,
-          "n": "",
+          "n": "Poción excelente de maná",
           "q": "common",
+          "ico": "134854",
+          "reac": [
+            [
+              "Solea",
+              2
+            ],
+            [
+              "Carolina",
+              2
+            ],
+            [
+              "Vial de cristal",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Restaura 900 a 1500 p. de maná. (2 min de tiempo de reutilización)."
+            ],
+            "id": 13443,
+            "ilvl": 51,
+            "n": "Poción de maná excelente",
+            "q": "common",
+            "req": 41,
+            "sub": "Pociones",
+            "venta": [
+              "0",
+              "4",
+              "0"
+            ]
+          },
           "quien": []
         },
         {
           "id": 9961,
-          "n": "",
+          "n": "poción sublime de maná",
           "q": "common",
+          "ico": "134856",
+          "reac": [
+            [
+              "Hojasueño",
+              3
+            ],
+            [
+              "Setelo",
+              2
+            ],
+            [
+              "Vial de cristal",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Restaura 1350 a 2250 p. de maná. (2 min de tiempo de reutilización)."
+            ],
+            "id": 13444,
+            "ilvl": 59,
+            "n": "Poción de maná sublime",
+            "q": "common",
+            "req": 49,
+            "sub": "Pociones",
+            "venta": [
+              "0",
+              "15",
+              "0"
+            ]
+          },
           "quien": []
         },
         {
           "id": 12299,
-          "n": "",
+          "n": "Poción sublime de rejuvenecimiento",
           "q": "common",
+          "ico": "134827",
+          "reac": [
+            [
+              "Corazón del Salvaje",
+              1
+            ],
+            [
+              "Sansam dorado",
+              4
+            ],
+            [
+              "Hojasueño",
+              4
+            ],
+            [
+              "Vial imbuida",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Restaura 1440 a 1760 p. de maná y de salud. (2 min de tiempo de reutilización)."
+            ],
+            "id": 18253,
+            "ilvl": 60,
+            "n": "Poción rejuvenecedora sublime",
+            "q": "common",
+            "req": 50,
+            "sub": "Pociones",
+            "venta": [
+              "0",
+              "0",
+              "15"
+            ]
+          },
           "quien": []
         },
         {
           "id": 12893,
-          "n": "",
+          "n": "Poción superior de letargo sin sueños",
           "q": "common",
+          "ico": "134863",
+          "reac": [
+            [
+              "Hojasueño",
+              2
+            ],
+            [
+              "Sansam dorado",
+              1
+            ],
+            [
+              "Vial de cristal",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Quien lo bebe entra en un letargo sin sueños durante 12 s. Durante ese tiempo, se cura 2100 p. de salud y 2100 p. de maná. (2 min de tiempo de reutilización)."
+            ],
+            "id": 20002,
+            "ilvl": 60,
+            "n": "Poción superior de letargo sin sueños",
+            "q": "common",
+            "req": 55,
+            "sub": "Pociones",
+            "venta": [
+              "0",
+              "10",
+              "0"
+            ]
+          },
           "quien": []
         },
         {
           "id": 52729,
-          "n": "",
+          "n": "Poción de sanación descolorida sublime",
           "q": "common",
+          "reac": [
+            [
+              "Vial de cristal",
+              1
+            ],
+            [
+              "Flor de peste",
+              1
+            ],
+            [
+              "Ojo de múrloc",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Recuperas 2625 a 2975 p. de salud al instante, pero también pierdes un 75% de esa cantidad como daño en el tiempo. Los síntomas de este efecto pueden manifestarse como un veneno de 6 s o una enfermedad de 12 s. (2 min de tiempo de reu"
+            ],
+            "id": 241650,
+            "ilvl": 70,
+            "n": "Poción de sanación descolorida sublime",
+            "q": "common",
+            "req": 60,
+            "sub": "Pociones",
+            "venta": [
+              "0",
+              "0",
+              "25"
+            ]
+          },
           "quien": []
         },
         {
           "id": 54197,
-          "n": "",
+          "n": "Poción de sanación descolorida inferior",
           "q": "common",
+          "reac": [
+            [
+              "Vial vacío",
+              1
+            ],
+            [
+              "Brezospina",
+              1
+            ],
+            [
+              "Ojo de múrloc",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Restaura 300 a 340 p. de salud al instante, pero también pierdes un 75% de esa cantidad con el tiempo. Los síntomas de este efecto pueden manifestarse como un veneno de 6 s o una enfermedad de 12 s. (2 min de tiempo de reutilización)."
+            ],
+            "id": 247239,
+            "ilvl": 13,
+            "n": "Poción de sanación descolorida inferior",
+            "q": "common",
+            "req": 3,
+            "sub": "Pociones",
+            "venta": [
+              "0",
+              "0",
+              "25"
+            ]
+          },
           "quien": []
         },
         {
           "id": 54198,
-          "n": "",
+          "n": "Poción de sanación descolorida",
           "q": "common",
+          "ico": "134817",
+          "reac": [
+            [
+              "Vial con plomo",
+              1
+            ],
+            [
+              "Hierba cardenal",
+              1
+            ],
+            [
+              "Ojo de múrloc",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Restaura 600 a 680 p. de salud al instante, pero también pierdes un 75% de esa cantidad con el tiempo. Los síntomas de este efecto pueden manifestarse como un veneno de 6 s o una enfermedad de 12 s. (2 min de tiempo de reutilización)."
+            ],
+            "id": 247240,
+            "ilvl": 22,
+            "n": "Poción de sanación descolorida",
+            "q": "common",
+            "req": 12,
+            "sub": "Pociones",
+            "venta": [
+              "0",
+              "0",
+              "75"
+            ]
+          },
           "quien": []
         },
         {
           "id": 54199,
-          "n": "",
+          "n": "Poción de sanación descolorida superior",
           "q": "common",
+          "ico": "134818",
+          "reac": [
+            [
+              "Vial con plomo",
+              1
+            ],
+            [
+              "Sangrerregia",
+              1
+            ],
+            [
+              "Ojo de múrloc",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Restaura 975 a 1105 p. de salud al instante, pero también pierdes un 75% de esa cantidad con el tiempo. Los síntomas de este efecto pueden manifestarse como un veneno de 6 s o una enfermedad de 12 s. (2 min de tiempo de reutilización)"
+            ],
+            "id": 247241,
+            "ilvl": 31,
+            "n": "Poción de sanación descolorida superior",
+            "q": "common",
+            "req": 21,
+            "sub": "Pociones",
+            "venta": [
+              "0",
+              "1",
+              "25"
+            ]
+          },
           "quien": []
         },
         {
           "id": 54200,
-          "n": "",
+          "n": "Poción de sanación descolorida excelente",
           "q": "common",
+          "ico": "134819",
+          "reac": [
+            [
+              "Vial de cristal",
+              1
+            ],
+            [
+              "Solea",
+              1
+            ],
+            [
+              "Ojo de múrloc",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Restaura 1500 a 1700 p. de salud al instante, pero también pierdes un 75% de esa cantidad con el tiempo. Los síntomas de este efecto pueden manifestarse como un veneno de 6 s o una enfermedad de 12 s. (2 min de tiempo de reutilización"
+            ],
+            "id": 247242,
+            "ilvl": 45,
+            "n": "Poción de sanación descolorida excelente",
+            "q": "common",
+            "req": 35,
+            "sub": "Pociones",
+            "venta": [
+              "0",
+              "2",
+              "50"
+            ]
+          },
           "quien": []
         }
       ]
@@ -684,36 +3088,191 @@
       "recetas": [
         {
           "id": 1383,
-          "n": "",
+          "n": "Poción de rapidez",
           "q": "common",
+          "ico": "134875",
+          "reac": [
+            [
+              "Cardoveloz",
+              1
+            ],
+            [
+              "Brezospina",
+              1
+            ],
+            [
+              "Vial vacío",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Aumenta la velocidad de carrera en un 50% durante 15 s. (2 min de tiempo de reutilización)."
+            ],
+            "id": 2459,
+            "ilvl": 15,
+            "n": "Poción de velocidad",
+            "q": "common",
+            "req": 5,
+            "sub": "Pociones",
+            "venta": [
+              "0",
+              "0",
+              "25"
+            ]
+          },
           "quien": [
             4
           ]
         },
         {
           "id": 1815,
-          "n": "",
+          "n": "Poción menor de resistencia a la magia",
           "q": "common",
+          "ico": "134719",
+          "reac": [
+            [
+              "Marregal",
+              3
+            ],
+            [
+              "Acérita salvaje",
+              1
+            ],
+            [
+              "Vial vacío",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Aumenta tu resistencia a todos los tipos de magia en 25 p. durante 3 min. (2 min de tiempo de reutilización)."
+            ],
+            "id": 3384,
+            "ilvl": 22,
+            "n": "Poción de resistencia a la magia menor",
+            "q": "common",
+            "req": 12,
+            "sub": "Pociones",
+            "venta": [
+              "0",
+              "0",
+              "20"
+            ]
+          },
           "quien": []
         },
         {
           "id": 1931,
-          "n": "",
+          "n": "Poción inferior de invisibilidad",
           "q": "common",
+          "ico": "134798",
+          "reac": [
+            [
+              "Pálida",
+              1
+            ],
+            [
+              "Acérita salvaje",
+              1
+            ],
+            [
+              "Vial con plomo",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Da a quien lo ingiere invisibilidad inferior durante 15 s. (10 min de tiempo de reutilización)."
+            ],
+            "id": 3823,
+            "ilvl": 33,
+            "n": "Poción de invisibilidad inferior",
+            "q": "common",
+            "req": 23,
+            "sub": "Pociones",
+            "venta": [
+              "0",
+              "1",
+              "0"
+            ]
+          },
           "quien": [
             0
           ]
         },
         {
           "id": 2909,
-          "n": "",
+          "n": "Poción de escudo de piedra inferior",
           "q": "common",
+          "ico": "134847",
+          "reac": [
+            [
+              "Mineral de mitril",
+              1
+            ],
+            [
+              "Espina de oro",
+              1
+            ],
+            [
+              "Vial con plomo",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Aumenta la armadura en 1000 p. durante 1,5 min. (2 min de tiempo de reutilización)."
+            ],
+            "id": 4623,
+            "ilvl": 43,
+            "n": "Poción de escudo de piedra inferior",
+            "q": "common",
+            "req": 33,
+            "sub": "Pociones",
+            "venta": [
+              "0",
+              "3",
+              "75"
+            ]
+          },
           "quien": []
         },
         {
           "id": 4004,
-          "n": "",
+          "n": "Poción de acción libre",
           "q": "common",
+          "ico": "134715",
+          "reac": [
+            [
+              "Aceite bocanegra",
+              2
+            ],
+            [
+              "Alga estranguladora",
+              1
+            ],
+            [
+              "Vial con plomo",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Te vuelve inmune a los efectos de aturdir y reducción del movimiento durante 30 s. No elimina los efectos que ya afectan a quien la bebe. (2 min de tiempo de reutilización)."
+            ],
+            "id": 5634,
+            "ilvl": 30,
+            "n": "Poción de acción libre",
+            "q": "common",
+            "req": 20,
+            "sub": "Pociones",
+            "venta": [
+              "0",
+              "0",
+              "75"
+            ]
+          },
           "quien": [
             0,
             1
@@ -721,16 +3280,78 @@
         },
         {
           "id": 4006,
-          "n": "",
+          "n": "Poción de gran furia",
           "q": "common",
+          "ico": "134801",
+          "reac": [
+            [
+              "Colmillo grande",
+              1
+            ],
+            [
+              "Sangrerregia",
+              1
+            ],
+            [
+              "Vial con plomo",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Aumenta la ira entre 30 p. y 60 p. (2 min de tiempo de reutilización)."
+            ],
+            "id": 5633,
+            "ilvl": 35,
+            "n": "Gran poción de ira",
+            "q": "common",
+            "req": 25,
+            "sub": "Pociones",
+            "venta": [
+              "0",
+              "1",
+              "50"
+            ]
+          },
           "quien": [
             0
           ]
         },
         {
           "id": 4007,
-          "n": "",
+          "n": "Poción de cólera",
           "q": "common",
+          "ico": "134804",
+          "reac": [
+            [
+              "Garra afilada",
+              1
+            ],
+            [
+              "Brezospina",
+              1
+            ],
+            [
+              "Vial vacío",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Aumenta la ira entre 20 p. y 40 p. (2 min de tiempo de reutilización)."
+            ],
+            "id": 5631,
+            "ilvl": 14,
+            "n": "Poción de ira",
+            "q": "common",
+            "req": 4,
+            "sub": "Pociones",
+            "venta": [
+              "0",
+              "0",
+              "30"
+            ]
+          },
           "quien": [
             2,
             5,
@@ -739,20 +3360,112 @@
         },
         {
           "id": 4209,
-          "n": "",
+          "n": "Poción de Protección al Fuego",
           "q": "common",
+          "ico": "134787",
+          "reac": [
+            [
+              "Glándula de llamas pequeña",
+              1
+            ],
+            [
+              "Aceite de fuego",
+              1
+            ],
+            [
+              "Vial con plomo",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Amortigua 975 a 1625 p. de daño de Fuego. Dura 2 min. (2 min de tiempo de reutilización)."
+            ],
+            "id": 6049,
+            "ilvl": 33,
+            "n": "Poción de protección de Fuego",
+            "q": "common",
+            "req": 23,
+            "sub": "Pociones",
+            "venta": [
+              "0",
+              "1",
+              "70"
+            ]
+          },
           "quien": []
         },
         {
           "id": 4210,
-          "n": "",
+          "n": "Poción de Protección a la Escarcha",
           "q": "common",
+          "ico": "134754",
+          "reac": [
+            [
+              "Invernalia",
+              1
+            ],
+            [
+              "Espina de oro",
+              1
+            ],
+            [
+              "Vial con plomo",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Amortigua 1350 a 2250 p. de daño de Escarcha. Dura 2 min. (2 min de tiempo de reutilización)."
+            ],
+            "id": 6050,
+            "ilvl": 38,
+            "n": "Poción de protección de Escarcha",
+            "q": "common",
+            "req": 28,
+            "sub": "Pociones",
+            "venta": [
+              "0",
+              "3",
+              "0"
+            ]
+          },
           "quien": []
         },
         {
           "id": 4211,
-          "n": "",
+          "n": "Poción de protección Sagrada",
           "q": "common",
+          "reac": [
+            [
+              "Hierba cardenal",
+              1
+            ],
+            [
+              "Cardoveloz",
+              1
+            ],
+            [
+              "Vial vacío",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Amortigua 300 a 500 p. de daño Sagrado. Dura 2 min. (2 min de tiempo de reutilización)."
+            ],
+            "id": 6051,
+            "ilvl": 20,
+            "n": "Poción de protección Sagrada",
+            "q": "common",
+            "req": 10,
+            "sub": "Pociones",
+            "venta": [
+              "0",
+              "0",
+              "62"
+            ]
+          },
           "quien": [
             0,
             1
@@ -760,22 +3473,115 @@
         },
         {
           "id": 4212,
-          "n": "",
+          "n": "Poción de protección de la naturaleza",
           "q": "common",
+          "ico": "134717",
+          "reac": [
+            [
+              "Vidarraíz",
+              1
+            ],
+            [
+              "Alga estranguladora",
+              1
+            ],
+            [
+              "Vial con plomo",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Amortigua 1350 a 2250 p. de daño de Naturaleza. Dura 2 min. (2 min de tiempo de reutilización)."
+            ],
+            "id": 6052,
+            "ilvl": 38,
+            "n": "Poción de protección de Naturaleza",
+            "q": "common",
+            "req": 28,
+            "sub": "Pociones",
+            "venta": [
+              "0",
+              "3",
+              "0"
+            ]
+          },
           "quien": []
         },
         {
           "id": 4213,
-          "n": "",
+          "n": "Poción de protección de las Sombras",
           "q": "common",
+          "ico": "134824",
+          "reac": [
+            [
+              "Musgo de tumba",
+              1
+            ],
+            [
+              "Sangrerregia",
+              1
+            ],
+            [
+              "Vial con plomo",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Amortigua 675 a 1125 p. de daño de las Sombras. Dura 2 min. (2 min de tiempo de reutilización)."
+            ],
+            "id": 6048,
+            "ilvl": 27,
+            "n": "Poción de protección de las Sombras",
+            "q": "common",
+            "req": 17,
+            "sub": "Pociones",
+            "venta": [
+              "0",
+              "1",
+              "0"
+            ]
+          },
           "quien": [
             0
           ]
         },
         {
           "id": 4395,
-          "n": "",
+          "n": "Poción de velocidad de nado",
           "q": "common",
+          "ico": "134754",
+          "reac": [
+            [
+              "Cardoveloz",
+              1
+            ],
+            [
+              "Aceite bocanegra",
+              1
+            ],
+            [
+              "Vial vacío",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Aumenta la velocidad de natación en un 100% durante 20 s. (2 min de tiempo de reutilización)."
+            ],
+            "id": 6372,
+            "ilvl": 20,
+            "n": "Poción de velocidad de nado",
+            "q": "common",
+            "req": 10,
+            "sub": "Pociones",
+            "venta": [
+              "0",
+              "0",
+              "35"
+            ]
+          },
           "quien": [
             0,
             1,
@@ -786,240 +3592,1410 @@
         },
         {
           "id": 5999,
-          "n": "",
+          "n": "Aceite de inmolación",
           "q": "common",
+          "ico": "134732",
+          "reac": [
+            [
+              "Flor de Fuego",
+              1
+            ],
+            [
+              "Espina de oro",
+              1
+            ],
+            [
+              "Vial de cristal",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Causa 50 p. de daño de Fuego a cualquier enemigo situado en un radio de 5 metros alrededor del taumaturgo cada 3 s durante 15 s. (3 s de tiempo de reutilización)."
+            ],
+            "id": 8956,
+            "ilvl": 41,
+            "n": "Aceite de inmolación",
+            "q": "common",
+            "req": 31,
+            "sub": "Otros",
+            "venta": [
+              "0",
+              "2",
+              "0"
+            ]
+          },
           "quien": [
             0
           ]
         },
         {
           "id": 6001,
-          "n": "",
+          "n": "Poción restauradora",
           "q": "common",
+          "reac": [
+            [
+              "Elemental de tierra",
+              1
+            ],
+            [
+              "Espina de oro",
+              1
+            ],
+            [
+              "Vial de cristal",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Deshace 1 efecto de envenenamiento, magia, maldición o enfermedad que te esté afectando cada 5 segundos durante 30 segundos. (2 min de tiempo de reutilización)."
+            ],
+            "id": 9030,
+            "ilvl": 42,
+            "n": "Poción reconstituyente",
+            "q": "common",
+            "req": 32,
+            "sub": "Pociones",
+            "venta": [
+              "0",
+              "2",
+              "0"
+            ]
+          },
           "quien": []
         },
         {
           "id": 6002,
-          "n": "",
+          "n": "Poción de resistencia a la magia",
           "q": "common",
+          "ico": "134744",
+          "reac": [
+            [
+              "Mostacho de Khadgar",
+              1
+            ],
+            [
+              "Loto morado",
+              1
+            ],
+            [
+              "Vial de cristal",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Aumenta tu resistencia a todos los tipos de magia en 50 p. durante 3 min. (2 min de tiempo de reutilización)."
+            ],
+            "id": 9036,
+            "ilvl": 42,
+            "n": "Poción de resistencia a la magia",
+            "q": "common",
+            "req": 32,
+            "sub": "Pociones",
+            "venta": [
+              "0",
+              "0",
+              "20"
+            ]
+          },
           "quien": []
         },
         {
           "id": 6010,
-          "n": "",
+          "n": "Poción de invisibilidad",
           "q": "common",
+          "ico": "134805",
+          "reac": [
+            [
+              "Champiñón fantasma",
+              1
+            ],
+            [
+              "Solea",
+              1
+            ],
+            [
+              "Vial de cristal",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Da a quien lo ingiere invisibilidad durante 18 s. (10 min de tiempo de reutilización)."
+            ],
+            "id": 9172,
+            "ilvl": 47,
+            "n": "Poción de invisibilidad",
+            "q": "common",
+            "req": 37,
+            "sub": "Pociones",
+            "venta": [
+              "0",
+              "5",
+              "0"
+            ]
+          },
           "quien": []
         },
         {
           "id": 9937,
-          "n": "",
+          "n": "Poción de furia poderosa",
           "q": "common",
+          "ico": "134821",
+          "reac": [
+            [
+              "Gromsanguina",
+              3
+            ],
+            [
+              "Vial de cristal",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Aumenta la ira en 45 a 75 p. y la fuerza en 60 p. durante 20 s. (2 min de tiempo de reutilización)."
+            ],
+            "id": 13442,
+            "ilvl": 51,
+            "n": "Poción de ira poderosa",
+            "q": "common",
+            "req": 46,
+            "sub": "Pociones",
+            "venta": [
+              "0",
+              "5",
+              "0"
+            ]
+          },
           "quien": []
         },
         {
           "id": 9951,
-          "n": "",
+          "n": "Poción de escudo de piedra superior",
           "q": "common",
+          "ico": "134849",
+          "reac": [
+            [
+              "Aceite de Escama Tormentosa",
+              3
+            ],
+            [
+              "Torio",
+              1
+            ],
+            [
+              "Vial de cristal",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Aumenta la armadura en 2000 p. durante 2 min. (2 min de tiempo de reutilización)."
+            ],
+            "id": 13455,
+            "ilvl": 56,
+            "n": "Poción de escudo de piedra superior",
+            "q": "common",
+            "req": 46,
+            "sub": "Pociones",
+            "venta": [
+              "0",
+              "7",
+              "50"
+            ]
+          },
           "quien": []
         },
         {
           "id": 9953,
-          "n": "",
+          "n": "Poción de purificación",
           "q": "common",
+          "ico": "134811",
+          "reac": [
+            [
+              "Setelo",
+              2
+            ],
+            [
+              "Flor de peste",
+              2
+            ],
+            [
+              "Vial de cristal",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Intenta eliminar una maldición, terror, enfermedad o envenenamiento sufrido por quien la bebe. (2 min de tiempo de reutilización)."
+            ],
+            "id": 13462,
+            "ilvl": 57,
+            "n": "Poción de purificación",
+            "q": "common",
+            "req": 47,
+            "sub": "Pociones",
+            "venta": [
+              "0",
+              "7",
+              "50"
+            ]
+          },
           "quien": []
         },
         {
           "id": 9955,
-          "n": "",
+          "n": "Poción superior de protección de Fuego",
           "q": "common",
+          "ico": "134804",
+          "reac": [
+            [
+              "Elemental de Fuego",
+              1
+            ],
+            [
+              "Hojasueño",
+              1
+            ],
+            [
+              "Vial de cristal",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Amortigua 1950 a 3250 p. de daño de Fuego. Dura 2 min. (2 min de tiempo de reutilización)."
+            ],
+            "id": 13457,
+            "ilvl": 58,
+            "n": "Poción de protección de Fuego superior",
+            "q": "common",
+            "req": 48,
+            "sub": "Pociones",
+            "venta": [
+              "0",
+              "7",
+              "50"
+            ]
+          },
           "quien": []
         },
         {
           "id": 9956,
-          "n": "",
+          "n": "Poción superior de protección a la Escarcha",
           "q": "common",
+          "ico": "134800",
+          "reac": [
+            [
+              "Elemental de agua",
+              1
+            ],
+            [
+              "Hojasueño",
+              1
+            ],
+            [
+              "Vial de cristal",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Amortigua 1950 a 3250 p. de daño de Escarcha. Dura 2 min. (2 min de tiempo de reutilización)."
+            ],
+            "id": 13456,
+            "ilvl": 58,
+            "n": "Poción de protección de Escarcha superior",
+            "q": "common",
+            "req": 48,
+            "sub": "Pociones",
+            "venta": [
+              "0",
+              "7",
+              "50"
+            ]
+          },
           "quien": []
         },
         {
           "id": 9957,
-          "n": "",
+          "n": "Poción superior de protección a la Naturaleza",
           "q": "common",
+          "ico": "134802",
+          "reac": [
+            [
+              "Elemental de tierra",
+              1
+            ],
+            [
+              "Hojasueño",
+              1
+            ],
+            [
+              "Vial de cristal",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Amortigua 1950 a 3250 p. de daño de Naturaleza. Dura 2 min. (2 min de tiempo de reutilización)."
+            ],
+            "id": 13458,
+            "ilvl": 58,
+            "n": "Poción de protección de Naturaleza superior",
+            "q": "common",
+            "req": 48,
+            "sub": "Pociones",
+            "venta": [
+              "0",
+              "7",
+              "50"
+            ]
+          },
           "quien": []
         },
         {
           "id": 9958,
-          "n": "",
+          "n": "Poción superior de protección Arcana",
           "q": "common",
+          "ico": "134863",
+          "reac": [
+            [
+              "Polvo onírico",
+              1
+            ],
+            [
+              "Hojasueño",
+              1
+            ],
+            [
+              "Vial de cristal",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Amortigua 1950 a 3250 p. de daño Arcano. Dura 2 min. (2 min de tiempo de reutilización)."
+            ],
+            "id": 13461,
+            "ilvl": 58,
+            "n": "Poción de protección de Arcana superior",
+            "q": "common",
+            "req": 48,
+            "sub": "Pociones",
+            "venta": [
+              "0",
+              "7",
+              "50"
+            ]
+          },
           "quien": []
         },
         {
           "id": 9959,
-          "n": "",
+          "n": "Poción superior de protección a las Sombras",
           "q": "common",
+          "ico": "134803",
+          "reac": [
+            [
+              "Aceite de las Sombras",
+              1
+            ],
+            [
+              "Hojasueño",
+              1
+            ],
+            [
+              "Vial de cristal",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Amortigua 1950 a 3250 p. de daño de las Sombras. Dura 2 min. (2 min de tiempo de reutilización)."
+            ],
+            "id": 13459,
+            "ilvl": 58,
+            "n": "Poción de protección de las Sombras superior",
+            "q": "common",
+            "req": 48,
+            "sub": "Pociones",
+            "venta": [
+              "0",
+              "1",
+              "0"
+            ]
+          },
           "quien": []
         },
         {
           "id": 9960,
-          "n": "",
+          "n": "Poción superior de protección Sagrada",
           "q": "common",
+          "reac": [
+            [
+              "Elemental de aire",
+              1
+            ],
+            [
+              "Hojasueño",
+              1
+            ],
+            [
+              "Vial de cristal",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Amortigua 1950 a 3250 p. de daño Sagrado. Dura 2 min. (2 min de tiempo de reutilización)."
+            ],
+            "id": 13460,
+            "ilvl": 58,
+            "n": "Poción de protección Sagrada superior",
+            "q": "common",
+            "req": 48,
+            "sub": "Pociones",
+            "venta": [
+              "0",
+              "7",
+              "50"
+            ]
+          },
           "quien": []
         },
         {
           "id": 11316,
-          "n": "",
+          "n": "Poción limitada de invulnerabilidad",
           "q": "common",
+          "reac": [
+            [
+              "Carolina",
+              2
+            ],
+            [
+              "Champiñón fantasma",
+              1
+            ],
+            [
+              "Vial de cristal",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Quien la ingiere es inmune a los ataques físicos durante los siguientes 6 s. (2 min de tiempo de reutilización)."
+            ],
+            "id": 3387,
+            "ilvl": 50,
+            "n": "Poción de invulnerabilidad limitada",
+            "q": "common",
+            "req": 45,
+            "sub": "Pociones",
+            "venta": [
+              "0",
+              "0",
+              "30"
+            ]
+          },
           "quien": []
         },
         {
           "id": 12894,
-          "n": "",
+          "n": "Poción de acción viviente",
           "q": "common",
+          "ico": "134718",
+          "reac": [
+            [
+              "Setelo",
+              2
+            ],
+            [
+              "Salviargenta de montaña",
+              2
+            ],
+            [
+              "Corazón del Salvaje",
+              2
+            ],
+            [
+              "Vial de cristal",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Te vuelve inmune a los efectos de aturdir y reducción del movimiento durante 5 s. También elimina los efectos de aturdir y reducción del movimiento existentes. (2 min de tiempo de reutilización)."
+            ],
+            "id": 20008,
+            "ilvl": 57,
+            "n": "Poción de acción viva",
+            "q": "common",
+            "req": 47,
+            "sub": "Pociones",
+            "venta": [
+              "0",
+              "6",
+              "0"
+            ]
+          },
           "quien": []
         },
         {
           "id": 54655,
-          "n": "",
+          "n": "Poción de explosión de hechizos menor",
           "q": "common",
+          "reac": [
+            [
+              "Hojaplata",
+              1
+            ],
+            [
+              "Flor de paz",
+              1
+            ],
+            [
+              "Vial vacío",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Aumenta 7 p. el daño con hechizos durante 30 s. (2 min de tiempo de reutilización)."
+            ],
+            "id": 250932,
+            "ilvl": 45,
+            "n": "Poción de explosión de hechizos menor",
+            "q": "common",
+            "req": 5,
+            "sub": "Pociones",
+            "venta": [
+              "0",
+              "0",
+              "1"
+            ]
+          },
           "quien": [
             5
           ]
         },
         {
           "id": 54656,
-          "n": "",
+          "n": "Poción de explosión de hechizos inferior",
           "q": "common",
+          "ico": "463545",
+          "reac": [
+            [
+              "Marregal",
+              1
+            ],
+            [
+              "Hojaplata",
+              2
+            ],
+            [
+              "Vial vacío",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Aumenta 11 p. el daño con hechizos durante 30 s. (2 min de tiempo de reutilización)."
+            ],
+            "id": 250933,
+            "ilvl": 5,
+            "n": "Poción de explosión de hechizos inferior",
+            "q": "common",
+            "req": 15,
+            "sub": "Pociones",
+            "venta": [
+              "0",
+              "0",
+              "25"
+            ]
+          },
           "quien": [
             4
           ]
         },
         {
           "id": 54657,
-          "n": "",
+          "n": "Poción de explosión de hechizos",
           "q": "common",
+          "ico": "463921",
+          "reac": [
+            [
+              "Acérita salvaje",
+              1
+            ],
+            [
+              "Musgo de tumba",
+              1
+            ],
+            [
+              "Vial vacío",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Aumenta 16 p. el daño con hechizos durante 30 s. (2 min de tiempo de reutilización)."
+            ],
+            "id": 250934,
+            "ilvl": 5,
+            "n": "Poción de explosión de hechizos",
+            "q": "common",
+            "req": 25,
+            "sub": "Pociones",
+            "venta": [
+              "0",
+              "0",
+              "25"
+            ]
+          },
           "quien": []
         },
         {
           "id": 54658,
-          "n": "",
+          "n": "Poción de explosión de hechizos superior",
           "q": "common",
+          "ico": "464027",
+          "reac": [
+            [
+              "Sangrerregia",
+              2
+            ],
+            [
+              "Pálida",
+              1
+            ],
+            [
+              "Vial con plomo",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Aumenta 23 p. el daño con hechizos durante 30 s. (2 min de tiempo de reutilización)."
+            ],
+            "id": 250935,
+            "ilvl": 55,
+            "n": "Poción de explosión de hechizos superior",
+            "q": "common",
+            "req": 35,
+            "sub": "Pociones",
+            "venta": [
+              "0",
+              "0",
+              "1"
+            ]
+          },
           "quien": []
         },
         {
           "id": 54659,
-          "n": "",
+          "n": "Poción de explosión de hechizos excelente",
           "q": "common",
+          "ico": "463859",
+          "reac": [
+            [
+              "Invernalia",
+              2
+            ],
+            [
+              "Mostacho de Khadgar",
+              2
+            ],
+            [
+              "Vial con plomo",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Aumenta 33 p. el daño con hechizos durante 30 s. (2 min de tiempo de reutilización)."
+            ],
+            "id": 250936,
+            "ilvl": 55,
+            "n": "Poción de explosión de hechizos excelente",
+            "q": "common",
+            "req": 45,
+            "sub": "Pociones",
+            "venta": [
+              "0",
+              "0",
+              "1"
+            ]
+          },
           "quien": []
         },
         {
           "id": 54660,
-          "n": "",
+          "n": "Poción de explosión de hechizos sublime",
           "q": "common",
+          "ico": "463929",
+          "reac": [
+            [
+              "Hojasueño",
+              2
+            ],
+            [
+              "Salviargenta de montaña",
+              1
+            ],
+            [
+              "Vial imbuida",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Aumenta 47 p. el daño con hechizos durante 30 s. (2 min de tiempo de reutilización)."
+            ],
+            "id": 250937,
+            "ilvl": 5,
+            "n": "Poción de explosión de hechizos sublime",
+            "q": "common",
+            "req": 55,
+            "sub": "Pociones",
+            "venta": [
+              "0",
+              "0",
+              "1"
+            ]
+          },
           "quien": []
         },
         {
           "id": 54661,
-          "n": "",
+          "n": "Poción de frenesí menor",
           "q": "common",
+          "ico": "967555",
+          "reac": [
+            [
+              "Raíz de tierra",
+              1
+            ],
+            [
+              "Hojaplata",
+              1
+            ],
+            [
+              "Vial vacío",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Aumenta 12 p. el poder de ataque durante 30 s. (2 min de tiempo de reutilización)."
+            ],
+            "id": 250938,
+            "ilvl": 25,
+            "n": "Poción de frenesí menor",
+            "q": "common",
+            "req": 5,
+            "sub": "Pociones",
+            "venta": [
+              "0",
+              "0",
+              "1"
+            ]
+          },
           "quien": []
         },
         {
           "id": 54662,
-          "n": "",
+          "n": "Poción de frenesí inferior",
           "q": "common",
+          "ico": "463548",
+          "reac": [
+            [
+              "Brezospina",
+              1
+            ],
+            [
+              "Raíz de tierra",
+              2
+            ],
+            [
+              "Vial vacío",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Aumenta 18 p. el poder de ataque durante 30 s. (2 min de tiempo de reutilización)."
+            ],
+            "id": 250939,
+            "ilvl": 45,
+            "n": "Poción de frenesí inferior",
+            "q": "common",
+            "req": 15,
+            "sub": "Pociones",
+            "venta": [
+              "0",
+              "0",
+              "1"
+            ]
+          },
           "quien": []
         },
         {
           "id": 54663,
-          "n": "",
+          "n": "Poción de frenesí",
           "q": "common",
+          "ico": "463922",
+          "reac": [
+            [
+              "Pálida",
+              2
+            ],
+            [
+              "Brezospina",
+              2
+            ],
+            [
+              "Vial con plomo",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Aumenta 28 p. el poder de ataque durante 30 s. (2 min de tiempo de reutilización)."
+            ],
+            "id": 250940,
+            "ilvl": 55,
+            "n": "Poción de frenesí",
+            "q": "common",
+            "req": 25,
+            "sub": "Pociones",
+            "venta": [
+              "0",
+              "0",
+              "1"
+            ]
+          },
           "quien": []
         },
         {
           "id": 54664,
-          "n": "",
+          "n": "Poción de frenesí superior",
           "q": "common",
+          "ico": "464024",
+          "reac": [
+            [
+              "Flor de Fuego",
+              3
+            ],
+            [
+              "Pálida",
+              2
+            ],
+            [
+              "Vial con plomo",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Aumenta 40 p. el poder de ataque durante 30 s. (2 min de tiempo de reutilización)."
+            ],
+            "id": 250941,
+            "ilvl": 45,
+            "n": "Poción de frenesí superior",
+            "q": "common",
+            "req": 35,
+            "sub": "Pociones",
+            "venta": [
+              "0",
+              "0",
+              "1"
+            ]
+          },
           "quien": []
         },
         {
           "id": 54665,
-          "n": "",
+          "n": "Poción de frenesí excelente",
           "q": "common",
+          "ico": "463863",
+          "reac": [
+            [
+              "Carolina",
+              3
+            ],
+            [
+              "Flor de Fuego",
+              2
+            ],
+            [
+              "Vial de cristal",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Aumenta 56 p. el poder de ataque durante 30 s. (2 min de tiempo de reutilización)."
+            ],
+            "id": 250942,
+            "ilvl": 55,
+            "n": "Poción de frenesí excelente",
+            "q": "common",
+            "req": 45,
+            "sub": "Pociones",
+            "venta": [
+              "0",
+              "0",
+              "1"
+            ]
+          },
           "quien": []
         },
         {
           "id": 54666,
-          "n": "",
+          "n": "Poción de frenesí sublime",
           "q": "common",
+          "ico": "463931",
+          "reac": [
+            [
+              "Flor de peste",
+              3
+            ],
+            [
+              "Carolina",
+              2
+            ],
+            [
+              "Vial imbuida",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Aumenta 80 p. el poder de ataque durante 30 s. (2 min de tiempo de reutilización)."
+            ],
+            "id": 250943,
+            "ilvl": 55,
+            "n": "Poción de frenesí sublime",
+            "q": "common",
+            "req": 55,
+            "sub": "Pociones",
+            "venta": [
+              "0",
+              "0",
+              "1"
+            ]
+          },
           "quien": []
         },
         {
           "id": 54667,
-          "n": "",
+          "n": "Poción de ensalmador menor",
           "q": "common",
+          "ico": "967556",
+          "reac": [
+            [
+              "Marregal",
+              2
+            ],
+            [
+              "Hierba cardenal",
+              1
+            ],
+            [
+              "Vial vacío",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Aumenta 13 p. la sanación con hechizos durante 30 s. (2 min de tiempo de reutilización)."
+            ],
+            "id": 250944,
+            "ilvl": 55,
+            "n": "Poción de ensalmador menor",
+            "q": "common",
+            "req": 5,
+            "sub": "Pociones",
+            "venta": [
+              "0",
+              "0",
+              "1"
+            ]
+          },
           "quien": [
             6
           ]
         },
         {
           "id": 54668,
-          "n": "",
+          "n": "Poción de ensalmador inferior",
           "q": "common",
+          "reac": [
+            [
+              "Sangrerregia",
+              2
+            ],
+            [
+              "Vidarraíz",
+              2
+            ],
+            [
+              "Vial con plomo",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Aumenta 20 p. la sanación con hechizos durante 30 s. (2 min de tiempo de reutilización)."
+            ],
+            "id": 250945,
+            "ilvl": 55,
+            "n": "Poción de ensalmador inferior",
+            "q": "common",
+            "req": 15,
+            "sub": "Pociones",
+            "venta": [
+              "0",
+              "0",
+              "1"
+            ]
+          },
           "quien": [
             4
           ]
         },
         {
           "id": 54669,
-          "n": "",
+          "n": "Poción de ensalmador",
           "q": "common",
+          "ico": "463925",
+          "reac": [
+            [
+              "Invernalia",
+              2
+            ],
+            [
+              "Flor de Fuego",
+              2
+            ],
+            [
+              "Vial con plomo",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Aumenta 31 p. la sanación con hechizos durante 30 s. (2 min de tiempo de reutilización)."
+            ],
+            "id": 250946,
+            "ilvl": 5,
+            "n": "Poción de ensalmador",
+            "q": "common",
+            "req": 25,
+            "sub": "Pociones",
+            "venta": [
+              "0",
+              "0",
+              "1"
+            ]
+          },
           "quien": []
         },
         {
           "id": 54670,
-          "n": "",
+          "n": "Poción de ensalmador superior",
           "q": "common",
+          "ico": "464026",
+          "reac": [
+            [
+              "Lágrimas de Arthas",
+              2
+            ],
+            [
+              "Loto morado",
+              1
+            ],
+            [
+              "Vial de cristal",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Aumenta 44 p. la sanación con hechizos durante 30 s. (2 min de tiempo de reutilización)."
+            ],
+            "id": 250947,
+            "ilvl": 25,
+            "n": "Poción de ensalmador superior",
+            "q": "common",
+            "req": 35,
+            "sub": "Pociones",
+            "venta": [
+              "0",
+              "0",
+              "1"
+            ]
+          },
           "quien": []
         },
         {
           "id": 54671,
-          "n": "",
+          "n": "Poción de ensalmador excelente",
           "q": "common",
+          "reac": [
+            [
+              "Solea",
+              2
+            ],
+            [
+              "Lágrimas de Arthas",
+              1
+            ],
+            [
+              "Vial de cristal",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Aumenta 62 p. la sanación con hechizos durante 30 s. (2 min de tiempo de reutilización)."
+            ],
+            "id": 250948,
+            "ilvl": 55,
+            "n": "Poción de ensalmador excelente",
+            "q": "common",
+            "req": 45,
+            "sub": "Pociones",
+            "venta": [
+              "0",
+              "0",
+              "1"
+            ]
+          },
           "quien": []
         },
         {
           "id": 54672,
-          "n": "",
+          "n": "Poción de ensalmador sublime",
           "q": "common",
+          "ico": "463927",
+          "reac": [
+            [
+              "Hojasueño",
+              3
+            ],
+            [
+              "Solea",
+              1
+            ],
+            [
+              "Vial imbuida",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Aumenta 88 p. la sanación con hechizos durante 30 s. (2 min de tiempo de reutilización)."
+            ],
+            "id": 250949,
+            "ilvl": 25,
+            "n": "Poción de ensalmador sublime",
+            "q": "common",
+            "req": 55,
+            "sub": "Pociones",
+            "venta": [
+              "0",
+              "0",
+              "1"
+            ]
+          },
           "quien": []
         },
         {
           "id": 54673,
-          "n": "",
+          "n": "Poción de sangre venenosa",
           "q": "common",
+          "ico": "134799",
+          "reac": [
+            [
+              "Gromsanguina",
+              3
+            ],
+            [
+              "Flor de peste",
+              2
+            ],
+            [
+              "Vial de cristal",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Obtienes 10 dosis de sangre venenosa. Cada vez que recibes daño de sangrado, una dosis se transmite a un enemigo cercano en un radio de 8 m. Dura hasta 20 s. Al agotarse, la sangre venenosa inflige 325 p. de daño de Naturaleza por cad"
+            ],
+            "id": 250950,
+            "ilvl": 55,
+            "n": "Poción de sangre venenosa",
+            "q": "common",
+            "req": 30,
+            "sub": "Pociones",
+            "venta": [
+              "0",
+              "0",
+              "1"
+            ]
+          },
           "quien": []
         },
         {
           "id": 54674,
-          "n": "",
+          "n": "Poción de humo cáustico",
           "q": "common",
+          "reac": [
+            [
+              "Champiñón fantasma",
+              2
+            ],
+            [
+              "Musgo de tumba",
+              2
+            ],
+            [
+              "Vial de cristal",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Lanzas un brebaje frágil al área seleccionada que librea una nube de humo cáustico durante 12 s. Los enemigos en su interior reciben 31 a 35 p. de daño de Naturaleza cada 1 s. (2 min de tiempo de reutilización)."
+            ],
+            "id": 250951,
+            "ilvl": 5,
+            "n": "Poción de humo cáustico",
+            "q": "common",
+            "req": 45,
+            "sub": "Pociones",
+            "venta": [
+              "0",
+              "0",
+              "1"
+            ]
+          },
           "quien": []
         },
         {
           "id": 54676,
-          "n": "",
+          "n": "Poción de fuego de dragón",
           "q": "common",
+          "ico": "134813",
+          "reac": [
+            [
+              "Salviargenta de montaña",
+              2
+            ],
+            [
+              "Flor de Fuego",
+              2
+            ],
+            [
+              "Vial de cristal",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Eructas un fuego de dragón que inflige 280 p. de daño de Fuego al instante en un cono estrecho frente a ti. Los objetivos afectados recibirán 35 p. más de daño cada 2 s durante 8 s. (2 min de tiempo de reutilización)."
+            ],
+            "id": 250953,
+            "ilvl": 45,
+            "n": "Poción de fuego de dragón",
+            "q": "common",
+            "req": 35,
+            "sub": "Pociones",
+            "venta": [
+              "0",
+              "0",
+              "1"
+            ]
+          },
           "quien": []
         },
         {
           "id": 54677,
-          "n": "",
+          "n": "Poción de purga elemental",
           "q": "common",
+          "reac": [
+            [
+              "Flor de Fuego",
+              2
+            ],
+            [
+              "Invernalia",
+              2
+            ],
+            [
+              "Vial de cristal",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Aumenta 105 p. el daño con hechizos contra elementales. Dura 5 min. (2 min de tiempo de reutilización)."
+            ],
+            "id": 250954,
+            "ilvl": 55,
+            "n": "Poción de purga elemental",
+            "q": "common",
+            "req": 40,
+            "sub": "Pociones",
+            "venta": [
+              "0",
+              "0",
+              "1"
+            ]
+          },
           "quien": []
         },
         {
           "id": 54678,
-          "n": "",
+          "n": "Poción de matanza de bestias",
           "q": "common",
+          "ico": "2057578",
+          "reac": [
+            [
+              "Gromsanguina",
+              2
+            ],
+            [
+              "Flor de peste",
+              2
+            ],
+            [
+              "Vial imbuida",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Aumenta 180 p. el poder de ataque contra bestias. Dura 5 min. (2 min de tiempo de reutilización)."
+            ],
+            "id": 250955,
+            "ilvl": 55,
+            "n": "Poción de matanza de bestias",
+            "q": "common",
+            "req": 40,
+            "sub": "Pociones",
+            "venta": [
+              "0",
+              "0",
+              "1"
+            ]
+          },
           "quien": []
         }
       ]
@@ -1029,20 +5005,96 @@
       "recetas": [
         {
           "id": 1384,
-          "n": "",
+          "n": "Jarabe de lenguas",
           "q": "common",
+          "ico": "134743",
+          "reac": [
+            [
+              "Raíz de tierra",
+              2
+            ],
+            [
+              "Marregal",
+              2
+            ],
+            [
+              "Vial vacío",
+              1
+            ]
+          ],
           "quien": []
         },
         {
           "id": 1936,
-          "n": "",
+          "n": "Jarabe de detección de invisibilidad inferior",
           "q": "common",
+          "reac": [
+            [
+              "Mostacho de Khadgar",
+              1
+            ],
+            [
+              "Pálida",
+              1
+            ],
+            [
+              "Vial con plomo",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Da la facultad de detectar invisibilidad inferior durante 10 min. (3 s de tiempo de reutilización)."
+            ],
+            "id": 3828,
+            "ilvl": 39,
+            "n": "Jarabe de detección de invisibilidad inferior",
+            "q": "common",
+            "req": 29,
+            "sub": "Elixires",
+            "venta": [
+              "0",
+              "1",
+              "50"
+            ]
+          },
           "quien": []
         },
         {
           "id": 4176,
-          "n": "",
+          "n": "Jarabe de respiración acuática",
           "q": "common",
+          "ico": "134797",
+          "reac": [
+            [
+              "Alga estranguladora",
+              1
+            ],
+            [
+              "Aceite bocanegra",
+              2
+            ],
+            [
+              "Vial vacío",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Permite al objetivo respirar bajo el agua durante 30 min. (3 s de tiempo de reutilización)."
+            ],
+            "id": 5996,
+            "ilvl": 18,
+            "n": "Jarabe de respiración acuática",
+            "q": "common",
+            "req": 8,
+            "sub": "Elixires",
+            "venta": [
+              "0",
+              "0",
+              "95"
+            ]
+          },
           "quien": [
             0,
             1,
@@ -1053,52 +5105,270 @@
         },
         {
           "id": 5996,
-          "n": "",
+          "n": "Jarabe de caminar sobre el agua",
           "q": "common",
+          "ico": "134776",
+          "reac": [
+            [
+              "Aceite bocanegra",
+              1
+            ],
+            [
+              "Vidarraíz",
+              1
+            ],
+            [
+              "Vial con plomo",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Te permite caminar sobre el agua durante 30 min. (3 s de tiempo de reutilización)."
+            ],
+            "id": 8827,
+            "ilvl": 34,
+            "n": "Jarabe de caminar sobre el agua",
+            "q": "common",
+            "req": 24,
+            "sub": "Elixires",
+            "venta": [
+              "0",
+              "1",
+              "25"
+            ]
+          },
           "quien": []
         },
         {
           "id": 6008,
-          "n": "",
+          "n": "Jarabe de detección de no-muertos",
           "q": "common",
+          "ico": "134833",
+          "reac": [
+            [
+              "Lágrimas de Arthas",
+              1
+            ],
+            [
+              "Vial de cristal",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Muestra la ubicación de los no-muertos cercanos en el minimapa durante 1 h. (3 s de tiempo de reutilización)."
+            ],
+            "id": 9154,
+            "ilvl": 46,
+            "n": "Jarabe de detección de no-muertos",
+            "q": "common",
+            "req": 36,
+            "sub": "Elixires",
+            "venta": [
+              "0",
+              "3",
+              "0"
+            ]
+          },
           "quien": []
         },
         {
           "id": 6014,
-          "n": "",
+          "n": "Jarabe de visión onírica",
           "q": "common",
+          "ico": "134765",
+          "reac": [
+            [
+              "Loto morado",
+              3
+            ],
+            [
+              "Vial de cristal",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Te da una visión de ensueño a través de la cual puedes explorar áreas demasiado peligrosas para explorarlas personalmente. (3 s de tiempo de reutilización)."
+            ],
+            "id": 9197,
+            "ilvl": 48,
+            "n": "Jarabe de visión onírica",
+            "q": "common",
+            "req": 38,
+            "sub": "Elixires",
+            "venta": [
+              "0",
+              "6",
+              "0"
+            ]
+          },
           "quien": []
         },
         {
           "id": 6019,
-          "n": "",
+          "n": "Jarabe de detección de demonios",
           "q": "common",
+          "ico": "134833",
+          "reac": [
+            [
+              "Gromsanguina",
+              2
+            ],
+            [
+              "Vial de cristal",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Muestra la ubicación de los demonios cercanos en el minimapa durante 1 h. (3 s de tiempo de reutilización)."
+            ],
+            "id": 9233,
+            "ilvl": 50,
+            "n": "Jarabe de detección de demonios",
+            "q": "common",
+            "req": 40,
+            "sub": "Elixires",
+            "venta": [
+              "0",
+              "5",
+              "0"
+            ]
+          },
           "quien": []
         },
         {
           "id": 6848,
-          "n": "",
+          "n": "Jarabe Ojo de gato",
           "q": "common",
+          "reac": [
+            [
+              "Espina de oro",
+              1
+            ],
+            [
+              "Pálida",
+              1
+            ],
+            [
+              "Vial con plomo",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Aumenta ligeramente tu detección de sigilo durante 10 min. (3 s de tiempo de reutilización)."
+            ],
+            "id": 10592,
+            "ilvl": 40,
+            "n": "Jarabe Ojo de gato",
+            "q": "common",
+            "req": 30,
+            "sub": "Elixires",
+            "venta": [
+              "0",
+              "1",
+              "50"
+            ]
+          },
           "quien": [
             0
           ]
         },
         {
           "id": 12322,
-          "n": "",
+          "n": "Jarabe de respiración acuática superior",
           "q": "common",
+          "ico": "134716",
+          "reac": [
+            [
+              "Icor de no-muerto",
+              1
+            ],
+            [
+              "Loto morado",
+              2
+            ],
+            [
+              "Vial de cristal",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Permite a quien la bebe respirar bajo el agua durante 1 h. (3 s de tiempo de reutilización)."
+            ],
+            "id": 18294,
+            "ilvl": 45,
+            "n": "Jarabe de respiración acuática superior",
+            "q": "common",
+            "req": 35,
+            "sub": "Elixires",
+            "venta": [
+              "0",
+              "2",
+              "50"
+            ]
+          },
           "quien": []
         },
         {
           "id": 54533,
-          "n": "",
+          "n": "Jarabe revelador",
           "q": "common",
+          "reac": [
+            [
+              "Pálida",
+              3
+            ],
+            [
+              "Mostacho de Khadgar",
+              1
+            ],
+            [
+              "Vial con plomo",
+              1
+            ]
+          ],
           "quien": []
         },
         {
           "id": 54534,
-          "n": "",
+          "n": "Poción de instintos depredadores",
           "q": "common",
+          "ico": "967555",
+          "reac": [
+            [
+              "Pálida",
+              2
+            ],
+            [
+              "Espina de oro",
+              2
+            ],
+            [
+              "Vial con plomo",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Bebe esto para aumentar ligeramente tu detección de sigilo. Si permaneces inmóvil durante 3 s, los enemigos ocultos cercanos pueden dejar un rastro de calor al moverse. Dura 1,5 min. (2 min de tiempo de reutilización)."
+            ],
+            "id": 250327,
+            "ilvl": 45,
+            "n": "Poción de instintos depredadores",
+            "q": "common",
+            "req": 45,
+            "sub": "Elixires",
+            "venta": [
+              "0",
+              "1",
+              "0"
+            ]
+          },
           "quien": []
         }
       ]
@@ -1108,14 +5378,78 @@
       "recetas": [
         {
           "id": 1932,
-          "n": "",
+          "n": "Aceite de las Sombras",
           "q": "common",
+          "ico": "134803",
+          "reac": [
+            [
+              "Pálida",
+              4
+            ],
+            [
+              "Musgo de tumba",
+              4
+            ],
+            [
+              "Vial con plomo",
+              1
+            ]
+          ],
+          "cant": 2.0,
+          "obj": {
+            "efectos": [
+              "Usar: Si se aplica a un arma cuerpo a cuerpo otorga un 15% de probabilidad de lanzar Descarga de las Sombras al enemigo. Dura 30 minutos. (1 s de tiempo de reutilización)."
+            ],
+            "id": 3824,
+            "ilvl": 34,
+            "n": "Aceite de las Sombras",
+            "q": "common",
+            "req": 24,
+            "sub": "Otros",
+            "venta": [
+              "0",
+              "1",
+              "50"
+            ]
+          },
           "quien": []
         },
         {
           "id": 1937,
-          "n": "",
+          "n": "Aceite de Escarcha",
           "q": "common",
+          "ico": "134800",
+          "reac": [
+            [
+              "Mostacho de Khadgar",
+              4
+            ],
+            [
+              "Invernalia",
+              2
+            ],
+            [
+              "Vial con plomo",
+              1
+            ]
+          ],
+          "cant": 2.0,
+          "obj": {
+            "efectos": [
+              "Usar: Si se aplica a un arma cuerpo a cuerpo otorga un 10% de probabilidad de lanzar Descarga de Escarcha al enemigo. Dura 30 minutos. (1 s de tiempo de reutilización)."
+            ],
+            "id": 3829,
+            "ilvl": 40,
+            "n": "Aceite escarchado",
+            "q": "common",
+            "req": 30,
+            "sub": "Otros",
+            "venta": [
+              "0",
+              "1",
+              "50"
+            ]
+          },
           "quien": []
         }
       ]
@@ -1125,8 +5459,31 @@
       "recetas": [
         {
           "id": 4393,
-          "n": "",
+          "n": "Aceite de bocanegra",
           "q": "common",
+          "ico": "132799",
+          "reac": [
+            [
+              "Bocanegra graso",
+              2
+            ],
+            [
+              "Vial vacío",
+              1
+            ]
+          ],
+          "obj": {
+            "id": 6370,
+            "ilvl": 15,
+            "n": "Aceite bocanegra",
+            "q": "common",
+            "sub": "Otros",
+            "venta": [
+              "0",
+              "0",
+              "10"
+            ]
+          },
           "quien": [
             0,
             1,
@@ -1139,8 +5496,32 @@
         },
         {
           "id": 4394,
-          "n": "",
+          "n": "Aceite de Fuego",
           "q": "common",
+          "ico": "134818",
+          "reac": [
+            [
+              "Pargo de Fuego",
+              2
+            ],
+            [
+              "Vial vacío",
+              1
+            ]
+          ],
+          "cant": 2.0,
+          "obj": {
+            "id": 6371,
+            "ilvl": 25,
+            "n": "Aceite de fuego",
+            "q": "common",
+            "sub": "Otros",
+            "venta": [
+              "0",
+              "0",
+              "12"
+            ]
+          },
           "quien": [
             0,
             1
@@ -1148,32 +5529,154 @@
         },
         {
           "id": 6004,
-          "n": "",
+          "n": "Gasolina de cohete goblin",
           "q": "common",
+          "ico": "132621",
+          "reac": [
+            [
+              "Flor de Fuego",
+              1
+            ],
+            [
+              "Ron volátil",
+              1
+            ],
+            [
+              "Vial con plomo",
+              1
+            ]
+          ],
+          "cant": 2.0,
+          "obj": {
+            "id": 9061,
+            "ilvl": 42,
+            "n": "Combustible de cohete goblin",
+            "q": "common",
+            "sub": "Piezas",
+            "venta": [
+              "0",
+              "2",
+              "50"
+            ]
+          },
           "quien": []
         },
         {
           "id": 6016,
-          "n": "",
+          "n": "Tintura fantasmal",
           "q": "common",
+          "ico": "134711",
+          "reac": [
+            [
+              "Champiñón fantasma",
+              2
+            ],
+            [
+              "Tinte morado",
+              1
+            ],
+            [
+              "Vial de cristal",
+              1
+            ]
+          ],
+          "cant": 2.0,
+          "obj": {
+            "id": 9210,
+            "ilvl": 49,
+            "n": "Tinte de fantasma",
+            "q": "common",
+            "sub": "Otros",
+            "venta": [
+              "0",
+              "7",
+              "50"
+            ]
+          },
           "quien": []
         },
         {
           "id": 9936,
-          "n": "",
+          "n": "Aceite de escamas de piedra",
           "q": "common",
+          "reac": [
+            [
+              "Anguila Escama Tormentosa",
+              1
+            ],
+            [
+              "Vial con plomo",
+              1
+            ]
+          ],
+          "cant": 2.0,
+          "obj": {
+            "id": 13423,
+            "ilvl": 50,
+            "n": "Aceite de Escama Tormentosa",
+            "q": "common",
+            "sub": "Otros",
+            "venta": [
+              "0",
+              "1",
+              "25"
+            ]
+          },
           "quien": []
         },
         {
           "id": 12216,
-          "n": "",
-          "q": "common",
+          "n": "Escama refinada de Onyxia",
+          "q": "rare",
+          "ico": "134309",
+          "reac": [
+            [
+              "Escama de Onyxia",
+              1
+            ]
+          ],
+          "desc": "Transmuta una escama de Onyxia en escama refinada de Onyxia.",
+          "obj": {
+            "id": 17967,
+            "ilvl": 60,
+            "n": "Escama refinada de Onyxia",
+            "q": "rare",
+            "sub": "Cuero",
+            "venta": [
+              "0",
+              "50",
+              "0"
+            ]
+          },
           "quien": []
         },
         {
           "id": 54453,
-          "n": "",
-          "q": "common",
+          "n": "Tinte cerúleo",
+          "q": "uncommon",
+          "ico": "1021860",
+          "reac": [
+            [
+              "Liquen con volantes",
+              2
+            ],
+            [
+              "Vial vacío",
+              1
+            ]
+          ],
+          "obj": {
+            "id": 249409,
+            "ilvl": 25,
+            "n": "Tinte cerúleo",
+            "q": "uncommon",
+            "sub": "Otros",
+            "venta": [
+              "0",
+              "0",
+              "75"
+            ]
+          },
           "quien": [
             0,
             1,
@@ -1187,8 +5690,31 @@
         },
         {
           "id": 54454,
-          "n": "",
-          "q": "common",
+          "n": "Tinte magenta",
+          "q": "uncommon",
+          "ico": "237071",
+          "reac": [
+            [
+              "Sombrerrosa",
+              2
+            ],
+            [
+              "Vial con plomo",
+              1
+            ]
+          ],
+          "obj": {
+            "id": 249430,
+            "ilvl": 45,
+            "n": "Tinte magenta",
+            "q": "uncommon",
+            "sub": "Otros",
+            "venta": [
+              "0",
+              "2",
+              "50"
+            ]
+          },
           "quien": [
             0,
             1,
@@ -1197,14 +5723,60 @@
         },
         {
           "id": 54455,
-          "n": "",
-          "q": "common",
+          "n": "Tinte viridiano",
+          "q": "uncommon",
+          "ico": "237062",
+          "reac": [
+            [
+              "Estranguladora",
+              2
+            ],
+            [
+              "Vial de cristal",
+              1
+            ]
+          ],
+          "obj": {
+            "id": 249431,
+            "ilvl": 60,
+            "n": "Tinte viridiano",
+            "q": "uncommon",
+            "sub": "Otros",
+            "venta": [
+              "0",
+              "3",
+              "75"
+            ]
+          },
           "quien": []
         },
         {
           "id": 54456,
-          "n": "",
-          "q": "common",
+          "n": "Ácido sulfúrico",
+          "q": "uncommon",
+          "ico": "136240",
+          "reac": [
+            [
+              "Pirita",
+              2
+            ],
+            [
+              "Vial vacío",
+              1
+            ]
+          ],
+          "obj": {
+            "id": 249410,
+            "ilvl": 25,
+            "n": "Ácido sulfúrico",
+            "q": "uncommon",
+            "sub": "Otros",
+            "venta": [
+              "0",
+              "1",
+              "25"
+            ]
+          },
           "quien": [
             0,
             1,
@@ -1223,20 +5795,134 @@
       "recetas": [
         {
           "id": 6007,
-          "n": "",
+          "n": "Piedra de filósofo",
           "q": "common",
+          "ico": "134333",
+          "reac": [
+            [
+              "Lingote de hierro",
+              4
+            ],
+            [
+              "Vitriolo negro",
+              1
+            ],
+            [
+              "Loto morado",
+              4
+            ],
+            [
+              "Flor de Fuego",
+              4
+            ]
+          ],
+          "obj": {
+            "id": 9149,
+            "ilvl": 45,
+            "lig": "Se liga al recogerlo",
+            "n": "Piedra de filósofo",
+            "q": "common",
+            "sub": "Misceláneo",
+            "venta": [
+              "0",
+              "2",
+              "50"
+            ]
+          },
           "quien": []
         },
         {
           "id": 9976,
-          "n": "",
-          "q": "common",
+          "n": "Piedra del alquimista",
+          "q": "uncommon",
+          "ico": "134334",
+          "reac": [
+            [
+              "Esencia de Fuego",
+              8
+            ],
+            [
+              "Esencia de tierra",
+              8
+            ],
+            [
+              "Esencia de aire",
+              8
+            ],
+            [
+              "Esencia de agua",
+              8
+            ],
+            [
+              "Esencia viva",
+              8
+            ],
+            [
+              "Vitriolo negro",
+              2
+            ],
+            [
+              "Loto negro",
+              4
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Equipar: Aumenta en un 20% el efecto sobre el portador de las pociones de maná y pociones de sanación."
+            ],
+            "id": 13503,
+            "ilvl": 50,
+            "lig": "Se liga al recogerlo",
+            "n": "Piedra de alquimista",
+            "q": "uncommon",
+            "ranura": "Alhaja",
+            "req": 45,
+            "stats": [
+              "+4 espíritu"
+            ],
+            "sub": "Misceláneo",
+            "venta": [
+              "2",
+              "50",
+              "0"
+            ]
+          },
           "quien": []
         },
         {
           "id": 12876,
-          "n": "",
-          "q": "common",
+          "n": "Locura de mojo Gurubashi",
+          "q": "rare",
+          "ico": "134711",
+          "reac": [
+            [
+              "Sangre de héroes",
+              1
+            ],
+            [
+              "Mojo macizo",
+              1
+            ],
+            [
+              "Mojo potente",
+              6
+            ],
+            [
+              "Loto negro",
+              1
+            ]
+          ],
+          "cant": 3.0,
+          "obj": {
+            "efectos": [
+              "Usar: Extingue el Blandón de la Locura."
+            ],
+            "id": 19931,
+            "ilvl": 1,
+            "n": "Locura mojo de Gurubashi",
+            "q": "rare",
+            "sub": "Misión"
+          },
           "quien": []
         }
       ]
@@ -1246,68 +5932,283 @@
       "recetas": [
         {
           "id": 6020,
-          "n": "",
-          "q": "common",
+          "n": "Transmutar: hierro a oro",
+          "q": "uncommon",
+          "reac": [
+            [
+              "Lingote de hierro",
+              1
+            ]
+          ],
+          "desc": "Transmuta un lingote de hierro en uno de oro. Esta transmutación inferior solo se puede realizar una vez por hora.",
+          "obj": {
+            "id": 3577,
+            "ilvl": 30,
+            "n": "Lingote de oro",
+            "q": "uncommon",
+            "sub": "Metal y piedra",
+            "venta": [
+              "0",
+              "6",
+              "0"
+            ]
+          },
           "quien": []
         },
         {
           "id": 6021,
-          "n": "",
-          "q": "common",
+          "n": "Transmutar: mitril a veraplata",
+          "q": "uncommon",
+          "ico": "133222",
+          "reac": [
+            [
+              "Lingote de mitril",
+              1
+            ]
+          ],
+          "desc": "Transmuta un lingote de mitril en uno de veraplata. Esta transmutación inferior solo se puede realizar una vez por hora.",
+          "obj": {
+            "id": 6037,
+            "ilvl": 50,
+            "n": "Lingote de veraplata",
+            "q": "uncommon",
+            "sub": "Metal y piedra",
+            "venta": [
+              "0",
+              "12",
+              "50"
+            ]
+          },
           "quien": []
         },
         {
           "id": 9943,
-          "n": "",
-          "q": "common",
+          "n": "Transmutar: aire en fuego",
+          "q": "uncommon",
+          "reac": [
+            [
+              "Esencia de aire",
+              1
+            ]
+          ],
+          "desc": "Transmuta esencia de Aire en esencia de Fuego.",
+          "obj": {
+            "id": 7078,
+            "ilvl": 55,
+            "n": "Esencia de Fuego",
+            "q": "uncommon",
+            "sub": "Elemental",
+            "venta": [
+              "0",
+              "4",
+              "0"
+            ]
+          },
           "quien": []
         },
         {
           "id": 9944,
-          "n": "",
-          "q": "common",
+          "n": "Transmutar: tierra a agua",
+          "q": "uncommon",
+          "ico": "136007",
+          "reac": [
+            [
+              "Esencia de tierra",
+              1
+            ]
+          ],
+          "desc": "Transmuta esencia de tierra en esencia de agua.",
+          "obj": {
+            "id": 7080,
+            "ilvl": 55,
+            "n": "Esencia de agua",
+            "q": "uncommon",
+            "sub": "Elemental",
+            "venta": [
+              "0",
+              "4",
+              "0"
+            ]
+          },
           "quien": []
         },
         {
           "id": 9945,
-          "n": "",
-          "q": "common",
+          "n": "Transmutar: tierra a vida",
+          "q": "uncommon",
+          "ico": "136006",
+          "reac": [
+            [
+              "Esencia de tierra",
+              1
+            ]
+          ],
+          "desc": "Transmuta esencia de Tierra en esencia viva.",
+          "obj": {
+            "id": 12803,
+            "ilvl": 55,
+            "n": "Esencia viva",
+            "q": "uncommon",
+            "sub": "Elemental",
+            "venta": [
+              "0",
+              "5",
+              "0"
+            ]
+          },
           "quien": []
         },
         {
           "id": 9946,
-          "n": "",
-          "q": "common",
+          "n": "Transmutar: fuego a tierra",
+          "q": "uncommon",
+          "reac": [
+            [
+              "Esencia de Fuego",
+              1
+            ]
+          ],
+          "desc": "Transmuta esencia de Fuego en esencia de Tierra.",
+          "obj": {
+            "id": 7076,
+            "ilvl": 55,
+            "n": "Esencia de tierra",
+            "q": "uncommon",
+            "sub": "Elemental",
+            "venta": [
+              "0",
+              "4",
+              "0"
+            ]
+          },
           "quien": []
         },
         {
           "id": 9947,
-          "n": "",
-          "q": "common",
+          "n": "Transmutar: no-muerte a agua",
+          "q": "uncommon",
+          "ico": "136007",
+          "reac": [
+            [
+              "Esencia de no-muerto",
+              1
+            ]
+          ],
+          "desc": "Purifica esencia de no-muerto y la transmuta en esencia de Agua.",
+          "obj": {
+            "id": 7080,
+            "ilvl": 55,
+            "n": "Esencia de agua",
+            "q": "uncommon",
+            "sub": "Elemental",
+            "venta": [
+              "0",
+              "4",
+              "0"
+            ]
+          },
           "quien": []
         },
         {
           "id": 9948,
-          "n": "",
-          "q": "common",
+          "n": "Transmutar: agua a aire",
+          "q": "uncommon",
+          "ico": "136022",
+          "reac": [
+            [
+              "Esencia de agua",
+              1
+            ]
+          ],
+          "desc": "Transmuta esencia de Agua en esencia de Aire.",
+          "obj": {
+            "id": 7082,
+            "ilvl": 55,
+            "n": "Esencia de aire",
+            "q": "uncommon",
+            "sub": "Elemental",
+            "venta": [
+              "0",
+              "4",
+              "0"
+            ]
+          },
           "quien": []
         },
         {
           "id": 9949,
-          "n": "",
-          "q": "common",
+          "n": "Transmutar: agua a no-muerte",
+          "q": "uncommon",
+          "reac": [
+            [
+              "Esencia de agua",
+              1
+            ]
+          ],
+          "desc": "Corrompe la esencia de Agua y la transmuta en esencia de no-muerto.",
+          "obj": {
+            "id": 12808,
+            "ilvl": 55,
+            "n": "Esencia de no-muerto",
+            "q": "uncommon",
+            "sub": "Elemental",
+            "venta": [
+              "0",
+              "10",
+              "0"
+            ]
+          },
           "quien": []
         },
         {
           "id": 9950,
-          "n": "",
-          "q": "common",
+          "n": "Transmutar: vida a tierra",
+          "q": "uncommon",
+          "reac": [
+            [
+              "Esencia viva",
+              1
+            ]
+          ],
+          "desc": "Transmuta esencia viva en esencia de Tierra.",
+          "obj": {
+            "id": 7076,
+            "ilvl": 55,
+            "n": "Esencia de tierra",
+            "q": "uncommon",
+            "sub": "Elemental",
+            "venta": [
+              "0",
+              "4",
+              "0"
+            ]
+          },
           "quien": []
         },
         {
           "id": 13146,
-          "n": "",
+          "n": "Transmutar: fuego elemental",
           "q": "common",
+          "reac": [
+            [
+              "Corazón de fuego",
+              1
+            ]
+          ],
+          "cant": 3.0,
+          "desc": "Transmuta un corazón de fuego en 3 fuegos elementales.",
+          "obj": {
+            "id": 7068,
+            "ilvl": 25,
+            "n": "Elemental de Fuego",
+            "q": "common",
+            "sub": "Elemental",
+            "venta": [
+              "0",
+              "4",
+              "0"
+            ]
+          },
           "quien": []
         }
       ]
@@ -1317,14 +6218,61 @@
       "recetas": [
         {
           "id": 9840,
-          "n": "",
-          "q": "common",
+          "n": "Transmutar: arcanita",
+          "q": "uncommon",
+          "reac": [
+            [
+              "Lingote de torio",
+              1
+            ],
+            [
+              "Cristal Arcano",
+              1
+            ]
+          ],
+          "desc": "Transmuta un lingote de torio y un cristal Arcano en una barra de arcanita.",
+          "obj": {
+            "id": 12360,
+            "ilvl": 55,
+            "n": "Lingote de arcanita",
+            "q": "uncommon",
+            "sub": "Metal y piedra",
+            "venta": [
+              "0",
+              "50",
+              "0"
+            ]
+          },
           "quien": []
         },
         {
           "id": 59405,
-          "n": "",
-          "q": "common",
+          "n": "Transmutar: legionita",
+          "q": "uncommon",
+          "ico": "1416159",
+          "reac": [
+            [
+              "Barra de torio pesado",
+              1
+            ],
+            [
+              "Cristal vil",
+              1
+            ]
+          ],
+          "desc": "Transmuta una barra de torio pesado y un cristal vil en una barra de legionita.",
+          "obj": {
+            "id": 251290,
+            "ilvl": 60,
+            "n": "Barra de legionita",
+            "q": "uncommon",
+            "sub": "Metal y piedra",
+            "venta": [
+              "0",
+              "50",
+              "0"
+            ]
+          },
           "quien": []
         }
       ]
@@ -1334,56 +6282,370 @@
       "recetas": [
         {
           "id": 9977,
-          "n": "",
+          "n": "Frasco de petrificación",
           "q": "common",
+          "ico": "134806",
+          "reac": [
+            [
+              "Aceite de Escama Tormentosa",
+              30
+            ],
+            [
+              "Salviargenta de montaña",
+              10
+            ],
+            [
+              "Loto negro",
+              1
+            ],
+            [
+              "Vial de cristal",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Te conviertes en piedra, lo que te protege de ataques físicos y hechizos durante 1 min, pero no puedes moverte, atacar ni lanzar hechizos. Solo puedes tener el efecto de un frasco cada vez. (3 s de tiempo de reutilización)."
+            ],
+            "id": 13506,
+            "ilvl": 60,
+            "n": "Frasco de petrificación",
+            "q": "common",
+            "req": 50,
+            "sub": "Frascos",
+            "venta": [
+              "0",
+              "50",
+              "0"
+            ]
+          },
           "quien": []
         },
         {
           "id": 9978,
-          "n": "",
+          "n": "Frasco de los titanes",
           "q": "common",
+          "reac": [
+            [
+              "Gromsanguina",
+              30
+            ],
+            [
+              "Aceite de Escama Tormentosa",
+              10
+            ],
+            [
+              "Loto negro",
+              1
+            ],
+            [
+              "Vial de cristal",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Aumenta la salud máxima 1200 p. durante 2 h. Solo puedes beneficiarte del efecto de un frasco cada vez. Este efecto persiste en la muerte. (3 s de tiempo de reutilización)."
+            ],
+            "id": 13510,
+            "ilvl": 60,
+            "n": "Frasco de los Titanes",
+            "q": "common",
+            "req": 50,
+            "sub": "Frascos",
+            "venta": [
+              "0",
+              "50",
+              "0"
+            ]
+          },
           "quien": []
         },
         {
           "id": 9979,
-          "n": "",
+          "n": "Frasco de sabiduría destilada",
           "q": "common",
+          "ico": "134877",
+          "reac": [
+            [
+              "Hojasueño",
+              30
+            ],
+            [
+              "Setelo",
+              10
+            ],
+            [
+              "Loto negro",
+              1
+            ],
+            [
+              "Vial de cristal",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Aumenta el maná máximo 2000 p. durante 2 h. Solo puedes beneficiarte del efecto de un frasco cada vez. Este efecto persiste en la muerte. (3 s de tiempo de reutilización)."
+            ],
+            "id": 13511,
+            "ilvl": 60,
+            "n": "Frasco de sabiduría destilada",
+            "q": "common",
+            "req": 50,
+            "sub": "Frascos",
+            "venta": [
+              "0",
+              "50",
+              "0"
+            ]
+          },
           "quien": []
         },
         {
           "id": 9980,
-          "n": "",
+          "n": "Frasco de poder supremo",
           "q": "common",
+          "ico": "134821",
+          "reac": [
+            [
+              "Hojasueño",
+              30
+            ],
+            [
+              "Salviargenta de montaña",
+              10
+            ],
+            [
+              "Loto negro",
+              1
+            ],
+            [
+              "Vial de cristal",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Aumenta hasta 150 p. el daño infligido por los hechizos y efectos mágicos durante 2 h. Solo puedes beneficiarte del efecto de un frasco cada vez. Este efecto persiste en la muerte. (3 s de tiempo de reutilización)."
+            ],
+            "id": 13512,
+            "ilvl": 60,
+            "n": "Frasco de poder supremo",
+            "q": "common",
+            "req": 50,
+            "sub": "Frascos",
+            "venta": [
+              "0",
+              "50",
+              "0"
+            ]
+          },
           "quien": []
         },
         {
           "id": 9981,
-          "n": "",
+          "n": "Frasco de resistencia cromática",
           "q": "common",
+          "ico": "134828",
+          "reac": [
+            [
+              "Setelo",
+              30
+            ],
+            [
+              "Salviargenta de montaña",
+              10
+            ],
+            [
+              "Loto negro",
+              1
+            ],
+            [
+              "Vial de cristal",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Aumenta 25 p. tu resistencia a todos los tipos de magia durante 2 h. Solo puedes beneficiarte del efecto de un frasco cada vez. Este efecto persiste en la muerte y se suma a los demás hechizos y objetos de resistencia. (3 s de tiempo "
+            ],
+            "id": 13513,
+            "ilvl": 60,
+            "n": "Frasco de resistencia cromática",
+            "q": "common",
+            "req": 50,
+            "sub": "Frascos",
+            "venta": [
+              "0",
+              "50",
+              "0"
+            ]
+          },
           "quien": []
         },
         {
           "id": 58410,
-          "n": "",
-          "q": "common",
+          "n": "Frasco de acierto natural",
+          "q": "uncommon",
+          "ico": "463902",
+          "reac": [
+            [
+              "Loto mortal",
+              1
+            ],
+            [
+              "Salvia demoníaca",
+              12
+            ],
+            [
+              "Sansam dorado",
+              9
+            ],
+            [
+              "Vial imbuida",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Aumenta tu aguante 30 p. Mientras estás en el Monte Hyjal, la Cima Hyjal y las Cavernas del Túmulo, también obtienes un 2% de probabilidad de golpear. Dura 2 h. Solo puedes beneficiarte del efecto de un frasco cada vez. Este efecto pe"
+            ],
+            "id": 274273,
+            "ilvl": 60,
+            "n": "Frasco de acierto natural",
+            "q": "uncommon",
+            "req": 55,
+            "sub": "Frascos",
+            "venta": [
+              "0",
+              "50",
+              "0"
+            ]
+          },
           "quien": []
         },
         {
           "id": 58411,
-          "n": "",
-          "q": "common",
+          "n": "Frasco de agresividad natural",
+          "q": "uncommon",
+          "ico": "463898",
+          "reac": [
+            [
+              "Loto mortal",
+              1
+            ],
+            [
+              "Salvia demoníaca",
+              18
+            ],
+            [
+              "Salviargenta de montaña",
+              6
+            ],
+            [
+              "Vial imbuida",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Aumenta tu aguante 30 p. Mientras estás en el Monte Hyjal, la Cima Hyjal y las Cavernas del Túmulo, también obtienes un 2% de probabilidad de golpe crítico. Dura 2 h. Solo puedes beneficiarte del efecto de un frasco cada vez. Este efe"
+            ],
+            "id": 274274,
+            "ilvl": 60,
+            "n": "Frasco de agresividad natural",
+            "q": "uncommon",
+            "req": 55,
+            "sub": "Frascos",
+            "venta": [
+              "0",
+              "50",
+              "0"
+            ]
+          },
           "quien": []
         },
         {
           "id": 58412,
-          "n": "",
-          "q": "common",
+          "n": "Frasco de precisión natural",
+          "q": "uncommon",
+          "ico": "463900",
+          "reac": [
+            [
+              "Loto mortal",
+              1
+            ],
+            [
+              "Hojapesadilla",
+              12
+            ],
+            [
+              "Hojasueño",
+              9
+            ],
+            [
+              "Vial imbuida",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Aumenta tu aguante 30 p. Mientras estás en el Monte Hyjal, la Cima Hyjal y las Cavernas del Túmulo, también reduce un 2% la probabilidad de que esquiven o paren tus ataques. Dura 2 h. Solo puedes beneficiarte del efecto de un frasco c"
+            ],
+            "id": 274275,
+            "ilvl": 60,
+            "n": "Frasco de precisión natural",
+            "q": "uncommon",
+            "req": 55,
+            "sub": "Frascos",
+            "venta": [
+              "0",
+              "50",
+              "0"
+            ]
+          },
           "quien": []
         },
         {
           "id": 58413,
-          "n": "",
-          "q": "common",
+          "n": "Frasco de presteza natural",
+          "q": "uncommon",
+          "ico": "463901",
+          "reac": [
+            [
+              "Loto mortal",
+              1
+            ],
+            [
+              "Hojapesadilla",
+              18
+            ],
+            [
+              "Setelo",
+              6
+            ],
+            [
+              "Vial imbuida",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Aumenta tu aguante 30 p. Mientras estás en el Monte Hyjal, la Cima Hyjal y las Cavernas del Túmulo, también obtienes un 2% de celeridad. Dura 2 h. Solo puedes beneficiarte del efecto de un frasco cada vez. Este efecto persiste tras la"
+            ],
+            "id": 274276,
+            "ilvl": 60,
+            "n": "Frasco de presteza natural",
+            "q": "uncommon",
+            "req": 55,
+            "sub": "Frascos",
+            "venta": [
+              "0",
+              "50",
+              "0"
+            ]
+          },
           "quien": []
         }
       ]
@@ -1393,92 +6655,383 @@
       "recetas": [
         {
           "id": 49255,
-          "n": "",
+          "n": "Elixir de arrepentimiento fusionado",
           "q": "common",
+          "ico": "134799",
+          "reac": [
+            [
+              "Alga estranguladora",
+              5
+            ],
+            [
+              "Vial con plomo",
+              1
+            ],
+            [
+              "Musgo de tumba",
+              5
+            ],
+            [
+              "Polvo de alma",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Permite al objetivo hablar con el cadáver de alguien con asuntos pendientes en el mundo de los mortales. También alivia la indigestión. (3 s de tiempo de reutilización)."
+            ],
+            "id": 210708,
+            "ilvl": 25,
+            "n": "Elixir de arrepentimiento fusionado",
+            "q": "common",
+            "req": 20,
+            "sub": "Otros",
+            "venta": [
+              "0",
+              "0",
+              "40"
+            ]
+          },
           "quien": []
         },
         {
           "id": 49863,
-          "n": "",
+          "n": "Gniodina aislante",
           "q": "common",
+          "ico": "134792",
+          "reac": [
+            [
+              "Vial con plomo",
+              1
+            ],
+            [
+              "Caja de solución de gniodina contaminada",
+              5
+            ]
+          ],
           "quien": []
         },
         {
           "id": 49876,
-          "n": "",
+          "n": "Poción de rejuvenecimiento ligeramente irradiada",
           "q": "common",
+          "ico": "236870",
+          "reac": [
+            [
+              "Caja de solución de gniodina contaminada",
+              1
+            ],
+            [
+              "Poción de Rejuvenecimiento menor",
+              1
+            ],
+            [
+              "Restos radiactivos de Gnomeregan",
+              3
+            ],
+            [
+              "Vial de cristal",
+              5
+            ]
+          ],
+          "cant": 5.0,
           "quien": []
         },
         {
           "id": 50023,
-          "n": "",
+          "n": "Elixir Arcano inferior",
           "q": "common",
+          "reac": [
+            [
+              "Sangrerregia",
+              1
+            ],
+            [
+              "Espina de oro",
+              1
+            ],
+            [
+              "Vial de cristal",
+              1
+            ]
+          ],
+          "obj": {
+            "efectos": [
+              "Usar: Aumenta el daño con hechizos con hechizos hasta 14 p. durante 30 min. (3 s de tiempo de reutilización)."
+            ],
+            "id": 217398,
+            "ilvl": 38,
+            "n": "Elixir Arcano inferior",
+            "q": "common",
+            "req": 28,
+            "sub": "Elixires",
+            "venta": [
+              "0",
+              "4",
+              "0"
+            ]
+          },
           "quien": []
         },
         {
           "id": 50555,
-          "n": "",
+          "n": "Frasco de pesadillas perpetuas",
           "q": "common",
+          "ico": "236875",
+          "reac": [
+            [
+              "Semilla de pesadilla",
+              10
+            ],
+            [
+              "Manto de pesadillas inerte",
+              1
+            ],
+            [
+              "Vial de cristal",
+              1
+            ]
+          ],
           "quien": []
         },
         {
           "id": 50600,
-          "n": "",
+          "n": "Jarra de mojo de pesadilla",
           "q": "common",
+          "ico": "236870",
+          "reac": [
+            [
+              "Semilla de pesadilla",
+              5
+            ],
+            [
+              "Vial de cristal",
+              1
+            ],
+            [
+              "Frasco de mojo Atal'ai",
+              5
+            ]
+          ],
           "quien": []
         },
         {
           "id": 51070,
-          "n": "",
+          "n": "Frasco de Sueños Inquietos",
           "q": "common",
+          "ico": "236876",
+          "reac": [
+            [
+              "Semilla de pesadilla",
+              10
+            ],
+            [
+              "Manto de pesadillas inerte",
+              1
+            ],
+            [
+              "Vial de cristal",
+              1
+            ]
+          ],
           "quien": []
         },
         {
           "id": 51674,
-          "n": "",
+          "n": "Frasco de pesar implacable",
           "q": "common",
+          "ico": "236877",
+          "reac": [
+            [
+              "Esencia eterna superior",
+              1
+            ],
+            [
+              "Cardo de la colmena",
+              1
+            ],
+            [
+              "Frasco de sabiduría destilada",
+              1
+            ],
+            [
+              "Vial de cristal",
+              1
+            ]
+          ],
           "quien": []
         },
         {
           "id": 51675,
-          "n": "",
+          "n": "Frasco de los dioses antiguos",
           "q": "common",
+          "reac": [
+            [
+              "Esencia eterna superior",
+              1
+            ],
+            [
+              "Quitina de silítido monstruoso",
+              1
+            ],
+            [
+              "Frasco de los Titanes",
+              1
+            ],
+            [
+              "Vial de cristal",
+              1
+            ]
+          ],
           "quien": []
         },
         {
           "id": 51676,
-          "n": "",
+          "n": "Frasco de conocimiento ancestral",
           "q": "common",
+          "ico": "236878",
+          "reac": [
+            [
+              "Esencia eterna superior",
+              1
+            ],
+            [
+              "Veneno de acechador Qiraji",
+              1
+            ],
+            [
+              "Frasco de poder supremo",
+              1
+            ],
+            [
+              "Vial de cristal",
+              1
+            ]
+          ],
           "quien": []
         },
         {
           "id": 51677,
-          "n": "",
+          "n": "Frasco de locura",
           "q": "common",
+          "ico": "236880",
+          "reac": [
+            [
+              "Esencia eterna superior",
+              1
+            ],
+            [
+              "Bilis de gusano de arena antiguo",
+              1
+            ],
+            [
+              "Frasco de resistencia cromática",
+              1
+            ],
+            [
+              "Vial de cristal",
+              1
+            ]
+          ],
           "quien": []
         },
         {
           "id": 51678,
-          "n": "",
+          "n": "Elixir de tejón",
           "q": "common",
+          "ico": "134731",
+          "reac": [
+            [
+              "Salviargenta de montaña",
+              2
+            ],
+            [
+              "Cardo de la colmena",
+              2
+            ],
+            [
+              "Veneno de acechador Qiraji",
+              1
+            ],
+            [
+              "Vial de cristal",
+              1
+            ]
+          ],
           "quien": []
         },
         {
           "id": 51679,
-          "n": "",
+          "n": "Elixir del señor de la magia",
           "q": "common",
+          "ico": "134733",
+          "reac": [
+            [
+              "Flor de peste",
+              2
+            ],
+            [
+              "Cardo de la colmena",
+              2
+            ],
+            [
+              "Veneno de acechador Qiraji",
+              1
+            ],
+            [
+              "Vial de cristal",
+              1
+            ]
+          ],
           "quien": []
         },
         {
           "id": 51680,
-          "n": "",
+          "n": "Elixir de brazo de hierro",
           "q": "common",
+          "reac": [
+            [
+              "Setelo",
+              2
+            ],
+            [
+              "Cardo de la colmena",
+              2
+            ],
+            [
+              "Veneno de acechador Qiraji",
+              1
+            ],
+            [
+              "Vial de cristal",
+              1
+            ]
+          ],
           "quien": []
         },
         {
           "id": 51681,
-          "n": "",
+          "n": "Elixir de prontitud",
           "q": "common",
+          "ico": "134735",
+          "reac": [
+            [
+              "Hojasueño",
+              2
+            ],
+            [
+              "Cardo de la colmena",
+              2
+            ],
+            [
+              "Veneno de acechador Qiraji",
+              1
+            ],
+            [
+              "Vial de cristal",
+              1
+            ]
+          ],
           "quien": []
         }
       ]
@@ -1488,8 +7041,30 @@
       "recetas": [
         {
           "id": 52646,
-          "n": "",
+          "n": "Pozo de maná",
           "q": "common",
+          "ico": "135738",
+          "reac": [
+            [
+              "Flor de paz",
+              1
+            ],
+            [
+              "Vial vacío",
+              1
+            ]
+          ],
+          "desc": "Fabrica un pozo de maná.",
+          "obj": {
+            "efectos": [
+              "Usar: Construye un pozo de maná que permite que tú y otros os sentéis cerca para regenerar 29 p. de maná cada 5 s. Incompatible con Bendición de sabiduría. Requiere una hoguera cercana. Todas las características de acampada comparten el mis"
+            ],
+            "id": 279956,
+            "ilvl": 4,
+            "n": "Pozo de maná",
+            "q": "common",
+            "sub": "Otros"
+          },
           "quien": [
             0,
             1,
@@ -1504,14 +7079,66 @@
         },
         {
           "id": 57006,
-          "n": "",
+          "n": "Fermentador",
           "q": "common",
+          "ico": "3566827",
+          "reac": [
+            [
+              "Vial con plomo",
+              1
+            ],
+            [
+              "Sangrerregia",
+              1
+            ],
+            [
+              "Cardoveloz",
+              1
+            ]
+          ],
+          "desc": "Fabrica un fermentador.",
+          "obj": {
+            "efectos": [
+              "Usar: Coloca un fermentador que permite la creación de determinados componentes y que ofrece todos los beneficios de un pozo de maná. Requiere una hoguera cercana. Se puede colocar sobre un pozo de maná para sustituirlo. Todas las caracterí"
+            ],
+            "id": 279970,
+            "ilvl": 28,
+            "n": "Fermentador",
+            "q": "common",
+            "sub": "Otros"
+          },
           "quien": []
         },
         {
           "id": 57031,
-          "n": "",
+          "n": "Laboratorio de alquimia",
           "q": "common",
+          "ico": "4777830",
+          "reac": [
+            [
+              "Dedo índice de exánime",
+              1
+            ],
+            [
+              "Vial de cristal",
+              1
+            ],
+            [
+              "Hojasueño",
+              2
+            ]
+          ],
+          "desc": "Fabrica un laboratorio de alquimia.",
+          "obj": {
+            "efectos": [
+              "Usar: Coloca un laboratorio de alquimia que permite crear recetas que requieran esta mesa de trabajo y que ofrece todos los beneficios de un pozo de maná. Requiere una hoguera cercana. Se puede colocar sobre un pozo de maná para sustituirlo"
+            ],
+            "id": 279990,
+            "ilvl": 60,
+            "n": "Laboratorio de alquimia",
+            "q": "common",
+            "sub": "Otros"
+          },
           "quien": []
         }
       ]

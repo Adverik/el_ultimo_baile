@@ -114,8 +114,30 @@
       "recetas": [
         {
           "id": 52642,
-          "n": "",
+          "n": "Vela de incienso",
           "q": "common",
+          "ico": "133751",
+          "reac": [
+            [
+              "Flor de paz",
+              1
+            ],
+            [
+              "Hojaplata",
+              1
+            ]
+          ],
+          "desc": "Fabrica una vela de incienso.",
+          "obj": {
+            "efectos": [
+              "Usar: Prende una vela de incienso que permite que tú y otros os sentéis cerca para obtener 25 p. más de intelecto. Incompatible con Intelecto Arcano. Requiere una hoguera cercana. Todas las características de acampada comparten el mismo tie"
+            ],
+            "id": 279962,
+            "ilvl": 4,
+            "n": "Vela de incienso",
+            "q": "common",
+            "sub": "Otros"
+          },
           "quien": [
             0,
             1,
@@ -131,14 +153,65 @@
         },
         {
           "id": 57026,
-          "n": "",
+          "n": "Invernadero",
           "q": "common",
+          "ico": "134188",
+          "reac": [
+            [
+              "Madera simple",
+              2
+            ],
+            [
+              "Lágrimas de Arthas",
+              1
+            ],
+            [
+              "Loto morado",
+              1
+            ]
+          ],
+          "desc": "Fabrica un invernadero.",
+          "obj": {
+            "efectos": [
+              "Usar: Coloca un invernadero donde podrás plantar semillas de las que crecerán hierbas con el tiempo y que ofrece todos los beneficios de una vela de incienso. Requiere una hoguera cercana. Se puede colocar sobre una vela de incienso para su"
+            ],
+            "id": 279964,
+            "ilvl": 28,
+            "n": "Invernadero",
+            "q": "common",
+            "sub": "Otros"
+          },
           "quien": []
         },
         {
           "id": 57038,
-          "n": "",
+          "n": "Hibridador de semillas",
           "q": "common",
+          "reac": [
+            [
+              "Salviargenta de montaña",
+              4
+            ],
+            [
+              "Vial de cristal",
+              1
+            ],
+            [
+              "Paño rúnico",
+              2
+            ]
+          ],
+          "desc": "Fabrica un hibridador de semillas.",
+          "obj": {
+            "efectos": [
+              "Usar: Coloca un hibridador de semillas que permite multiplicar las semillas o combinarlas para crear semillas más raras, y proporciona todos los beneficios de una vela de incienso. Requiere una hoguera cercana. Se puede colocar sobre una ve"
+            ],
+            "id": 279947,
+            "ilvl": 60,
+            "n": "Hibridador de semillas",
+            "q": "common",
+            "sub": "Otros"
+          },
           "quien": []
         }
       ]

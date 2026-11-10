@@ -250,8 +250,30 @@
       "recetas": [
         {
           "id": 52639,
-          "n": "",
+          "n": "Cuenco con pescado",
           "q": "common",
+          "ico": "4777763",
+          "reac": [
+            [
+              "Pececito luminoso crudo",
+              1
+            ],
+            [
+              "Vial vacío",
+              1
+            ]
+          ],
+          "desc": "Fabrica un cuenco con pescado.",
+          "obj": {
+            "efectos": [
+              "Usar: Coloca un pequeño cuenco con pescado que permite que tú y otros os sentéis cerca para obtener un 8% más de estadísticas. Incompatible con Bendición de reyes. Requiere una hoguera cercana. Todas las características de acampada comparte"
+            ],
+            "id": 279967,
+            "ilvl": 4,
+            "n": "Cuenco con pescado",
+            "q": "common",
+            "sub": "Otros"
+          },
           "quien": [
             0,
             1,
@@ -280,14 +302,66 @@
         },
         {
           "id": 57025,
-          "n": "",
+          "n": "Expositor de pesca",
           "q": "common",
+          "ico": "1053359",
+          "reac": [
+            [
+              "Madera simple",
+              2
+            ],
+            [
+              "Vial de cristal",
+              1
+            ],
+            [
+              "Trucha cabeza de mitril cruda",
+              2
+            ]
+          ],
+          "desc": "Fabrica un expositor de pesca.",
+          "obj": {
+            "efectos": [
+              "Usar: Coloca un expositor de pesca que otorga la capacidad de atrapar peces inusuales durante 1 h, así como cebos de habilidad en pesca y todos los beneficios de un cuenco de pescado. Requiere una hoguera cercana. Se puede colocar sobre un "
+            ],
+            "id": 279965,
+            "ilvl": 28,
+            "n": "Expositor de pesca",
+            "q": "common",
+            "sub": "Otros"
+          },
           "quien": []
         },
         {
           "id": 57037,
-          "n": "",
+          "n": "Cabaña de pesca",
           "q": "common",
+          "ico": "132930",
+          "reac": [
+            [
+              "Madera simple",
+              5
+            ],
+            [
+              "Madeja de paño rúnico",
+              2
+            ],
+            [
+              "Filetes de pescado de temporada",
+              1
+            ]
+          ],
+          "desc": "Fabrica una cabaña de pesca.",
+          "obj": {
+            "efectos": [
+              "Usar: Coloca una cabaña de pesca Places que otorga la habilidad de capturar peces raros durante 1 h, proporciona cebos de habilidad en pesca y otorga todos los beneficios de un cuenco con pescado. Requiere una hoguera cercana. Se puede colo"
+            ],
+            "id": 279966,
+            "ilvl": 60,
+            "n": "Cabaña de pesca",
+            "q": "common",
+            "sub": "Otros"
+          },
           "quien": []
         }
       ]

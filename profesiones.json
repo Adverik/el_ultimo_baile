@@ -244,13 +244,13 @@
         },
         {
           "nombre": "Desuello",
-          "nivel": 191,
+          "nivel": 193,
           "max": 225
         },
         {
           "nombre": "Cocina",
           "nivel": 150,
-          "max": 150
+          "max": 225
         },
         {
           "nombre": "Pesca",
