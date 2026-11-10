@@ -52,14 +52,14 @@ jobs:
 
       - name: Guardar cambios si los hay
         run: |
-          FICHEROS="roster.json actividad.json discord.json nombres.json profesiones.json datos/recetas_cache.json"
+          FICHEROS="roster.json actividad.json discord.json nombres.json profesiones.json recetas-especiales.json profesiones datos/recetas_cache.json"
           if git diff --quiet -- $FICHEROS && [ -z "$(git ls-files --others --exclude-standard -- $FICHEROS)" ]; then
             echo "Sin cambios"
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          for f in $FICHEROS; do [ -f "$f" ] && git add "$f"; done
+          for f in $FICHEROS; do [ -e "$f" ] && git add "$f"; done
           git commit -m "Actualiza datos (wowaudit, Blizzard y Discord)"
           git push
 

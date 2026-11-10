@@ -21,6 +21,7 @@ NS_ESTATICO = os.environ.get("BLIZZARD_NS_ESTATICO", "static-forever-eu")
 GREMIO = "el-%C3%BAltimo-baile"
 LOCALE = "es_ES"
 CACHE = RAIZ / "datos" / "recetas_cache.json"
+CATALOGO_WEB = RAIZ / "datos" / "catalogo.json"
 MAX_RECETAS_NUEVAS = 800          # tope de consultas nuevas por ejecución
 CLASES = {1: "warrior", 2: "paladin", 3: "hunter", 4: "rogue", 5: "priest", 6: "deathknight",
           7: "shaman", 8: "mage", 9: "warlock", 10: "monk", 11: "druid"}
@@ -91,6 +92,71 @@ def escribir_si_cambia(ruta, datos, campos_comparar=None):
     return True
 
 
+SLUG = str.maketrans("áéíóúüñ ", "aeiouun-")
+CALIDADES_ESPECIALES = ("rare", "epic", "legendary")
+
+
+def receta_web(rid, r):
+    """Lo que necesita la web de una receta (nombre, calidad, icono, enlace y tooltip)."""
+    o = r.get("obj") or {}
+    w = {"id": int(rid), "n": r.get("n", ""), "q": o.get("q", "common")}
+    for k in ("ico", "reac", "cant", "desc"):
+        if r.get(k):
+            w[k] = r[k]
+    if o:
+        w["obj"] = {k: v for k, v in o.items() if k != "ico"}
+    return w
+
+
+def generar_paginas(conocidas_por_pj):
+    """profesiones/<slug>.json (tabla tipo wowaudit) y recetas-especiales.json (raras y épicas)."""
+    cat = leer(CATALOGO_WEB, {})
+    if not cat.get("profesiones"):
+        print("Catálogo aún no disponible: no se generan las páginas de profesiones")
+        return
+    recetas = cat.get("recetas", {})
+    carpeta = RAIZ / "profesiones"
+    carpeta.mkdir(exist_ok=True)
+    resumen, especiales = [], {}
+    for p in cat["profesiones"]:
+        arts = [a for a in conocidas_por_pj if a["tier"] == p["tier"]]
+        todas = [rid for c in p["categorias"] for rid in c["recetas"]]
+        total = len(todas) or 1
+        arts.sort(key=lambda a: (-a["nivel"], a["personaje"].lower()))
+        lista_art = []
+        for a in arts:
+            conocidas = set(a["ids"]) & set(todas)
+            lista_art.append({"personaje": a["personaje"], "clase": a["clase"], "raider": a["raider"], "nivel": a["nivel"],
+                              "max": a["max"], "pct": round(100 * len(conocidas) / total)})
+        cats = []
+        for c in p["categorias"]:
+            filas = []
+            for rid in c["recetas"]:
+                r = recetas.get(str(rid), {"n": "", "ok": 0})
+                fila = receta_web(rid, r)
+                fila["quien"] = [i for i, a in enumerate(arts) if rid in a["ids"]]
+                filas.append(fila)
+                if fila["quien"] and fila["q"] in CALIDADES_ESPECIALES:
+                    e = especiales.setdefault(rid, dict(fila, profesion=p["nombre"], personajes=[]))
+                    e.pop("quien", None)
+                    for i in fila["quien"]:
+                        pj = {"n": arts[i]["personaje"], "clase": arts[i]["clase"]}
+                        if pj not in e["personajes"]:
+                            e["personajes"].append(pj)
+            cats.append({"nombre": c["nombre"], "recetas": filas})
+        slug = p["nombre"].lower().translate(SLUG)
+        escribir_si_cambia(carpeta / f"{slug}.json", {"nombre": p["nombre"], "ico": p.get("ico"), "total": len(todas),
+                                                       "artesanos": lista_art, "categorias": cats})
+        resumen.append({"slug": slug, "nombre": p["nombre"], "ico": p.get("ico"), "artesanos": len(lista_art), "total": len(todas)})
+    resumen.sort(key=lambda x: x["nombre"])
+    escribir_si_cambia(carpeta / "indice.json", resumen)
+    orden = {"legendary": 0, "epic": 1, "rare": 2}
+    lista = sorted(especiales.values(), key=lambda r: (orden.get(r["q"], 9), r["profesion"], r["n"]))
+    escribir_si_cambia(RAIZ / "recetas-especiales.json", {"actualizado": datetime.now(timezone.utc).strftime("%Y-%m-%d"), "recetas": lista},
+                       ["recetas"])
+    print(f"Páginas: {len(resumen)} profesiones, {len(lista)} recetas raras o mejores conocidas")
+
+
 def main():
     cid, sec = os.environ.get("BLIZZARD_CLIENT_ID", "").strip(), os.environ.get("BLIZZARD_CLIENT_SECRET", "").strip()
     if not cid or not sec:
@@ -106,6 +172,7 @@ def main():
     cache = leer(CACHE, {})
     nuevas = 0
     nombres, artesanos, recetas = {}, [], {}
+    conocidas_por_pj = []
 
     for m in miembros[:300]:
         ch = m.get("character") or {}
@@ -122,6 +189,13 @@ def main():
         profesiones = []
         for grupo in ("primaries", "secondaries"):
             for pr in (prof.get(grupo) or [])[:4]:
+                for t in pr.get("tiers") or []:
+                    tid = (t.get("tier") or {}).get("id")
+                    if isinstance(tid, int):
+                        conocidas_por_pj.append({"personaje": completo, "clase": clase, "raider": nombre.lower() in raiders,
+                                                 "tier": tid, "nivel": int(t.get("skill_points") or 0),
+                                                 "max": int(t.get("max_skill_points") or 0),
+                                                 "ids": [r["id"] for r in (t.get("known_recipes") or []) if isinstance(r.get("id"), int)]})
                 nombre_prof = texto((pr.get("profession") or {}).get("name"), 30)
                 nombre_prof = PROF_ES.get(nombre_prof, nombre_prof)
                 tiers = pr.get("tiers") or []
@@ -154,6 +228,8 @@ def main():
         if profesiones:
             artesanos.append({"personaje": completo, "clase": clase, "raider": nombre.lower() in raiders,
                               "profesiones": profesiones})
+
+    generar_paginas(conocidas_por_pj)
 
     artesanos.sort(key=lambda a: a["personaje"].lower())
     lista_recetas = sorted(recetas.values(), key=lambda r: (r["profesion"], r["nombre"]))
