@@ -275,6 +275,10 @@
     "calidad": "common",
     "objeto": true
   },
+  "1846": {
+    "calidad": "uncommon",
+    "objeto": true
+  },
   "1847": {
     "calidad": "common",
     "objeto": true
@@ -406,6 +410,10 @@
   "2036": {
     "calidad": "common",
     "objeto": false
+  },
+  "2037": {
+    "calidad": "common",
+    "objeto": true
   },
   "2041": {
     "calidad": "common",
@@ -835,6 +843,10 @@
     "calidad": "common",
     "objeto": true
   },
+  "4206": {
+    "calidad": "uncommon",
+    "objeto": true
+  },
   "4211": {
     "calidad": "common",
     "objeto": true
@@ -1035,6 +1047,10 @@
     "calidad": "common",
     "objeto": true
   },
+  "4415": {
+    "calidad": "common",
+    "objeto": true
+  },
   "4417": {
     "calidad": "common",
     "objeto": true
@@ -1151,6 +1167,22 @@
     "calidad": "common",
     "objeto": true
   },
+  "5311": {
+    "calidad": "uncommon",
+    "objeto": true
+  },
+  "5312": {
+    "calidad": "common",
+    "objeto": true
+  },
+  "5313": {
+    "calidad": "common",
+    "objeto": true
+  },
+  "5314": {
+    "calidad": "common",
+    "objeto": true
+  },
   "5338": {
     "calidad": "uncommon",
     "objeto": true
@@ -1166,6 +1198,14 @@
   "5341": {
     "calidad": "uncommon",
     "objeto": true
+  },
+  "5387": {
+    "calidad": "common",
+    "objeto": true
+  },
+  "5487": {
+    "calidad": "common",
+    "objeto": false
   },
   "5997": {
     "calidad": "common",
@@ -1243,6 +1283,10 @@
     "calidad": "common",
     "objeto": true
   },
+  "7837": {
+    "calidad": "common",
+    "objeto": true
+  },
   "7999": {
     "calidad": "uncommon",
     "objeto": true
@@ -1256,6 +1300,10 @@
     "objeto": true
   },
   "11184": {
+    "calidad": "uncommon",
+    "objeto": true
+  },
+  "11185": {
     "calidad": "uncommon",
     "objeto": true
   },
@@ -1452,6 +1500,14 @@
     "objeto": true
   },
   "54742": {
+    "calidad": "rare",
+    "objeto": true
+  },
+  "54768": {
+    "calidad": "rare",
+    "objeto": true
+  },
+  "54769": {
     "calidad": "rare",
     "objeto": true
   },

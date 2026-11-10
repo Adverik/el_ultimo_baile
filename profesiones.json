@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-09",
+  "actualizado": "2026-11-10",
   "artesanos": [
     {
       "personaje": "Aalesian Naeuri",
@@ -9,16 +9,16 @@
         {
           "nombre": "Minería",
           "nivel": 201,
-          "max": 225
+          "max": 300
         },
         {
           "nombre": "Herrería",
-          "nivel": 147,
+          "nivel": 178,
           "max": 225
         },
         {
           "nombre": "Cocina",
-          "nivel": 138,
+          "nivel": 195,
           "max": 225
         },
         {
@@ -28,7 +28,7 @@
         },
         {
           "nombre": "Primeros auxilios",
-          "nivel": 150,
+          "nivel": 188,
           "max": 225
         }
       ]
@@ -45,7 +45,7 @@
         },
         {
           "nombre": "Desuello",
-          "nivel": 76,
+          "nivel": 79,
           "max": 150
         },
         {
@@ -175,7 +175,7 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 106,
+          "nivel": 107,
           "max": 150
         },
         {
@@ -195,7 +195,7 @@
         },
         {
           "nombre": "Primeros auxilios",
-          "nivel": 1,
+          "nivel": 14,
           "max": 75
         }
       ]
@@ -303,7 +303,7 @@
         },
         {
           "nombre": "Pesca",
-          "nivel": 215,
+          "nivel": 223,
           "max": 225
         },
         {
@@ -389,7 +389,7 @@
         },
         {
           "nombre": "Desuello",
-          "nivel": 75,
+          "nivel": 91,
           "max": 150
         },
         {
@@ -503,7 +503,7 @@
         {
           "nombre": "Herboristería",
           "nivel": 126,
-          "max": 150
+          "max": 225
         },
         {
           "nombre": "Cocina",
@@ -615,12 +615,12 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 56,
-          "max": 75
+          "nivel": 62,
+          "max": 150
         },
         {
           "nombre": "Ingeniería",
-          "nivel": 77,
+          "nivel": 82,
           "max": 150
         },
         {
@@ -770,23 +770,23 @@
       "profesiones": [
         {
           "nombre": "Peletería",
-          "nivel": 93,
+          "nivel": 94,
           "max": 150
         },
         {
           "nombre": "Desuello",
-          "nivel": 143,
-          "max": 150
+          "nivel": 161,
+          "max": 225
         },
         {
           "nombre": "Cocina",
-          "nivel": 105,
+          "nivel": 111,
           "max": 150
         },
         {
           "nombre": "Pesca",
-          "nivel": 46,
-          "max": 75
+          "nivel": 51,
+          "max": 150
         },
         {
           "nombre": "Primeros auxilios",
@@ -866,7 +866,7 @@
       "profesiones": [
         {
           "nombre": "Sastrería",
-          "nivel": 100,
+          "nivel": 104,
           "max": 150
         },
         {
@@ -940,7 +940,7 @@
         },
         {
           "nombre": "Pesca",
-          "nivel": 68,
+          "nivel": 77,
           "max": 150
         },
         {
@@ -1055,7 +1055,7 @@
         },
         {
           "nombre": "Herboristería",
-          "nivel": 163,
+          "nivel": 181,
           "max": 225
         },
         {
@@ -1980,6 +1980,7 @@
         "Aalesian Naeuri",
         "Chaca Choochoo",
         "Diana Flechaveloz",
+        "Dum Bo",
         "Edoras Duskranger",
         "Espartaco Gladiador",
         "Finn Felagund",
@@ -2006,6 +2007,7 @@
         "Aalesian Naeuri",
         "Chaca Choochoo",
         "Diana Flechaveloz",
+        "Dum Bo",
         "Espartaco Gladiador",
         "La Pety"
       ]
@@ -2052,6 +2054,7 @@
       "profesion": "Cocina",
       "calidad": "common",
       "personajes": [
+        "Aalesian Naeuri",
         "Dum Bo",
         "Edoras Duskranger",
         "Espartaco Gladiador",
@@ -2152,6 +2155,7 @@
       "personajes": [
         "Aalesian Naeuri",
         "Diana Flechaveloz",
+        "Dum Bo",
         "Finn Felagund",
         "Flexita Shadowsoul",
         "Ildaren Belisar",
@@ -2190,6 +2194,7 @@
         "Espartaco Gladiador",
         "Finn Felagund",
         "Flexita Shadowsoul",
+        "Manelhon Gargon",
         "Memas Tour",
         "Tharindel Magnaluz"
       ]
@@ -2212,6 +2217,7 @@
         "Chaca Choochoo",
         "Cuzcu Aker",
         "Diana Flechaveloz",
+        "Dum Bo",
         "Espartaco Gladiador",
         "Finn Felagund",
         "Flexita Shadowsoul",
@@ -2275,6 +2281,7 @@
         "Flexita Shadowsoul",
         "Khyoraku Shunsui",
         "La Pety",
+        "Manelhon Gargon",
         "Sugar Papy"
       ]
     },
@@ -2340,6 +2347,7 @@
       "profesion": "Cocina",
       "calidad": "common",
       "personajes": [
+        "Aalesian Naeuri",
         "Finn Felagund"
       ]
     },
@@ -2368,6 +2376,7 @@
       "personajes": [
         "Chaca Choochoo",
         "Diana Flechaveloz",
+        "Dum Bo",
         "Edoras Duskranger",
         "Khyoraku Shunsui",
         "Palmira Natblida"
@@ -2430,6 +2439,7 @@
       "profesion": "Cocina",
       "calidad": "common",
       "personajes": [
+        "Dum Bo",
         "Finn Felagund"
       ]
     },
@@ -2446,6 +2456,7 @@
         "Dum Bo",
         "Edoras Duskranger",
         "Espartaco Gladiador",
+        "Filps Pachamamamon",
         "Finn Felagund",
         "Flexita Shadowsoul",
         "Genethika Brisaveloz",
@@ -2491,6 +2502,7 @@
       "profesion": "Cocina",
       "calidad": "common",
       "personajes": [
+        "Dum Bo",
         "Finn Felagund"
       ]
     },
@@ -2568,6 +2580,7 @@
         "Diana Flechaveloz",
         "Edoras Duskranger",
         "Ildaren Belisar",
+        "Manelhon Gargon",
         "Palmira Natblida",
         "Runa Ruina"
       ]
@@ -2581,7 +2594,6 @@
         "Filps Pachamamamon",
         "Fitipaldi Sendaumbria",
         "Lithanas Chafardero",
-        "Manelhon Gargon",
         "Memas Tour",
         "Nindalf Pizpireta"
       ]
@@ -2980,7 +2992,6 @@
       "calidad": "common",
       "personajes": [
         "Don Josechu",
-        "Fran Furion",
         "Genethika Brisaveloz",
         "Layrela Rondanit",
         "Nelv Stardancer",
@@ -3017,6 +3028,7 @@
       "calidad": "common",
       "personajes": [
         "Dio Hotmetal",
+        "Fran Furion",
         "Sugar Papy"
       ]
     },
@@ -3026,6 +3038,7 @@
       "calidad": "common",
       "personajes": [
         "Dio Hotmetal",
+        "Fran Furion",
         "Sugar Papy"
       ]
     },
@@ -3316,6 +3329,14 @@
       ]
     },
     {
+      "nombre": "Golden Scale Bracers",
+      "profesion": "Herrería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Aalesian Naeuri"
+      ]
+    },
+    {
       "nombre": "Golden Skeleton Key",
       "profesion": "Herrería",
       "calidad": "uncommon",
@@ -3427,6 +3448,14 @@
       "personajes": [
         "Espartaco Gladiador",
         "Tharindel Magnaluz"
+      ]
+    },
+    {
+      "nombre": "Officer's Belt",
+      "profesion": "Herrería",
+      "calidad": "rare",
+      "personajes": [
+        "Aalesian Naeuri"
       ]
     },
     {
@@ -3613,6 +3642,14 @@
       ]
     },
     {
+      "nombre": "Sentinel's Belt",
+      "profesion": "Herrería",
+      "calidad": "rare",
+      "personajes": [
+        "Aalesian Naeuri"
+      ]
+    },
+    {
       "nombre": "Sharpening Wheel",
       "profesion": "Herrería",
       "calidad": "common",
@@ -3683,6 +3720,38 @@
       ]
     },
     {
+      "nombre": "Solid Grinding Stone",
+      "profesion": "Herrería",
+      "calidad": "common",
+      "personajes": [
+        "Aalesian Naeuri"
+      ]
+    },
+    {
+      "nombre": "Solid Sharpening Stone",
+      "profesion": "Herrería",
+      "calidad": "common",
+      "personajes": [
+        "Aalesian Naeuri"
+      ]
+    },
+    {
+      "nombre": "Solid Weightstone",
+      "profesion": "Herrería",
+      "calidad": "common",
+      "personajes": [
+        "Aalesian Naeuri"
+      ]
+    },
+    {
+      "nombre": "Steel Breastplate",
+      "profesion": "Herrería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Aalesian Naeuri"
+      ]
+    },
+    {
       "nombre": "Sterling Silver Shoulders",
       "profesion": "Herrería",
       "calidad": "uncommon",
@@ -3711,6 +3780,22 @@
         "Espartaco Gladiador",
         "Hugo Forjaluz",
         "Khyoraku Shunsui"
+      ]
+    },
+    {
+      "nombre": "Truesilver Rod",
+      "profesion": "Herrería",
+      "calidad": "common",
+      "personajes": [
+        "Aalesian Naeuri"
+      ]
+    },
+    {
+      "nombre": "Truesilver Skeleton Key",
+      "profesion": "Herrería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Aalesian Naeuri"
       ]
     },
     {
@@ -4071,17 +4156,10 @@
         "Espartaco Gladiador",
         "Flexita Shadowsoul",
         "Hugo Forjaluz",
+        "Jonaver Legends",
         "Khyoraku Shunsui",
         "La Pety",
         "Tharindel Magnaluz"
-      ]
-    },
-    {
-      "nombre": "Mining",
-      "profesion": "Minería",
-      "calidad": "common",
-      "personajes": [
-        "Jonaver Legends"
       ]
     },
     {
@@ -4126,7 +4204,23 @@
       ]
     },
     {
+      "nombre": "Smelt Gold",
+      "profesion": "Minería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Aalesian Naeuri"
+      ]
+    },
+    {
       "nombre": "Smelt Iron",
+      "profesion": "Minería",
+      "calidad": "common",
+      "personajes": [
+        "Aalesian Naeuri"
+      ]
+    },
+    {
+      "nombre": "Smelt Mithril",
       "profesion": "Minería",
       "calidad": "common",
       "personajes": [
@@ -4147,6 +4241,14 @@
         "Khyoraku Shunsui",
         "La Pety",
         "Tharindel Magnaluz"
+      ]
+    },
+    {
+      "nombre": "Smelt Steel",
+      "profesion": "Minería",
+      "calidad": "common",
+      "personajes": [
+        "Aalesian Naeuri"
       ]
     },
     {
@@ -4324,6 +4426,7 @@
       "personajes": [
         "Diana Flechaveloz",
         "Edoras Duskranger",
+        "Manelhon Gargon",
         "Memas Tour",
         "Palmira Natblida"
       ]
@@ -4850,7 +4953,8 @@
       "profesion": "Peletería",
       "calidad": "uncommon",
       "personajes": [
-        "Edoras Duskranger"
+        "Edoras Duskranger",
+        "Manelhon Gargon"
       ]
     },
     {
@@ -5015,6 +5119,7 @@
         "Flexita Shadowsoul",
         "Layrela Rondanit",
         "Lithanas Chafardero",
+        "Manelhon Gargon",
         "Palmira Natblida",
         "Tharindel Magnaluz"
       ]
@@ -5031,7 +5136,6 @@
         "Ildaren Belisar",
         "Jonaver Legends",
         "La Pety",
-        "Manelhon Gargon",
         "Nelv Stardancer",
         "Nimassus Pater",
         "Nindalf Pizpireta",
@@ -5143,6 +5247,14 @@
         "Sugar Papy",
         "Tharindel Magnaluz",
         "Viilar Terrisia"
+      ]
+    },
+    {
+      "nombre": "Heavy Silk Bandage",
+      "profesion": "Primeros auxilios",
+      "calidad": "common",
+      "personajes": [
+        "Aalesian Naeuri"
       ]
     },
     {
@@ -5336,7 +5448,8 @@
       "profesion": "Sastrería",
       "calidad": "uncommon",
       "personajes": [
-        "Blind Minds"
+        "Blind Minds",
+        "Dum Bo"
       ]
     },
     {
