@@ -12,6 +12,14 @@
       "pct": 17
     },
     {
+      "personaje": "Fran Furion",
+      "clase": "druid",
+      "raider": true,
+      "nivel": 159,
+      "max": 225,
+      "pct": 11
+    },
+    {
       "personaje": "Dio Hotmetal",
       "clase": "hunter",
       "raider": false,
@@ -20,18 +28,10 @@
       "pct": 13
     },
     {
-      "personaje": "Fran Furion",
-      "clase": "druid",
-      "raider": true,
-      "nivel": 125,
-      "max": 150,
-      "pct": 10
-    },
-    {
       "personaje": "Don Josechu",
       "clase": "warlock",
       "raider": false,
-      "nivel": 114,
+      "nivel": 116,
       "max": 150,
       "pct": 8
     },
@@ -47,7 +47,7 @@
       "personaje": "Layrela Rondanit",
       "clase": "druid",
       "raider": true,
-      "nivel": 100,
+      "nivel": 103,
       "max": 150,
       "pct": 10
     },
@@ -332,7 +332,8 @@
           },
           "quien": [
             0,
-            1
+            1,
+            2
           ]
         },
         {
@@ -407,7 +408,9 @@
               "20"
             ]
           },
-          "quien": []
+          "quien": [
+            0
+          ]
         },
         {
           "id": 1832,
@@ -656,7 +659,8 @@
           },
           "quien": [
             0,
-            1
+            1,
+            2
           ]
         },
         {
@@ -1633,7 +1637,7 @@
             ]
           },
           "quien": [
-            1
+            2
           ]
         },
         {
@@ -3279,7 +3283,7 @@
           },
           "quien": [
             0,
-            1
+            2
           ]
         },
         {
@@ -3357,7 +3361,7 @@
             ]
           },
           "quien": [
-            2,
+            1,
             5,
             6
           ]
@@ -3472,7 +3476,7 @@
           },
           "quien": [
             0,
-            1
+            2
           ]
         },
         {
@@ -4483,7 +4487,7 @@
             ]
           },
           "quien": [
-            1
+            2
           ]
         },
         {
@@ -5532,7 +5536,8 @@
           },
           "quien": [
             0,
-            1
+            1,
+            2
           ]
         },
         {

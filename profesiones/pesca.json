@@ -79,7 +79,7 @@
       "personaje": "Cuzcu Aker",
       "clase": "paladin",
       "raider": true,
-      "nivel": 105,
+      "nivel": 106,
       "max": 150,
       "pct": 33
     },
@@ -128,8 +128,8 @@
       "clase": "hunter",
       "raider": false,
       "nivel": 75,
-      "max": 75,
-      "pct": 0
+      "max": 150,
+      "pct": 33
     },
     {
       "personaje": "Sugar Papy",
@@ -314,6 +314,7 @@
             12,
             13,
             14,
+            15,
             16,
             17,
             18,

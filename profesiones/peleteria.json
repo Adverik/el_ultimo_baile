@@ -15,7 +15,7 @@
       "personaje": "Diana Flechaveloz",
       "clase": "hunter",
       "raider": false,
-      "nivel": 140,
+      "nivel": 141,
       "max": 150,
       "pct": 8
     },
@@ -49,7 +49,7 @@
       "raider": false,
       "nivel": 101,
       "max": 150,
-      "pct": 3
+      "pct": 4
     },
     {
       "personaje": "Runa Ruina",
@@ -10996,7 +10996,8 @@
             ]
           },
           "quien": [
-            0
+            0,
+            5
           ]
         },
         {

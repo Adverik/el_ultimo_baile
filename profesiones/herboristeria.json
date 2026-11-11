@@ -15,7 +15,7 @@
       "personaje": "Sugar Papy",
       "clase": "druid",
       "raider": false,
-      "nivel": 187,
+      "nivel": 190,
       "max": 225,
       "pct": 33
     },
@@ -31,7 +31,7 @@
       "personaje": "Fran Furion",
       "clase": "druid",
       "raider": true,
-      "nivel": 128,
+      "nivel": 145,
       "max": 225,
       "pct": 33
     },
@@ -39,7 +39,15 @@
       "personaje": "Don Josechu",
       "clase": "warlock",
       "raider": false,
-      "nivel": 118,
+      "nivel": 119,
+      "max": 150,
+      "pct": 33
+    },
+    {
+      "personaje": "Layrela Rondanit",
+      "clase": "druid",
+      "raider": true,
+      "nivel": 115,
       "max": 150,
       "pct": 33
     },
@@ -48,14 +56,6 @@
       "clase": "druid",
       "raider": false,
       "nivel": 114,
-      "max": 150,
-      "pct": 33
-    },
-    {
-      "personaje": "Layrela Rondanit",
-      "clase": "druid",
-      "raider": true,
-      "nivel": 111,
       "max": 150,
       "pct": 33
     },

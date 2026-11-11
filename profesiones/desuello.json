@@ -12,6 +12,14 @@
       "pct": 67
     },
     {
+      "personaje": "Diana Flechaveloz",
+      "clase": "hunter",
+      "raider": false,
+      "nivel": 212,
+      "max": 225,
+      "pct": 33
+    },
+    {
       "personaje": "Palmira Natblida",
       "clase": "rogue",
       "raider": true,
@@ -20,10 +28,10 @@
       "pct": 33
     },
     {
-      "personaje": "Diana Flechaveloz",
-      "clase": "hunter",
-      "raider": false,
-      "nivel": 200,
+      "personaje": "Manelhon Gargon",
+      "clase": "shaman",
+      "raider": true,
+      "nivel": 175,
       "max": 225,
       "pct": 33
     },
@@ -32,14 +40,6 @@
       "clase": "shaman",
       "raider": true,
       "nivel": 173,
-      "max": 225,
-      "pct": 33
-    },
-    {
-      "personaje": "Manelhon Gargon",
-      "clase": "shaman",
-      "raider": true,
-      "nivel": 172,
       "max": 225,
       "pct": 33
     },
@@ -63,7 +63,7 @@
       "personaje": "Ildaren Belisar",
       "clase": "rogue",
       "raider": false,
-      "nivel": 140,
+      "nivel": 142,
       "max": 225,
       "pct": 33
     },
@@ -106,6 +106,14 @@
       "nivel": 81,
       "max": 150,
       "pct": 33
+    },
+    {
+      "personaje": "Samael Thallanor",
+      "clase": "hunter",
+      "raider": false,
+      "nivel": 1,
+      "max": 75,
+      "pct": 0
     }
   ],
   "categorias": [

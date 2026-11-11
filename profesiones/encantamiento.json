@@ -7,7 +7,7 @@
       "personaje": "Dum Bo",
       "clase": "mage",
       "raider": false,
-      "nivel": 161,
+      "nivel": 163,
       "max": 225,
       "pct": 15
     },
@@ -23,7 +23,7 @@
       "personaje": "Nimassus Pater",
       "clase": "priest",
       "raider": true,
-      "nivel": 111,
+      "nivel": 114,
       "max": 150,
       "pct": 8
     },

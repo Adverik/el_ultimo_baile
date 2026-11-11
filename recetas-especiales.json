@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-10",
+  "actualizado": "2026-11-11",
   "recetas": [
     {
       "id": 54692,
@@ -51,15 +51,15 @@
           "clase": "warrior"
         },
         {
+          "n": "Coloso Tempestad",
+          "clase": "warrior"
+        },
+        {
           "n": "Tharindel Magnaluz",
           "clase": "paladin"
         },
         {
           "n": "Espartaco Gladiador",
-          "clase": "warrior"
-        },
-        {
-          "n": "Coloso Tempestad",
           "clase": "warrior"
         },
         {
@@ -122,12 +122,12 @@
           "clase": "warrior"
         },
         {
-          "n": "Tharindel Magnaluz",
-          "clase": "paladin"
-        },
-        {
           "n": "Coloso Tempestad",
           "clase": "warrior"
+        },
+        {
+          "n": "Tharindel Magnaluz",
+          "clase": "paladin"
         },
         {
           "n": "Khyoraku Shunsui",
@@ -186,12 +186,12 @@
           "clase": "warrior"
         },
         {
-          "n": "Tharindel Magnaluz",
-          "clase": "paladin"
-        },
-        {
           "n": "Coloso Tempestad",
           "clase": "warrior"
+        },
+        {
+          "n": "Tharindel Magnaluz",
+          "clase": "paladin"
         },
         {
           "n": "Khyoraku Shunsui",
@@ -451,6 +451,10 @@
         {
           "n": "Aalesian Naeuri",
           "clase": "warrior"
+        },
+        {
+          "n": "Coloso Tempestad",
+          "clase": "warrior"
         }
       ]
     },
@@ -553,6 +557,53 @@
       "personajes": [
         {
           "n": "Aalesian Naeuri",
+          "clase": "warrior"
+        }
+      ]
+    },
+    {
+      "id": 54710,
+      "n": "Yelmo de anillas de veterano",
+      "q": "rare",
+      "ico": "136192",
+      "reac": [
+        [
+          "Lingote de bronce",
+          8
+        ],
+        [
+          "Piedra de pulir burda",
+          2
+        ],
+        [
+          "Perla lustrosa pequeña",
+          6
+        ]
+      ],
+      "obj": {
+        "arm": "177 armadura",
+        "id": 250498,
+        "ilvl": 30,
+        "lig": "Se liga al recogerlo",
+        "n": "Yelmo de anillas de veterano",
+        "q": "rare",
+        "ranura": "Cabeza",
+        "req": 25,
+        "stats": [
+          "+12 fuerza",
+          "+11 aguante"
+        ],
+        "sub": "Mallas",
+        "venta": [
+          "0",
+          "24",
+          "71"
+        ]
+      },
+      "profesion": "Herrería",
+      "personajes": [
+        {
+          "n": "Coloso Tempestad",
           "clase": "warrior"
         }
       ]
@@ -1774,12 +1825,12 @@
       "profesion": "Sastrería",
       "personajes": [
         {
-          "n": "Finn Felagund",
-          "clase": "priest"
-        },
-        {
           "n": "Dum Bo",
           "clase": "mage"
+        },
+        {
+          "n": "Finn Felagund",
+          "clase": "priest"
         },
         {
           "n": "Nimassus Pater",
@@ -1941,12 +1992,12 @@
       "profesion": "Sastrería",
       "personajes": [
         {
-          "n": "Finn Felagund",
-          "clase": "priest"
-        },
-        {
           "n": "Dum Bo",
           "clase": "mage"
+        },
+        {
+          "n": "Finn Felagund",
+          "clase": "priest"
         },
         {
           "n": "Saint Peligroxa",
@@ -2006,12 +2057,12 @@
       "profesion": "Sastrería",
       "personajes": [
         {
-          "n": "Finn Felagund",
-          "clase": "priest"
-        },
-        {
           "n": "Dum Bo",
           "clase": "mage"
+        },
+        {
+          "n": "Finn Felagund",
+          "clase": "priest"
         },
         {
           "n": "Nimassus Pater",

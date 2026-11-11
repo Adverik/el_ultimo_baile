@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-10",
+  "actualizado": "2026-11-11",
   "artesanos": [
     {
       "personaje": "Aalesian Naeuri",
@@ -28,7 +28,7 @@
         },
         {
           "nombre": "Primeros auxilios",
-          "nivel": 197,
+          "nivel": 209,
           "max": 225
         }
       ]
@@ -144,7 +144,7 @@
         {
           "nombre": "Minería",
           "nivel": 150,
-          "max": 150
+          "max": 225
         },
         {
           "nombre": "Ingeniería",
@@ -163,7 +163,7 @@
         },
         {
           "nombre": "Primeros auxilios",
-          "nivel": 148,
+          "nivel": 150,
           "max": 150
         }
       ]
@@ -175,12 +175,12 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 145,
+          "nivel": 152,
           "max": 225
         },
         {
           "nombre": "Herrería",
-          "nivel": 97,
+          "nivel": 125,
           "max": 150
         },
         {
@@ -207,12 +207,12 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 108,
+          "nivel": 111,
           "max": 150
         },
         {
           "nombre": "Ingeniería",
-          "nivel": 116,
+          "nivel": 130,
           "max": 150
         },
         {
@@ -222,7 +222,7 @@
         },
         {
           "nombre": "Pesca",
-          "nivel": 105,
+          "nivel": 106,
           "max": 150
         },
         {
@@ -239,12 +239,12 @@
       "profesiones": [
         {
           "nombre": "Peletería",
-          "nivel": 140,
+          "nivel": 141,
           "max": 150
         },
         {
           "nombre": "Desuello",
-          "nivel": 200,
+          "nivel": 212,
           "max": 225
         },
         {
@@ -303,12 +303,12 @@
       "profesiones": [
         {
           "nombre": "Alquimia",
-          "nivel": 114,
+          "nivel": 116,
           "max": 150
         },
         {
           "nombre": "Herboristería",
-          "nivel": 118,
+          "nivel": 119,
           "max": 150
         },
         {
@@ -325,12 +325,12 @@
       "profesiones": [
         {
           "nombre": "Sastrería",
-          "nivel": 125,
+          "nivel": 133,
           "max": 150
         },
         {
           "nombre": "Encantamiento",
-          "nivel": 161,
+          "nivel": 163,
           "max": 225
         },
         {
@@ -411,6 +411,33 @@
           "nombre": "Primeros auxilios",
           "nivel": 145,
           "max": 150
+        }
+      ]
+    },
+    {
+      "personaje": "Españoleitor Españoleitor",
+      "clase": "warrior",
+      "raider": false,
+      "profesiones": [
+        {
+          "nombre": "Minería",
+          "nivel": 59,
+          "max": 75
+        },
+        {
+          "nombre": "Herrería",
+          "nivel": 28,
+          "max": 75
+        },
+        {
+          "nombre": "Cocina",
+          "nivel": 3,
+          "max": 75
+        },
+        {
+          "nombre": "Primeros auxilios",
+          "nivel": 37,
+          "max": 75
         }
       ]
     },
@@ -534,12 +561,12 @@
       "profesiones": [
         {
           "nombre": "Alquimia",
-          "nivel": 125,
-          "max": 150
+          "nivel": 159,
+          "max": 225
         },
         {
           "nombre": "Herboristería",
-          "nivel": 128,
+          "nivel": 145,
           "max": 225
         },
         {
@@ -625,7 +652,7 @@
         },
         {
           "nombre": "Desuello",
-          "nivel": 140,
+          "nivel": 142,
           "max": 225
         },
         {
@@ -640,7 +667,7 @@
         },
         {
           "nombre": "Primeros auxilios",
-          "nivel": 108,
+          "nivel": 109,
           "max": 150
         }
       ]
@@ -711,13 +738,13 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 126,
-          "max": 150
+          "nivel": 144,
+          "max": 225
         },
         {
           "nombre": "Ingeniería",
-          "nivel": 116,
-          "max": 150
+          "nivel": 137,
+          "max": 225
         },
         {
           "nombre": "Cocina",
@@ -731,8 +758,8 @@
         },
         {
           "nombre": "Primeros auxilios",
-          "nivel": 214,
-          "max": 225
+          "nivel": 225,
+          "max": 300
         }
       ]
     },
@@ -743,12 +770,12 @@
       "profesiones": [
         {
           "nombre": "Alquimia",
-          "nivel": 100,
+          "nivel": 103,
           "max": 150
         },
         {
           "nombre": "Herboristería",
-          "nivel": 111,
+          "nivel": 115,
           "max": 150
         },
         {
@@ -763,7 +790,7 @@
         },
         {
           "nombre": "Primeros auxilios",
-          "nivel": 94,
+          "nivel": 106,
           "max": 150
         }
       ]
@@ -812,7 +839,7 @@
         },
         {
           "nombre": "Desuello",
-          "nivel": 172,
+          "nivel": 175,
           "max": 225
         },
         {
@@ -827,7 +854,7 @@
         },
         {
           "nombre": "Primeros auxilios",
-          "nivel": 66,
+          "nivel": 77,
           "max": 150
         }
       ]
@@ -930,12 +957,12 @@
       "profesiones": [
         {
           "nombre": "Sastrería",
-          "nivel": 104,
+          "nivel": 109,
           "max": 150
         },
         {
           "nombre": "Encantamiento",
-          "nivel": 111,
+          "nivel": 114,
           "max": 150
         },
         {
@@ -1053,12 +1080,12 @@
         },
         {
           "nombre": "Cocina",
-          "nivel": 133,
+          "nivel": 148,
           "max": 150
         },
         {
           "nombre": "Primeros auxilios",
-          "nivel": 76,
+          "nivel": 115,
           "max": 150
         }
       ]
@@ -1101,6 +1128,11 @@
       "raider": false,
       "profesiones": [
         {
+          "nombre": "Desuello",
+          "nivel": 1,
+          "max": 75
+        },
+        {
           "nombre": "Cocina",
           "nivel": 1,
           "max": 75
@@ -1108,7 +1140,7 @@
         {
           "nombre": "Pesca",
           "nivel": 75,
-          "max": 75
+          "max": 150
         }
       ]
     },
@@ -1124,13 +1156,13 @@
         },
         {
           "nombre": "Herboristería",
-          "nivel": 187,
+          "nivel": 190,
           "max": 225
         },
         {
           "nombre": "Cocina",
-          "nivel": 119,
-          "max": 150
+          "nivel": 225,
+          "max": 225
         },
         {
           "nombre": "Pesca",
@@ -1401,6 +1433,7 @@
       "calidad": "common",
       "personajes": [
         "Dio Hotmetal",
+        "Fran Furion",
         "Sugar Papy"
       ]
     },
@@ -1410,6 +1443,7 @@
       "calidad": "common",
       "personajes": [
         "Dio Hotmetal",
+        "Fran Furion",
         "Sugar Papy"
       ]
     },
@@ -1494,6 +1528,14 @@
       ]
     },
     {
+      "nombre": "Elixir of Ogre Strength",
+      "profesion": "Alquimia",
+      "calidad": "common",
+      "personajes": [
+        "Sugar Papy"
+      ]
+    },
+    {
       "nombre": "Elixir of Wisdom",
       "profesion": "Alquimia",
       "calidad": "common",
@@ -1512,6 +1554,7 @@
       "calidad": "common",
       "personajes": [
         "Dio Hotmetal",
+        "Fran Furion",
         "Sugar Papy"
       ]
     },
@@ -1828,6 +1871,7 @@
         "Dum Bo",
         "Edoras Duskranger",
         "Espartaco Gladiador",
+        "Españoleitor Españoleitor",
         "Filps Pachamamamon",
         "Finn Felagund",
         "Fitipaldi Sendaumbria",
@@ -2002,6 +2046,7 @@
         "Dum Bo",
         "Edoras Duskranger",
         "Espartaco Gladiador",
+        "Españoleitor Españoleitor",
         "Filps Pachamamamon",
         "Finn Felagund",
         "Fitipaldi Sendaumbria",
@@ -2131,7 +2176,8 @@
         "La Pety",
         "Memas Tour",
         "Palmira Natblida",
-        "Runa Ruina"
+        "Runa Ruina",
+        "Sugar Papy"
       ]
     },
     {
@@ -2157,7 +2203,8 @@
         "Edoras Duskranger",
         "Espartaco Gladiador",
         "La Pety",
-        "Palmira Natblida"
+        "Palmira Natblida",
+        "Sugar Papy"
       ]
     },
     {
@@ -2188,6 +2235,14 @@
       ]
     },
     {
+      "nombre": "Filet of Redgill",
+      "profesion": "Cocina",
+      "calidad": "common",
+      "personajes": [
+        "Aalesian Naeuri"
+      ]
+    },
+    {
       "nombre": "Fillet of Frenzy",
       "profesion": "Cocina",
       "calidad": "common",
@@ -2213,7 +2268,8 @@
         "Layrela Rondanit",
         "Lithanas Chafardero",
         "Memas Tour",
-        "Palmira Natblida"
+        "Palmira Natblida",
+        "Sugar Papy"
       ]
     },
     {
@@ -2223,6 +2279,7 @@
       "personajes": [
         "Aalesian Naeuri",
         "Chaca Choochoo",
+        "Cuzcu Aker",
         "Diana Flechaveloz",
         "Dum Bo",
         "Edoras Duskranger",
@@ -2272,6 +2329,7 @@
         "Dum Bo",
         "Edoras Duskranger",
         "Espartaco Gladiador",
+        "Españoleitor Españoleitor",
         "Filps Pachamamamon",
         "Finn Felagund",
         "Fitipaldi Sendaumbria",
@@ -2364,7 +2422,8 @@
       "personajes": [
         "Aalesian Naeuri",
         "Dum Bo",
-        "Finn Felagund"
+        "Finn Felagund",
+        "Sugar Papy"
       ]
     },
     {
@@ -2485,6 +2544,7 @@
         "Dum Bo",
         "Edoras Duskranger",
         "Espartaco Gladiador",
+        "Españoleitor Españoleitor",
         "Filps Pachamamamon",
         "Finn Felagund",
         "Fitipaldi Sendaumbria",
@@ -2533,7 +2593,8 @@
       "calidad": "common",
       "personajes": [
         "Aalesian Naeuri",
-        "Finn Felagund"
+        "Finn Felagund",
+        "Sugar Papy"
       ]
     },
     {
@@ -2543,6 +2604,7 @@
       "personajes": [
         "Aalesian Naeuri",
         "Chaca Choochoo",
+        "Cuzcu Aker",
         "Diana Flechaveloz",
         "Dum Bo",
         "Edoras Duskranger",
@@ -2629,8 +2691,10 @@
       "profesion": "Cocina",
       "calidad": "common",
       "personajes": [
+        "Chaca Choochoo",
         "Dum Bo",
-        "Finn Felagund"
+        "Finn Felagund",
+        "La Pety"
       ]
     },
     {
@@ -2669,6 +2733,14 @@
       ]
     },
     {
+      "nombre": "Spider Sausage",
+      "profesion": "Cocina",
+      "calidad": "common",
+      "personajes": [
+        "Sugar Papy"
+      ]
+    },
+    {
       "nombre": "Strider Stew",
       "profesion": "Cocina",
       "calidad": "common",
@@ -2696,8 +2768,11 @@
       "profesion": "Cocina",
       "calidad": "common",
       "personajes": [
+        "Chaca Choochoo",
+        "Diana Flechaveloz",
         "Dum Bo",
-        "Finn Felagund"
+        "Finn Felagund",
+        "La Pety"
       ]
     },
     {
@@ -2795,6 +2870,14 @@
         "Memas Tour",
         "Nindalf Pizpireta",
         "Sykah Brisaveloz"
+      ]
+    },
+    {
+      "nombre": "Skinning",
+      "profesion": "Desuello",
+      "calidad": "common",
+      "personajes": [
+        "Samael Thallanor"
       ]
     },
     {
@@ -3325,7 +3408,8 @@
       "profesion": "Herrería",
       "calidad": "uncommon",
       "personajes": [
-        "Aalesian Naeuri"
+        "Aalesian Naeuri",
+        "Coloso Tempestad"
       ]
     },
     {
@@ -3333,7 +3417,8 @@
       "profesion": "Herrería",
       "calidad": "uncommon",
       "personajes": [
-        "Aalesian Naeuri"
+        "Aalesian Naeuri",
+        "Coloso Tempestad"
       ]
     },
     {
@@ -3361,7 +3446,8 @@
       "profesion": "Herrería",
       "calidad": "uncommon",
       "personajes": [
-        "Aalesian Naeuri"
+        "Aalesian Naeuri",
+        "Coloso Tempestad"
       ]
     },
     {
@@ -3433,6 +3519,7 @@
         "Aalesian Naeuri",
         "Coloso Tempestad",
         "Espartaco Gladiador",
+        "Españoleitor Españoleitor",
         "Hugo Forjaluz",
         "Khyoraku Shunsui",
         "Mosu Warryn",
@@ -3537,6 +3624,7 @@
         "Aalesian Naeuri",
         "Coloso Tempestad",
         "Espartaco Gladiador",
+        "Españoleitor Españoleitor",
         "Hugo Forjaluz",
         "Khyoraku Shunsui",
         "Mosu Warryn",
@@ -3588,7 +3676,8 @@
       "profesion": "Herrería",
       "calidad": "common",
       "personajes": [
-        "Aalesian Naeuri"
+        "Aalesian Naeuri",
+        "Coloso Tempestad"
       ]
     },
     {
@@ -3604,7 +3693,8 @@
       "profesion": "Herrería",
       "calidad": "uncommon",
       "personajes": [
-        "Aalesian Naeuri"
+        "Aalesian Naeuri",
+        "Coloso Tempestad"
       ]
     },
     {
@@ -3644,7 +3734,8 @@
       "profesion": "Herrería",
       "calidad": "uncommon",
       "personajes": [
-        "Aalesian Naeuri"
+        "Aalesian Naeuri",
+        "Coloso Tempestad"
       ]
     },
     {
@@ -3677,6 +3768,7 @@
       "calidad": "common",
       "personajes": [
         "Aalesian Naeuri",
+        "Coloso Tempestad",
         "Espartaco Gladiador"
       ]
     },
@@ -3686,6 +3778,7 @@
       "calidad": "common",
       "personajes": [
         "Aalesian Naeuri",
+        "Coloso Tempestad",
         "Espartaco Gladiador"
       ]
     },
@@ -3695,6 +3788,7 @@
       "calidad": "common",
       "personajes": [
         "Aalesian Naeuri",
+        "Coloso Tempestad",
         "Espartaco Gladiador"
       ]
     },
@@ -3711,7 +3805,8 @@
       "profesion": "Herrería",
       "calidad": "common",
       "personajes": [
-        "Aalesian Naeuri"
+        "Aalesian Naeuri",
+        "Coloso Tempestad"
       ]
     },
     {
@@ -3721,6 +3816,14 @@
       "personajes": [
         "Espartaco Gladiador",
         "Tharindel Magnaluz"
+      ]
+    },
+    {
+      "nombre": "Mighty Iron Hammer",
+      "profesion": "Herrería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Coloso Tempestad"
       ]
     },
     {
@@ -3835,6 +3938,7 @@
         "Aalesian Naeuri",
         "Coloso Tempestad",
         "Espartaco Gladiador",
+        "Españoleitor Españoleitor",
         "Hugo Forjaluz",
         "Khyoraku Shunsui",
         "Mosu Warryn",
@@ -3863,6 +3967,7 @@
         "Aalesian Naeuri",
         "Coloso Tempestad",
         "Espartaco Gladiador",
+        "Españoleitor Españoleitor",
         "Hugo Forjaluz",
         "Khyoraku Shunsui",
         "Mosu Warryn",
@@ -3877,6 +3982,7 @@
         "Aalesian Naeuri",
         "Coloso Tempestad",
         "Espartaco Gladiador",
+        "Españoleitor Españoleitor",
         "Hugo Forjaluz",
         "Khyoraku Shunsui",
         "Mosu Warryn",
@@ -3972,7 +4078,8 @@
       "profesion": "Herrería",
       "calidad": "rare",
       "personajes": [
-        "Aalesian Naeuri"
+        "Aalesian Naeuri",
+        "Coloso Tempestad"
       ]
     },
     {
@@ -4007,6 +4114,7 @@
       "calidad": "uncommon",
       "personajes": [
         "Aalesian Naeuri",
+        "Coloso Tempestad",
         "Espartaco Gladiador"
       ]
     },
@@ -4024,6 +4132,7 @@
       "calidad": "uncommon",
       "personajes": [
         "Aalesian Naeuri",
+        "Coloso Tempestad",
         "Espartaco Gladiador"
       ]
     },
@@ -4109,6 +4218,14 @@
       ]
     },
     {
+      "nombre": "Veteran's Chain Helm",
+      "profesion": "Herrería",
+      "calidad": "rare",
+      "personajes": [
+        "Coloso Tempestad"
+      ]
+    },
+    {
       "nombre": "Aquadynamic Fish Attractor",
       "profesion": "Ingeniería",
       "calidad": "common",
@@ -4129,7 +4246,23 @@
       ]
     },
     {
+      "nombre": "Big Bronze Bomb",
+      "profesion": "Ingeniería",
+      "calidad": "common",
+      "personajes": [
+        "Chaca Choochoo"
+      ]
+    },
+    {
       "nombre": "Blue Firework",
+      "profesion": "Ingeniería",
+      "calidad": "common",
+      "personajes": [
+        "Chaca Choochoo"
+      ]
+    },
+    {
+      "nombre": "Bronze Framework",
       "profesion": "Ingeniería",
       "calidad": "common",
       "personajes": [
@@ -4245,6 +4378,14 @@
       ]
     },
     {
+      "nombre": "Explosive Sheep",
+      "profesion": "Ingeniería",
+      "calidad": "common",
+      "personajes": [
+        "Chaca Choochoo"
+      ]
+    },
+    {
       "nombre": "Flying Tiger Goggles",
       "profesion": "Ingeniería",
       "calidad": "uncommon",
@@ -4296,7 +4437,9 @@
       "profesion": "Ingeniería",
       "calidad": "common",
       "personajes": [
-        "Chaca Choochoo"
+        "Chaca Choochoo",
+        "Cuzcu Aker",
+        "La Pety"
       ]
     },
     {
@@ -4304,7 +4447,9 @@
       "profesion": "Ingeniería",
       "calidad": "common",
       "personajes": [
-        "Chaca Choochoo"
+        "Chaca Choochoo",
+        "Cuzcu Aker",
+        "La Pety"
       ]
     },
     {
@@ -4408,6 +4553,14 @@
       ]
     },
     {
+      "nombre": "Sandpaper",
+      "profesion": "Ingeniería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Chaca Choochoo"
+      ]
+    },
+    {
       "nombre": "Silver Contact",
       "profesion": "Ingeniería",
       "calidad": "common",
@@ -4450,7 +4603,8 @@
       "profesion": "Ingeniería",
       "calidad": "common",
       "personajes": [
-        "Chaca Choochoo"
+        "Chaca Choochoo",
+        "La Pety"
       ]
     },
     {
@@ -4463,6 +4617,7 @@
         "Coloso Tempestad",
         "Cuzcu Aker",
         "Espartaco Gladiador",
+        "Españoleitor Españoleitor",
         "Flexita Shadowsoul",
         "Hugo Forjaluz",
         "Jonaver Legends",
@@ -4489,6 +4644,17 @@
         "La Pety",
         "Mosu Warryn",
         "Tharindel Magnaluz"
+      ]
+    },
+    {
+      "nombre": "Mining",
+      "profesion": "Minería",
+      "calidad": "common",
+      "personajes": [
+        "Chaca Choochoo",
+        "Coloso Tempestad",
+        "Khyoraku Shunsui",
+        "La Pety"
       ]
     },
     {
@@ -4504,8 +4670,7 @@
       "profesion": "Minería",
       "calidad": "common",
       "personajes": [
-        "Coloso Tempestad",
-        "Khyoraku Shunsui"
+        "Españoleitor Españoleitor"
       ]
     },
     {
@@ -4535,6 +4700,7 @@
         "Coloso Tempestad",
         "Cuzcu Aker",
         "Espartaco Gladiador",
+        "Españoleitor Españoleitor",
         "Flexita Shadowsoul",
         "Hugo Forjaluz",
         "Jonaver Legends",
@@ -4558,7 +4724,9 @@
       "calidad": "common",
       "personajes": [
         "Aalesian Naeuri",
-        "Coloso Tempestad"
+        "Chaca Choochoo",
+        "Coloso Tempestad",
+        "La Pety"
       ]
     },
     {
@@ -5201,6 +5369,7 @@
       "profesion": "Peletería",
       "calidad": "uncommon",
       "personajes": [
+        "Aurelio Amador",
         "Palmira Natblida"
       ]
     },
@@ -5599,6 +5768,7 @@
         "Nindalf Pizpireta",
         "Palmira Natblida",
         "Saint Peligroxa",
+        "Samael Thallanor",
         "Sugar Papy",
         "Sykah Brisaveloz",
         "Tharindel Magnaluz",
@@ -5632,6 +5802,7 @@
         "Manelhon Gargon",
         "Nelv Stardancer",
         "Palmira Natblida",
+        "Samael Thallanor",
         "Tharindel Magnaluz"
       ]
     },
@@ -5652,7 +5823,6 @@
         "Nimassus Pater",
         "Nindalf Pizpireta",
         "Saint Peligroxa",
-        "Samael Thallanor",
         "Sugar Papy",
         "Sykah Brisaveloz",
         "Thundrik Volgrim",
@@ -5674,6 +5844,7 @@
         "Ildaren Belisar",
         "Layrela Rondanit",
         "Nelv Stardancer",
+        "Runa Ruina",
         "Viilar Terrisia"
       ]
     },
@@ -5825,6 +5996,7 @@
         "Dum Bo",
         "Edoras Duskranger",
         "Espartaco Gladiador",
+        "Españoleitor Españoleitor",
         "Filps Pachamamamon",
         "Fitipaldi Sendaumbria",
         "Flexita Shadowsoul",
@@ -5870,6 +6042,7 @@
         "Aurelio Amador",
         "Chaca Choochoo",
         "Coloso Tempestad",
+        "Cuzcu Aker",
         "Diana Flechaveloz",
         "Dio Hotmetal",
         "Dum Bo",
@@ -5922,6 +6095,7 @@
         "Ildaren Belisar",
         "Layrela Rondanit",
         "Nelv Stardancer",
+        "Runa Ruina",
         "Viilar Terrisia"
       ]
     },
@@ -5942,6 +6116,7 @@
         "Layrela Rondanit",
         "Nelv Stardancer",
         "Palmira Natblida",
+        "Runa Ruina",
         "Viilar Terrisia"
       ]
     },
@@ -6124,7 +6299,8 @@
       "calidad": "uncommon",
       "personajes": [
         "Dum Bo",
-        "Finn Felagund"
+        "Finn Felagund",
+        "Nimassus Pater"
       ]
     },
     {

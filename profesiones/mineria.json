@@ -12,6 +12,14 @@
       "pct": 53
     },
     {
+      "personaje": "Coloso Tempestad",
+      "clase": "warrior",
+      "raider": false,
+      "nivel": 152,
+      "max": 225,
+      "pct": 35
+    },
+    {
       "personaje": "Khyoraku Shunsui",
       "clase": "warrior",
       "raider": true,
@@ -24,14 +32,6 @@
       "clase": "druid",
       "raider": false,
       "nivel": 150,
-      "max": 150,
-      "pct": 29
-    },
-    {
-      "personaje": "Coloso Tempestad",
-      "clase": "warrior",
-      "raider": false,
-      "nivel": 145,
       "max": 225,
       "pct": 35
     },
@@ -39,9 +39,9 @@
       "personaje": "La Pety",
       "clase": "rogue",
       "raider": false,
-      "nivel": 126,
-      "max": 150,
-      "pct": 29
+      "nivel": 144,
+      "max": 225,
+      "pct": 35
     },
     {
       "personaje": "Tharindel Magnaluz",
@@ -71,7 +71,7 @@
       "personaje": "Cuzcu Aker",
       "clase": "paladin",
       "raider": true,
-      "nivel": 108,
+      "nivel": 111,
       "max": 150,
       "pct": 29
     },
@@ -97,6 +97,14 @@
       "raider": false,
       "nivel": 62,
       "max": 150,
+      "pct": 12
+    },
+    {
+      "personaje": "Españoleitor Españoleitor",
+      "clase": "warrior",
+      "raider": false,
+      "nivel": 59,
+      "max": 75,
       "pct": 12
     }
   ],
@@ -236,7 +244,9 @@
           },
           "quien": [
             0,
-            3
+            1,
+            3,
+            4
           ]
         },
         {
@@ -345,7 +355,8 @@
             8,
             9,
             10,
-            11
+            11,
+            12
           ]
         },
         {
@@ -584,7 +595,8 @@
             8,
             9,
             10,
-            11
+            11,
+            12
           ]
         },
         {
