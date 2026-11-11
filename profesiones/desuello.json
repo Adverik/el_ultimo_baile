@@ -4,20 +4,20 @@
   "total": 3,
   "artesanos": [
     {
-      "personaje": "Palmira Natblida",
-      "clase": "rogue",
-      "raider": true,
-      "nivel": 201,
-      "max": 225,
-      "pct": 33
-    },
-    {
       "personaje": "Edoras Duskranger",
       "clase": "hunter",
       "raider": true,
-      "nivel": 197,
+      "nivel": 206,
       "max": 225,
       "pct": 67
+    },
+    {
+      "personaje": "Palmira Natblida",
+      "clase": "rogue",
+      "raider": true,
+      "nivel": 202,
+      "max": 225,
+      "pct": 33
     },
     {
       "personaje": "Diana Flechaveloz",
@@ -55,7 +55,7 @@
       "personaje": "Lithanas Chafardero",
       "clase": "rogue",
       "raider": false,
-      "nivel": 143,
+      "nivel": 144,
       "max": 150,
       "pct": 33
     },
@@ -63,7 +63,7 @@
       "personaje": "Ildaren Belisar",
       "clase": "rogue",
       "raider": false,
-      "nivel": 139,
+      "nivel": 140,
       "max": 225,
       "pct": 33
     },
@@ -84,6 +84,14 @@
       "pct": 33
     },
     {
+      "personaje": "Sykah Brisaveloz",
+      "clase": "hunter",
+      "raider": false,
+      "nivel": 90,
+      "max": 150,
+      "pct": 33
+    },
+    {
       "personaje": "Fitipaldi Sendaumbria",
       "clase": "rogue",
       "raider": true,
@@ -95,7 +103,7 @@
       "personaje": "Aurelio Amador",
       "clase": "rogue",
       "raider": false,
-      "nivel": 79,
+      "nivel": 81,
       "max": 150,
       "pct": 33
     }
@@ -142,7 +150,8 @@
             8,
             9,
             10,
-            11
+            11,
+            12
           ]
         },
         {
@@ -176,7 +185,7 @@
             "sub": "Otros"
           },
           "quien": [
-            1
+            0
           ]
         },
         {

@@ -23,9 +23,9 @@
       "personaje": "Tharindel Magnaluz",
       "clase": "paladin",
       "raider": false,
-      "nivel": 102,
+      "nivel": 109,
       "max": 150,
-      "pct": 6
+      "pct": 7
     },
     {
       "personaje": "Coloso Tempestad",
@@ -2231,6 +2231,7 @@
           "quien": [
             0,
             1,
+            2,
             3
           ]
         },
@@ -2567,6 +2568,7 @@
           "quien": [
             0,
             1,
+            2,
             3,
             4
           ]

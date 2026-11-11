@@ -18,17 +18,17 @@
         },
         {
           "nombre": "Cocina",
-          "nivel": 195,
+          "nivel": 225,
           "max": 225
         },
         {
           "nombre": "Pesca",
-          "nivel": 150,
+          "nivel": 174,
           "max": 225
         },
         {
           "nombre": "Primeros auxilios",
-          "nivel": 188,
+          "nivel": 197,
           "max": 225
         }
       ]
@@ -45,7 +45,7 @@
         },
         {
           "nombre": "Desuello",
-          "nivel": 79,
+          "nivel": 81,
           "max": 150
         },
         {
@@ -55,7 +55,7 @@
         },
         {
           "nombre": "Primeros auxilios",
-          "nivel": 72,
+          "nivel": 77,
           "max": 150
         }
       ]
@@ -143,7 +143,7 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 124,
+          "nivel": 137,
           "max": 150
         },
         {
@@ -175,7 +175,7 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 136,
+          "nivel": 140,
           "max": 150
         },
         {
@@ -276,17 +276,17 @@
         },
         {
           "nombre": "Herboristería",
-          "nivel": 190,
+          "nivel": 205,
           "max": 225
         },
         {
           "nombre": "Cocina",
-          "nivel": 74,
+          "nivel": 75,
           "max": 150
         },
         {
           "nombre": "Primeros auxilios",
-          "nivel": 72,
+          "nivel": 76,
           "max": 150
         }
       ]
@@ -320,13 +320,13 @@
       "profesiones": [
         {
           "nombre": "Sastrería",
-          "nivel": 116,
+          "nivel": 125,
           "max": 150
         },
         {
           "nombre": "Encantamiento",
-          "nivel": 125,
-          "max": 150
+          "nivel": 161,
+          "max": 225
         },
         {
           "nombre": "Cocina",
@@ -352,12 +352,12 @@
       "profesiones": [
         {
           "nombre": "Peletería",
-          "nivel": 102,
+          "nivel": 116,
           "max": 150
         },
         {
           "nombre": "Desuello",
-          "nivel": 197,
+          "nivel": 206,
           "max": 225
         },
         {
@@ -497,12 +497,12 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 105,
+          "nivel": 109,
           "max": 150
         },
         {
           "nombre": "Ingeniería",
-          "nivel": 98,
+          "nivel": 106,
           "max": 150
         },
         {
@@ -534,7 +534,7 @@
         },
         {
           "nombre": "Herboristería",
-          "nivel": 126,
+          "nivel": 128,
           "max": 225
         },
         {
@@ -561,7 +561,7 @@
         },
         {
           "nombre": "Herboristería",
-          "nivel": 96,
+          "nivel": 99,
           "max": 150
         },
         {
@@ -615,17 +615,17 @@
       "profesiones": [
         {
           "nombre": "Peletería",
-          "nivel": 74,
+          "nivel": 75,
           "max": 150
         },
         {
           "nombre": "Desuello",
-          "nivel": 139,
+          "nivel": 140,
           "max": 225
         },
         {
           "nombre": "Cocina",
-          "nivel": 25,
+          "nivel": 31,
           "max": 75
         },
         {
@@ -679,7 +679,7 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 126,
+          "nivel": 142,
           "max": 150
         },
         {
@@ -743,22 +743,22 @@
         },
         {
           "nombre": "Herboristería",
-          "nivel": 108,
+          "nivel": 111,
           "max": 150
         },
         {
           "nombre": "Cocina",
-          "nivel": 123,
+          "nivel": 137,
           "max": 150
         },
         {
           "nombre": "Pesca",
-          "nivel": 75,
+          "nivel": 77,
           "max": 150
         },
         {
           "nombre": "Primeros auxilios",
-          "nivel": 90,
+          "nivel": 94,
           "max": 150
         }
       ]
@@ -775,7 +775,7 @@
         },
         {
           "nombre": "Desuello",
-          "nivel": 143,
+          "nivel": 144,
           "max": 150
         },
         {
@@ -962,17 +962,17 @@
         },
         {
           "nombre": "Desuello",
-          "nivel": 201,
+          "nivel": 202,
           "max": 225
         },
         {
           "nombre": "Cocina",
-          "nivel": 121,
+          "nivel": 150,
           "max": 150
         },
         {
           "nombre": "Pesca",
-          "nivel": 77,
+          "nivel": 150,
           "max": 150
         },
         {
@@ -1087,7 +1087,7 @@
         },
         {
           "nombre": "Herboristería",
-          "nivel": 181,
+          "nivel": 187,
           "max": 225
         },
         {
@@ -1097,13 +1097,40 @@
         },
         {
           "nombre": "Pesca",
-          "nivel": 25,
+          "nivel": 54,
           "max": 75
         },
         {
           "nombre": "Primeros auxilios",
           "nivel": 69,
           "max": 150
+        }
+      ]
+    },
+    {
+      "personaje": "Sykah Brisaveloz",
+      "clase": "hunter",
+      "raider": false,
+      "profesiones": [
+        {
+          "nombre": "Peletería",
+          "nivel": 36,
+          "max": 75
+        },
+        {
+          "nombre": "Desuello",
+          "nivel": 90,
+          "max": 150
+        },
+        {
+          "nombre": "Cocina",
+          "nivel": 38,
+          "max": 75
+        },
+        {
+          "nombre": "Pesca",
+          "nivel": 20,
+          "max": 75
         }
       ]
     },
@@ -1141,17 +1168,17 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 112,
+          "nivel": 117,
           "max": 150
         },
         {
           "nombre": "Herrería",
-          "nivel": 102,
+          "nivel": 109,
           "max": 150
         },
         {
           "nombre": "Cocina",
-          "nivel": 130,
+          "nivel": 139,
           "max": 150
         },
         {
@@ -1161,7 +1188,7 @@
         },
         {
           "nombre": "Primeros auxilios",
-          "nivel": 79,
+          "nivel": 80,
           "max": 150
         }
       ]
@@ -1237,7 +1264,7 @@
       "profesiones": [
         {
           "nombre": "Alquimia",
-          "nivel": 105,
+          "nivel": 106,
           "max": 150
         },
         {
@@ -1257,7 +1284,7 @@
         },
         {
           "nombre": "Primeros auxilios",
-          "nivel": 115,
+          "nivel": 118,
           "max": 150
         }
       ]
@@ -1768,6 +1795,7 @@
         "Saint Peligroxa",
         "Samael Thallanor",
         "Sugar Papy",
+        "Sykah Brisaveloz",
         "Takkaao Valengri",
         "Tharindel Magnaluz",
         "Thundrik Volgrim",
@@ -1851,6 +1879,7 @@
       "personajes": [
         "Coloso Tempestad",
         "Diana Flechaveloz",
+        "Dio Hotmetal",
         "Flexita Shadowsoul",
         "Sugar Papy"
       ]
@@ -1892,7 +1921,8 @@
         "Edoras Duskranger",
         "Finn Felagund",
         "Lithanas Chafardero",
-        "Memas Tour"
+        "Memas Tour",
+        "Palmira Natblida"
       ]
     },
     {
@@ -1938,6 +1968,7 @@
         "Saint Peligroxa",
         "Samael Thallanor",
         "Sugar Papy",
+        "Sykah Brisaveloz",
         "Takkaao Valengri",
         "Tharindel Magnaluz",
         "Thundrik Volgrim",
@@ -2038,7 +2069,8 @@
         "Finn Felagund",
         "Flexita Shadowsoul",
         "La Pety",
-        "Memas Tour"
+        "Memas Tour",
+        "Palmira Natblida"
       ]
     },
     {
@@ -2115,8 +2147,10 @@
         "Finn Felagund",
         "Khyoraku Shunsui",
         "La Pety",
+        "Layrela Rondanit",
         "Lithanas Chafardero",
-        "Memas Tour"
+        "Memas Tour",
+        "Palmira Natblida"
       ]
     },
     {
@@ -2151,7 +2185,8 @@
         "Manelhon Gargon",
         "Memas Tour",
         "Palmira Natblida",
-        "Runa Ruina"
+        "Runa Ruina",
+        "Tharindel Magnaluz"
       ]
     },
     {
@@ -2197,6 +2232,7 @@
         "Saint Peligroxa",
         "Samael Thallanor",
         "Sugar Papy",
+        "Sykah Brisaveloz",
         "Takkaao Valengri",
         "Tharindel Magnaluz",
         "Thundrik Volgrim",
@@ -2312,6 +2348,7 @@
       "personajes": [
         "Chaca Choochoo",
         "Diana Flechaveloz",
+        "Dum Bo",
         "Edoras Duskranger",
         "Khyoraku Shunsui",
         "Palmira Natblida"
@@ -2323,9 +2360,11 @@
       "calidad": "common",
       "personajes": [
         "Diana Flechaveloz",
+        "Dum Bo",
         "Edoras Duskranger",
         "Espartaco Gladiador",
         "Finn Felagund",
+        "Khyoraku Shunsui",
         "Layrela Rondanit",
         "Lithanas Chafardero",
         "Manelhon Gargon",
@@ -2403,6 +2442,7 @@
         "Saint Peligroxa",
         "Samael Thallanor",
         "Sugar Papy",
+        "Sykah Brisaveloz",
         "Takkaao Valengri",
         "Tharindel Magnaluz",
         "Thundrik Volgrim",
@@ -2487,6 +2527,7 @@
       "profesion": "Cocina",
       "calidad": "common",
       "personajes": [
+        "Dum Bo",
         "Manelhon Gargon",
         "Tharindel Magnaluz"
       ]
@@ -2551,6 +2592,7 @@
         "Palmira Natblida",
         "Runa Ruina",
         "Sugar Papy",
+        "Sykah Brisaveloz",
         "Takkaao Valengri",
         "Tharindel Magnaluz",
         "Viilar Terrisia"
@@ -2562,6 +2604,7 @@
       "calidad": "common",
       "personajes": [
         "Diana Flechaveloz",
+        "Dum Bo",
         "Layrela Rondanit",
         "Lithanas Chafardero",
         "Nelv Stardancer"
@@ -2574,6 +2617,7 @@
       "personajes": [
         "Aalesian Naeuri",
         "Cuzcu Aker",
+        "Dum Bo",
         "Espartaco Gladiador"
       ]
     },
@@ -2592,6 +2636,7 @@
       "calidad": "common",
       "personajes": [
         "Chaca Choochoo",
+        "Dio Hotmetal",
         "Espartaco Gladiador",
         "La Pety",
         "Palmira Natblida",
@@ -2623,7 +2668,8 @@
         "Manelhon Gargon",
         "Memas Tour",
         "Palmira Natblida",
-        "Runa Ruina"
+        "Runa Ruina",
+        "Tharindel Magnaluz"
       ]
     },
     {
@@ -2642,7 +2688,8 @@
         "Memas Tour",
         "Nindalf Pizpireta",
         "Palmira Natblida",
-        "Runa Ruina"
+        "Runa Ruina",
+        "Sykah Brisaveloz"
       ]
     },
     {
@@ -2676,7 +2723,8 @@
         "Fitipaldi Sendaumbria",
         "Lithanas Chafardero",
         "Memas Tour",
-        "Nindalf Pizpireta"
+        "Nindalf Pizpireta",
+        "Sykah Brisaveloz"
       ]
     },
     {
@@ -2705,6 +2753,14 @@
         "Saint Peligroxa",
         "Thundrik Volgrim",
         "Vaporeta Pizpireta"
+      ]
+    },
+    {
+      "nombre": "Enchant 2H Weapon - Lesser Impact",
+      "profesion": "Encantamiento",
+      "calidad": "common",
+      "personajes": [
+        "Dum Bo"
       ]
     },
     {
@@ -2770,6 +2826,7 @@
       "profesion": "Encantamiento",
       "calidad": "common",
       "personajes": [
+        "Dum Bo",
         "Finn Felagund"
       ]
     },
@@ -2832,6 +2889,22 @@
         "Finn Felagund",
         "Nimassus Pater",
         "Saint Peligroxa"
+      ]
+    },
+    {
+      "nombre": "Enchant Chest - Intellect",
+      "profesion": "Encantamiento",
+      "calidad": "common",
+      "personajes": [
+        "Dum Bo"
+      ]
+    },
+    {
+      "nombre": "Enchant Chest - Lesser Absorption",
+      "profesion": "Encantamiento",
+      "calidad": "common",
+      "personajes": [
+        "Dum Bo"
       ]
     },
     {
@@ -2937,6 +3010,7 @@
       "profesion": "Encantamiento",
       "calidad": "common",
       "personajes": [
+        "Dum Bo",
         "Finn Felagund"
       ]
     },
@@ -2948,6 +3022,14 @@
         "Dum Bo",
         "Finn Felagund",
         "Nimassus Pater"
+      ]
+    },
+    {
+      "nombre": "Enchant Weapon - Lesser Striking",
+      "profesion": "Encantamiento",
+      "calidad": "common",
+      "personajes": [
+        "Dum Bo"
       ]
     },
     {
@@ -3577,7 +3659,8 @@
       "personajes": [
         "Aalesian Naeuri",
         "Coloso Tempestad",
-        "Espartaco Gladiador"
+        "Espartaco Gladiador",
+        "Tharindel Magnaluz"
       ]
     },
     {
@@ -3627,7 +3710,8 @@
         "Aalesian Naeuri",
         "Coloso Tempestad",
         "Espartaco Gladiador",
-        "Khyoraku Shunsui"
+        "Khyoraku Shunsui",
+        "Tharindel Magnaluz"
       ]
     },
     {
@@ -3972,6 +4056,7 @@
       "calidad": "common",
       "personajes": [
         "Chaca Choochoo",
+        "Flexita Shadowsoul",
         "La Pety"
       ]
     },
@@ -4065,12 +4150,21 @@
       ]
     },
     {
+      "nombre": "Deadly Blunderbuss",
+      "profesion": "Ingeniería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Flexita Shadowsoul"
+      ]
+    },
+    {
       "nombre": "Flying Tiger Goggles",
       "profesion": "Ingeniería",
       "calidad": "uncommon",
       "personajes": [
         "Chaca Choochoo",
         "Cuzcu Aker",
+        "Flexita Shadowsoul",
         "La Pety"
       ]
     },
@@ -4131,7 +4225,8 @@
       "profesion": "Ingeniería",
       "calidad": "common",
       "personajes": [
-        "Chaca Choochoo"
+        "Chaca Choochoo",
+        "Flexita Shadowsoul"
       ]
     },
     {
@@ -4164,7 +4259,8 @@
       "calidad": "common",
       "personajes": [
         "Chaca Choochoo",
-        "Cuzcu Aker"
+        "Cuzcu Aker",
+        "Flexita Shadowsoul"
       ]
     },
     {
@@ -4429,7 +4525,8 @@
         "Lithanas Chafardero",
         "Memas Tour",
         "Palmira Natblida",
-        "Runa Ruina"
+        "Runa Ruina",
+        "Sykah Brisaveloz"
       ]
     },
     {
@@ -4469,7 +4566,8 @@
       "profesion": "Peletería",
       "calidad": "rare",
       "personajes": [
-        "Aurelio Amador"
+        "Aurelio Amador",
+        "Edoras Duskranger"
       ]
     },
     {
@@ -4495,7 +4593,8 @@
         "Memas Tour",
         "Nindalf Pizpireta",
         "Palmira Natblida",
-        "Runa Ruina"
+        "Runa Ruina",
+        "Sykah Brisaveloz"
       ]
     },
     {
@@ -4561,7 +4660,8 @@
         "Manelhon Gargon",
         "Memas Tour",
         "Palmira Natblida",
-        "Runa Ruina"
+        "Runa Ruina",
+        "Sykah Brisaveloz"
       ]
     },
     {
@@ -4574,6 +4674,14 @@
         "Manelhon Gargon",
         "Memas Tour",
         "Palmira Natblida"
+      ]
+    },
+    {
+      "nombre": "Dark Leather Gloves",
+      "profesion": "Peletería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Edoras Duskranger"
       ]
     },
     {
@@ -4593,6 +4701,7 @@
       "profesion": "Peletería",
       "calidad": "uncommon",
       "personajes": [
+        "Ildaren Belisar",
         "Palmira Natblida"
       ]
     },
@@ -4808,7 +4917,8 @@
         "Memas Tour",
         "Nindalf Pizpireta",
         "Palmira Natblida",
-        "Runa Ruina"
+        "Runa Ruina",
+        "Sykah Brisaveloz"
       ]
     },
     {
@@ -4826,7 +4936,8 @@
         "Memas Tour",
         "Nindalf Pizpireta",
         "Palmira Natblida",
-        "Runa Ruina"
+        "Runa Ruina",
+        "Sykah Brisaveloz"
       ]
     },
     {
@@ -4844,7 +4955,8 @@
         "Memas Tour",
         "Nindalf Pizpireta",
         "Palmira Natblida",
-        "Runa Ruina"
+        "Runa Ruina",
+        "Sykah Brisaveloz"
       ]
     },
     {
@@ -4862,7 +4974,8 @@
         "Memas Tour",
         "Nindalf Pizpireta",
         "Palmira Natblida",
-        "Runa Ruina"
+        "Runa Ruina",
+        "Sykah Brisaveloz"
       ]
     },
     {
@@ -4880,7 +4993,8 @@
         "Memas Tour",
         "Nindalf Pizpireta",
         "Palmira Natblida",
-        "Runa Ruina"
+        "Runa Ruina",
+        "Sykah Brisaveloz"
       ]
     },
     {
@@ -4898,7 +5012,8 @@
         "Memas Tour",
         "Nindalf Pizpireta",
         "Palmira Natblida",
-        "Runa Ruina"
+        "Runa Ruina",
+        "Sykah Brisaveloz"
       ]
     },
     {
@@ -4963,6 +5078,7 @@
       "calidad": "uncommon",
       "personajes": [
         "Diana Flechaveloz",
+        "Edoras Duskranger",
         "Memas Tour",
         "Palmira Natblida"
       ]
@@ -4982,7 +5098,8 @@
         "Memas Tour",
         "Nindalf Pizpireta",
         "Palmira Natblida",
-        "Runa Ruina"
+        "Runa Ruina",
+        "Sykah Brisaveloz"
       ]
     },
     {
@@ -5000,7 +5117,8 @@
         "Memas Tour",
         "Nindalf Pizpireta",
         "Palmira Natblida",
-        "Runa Ruina"
+        "Runa Ruina",
+        "Sykah Brisaveloz"
       ]
     },
     {
@@ -5024,6 +5142,7 @@
       "personajes": [
         "Diana Flechaveloz",
         "Edoras Duskranger",
+        "Ildaren Belisar",
         "Lithanas Chafardero",
         "Manelhon Gargon",
         "Memas Tour",
@@ -5042,7 +5161,8 @@
         "Memas Tour",
         "Nindalf Pizpireta",
         "Palmira Natblida",
-        "Runa Ruina"
+        "Runa Ruina",
+        "Sykah Brisaveloz"
       ]
     },
     {
@@ -5090,7 +5210,8 @@
         "Lithanas Chafardero",
         "Memas Tour",
         "Palmira Natblida",
-        "Runa Ruina"
+        "Runa Ruina",
+        "Sykah Brisaveloz"
       ]
     },
     {
@@ -5135,7 +5256,8 @@
         "Lithanas Chafardero",
         "Memas Tour",
         "Palmira Natblida",
-        "Runa Ruina"
+        "Runa Ruina",
+        "Sykah Brisaveloz"
       ]
     },
     {
@@ -5180,7 +5302,8 @@
         "Memas Tour",
         "Nindalf Pizpireta",
         "Palmira Natblida",
-        "Runa Ruina"
+        "Runa Ruina",
+        "Sykah Brisaveloz"
       ]
     },
     {
@@ -5208,6 +5331,7 @@
       "calidad": "rare",
       "personajes": [
         "Diana Flechaveloz",
+        "Edoras Duskranger",
         "Memas Tour",
         "Palmira Natblida"
       ]
@@ -5246,6 +5370,7 @@
         "Palmira Natblida",
         "Saint Peligroxa",
         "Sugar Papy",
+        "Sykah Brisaveloz",
         "Tharindel Magnaluz",
         "Vaporeta Pizpireta",
         "Viilar Terrisia"
@@ -5297,6 +5422,7 @@
         "Nindalf Pizpireta",
         "Saint Peligroxa",
         "Sugar Papy",
+        "Sykah Brisaveloz",
         "Thundrik Volgrim",
         "Vaporeta Pizpireta",
         "Viilar Terrisia"
@@ -5599,6 +5725,7 @@
       "profesion": "Sastrería",
       "calidad": "uncommon",
       "personajes": [
+        "Dum Bo",
         "Finn Felagund"
       ]
     },
@@ -5607,6 +5734,7 @@
       "profesion": "Sastrería",
       "calidad": "uncommon",
       "personajes": [
+        "Dum Bo",
         "Finn Felagund"
       ]
     },
@@ -5627,6 +5755,14 @@
         "Dum Bo",
         "Finn Felagund",
         "Saint Peligroxa"
+      ]
+    },
+    {
+      "nombre": "Blue Linen Robe",
+      "profesion": "Sastrería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Dum Bo"
       ]
     },
     {
@@ -6115,6 +6251,7 @@
       "profesion": "Sastrería",
       "calidad": "common",
       "personajes": [
+        "Dum Bo",
         "Finn Felagund"
       ]
     },
