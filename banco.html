@@ -270,6 +270,69 @@
   .fila-receta .prof{color:var(--suave);font-size:.86rem}
   .fila-receta .quien{display:flex;flex-wrap:wrap;gap:4px 14px;font-size:.92rem}
   @media (max-width:720px){.fila-receta{grid-template-columns:1fr;gap:4px}}
+
+  /* ===== Banco ===== */
+  .banco{max-width:1080px;margin:0 auto}
+  .marco-banco{position:relative;border:1px solid var(--filete);background:linear-gradient(180deg,rgba(16,18,24,.9),rgba(10,11,14,.9))}
+  .marco-banco::before,.marco-banco::after{content:"";position:absolute;width:24px;height:24px;border:2px solid var(--oro)}
+  .marco-banco::before{top:-2px;left:-2px;border-right:0;border-bottom:0}
+  .marco-banco::after{bottom:-2px;right:-2px;border-left:0;border-top:0}
+  .top{padding:26px 28px 22px;border-bottom:1px solid var(--filete);background:radial-gradient(600px 180px at 50% 0%,rgba(210,169,85,.09),transparent 70%)}
+  .top-cab{display:flex;align-items:center;justify-content:space-between;gap:14px;flex-wrap:wrap;margin-bottom:16px}
+  .top-cab h2{font-size:1.05rem;letter-spacing:.2em;color:var(--oro-claro)}
+  .periodo{display:flex;border:1px solid var(--linea)}
+  .periodo button{background:none;border:0;color:var(--suave);font:600 .7rem/1 var(--texto-f);letter-spacing:.14em;text-transform:uppercase;padding:9px 12px;cursor:pointer}
+  .periodo button[aria-pressed="true"]{background:rgba(210,169,85,.12);color:var(--oro-claro)}
+  .podio{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(5,1fr);gap:10px}
+  .podio li{position:relative;background:var(--panel);border:1px solid var(--linea);border-top:2px solid var(--c);padding:14px 14px 12px}
+  .podio li:first-child{background:linear-gradient(180deg,rgba(210,169,85,.10),var(--panel) 70%);border-color:var(--filete);border-top-color:var(--c)}
+  .podio .pos{position:absolute;top:10px;right:12px;font:700 1.25rem/1 var(--titulos);color:#3a3d46}
+  .podio li:nth-child(1) .pos{color:var(--oro)}.podio li:nth-child(2) .pos{color:#c0c0c0}.podio li:nth-child(3) .pos{color:#c87533}
+  .podio .nombre{display:block;color:var(--c);font-weight:600;font-size:1.02rem;margin-bottom:6px;padding-right:22px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+  .podio .total{font-size:1.05rem}
+  .podio .desglose{display:block;margin-top:6px;color:var(--suave);font-size:.78rem;line-height:1.5}
+  .podio .barra-aporte{height:3px;margin-top:10px;background:var(--linea)}
+  .podio .barra-aporte i{display:block;height:100%;background:linear-gradient(90deg,var(--oro-oscuro),var(--oro-claro))}
+  .nota-top{margin:12px 0 0;color:#7d818b;font-size:.8rem}
+  .cifras{display:grid;grid-template-columns:repeat(3,1fr);border-bottom:1px solid var(--linea)}
+  .cifras div{padding:16px 22px;border-left:1px solid var(--linea)}
+  .cifras div:first-child{border-left:0}
+  .cifras small{display:block;font:600 .68rem/1 var(--texto-f);letter-spacing:.2em;text-transform:uppercase;color:var(--suave);margin-bottom:8px}
+  .cifras b{font-weight:600;font-size:1.1rem}
+  .pestanas-banco{display:flex;gap:0;overflow-x:auto;border-bottom:1px solid var(--linea);scrollbar-width:thin}
+  .pestanas-banco button{flex:0 0 auto;display:flex;align-items:center;gap:9px;background:none;border:0;border-bottom:2px solid transparent;color:var(--suave);font:500 .9rem/1 var(--texto-f);padding:14px 18px;cursor:pointer;white-space:nowrap}
+  .pestanas-banco button img{width:22px;height:22px;border:1px solid #2a2d35;border-radius:3px}
+  .pestanas-banco button[aria-selected="true"]{color:var(--oro-claro);border-bottom-color:var(--oro);background:rgba(210,169,85,.06)}
+  .pestanas-banco button:hover{color:var(--texto)}
+  .pestanas-banco .n{font-size:.75rem;color:#7d818b}
+  .cuerpo-banco{padding:20px 22px 24px}
+  .barra-filtro{display:flex;gap:14px;align-items:center;flex-wrap:wrap;margin-bottom:16px}
+  .barra-filtro .buscador{width:min(100%,320px)}
+  .barra-filtro .resumen{margin-left:auto;color:var(--suave);font-size:.86rem}
+  .cuadricula{display:grid;grid-template-columns:repeat(14,1fr);gap:5px}
+  .cuadricula .hueco{aspect-ratio:1;border:1px solid #1a1c22;border-radius:3px;background:#090a0d}
+  .cuadricula .apagado{opacity:.18}
+  .lista-banco{margin-top:22px;width:100%;border-collapse:collapse;font-size:.92rem}
+  .lista-banco th{text-align:left;font:600 .7rem/1 var(--texto-f);letter-spacing:.18em;text-transform:uppercase;color:var(--oro);padding:10px 8px;border-bottom:1px solid var(--filete)}
+  .lista-banco td{padding:8px;border-bottom:1px solid var(--linea)}
+  .lista-banco .der{text-align:right}
+  .tipo{font:600 .66rem/1 var(--texto-f);letter-spacing:.14em;text-transform:uppercase;padding:4px 7px;border:1px solid}
+  .tipo.entra{color:#9fe0b2;border-color:rgba(134,211,156,.4)}
+  .tipo.sale{color:#e89a9a;border-color:rgba(224,96,96,.4)}
+  .cuando{color:var(--suave);white-space:nowrap;font-variant-numeric:tabular-nums}
+  .ayuda-banco{display:grid;grid-template-columns:1fr 1fr;gap:28px;margin-top:40px}
+  .ayuda-banco h3{font-size:.9rem;margin-bottom:10px}
+  .ayuda-banco p{color:var(--suave);font-size:.95rem}
+  .ejemplo{display:inline-block;font:700 .66rem/1 var(--texto-f);letter-spacing:.16em;text-transform:uppercase;color:#1a1306;background:var(--oro);padding:4px 7px;margin-left:8px;vertical-align:middle}
+  @media (max-width:960px){.podio{grid-template-columns:repeat(3,1fr)}.cuadricula{grid-template-columns:repeat(10,1fr)}}
+  @media (max-width:720px){
+    .top{padding:20px 16px}.cuerpo-banco{padding:16px 12px 20px}
+    .podio{grid-template-columns:1fr 1fr}.podio li:first-child{grid-column:1/-1}
+    .cifras{grid-template-columns:1fr}.cifras div{border-left:0;border-top:1px solid var(--linea);padding:12px 16px}.cifras div:first-child{border-top:0}
+    .cuadricula{grid-template-columns:repeat(7,1fr);gap:4px}
+    .ayuda-banco{grid-template-columns:1fr}
+    .lista-banco .ocultar-movil{display:none}
+  }
 </style>
 </head>
 <body>
@@ -297,7 +360,7 @@
           <button class="titulo-menu" type="button" aria-expanded="false" aria-controls="sub-2">Raid</button>
           <ul class="submenu" id="sub-2">
             <li><a href="./#raids"><span class="t">Noches de raid</span><span class="d">Horario y lo que pedimos</span></a></li>
-            <li><a href="./#botin"><span class="t">Loot <span class="etiqueta-menu">En revisión</span></span><span class="d">Cómo se reparte el botín</span></a></li>
+            <li><a href="loot.html"><span class="t">Loot <span class="etiqueta-menu">Propuesta</span></span><span class="d">Cómo se reparte el botín y la tabla de prioridad</span></a></li>
             <li><a href="./#actividad"><span class="t">Actividad</span><span class="d">Próxima raid y últimas noches</span></a></li>
             <li><a href="./#raiders"><span class="t">Raiders</span><span class="d">El roster actual, por clase</span></a></li>
           </ul>
@@ -322,9 +385,45 @@
     <div class="cab-pagina">
       <span class="etiqueta">Recursos</span>
       <h1>Banco de la hermandad</h1>
-      <p>Lo que hay en el banco de la hermandad y cómo pedir algo.</p>
+      <p>Todo lo que guarda la hermandad, pestaña a pestaña, y quién más ha aportado. Pasa el ratón por un objeto para ver qué es, o pulsa para abrirlo en Wowhead.</p>
+      <p class="fuente" id="fuente" hidden></p>
     </div>
-    <p class="aviso"><b>En construcción.</b> Esta sección aún no está terminada.</p>
+    <p class="aviso" id="aviso-ejemplo" hidden><b>Maqueta con datos de ejemplo.</b> Los objetos, iconos y precios son reales, pero los nombres y las cantidades son inventados. Cuando el banco esté abierto en el juego, aquí saldrá el de verdad.</p>
+    <p class="aviso" id="aviso-vacio" hidden><b>Sin datos todavía.</b> El banco aparecerá aquí en cuanto un oficial suba la primera exportación.</p>
+
+    <div class="banco" id="banco" hidden>
+      <div class="marco-banco">
+        <section class="top" aria-labelledby="t-top">
+          <div class="top-cab">
+            <h2 id="t-top">Quién más aporta</h2>
+            <div class="periodo" role="group" aria-label="Periodo">
+              <button type="button" data-dias="30" aria-pressed="true">Últimos 30 días</button>
+              <button type="button" data-dias="0" aria-pressed="false">Desde el principio</button>
+            </div>
+          </div>
+          <ol class="podio" id="podio"></ol>
+          <p class="nota-top">Cuenta el oro ingresado y los objetos depositados al precio que paga el vendedor. Lo que se saca no resta.</p>
+        </section>
+        <div class="cifras">
+          <div><small>Oro en el banco</small><b id="c-oro"></b></div>
+          <div><small>Objetos, a precio de vendedor</small><b id="c-valor"></b></div>
+          <div><small>Huecos ocupados</small><b id="c-huecos"></b></div>
+        </div>
+        <div class="pestanas-banco" id="pestanas" role="tablist" aria-label="Pestañas del banco"></div>
+        <div class="cuerpo-banco" id="cuerpo"></div>
+      </div>
+
+      <div class="ayuda-banco">
+        <div>
+          <h3>Cómo pedir algo</h3>
+          <p>Escribe en el canal del banco de Discord qué necesitas y para qué. Los consumibles de raid se reparten antes de cada noche a quien vaya a entrar; el resto lo da un oficial cuando pueda.</p>
+        </div>
+        <div>
+          <h3>Cómo aportar</h3>
+          <p>Deja el oro o los objetos en el banco de la hermandad o mándalos por correo al personaje del banco. Todo lo que entra queda registrado y suma en la lista de arriba.</p>
+        </div>
+      </div>
+    </div>
   </div>
 </main>
 
@@ -336,6 +435,137 @@
   </div>
 </footer>
 <script src="comun/recetas.js"></script>
+<script>
+(function () {
+  "use strict";
+  const CLASES = { warrior: "#C69B6D", paladin: "#F48CBA", hunter: "#AAD372", rogue: "#FFF468", priest: "#FFFFFF", shaman: "#3D9BFF", mage: "#3FC7EB", warlock: "#8788EE", druid: "#FF7C0A" };
+  const el = (t, c, x) => { const e = document.createElement(t); if (c) e.className = c; if (x !== undefined) e.textContent = x; return e; };
+  const norm = t => String(t || "").toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "");
+  const $ = id => document.getElementById(id);
+  // Dinero en cobre -> "12 oro 3 plata 40 cobre" con las monedas de colores
+  function dinero(c, corto) {
+    const s = el("span", "dinero"); c = Math.round(c || 0);
+    const g = Math.floor(c / 10000), p = Math.floor(c / 100) % 100, k = c % 100;
+    const partes = [["oro", g], ["plata", p], ["cobre", k]].filter(([, v], i) => v || (i === 0 && !c));
+    (corto ? partes.slice(0, 2) : partes).forEach(([n, v]) => { const x = el("span", n, v.toLocaleString("es-ES")); x.title = n; s.append(x); });
+    if (!s.childNodes.length) s.append(el("span", "cobre", "0"));
+    return s;
+  }
+  const fecha = iso => new Date(iso).toLocaleString("es-ES", { day: "numeric", month: "short", hour: "2-digit", minute: "2-digit" });
+  let B = null, dias = 30, actual = 0;
+  const objeto = id => { const o = B.objetos[String(id)]; return o ? { n: o.n, q: o.q, ico: o.ico, obj: o.obj } : { n: "Objeto " + id, q: "common", obj: { id: id } }; };
+  const valor = e => e.oro ? e.oro : (e.id && B.objetos[String(e.id)] ? B.objetos[String(e.id)].venta * (e.cant || 1) : 0);
+
+  function podio() {
+    const desde = dias ? Date.now() - dias * 864e5 : 0;
+    const ref = B.ejemplo ? new Date(B.actualizado).getTime() : Date.now();
+    const lim = dias ? ref - dias * 864e5 : 0;
+    const suma = {};
+    B.registro.filter(e => e.tipo === "deposito" && new Date(e.t).getTime() >= lim).forEach(e => {
+      const s = suma[e.pj] || (suma[e.pj] = { pj: e.pj, clase: e.clase, oro: 0, obj: 0, n: 0 });
+      if (e.oro) s.oro += e.oro; else { s.obj += valor(e); s.n += e.cant || 1; }
+    });
+    const top = Object.values(suma).map(s => ({ ...s, total: s.oro + s.obj })).sort((a, b) => b.total - a.total).slice(0, 5);
+    const max = top.length ? top[0].total : 1;
+    $("podio").replaceChildren(...(top.length ? top.map((s, i) => {
+      const li = el("li"); li.style.setProperty("--c", CLASES[s.clase] || "#ece6d6");
+      const d = el("span", "desglose"); d.append("Oro ", dinero(s.oro, true), el("br"), s.n + " objetos · ", dinero(s.obj, true));
+      const b = el("div", "barra-aporte"); const i2 = el("i"); i2.style.width = Math.max(4, s.total / max * 100) + "%"; b.append(i2);
+      const t = el("div", "total"); t.append(dinero(s.total, true));
+      li.append(el("span", "pos", String(i + 1)), el("span", "nombre", s.pj), t, d, b);
+      return li;
+    }) : [el("li", "vacio", "Nadie ha aportado en este periodo.")]));
+    void desde;
+  }
+  function cifras() {
+    $("c-oro").replaceChildren(dinero(B.oro, true));
+    let v = 0, h = 0;
+    B.pestanas.forEach(p => p.huecos.forEach(x => { v += (B.objetos[String(x.id)] || { venta: 0 }).venta * x.cant; h++; }));
+    $("c-valor").replaceChildren(dinero(v, true));
+    $("c-huecos").textContent = h + " de " + B.pestanas.length * 98;
+  }
+  function pestanas() {
+    const lista = [...B.pestanas.map((p, i) => ({ i, nombre: p.nombre, ico: p.ico, n: p.huecos.length })), { i: -1, nombre: "Movimientos", n: B.registro.length }];
+    $("pestanas").replaceChildren(...lista.map(p => {
+      const b = el("button"); b.type = "button"; b.setAttribute("role", "tab"); b.setAttribute("aria-selected", String(p.i === actual));
+      if (p.ico) { const im = el("img"); im.src = (window.BASE_ICONOS || "img/iconos/") + p.ico + ".jpg"; im.alt = ""; b.append(im); }
+      b.append(el("span", "", p.nombre), el("span", "n", String(p.n)));
+      b.addEventListener("click", () => { actual = p.i; pestanas(); cuerpo(); });
+      return b;
+    }));
+  }
+  function cuerpo() {
+    const c = $("cuerpo");
+    if (actual === -1) return movimientos(c);
+    const p = B.pestanas[actual];
+    const f = el("div", "barra-filtro");
+    const bus = el("input", "buscador"); bus.type = "search"; bus.placeholder = "Busca en esta pestaña…"; bus.autocomplete = "off";
+    const res = el("span", "resumen");
+    f.append(bus, res);
+    const g = el("div", "cuadricula");
+    const huecos = p.huecos.map(x => { const d = el("div"); d.append(enlaceReceta(objeto(x.id), { icono: true, cantidad: x.cant })); d._n = norm(objeto(x.id).n); return d; });
+    for (let i = huecos.length; i < 98; i++) huecos.push(el("div", "hueco"));
+    g.append(...huecos);
+    // Lista: cada objeto una vez, con el total y su valor
+    const tot = {};
+    p.huecos.forEach(x => { tot[x.id] = (tot[x.id] || 0) + x.cant; });
+    const tabla = el("table", "lista-banco");
+    const th = el("tr"); th.append(el("th", "", "Objeto"), el("th", "der", "Cantidad"), el("th", "der ocultar-movil", "Valor de vendedor"));
+    const tb = el("tbody");
+    const filas = Object.entries(tot).sort((a, b) => objeto(a[0]).n.localeCompare(objeto(b[0]).n, "es")).map(([id, n]) => {
+      const tr = el("tr"); const t1 = el("td"); t1.append(enlaceReceta(objeto(id)));
+      const t3 = el("td", "der ocultar-movil"); t3.append(dinero((B.objetos[id] || { venta: 0 }).venta * n, true));
+      tr.append(t1, el("td", "der", String(n)), t3); tr._n = norm(objeto(id).n); tb.append(tr); return tr;
+    });
+    const thead = el("thead"); thead.append(th); tabla.append(thead, tb);
+    const filtra = () => {
+      const q = norm(bus.value); let n = 0;
+      huecos.forEach(d => { if (d._n !== undefined) { const ok = !q || d._n.includes(q); d.classList.toggle("apagado", !ok); if (ok) n++; } });
+      filas.forEach(tr => { tr.hidden = !!q && !tr._n.includes(q); });
+      res.textContent = (q ? n + " huecos coinciden · " : "") + p.huecos.length + " de 98 huecos ocupados";
+    };
+    bus.addEventListener("input", filtra);
+    c.replaceChildren(f, g, tabla); filtra();
+  }
+  function movimientos(c) {
+    const f = el("div", "barra-filtro");
+    const bus = el("input", "buscador"); bus.type = "search"; bus.placeholder = "Busca por personaje u objeto…"; bus.autocomplete = "off";
+    const res = el("span", "resumen"); f.append(bus, res);
+    const tabla = el("table", "lista-banco");
+    const th = el("tr"); th.append(el("th", "", "Cuándo"), el("th", "", "Quién"), el("th", "", ""), el("th", "", "Qué"), el("th", "der ocultar-movil", "Valor"));
+    const thead = el("thead"); thead.append(th);
+    const tb = el("tbody");
+    const filas = B.registro.slice(0, 200).map(e => {
+      const tr = el("tr");
+      const q = el("td");
+      if (e.oro) q.append(dinero(e.oro)); else { q.append(enlaceReceta(objeto(e.id))); if ((e.cant || 1) > 1) q.append(" ×" + e.cant); }
+      const pj = el("td", "pj", e.pj); pj.style.setProperty("--c", CLASES[e.clase] || "#ece6d6");
+      const t = el("td"); t.append(el("span", "tipo " + (e.tipo === "deposito" ? "entra" : "sale"), e.tipo === "deposito" ? "Aporta" : "Saca"));
+      const v = el("td", "der ocultar-movil"); v.append(dinero(valor(e), true));
+      tr.append(el("td", "cuando", fecha(e.t)), pj, t, q, v);
+      tr._n = norm(e.pj + " " + (e.oro ? "oro" : objeto(e.id).n));
+      tb.append(tr); return tr;
+    });
+    tabla.append(thead, tb);
+    const filtra = () => { const q = norm(bus.value); let n = 0; filas.forEach(tr => { const ok = !q || tr._n.includes(q); tr.hidden = !ok; if (ok) n++; }); res.textContent = n + " movimientos"; };
+    bus.addEventListener("input", filtra);
+    c.replaceChildren(f, tabla); filtra();
+  }
+  document.querySelectorAll(".periodo button").forEach(b => b.addEventListener("click", () => {
+    dias = Number(b.dataset.dias);
+    document.querySelectorAll(".periodo button").forEach(x => x.setAttribute("aria-pressed", String(x === b)));
+    podio();
+  }));
+  fetch("banco.json", { cache: "no-cache" }).then(r => r.ok ? r.json() : null).catch(() => null).then(d => {
+    if (!d || !Array.isArray(d.pestanas)) { $("aviso-vacio").hidden = false; return; }
+    B = d;
+    $("aviso-ejemplo").hidden = !d.ejemplo;
+    const f = $("fuente"); f.textContent = "Actualizado el " + new Date(d.actualizado).toLocaleString("es-ES", { day: "numeric", month: "long", hour: "2-digit", minute: "2-digit" }) + (d.ejemplo ? " · datos de ejemplo" : ""); f.hidden = false;
+    $("banco").hidden = false;
+    podio(); cifras(); pestanas(); cuerpo();
+  });
+})();
+</script>
 <script src="comun/menu.js" defer></script>
 </body>
 </html>

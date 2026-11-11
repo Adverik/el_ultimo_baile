@@ -81,17 +81,25 @@
   document.addEventListener("click", e => { if (ancla && !ancla.contains(e.target)) ocultar(); });
 
   // enlaceReceta(receta) -> <a> con icono y nombre del color de su calidad, enlace a Wowhead y tooltip
-  window.enlaceReceta = function (r) {
-    const a = el("a", "receta-enlace");
+  // opciones.icono: solo el icono (con la cantidad encima si se da opciones.cantidad), para cuadrículas como la del banco
+  window.enlaceReceta = function (r, opciones) {
+    const op = opciones || {};
+    const a = el("a", op.icono ? "ranura-enlace" : "receta-enlace");
     a.href = urlWowhead(r);
     a.target = "_blank";
     a.rel = "noopener";
     a._receta = r;
     if (r.ico) { const i = el("img"); i.src = (window.BASE_ICONOS || "img/iconos/") + r.ico + ".jpg"; i.alt = ""; i.width = 24; i.height = 24; i.loading = "lazy"; a.append(i); }
     else a.append(el("span", "sin-icono"));
-    const n = el("span", "receta-nombre", r.n);
-    n.style.color = COLOR[r.q] || COLOR.common;
-    a.append(n);
+    if (op.icono) {
+      a.style.setProperty("--q", COLOR[r.q] || COLOR.common);
+      a.setAttribute("aria-label", r.n + (op.cantidad > 1 ? " ×" + op.cantidad : ""));
+      if (op.cantidad > 1) a.append(el("span", "ranura-cant", String(op.cantidad)));
+    } else {
+      const n = el("span", "receta-nombre", r.n);
+      n.style.color = COLOR[r.q] || COLOR.common;
+      a.append(n);
+    }
     a.addEventListener("mouseenter", () => mostrar(a));
     a.addEventListener("mouseleave", ocultar);
     a.addEventListener("focus", () => mostrar(a));

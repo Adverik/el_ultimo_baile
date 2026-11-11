@@ -1,0 +1,614 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- Quitar el día del lanzamiento público (5 nov 2026) -->
+<meta name="robots" content="noindex, nofollow">
+<meta name="theme-color" content="#07080a">
+<meta name="color-scheme" content="dark">
+<title>Botín · El Último Baile</title>
+<link rel="preload" href="fonts/manrope.woff" as="font" type="font/woff" crossorigin>
+<link rel="preload" href="fonts/cinzel.woff" as="font" type="font/woff" crossorigin>
+<link rel="stylesheet" href="comun/menu.css">
+<link rel="stylesheet" href="comun/recetas.css">
+<style>
+  /* Fuentes servidas desde la propia web (licencia SIL OFL, ver fonts/). Sin peticiones a Google. */
+  @font-face{font-family:"Cinzel";src:url("fonts/cinzel.woff") format("woff");font-weight:400 900;font-style:normal;font-display:swap}
+  @font-face{font-family:"Manrope";src:url("fonts/manrope.woff") format("woff");font-weight:200 800;font-style:normal;font-display:swap}
+  :root{
+    --fondo:#07080a;
+    --panel:#0c0d10;
+    --panel-2:#101218;
+    --linea:#1d2028;
+    --filete:rgba(201,162,82,.32);   /* líneas doradas finas */
+    --texto:#ece6d6;
+    --suave:#9b9fa9;
+    --oro:#d2a955;
+    --oro-claro:#f1d28a;
+    --oro-oscuro:#a67c2e;
+    --azul-noche:#0d1a3a;
+    --azul:#5b8dff;                  /* acento del escudo (ojos del dragón) */
+    --radio:2px;
+    --titulos:"Cinzel", Georgia, serif;
+    --texto-f:"Manrope", system-ui, sans-serif;
+    --anillo:"Cinzel Decorative", "Cinzel", Georgia, serif;   /* capitales ornamentadas */
+  }
+  *{box-sizing:border-box}
+  [hidden]{display:none !important}
+  html{scroll-behavior:smooth;scroll-padding-top:120px}
+  body{margin:0;background:var(--fondo);color:var(--texto);font:300 1.0625rem/1.7 var(--texto-f)}
+  a{color:var(--oro-claro)}
+  a:focus-visible,.boton:focus-visible{outline:2px solid var(--oro);outline-offset:3px}
+  .envoltura{max-width:1120px;margin:0 auto;padding:0 24px}
+  h1,h2,h3,h4{margin:0;font-weight:600}
+  p{margin:0 0 1em}
+  strong{font-weight:600;color:var(--texto)}
+
+  /* Piezas comunes */
+  .etiqueta{display:block;font:600 .92rem/1 var(--texto-f);letter-spacing:.32em;text-transform:uppercase;color:var(--oro);margin-bottom:14px}
+  h2{font-family:var(--titulos);font-size:clamp(1.45rem,2.9vw,2.15rem);line-height:1.15;letter-spacing:.06em;text-transform:uppercase;color:var(--texto)}
+  h3{font-family:var(--titulos);font-size:1.05rem;letter-spacing:.18em;text-transform:uppercase;color:var(--oro-claro)}
+  .entradilla{color:var(--suave);max-width:62ch;margin:20px auto 0;font-size:1.12rem;text-wrap:balance}
+  .cabecera-seccion{text-align:center;margin-bottom:44px}
+  .boton{display:inline-flex;align-items:center;justify-content:center;font:700 .82rem/1 var(--texto-f);letter-spacing:.24em;text-transform:uppercase;text-decoration:none;padding:18px 34px;border-radius:var(--radio);
+    color:#1a1306;background:linear-gradient(180deg,#f0d38c 0%,#d2a955 55%,#a67c2e 100%);border:1px solid #a67c2e;box-shadow:0 10px 30px -10px rgba(210,169,85,.55)}
+  .boton:hover{filter:brightness(1.08)}
+  .boton.secundario{background:rgba(7,8,10,.6);color:var(--texto);border-color:rgba(201,162,82,.45);box-shadow:none}
+  .boton.secundario:hover{border-color:var(--oro)}
+  .aviso{max-width:680px;margin:22px auto 0;padding:12px 18px;border:1px dashed rgba(210,169,85,.55);background:rgba(210,169,85,.06);color:#d9cfb6;font-size:.98rem;text-align:center}
+  .aviso b{color:var(--oro-claro);font-weight:600;letter-spacing:.04em}
+  .provisional{display:inline-block;font:500 .72rem/1.6 var(--texto-f);letter-spacing:.08em;text-transform:none;color:var(--suave);border:1px dashed #3d404a;border-radius:99px;padding:0 10px;vertical-align:middle}
+
+  /* Panel con esquinas doradas */
+  .marco{position:relative;border:1px solid var(--filete);background:linear-gradient(180deg,rgba(16,18,24,.85),rgba(10,11,14,.85));padding:56px 64px}
+  .marco::before,.marco::after{content:"";position:absolute;width:28px;height:28px;border:2px solid var(--oro)}
+  .marco::before{top:-2px;left:-2px;border-right:0;border-bottom:0}
+  .marco::after{bottom:-2px;right:-2px;border-left:0;border-top:0}
+
+  /* Secciones y separador con rombo */
+  .seccion{position:relative;padding:110px 0;border-top:1px solid var(--linea)}
+  .seccion::before{content:"";position:absolute;top:-7px;left:50%;width:12px;height:12px;margin-left:-6px;transform:rotate(45deg);background:var(--fondo);border:1px solid var(--oro);box-shadow:0 0 10px rgba(91,141,255,.55)}
+
+  /* Barra superior fija: marca, enlaces y botón en una fila (en móvil los enlaces bajan a una segunda fila) */
+
+  /* Cabecera: título, línea de datos, frase y la imagen completa debajo, separada */
+  .hero{position:relative;padding:28px 0 8px;overflow:hidden;text-align:center;
+    background:
+      radial-gradient(700px 360px at 50% 0%,rgba(210,169,85,.12),transparent 70%),
+      radial-gradient(900px 420px at 50% 60%,rgba(60,100,210,.14),transparent 70%),var(--fondo)}
+  /* Título solo para lectores de pantalla: el nombre va en el escudo */
+  .oculto{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
+  .hero .ficha{display:flex;align-items:center;justify-content:center;gap:22px;font:600 .8rem/1.4 var(--texto-f);letter-spacing:.3em;text-transform:uppercase;color:var(--oro);margin:28px auto 14px}
+  .hero .ficha::before,.hero .ficha::after{content:"";flex:0 0 70px;height:1px;background:var(--oro)}
+  .hero .lema{font:300 clamp(.95rem,1.4vw,1.1rem)/1.6 var(--texto-f);letter-spacing:.04em;color:var(--suave);margin:0 auto 24px;max-width:48ch}
+  .acciones{display:flex;gap:16px;flex-wrap:wrap;justify-content:center}
+  /* Escudo: fondo negro puro que se funde con la web (lighten) y la luz de arriba se difumina */
+  .escudo{display:block;margin:0 auto;width:min(480px,86vw);height:auto;mix-blend-mode:lighten;
+    -webkit-mask-image:linear-gradient(180deg,transparent 0%,#000 12%);mask-image:linear-gradient(180deg,transparent 0%,#000 12%)}
+
+  /* Pilares */
+  .pilares{display:grid;grid-template-columns:repeat(4,1fr);border-top:1px solid var(--filete);border-bottom:1px solid var(--filete)}
+  .pilar{padding:44px 30px;text-align:center;border-left:1px solid var(--linea)}
+  .pilar:first-child{border-left:0}
+  .pilar .rombo{display:block;color:var(--oro);font-size:.85rem;margin-bottom:22px;text-shadow:0 0 10px rgba(91,141,255,.7)}
+  .pilar h3{margin-bottom:18px}
+  .pilar p{color:var(--suave);margin:0}
+  /* Nosotros: la imagen de los diez, entera y sin nada encima */
+  .imagen-nosotros{display:block;width:min(100%,1180px);height:auto;margin:56px auto 0;
+    -webkit-mask-image:linear-gradient(180deg,transparent 0%,#000 4%,#000 95%,transparent 100%),linear-gradient(90deg,transparent 0%,#000 2.5%,#000 97.5%,transparent 100%);
+            mask-image:linear-gradient(180deg,transparent 0%,#000 4%,#000 95%,transparent 100%),linear-gradient(90deg,transparent 0%,#000 2.5%,#000 97.5%,transparent 100%);
+    -webkit-mask-composite:source-in;mask-composite:intersect}
+  .frase{text-align:center;font-family:var(--titulos);font-size:clamp(.92rem,1.5vw,1.1rem);letter-spacing:.16em;text-transform:uppercase;color:var(--oro);padding:26px 0;border-bottom:1px solid var(--filete);margin:0}
+
+  /* Raids */
+  .dias{text-align:center;font-family:var(--titulos);font-weight:700;font-size:clamp(1.9rem,4.6vw,3.1rem);letter-spacing:.14em;line-height:1;
+    background:linear-gradient(180deg,#f3d896 0%,#d2a955 50%,#9d7429 100%);-webkit-background-clip:text;background-clip:text;color:transparent}
+  .horas{text-align:center;font:700 .9rem/1.6 var(--texto-f);letter-spacing:.24em;text-transform:uppercase;margin:22px 0 0}
+  .horas span{color:var(--suave);font-weight:500}
+  .listas{display:grid;grid-template-columns:1fr 1fr;gap:56px;margin-top:44px;padding-top:44px;border-top:1px solid var(--linea)}
+  .lista h3{font-size:.95rem;margin-bottom:18px}
+  .lista ul{list-style:none;margin:0;padding:0}
+  .lista li{position:relative;padding:12px 0 12px 32px;border-bottom:1px solid var(--linea);font-weight:400}
+  .lista li:last-child{border-bottom:0}
+  .lista li::before{content:"◆";position:absolute;left:2px;top:13px;color:var(--oro);font-size:.85rem}
+  .lista.no li{color:var(--suave);font-weight:300}
+  .lista.no li::before{content:"◇";color:var(--suave)}
+  .pie-marco{text-align:center;color:var(--suave);margin:36px 0 0;padding-top:28px;border-top:1px solid var(--linea)}
+
+  /* Botín */
+  .botin{display:grid;grid-template-columns:1fr 1.3fr;gap:64px;align-items:center}
+  .destacado-botin{text-align:center;padding:40px 24px;border-top:1px solid var(--filete);border-bottom:1px solid var(--filete)}
+  .destacado-botin .grande{font-family:var(--titulos);font-weight:700;font-size:clamp(2rem,4.5vw,3.2rem);letter-spacing:.06em;line-height:1.1;margin:10px 0 18px;
+    background:linear-gradient(180deg,#f3d896 0%,#d2a955 50%,#9d7429 100%);-webkit-background-clip:text;background-clip:text;color:transparent}
+  .destacado-botin p{color:var(--suave);font-size:.95rem;margin:0}
+  .definiciones{margin:0}
+  .definicion{display:grid;grid-template-columns:200px 1fr;gap:24px;padding:24px 0;border-bottom:1px solid var(--linea)}
+  .definicion:last-child{border-bottom:0}
+  .definicion dt{font-family:var(--titulos);font-weight:600;letter-spacing:.12em;text-transform:uppercase;color:var(--oro-claro)}
+  .definicion dt small{display:block;font:600 .72rem/1.6 var(--texto-f);letter-spacing:.24em;color:var(--suave);margin-top:6px}
+  .definicion dd{margin:0;color:var(--suave)}
+
+  /* Actividad */
+  .dos-col{display:grid;grid-template-columns:1fr 1fr;gap:28px}
+  .bloque-titulo{font-size:.95rem;margin-bottom:16px}
+  .proxima{border:1px solid var(--filete);background:var(--panel-2);padding:22px 24px}
+  .proxima .fecha-grande{font-family:var(--titulos);font-size:1.5rem;letter-spacing:.06em;text-transform:capitalize;color:var(--oro-claro)}
+  .proxima .detalle{color:var(--suave)}
+  .etiqueta-dif{display:inline-block;font:600 .7rem/1.6 var(--texto-f);letter-spacing:.18em;text-transform:uppercase;color:var(--oro);border:1px solid var(--filete);padding:0 8px;margin-left:8px;vertical-align:middle}
+  .actividad{list-style:none;margin:0;padding:0}
+  .actividad li{display:grid;grid-template-columns:auto 1fr;gap:2px 18px;padding:14px 0;border-bottom:1px solid var(--linea)}
+  .actividad .cuando{color:var(--suave);grid-row:span 2;font-variant-numeric:tabular-nums}
+  .actividad .que{font-weight:600}
+  .actividad .detalle{color:var(--suave);font-size:.95rem}
+  .vacio{color:var(--suave);font-style:italic;padding:14px 0;margin:0}
+  .kill{display:grid;grid-template-columns:110px 1fr;gap:16px;border:1px solid var(--linea);background:var(--panel);margin-bottom:12px}
+  .kill .captura{background:repeating-linear-gradient(135deg,rgba(210,169,85,.07) 0 10px,transparent 10px 20px),var(--panel-2);display:grid;place-items:center;color:var(--suave);font-size:.75rem;text-align:center;padding:8px}
+  .kill .cuerpo{padding:12px 14px 12px 0}
+  .kill .jefe{font-family:var(--titulos);letter-spacing:.06em;color:#e07a5f;font-weight:600}
+  .kill .meta{color:var(--suave);font-size:.9rem}
+  .tabla-botin{margin-top:40px}
+  .tabla-botin table{width:100%;border-collapse:collapse}
+  .tabla-botin th{text-align:left;font:600 .75rem/1 var(--texto-f);letter-spacing:.22em;text-transform:uppercase;color:var(--oro);padding:14px 0;border-bottom:1px solid var(--filete)}
+  .tabla-botin td{padding:12px 16px 12px 0;border-bottom:1px solid var(--linea);vertical-align:top}
+  .tabla-botin td:first-child{color:var(--suave);white-space:nowrap}
+  .tabla-botin td:nth-child(2){font-weight:600}
+
+  /* Reclutamiento */
+  .perfiles{max-width:1020px;margin:0 auto 56px;text-align:center;font-size:1.08rem}
+  .perfiles .intro-perfiles{margin:0 auto 26px;color:var(--suave)}
+  .perfil-lista{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(3,1fr);gap:0;border-top:1px solid var(--filete);border-bottom:1px solid var(--filete)}
+  .perfil-lista li{padding:24px 22px;border-left:1px solid var(--linea)}
+  .perfil-lista li:first-child{border-left:0}
+  .perfil-lista strong{display:block;font-family:var(--titulos);font-weight:600;font-size:.95rem;letter-spacing:.14em;text-transform:uppercase;color:var(--oro-claro);margin-bottom:10px}
+  .perfil-lista span{color:#c9c6bd;font-size:.98rem}
+  .perfil-lista b{color:var(--texto);font-weight:600}
+  #reclutamiento .cabecera-seccion{margin-bottom:18px}
+  #reclutamiento .entradilla{margin-top:14px}
+  .dos-marco{display:grid;grid-template-columns:1fr 1fr;gap:56px}
+  .dos-marco h3{margin-bottom:16px}
+  .dos-marco p{color:#c9c6bd}
+  .titulo-lista{text-align:center;margin:80px 0 34px;font-size:1.15rem;letter-spacing:.24em}
+  .clases{display:grid;grid-template-columns:repeat(3,1fr);gap:14px;max-width:1020px;margin:0 auto}
+  .clase{background:var(--panel);border:1px solid var(--linea);border-top:2px solid var(--c);padding:16px 18px 18px}
+  .clase h4{margin:0;font-family:var(--titulos);font-size:1rem;letter-spacing:.16em;text-transform:uppercase;color:var(--c);display:flex;align-items:center;gap:10px}
+  .clase h4 .icono{width:22px;height:22px;display:grid;place-items:center;font-size:.78rem;color:#0a0a0a;background:var(--c)}
+  .clase .raya{height:1px;margin:12px 0 12px;background:linear-gradient(90deg,var(--c),transparent)}
+  .specs{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:1fr 1fr;gap:8px}
+  .spec{display:flex;align-items:center;gap:8px;font:600 .72rem/1.2 var(--texto-f);letter-spacing:.08em;text-transform:uppercase;white-space:nowrap;padding:9px 10px;border:1px solid rgba(134,211,156,.4);color:#9fe0b2;background:rgba(134,211,156,.06)}
+  .spec::before{content:"";flex:0 0 7px;height:7px;border-radius:50%;background:#86d39c;box-shadow:0 0 6px rgba(134,211,156,.7)}
+  .spec.cerrada{border-color:rgba(224,96,96,.4);color:#e89a9a;background:rgba(224,96,96,.06)}
+  .spec.cerrada::before{background:#e06060;box-shadow:0 0 6px rgba(224,96,96,.7)}
+  .nota-lista{text-align:center;color:var(--suave);font-size:.95rem;margin-top:22px}
+
+  /* Raiders */
+  .recuento{display:flex;justify-content:center;gap:28px;flex-wrap:wrap;color:var(--suave);margin:0 0 30px}
+  .recuento strong{font-family:var(--titulos);font-size:1.4rem;color:var(--oro-claro);margin-right:6px}
+  .roster{display:grid;grid-template-columns:repeat(3,1fr);gap:14px;max-width:1020px;margin:0 auto}
+  .grupo{background:var(--panel);border:1px solid var(--linea);border-top:2px solid var(--c);padding:16px 18px 14px}
+  .grupo .raya{height:1px;margin:10px 0 6px;background:linear-gradient(90deg,var(--c),transparent)}
+  .grupo h4{margin:0;font-family:var(--titulos);font-size:.95rem;letter-spacing:.14em;text-transform:uppercase;color:var(--c);display:flex;justify-content:space-between;align-items:baseline}
+  .grupo h4 span{font-family:var(--texto-f);font-size:.8rem;color:var(--suave);letter-spacing:0}
+  .grupo ul{list-style:none;margin:0;padding:0}
+  .grupo li{display:flex;justify-content:space-between;gap:10px;padding:4px 0;font-size:.95rem;font-weight:400;border-top:1px solid var(--linea)}
+  .grupo li:first-child{border-top:0}
+  .grupo .nombre-pj{color:var(--c);font-weight:500}
+  .grupo .rol{color:var(--suave);font-size:.78rem;letter-spacing:.06em;white-space:nowrap}
+
+  /* Únete */
+  .unete{text-align:center}
+  .unete .entradilla{margin-bottom:36px}
+  .discord-recuento{margin:22px 0 0;color:var(--suave);font-size:.95rem}
+  .discord-recuento strong{font-family:var(--titulos);font-size:1.25rem;color:var(--oro-claro);margin-right:4px}
+  .discord-recuento .punto{display:inline-block;width:8px;height:8px;border-radius:50%;background:#86d39c;box-shadow:0 0 6px rgba(134,211,156,.8);margin:0 6px 1px 18px}
+  .contactos{margin-top:34px;display:flex;justify-content:center;align-items:baseline;flex-wrap:wrap;gap:8px 10px;font-size:1.05rem}
+  .contactos span{font:600 .75rem/1 var(--texto-f);letter-spacing:.24em;text-transform:uppercase;color:var(--suave);margin-right:10px}
+  .contactos b{font-weight:600}
+
+  footer{border-top:1px solid var(--filete);padding:48px 0 60px;color:var(--suave);font-size:.92rem;background:radial-gradient(900px 300px at 50% 120%,rgba(13,26,58,.6),transparent 70%)}
+  footer .fila{display:flex;flex-wrap:wrap;align-items:baseline;gap:12px 32px;margin-bottom:22px}
+  footer .marca{font-size:1.1rem}
+  footer nav{display:flex;flex-wrap:wrap;gap:12px 28px;justify-content:flex-end;margin-bottom:22px}
+  footer nav a{font:600 .78rem/1 var(--texto-f);letter-spacing:.22em;text-transform:uppercase;color:var(--texto);text-decoration:none}
+  footer nav a:hover{color:var(--oro-claro)}
+  footer .legal{margin:16px 0 0;font-size:.85rem}
+  footer .legal a{color:var(--suave)}
+  footer .legal a:hover{color:var(--oro-claro)}
+
+  @media (max-width:960px){
+    .pilares{grid-template-columns:1fr 1fr}
+    .pilar:nth-child(3){border-left:0}
+    .pilar:nth-child(n+3){border-top:1px solid var(--linea)}
+    .botin{grid-template-columns:1fr;gap:36px}
+    .marco{padding:44px 32px}
+  }
+  @media (max-width:720px){
+    .perfil-lista{grid-template-columns:1fr}
+    .perfil-lista li{border-left:0;border-top:1px solid var(--linea);padding:20px 6px}
+    .perfil-lista li:first-child{border-top:0}
+    body{font-size:1rem}
+    .seccion{padding:80px 0}
+    .hero{padding:44px 0 0}
+    .hero .ficha{gap:12px;letter-spacing:.2em;font-size:.68rem}
+    .hero .ficha::before,.hero .ficha::after{flex-basis:20px}
+    .hero .lema{margin:0 auto 24px}
+    /* En móvil el nombre de la imagen se lee pequeño: se añade el logo debajo */
+    .hero .ficha{margin-top:10px}
+    .pilares{grid-template-columns:1fr}
+    .pilar{border-left:0;border-top:1px solid var(--linea);padding:34px 8px}
+    .pilar:first-child{border-top:0}
+    .listas,.dos-col,.dos-marco{grid-template-columns:1fr;gap:36px}
+    .marco{padding:36px 22px}
+    .definicion{grid-template-columns:1fr;gap:8px}
+    .clases{grid-template-columns:1fr}
+    .roster{grid-template-columns:1fr;gap:10px}
+    footer nav{justify-content:flex-start}
+  }
+  @media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
+
+  .pagina{padding:64px 0 110px}
+  .cab-pagina{text-align:center;margin-bottom:34px}
+  .cab-pagina h1{font-family:var(--titulos);font-weight:600;font-size:clamp(1.6rem,3.4vw,2.4rem);letter-spacing:.06em;text-transform:uppercase;line-height:1.15;margin:0 0 12px}
+  .cab-pagina p{color:var(--suave);max-width:680px;margin:0 auto}
+  .cab-pagina .fuente{margin-top:10px;font-size:.85rem;letter-spacing:.04em;color:#7d818b}
+  .vacio{color:var(--suave);text-align:center;padding:26px 0;grid-column:1/-1}
+  .aviso{max-width:680px;margin:0 auto 34px;padding:12px 18px;border:1px dashed rgba(210,169,85,.55);background:rgba(210,169,85,.06);color:#d9cfb6;text-align:center}
+  .aviso b{color:var(--oro-claro)}
+  .buscador{width:min(100%,420px);padding:12px 14px;background:var(--panel);border:1px solid var(--linea);color:var(--texto);font:400 1rem var(--texto-f)}
+  .buscador:focus,.selector:focus{outline:none;border-color:var(--oro)}
+  .chips{display:flex;flex-wrap:wrap;gap:8px;justify-content:center}
+  .chip{font:600 .72rem/1 var(--texto-f);letter-spacing:.12em;text-transform:uppercase;padding:9px 12px;background:none;border:1px solid var(--linea);color:var(--suave);cursor:pointer}
+  .chip:hover{border-color:var(--filete);color:var(--texto)}
+  .chip[aria-pressed="true"]{border-color:var(--oro);color:var(--oro-claro);background:rgba(210,169,85,.08)}
+  .pj{color:var(--c);font-weight:500}
+  @media (max-width:720px){.pagina{padding:40px 0 70px}}
+  .controles{display:flex;flex-direction:column;gap:14px;align-items:center;margin:0 auto 38px;max-width:1020px}
+  .bloque-cal{max-width:1080px;margin:0 auto 46px}
+  .bloque-cal>h2{font-family:var(--titulos);font-weight:600;font-size:1.05rem;letter-spacing:.18em;text-transform:uppercase;color:var(--q);margin:0 0 12px;padding-bottom:12px;border-bottom:1px solid var(--filete)}
+  .bloque-cal>h2 small{color:var(--suave);letter-spacing:.08em;margin-left:6px}
+  .fila-receta{display:grid;grid-template-columns:minmax(0,1.3fr) 150px minmax(0,1.4fr);gap:16px;align-items:center;padding:10px 6px;border-top:1px solid var(--linea)}
+  .fila-receta .prof{color:var(--suave);font-size:.86rem}
+  .fila-receta .quien{display:flex;flex-wrap:wrap;gap:4px 14px;font-size:.92rem}
+  @media (max-width:720px){.fila-receta{grid-template-columns:1fr;gap:4px}}
+
+  /* ===== Botín ===== */
+  .botin-pag{max-width:1020px;margin:0 auto}
+  .tldr{display:grid;grid-template-columns:repeat(4,1fr);border-top:1px solid var(--filete);border-bottom:1px solid var(--filete);margin:0 0 70px}
+  .tldr li{list-style:none;padding:28px 22px;border-left:1px solid var(--linea);text-align:center}
+  .tldr li:first-child{border-left:0}
+  .tldr .num{display:block;font:700 1.9rem/1 var(--titulos);color:var(--oro);margin-bottom:12px}
+  .tldr b{display:block;font-family:var(--titulos);font-weight:600;letter-spacing:.12em;text-transform:uppercase;color:var(--oro-claro);font-size:.92rem;margin-bottom:8px}
+  .tldr span{color:var(--suave);font-size:.94rem}
+  .tldr{padding:0}
+  .bloque{margin:0 0 76px}
+  .bloque>h2{text-align:center;margin-bottom:10px}
+  .bloque>.sub{text-align:center;color:var(--suave);max-width:64ch;margin:0 auto 32px}
+  .formula{display:flex;align-items:center;justify-content:center;gap:18px;flex-wrap:wrap;font-family:var(--titulos);font-size:clamp(1.3rem,3vw,2rem);letter-spacing:.08em;color:var(--oro-claro);padding:26px 10px;border-top:1px solid var(--filete);border-bottom:1px solid var(--filete);margin:0 auto 26px;max-width:760px}
+  .formula small{display:block;font:500 .72rem/1.4 var(--texto-f);letter-spacing:.18em;text-transform:uppercase;color:var(--suave);text-align:center}
+  .formula .op{color:var(--suave)}
+  .pasos{list-style:none;margin:0;padding:0;counter-reset:p}
+  .pasos li{counter-increment:p;display:grid;grid-template-columns:54px 1fr;gap:18px;padding:18px 0;border-bottom:1px solid var(--linea)}
+  .pasos li::before{content:counter(p);display:grid;place-items:center;width:42px;height:42px;border:1px solid var(--filete);font:700 1.1rem/1 var(--titulos);color:var(--oro)}
+  .pasos b{display:block;color:var(--texto);font-weight:600;margin-bottom:2px}
+  .pasos span{color:var(--suave)}
+  .tabla{width:100%;border-collapse:collapse;font-size:.97rem}
+  .tabla th{text-align:left;font:600 .72rem/1 var(--texto-f);letter-spacing:.2em;text-transform:uppercase;color:var(--oro);padding:12px 10px;border-bottom:1px solid var(--filete)}
+  .tabla td{padding:12px 10px;border-bottom:1px solid var(--linea);vertical-align:top}
+  .tabla td small{display:block;color:var(--suave);font-size:.86rem}
+  .tabla .der{text-align:right;white-space:nowrap}
+  .valor{font:600 1.02rem/1 var(--texto-f);color:var(--oro-claro);font-variant-numeric:tabular-nums}
+  .valor.cero{color:var(--suave)}
+  .dos{display:grid;grid-template-columns:1fr 1fr;gap:34px}
+  .calc{border:1px solid var(--filete);background:var(--panel-2);padding:22px 24px;margin-top:28px}
+  .calc h3{font-size:.9rem;margin-bottom:16px}
+  .calc .campos{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr) auto;gap:14px;align-items:end}
+  .calc select{min-width:0;width:100%}
+  .calc label{display:flex;flex-direction:column;gap:6px;font-size:.82rem;color:var(--suave)}
+  .calc select,.calc input{background:var(--panel);border:1px solid var(--linea);color:var(--texto);font:400 .95rem var(--texto-f);padding:10px 12px}
+  .calc select:focus,.calc input:focus{outline:none;border-color:var(--oro)}
+  .calc .resultado{font:700 1.6rem/1 var(--titulos);color:var(--oro-claro);white-space:nowrap;padding-bottom:6px}
+  .calc .resultado small{display:block;font:500 .7rem/1.4 var(--texto-f);letter-spacing:.16em;text-transform:uppercase;color:var(--suave)}
+  .calc .explica{margin:14px 0 0;color:var(--suave);font-size:.88rem}
+  .decay-graf{display:grid;grid-template-columns:repeat(9,1fr);gap:8px;align-items:end;height:150px;margin:18px 0 6px;padding:0 4px;border-bottom:1px solid var(--linea)}
+  .decay-graf div{position:relative;background:linear-gradient(180deg,var(--oro-claro),var(--oro-oscuro));min-height:2px}
+  .decay-graf div span{position:absolute;top:-20px;left:0;right:0;text-align:center;font-size:.72rem;color:var(--suave)}
+  .decay-ejes{display:grid;grid-template-columns:repeat(9,1fr);gap:8px;padding:0 4px;font-size:.72rem;color:var(--suave);text-align:center}
+  .datos-decay{display:flex;gap:26px;flex-wrap:wrap;justify-content:center;margin-top:18px;color:var(--suave);font-size:.92rem}
+  .datos-decay b{color:var(--oro-claro);font-weight:600}
+  .pr .pj{font-weight:600}
+  .pr .barra-pr{height:4px;background:var(--linea);margin-top:6px;max-width:220px}
+  .pr .barra-pr i{display:block;height:100%;background:linear-gradient(90deg,var(--oro-oscuro),var(--oro-claro))}
+  .prueba{font:600 .64rem/1 var(--texto-f);letter-spacing:.14em;text-transform:uppercase;color:var(--suave);border:1px dashed #3d404a;padding:3px 6px;margin-left:8px;vertical-align:middle}
+  .normas{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:1fr 1fr;gap:0 34px}
+  .normas li{position:relative;padding:14px 0 14px 28px;border-bottom:1px solid var(--linea);color:var(--suave)}
+  .normas li::before{content:"◆";position:absolute;left:2px;top:15px;color:var(--oro);font-size:.8rem}
+  .normas b{color:var(--texto);font-weight:600}
+  .herr{display:grid;grid-template-columns:repeat(3,1fr);gap:14px}
+  .herr div{background:var(--panel);border:1px solid var(--linea);border-top:2px solid var(--oro);padding:18px 18px 16px}
+  .herr h3{font-size:.86rem;margin-bottom:10px}
+  .herr p{color:var(--suave);font-size:.92rem;margin:0}
+  .herr code{font-size:.85rem;color:var(--oro-claro)}
+  .ejemplo{display:inline-block;font:700 .66rem/1 var(--texto-f);letter-spacing:.16em;text-transform:uppercase;color:#1a1306;background:var(--oro);padding:5px 8px;margin-left:10px;vertical-align:middle}
+  input[type=range]{accent-color:var(--oro)}
+  .faq details{border-bottom:1px solid var(--linea);padding:14px 0}
+  .faq summary{cursor:pointer;font-weight:600;color:var(--texto)}
+  .faq summary::marker{color:var(--oro)}
+  .faq p{color:var(--suave);margin:10px 0 0}
+  @media (max-width:960px){.tldr{grid-template-columns:1fr 1fr}.tldr li:nth-child(3){border-left:0}.tldr li:nth-child(n+3){border-top:1px solid var(--linea)}.herr{grid-template-columns:1fr}}
+  @media (max-width:720px){
+    .tldr{grid-template-columns:1fr}.tldr li{border-left:0;border-top:1px solid var(--linea)}.tldr li:first-child{border-top:0}
+    .dos,.normas{grid-template-columns:1fr}
+    .calc .campos{grid-template-columns:minmax(0,1fr)!important}.calc{padding:18px 16px}
+    .tabla{font-size:.92rem}.tabla th,.tabla td{padding:10px 6px}
+    .ocultar-movil{display:none}
+  }
+</style>
+</head>
+<body>
+<header class="barra">
+  <div class="envoltura fila1">
+    <a class="marca" href="./#inicio">
+      <svg width="30" height="34" viewBox="0 0 28 32" aria-hidden="true">
+        <path d="M14 1 L27 5 V15 C27 23 21 28.5 14 31 C7 28.5 1 23 1 15 V5 Z" fill="#101218" stroke="#D2A955" stroke-width="1.5"/>
+        <path d="M9 22 C9 15 19 15 19 9" stroke="#D2A955" stroke-width="1.6" fill="none" stroke-linecap="round"/>
+        <path d="M19 22 C19 15 9 15 9 9" stroke="#ECE6D6" stroke-width="1.6" fill="none" stroke-linecap="round"/>
+      </svg>
+      El Último Baile
+    </a>
+    <ul class="rapidos">
+      <li><a class="enlace-menu" href="./#inicio">Inicio</a></li>
+      <li><a class="enlace-menu" href="./#hermandad">La hermandad</a></li>
+      <li><a class="enlace-menu" href="primera-semana.html">Primera semana</a></li>
+    </ul>
+    <button class="menu-movil" type="button" aria-expanded="false" aria-controls="menu-principal"><span class="rayas" aria-hidden="true"></span><span class="texto-menu">Menú</span></button>
+    <nav id="menu-principal" aria-label="Principal">
+      <ul class="menu">
+        <li class="item-menu fijo"><a class="enlace-menu" href="./#inicio">Inicio</a></li>
+        <li class="item-menu fijo"><a class="enlace-menu" href="./#hermandad">La hermandad</a></li>
+        <li class="grupo-menu">
+          <button class="titulo-menu" type="button" aria-expanded="false" aria-controls="sub-2">Raid</button>
+          <ul class="submenu" id="sub-2">
+            <li><a href="./#raids"><span class="t">Noches de raid</span><span class="d">Horario y lo que pedimos</span></a></li>
+            <li><a href="loot.html"><span class="t">Loot <span class="etiqueta-menu">Propuesta</span></span><span class="d">Cómo se reparte el botín y la tabla de prioridad</span></a></li>
+            <li><a href="./#actividad"><span class="t">Actividad</span><span class="d">Próxima raid y últimas noches</span></a></li>
+            <li><a href="./#raiders"><span class="t">Raiders</span><span class="d">El roster actual, por clase</span></a></li>
+          </ul>
+        </li>
+        <li class="item-menu"><a class="enlace-menu" href="./#reclutamiento">Reclutamiento</a></li>
+        <li class="item-menu fijo"><a class="enlace-menu" href="primera-semana.html">Primera semana</a></li>
+        <li class="grupo-menu">
+          <button class="titulo-menu" type="button" aria-expanded="false" aria-controls="sub-5">Recursos</button>
+          <ul class="submenu" id="sub-5">
+            <li><a href="profesiones.html"><span class="t">Profesiones <span class="etiqueta-menu">Nuevo</span></span><span class="d">Quién sabe hacer qué, y las recetas raras y épicas</span></a></li>
+            <li><a href="banco.html"><span class="t">Banco <span class="etiqueta-menu">En construcción</span></span><span class="d">Lo que guarda la hermandad y cómo pedirlo</span></a></li>
+          </ul>
+        </li>
+      </ul>
+    </nav>
+    <a class="boton" href="https://discord.gg/mdKr9CPTTM" rel="noopener">Únete</a>
+  </div>
+</header>
+
+<main class="pagina">
+  <div class="envoltura">
+    <div class="cab-pagina">
+      <span class="etiqueta">Raid</span>
+      <h1>Reparto de botín</h1>
+      <p>Consejo de botín con puntos EPGP como guía: el que más viene y menos se ha llevado tiene prioridad, y el consejo decide en el momento con esa tabla delante.</p>
+    </div>
+    <p class="aviso"><b>Propuesta en revisión.</b> Los valores son provisionales y la tabla de prioridad es un ejemplo. Lo decidimos entre todos antes de la primera raid.</p>
+
+    <div class="botin-pag">
+      <ol class="tldr">
+        <li><span class="num">1</span><b>Vienes a raid</b><span>Cada noche suma puntos de esfuerzo (EP).</span></li>
+        <li><span class="num">2</span><b>Cae un objeto</b><span>Te sale una ventana y dices cuánto te interesa.</span></li>
+        <li><span class="num">3</span><b>Decide el consejo</b><span>Con tu prioridad delante: EP dividido entre GP.</span></li>
+        <li><span class="num">4</span><b>Te lo llevas</b><span>Suma puntos de equipo (GP) y bajas en la cola.</span></li>
+      </ol>
+
+      <section class="bloque" aria-labelledby="t-modelo">
+        <h2 id="t-modelo">El modelo</h2>
+        <p class="sub">Nadie compra nada ni puja. Los puntos solo ordenan la cola: se suman, no se gastan.</p>
+        <div class="formula">
+          <div>EP<small>Esfuerzo</small></div><span class="op">÷</span><div>GP<small>Equipo recibido</small></div><span class="op">=</span><div>PR<small>Prioridad</small></div>
+        </div>
+        <div class="dos">
+          <p>El <strong>EP</strong> es lo que aportas: noches de raid, puntualidad, primeras muertes de jefes y banquillo. El <strong>GP</strong> es lo que te llevas: cada objeto suma GP según la ranura y lo que te aporta. Todo el mundo empieza con <strong id="gp-base">100</strong> GP, para que un recién llegado con pocas noches no se coloque arriba de golpe.</p>
+          <p>Cada semana EP y GP pierden un <strong id="decay-pc">10%</strong>, <span id="decay-cuando">el viernes</span>. Así lo de hace meses pesa cada vez menos y nadie acumula una ventaja eterna. Mientras no llegues a <strong id="ep-min">200</strong> EP estás <em>en prueba</em>: te llevas algo solo si nadie con la prioridad completa lo quiere.</p>
+        </div>
+      </section>
+
+      <section class="bloque" aria-labelledby="t-reparto">
+        <h2 id="t-reparto">Cómo se reparte un objeto</h2>
+        <p class="sub">Botín maestro con un addon de consejo. Tú solo eliges una respuesta; el resto lo hace el addon y el robot de la web.</p>
+        <ol class="pasos">
+          <li><div><b>El maestro despojador abre la sesión</b><span>Al matar al jefe, el addon manda los objetos a toda la banda.</span></div></li>
+          <li><div><b>Eliges tu respuesta en la ventana</b><span>Gran mejora, mejora pequeña, otra especialización o paso. Si no contestas en 60 segundos, cuenta como paso.</span></div></li>
+          <li><div><b>El consejo mira la prioridad</b><span>Dentro de la respuesta más alta, gana el PR más alto. Con empate de PR, tirada.</span></div></li>
+          <li><div><b>Excepciones, con motivo escrito</b><span>El consejo puede saltarse el orden (por ejemplo, un objeto clave para el tanque en progreso), pero lo apunta y lo publica en el canal de botín de Discord.</span></div></li>
+          <li><div><b>Se apunta solo</b><span>El robot de la web lee el registro del addon, suma el GP al ganador y actualiza la tabla. Nadie toca hojas de cálculo.</span></div></li>
+        </ol>
+      </section>
+
+      <section class="bloque" aria-labelledby="t-ep">
+        <h2 id="t-ep">Cómo se gana EP</h2>
+        <p class="sub">La asistencia sale sola de los registros de la raid. Los valores se ajustan cuando tengamos un par de semanas de datos.</p>
+        <table class="tabla"><thead><tr><th>Concepto</th><th class="der">EP</th></tr></thead><tbody id="tabla-ep"></tbody></table>
+      </section>
+
+      <section class="bloque" aria-labelledby="t-gp">
+        <h2 id="t-gp">Cuánto GP suma un objeto</h2>
+        <p class="sub">GP = base × ranura × respuesta. Los objetos raros de banda valen la mitad que los épicos.</p>
+        <div class="dos">
+          <table class="tabla"><thead><tr><th>Ranura</th><th class="der">×</th><th class="der">GP épico</th></tr></thead><tbody id="tabla-ranuras"></tbody></table>
+          <table class="tabla"><thead><tr><th>Tu respuesta</th><th class="der">×</th></tr></thead><tbody id="tabla-resp"></tbody></table>
+        </div>
+        <div class="calc">
+          <h3>Calcula el GP de un objeto</h3>
+          <div class="campos">
+            <label>Ranura<select id="c-ranura"></select></label>
+            <label>Respuesta<select id="c-resp"></select></label>
+            <div class="resultado" id="c-res">0<small>GP</small></div>
+          </div>
+          <label style="flex-direction:row;align-items:center;gap:8px;margin-top:12px"><input type="checkbox" id="c-rara"> Es de calidad rara (azul)</label>
+          <p class="explica" id="c-exp"></p>
+        </div>
+      </section>
+
+      <section class="bloque" aria-labelledby="t-decay">
+        <h2 id="t-decay">El desgaste semanal</h2>
+        <p class="sub">Es lo que hace que el sistema se equilibre solo. Mira cómo pesa con el tiempo un objeto de 150 GP.</p>
+        <div class="decay-graf" id="graf" aria-hidden="true"></div>
+        <div class="decay-ejes" id="ejes" aria-hidden="true"></div>
+        <div class="datos-decay" id="datos-decay"></div>
+        <div class="calc">
+          <h3>Prueba otro porcentaje</h3>
+          <div class="campos" style="grid-template-columns:1fr auto">
+            <label>Desgaste semanal (%)<input type="range" id="d-rango" min="5" max="25" step="1"></label>
+            <div class="resultado" id="d-val">10%<small>cada semana</small></div>
+          </div>
+          <p class="explica">Por qué un 10%: es el valor por defecto del EPGP original y el más usado en las guías y foros de Classic. Con un 20% la tabla se mueve más rápido, pero un par de semanas sin venir te hunden. Con dos noches por semana y una banda pequeña, un 10% da margen sin eternizar nada.</p>
+        </div>
+      </section>
+
+      <section class="bloque" aria-labelledby="t-pr">
+        <h2 id="t-pr">Tabla de prioridad <span class="ejemplo" id="pr-ejemplo" hidden>Ejemplo</span></h2>
+        <p class="sub">Se actualiza sola después de cada raid y del desgaste del viernes.</p>
+        <table class="tabla pr"><thead><tr><th>#</th><th>Personaje</th><th class="der ocultar-movil">EP</th><th class="der ocultar-movil">GP</th><th class="der">PR</th></tr></thead><tbody id="tabla-pr"></tbody></table>
+      </section>
+
+      <section class="bloque" id="bloque-repartos" aria-labelledby="t-repartos" hidden>
+        <h2 id="t-repartos">Últimos repartos</h2>
+        <p class="sub">Cada objeto que se da, con el GP que ha sumado. Las excepciones del consejo llevan su motivo.</p>
+        <table class="tabla"><thead><tr><th class="ocultar-movil">Fecha</th><th>Personaje</th><th>Objeto</th><th class="der">GP</th></tr></thead><tbody id="tabla-repartos"></tbody></table>
+      </section>
+
+      <section class="bloque" aria-labelledby="t-normas">
+        <h2 id="t-normas">Normas</h2>
+        <ul class="normas">
+          <li><b>Principal antes que secundaria.</b> Gran mejora gana a mejora pequeña, y esta a otra especialización, sea cual sea el PR.</li>
+          <li><b>Un personaje, unos puntos.</b> Los puntos son del personaje con el que raideas. Si cambias de principal, se habla con los oficiales.</li>
+          <li><b>Banquillo cuenta.</b> Si estás conectado y disponible pero no hay hueco, te llevas la mitad del EP de la noche.</li>
+          <li><b>Avisar no penaliza.</b> Faltar avisando no resta. Simplemente no sumas esa noche.</li>
+          <li><b>Lo que nadie quiere va al banco.</b> Recetas, materiales y objetos sin interés van al banco o se desencantan para la hermandad.</li>
+          <li><b>Las dudas, después.</b> Nada de discutir el botín en el chat de banda. Se habla con un oficial después de la raid.</li>
+        </ul>
+      </section>
+
+      <section class="bloque" aria-labelledby="t-herr">
+        <h2 id="t-herr">Lo que hace falta</h2>
+        <p class="sub">Para empezar basta con el addon. El bot de Discord es un extra que se puede montar después.</p>
+        <div class="herr">
+          <div><h3>Addon de consejo</h3><p>Todos lo instalan. Si RCLootCouncil funciona en Forever, ese. Si no, uno hecho para Forever, como Arbiter Loot Council o WLC.</p></div>
+          <div><h3>Robot de la web</h3><p>Calcula EP, GP y el desgaste a partir de la asistencia y del registro del addon, y publica esta tabla. Sin hojas de cálculo.</p></div>
+          <div><h3>Bot de Discord (opcional)</h3><p><code>/prioridad</code> te dice tu EP, GP y PR, solo a ti. <code>/botin</code> enseña los últimos repartos y el motivo de cada excepción.</p></div>
+        </div>
+      </section>
+
+      <section class="bloque faq" aria-labelledby="t-faq">
+        <h2 id="t-faq">Preguntas rápidas</h2>
+        <details><summary>¿Pierdo puntos si me llevo algo?</summary><p>No pierdes EP. Te sube el GP, así que tu PR baja y otros pasan delante hasta que vuelvas a acumular noches.</p></details>
+        <details><summary>¿Y si llego nuevo cuando los demás ya tienen muchos puntos?</summary><p>Todos empiezan con el mismo GP base, y el desgaste recorta las distancias cada semana. En tres o cuatro semanas viniendo con normalidad estás a la altura del resto.</p></details>
+        <details><summary>¿Puedo ver mis puntos?</summary><p>En la tabla de esta página, y si se monta el bot, con <code>/prioridad</code> en Discord.</p></details>
+        <details><summary>¿El oro del banco da prioridad?</summary><p>No. Aportar al banco se agradece y sale en el banco, pero no da EP: la prioridad no se compra.</p></details>
+      </section>
+    </div>
+  </div>
+</main>
+
+<footer>
+  <div class="envoltura">
+    <div class="fila"><span class="marca">El Último Baile</span><span>Alianza · PvE · Castellano · World of Warcraft: Forever</span></div>
+    <div>World of Warcraft y Blizzard Entertainment son marcas de Blizzard Entertainment, Inc. El Último Baile es una hermandad de jugadores sin relación con Blizzard.</div>
+    <p class="legal"><a href="aviso-legal.html">Aviso legal y privacidad</a> · Sin cookies ni analítica</p>
+  </div>
+</footer>
+<script>
+(function () {
+  "use strict";
+  const CLASES = { warrior: "#C69B6D", paladin: "#F48CBA", hunter: "#AAD372", rogue: "#FFF468", priest: "#FFFFFF", shaman: "#3D9BFF", mage: "#3FC7EB", warlock: "#8788EE", druid: "#FF7C0A" };
+  const el = (t, c, x) => { const e = document.createElement(t); if (c) e.className = c; if (x !== undefined) e.textContent = x; return e; };
+  const $ = id => document.getElementById(id);
+  const fmt = n => (Math.round(n * 100) / 100).toLocaleString("es-ES");
+  const pedir = u => fetch(u, { cache: "no-cache" }).then(r => r.ok ? r.json() : null).catch(() => null);
+  Promise.all([pedir("loot.json"), pedir("prioridad.json")]).then(([L, P]) => {
+    if (!L) return;
+    // Con datos reales (prioridad.json, lo escribe scripts/epgp.py) se usan esos; si no, el ejemplo de loot.json
+    if (P && Array.isArray(P.filas)) { L.prioridad = P.filas; L.ejemplo = false; L.repartos = P.repartos || []; }
+    $("gp-base").textContent = L.gp_base;
+    $("decay-pc").textContent = Math.round(L.decay * 100) + "%";
+    $("decay-cuando").textContent = L.decay_cuando;
+    $("ep-min").textContent = L.ep_minimo;
+    $("tabla-ep").replaceChildren(...L.ep.map(e => {
+      const tr = el("tr"), a = el("td"); a.append(e.texto, el("small", "", e.detalle));
+      const v = el("td", "der"); v.append(el("span", "valor" + (e.valor === 0 ? " cero" : ""), typeof e.valor === "number" ? (e.valor ? "+" + e.valor : "0") : e.valor));
+      tr.append(a, v); return tr;
+    }));
+    $("tabla-ranuras").replaceChildren(...L.ranuras.map(r => {
+      const tr = el("tr"); const v = el("td", "der"); v.append(el("span", "valor", String(Math.round(L.gp_base * r.mult))));
+      tr.append(el("td", "", r.texto), el("td", "der", "×" + fmt(r.mult)), v); return tr;
+    }));
+    $("tabla-resp").replaceChildren(...L.respuestas.map(r => {
+      const tr = el("tr"), a = el("td"); a.append(r.texto, el("small", "", r.detalle));
+      const v = el("td", "der"); v.append(el("span", "valor" + (r.mult ? "" : " cero"), "×" + fmt(r.mult)));
+      tr.append(a, v); return tr;
+    }));
+    // Calculadora de GP
+    const sr = $("c-ranura"), sp = $("c-resp");
+    L.ranuras.forEach((r, i) => { const o = el("option", "", r.texto); o.value = i; sr.append(o); });
+    L.respuestas.forEach((r, i) => { const o = el("option", "", r.texto); o.value = i; sp.append(o); });
+    const calc = () => {
+      const r = L.ranuras[sr.value], p = L.respuestas[sp.value], q = $("c-rara").checked ? L.calidad_rara : 1;
+      const gp = Math.round(L.gp_base * r.mult * p.mult * q);
+      $("c-res").firstChild.textContent = gp;
+      $("c-exp").textContent = L.gp_base + " de base × " + fmt(r.mult) + " (ranura) × " + fmt(p.mult) + " (respuesta)" + (q !== 1 ? " × " + fmt(q) + " (raro)" : "") + " = " + gp + " GP";
+    };
+    [sr, sp, $("c-rara")].forEach(x => x.addEventListener("change", calc)); calc();
+    // Desgaste: un objeto de 150 GP a lo largo de 8 semanas
+    const rango = $("d-rango"); rango.value = Math.round(L.decay * 100);
+    const ep_sem = 2 * (L.ep.find(e => e.clave === "noche").valor + L.ep.find(e => e.clave === "puntual").valor);
+    const pinta = () => {
+      const d = rango.value / 100;
+      $("d-val").firstChild.textContent = rango.value + "%";
+      const vals = Array.from({ length: 9 }, (_, i) => 150 * Math.pow(1 - d, i));
+      $("graf").replaceChildren(...vals.map(v => { const b = el("div"); b.style.height = Math.max(1, v / 150 * 100) + "%"; b.append(el("span", "", String(Math.round(v)))); return b; }));
+      $("ejes").replaceChildren(...vals.map((_, i) => el("span", "", i ? "Sem. " + i : "Hoy")));
+      const mitad = Math.log(.5) / Math.log(1 - d);
+      const tope = Math.round(ep_sem / d);
+      const dd = $("datos-decay"); dd.replaceChildren();
+      const a = el("span"); a.append("Pesa la mitad en ", el("b", "", fmt(Math.round(mitad * 10) / 10) + " semanas"));
+      const b = el("span"); b.append("Viniendo siempre, tu EP se estabiliza en ", el("b", "", tope.toLocaleString("es-ES") + " EP"));
+      dd.append(a, b);
+    };
+    rango.addEventListener("input", pinta); pinta();
+    // Tabla de prioridad
+    $("pr-ejemplo").hidden = !L.ejemplo;
+    const filas = L.prioridad.map(p => ({ ...p, pr: p.ep / Math.max(L.gp_base, p.gp) }))
+      .sort((a, b) => (b.ep >= L.ep_minimo) - (a.ep >= L.ep_minimo) || b.pr - a.pr);
+    const max = Math.max(...filas.map(f => f.pr));
+    $("tabla-pr").replaceChildren(...filas.map((f, i) => {
+      const tr = el("tr"), n = el("td");
+      const pj = el("span", "pj", f.pj); pj.style.color = CLASES[f.clase] || "#ece6d6"; n.append(pj);
+      if (f.ep < L.ep_minimo) n.append(el("span", "prueba", "En prueba"));
+      const b = el("div", "barra-pr"), bi = el("i"); bi.style.width = (f.pr / max * 100) + "%"; b.append(bi); n.append(b);
+      const v = el("td", "der"); v.append(el("span", "valor", fmt(Math.round(f.pr * 100) / 100)));
+      tr.append(el("td", "", String(i + 1)), n, el("td", "der ocultar-movil", f.ep.toLocaleString("es-ES")), el("td", "der ocultar-movil", f.gp.toLocaleString("es-ES")), v);
+      return tr;
+    }));
+    // Últimos repartos (solo con datos reales)
+    if (L.repartos && L.repartos.length) {
+      $("bloque-repartos").hidden = false;
+      $("tabla-repartos").replaceChildren(...L.repartos.map(r => {
+        const tr = el("tr"), pj = el("span", "pj", r.pj); pj.style.color = CLASES[r.clase] || "#ece6d6";
+        const a = el("td"); a.append(pj); if (r.motivo) a.append(el("small", "", "Excepción: " + r.motivo));
+        const v = el("td", "der"); v.append(el("span", "valor", "+" + r.gp));
+        tr.append(el("td", "ocultar-movil", new Date(r.fecha).toLocaleDateString("es-ES", { day: "numeric", month: "short" })), a, el("td", "", r.ranura + " · " + r.respuesta), v);
+        return tr;
+      }));
+    }
+  });
+})();
+</script>
+<script src="comun/menu.js" defer></script>
+</body>
+</html>
