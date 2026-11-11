@@ -51,19 +51,19 @@
           "clase": "warrior"
         },
         {
-          "n": "Coloso Tempestad",
-          "clase": "warrior"
-        },
-        {
           "n": "Tharindel Magnaluz",
           "clase": "paladin"
         },
         {
-          "n": "Espartaco Gladiador",
+          "n": "Coloso Tempestad",
           "clase": "warrior"
         },
         {
           "n": "Khyoraku Shunsui",
+          "clase": "warrior"
+        },
+        {
+          "n": "Espartaco Gladiador",
           "clase": "warrior"
         },
         {
@@ -126,12 +126,12 @@
           "clase": "warrior"
         },
         {
-          "n": "Coloso Tempestad",
-          "clase": "warrior"
-        },
-        {
           "n": "Tharindel Magnaluz",
           "clase": "paladin"
+        },
+        {
+          "n": "Coloso Tempestad",
+          "clase": "warrior"
         },
         {
           "n": "Khyoraku Shunsui",
@@ -194,12 +194,12 @@
           "clase": "warrior"
         },
         {
-          "n": "Coloso Tempestad",
-          "clase": "warrior"
-        },
-        {
           "n": "Tharindel Magnaluz",
           "clase": "paladin"
+        },
+        {
+          "n": "Coloso Tempestad",
+          "clase": "warrior"
         },
         {
           "n": "Khyoraku Shunsui",
@@ -465,12 +465,16 @@
           "clase": "warrior"
         },
         {
+          "n": "Tharindel Magnaluz",
+          "clase": "paladin"
+        },
+        {
           "n": "Coloso Tempestad",
           "clase": "warrior"
         },
         {
-          "n": "Tharindel Magnaluz",
-          "clase": "paladin"
+          "n": "Khyoraku Shunsui",
+          "clase": "warrior"
         }
       ]
     },
@@ -768,6 +772,10 @@
       "profesion": "Peletería",
       "personajes": [
         {
+          "n": "Diana Flechaveloz",
+          "clase": "hunter"
+        },
+        {
           "n": "Palmira Natblida",
           "clase": "rogue"
         },
@@ -780,20 +788,16 @@
           "clase": "hunter"
         },
         {
-          "n": "Manelhon Gargon",
-          "clase": "shaman"
-        },
-        {
           "n": "Aurelio Amador",
           "clase": "rogue"
         },
         {
-          "n": "Runa Ruina",
+          "n": "Manelhon Gargon",
           "clase": "shaman"
         },
         {
-          "n": "Lithanas Chafardero",
-          "clase": "rogue"
+          "n": "Runa Ruina",
+          "clase": "shaman"
         },
         {
           "n": "Ildaren Belisar",
@@ -853,10 +857,6 @@
         {
           "n": "Runa Ruina",
           "clase": "shaman"
-        },
-        {
-          "n": "Lithanas Chafardero",
-          "clase": "rogue"
         },
         {
           "n": "Ildaren Belisar",
@@ -1318,6 +1318,10 @@
       "profesion": "Peletería",
       "personajes": [
         {
+          "n": "Diana Flechaveloz",
+          "clase": "hunter"
+        },
+        {
           "n": "Palmira Natblida",
           "clase": "rogue"
         }
@@ -1482,12 +1486,12 @@
       "profesion": "Peletería",
       "personajes": [
         {
-          "n": "Palmira Natblida",
-          "clase": "rogue"
-        },
-        {
           "n": "Diana Flechaveloz",
           "clase": "hunter"
+        },
+        {
+          "n": "Palmira Natblida",
+          "clase": "rogue"
         },
         {
           "n": "Memas Tour",
@@ -1706,10 +1710,6 @@
           "clase": "shaman"
         },
         {
-          "n": "Lithanas Chafardero",
-          "clase": "rogue"
-        },
-        {
           "n": "Ildaren Belisar",
           "clase": "rogue"
         }
@@ -1767,10 +1767,6 @@
         {
           "n": "Runa Ruina",
           "clase": "shaman"
-        },
-        {
-          "n": "Lithanas Chafardero",
-          "clase": "rogue"
         },
         {
           "n": "Ildaren Belisar",

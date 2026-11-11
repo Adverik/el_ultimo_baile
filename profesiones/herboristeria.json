@@ -15,7 +15,7 @@
       "personaje": "Sugar Papy",
       "clase": "druid",
       "raider": false,
-      "nivel": 191,
+      "nivel": 194,
       "max": 225,
       "pct": 33
     },
@@ -23,8 +23,16 @@
       "personaje": "Viilar Terrisia",
       "clase": "druid",
       "raider": false,
-      "nivel": 148,
-      "max": 150,
+      "nivel": 155,
+      "max": 225,
+      "pct": 33
+    },
+    {
+      "personaje": "Layrela Rondanit",
+      "clase": "druid",
+      "raider": true,
+      "nivel": 147,
+      "max": 225,
       "pct": 33
     },
     {
@@ -36,9 +44,9 @@
       "pct": 33
     },
     {
-      "personaje": "Layrela Rondanit",
+      "personaje": "Nelv Stardancer",
       "clase": "druid",
-      "raider": true,
+      "raider": false,
       "nivel": 130,
       "max": 150,
       "pct": 33
@@ -47,15 +55,7 @@
       "personaje": "Don Josechu",
       "clase": "warlock",
       "raider": false,
-      "nivel": 119,
-      "max": 150,
-      "pct": 33
-    },
-    {
-      "personaje": "Nelv Stardancer",
-      "clase": "druid",
-      "raider": false,
-      "nivel": 114,
+      "nivel": 123,
       "max": 150,
       "pct": 33
     },
@@ -63,7 +63,7 @@
       "personaje": "Genethika Brisaveloz",
       "clase": "hunter",
       "raider": false,
-      "nivel": 104,
+      "nivel": 113,
       "max": 150,
       "pct": 33
     },

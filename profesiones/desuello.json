@@ -4,6 +4,14 @@
   "total": 3,
   "artesanos": [
     {
+      "personaje": "Diana Flechaveloz",
+      "clase": "hunter",
+      "raider": false,
+      "nivel": 225,
+      "max": 225,
+      "pct": 33
+    },
+    {
       "personaje": "Edoras Duskranger",
       "clase": "hunter",
       "raider": true,
@@ -12,18 +20,10 @@
       "pct": 67
     },
     {
-      "personaje": "Diana Flechaveloz",
-      "clase": "hunter",
-      "raider": false,
-      "nivel": 219,
-      "max": 225,
-      "pct": 33
-    },
-    {
       "personaje": "Palmira Natblida",
       "clase": "rogue",
       "raider": true,
-      "nivel": 203,
+      "nivel": 213,
       "max": 225,
       "pct": 33
     },
@@ -31,7 +31,7 @@
       "personaje": "Runa Ruina",
       "clase": "shaman",
       "raider": true,
-      "nivel": 182,
+      "nivel": 186,
       "max": 225,
       "pct": 33
     },
@@ -44,26 +44,26 @@
       "pct": 33
     },
     {
-      "personaje": "Memas Tour",
-      "clase": "shaman",
+      "personaje": "Ildaren Belisar",
+      "clase": "rogue",
       "raider": false,
-      "nivel": 150,
+      "nivel": 157,
       "max": 225,
       "pct": 33
     },
     {
-      "personaje": "Lithanas Chafardero",
-      "clase": "rogue",
+      "personaje": "Memas Tour",
+      "clase": "shaman",
       "raider": false,
-      "nivel": 148,
-      "max": 150,
+      "nivel": 153,
+      "max": 225,
       "pct": 33
     },
     {
-      "personaje": "Ildaren Belisar",
+      "personaje": "Aurelio Amador",
       "clase": "rogue",
       "raider": false,
-      "nivel": 142,
+      "nivel": 150,
       "max": 225,
       "pct": 33
     },
@@ -76,10 +76,10 @@
       "pct": 33
     },
     {
-      "personaje": "Aurelio Amador",
+      "personaje": "Fitipaldi Sendaumbria",
       "clase": "rogue",
-      "raider": false,
-      "nivel": 103,
+      "raider": true,
+      "nivel": 110,
       "max": 150,
       "pct": 33
     },
@@ -88,14 +88,6 @@
       "clase": "hunter",
       "raider": false,
       "nivel": 100,
-      "max": 150,
-      "pct": 33
-    },
-    {
-      "personaje": "Fitipaldi Sendaumbria",
-      "clase": "rogue",
-      "raider": true,
-      "nivel": 99,
       "max": 150,
       "pct": 33
     },
@@ -149,8 +141,7 @@
             7,
             8,
             9,
-            10,
-            11
+            10
           ]
         },
         {
@@ -184,7 +175,7 @@
             "sub": "Otros"
           },
           "quien": [
-            0
+            1
           ]
         },
         {

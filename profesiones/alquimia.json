@@ -31,23 +31,31 @@
       "personaje": "Don Josechu",
       "clase": "warlock",
       "raider": false,
-      "nivel": 116,
+      "nivel": 137,
       "max": 150,
-      "pct": 8
+      "pct": 10
     },
     {
       "personaje": "Viilar Terrisia",
       "clase": "druid",
       "raider": false,
-      "nivel": 106,
+      "nivel": 136,
       "max": 150,
-      "pct": 9
+      "pct": 14
+    },
+    {
+      "personaje": "Nelv Stardancer",
+      "clase": "druid",
+      "raider": false,
+      "nivel": 115,
+      "max": 150,
+      "pct": 10
     },
     {
       "personaje": "Layrela Rondanit",
       "clase": "druid",
       "raider": true,
-      "nivel": 103,
+      "nivel": 111,
       "max": 150,
       "pct": 11
     },
@@ -55,17 +63,9 @@
       "personaje": "Genethika Brisaveloz",
       "clase": "hunter",
       "raider": false,
-      "nivel": 97,
+      "nivel": 98,
       "max": 150,
       "pct": 9
-    },
-    {
-      "personaje": "Nelv Stardancer",
-      "clase": "druid",
-      "raider": false,
-      "nivel": 84,
-      "max": 150,
-      "pct": 7
     },
     {
       "personaje": "Takkaao Valengri",
@@ -213,8 +213,10 @@
             1,
             2,
             3,
+            4,
             5,
-            6
+            6,
+            7
           ]
         },
         {
@@ -292,7 +294,9 @@
           "quien": [
             0,
             1,
-            2
+            2,
+            3,
+            4
           ]
         },
         {
@@ -333,7 +337,9 @@
           "quien": [
             0,
             1,
-            2
+            2,
+            3,
+            4
           ]
         },
         {
@@ -496,7 +502,8 @@
           },
           "quien": [
             4,
-            5
+            5,
+            6
           ]
         },
         {
@@ -1598,7 +1605,8 @@
           },
           "quien": [
             4,
-            5
+            5,
+            6
           ]
         },
         {
@@ -1924,7 +1932,7 @@
           },
           "quien": [
             4,
-            5
+            6
           ]
         },
         {
@@ -2563,7 +2571,9 @@
           "quien": [
             0,
             1,
-            2
+            2,
+            3,
+            4
           ]
         },
         {
@@ -3131,7 +3141,8 @@
             ]
           },
           "quien": [
-            4
+            4,
+            5
           ]
         },
         {
@@ -3169,7 +3180,9 @@
               "20"
             ]
           },
-          "quien": []
+          "quien": [
+            4
+          ]
         },
         {
           "id": 1931,
@@ -3363,8 +3376,8 @@
           },
           "quien": [
             1,
-            5,
-            6
+            6,
+            7
           ]
         },
         {
@@ -3596,7 +3609,9 @@
             1,
             2,
             3,
-            5
+            4,
+            5,
+            6
           ]
         },
         {
@@ -4188,7 +4203,8 @@
             ]
           },
           "quien": [
-            5
+            5,
+            6
           ]
         },
         {
@@ -4638,7 +4654,7 @@
             ]
           },
           "quien": [
-            6
+            7
           ]
         },
         {
@@ -5111,8 +5127,10 @@
             1,
             2,
             3,
+            4,
             5,
-            6
+            6,
+            7
           ]
         },
         {
@@ -5540,7 +5558,9 @@
           "quien": [
             0,
             1,
-            2
+            2,
+            3,
+            4
           ]
         },
         {
@@ -5734,7 +5754,9 @@
           "quien": [
             0,
             1,
-            2
+            2,
+            3,
+            4
           ]
         },
         {

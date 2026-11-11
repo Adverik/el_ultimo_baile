@@ -12,18 +12,18 @@
       "pct": 53
     },
     {
-      "personaje": "Chaca Choochoo",
-      "clase": "druid",
+      "personaje": "Coloso Tempestad",
+      "clase": "warrior",
       "raider": false,
-      "nivel": 153,
+      "nivel": 158,
       "max": 225,
       "pct": 35
     },
     {
-      "personaje": "Coloso Tempestad",
-      "clase": "warrior",
+      "personaje": "Chaca Choochoo",
+      "clase": "druid",
       "raider": false,
-      "nivel": 152,
+      "nivel": 156,
       "max": 225,
       "pct": 35
     },
@@ -44,6 +44,14 @@
       "pct": 35
     },
     {
+      "personaje": "Flexita Shadowsoul",
+      "clase": "hunter",
+      "raider": false,
+      "nivel": 132,
+      "max": 225,
+      "pct": 35
+    },
+    {
       "personaje": "Tharindel Magnaluz",
       "clase": "paladin",
       "raider": false,
@@ -60,18 +68,10 @@
       "pct": 29
     },
     {
-      "personaje": "Flexita Shadowsoul",
-      "clase": "hunter",
-      "raider": false,
-      "nivel": 115,
-      "max": 150,
-      "pct": 29
-    },
-    {
       "personaje": "Cuzcu Aker",
       "clase": "paladin",
       "raider": true,
-      "nivel": 111,
+      "nivel": 115,
       "max": 150,
       "pct": 29
     },
@@ -87,7 +87,7 @@
       "personaje": "Mosu Warryn",
       "clase": "warrior",
       "raider": false,
-      "nivel": 73,
+      "nivel": 77,
       "max": 150,
       "pct": 18
     },
@@ -95,7 +95,7 @@
       "personaje": "Españoleitor Españoleitor",
       "clase": "warrior",
       "raider": false,
-      "nivel": 69,
+      "nivel": 72,
       "max": 75,
       "pct": 12
     },
@@ -247,7 +247,8 @@
             1,
             2,
             4,
-            5
+            5,
+            6
           ]
         },
         {
