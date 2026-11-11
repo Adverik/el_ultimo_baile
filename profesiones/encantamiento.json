@@ -15,9 +15,9 @@
       "personaje": "Finn Felagund",
       "clase": "priest",
       "raider": false,
-      "nivel": 130,
+      "nivel": 145,
       "max": 150,
-      "pct": 11
+      "pct": 12
     },
     {
       "personaje": "Nimassus Pater",
@@ -36,18 +36,26 @@
       "pct": 5
     },
     {
-      "personaje": "Rhyomen Sukuna",
+      "personaje": "Micro Bolas",
       "clase": "warlock",
       "raider": false,
-      "nivel": 17,
+      "nivel": 43,
       "max": 75,
-      "pct": 2
+      "pct": 3
     },
     {
       "personaje": "Vaporeta Pizpireta",
       "clase": "mage",
       "raider": true,
-      "nivel": 16,
+      "nivel": 30,
+      "max": 75,
+      "pct": 3
+    },
+    {
+      "personaje": "Rhyomen Sukuna",
+      "clase": "warlock",
+      "raider": false,
+      "nivel": 17,
       "max": 75,
       "pct": 2
     },
@@ -83,7 +91,8 @@
             3,
             4,
             5,
-            6
+            6,
+            7
           ]
         },
         {
@@ -105,7 +114,8 @@
             3,
             4,
             5,
-            6
+            6,
+            7
           ]
         },
         {
@@ -682,7 +692,9 @@
             0,
             1,
             2,
-            3
+            3,
+            4,
+            5
           ]
         },
         {
@@ -701,7 +713,8 @@
             0,
             1,
             2,
-            3
+            3,
+            4
           ]
         },
         {
@@ -1064,7 +1077,8 @@
             3,
             4,
             5,
-            6
+            6,
+            7
           ]
         },
         {
@@ -2113,7 +2127,9 @@
             ]
           ],
           "desc": "Encanta de forma permanente un arma cuerpo a cuerpo para que otorgue Perspicacia al lanzar un hechizo, que aumenta el espíritu un 100% durante 10 s.",
-          "quien": []
+          "quien": [
+            1
+          ]
         },
         {
           "id": 54407,
@@ -3017,7 +3033,9 @@
             ]
           ],
           "desc": "Encanta de forma permanente unos guantes para que concedan +2 de minería.",
-          "quien": []
+          "quien": [
+            1
+          ]
         },
         {
           "id": 7498,
@@ -3053,7 +3071,9 @@
             ]
           ],
           "desc": "Encanta de forma permanente unos guantes para que concedan +2 de pesca.",
-          "quien": []
+          "quien": [
+            1
+          ]
         },
         {
           "id": 7531,
@@ -3529,7 +3549,9 @@
             2,
             3,
             4,
-            6
+            5,
+            6,
+            7
           ]
         },
         {
@@ -3699,7 +3721,8 @@
             3,
             4,
             5,
-            6
+            6,
+            7
           ]
         },
         {
@@ -4222,7 +4245,8 @@
             3,
             4,
             5,
-            6
+            6,
+            7
           ]
         }
       ]
@@ -4269,7 +4293,7 @@
           "quien": [
             0,
             1,
-            6
+            7
           ]
         },
         {
@@ -5627,7 +5651,9 @@
             0,
             1,
             2,
-            3
+            3,
+            4,
+            5
           ]
         },
         {

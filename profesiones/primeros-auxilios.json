@@ -71,9 +71,17 @@
       "personaje": "Genethika Brisaveloz",
       "clase": "hunter",
       "raider": false,
-      "nivel": 135,
+      "nivel": 138,
       "max": 150,
       "pct": 34
+    },
+    {
+      "personaje": "Layrela Rondanit",
+      "clase": "druid",
+      "raider": true,
+      "nivel": 119,
+      "max": 150,
+      "pct": 25
     },
     {
       "personaje": "Viilar Terrisia",
@@ -87,7 +95,7 @@
       "personaje": "Runa Ruina",
       "clase": "shaman",
       "raider": true,
-      "nivel": 115,
+      "nivel": 116,
       "max": 150,
       "pct": 25
     },
@@ -96,14 +104,6 @@
       "clase": "rogue",
       "raider": false,
       "nivel": 109,
-      "max": 150,
-      "pct": 25
-    },
-    {
-      "personaje": "Layrela Rondanit",
-      "clase": "druid",
-      "raider": true,
-      "nivel": 106,
       "max": 150,
       "pct": 25
     },
@@ -124,20 +124,20 @@
       "pct": 25
     },
     {
+      "personaje": "Tharindel Magnaluz",
+      "clase": "paladin",
+      "raider": false,
+      "nivel": 85,
+      "max": 150,
+      "pct": 22
+    },
+    {
       "personaje": "Filps Pachamamamon",
       "clase": "hunter",
       "raider": false,
       "nivel": 83,
       "max": 150,
       "pct": 16
-    },
-    {
-      "personaje": "Tharindel Magnaluz",
-      "clase": "paladin",
-      "raider": false,
-      "nivel": 80,
-      "max": 150,
-      "pct": 12
     },
     {
       "personaje": "Dum Bo",
@@ -204,6 +204,14 @@
       "pct": 6
     },
     {
+      "personaje": "Españoleitor Españoleitor",
+      "clase": "warrior",
+      "raider": false,
+      "nivel": 45,
+      "max": 75,
+      "pct": 3
+    },
+    {
       "personaje": "Takkaao Valengri",
       "clase": "warlock",
       "raider": false,
@@ -242,14 +250,6 @@
       "nivel": 38,
       "max": 75,
       "pct": 9
-    },
-    {
-      "personaje": "Españoleitor Españoleitor",
-      "clase": "warrior",
-      "raider": false,
-      "nivel": 37,
-      "max": 75,
-      "pct": 3
     },
     {
       "personaje": "Fran Furion",
@@ -298,6 +298,14 @@
       "nivel": 1,
       "max": 75,
       "pct": 3
+    },
+    {
+      "personaje": "Micro Bolas",
+      "clase": "warlock",
+      "raider": false,
+      "nivel": 1,
+      "max": 75,
+      "pct": 6
     },
     {
       "personaje": "Saint Peligroxa",
@@ -376,7 +384,8 @@
             34,
             35,
             36,
-            37
+            37,
+            38
           ]
         },
         {
@@ -429,7 +438,7 @@
             20,
             21,
             22,
-            27
+            28
           ]
         },
         {
@@ -472,7 +481,8 @@
             10,
             11,
             12,
-            14
+            14,
+            15
           ]
         },
         {
@@ -794,7 +804,8 @@
             10,
             11,
             12,
-            14
+            14,
+            15
           ]
         },
         {
@@ -1211,11 +1222,11 @@
             22,
             23,
             24,
-            25,
             26,
             27,
             28,
             29,
+            30,
             31,
             32
           ]
@@ -1347,14 +1358,15 @@
             21,
             22,
             23,
-            25,
-            27,
+            26,
             28,
             29,
+            30,
             31,
             32,
             33,
-            34
+            34,
+            37
           ]
         },
         {
@@ -1408,6 +1420,7 @@
             13,
             14,
             15,
+            16,
             18,
             19,
             21

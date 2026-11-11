@@ -7,7 +7,7 @@
       "personaje": "Edoras Duskranger",
       "clase": "hunter",
       "raider": true,
-      "nivel": 216,
+      "nivel": 225,
       "max": 225,
       "pct": 67
     },
@@ -15,7 +15,7 @@
       "personaje": "Diana Flechaveloz",
       "clase": "hunter",
       "raider": false,
-      "nivel": 212,
+      "nivel": 219,
       "max": 225,
       "pct": 33
     },
@@ -28,6 +28,14 @@
       "pct": 33
     },
     {
+      "personaje": "Runa Ruina",
+      "clase": "shaman",
+      "raider": true,
+      "nivel": 182,
+      "max": 225,
+      "pct": 33
+    },
+    {
       "personaje": "Manelhon Gargon",
       "clase": "shaman",
       "raider": true,
@@ -36,26 +44,18 @@
       "pct": 33
     },
     {
-      "personaje": "Runa Ruina",
-      "clase": "shaman",
-      "raider": true,
-      "nivel": 173,
-      "max": 225,
-      "pct": 33
-    },
-    {
       "personaje": "Memas Tour",
       "clase": "shaman",
       "raider": false,
       "nivel": 150,
-      "max": 150,
+      "max": 225,
       "pct": 33
     },
     {
       "personaje": "Lithanas Chafardero",
       "clase": "rogue",
       "raider": false,
-      "nivel": 144,
+      "nivel": 148,
       "max": 150,
       "pct": 33
     },
@@ -71,7 +71,15 @@
       "personaje": "Nindalf Pizpireta",
       "clase": "rogue",
       "raider": false,
-      "nivel": 119,
+      "nivel": 126,
+      "max": 150,
+      "pct": 33
+    },
+    {
+      "personaje": "Aurelio Amador",
+      "clase": "rogue",
+      "raider": false,
+      "nivel": 103,
       "max": 150,
       "pct": 33
     },
@@ -79,7 +87,7 @@
       "personaje": "Filps Pachamamamon",
       "clase": "hunter",
       "raider": false,
-      "nivel": 99,
+      "nivel": 100,
       "max": 150,
       "pct": 33
     },
@@ -88,22 +96,6 @@
       "clase": "rogue",
       "raider": true,
       "nivel": 99,
-      "max": 150,
-      "pct": 33
-    },
-    {
-      "personaje": "Sykah Brisaveloz",
-      "clase": "hunter",
-      "raider": false,
-      "nivel": 98,
-      "max": 150,
-      "pct": 33
-    },
-    {
-      "personaje": "Aurelio Amador",
-      "clase": "rogue",
-      "raider": false,
-      "nivel": 81,
       "max": 150,
       "pct": 33
     },
@@ -158,8 +150,7 @@
             8,
             9,
             10,
-            11,
-            12
+            11
           ]
         },
         {

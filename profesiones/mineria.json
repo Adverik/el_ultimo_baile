@@ -12,6 +12,14 @@
       "pct": 53
     },
     {
+      "personaje": "Chaca Choochoo",
+      "clase": "druid",
+      "raider": false,
+      "nivel": 153,
+      "max": 225,
+      "pct": 35
+    },
+    {
       "personaje": "Coloso Tempestad",
       "clase": "warrior",
       "raider": false,
@@ -23,17 +31,9 @@
       "personaje": "Khyoraku Shunsui",
       "clase": "warrior",
       "raider": true,
-      "nivel": 151,
+      "nivel": 152,
       "max": 225,
       "pct": 29
-    },
-    {
-      "personaje": "Chaca Choochoo",
-      "clase": "druid",
-      "raider": false,
-      "nivel": 150,
-      "max": 225,
-      "pct": 35
     },
     {
       "personaje": "La Pety",
@@ -47,9 +47,9 @@
       "personaje": "Tharindel Magnaluz",
       "clase": "paladin",
       "raider": false,
-      "nivel": 126,
-      "max": 150,
-      "pct": 29
+      "nivel": 129,
+      "max": 225,
+      "pct": 35
     },
     {
       "personaje": "Espartaco Gladiador",
@@ -92,19 +92,19 @@
       "pct": 18
     },
     {
+      "personaje": "Españoleitor Españoleitor",
+      "clase": "warrior",
+      "raider": false,
+      "nivel": 69,
+      "max": 75,
+      "pct": 12
+    },
+    {
       "personaje": "Jonaver Legends",
       "clase": "mage",
       "raider": false,
       "nivel": 62,
       "max": 150,
-      "pct": 12
-    },
-    {
-      "personaje": "Españoleitor Españoleitor",
-      "clase": "warrior",
-      "raider": false,
-      "nivel": 59,
-      "max": 75,
       "pct": 12
     }
   ],
@@ -245,8 +245,9 @@
           "quien": [
             0,
             1,
-            3,
-            4
+            2,
+            4,
+            5
           ]
         },
         {

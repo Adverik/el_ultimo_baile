@@ -71,7 +71,7 @@
       "personaje": "Tharindel Magnaluz",
       "clase": "paladin",
       "raider": false,
-      "nivel": 125,
+      "nivel": 126,
       "max": 150,
       "pct": 33
     },
@@ -103,7 +103,7 @@
       "personaje": "Edoras Duskranger",
       "clase": "hunter",
       "raider": true,
-      "nivel": 84,
+      "nivel": 85,
       "max": 150,
       "pct": 33
     },
@@ -196,14 +196,6 @@
       "pct": 33
     },
     {
-      "personaje": "Sykah Brisaveloz",
-      "clase": "hunter",
-      "raider": false,
-      "nivel": 20,
-      "max": 75,
-      "pct": 33
-    },
-    {
       "personaje": "Blind Minds",
       "clase": "priest",
       "raider": true,
@@ -215,7 +207,7 @@
       "personaje": "Dio Hotmetal",
       "clase": "hunter",
       "raider": false,
-      "nivel": 7,
+      "nivel": 9,
       "max": 75,
       "pct": 0
     },
@@ -254,6 +246,14 @@
     {
       "personaje": "Jonaver Legends",
       "clase": "mage",
+      "raider": false,
+      "nivel": 1,
+      "max": 75,
+      "pct": 0
+    },
+    {
+      "personaje": "Micro Bolas",
+      "clase": "warlock",
       "raider": false,
       "nivel": 1,
       "max": 75,
@@ -322,8 +322,7 @@
             20,
             21,
             22,
-            23,
-            24
+            23
           ]
         },
         {

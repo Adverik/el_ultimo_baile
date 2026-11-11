@@ -73,6 +73,10 @@
         {
           "n": "Mosu Warryn",
           "clase": "warrior"
+        },
+        {
+          "n": "Españoleitor Españoleitor",
+          "clase": "warrior"
         }
       ]
     },
@@ -136,6 +140,10 @@
         {
           "n": "Hugo Forjaluz",
           "clase": "paladin"
+        },
+        {
+          "n": "Españoleitor Españoleitor",
+          "clase": "warrior"
         }
       ]
     },
@@ -200,6 +208,10 @@
         {
           "n": "Hugo Forjaluz",
           "clase": "paladin"
+        },
+        {
+          "n": "Españoleitor Españoleitor",
+          "clase": "warrior"
         }
       ]
     },
@@ -455,6 +467,10 @@
         {
           "n": "Coloso Tempestad",
           "clase": "warrior"
+        },
+        {
+          "n": "Tharindel Magnaluz",
+          "clase": "paladin"
         }
       ]
     },
@@ -756,12 +772,12 @@
           "clase": "rogue"
         },
         {
-          "n": "Edoras Duskranger",
-          "clase": "hunter"
-        },
-        {
           "n": "Memas Tour",
           "clase": "shaman"
+        },
+        {
+          "n": "Edoras Duskranger",
+          "clase": "hunter"
         },
         {
           "n": "Manelhon Gargon",
@@ -782,10 +798,6 @@
         {
           "n": "Ildaren Belisar",
           "clase": "rogue"
-        },
-        {
-          "n": "Sykah Brisaveloz",
-          "clase": "hunter"
         }
       ]
     },
@@ -849,10 +861,6 @@
         {
           "n": "Ildaren Belisar",
           "clase": "rogue"
-        },
-        {
-          "n": "Sykah Brisaveloz",
-          "clase": "hunter"
         }
       ]
     },
@@ -1482,12 +1490,12 @@
           "clase": "hunter"
         },
         {
-          "n": "Edoras Duskranger",
-          "clase": "hunter"
-        },
-        {
           "n": "Memas Tour",
           "clase": "shaman"
+        },
+        {
+          "n": "Edoras Duskranger",
+          "clase": "hunter"
         }
       ]
     },
@@ -1704,10 +1712,6 @@
         {
           "n": "Ildaren Belisar",
           "clase": "rogue"
-        },
-        {
-          "n": "Sykah Brisaveloz",
-          "clase": "hunter"
         }
       ]
     },
@@ -1771,10 +1775,6 @@
         {
           "n": "Ildaren Belisar",
           "clase": "rogue"
-        },
-        {
-          "n": "Sykah Brisaveloz",
-          "clase": "hunter"
         }
       ]
     },
@@ -1825,15 +1825,66 @@
       "profesion": "Sastrería",
       "personajes": [
         {
-          "n": "Dum Bo",
-          "clase": "mage"
-        },
-        {
           "n": "Finn Felagund",
           "clase": "priest"
         },
         {
+          "n": "Dum Bo",
+          "clase": "mage"
+        },
+        {
           "n": "Nimassus Pater",
+          "clase": "priest"
+        }
+      ]
+    },
+    {
+      "id": 55471,
+      "n": "Diadema de las Sombras de filigrana",
+      "q": "rare",
+      "ico": "132767",
+      "reac": [
+        [
+          "Madeja de paño de seda",
+          8
+        ],
+        [
+          "Hilo refinado",
+          4
+        ],
+        [
+          "Tinte cerúleo",
+          2
+        ],
+        [
+          "Gema de las Sombras",
+          6
+        ]
+      ],
+      "obj": {
+        "arm": "38 armadura",
+        "id": 253981,
+        "ilvl": 30,
+        "lig": "Se liga al recogerlo",
+        "n": "Diadema de las Sombras de filigrana",
+        "q": "rare",
+        "ranura": "Cabeza",
+        "req": 25,
+        "stats": [
+          "+12 aguante",
+          "+14 Daño de las Sombras"
+        ],
+        "sub": "Tela",
+        "venta": [
+          "0",
+          "16",
+          "40"
+        ]
+      },
+      "profesion": "Sastrería",
+      "personajes": [
+        {
+          "n": "Finn Felagund",
           "clase": "priest"
         }
       ]
@@ -1992,16 +2043,20 @@
       "profesion": "Sastrería",
       "personajes": [
         {
-          "n": "Dum Bo",
-          "clase": "mage"
-        },
-        {
           "n": "Finn Felagund",
           "clase": "priest"
         },
         {
+          "n": "Dum Bo",
+          "clase": "mage"
+        },
+        {
           "n": "Saint Peligroxa",
           "clase": "priest"
+        },
+        {
+          "n": "Micro Bolas",
+          "clase": "warlock"
         },
         {
           "n": "Thundrik Volgrim",
@@ -2057,12 +2112,12 @@
       "profesion": "Sastrería",
       "personajes": [
         {
-          "n": "Dum Bo",
-          "clase": "mage"
-        },
-        {
           "n": "Finn Felagund",
           "clase": "priest"
+        },
+        {
+          "n": "Dum Bo",
+          "clase": "mage"
         },
         {
           "n": "Nimassus Pater",
@@ -2181,6 +2236,10 @@
         {
           "n": "Finn Felagund",
           "clase": "priest"
+        },
+        {
+          "n": "Micro Bolas",
+          "clase": "warlock"
         }
       ]
     },

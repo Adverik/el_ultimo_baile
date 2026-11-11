@@ -17,14 +17,14 @@
     "slug": "desuello",
     "nombre": "Desuello",
     "ico": "134366",
-    "artesanos": 14,
+    "artesanos": 13,
     "total": 3
   },
   {
     "slug": "encantamiento",
     "nombre": "Encantamiento",
     "ico": "136244",
-    "artesanos": 7,
+    "artesanos": 8,
     "total": 262
   },
   {
@@ -59,7 +59,7 @@
     "slug": "peleteria",
     "nombre": "Peletería",
     "ico": "136247",
-    "artesanos": 12,
+    "artesanos": 11,
     "total": 592
   },
   {
@@ -73,14 +73,14 @@
     "slug": "primeros-auxilios",
     "nombre": "Primeros auxilios",
     "ico": "135966",
-    "artesanos": 38,
+    "artesanos": 39,
     "total": 32
   },
   {
     "slug": "sastreria",
     "nombre": "Sastrería",
     "ico": "136249",
-    "artesanos": 9,
+    "artesanos": 10,
     "total": 471
   }
 ]
