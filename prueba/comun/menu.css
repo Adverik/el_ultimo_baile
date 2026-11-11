@@ -1,0 +1,88 @@
+/* Barra de navegación común a todas las páginas (menú con desplegables) */
+.barra{position:sticky;top:0;z-index:30;background:rgba(7,8,10,.95);backdrop-filter:blur(8px);border-bottom:1px solid var(--filete)}
+.barra .fila1{display:flex;align-items:center;gap:20px;height:74px;position:relative}
+.marca{display:flex;align-items:center;gap:12px;text-decoration:none;font-family:var(--titulos);font-weight:600;font-size:1.2rem;letter-spacing:.14em;text-transform:uppercase;color:var(--oro);white-space:nowrap}
+.barra nav{margin-left:16px}
+.barra .fila1>.boton{margin-left:auto}
+.barra .boton{padding:13px 22px;font-size:.78rem}
+.menu{list-style:none;display:flex;gap:4px;margin:0;padding:0}
+.grupo-menu{position:relative}
+.titulo-menu,.enlace-menu{display:flex;align-items:center;gap:8px;background:none;border:0;padding:12px 12px;cursor:pointer;text-decoration:none;white-space:nowrap;
+  font:600 .76rem/1 var(--texto-f);letter-spacing:.16em;text-transform:uppercase;color:var(--suave)}
+.enlace-menu:hover{color:var(--texto)}
+.enlace-menu.activo{color:var(--oro-claro)}
+.titulo-menu::after{content:"";width:6px;height:6px;border-right:1.5px solid currentColor;border-bottom:1.5px solid currentColor;transform:translateY(-2px) rotate(45deg);transition:transform .15s}
+.titulo-menu:hover,.grupo-menu.abierto>.titulo-menu{color:var(--texto)}
+.grupo-menu.activo>.titulo-menu{color:var(--oro-claro)}
+.titulo-menu:focus-visible,.enlace-menu:focus-visible,.submenu a:focus-visible,.menu-movil:focus-visible{outline:2px solid var(--oro);outline-offset:2px}
+.submenu{list-style:none;margin:0;padding:8px 0;position:absolute;top:100%;left:0;min-width:290px;
+  background:#0b0c10;border:1px solid var(--filete);box-shadow:0 18px 40px rgba(0,0,0,.55);display:none}
+.submenu::before{content:"";position:absolute;left:0;right:0;top:-10px;height:10px}
+.grupo-menu.abierto>.submenu{display:block}
+@media (hover:hover) and (min-width:99999px){
+  .grupo-menu:hover>.submenu{display:block}
+  .grupo-menu:hover>.titulo-menu::after{transform:translateY(1px) rotate(225deg)}
+}
+.grupo-menu.abierto>.titulo-menu::after{transform:translateY(1px) rotate(225deg)}
+.submenu a{display:block;padding:11px 20px;text-decoration:none;color:#d4cfc2}
+.submenu .t{display:flex;align-items:center;gap:10px;font:600 .95rem/1.3 var(--texto-f);color:var(--texto)}
+.submenu .d{display:block;margin-top:3px;font:400 .82rem/1.35 var(--texto-f);color:var(--suave)}
+.etiqueta-menu{font:700 .6rem/1 var(--texto-f);letter-spacing:.14em;text-transform:uppercase;padding:4px 7px;border:1px solid rgba(91,141,255,.5);color:#a9c4ff;background:rgba(91,141,255,.1)}
+.submenu a:hover{background:rgba(210,169,85,.07)}
+.submenu a:hover .t,.submenu a.activo .t{color:var(--oro-claro)}
+.submenu a.activo .t::before{content:"◆";font-size:.6rem;color:var(--oro)}
+.menu-movil{display:none;align-items:center;gap:10px;margin-left:auto;background:none;border:1px solid var(--linea);color:var(--texto);
+  padding:10px 14px;cursor:pointer;font:600 .74rem/1 var(--texto-f);letter-spacing:.18em;text-transform:uppercase}
+.menu-movil .rayas{width:16px;height:2px;background:currentColor;position:relative}
+.menu-movil .rayas::before,.menu-movil .rayas::after{content:"";position:absolute;left:0;width:16px;height:2px;background:currentColor}
+.menu-movil .rayas::before{top:-5px}.menu-movil .rayas::after{top:5px}
+@media all{
+  .barra .fila1{gap:12px}
+  .menu-movil{display:inline-flex}
+  .barra nav{display:none;position:absolute;top:100%;left:0;right:0;margin:0;background:#0b0c10;border-bottom:1px solid var(--filete);
+    box-shadow:0 18px 40px rgba(0,0,0,.6);max-height:calc(100vh - 80px);overflow-y:auto;padding:10px 24px 18px}
+  .barra nav.abierto{display:block}
+  .menu{flex-direction:column;gap:0}
+  .menu>li:not(.fijo)~li:not(.fijo){border-top:1px solid var(--linea)}
+  .enlace-menu{padding:16px 0;color:var(--texto);font-size:.76rem}
+  .titulo-menu{width:100%;justify-content:space-between;padding:16px 0;color:var(--oro);font-size:.76rem}
+  .titulo-menu::after{display:none}
+  .submenu{position:static;display:block;border:0;box-shadow:none;background:none;padding:0 0 12px;min-width:0}
+  .submenu a{padding:9px 0 9px 4px}
+}
+@media (max-width:720px){
+  .marca{font-size:1rem;letter-spacing:.1em;gap:10px}
+  .barra .boton{padding:10px 14px;font-size:.7rem;letter-spacing:.18em}
+  .barra nav{padding:10px 24px 18px}
+}
+@media (max-width:400px){
+  .marca{font-size:.82rem;letter-spacing:.06em;gap:8px}
+  .marca svg{width:24px;height:28px}
+  .barra .boton{padding:9px 10px;letter-spacing:.12em}
+  .menu-movil{padding:9px 10px}
+  .rapidos .enlace-menu{padding:12px 7px;letter-spacing:.1em}
+  .menu-movil .texto-menu{display:none}
+}
+
+/* Accesos rápidos: en pantallas estrechas, junto al botón Menú */
+.rapidos{display:none;list-style:none;margin:0 0 0 16px;padding:0;gap:2px}
+@media all{
+  .rapidos{display:flex}
+  .rapidos .enlace-menu{padding:12px 10px}
+  .menu-movil{margin-left:auto}
+  .barra .fila1>.boton{margin-left:0}
+  .menu>.fijo{display:none}
+}
+@media (max-width:960px){
+  .barra .fila1{flex-wrap:wrap;height:auto;padding-top:10px;row-gap:0}
+  .marca{flex:1}
+  .rapidos{order:5;flex:0 0 100%;justify-content:flex-start;margin:8px 0 0;border-top:1px solid var(--linea);padding:2px 0 2px 0}
+  .rapidos li:first-child .enlace-menu{padding-left:0}
+  .rapidos .enlace-menu{font-size:.7rem;letter-spacing:.14em;padding:12px 10px}
+  .menu-movil{margin-left:auto}
+}
+
+/* En pantallas anchas, el panel del Menú se abre como desplegable bajo el botón */
+@media (min-width:961px){
+  .barra nav{left:auto;right:137px;width:380px;border:1px solid var(--filete);border-top:0}
+}
