@@ -2,43 +2,167 @@
   "ejemplo": true,
   "notas": "Valores provisionales del sistema de botín. Se cambian aquí y la web se actualiza sola.",
   "ep": [
-    {"clave": "noche", "texto": "Noche de raid completa", "detalle": "Estar dentro desde el pull del primer jefe hasta el final", "valor": 100},
-    {"clave": "puntual", "texto": "Puntualidad", "detalle": "En la banda, con consumibles, a las 22:00", "valor": 10},
-    {"clave": "jefe_nuevo", "texto": "Primera muerte de un jefe", "detalle": "Solo la primera vez que la hermandad lo mata", "valor": 25},
-    {"clave": "banquillo", "texto": "Banquillo", "detalle": "Disponible y conectado, pero sin hueco en la banda", "valor": "50%"},
-    {"clave": "media", "texto": "Media noche", "detalle": "Entras tarde o te vas antes, avisando", "valor": "50%"},
-    {"clave": "banco", "texto": "Aportar al banco", "detalle": "No da puntos: el oro no compra prioridad", "valor": 0}
+    {
+      "clave": "noche",
+      "texto": "Noche de raid completa",
+      "detalle": "Estar dentro desde el pull del primer jefe hasta el final",
+      "valor": 100
+    },
+    {
+      "clave": "puntual",
+      "texto": "Puntualidad",
+      "detalle": "En la banda, con consumibles, a las 22:00",
+      "valor": 10
+    },
+    {
+      "clave": "jefe_nuevo",
+      "texto": "Primera muerte de un jefe",
+      "detalle": "Solo la primera vez que la hermandad lo mata",
+      "valor": 25
+    },
+    {
+      "clave": "banquillo",
+      "texto": "Banquillo",
+      "detalle": "Disponible y conectado, pero sin hueco en la banda",
+      "valor": "50%"
+    },
+    {
+      "clave": "media",
+      "texto": "Media noche",
+      "detalle": "Entras tarde o te vas antes, avisando",
+      "valor": "50%"
+    },
+    {
+      "clave": "banco",
+      "texto": "Aportar al banco",
+      "detalle": "No da puntos: el oro no compra prioridad",
+      "valor": 0
+    }
   ],
   "gp_base": 100,
   "ranuras": [
-    {"texto": "Arma de dos manos", "mult": 2.0},
-    {"texto": "Arma de una mano (principal)", "mult": 1.5},
-    {"texto": "Abalorio", "mult": 1.25},
-    {"texto": "Cabeza, pecho o piernas", "mult": 1.0},
-    {"texto": "Hombros, manos, cintura o pies", "mult": 0.75},
-    {"texto": "Muñecas, cuello, capa o anillo", "mult": 0.5},
-    {"texto": "Mano izquierda, escudo, a distancia o reliquia", "mult": 0.5}
+    {
+      "texto": "Arma de dos manos",
+      "mult": 2.0
+    },
+    {
+      "texto": "Arma de una mano (principal)",
+      "mult": 1.5
+    },
+    {
+      "texto": "Abalorio",
+      "mult": 1.25
+    },
+    {
+      "texto": "Cabeza, pecho o piernas",
+      "mult": 1.0
+    },
+    {
+      "texto": "Hombros, manos, cintura o pies",
+      "mult": 0.75
+    },
+    {
+      "texto": "Muñecas, cuello, capa o anillo",
+      "mult": 0.5
+    },
+    {
+      "texto": "Mano izquierda, escudo, a distancia o reliquia",
+      "mult": 0.5
+    }
   ],
   "respuestas": [
-    {"texto": "Gran mejora", "detalle": "Para tu especialización principal, se nota", "mult": 1.0},
-    {"texto": "Mejora pequeña", "detalle": "Para tu principal, pero poco", "mult": 0.5},
-    {"texto": "Otra especialización", "detalle": "Para tu segunda especialización", "mult": 0.25},
-    {"texto": "Paso", "detalle": "No lo quieres", "mult": 0}
+    {
+      "texto": "BIS de tu lista",
+      "detalle": "Uno de los objetos que pusiste en tu lista BIS",
+      "mult": 1.0
+    },
+    {
+      "texto": "Gran mejora",
+      "detalle": "Para tu especialización principal, se nota",
+      "mult": 1.0
+    },
+    {
+      "texto": "Mejora pequeña",
+      "detalle": "Para tu principal, pero poco",
+      "mult": 0.5
+    },
+    {
+      "texto": "Otra especialización",
+      "detalle": "Para tu segunda especialización",
+      "mult": 0.25
+    },
+    {
+      "texto": "Paso",
+      "detalle": "No lo quieres",
+      "mult": 0
+    }
   ],
   "calidad_rara": 0.5,
-  "decay": 0.10,
+  "decay": 0.1,
   "decay_cuando": "cada viernes a las 06:00, después de la última raid de la semana",
   "ep_minimo": 200,
   "prioridad": [
-    {"pj": "Aldric", "clase": "paladin", "ep": 1640, "gp": 310},
-    {"pj": "Brannoc", "clase": "warrior", "ep": 1820, "gp": 455},
-    {"pj": "Elowen", "clase": "druid", "ep": 1510, "gp": 190},
-    {"pj": "Mirela", "clase": "priest", "ep": 1760, "gp": 380},
-    {"pj": "Tavish", "clase": "rogue", "ep": 1290, "gp": 260},
-    {"pj": "Isolde", "clase": "mage", "ep": 1700, "gp": 520},
-    {"pj": "Orrin", "clase": "hunter", "ep": 980, "gp": 140},
-    {"pj": "Sabela", "clase": "warlock", "ep": 1450, "gp": 205},
-    {"pj": "Corwen", "clase": "shaman", "ep": 160, "gp": 100},
-    {"pj": "Ysolde", "clase": "priest", "ep": 1130, "gp": 100}
-  ]
+    {
+      "pj": "Aldric",
+      "clase": "paladin",
+      "ep": 1640,
+      "gp": 310
+    },
+    {
+      "pj": "Brannoc",
+      "clase": "warrior",
+      "ep": 1820,
+      "gp": 455
+    },
+    {
+      "pj": "Elowen",
+      "clase": "druid",
+      "ep": 1510,
+      "gp": 190
+    },
+    {
+      "pj": "Mirela",
+      "clase": "priest",
+      "ep": 1760,
+      "gp": 380
+    },
+    {
+      "pj": "Tavish",
+      "clase": "rogue",
+      "ep": 1290,
+      "gp": 260
+    },
+    {
+      "pj": "Isolde",
+      "clase": "mage",
+      "ep": 1700,
+      "gp": 520
+    },
+    {
+      "pj": "Orrin",
+      "clase": "hunter",
+      "ep": 980,
+      "gp": 140
+    },
+    {
+      "pj": "Sabela",
+      "clase": "warlock",
+      "ep": 1450,
+      "gp": 205
+    },
+    {
+      "pj": "Corwen",
+      "clase": "shaman",
+      "ep": 160,
+      "gp": 100
+    },
+    {
+      "pj": "Ysolde",
+      "clase": "priest",
+      "ep": 1130,
+      "gp": 100
+    }
+  ],
+  "bis_max": 3,
+  "bis": []
 }

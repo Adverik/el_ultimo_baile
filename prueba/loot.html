@@ -330,6 +330,21 @@
   .herr code{font-size:.85rem;color:var(--oro-claro)}
   .ejemplo{display:inline-block;font:700 .66rem/1 var(--texto-f);letter-spacing:.16em;text-transform:uppercase;color:#1a1306;background:var(--oro);padding:5px 8px;margin-left:10px;vertical-align:middle}
   input[type=range]{accent-color:var(--oro)}
+  .progreso{position:relative;border:1px solid var(--oro);background:linear-gradient(180deg,rgba(210,169,85,.12),rgba(210,169,85,.03));padding:24px 28px;margin:0 0 30px}
+  .progreso h3{font-size:1rem;margin-bottom:8px;color:var(--oro-claro)}
+  .progreso p{margin:0;color:var(--texto)}
+  .orden{list-style:none;margin:0;padding:0;counter-reset:o;display:grid;grid-template-columns:repeat(5,1fr);gap:8px}
+  .orden li{counter-increment:o;background:var(--panel);border:1px solid var(--linea);padding:16px 14px;text-align:center}
+  .orden li::before{content:counter(o);display:block;font:700 1.4rem/1 var(--titulos);color:var(--oro);margin-bottom:10px}
+  .orden li:first-child{border-color:var(--oro)}
+  .orden b{display:block;color:var(--texto);font-weight:600;margin-bottom:4px}
+  .orden span{color:var(--suave);font-size:.86rem}
+  .nota-orden{text-align:center;color:var(--suave);font-size:.92rem;margin:16px 0 0}
+  .pronto{font:600 .62rem/1 var(--texto-f);letter-spacing:.14em;text-transform:uppercase;color:var(--suave);border:1px dashed #3d404a;padding:3px 6px;margin-left:6px;vertical-align:middle}
+  .vacio-bis{border:1px dashed var(--linea);padding:22px;text-align:center;color:var(--suave)}
+  .bis-pj{font-weight:600}
+  .bis-hecho{text-decoration:line-through;opacity:.55}
+  @media (max-width:960px){.orden{grid-template-columns:1fr 1fr}.orden li:first-child{grid-column:1/-1}}
   .faq details{border-bottom:1px solid var(--linea);padding:14px 0}
   .faq summary{cursor:pointer;font-weight:600;color:var(--texto)}
   .faq summary::marker{color:var(--oro)}
@@ -403,9 +418,26 @@
       <ol class="tldr">
         <li><span class="num">1</span><b>Vienes a raid</b><span>Cada noche suma puntos de esfuerzo (EP).</span></li>
         <li><span class="num">2</span><b>Cae un objeto</b><span>Te sale una ventana y dices cuánto te interesa.</span></li>
-        <li><span class="num">3</span><b>Decide el consejo</b><span>Con tu prioridad delante: EP dividido entre GP.</span></li>
+        <li><span class="num">3</span><b>Decide el consejo</b><span>Tanques y sanadores primero si es para avanzar. Después, tu lista BIS y tu prioridad.</span></li>
         <li><span class="num">4</span><b>Te lo llevas</b><span>Suma puntos de equipo (GP) y bajas en la cola.</span></li>
       </ol>
+
+      <section class="bloque" aria-labelledby="t-orden">
+        <h2 id="t-orden">Quién va primero</h2>
+        <p class="sub">El orden se aplica de arriba abajo. Dentro de cada escalón, gana quien tenga la prioridad (PR) más alta.</p>
+        <div class="progreso">
+          <h3>Regla de progreso: tanques y sanadores, antes que nadie</h3>
+          <p>Mientras estemos avanzando en una banda, un objeto que ayude a un tanque o a un sanador a aguantar o a curar más se le da a él primero, aunque otro lo tenga en su lista BIS o tenga más prioridad. Sin tanques y sanadores equipados no se mata al siguiente jefe, y eso nos beneficia a todos. Cuando la banda está limpia, esta regla deja de aplicarse.</p>
+        </div>
+        <ol class="orden">
+          <li><b>Progreso</b><span>Tanques y sanadores, si el objeto les sirve para avanzar</span></li>
+          <li><b>BIS de tu lista</b><span>Uno de tus objetos BIS (hasta <span class="bis-max">3</span> por fase)</span></li>
+          <li><b>Gran mejora</b><span>Para tu especialización principal</span></li>
+          <li><b>Mejora pequeña</b><span>Para tu principal, pero poco</span></li>
+          <li><b>Otra especialización</b><span>Para tu segunda especialización</span></li>
+        </ol>
+        <p class="nota-orden">Si dos personas empatan en el mismo escalón y con la misma prioridad, se tira.</p>
+      </section>
 
       <section class="bloque" aria-labelledby="t-modelo">
         <h2 id="t-modelo">El modelo</h2>
@@ -424,9 +456,9 @@
         <p class="sub">Botín maestro con un addon de consejo. Tú solo eliges una respuesta; el resto lo hace el addon y el robot de la web.</p>
         <ol class="pasos">
           <li><div><b>El maestro despojador abre la sesión</b><span>Al matar al jefe, el addon manda los objetos a toda la banda.</span></div></li>
-          <li><div><b>Eliges tu respuesta en la ventana</b><span>Gran mejora, mejora pequeña, otra especialización o paso. Si no contestas en 60 segundos, cuenta como paso.</span></div></li>
-          <li><div><b>El consejo mira la prioridad</b><span>Dentro de la respuesta más alta, gana el PR más alto. Con empate de PR, tirada.</span></div></li>
-          <li><div><b>Excepciones, con motivo escrito</b><span>El consejo puede saltarse el orden (por ejemplo, un objeto clave para el tanque en progreso), pero lo apunta y lo publica en el canal de botín de Discord.</span></div></li>
+          <li><div><b>Eliges tu respuesta en la ventana</b><span>BIS, gran mejora, mejora pequeña, otra especialización o paso. Marca BIS solo si el objeto está en tu lista: si no lo está, cuenta como gran mejora. Si no contestas en 60 segundos, cuenta como paso.</span></div></li>
+          <li><div><b>El consejo aplica el orden</b><span>Primero la regla de progreso, después las respuestas de arriba abajo y, dentro de cada una, el PR más alto.</span></div></li>
+          <li><div><b>Excepciones, con motivo escrito</b><span>Si el consejo se salta el orden por algún otro motivo, lo apunta y lo publica. Todas las excepciones se pueden consultar.</span></div></li>
           <li><div><b>Se apunta solo</b><span>El robot de la web lee el registro del addon, suma el GP al ganador y actualiza la tabla. Nadie toca hojas de cálculo.</span></div></li>
         </ol>
       </section>
@@ -439,7 +471,7 @@
 
       <section class="bloque" aria-labelledby="t-gp">
         <h2 id="t-gp">Cuánto GP suma un objeto</h2>
-        <p class="sub">GP = base × ranura × respuesta. Los objetos raros de banda valen la mitad que los épicos.</p>
+        <p class="sub">GP = base × ranura × respuesta. Un BIS cuesta lo mismo que una gran mejora, y los objetos raros de banda, la mitad que los épicos.</p>
         <div class="dos">
           <table class="tabla"><thead><tr><th>Ranura</th><th class="der">×</th><th class="der">GP épico</th></tr></thead><tbody id="tabla-ranuras"></tbody></table>
           <table class="tabla"><thead><tr><th>Tu respuesta</th><th class="der">×</th></tr></thead><tbody id="tabla-resp"></tbody></table>
@@ -454,6 +486,16 @@
           <label style="flex-direction:row;align-items:center;gap:8px;margin-top:12px"><input type="checkbox" id="c-rara"> Es de calidad rara (azul)</label>
           <p class="explica" id="c-exp"></p>
         </div>
+      </section>
+
+      <section class="bloque" aria-labelledby="t-bis">
+        <h2 id="t-bis">Tu lista BIS</h2>
+        <p class="sub">Los objetos que más te importan de la banda. Si cae uno, vas por delante de quien solo lo quiere como mejora.</p>
+        <div class="dos">
+          <p>Antes de la primera raid de cada fase, eliges hasta <strong class="bis-max">3</strong> objetos de esa banda y se los pasas a los oficiales por el canal de botín de Discord. Una vez publicada, la lista no cambia hasta la siguiente fase, salvo que cambies de especialización.</p>
+          <p>Cuando cae uno de tus objetos, en la ventana del addon eliges <strong>BIS</strong>. Cuando te lo llevas, se tacha de tu lista. Es para lo que de verdad cambia tu personaje: los objetos que cualquiera querría siguen yendo por prioridad.</p>
+        </div>
+        <div id="listas-bis" style="margin-top:28px"></div>
       </section>
 
       <section class="bloque" aria-labelledby="t-decay">
@@ -478,10 +520,10 @@
         <table class="tabla pr"><thead><tr><th>#</th><th>Personaje</th><th class="der ocultar-movil">EP</th><th class="der ocultar-movil">GP</th><th class="der">PR</th></tr></thead><tbody id="tabla-pr"></tbody></table>
       </section>
 
-      <section class="bloque" id="bloque-repartos" aria-labelledby="t-repartos" hidden>
+      <section class="bloque" id="bloque-repartos" aria-labelledby="t-repartos">
         <h2 id="t-repartos">Últimos repartos</h2>
         <p class="sub">Cada objeto que se da, con el GP que ha sumado. Las excepciones del consejo llevan su motivo.</p>
-        <table class="tabla"><thead><tr><th class="ocultar-movil">Fecha</th><th>Personaje</th><th>Objeto</th><th class="der">GP</th></tr></thead><tbody id="tabla-repartos"></tbody></table>
+        <table class="tabla"><thead><tr><th class="ocultar-movil">Fecha</th><th>Personaje</th><th>Objeto</th><th class="der">GP</th></tr></thead><tbody id="tabla-repartos"><tr><td colspan="4" class="vacio-bis">Todavía no hay repartos. Saldrán aquí desde la primera raid.</td></tr></tbody></table>
       </section>
 
       <section class="bloque" aria-labelledby="t-normas">
@@ -496,13 +538,13 @@
         </ul>
       </section>
 
-      <section class="bloque" aria-labelledby="t-herr">
-        <h2 id="t-herr">Lo que hace falta</h2>
-        <p class="sub">Para empezar basta con el addon. El bot de Discord es un extra que se puede montar después.</p>
+      <section class="bloque" aria-labelledby="t-consulta">
+        <h2 id="t-consulta">Consulta tus puntos</h2>
+        <p class="sub">Todo está a la vista: tu prioridad, quién se ha llevado qué y cuándo el consejo se ha saltado el orden.</p>
         <div class="herr">
-          <div><h3>Addon de consejo</h3><p>Todos lo instalan. Si RCLootCouncil funciona en Forever, ese. Si no, uno hecho para Forever, como Arbiter Loot Council o WLC.</p></div>
-          <div><h3>Robot de la web</h3><p>Calcula EP, GP y el desgaste a partir de la asistencia y del registro del addon, y publica esta tabla. Sin hojas de cálculo.</p></div>
-          <div><h3>Bot de Discord (opcional)</h3><p><code>/prioridad</code> te dice tu EP, GP y PR, solo a ti. <code>/botin</code> enseña los últimos repartos y el motivo de cada excepción.</p></div>
+          <div><h3>Tu prioridad</h3><p>En la tabla de prioridad de esta página, con tu EP, tu GP y tu PR. Se actualiza después de cada raid y del desgaste de los viernes.</p></div>
+          <div><h3>Repartos y excepciones</h3><p>Cada objeto entregado sale en los últimos repartos. Si el consejo se ha saltado el orden, la fila lo indica con el motivo, y también se avisa en el canal de botín.</p></div>
+          <div><h3>En Discord <span class="pronto">Próximamente</span></h3><p><code>/prioridad</code> te dice tus puntos y tu lista BIS, y solo lo ves tú.</p></div>
         </div>
       </section>
 
@@ -511,6 +553,8 @@
         <details><summary>¿Pierdo puntos si me llevo algo?</summary><p>No pierdes EP. Te sube el GP, así que tu PR baja y otros pasan delante hasta que vuelvas a acumular noches.</p></details>
         <details><summary>¿Y si llego nuevo cuando los demás ya tienen muchos puntos?</summary><p>Todos empiezan con el mismo GP base, y el desgaste recorta las distancias cada semana. En tres o cuatro semanas viniendo con normalidad estás a la altura del resto.</p></details>
         <details><summary>¿Puedo ver mis puntos?</summary><p>En la tabla de esta página, y si se monta el bot, con <code>/prioridad</code> en Discord.</p></details>
+        <details><summary>¿Un tanque me puede quitar un objeto de mi lista BIS?</summary><p>Sí, mientras estemos en progreso y el objeto le sirva para aguantar más. Es la única regla que va por encima de la lista BIS. Cuando la banda está limpia, tu BIS va primero.</p></details>
+        <details><summary>¿Cuántas excepciones hace el consejo?</summary><p>Las justas, y todas quedan a la vista con su motivo en los últimos repartos. Si no ves ninguna, es que no ha habido.</p></details>
         <details><summary>¿El oro del banco da prioridad?</summary><p>No. Aportar al banco se agradece y sale en el banco, pero no da EP: la prioridad no se compra.</p></details>
       </section>
     </div>
@@ -540,6 +584,19 @@
     $("decay-pc").textContent = Math.round(L.decay * 100) + "%";
     $("decay-cuando").textContent = L.decay_cuando;
     $("ep-min").textContent = L.ep_minimo;
+    document.querySelectorAll(".bis-max").forEach(x => { x.textContent = L.bis_max; });
+    const lb = $("listas-bis");
+    if (!L.bis || !L.bis.length) lb.append(el("div", "vacio-bis", "Las listas BIS se publicarán aquí cuando empiece la primera fase."));
+    else {
+      const t = el("table", "tabla"), h = el("thead"), hr = el("tr"); hr.append(el("th", "", "Personaje"), el("th", "", "Lista BIS"));
+      h.append(hr); const b = el("tbody");
+      L.bis.forEach(x => {
+        const tr = el("tr"), a = el("td"), p = el("span", "bis-pj", x.pj); p.style.color = CLASES[x.clase] || "#ece6d6"; a.append(p);
+        const c = el("td"); x.objetos.forEach((o, i) => { if (i) c.append(" · "); c.append(el("span", o.conseguido ? "bis-hecho" : "", o.n)); });
+        tr.append(a, c); b.append(tr);
+      });
+      t.append(h, b); lb.append(t);
+    }
     $("tabla-ep").replaceChildren(...L.ep.map(e => {
       const tr = el("tr"), a = el("td"); a.append(e.texto, el("small", "", e.detalle));
       const v = el("td", "der"); v.append(el("span", "valor" + (e.valor === 0 ? " cero" : ""), typeof e.valor === "number" ? (e.valor ? "+" + e.valor : "0") : e.valor));
@@ -598,7 +655,6 @@
     }));
     // Últimos repartos (solo con datos reales)
     if (L.repartos && L.repartos.length) {
-      $("bloque-repartos").hidden = false;
       $("tabla-repartos").replaceChildren(...L.repartos.map(r => {
         const tr = el("tr"), pj = el("span", "pj", r.pj); pj.style.color = CLASES[r.clase] || "#ece6d6";
         const a = el("td"); a.append(pj); if (r.motivo) a.append(el("small", "", "Excepción: " + r.motivo));
