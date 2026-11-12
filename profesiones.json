@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-11",
+  "actualizado": "2026-11-12",
   "artesanos": [
     {
       "personaje": "Aalesian Naeuri",
@@ -143,12 +143,12 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 156,
+          "nivel": 158,
           "max": 225
         },
         {
           "nombre": "Ingeniería",
-          "nivel": 150,
+          "nivel": 177,
           "max": 225
         },
         {
@@ -175,7 +175,7 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 158,
+          "nivel": 159,
           "max": 225
         },
         {
@@ -207,12 +207,12 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 115,
+          "nivel": 119,
           "max": 150
         },
         {
           "nombre": "Ingeniería",
-          "nivel": 130,
+          "nivel": 150,
           "max": 150
         },
         {
@@ -276,7 +276,7 @@
         },
         {
           "nombre": "Herboristería",
-          "nivel": 216,
+          "nivel": 219,
           "max": 300
         },
         {
@@ -286,7 +286,7 @@
         },
         {
           "nombre": "Pesca",
-          "nivel": 22,
+          "nivel": 25,
           "max": 75
         },
         {
@@ -303,12 +303,12 @@
       "profesiones": [
         {
           "nombre": "Alquimia",
-          "nivel": 137,
-          "max": 150
+          "nivel": 144,
+          "max": 225
         },
         {
           "nombre": "Herboristería",
-          "nivel": 123,
+          "nivel": 127,
           "max": 150
         },
         {
@@ -340,7 +340,7 @@
         },
         {
           "nombre": "Pesca",
-          "nivel": 223,
+          "nivel": 224,
           "max": 225
         },
         {
@@ -357,7 +357,7 @@
       "profesiones": [
         {
           "nombre": "Peletería",
-          "nivel": 116,
+          "nivel": 135,
           "max": 150
         },
         {
@@ -372,7 +372,7 @@
         },
         {
           "nombre": "Pesca",
-          "nivel": 85,
+          "nivel": 110,
           "max": 150
         },
         {
@@ -421,12 +421,12 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 72,
-          "max": 75
+          "nivel": 81,
+          "max": 150
         },
         {
           "nombre": "Herrería",
-          "nivel": 42,
+          "nivel": 52,
           "max": 75
         },
         {
@@ -436,7 +436,7 @@
         },
         {
           "nombre": "Primeros auxilios",
-          "nivel": 51,
+          "nivel": 54,
           "max": 75
         }
       ]
@@ -475,7 +475,7 @@
       "profesiones": [
         {
           "nombre": "Sastrería",
-          "nivel": 138,
+          "nivel": 150,
           "max": 225
         },
         {
@@ -561,12 +561,12 @@
       "profesiones": [
         {
           "nombre": "Alquimia",
-          "nivel": 159,
+          "nivel": 183,
           "max": 225
         },
         {
           "nombre": "Herboristería",
-          "nivel": 146,
+          "nivel": 147,
           "max": 225
         },
         {
@@ -711,13 +711,13 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 152,
+          "nivel": 153,
           "max": 225
         },
         {
           "nombre": "Herrería",
-          "nivel": 123,
-          "max": 150
+          "nivel": 151,
+          "max": 225
         },
         {
           "nombre": "Cocina",
@@ -770,7 +770,7 @@
       "profesiones": [
         {
           "nombre": "Alquimia",
-          "nivel": 111,
+          "nivel": 119,
           "max": 150
         },
         {
@@ -807,7 +807,7 @@
         },
         {
           "nombre": "Desuello",
-          "nivel": 175,
+          "nivel": 176,
           "max": 225
         },
         {
@@ -886,7 +886,7 @@
         },
         {
           "nombre": "Primeros auxilios",
-          "nivel": 4,
+          "nivel": 16,
           "max": 75
         }
       ]
@@ -925,27 +925,27 @@
       "profesiones": [
         {
           "nombre": "Alquimia",
-          "nivel": 115,
+          "nivel": 117,
           "max": 150
         },
         {
           "nombre": "Herboristería",
-          "nivel": 130,
+          "nivel": 150,
           "max": 150
         },
         {
           "nombre": "Cocina",
-          "nivel": 92,
+          "nivel": 98,
           "max": 150
         },
         {
           "nombre": "Pesca",
-          "nivel": 101,
+          "nivel": 103,
           "max": 150
         },
         {
           "nombre": "Primeros auxilios",
-          "nivel": 99,
+          "nivel": 115,
           "max": 150
         }
       ]
@@ -1036,7 +1036,7 @@
         },
         {
           "nombre": "Primeros auxilios",
-          "nivel": 147,
+          "nivel": 150,
           "max": 150
         }
       ]
@@ -1156,7 +1156,7 @@
         },
         {
           "nombre": "Herboristería",
-          "nivel": 194,
+          "nivel": 197,
           "max": 225
         },
         {
@@ -1437,6 +1437,7 @@
       "profesion": "Alquimia",
       "calidad": "common",
       "personajes": [
+        "Fran Furion",
         "Sugar Papy"
       ]
     },
@@ -1603,6 +1604,7 @@
       "profesion": "Alquimia",
       "calidad": "common",
       "personajes": [
+        "Fran Furion",
         "Sugar Papy"
       ]
     },
@@ -1663,6 +1665,7 @@
       "profesion": "Alquimia",
       "calidad": "common",
       "personajes": [
+        "Fran Furion",
         "Sugar Papy"
       ]
     },
@@ -2542,6 +2545,7 @@
       "profesion": "Cocina",
       "calidad": "common",
       "personajes": [
+        "Dum Bo",
         "Finn Felagund"
       ]
     },
@@ -2797,6 +2801,7 @@
         "Chaca Choochoo",
         "Diana Flechaveloz",
         "Dum Bo",
+        "Edoras Duskranger",
         "Finn Felagund",
         "La Pety"
       ]
@@ -3545,6 +3550,7 @@
         "Aalesian Naeuri",
         "Coloso Tempestad",
         "Espartaco Gladiador",
+        "Españoleitor Españoleitor",
         "Hugo Forjaluz",
         "Khyoraku Shunsui",
         "Tharindel Magnaluz"
@@ -3783,6 +3789,7 @@
       "personajes": [
         "Aalesian Naeuri",
         "Coloso Tempestad",
+        "Khyoraku Shunsui",
         "Tharindel Magnaluz"
       ]
     },
@@ -3801,6 +3808,7 @@
       "personajes": [
         "Aalesian Naeuri",
         "Coloso Tempestad",
+        "Khyoraku Shunsui",
         "Tharindel Magnaluz"
       ]
     },
@@ -3809,7 +3817,8 @@
       "profesion": "Herrería",
       "calidad": "uncommon",
       "personajes": [
-        "Aalesian Naeuri"
+        "Aalesian Naeuri",
+        "Khyoraku Shunsui"
       ]
     },
     {
@@ -3817,7 +3826,8 @@
       "profesion": "Herrería",
       "calidad": "uncommon",
       "personajes": [
-        "Aalesian Naeuri"
+        "Aalesian Naeuri",
+        "Khyoraku Shunsui"
       ]
     },
     {
@@ -3825,7 +3835,8 @@
       "profesion": "Herrería",
       "calidad": "uncommon",
       "personajes": [
-        "Aalesian Naeuri"
+        "Aalesian Naeuri",
+        "Khyoraku Shunsui"
       ]
     },
     {
@@ -3834,6 +3845,14 @@
       "calidad": "rare",
       "personajes": [
         "Coloso Tempestad"
+      ]
+    },
+    {
+      "nombre": "Hardened Iron Shortsword",
+      "profesion": "Herrería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Khyoraku Shunsui"
       ]
     },
     {
@@ -3924,6 +3943,7 @@
       "personajes": [
         "Aalesian Naeuri",
         "Coloso Tempestad",
+        "Khyoraku Shunsui",
         "Tharindel Magnaluz"
       ]
     },
@@ -3949,7 +3969,8 @@
       "profesion": "Herrería",
       "calidad": "rare",
       "personajes": [
-        "Aalesian Naeuri"
+        "Aalesian Naeuri",
+        "Khyoraku Shunsui"
       ]
     },
     {
@@ -4118,6 +4139,7 @@
         "Aalesian Naeuri",
         "Coloso Tempestad",
         "Espartaco Gladiador",
+        "Españoleitor Españoleitor",
         "Hugo Forjaluz",
         "Khyoraku Shunsui",
         "Tharindel Magnaluz"
@@ -4328,6 +4350,7 @@
         "Aalesian Naeuri",
         "Coloso Tempestad",
         "Espartaco Gladiador",
+        "Españoleitor Españoleitor",
         "Hugo Forjaluz",
         "Khyoraku Shunsui",
         "Tharindel Magnaluz"
@@ -4358,6 +4381,14 @@
       ]
     },
     {
+      "nombre": "Veteran's Silvered Chain Helm",
+      "profesion": "Herrería",
+      "calidad": "rare",
+      "personajes": [
+        "Khyoraku Shunsui"
+      ]
+    },
+    {
       "nombre": "Aquadynamic Fish Attractor",
       "profesion": "Ingeniería",
       "calidad": "common",
@@ -4382,7 +4413,8 @@
       "profesion": "Ingeniería",
       "calidad": "common",
       "personajes": [
-        "Chaca Choochoo"
+        "Chaca Choochoo",
+        "Cuzcu Aker"
       ]
     },
     {
@@ -4398,7 +4430,8 @@
       "profesion": "Ingeniería",
       "calidad": "common",
       "personajes": [
-        "Chaca Choochoo"
+        "Chaca Choochoo",
+        "Cuzcu Aker"
       ]
     },
     {
@@ -4488,6 +4521,7 @@
       "calidad": "common",
       "personajes": [
         "Chaca Choochoo",
+        "Cuzcu Aker",
         "Flexita Shadowsoul"
       ]
     },
@@ -4782,6 +4816,7 @@
         "Coloso Tempestad",
         "Cuzcu Aker",
         "Espartaco Gladiador",
+        "Españoleitor Españoleitor",
         "Flexita Shadowsoul",
         "Hugo Forjaluz",
         "Jonaver Legends",
@@ -4813,14 +4848,6 @@
       ]
     },
     {
-      "nombre": "Mining",
-      "profesion": "Minería",
-      "calidad": "common",
-      "personajes": [
-        "Españoleitor Españoleitor"
-      ]
-    },
-    {
       "nombre": "Smelt Bronze",
       "profesion": "Minería",
       "calidad": "common",
@@ -4830,6 +4857,7 @@
         "Coloso Tempestad",
         "Cuzcu Aker",
         "Espartaco Gladiador",
+        "Españoleitor Españoleitor",
         "Flexita Shadowsoul",
         "Hugo Forjaluz",
         "Khyoraku Shunsui",
@@ -4874,6 +4902,7 @@
         "Chaca Choochoo",
         "Coloso Tempestad",
         "Flexita Shadowsoul",
+        "Khyoraku Shunsui",
         "La Pety",
         "Tharindel Magnaluz"
       ]
@@ -4896,6 +4925,7 @@
         "Coloso Tempestad",
         "Cuzcu Aker",
         "Espartaco Gladiador",
+        "Españoleitor Españoleitor",
         "Flexita Shadowsoul",
         "Hugo Forjaluz",
         "Khyoraku Shunsui",
@@ -4921,6 +4951,7 @@
         "Coloso Tempestad",
         "Cuzcu Aker",
         "Espartaco Gladiador",
+        "Españoleitor Españoleitor",
         "Flexita Shadowsoul",
         "Hugo Forjaluz",
         "Khyoraku Shunsui",
@@ -5040,6 +5071,7 @@
       "calidad": "common",
       "personajes": [
         "Diana Flechaveloz",
+        "Edoras Duskranger",
         "Memas Tour",
         "Palmira Natblida"
       ]
@@ -5468,6 +5500,7 @@
       "calidad": "common",
       "personajes": [
         "Diana Flechaveloz",
+        "Edoras Duskranger",
         "Memas Tour",
         "Palmira Natblida"
       ]
@@ -5478,6 +5511,7 @@
       "calidad": "common",
       "personajes": [
         "Diana Flechaveloz",
+        "Edoras Duskranger",
         "Memas Tour",
         "Palmira Natblida"
       ]
@@ -5487,6 +5521,7 @@
       "profesion": "Peletería",
       "calidad": "uncommon",
       "personajes": [
+        "Edoras Duskranger",
         "Memas Tour",
         "Palmira Natblida"
       ]
@@ -5497,6 +5532,7 @@
       "calidad": "uncommon",
       "personajes": [
         "Diana Flechaveloz",
+        "Edoras Duskranger",
         "Memas Tour",
         "Palmira Natblida"
       ]
@@ -5516,6 +5552,7 @@
       "calidad": "uncommon",
       "personajes": [
         "Diana Flechaveloz",
+        "Edoras Duskranger",
         "Memas Tour",
         "Palmira Natblida"
       ]
@@ -5526,6 +5563,7 @@
       "calidad": "uncommon",
       "personajes": [
         "Diana Flechaveloz",
+        "Edoras Duskranger",
         "Memas Tour",
         "Palmira Natblida"
       ]
@@ -6287,6 +6325,14 @@
       ]
     },
     {
+      "nombre": "Azure Silk Belt",
+      "profesion": "Sastrería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Finn Felagund"
+      ]
+    },
+    {
       "nombre": "Azure Silk Hood",
       "profesion": "Sastrería",
       "calidad": "uncommon",
@@ -6377,6 +6423,14 @@
       ]
     },
     {
+      "nombre": "Bolt of Mageweave",
+      "profesion": "Sastrería",
+      "calidad": "common",
+      "personajes": [
+        "Finn Felagund"
+      ]
+    },
+    {
       "nombre": "Bolt of Silk Cloth",
       "profesion": "Sastrería",
       "calidad": "common",
@@ -6461,6 +6515,14 @@
       ]
     },
     {
+      "nombre": "Crimson Silk Belt",
+      "profesion": "Sastrería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Finn Felagund"
+      ]
+    },
+    {
       "nombre": "Double-stitched Woolen Shoulders",
       "profesion": "Sastrería",
       "calidad": "uncommon",
@@ -6469,6 +6531,14 @@
         "Finn Felagund",
         "Nimassus Pater",
         "Saint Peligroxa"
+      ]
+    },
+    {
+      "nombre": "Earthen Vest",
+      "profesion": "Sastrería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Finn Felagund"
       ]
     },
     {
@@ -6533,6 +6603,14 @@
       "personajes": [
         "Finn Felagund",
         "Micro Bolas"
+      ]
+    },
+    {
+      "nombre": "Formal White Shirt",
+      "profesion": "Sastrería",
+      "calidad": "common",
+      "personajes": [
+        "Finn Felagund"
       ]
     },
     {
@@ -6610,6 +6688,14 @@
         "Finn Felagund",
         "Micro Bolas",
         "Saint Peligroxa"
+      ]
+    },
+    {
+      "nombre": "Hands of Darkness",
+      "profesion": "Sastrería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Dum Bo"
       ]
     },
     {
@@ -6846,6 +6932,14 @@
       ]
     },
     {
+      "nombre": "Red Swashbuckler's Shirt",
+      "profesion": "Sastrería",
+      "calidad": "common",
+      "personajes": [
+        "Finn Felagund"
+      ]
+    },
+    {
       "nombre": "Red Woolen Bag",
       "profesion": "Sastrería",
       "calidad": "common",
@@ -6970,6 +7064,14 @@
       ]
     },
     {
+      "nombre": "Spider Belt",
+      "profesion": "Sastrería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Finn Felagund"
+      ]
+    },
+    {
       "nombre": "Spider Silk Slippers",
       "profesion": "Sastrería",
       "calidad": "uncommon",
@@ -7010,6 +7112,14 @@
       "personajes": [
         "Dum Bo",
         "Finn Felagund"
+      ]
+    },
+    {
+      "nombre": "Truefaith Gloves",
+      "profesion": "Sastrería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Dum Bo"
       ]
     },
     {

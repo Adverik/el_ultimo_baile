@@ -7,7 +7,7 @@
       "personaje": "Dum Bo",
       "clase": "mage",
       "raider": false,
-      "nivel": 223,
+      "nivel": 224,
       "max": 225,
       "pct": 33
     },
@@ -68,6 +68,14 @@
       "pct": 33
     },
     {
+      "personaje": "Edoras Duskranger",
+      "clase": "hunter",
+      "raider": true,
+      "nivel": 110,
+      "max": 150,
+      "pct": 33
+    },
+    {
       "personaje": "Cuzcu Aker",
       "clase": "paladin",
       "raider": true,
@@ -79,7 +87,7 @@
       "personaje": "Nelv Stardancer",
       "clase": "druid",
       "raider": false,
-      "nivel": 101,
+      "nivel": 103,
       "max": 150,
       "pct": 33
     },
@@ -88,14 +96,6 @@
       "clase": "hunter",
       "raider": false,
       "nivel": 87,
-      "max": 150,
-      "pct": 33
-    },
-    {
-      "personaje": "Edoras Duskranger",
-      "clase": "hunter",
-      "raider": true,
-      "nivel": 85,
       "max": 150,
       "pct": 33
     },
@@ -164,20 +164,20 @@
       "pct": 33
     },
     {
+      "personaje": "Dio Hotmetal",
+      "clase": "hunter",
+      "raider": false,
+      "nivel": 25,
+      "max": 75,
+      "pct": 0
+    },
+    {
       "personaje": "Saint Peligroxa",
       "clase": "priest",
       "raider": false,
       "nivel": 25,
       "max": 75,
       "pct": 33
-    },
-    {
-      "personaje": "Dio Hotmetal",
-      "clase": "hunter",
-      "raider": false,
-      "nivel": 22,
-      "max": 75,
-      "pct": 0
     },
     {
       "personaje": "Vaporeta Pizpireta",
@@ -311,7 +311,7 @@
             17,
             18,
             19,
-            20,
+            21,
             22,
             23
           ]

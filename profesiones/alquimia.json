@@ -15,9 +15,9 @@
       "personaje": "Fran Furion",
       "clase": "druid",
       "raider": true,
-      "nivel": 159,
+      "nivel": 183,
       "max": 225,
-      "pct": 11
+      "pct": 13
     },
     {
       "personaje": "Dio Hotmetal",
@@ -31,8 +31,8 @@
       "personaje": "Don Josechu",
       "clase": "warlock",
       "raider": false,
-      "nivel": 137,
-      "max": 150,
+      "nivel": 144,
+      "max": 225,
       "pct": 10
     },
     {
@@ -44,20 +44,20 @@
       "pct": 14
     },
     {
-      "personaje": "Nelv Stardancer",
-      "clase": "druid",
-      "raider": false,
-      "nivel": 115,
-      "max": 150,
-      "pct": 10
-    },
-    {
       "personaje": "Layrela Rondanit",
       "clase": "druid",
       "raider": true,
-      "nivel": 111,
+      "nivel": 119,
       "max": 150,
       "pct": 11
+    },
+    {
+      "personaje": "Nelv Stardancer",
+      "clase": "druid",
+      "raider": false,
+      "nivel": 117,
+      "max": 150,
+      "pct": 10
     },
     {
       "personaje": "Genethika Brisaveloz",
@@ -542,7 +542,8 @@
             ]
           },
           "quien": [
-            0
+            0,
+            1
           ]
         },
         {
@@ -1932,7 +1933,7 @@
           },
           "quien": [
             4,
-            6
+            5
           ]
         },
         {
@@ -2612,7 +2613,8 @@
             ]
           },
           "quien": [
-            0
+            0,
+            1
           ]
         },
         {
@@ -3142,7 +3144,7 @@
           },
           "quien": [
             4,
-            5
+            6
           ]
         },
         {
@@ -3220,7 +3222,8 @@
             ]
           },
           "quien": [
-            0
+            0,
+            1
           ]
         },
         {
@@ -3376,7 +3379,7 @@
           },
           "quien": [
             1,
-            6,
+            5,
             7
           ]
         },

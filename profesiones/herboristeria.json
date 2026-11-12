@@ -7,7 +7,7 @@
       "personaje": "Dio Hotmetal",
       "clase": "hunter",
       "raider": false,
-      "nivel": 216,
+      "nivel": 219,
       "max": 300,
       "pct": 33
     },
@@ -15,7 +15,7 @@
       "personaje": "Sugar Papy",
       "clase": "druid",
       "raider": false,
-      "nivel": 194,
+      "nivel": 197,
       "max": 225,
       "pct": 33
     },
@@ -28,6 +28,22 @@
       "pct": 33
     },
     {
+      "personaje": "Nelv Stardancer",
+      "clase": "druid",
+      "raider": false,
+      "nivel": 150,
+      "max": 150,
+      "pct": 33
+    },
+    {
+      "personaje": "Fran Furion",
+      "clase": "druid",
+      "raider": true,
+      "nivel": 147,
+      "max": 225,
+      "pct": 33
+    },
+    {
       "personaje": "Layrela Rondanit",
       "clase": "druid",
       "raider": true,
@@ -36,26 +52,10 @@
       "pct": 33
     },
     {
-      "personaje": "Fran Furion",
-      "clase": "druid",
-      "raider": true,
-      "nivel": 146,
-      "max": 225,
-      "pct": 33
-    },
-    {
-      "personaje": "Nelv Stardancer",
-      "clase": "druid",
-      "raider": false,
-      "nivel": 130,
-      "max": 150,
-      "pct": 33
-    },
-    {
       "personaje": "Don Josechu",
       "clase": "warlock",
       "raider": false,
-      "nivel": 123,
+      "nivel": 127,
       "max": 150,
       "pct": 33
     },

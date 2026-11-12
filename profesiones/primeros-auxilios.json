@@ -55,7 +55,7 @@
       "personaje": "Palmira Natblida",
       "clase": "rogue",
       "raider": true,
-      "nivel": 147,
+      "nivel": 150,
       "max": 150,
       "pct": 22
     },
@@ -111,7 +111,7 @@
       "personaje": "Nelv Stardancer",
       "clase": "druid",
       "raider": false,
-      "nivel": 99,
+      "nivel": 115,
       "max": 150,
       "pct": 25
     },
@@ -199,7 +199,7 @@
       "personaje": "Españoleitor Españoleitor",
       "clase": "warrior",
       "raider": false,
-      "nivel": 51,
+      "nivel": 54,
       "max": 75,
       "pct": 3
     },
@@ -268,18 +268,18 @@
       "pct": 6
     },
     {
-      "personaje": "Thundrik Volgrim",
-      "clase": "priest",
+      "personaje": "Micro Bolas",
+      "clase": "warlock",
       "raider": false,
-      "nivel": 13,
+      "nivel": 16,
       "max": 75,
       "pct": 6
     },
     {
-      "personaje": "Micro Bolas",
-      "clase": "warlock",
+      "personaje": "Thundrik Volgrim",
+      "clase": "priest",
       "raider": false,
-      "nivel": 4,
+      "nivel": 13,
       "max": 75,
       "pct": 6
     },

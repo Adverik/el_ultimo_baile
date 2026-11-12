@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-11",
+  "actualizado": "2026-11-12",
   "recetas": [
     {
       "id": 54692,
@@ -51,15 +51,15 @@
           "clase": "warrior"
         },
         {
+          "n": "Khyoraku Shunsui",
+          "clase": "warrior"
+        },
+        {
           "n": "Tharindel Magnaluz",
           "clase": "paladin"
         },
         {
           "n": "Coloso Tempestad",
-          "clase": "warrior"
-        },
-        {
-          "n": "Khyoraku Shunsui",
           "clase": "warrior"
         },
         {
@@ -126,15 +126,15 @@
           "clase": "warrior"
         },
         {
+          "n": "Khyoraku Shunsui",
+          "clase": "warrior"
+        },
+        {
           "n": "Tharindel Magnaluz",
           "clase": "paladin"
         },
         {
           "n": "Coloso Tempestad",
-          "clase": "warrior"
-        },
-        {
-          "n": "Khyoraku Shunsui",
           "clase": "warrior"
         },
         {
@@ -194,15 +194,15 @@
           "clase": "warrior"
         },
         {
+          "n": "Khyoraku Shunsui",
+          "clase": "warrior"
+        },
+        {
           "n": "Tharindel Magnaluz",
           "clase": "paladin"
         },
         {
           "n": "Coloso Tempestad",
-          "clase": "warrior"
-        },
-        {
-          "n": "Khyoraku Shunsui",
           "clase": "warrior"
         },
         {
@@ -360,6 +360,10 @@
         {
           "n": "Aalesian Naeuri",
           "clase": "warrior"
+        },
+        {
+          "n": "Khyoraku Shunsui",
+          "clase": "warrior"
         }
       ]
     },
@@ -465,15 +469,15 @@
           "clase": "warrior"
         },
         {
+          "n": "Khyoraku Shunsui",
+          "clase": "warrior"
+        },
+        {
           "n": "Tharindel Magnaluz",
           "clase": "paladin"
         },
         {
           "n": "Coloso Tempestad",
-          "clase": "warrior"
-        },
-        {
-          "n": "Khyoraku Shunsui",
           "clase": "warrior"
         }
       ]
@@ -529,6 +533,61 @@
       "personajes": [
         {
           "n": "Espartaco Gladiador",
+          "clase": "warrior"
+        }
+      ]
+    },
+    {
+      "id": 54740,
+      "n": "Yelmo de anillas bañado en plata de veterano",
+      "q": "rare",
+      "ico": "136192",
+      "reac": [
+        [
+          "Lingote de bronce",
+          15
+        ],
+        [
+          "Piedra de pulir burda",
+          6
+        ],
+        [
+          "Lingote de plata",
+          4
+        ],
+        [
+          "Cuero prístino",
+          4
+        ],
+        [
+          "Perla lustrosa pequeña",
+          6
+        ]
+      ],
+      "obj": {
+        "arm": "163 armadura",
+        "id": 250528,
+        "ilvl": 25,
+        "lig": "Se liga al recogerlo",
+        "n": "Yelmo de anillas bañado en plata de veterano",
+        "q": "rare",
+        "ranura": "Cabeza",
+        "req": 20,
+        "stats": [
+          "+10 fuerza",
+          "+9 aguante"
+        ],
+        "sub": "Mallas",
+        "venta": [
+          "0",
+          "14",
+          "39"
+        ]
+      },
+      "profesion": "Herrería",
+      "personajes": [
+        {
+          "n": "Khyoraku Shunsui",
           "clase": "warrior"
         }
       ]
@@ -780,12 +839,12 @@
           "clase": "rogue"
         },
         {
-          "n": "Memas Tour",
-          "clase": "shaman"
-        },
-        {
           "n": "Edoras Duskranger",
           "clase": "hunter"
+        },
+        {
+          "n": "Memas Tour",
+          "clase": "shaman"
         },
         {
           "n": "Aurelio Amador",
@@ -1494,12 +1553,12 @@
           "clase": "rogue"
         },
         {
-          "n": "Memas Tour",
-          "clase": "shaman"
-        },
-        {
           "n": "Edoras Duskranger",
           "clase": "hunter"
+        },
+        {
+          "n": "Memas Tour",
+          "clase": "shaman"
         }
       ]
     },

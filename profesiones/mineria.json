@@ -15,7 +15,7 @@
       "personaje": "Coloso Tempestad",
       "clase": "warrior",
       "raider": false,
-      "nivel": 158,
+      "nivel": 159,
       "max": 225,
       "pct": 35
     },
@@ -23,7 +23,7 @@
       "personaje": "Chaca Choochoo",
       "clase": "druid",
       "raider": false,
-      "nivel": 156,
+      "nivel": 158,
       "max": 225,
       "pct": 35
     },
@@ -31,9 +31,9 @@
       "personaje": "Khyoraku Shunsui",
       "clase": "warrior",
       "raider": true,
-      "nivel": 152,
+      "nivel": 153,
       "max": 225,
-      "pct": 29
+      "pct": 35
     },
     {
       "personaje": "La Pety",
@@ -71,7 +71,7 @@
       "personaje": "Cuzcu Aker",
       "clase": "paladin",
       "raider": true,
-      "nivel": 115,
+      "nivel": 119,
       "max": 150,
       "pct": 29
     },
@@ -84,20 +84,20 @@
       "pct": 29
     },
     {
+      "personaje": "Españoleitor Españoleitor",
+      "clase": "warrior",
+      "raider": false,
+      "nivel": 81,
+      "max": 150,
+      "pct": 29
+    },
+    {
       "personaje": "Mosu Warryn",
       "clase": "warrior",
       "raider": false,
       "nivel": 77,
       "max": 150,
       "pct": 18
-    },
-    {
-      "personaje": "Españoleitor Españoleitor",
-      "clase": "warrior",
-      "raider": false,
-      "nivel": 72,
-      "max": 75,
-      "pct": 12
     },
     {
       "personaje": "Jonaver Legends",
@@ -146,7 +146,8 @@
             6,
             7,
             8,
-            9
+            9,
+            10
           ]
         },
         {
@@ -188,7 +189,8 @@
             6,
             7,
             8,
-            9
+            9,
+            10
           ]
         },
         {
@@ -246,6 +248,7 @@
             0,
             1,
             2,
+            3,
             4,
             5,
             6
@@ -286,7 +289,8 @@
             7,
             8,
             9,
-            10
+            10,
+            11
           ]
         },
         {
