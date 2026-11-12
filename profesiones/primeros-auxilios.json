@@ -15,17 +15,25 @@
       "personaje": "Aalesian Naeuri",
       "clase": "warrior",
       "raider": false,
+      "nivel": 239,
+      "max": 300,
+      "pct": 44
+    },
+    {
+      "personaje": "Coloso Tempestad",
+      "clase": "warrior",
+      "raider": false,
       "nivel": 225,
-      "max": 225,
+      "max": 300,
       "pct": 44
     },
     {
       "personaje": "Flexita Shadowsoul",
       "clase": "hunter",
       "raider": false,
-      "nivel": 181,
+      "nivel": 211,
       "max": 225,
-      "pct": 44
+      "pct": 47
     },
     {
       "personaje": "Chaca Choochoo",
@@ -36,14 +44,6 @@
       "pct": 28
     },
     {
-      "personaje": "Coloso Tempestad",
-      "clase": "warrior",
-      "raider": false,
-      "nivel": 150,
-      "max": 150,
-      "pct": 38
-    },
-    {
       "personaje": "Edoras Duskranger",
       "clase": "hunter",
       "raider": true,
@@ -52,34 +52,34 @@
       "pct": 38
     },
     {
+      "personaje": "Espartaco Gladiador",
+      "clase": "warrior",
+      "raider": true,
+      "nivel": 150,
+      "max": 150,
+      "pct": 16
+    },
+    {
       "personaje": "Palmira Natblida",
       "clase": "rogue",
       "raider": true,
       "nivel": 150,
-      "max": 150,
+      "max": 225,
       "pct": 22
     },
     {
-      "personaje": "Espartaco Gladiador",
-      "clase": "warrior",
-      "raider": true,
-      "nivel": 145,
+      "personaje": "Genethika Brisaveloz",
+      "clase": "hunter",
+      "raider": false,
+      "nivel": 146,
       "max": 150,
-      "pct": 16
+      "pct": 34
     },
     {
       "personaje": "Layrela Rondanit",
       "clase": "druid",
       "raider": true,
       "nivel": 142,
-      "max": 150,
-      "pct": 34
-    },
-    {
-      "personaje": "Genethika Brisaveloz",
-      "clase": "hunter",
-      "raider": false,
-      "nivel": 141,
       "max": 150,
       "pct": 34
     },
@@ -127,7 +127,7 @@
       "personaje": "Hugo Forjaluz",
       "clase": "paladin",
       "raider": false,
-      "nivel": 90,
+      "nivel": 92,
       "max": 150,
       "pct": 22
     },
@@ -172,6 +172,14 @@
       "pct": 16
     },
     {
+      "personaje": "Nindalf Pizpireta",
+      "clase": "rogue",
+      "raider": false,
+      "nivel": 76,
+      "max": 150,
+      "pct": 16
+    },
+    {
       "personaje": "Sugar Papy",
       "clase": "druid",
       "raider": false,
@@ -186,14 +194,6 @@
       "nivel": 61,
       "max": 150,
       "pct": 12
-    },
-    {
-      "personaje": "Nindalf Pizpireta",
-      "clase": "rogue",
-      "raider": false,
-      "nivel": 55,
-      "max": 75,
-      "pct": 9
     },
     {
       "personaje": "Españoleitor Españoleitor",
@@ -212,12 +212,28 @@
       "pct": 6
     },
     {
+      "personaje": "Mosu Warryn",
+      "clase": "warrior",
+      "raider": false,
+      "nivel": 47,
+      "max": 75,
+      "pct": 9
+    },
+    {
       "personaje": "Takkaao Valengri",
       "clase": "warlock",
       "raider": false,
       "nivel": 44,
       "max": 75,
       "pct": 9
+    },
+    {
+      "personaje": "Micro Bolas",
+      "clase": "warlock",
+      "raider": false,
+      "nivel": 41,
+      "max": 75,
+      "pct": 6
     },
     {
       "personaje": "Vaporeta Pizpireta",
@@ -234,14 +250,6 @@
       "nivel": 40,
       "max": 75,
       "pct": 12
-    },
-    {
-      "personaje": "Mosu Warryn",
-      "clase": "warrior",
-      "raider": false,
-      "nivel": 38,
-      "max": 75,
-      "pct": 9
     },
     {
       "personaje": "Fran Furion",
@@ -264,14 +272,6 @@
       "clase": "paladin",
       "raider": true,
       "nivel": 20,
-      "max": 75,
-      "pct": 6
-    },
-    {
-      "personaje": "Micro Bolas",
-      "clase": "warlock",
-      "raider": false,
-      "nivel": 16,
       "max": 75,
       "pct": 6
     },
@@ -429,7 +429,8 @@
             20,
             21,
             22,
-            28
+            23,
+            30
           ]
         },
         {
@@ -548,7 +549,7 @@
             0,
             1,
             2,
-            4,
+            3,
             5
           ]
         },
@@ -581,7 +582,8 @@
           "quien": [
             0,
             1,
-            2
+            2,
+            3
           ]
         },
         {
@@ -612,7 +614,9 @@
           },
           "quien": [
             0,
-            1
+            1,
+            2,
+            3
           ]
         },
         {
@@ -1091,7 +1095,7 @@
             ]
           },
           "quien": [
-            2
+            3
           ]
         },
         {
@@ -1132,7 +1136,7 @@
           "quien": [
             1,
             2,
-            4,
+            3,
             5,
             8,
             9,
@@ -1230,10 +1234,10 @@
             25,
             26,
             27,
-            28,
             29,
             30,
-            31
+            31,
+            32
           ]
         },
         {
@@ -1346,7 +1350,7 @@
             3,
             4,
             5,
-            6,
+            7,
             8,
             9,
             10,
@@ -1364,8 +1368,8 @@
             22,
             23,
             26,
+            27,
             28,
-            29,
             30,
             31,
             32,
@@ -1415,7 +1419,7 @@
             3,
             4,
             5,
-            6,
+            7,
             8,
             9,
             10,
@@ -1429,7 +1433,8 @@
             18,
             19,
             20,
-            21
+            21,
+            22
           ]
         },
         {
@@ -1469,7 +1474,7 @@
           "quien": [
             1,
             2,
-            4,
+            3,
             5,
             8,
             9,

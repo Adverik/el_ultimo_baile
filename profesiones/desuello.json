@@ -4,6 +4,14 @@
   "total": 3,
   "artesanos": [
     {
+      "personaje": "Edoras Duskranger",
+      "clase": "hunter",
+      "raider": true,
+      "nivel": 226,
+      "max": 300,
+      "pct": 67
+    },
+    {
       "personaje": "Diana Flechaveloz",
       "clase": "hunter",
       "raider": false,
@@ -12,18 +20,10 @@
       "pct": 33
     },
     {
-      "personaje": "Edoras Duskranger",
-      "clase": "hunter",
-      "raider": true,
-      "nivel": 225,
-      "max": 225,
-      "pct": 67
-    },
-    {
       "personaje": "Palmira Natblida",
       "clase": "rogue",
       "raider": true,
-      "nivel": 213,
+      "nivel": 217,
       "max": 225,
       "pct": 33
     },
@@ -31,7 +31,7 @@
       "personaje": "Memas Tour",
       "clase": "shaman",
       "raider": false,
-      "nivel": 209,
+      "nivel": 214,
       "max": 225,
       "pct": 33
     },
@@ -39,7 +39,7 @@
       "personaje": "Runa Ruina",
       "clase": "shaman",
       "raider": true,
-      "nivel": 187,
+      "nivel": 199,
       "max": 225,
       "pct": 33
     },
@@ -47,7 +47,7 @@
       "personaje": "Manelhon Gargon",
       "clase": "shaman",
       "raider": true,
-      "nivel": 176,
+      "nivel": 178,
       "max": 225,
       "pct": 33
     },
@@ -71,7 +71,7 @@
       "personaje": "Nindalf Pizpireta",
       "clase": "rogue",
       "raider": false,
-      "nivel": 126,
+      "nivel": 131,
       "max": 150,
       "pct": 33
     },
@@ -175,7 +175,7 @@
             "sub": "Otros"
           },
           "quien": [
-            1
+            0
           ]
         },
         {

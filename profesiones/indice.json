@@ -10,7 +10,7 @@
     "slug": "cocina",
     "nombre": "Cocina",
     "ico": "133971",
-    "artesanos": 45,
+    "artesanos": 46,
     "total": 132
   },
   {
@@ -24,7 +24,7 @@
     "slug": "encantamiento",
     "nombre": "Encantamiento",
     "ico": "136244",
-    "artesanos": 8,
+    "artesanos": 9,
     "total": 262
   },
   {
@@ -66,7 +66,7 @@
     "slug": "pesca",
     "nombre": "Pesca",
     "ico": "136245",
-    "artesanos": 32,
+    "artesanos": 33,
     "total": 3
   },
   {
@@ -80,7 +80,7 @@
     "slug": "sastreria",
     "nombre": "Sastrería",
     "ico": "136249",
-    "artesanos": 10,
+    "artesanos": 11,
     "total": 471
   }
 ]

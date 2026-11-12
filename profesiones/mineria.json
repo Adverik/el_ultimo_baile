@@ -12,18 +12,18 @@
       "pct": 53
     },
     {
-      "personaje": "Khyoraku Shunsui",
-      "clase": "warrior",
-      "raider": true,
-      "nivel": 164,
+      "personaje": "Chaca Choochoo",
+      "clase": "druid",
+      "raider": false,
+      "nivel": 172,
       "max": 225,
       "pct": 35
     },
     {
-      "personaje": "Chaca Choochoo",
-      "clase": "druid",
-      "raider": false,
-      "nivel": 163,
+      "personaje": "Khyoraku Shunsui",
+      "clase": "warrior",
+      "raider": true,
+      "nivel": 165,
       "max": 225,
       "pct": 35
     },
@@ -47,9 +47,17 @@
       "personaje": "Flexita Shadowsoul",
       "clase": "hunter",
       "raider": false,
-      "nivel": 132,
+      "nivel": 135,
       "max": 225,
       "pct": 35
+    },
+    {
+      "personaje": "Espartaco Gladiador",
+      "clase": "warrior",
+      "raider": true,
+      "nivel": 134,
+      "max": 150,
+      "pct": 29
     },
     {
       "personaje": "Tharindel Magnaluz",
@@ -58,14 +66,6 @@
       "nivel": 129,
       "max": 225,
       "pct": 35
-    },
-    {
-      "personaje": "Espartaco Gladiador",
-      "clase": "warrior",
-      "raider": true,
-      "nivel": 127,
-      "max": 150,
-      "pct": 29
     },
     {
       "personaje": "Cuzcu Aker",
@@ -79,7 +79,15 @@
       "personaje": "Hugo Forjaluz",
       "clase": "paladin",
       "raider": false,
-      "nivel": 84,
+      "nivel": 99,
+      "max": 150,
+      "pct": 29
+    },
+    {
+      "personaje": "Mosu Warryn",
+      "clase": "warrior",
+      "raider": false,
+      "nivel": 94,
       "max": 150,
       "pct": 29
     },
@@ -90,14 +98,6 @@
       "nivel": 81,
       "max": 150,
       "pct": 29
-    },
-    {
-      "personaje": "Mosu Warryn",
-      "clase": "warrior",
-      "raider": false,
-      "nivel": 77,
-      "max": 150,
-      "pct": 18
     },
     {
       "personaje": "Jonaver Legends",
@@ -147,7 +147,8 @@
             7,
             8,
             9,
-            10
+            10,
+            11
           ]
         },
         {
@@ -190,7 +191,8 @@
             7,
             8,
             9,
-            10
+            10,
+            11
           ]
         },
         {
@@ -251,7 +253,7 @@
             3,
             4,
             5,
-            6
+            7
           ]
         },
         {

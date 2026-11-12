@@ -76,6 +76,14 @@
       "pct": 33
     },
     {
+      "personaje": "Nelv Stardancer",
+      "clase": "druid",
+      "raider": false,
+      "nivel": 110,
+      "max": 150,
+      "pct": 33
+    },
+    {
       "personaje": "Cuzcu Aker",
       "clase": "paladin",
       "raider": true,
@@ -84,10 +92,10 @@
       "pct": 33
     },
     {
-      "personaje": "Nelv Stardancer",
+      "personaje": "Layrela Rondanit",
       "clase": "druid",
-      "raider": false,
-      "nivel": 103,
+      "raider": true,
+      "nivel": 89,
       "max": 150,
       "pct": 33
     },
@@ -96,14 +104,6 @@
       "clase": "hunter",
       "raider": false,
       "nivel": 87,
-      "max": 150,
-      "pct": 33
-    },
-    {
-      "personaje": "Layrela Rondanit",
-      "clase": "druid",
-      "raider": true,
-      "nivel": 77,
       "max": 150,
       "pct": 33
     },
@@ -127,8 +127,8 @@
       "personaje": "Sugar Papy",
       "clase": "druid",
       "raider": false,
-      "nivel": 54,
-      "max": 75,
+      "nivel": 75,
+      "max": 150,
       "pct": 33
     },
     {
@@ -246,6 +246,14 @@
     {
       "personaje": "Micro Bolas",
       "clase": "warlock",
+      "raider": false,
+      "nivel": 1,
+      "max": 75,
+      "pct": 0
+    },
+    {
+      "personaje": "Mosu Warryn",
+      "clase": "warrior",
       "raider": false,
       "nivel": 1,
       "max": 75,

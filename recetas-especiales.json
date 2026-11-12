@@ -780,12 +780,12 @@
       "profesion": "Peletería",
       "personajes": [
         {
-          "n": "Memas Tour",
-          "clase": "shaman"
-        },
-        {
           "n": "Aurelio Amador",
           "clase": "rogue"
+        },
+        {
+          "n": "Memas Tour",
+          "clase": "shaman"
         }
       ]
     },
@@ -835,20 +835,20 @@
           "clase": "hunter"
         },
         {
-          "n": "Palmira Natblida",
+          "n": "Aurelio Amador",
           "clase": "rogue"
-        },
-        {
-          "n": "Edoras Duskranger",
-          "clase": "hunter"
         },
         {
           "n": "Memas Tour",
           "clase": "shaman"
         },
         {
-          "n": "Aurelio Amador",
+          "n": "Palmira Natblida",
           "clase": "rogue"
+        },
+        {
+          "n": "Edoras Duskranger",
+          "clase": "hunter"
         },
         {
           "n": "Manelhon Gargon",
@@ -906,12 +906,12 @@
       "profesion": "Peletería",
       "personajes": [
         {
-          "n": "Palmira Natblida",
-          "clase": "rogue"
-        },
-        {
           "n": "Memas Tour",
           "clase": "shaman"
+        },
+        {
+          "n": "Palmira Natblida",
+          "clase": "rogue"
         },
         {
           "n": "Runa Ruina",
@@ -973,12 +973,68 @@
       "profesion": "Peletería",
       "personajes": [
         {
-          "n": "Edoras Duskranger",
-          "clase": "hunter"
-        },
-        {
           "n": "Aurelio Amador",
           "clase": "rogue"
+        },
+        {
+          "n": "Edoras Duskranger",
+          "clase": "hunter"
+        }
+      ]
+    },
+    {
+      "id": 55165,
+      "n": "Caperuza de cuero de la sabiduría",
+      "q": "rare",
+      "ico": "133135",
+      "reac": [
+        [
+          "Cuero medio",
+          8
+        ],
+        [
+          "Pellejo medio curado",
+          2
+        ],
+        [
+          "Cuero prístino",
+          4
+        ],
+        [
+          "Hilo refinado",
+          2
+        ],
+        [
+          "Perla lustrosa pequeña",
+          4
+        ]
+      ],
+      "obj": {
+        "arm": "76 armadura",
+        "id": 252507,
+        "ilvl": 25,
+        "lig": "Se liga al recogerlo",
+        "n": "Caperuza de cuero de la sabiduría",
+        "q": "rare",
+        "ranura": "Cabeza",
+        "req": 20,
+        "stats": [
+          "+10 aguante",
+          "+6 Daño con hechizos",
+          "+17 Sanación con hechizos"
+        ],
+        "sub": "Cuero",
+        "venta": [
+          "0",
+          "12",
+          "20"
+        ]
+      },
+      "profesion": "Peletería",
+      "personajes": [
+        {
+          "n": "Runa Ruina",
+          "clase": "shaman"
         }
       ]
     },
@@ -1025,6 +1081,10 @@
       },
       "profesion": "Peletería",
       "personajes": [
+        {
+          "n": "Memas Tour",
+          "clase": "shaman"
+        },
         {
           "n": "Palmira Natblida",
           "clase": "rogue"
@@ -1131,6 +1191,10 @@
       "profesion": "Peletería",
       "personajes": [
         {
+          "n": "Memas Tour",
+          "clase": "shaman"
+        },
+        {
           "n": "Palmira Natblida",
           "clase": "rogue"
         }
@@ -1179,6 +1243,10 @@
       },
       "profesion": "Peletería",
       "personajes": [
+        {
+          "n": "Memas Tour",
+          "clase": "shaman"
+        },
         {
           "n": "Palmira Natblida",
           "clase": "rogue"
@@ -1230,6 +1298,10 @@
       "profesion": "Peletería",
       "personajes": [
         {
+          "n": "Memas Tour",
+          "clase": "shaman"
+        },
+        {
           "n": "Palmira Natblida",
           "clase": "rogue"
         }
@@ -1279,6 +1351,10 @@
       "profesion": "Peletería",
       "personajes": [
         {
+          "n": "Memas Tour",
+          "clase": "shaman"
+        },
+        {
           "n": "Palmira Natblida",
           "clase": "rogue"
         }
@@ -1327,6 +1403,10 @@
       },
       "profesion": "Peletería",
       "personajes": [
+        {
+          "n": "Memas Tour",
+          "clase": "shaman"
+        },
         {
           "n": "Palmira Natblida",
           "clase": "rogue"
@@ -1379,6 +1459,14 @@
         {
           "n": "Diana Flechaveloz",
           "clase": "hunter"
+        },
+        {
+          "n": "Aurelio Amador",
+          "clase": "rogue"
+        },
+        {
+          "n": "Memas Tour",
+          "clase": "shaman"
         },
         {
           "n": "Palmira Natblida",
@@ -1549,20 +1637,20 @@
           "clase": "hunter"
         },
         {
-          "n": "Palmira Natblida",
+          "n": "Aurelio Amador",
           "clase": "rogue"
-        },
-        {
-          "n": "Edoras Duskranger",
-          "clase": "hunter"
         },
         {
           "n": "Memas Tour",
           "clase": "shaman"
         },
         {
-          "n": "Aurelio Amador",
+          "n": "Palmira Natblida",
           "clase": "rogue"
+        },
+        {
+          "n": "Edoras Duskranger",
+          "clase": "hunter"
         }
       ]
     },
@@ -1719,6 +1807,53 @@
       ]
     },
     {
+      "id": 55153,
+      "n": "Yelmo de cuero de trampero",
+      "q": "rare",
+      "ico": "133134",
+      "reac": [
+        [
+          "Cuero medio",
+          12
+        ],
+        [
+          "Pellejo medio curado",
+          2
+        ],
+        [
+          "Escama desviada",
+          3
+        ]
+      ],
+      "obj": {
+        "arm": "84 armadura",
+        "id": 252513,
+        "ilvl": 30,
+        "lig": "Se liga al recogerlo",
+        "n": "Yelmo de cuero de trampero",
+        "q": "rare",
+        "ranura": "Cabeza",
+        "req": 25,
+        "stats": [
+          "+10 intelecto",
+          "+13 aguante"
+        ],
+        "sub": "Cuero",
+        "venta": [
+          "0",
+          "20",
+          "63"
+        ]
+      },
+      "profesion": "Peletería",
+      "personajes": [
+        {
+          "n": "Memas Tour",
+          "clase": "shaman"
+        }
+      ]
+    },
+    {
       "id": 55207,
       "n": "Zapatillas de cría negra",
       "q": "rare",
@@ -1761,12 +1896,12 @@
       "profesion": "Peletería",
       "personajes": [
         {
-          "n": "Palmira Natblida",
-          "clase": "rogue"
-        },
-        {
           "n": "Memas Tour",
           "clase": "shaman"
+        },
+        {
+          "n": "Palmira Natblida",
+          "clase": "rogue"
         },
         {
           "n": "Runa Ruina",
@@ -1820,12 +1955,12 @@
       "profesion": "Peletería",
       "personajes": [
         {
-          "n": "Palmira Natblida",
-          "clase": "rogue"
-        },
-        {
           "n": "Memas Tour",
           "clase": "shaman"
+        },
+        {
+          "n": "Palmira Natblida",
+          "clase": "rogue"
         },
         {
           "n": "Runa Ruina",
@@ -2110,12 +2245,20 @@
           "clase": "mage"
         },
         {
+          "n": "Kadeharz Apsus",
+          "clase": "mage"
+        },
+        {
           "n": "Saint Peligroxa",
           "clase": "priest"
         },
         {
           "n": "Micro Bolas",
           "clase": "warlock"
+        },
+        {
+          "n": "Vaporeta Pizpireta",
+          "clase": "mage"
         },
         {
           "n": "Thundrik Volgrim",
@@ -2183,8 +2326,16 @@
           "clase": "priest"
         },
         {
+          "n": "Kadeharz Apsus",
+          "clase": "mage"
+        },
+        {
           "n": "Saint Peligroxa",
           "clase": "priest"
+        },
+        {
+          "n": "Vaporeta Pizpireta",
+          "clase": "mage"
         },
         {
           "n": "Thundrik Volgrim",
