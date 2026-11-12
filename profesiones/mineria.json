@@ -12,10 +12,10 @@
       "pct": 53
     },
     {
-      "personaje": "Coloso Tempestad",
+      "personaje": "Khyoraku Shunsui",
       "clase": "warrior",
-      "raider": false,
-      "nivel": 159,
+      "raider": true,
+      "nivel": 164,
       "max": 225,
       "pct": 35
     },
@@ -23,15 +23,15 @@
       "personaje": "Chaca Choochoo",
       "clase": "druid",
       "raider": false,
-      "nivel": 158,
+      "nivel": 163,
       "max": 225,
       "pct": 35
     },
     {
-      "personaje": "Khyoraku Shunsui",
+      "personaje": "Coloso Tempestad",
       "clase": "warrior",
-      "raider": true,
-      "nivel": 153,
+      "raider": false,
+      "nivel": 160,
       "max": 225,
       "pct": 35
     },
@@ -39,7 +39,7 @@
       "personaje": "La Pety",
       "clase": "rogue",
       "raider": false,
-      "nivel": 144,
+      "nivel": 158,
       "max": 225,
       "pct": 35
     },
@@ -63,7 +63,7 @@
       "personaje": "Espartaco Gladiador",
       "clase": "warrior",
       "raider": true,
-      "nivel": 124,
+      "nivel": 127,
       "max": 150,
       "pct": 29
     },
@@ -79,7 +79,7 @@
       "personaje": "Hugo Forjaluz",
       "clase": "paladin",
       "raider": false,
-      "nivel": 83,
+      "nivel": 84,
       "max": 150,
       "pct": 29
     },

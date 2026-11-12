@@ -28,10 +28,18 @@
       "pct": 33
     },
     {
+      "personaje": "Memas Tour",
+      "clase": "shaman",
+      "raider": false,
+      "nivel": 209,
+      "max": 225,
+      "pct": 33
+    },
+    {
       "personaje": "Runa Ruina",
       "clase": "shaman",
       "raider": true,
-      "nivel": 186,
+      "nivel": 187,
       "max": 225,
       "pct": 33
     },
@@ -47,15 +55,7 @@
       "personaje": "Ildaren Belisar",
       "clase": "rogue",
       "raider": false,
-      "nivel": 157,
-      "max": 225,
-      "pct": 33
-    },
-    {
-      "personaje": "Memas Tour",
-      "clase": "shaman",
-      "raider": false,
-      "nivel": 153,
+      "nivel": 160,
       "max": 225,
       "pct": 33
     },
@@ -63,7 +63,7 @@
       "personaje": "Aurelio Amador",
       "clase": "rogue",
       "raider": false,
-      "nivel": 150,
+      "nivel": 156,
       "max": 225,
       "pct": 33
     },

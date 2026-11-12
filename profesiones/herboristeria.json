@@ -7,7 +7,7 @@
       "personaje": "Dio Hotmetal",
       "clase": "hunter",
       "raider": false,
-      "nivel": 219,
+      "nivel": 230,
       "max": 300,
       "pct": 33
     },
@@ -15,7 +15,7 @@
       "personaje": "Sugar Papy",
       "clase": "druid",
       "raider": false,
-      "nivel": 197,
+      "nivel": 205,
       "max": 225,
       "pct": 33
     },
@@ -23,7 +23,7 @@
       "personaje": "Viilar Terrisia",
       "clase": "druid",
       "raider": false,
-      "nivel": 155,
+      "nivel": 157,
       "max": 225,
       "pct": 33
     },
@@ -55,7 +55,7 @@
       "personaje": "Don Josechu",
       "clase": "warlock",
       "raider": false,
-      "nivel": 127,
+      "nivel": 142,
       "max": 150,
       "pct": 33
     },

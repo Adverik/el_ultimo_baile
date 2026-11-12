@@ -28,6 +28,14 @@
       "pct": 33
     },
     {
+      "personaje": "Finn Felagund",
+      "clase": "priest",
+      "raider": false,
+      "nivel": 160,
+      "max": 225,
+      "pct": 33
+    },
+    {
       "personaje": "Palmira Natblida",
       "clase": "rogue",
       "raider": true,
@@ -39,14 +47,6 @@
       "personaje": "Espartaco Gladiador",
       "clase": "warrior",
       "raider": true,
-      "nivel": 146,
-      "max": 225,
-      "pct": 33
-    },
-    {
-      "personaje": "Finn Felagund",
-      "clase": "priest",
-      "raider": false,
       "nivel": 146,
       "max": 225,
       "pct": 33

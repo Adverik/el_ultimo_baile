@@ -15,9 +15,9 @@
       "personaje": "Finn Felagund",
       "clase": "priest",
       "raider": false,
-      "nivel": 145,
+      "nivel": 150,
       "max": 150,
-      "pct": 12
+      "pct": 15
     },
     {
       "personaje": "Nimassus Pater",
@@ -249,7 +249,9 @@
             ]
           ],
           "desc": "Encanta de forma permanente un brazal para que aumente el intelecto del portador en 3 p.",
-          "quien": []
+          "quien": [
+            1
+          ]
         },
         {
           "id": 7507,
@@ -815,7 +817,8 @@
           ],
           "desc": "Encanta una armadura de torso para obtener un 5% de probabilidad por golpe de conseguir 25 p. de daño amortiguados. Solo puede suceder una vez cada 5 s.",
           "quien": [
-            0
+            0,
+            1
           ]
         },
         {
@@ -831,7 +834,8 @@
           ],
           "desc": "Encanta de forma permanente una armadura de torso para que aumente 4 p. el intelecto del portador.",
           "quien": [
-            0
+            0,
+            1
           ]
         },
         {
@@ -854,7 +858,9 @@
             ]
           ],
           "desc": "Encanta de forma permanente una pieza de armadura de torso para que proporcione +1 p. a todas las estadísticas.",
-          "quien": []
+          "quien": [
+            1
+          ]
         },
         {
           "id": 7506,
@@ -1161,7 +1167,9 @@
               "0"
             ]
           },
-          "quien": []
+          "quien": [
+            1
+          ]
         },
         {
           "id": 7533,
@@ -1367,7 +1375,9 @@
             ]
           ],
           "desc": "Encanta de forma permanente una capa para que aumente la resistencia a las Sombras en 10 p.",
-          "quien": []
+          "quien": [
+            0
+          ]
         },
         {
           "id": 7504,
@@ -1696,7 +1706,8 @@
           ],
           "desc": "Encanta de forma permanente un arma cuerpo a cuerpo para que cause 2 p. extra de daño.",
           "quien": [
-            0
+            0,
+            1
           ]
         },
         {
@@ -2274,7 +2285,8 @@
           ],
           "desc": "Encanta de forma permanente un arma cuerpo a cuerpo de dos manos para que cause 5 p. extra de daño.",
           "quien": [
-            0
+            0,
+            1
           ]
         },
         {

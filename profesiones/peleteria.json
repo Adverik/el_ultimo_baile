@@ -31,7 +31,7 @@
       "personaje": "Memas Tour",
       "clase": "shaman",
       "raider": false,
-      "nivel": 133,
+      "nivel": 135,
       "max": 225,
       "pct": 9
     },
@@ -39,9 +39,9 @@
       "personaje": "Aurelio Amador",
       "clase": "rogue",
       "raider": false,
-      "nivel": 109,
+      "nivel": 130,
       "max": 150,
-      "pct": 4
+      "pct": 5
     },
     {
       "personaje": "Manelhon Gargon",
@@ -63,7 +63,7 @@
       "personaje": "Ildaren Belisar",
       "clase": "rogue",
       "raider": false,
-      "nivel": 86,
+      "nivel": 89,
       "max": 150,
       "pct": 5
     },
@@ -4321,7 +4321,8 @@
             0,
             1,
             2,
-            3
+            3,
+            4
           ]
         },
         {
@@ -8169,7 +8170,8 @@
             0,
             1,
             2,
-            3
+            3,
+            4
           ]
         },
         {
@@ -10601,7 +10603,8 @@
             0,
             1,
             2,
-            3
+            3,
+            4
           ]
         },
         {
@@ -10722,7 +10725,8 @@
             0,
             1,
             2,
-            3
+            3,
+            4
           ]
         },
         {
@@ -10918,6 +10922,7 @@
             1,
             2,
             3,
+            4,
             5
           ]
         },
