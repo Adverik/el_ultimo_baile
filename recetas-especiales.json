@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-12",
+  "actualizado": "2026-11-13",
   "recetas": [
     {
       "id": 54692,
@@ -55,12 +55,12 @@
           "clase": "warrior"
         },
         {
-          "n": "Tharindel Magnaluz",
-          "clase": "paladin"
-        },
-        {
           "n": "Coloso Tempestad",
           "clase": "warrior"
+        },
+        {
+          "n": "Tharindel Magnaluz",
+          "clase": "paladin"
         },
         {
           "n": "Espartaco Gladiador",
@@ -130,12 +130,12 @@
           "clase": "warrior"
         },
         {
-          "n": "Tharindel Magnaluz",
-          "clase": "paladin"
-        },
-        {
           "n": "Coloso Tempestad",
           "clase": "warrior"
+        },
+        {
+          "n": "Tharindel Magnaluz",
+          "clase": "paladin"
         },
         {
           "n": "Hugo Forjaluz",
@@ -198,12 +198,12 @@
           "clase": "warrior"
         },
         {
-          "n": "Tharindel Magnaluz",
-          "clase": "paladin"
-        },
-        {
           "n": "Coloso Tempestad",
           "clase": "warrior"
+        },
+        {
+          "n": "Tharindel Magnaluz",
+          "clase": "paladin"
         },
         {
           "n": "Hugo Forjaluz",
@@ -473,12 +473,12 @@
           "clase": "warrior"
         },
         {
-          "n": "Tharindel Magnaluz",
-          "clase": "paladin"
-        },
-        {
           "n": "Coloso Tempestad",
           "clase": "warrior"
+        },
+        {
+          "n": "Tharindel Magnaluz",
+          "clase": "paladin"
         }
       ]
     },
@@ -839,12 +839,12 @@
           "clase": "rogue"
         },
         {
-          "n": "Memas Tour",
-          "clase": "shaman"
-        },
-        {
           "n": "Palmira Natblida",
           "clase": "rogue"
+        },
+        {
+          "n": "Memas Tour",
+          "clase": "shaman"
         },
         {
           "n": "Edoras Duskranger",
@@ -906,12 +906,12 @@
       "profesion": "Peletería",
       "personajes": [
         {
-          "n": "Memas Tour",
-          "clase": "shaman"
-        },
-        {
           "n": "Palmira Natblida",
           "clase": "rogue"
+        },
+        {
+          "n": "Memas Tour",
+          "clase": "shaman"
         },
         {
           "n": "Runa Ruina",
@@ -1082,12 +1082,12 @@
       "profesion": "Peletería",
       "personajes": [
         {
-          "n": "Memas Tour",
-          "clase": "shaman"
-        },
-        {
           "n": "Palmira Natblida",
           "clase": "rogue"
+        },
+        {
+          "n": "Memas Tour",
+          "clase": "shaman"
         }
       ]
     },
@@ -1191,12 +1191,12 @@
       "profesion": "Peletería",
       "personajes": [
         {
-          "n": "Memas Tour",
-          "clase": "shaman"
-        },
-        {
           "n": "Palmira Natblida",
           "clase": "rogue"
+        },
+        {
+          "n": "Memas Tour",
+          "clase": "shaman"
         }
       ]
     },
@@ -1244,12 +1244,12 @@
       "profesion": "Peletería",
       "personajes": [
         {
-          "n": "Memas Tour",
-          "clase": "shaman"
-        },
-        {
           "n": "Palmira Natblida",
           "clase": "rogue"
+        },
+        {
+          "n": "Memas Tour",
+          "clase": "shaman"
         }
       ]
     },
@@ -1298,12 +1298,12 @@
       "profesion": "Peletería",
       "personajes": [
         {
-          "n": "Memas Tour",
-          "clase": "shaman"
-        },
-        {
           "n": "Palmira Natblida",
           "clase": "rogue"
+        },
+        {
+          "n": "Memas Tour",
+          "clase": "shaman"
         }
       ]
     },
@@ -1351,12 +1351,12 @@
       "profesion": "Peletería",
       "personajes": [
         {
-          "n": "Memas Tour",
-          "clase": "shaman"
-        },
-        {
           "n": "Palmira Natblida",
           "clase": "rogue"
+        },
+        {
+          "n": "Memas Tour",
+          "clase": "shaman"
         }
       ]
     },
@@ -1404,12 +1404,12 @@
       "profesion": "Peletería",
       "personajes": [
         {
-          "n": "Memas Tour",
-          "clase": "shaman"
-        },
-        {
           "n": "Palmira Natblida",
           "clase": "rogue"
+        },
+        {
+          "n": "Memas Tour",
+          "clase": "shaman"
         }
       ]
     },
@@ -1465,12 +1465,12 @@
           "clase": "rogue"
         },
         {
-          "n": "Memas Tour",
-          "clase": "shaman"
-        },
-        {
           "n": "Palmira Natblida",
           "clase": "rogue"
+        },
+        {
+          "n": "Memas Tour",
+          "clase": "shaman"
         }
       ]
     },
@@ -1641,16 +1641,20 @@
           "clase": "rogue"
         },
         {
-          "n": "Memas Tour",
-          "clase": "shaman"
-        },
-        {
           "n": "Palmira Natblida",
           "clase": "rogue"
         },
         {
+          "n": "Memas Tour",
+          "clase": "shaman"
+        },
+        {
           "n": "Edoras Duskranger",
           "clase": "hunter"
+        },
+        {
+          "n": "Manelhon Gargon",
+          "clase": "shaman"
         }
       ]
     },
@@ -1896,12 +1900,12 @@
       "profesion": "Peletería",
       "personajes": [
         {
-          "n": "Memas Tour",
-          "clase": "shaman"
-        },
-        {
           "n": "Palmira Natblida",
           "clase": "rogue"
+        },
+        {
+          "n": "Memas Tour",
+          "clase": "shaman"
         },
         {
           "n": "Runa Ruina",
@@ -1955,12 +1959,12 @@
       "profesion": "Peletería",
       "personajes": [
         {
-          "n": "Memas Tour",
-          "clase": "shaman"
-        },
-        {
           "n": "Palmira Natblida",
           "clase": "rogue"
+        },
+        {
+          "n": "Memas Tour",
+          "clase": "shaman"
         },
         {
           "n": "Runa Ruina",
@@ -2029,6 +2033,65 @@
         {
           "n": "Nimassus Pater",
           "clase": "priest"
+        }
+      ]
+    },
+    {
+      "id": 55458,
+      "n": "Diadema de las Sombras",
+      "q": "rare",
+      "ico": "132767",
+      "reac": [
+        [
+          "Madeja de paño de seda",
+          10
+        ],
+        [
+          "Hilo de seda",
+          2
+        ],
+        [
+          "Tinte cerúleo",
+          4
+        ],
+        [
+          "Gema de las Sombras",
+          4
+        ],
+        [
+          "Lingote de plata",
+          1
+        ],
+        [
+          "Esencia astral superior",
+          2
+        ]
+      ],
+      "obj": {
+        "arm": "35 armadura",
+        "id": 253955,
+        "ilvl": 25,
+        "lig": "Se liga al recogerlo",
+        "n": "Diadema de las Sombras",
+        "q": "rare",
+        "ranura": "Cabeza",
+        "req": 20,
+        "stats": [
+          "+10 aguante",
+          "+11 Daño de las Sombras"
+        ],
+        "sub": "Tela",
+        "venta": [
+          "0",
+          "9",
+          "70"
+        ]
+      },
+      "profesion": "Sastrería",
+      "personajes": [
+        {
+          "n": "Micro Bolas",
+          "clase": "warlock"
         }
       ]
     },
@@ -2245,16 +2308,16 @@
           "clase": "mage"
         },
         {
+          "n": "Micro Bolas",
+          "clase": "warlock"
+        },
+        {
           "n": "Kadeharz Apsus",
           "clase": "mage"
         },
         {
           "n": "Saint Peligroxa",
           "clase": "priest"
-        },
-        {
-          "n": "Micro Bolas",
-          "clase": "warlock"
         },
         {
           "n": "Vaporeta Pizpireta",
@@ -2390,6 +2453,10 @@
       },
       "profesion": "Sastrería",
       "personajes": [
+        {
+          "n": "Finn Felagund",
+          "clase": "priest"
+        },
         {
           "n": "Dum Bo",
           "clase": "mage"

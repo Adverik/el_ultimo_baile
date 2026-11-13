@@ -20,20 +20,20 @@
       "pct": 12
     },
     {
+      "personaje": "Coloso Tempestad",
+      "clase": "warrior",
+      "raider": false,
+      "nivel": 130,
+      "max": 150,
+      "pct": 12
+    },
+    {
       "personaje": "Tharindel Magnaluz",
       "clase": "paladin",
       "raider": false,
       "nivel": 128,
       "max": 150,
       "pct": 11
-    },
-    {
-      "personaje": "Coloso Tempestad",
-      "clase": "warrior",
-      "raider": false,
-      "nivel": 125,
-      "max": 150,
-      "pct": 12
     },
     {
       "personaje": "Espartaco Gladiador",
@@ -63,9 +63,9 @@
       "personaje": "Españoleitor Españoleitor",
       "clase": "warrior",
       "raider": false,
-      "nivel": 53,
-      "max": 75,
-      "pct": 5
+      "nivel": 65,
+      "max": 150,
+      "pct": 6
     }
   ],
   "categorias": [
@@ -742,7 +742,7 @@
             ]
           },
           "quien": [
-            3
+            2
           ]
         },
         {
@@ -2234,7 +2234,8 @@
             3,
             4,
             5,
-            6
+            6,
+            7
           ]
         },
         {
@@ -2577,7 +2578,7 @@
             ]
           },
           "quien": [
-            3
+            2
           ]
         },
         {
@@ -2943,7 +2944,7 @@
             ]
           },
           "quien": [
-            2,
+            3,
             4
           ]
         },
@@ -4068,7 +4069,7 @@
             ]
           },
           "quien": [
-            3
+            2
           ]
         },
         {
@@ -11077,7 +11078,7 @@
             ]
           },
           "quien": [
-            3
+            2
           ]
         },
         {

@@ -7,7 +7,7 @@
       "personaje": "Aalesian Naeuri",
       "clase": "warrior",
       "raider": false,
-      "nivel": 201,
+      "nivel": 202,
       "max": 300,
       "pct": 53
     },
@@ -15,7 +15,15 @@
       "personaje": "Chaca Choochoo",
       "clase": "druid",
       "raider": false,
-      "nivel": 172,
+      "nivel": 179,
+      "max": 225,
+      "pct": 35
+    },
+    {
+      "personaje": "Coloso Tempestad",
+      "clase": "warrior",
+      "raider": false,
+      "nivel": 176,
       "max": 225,
       "pct": 35
     },
@@ -24,14 +32,6 @@
       "clase": "warrior",
       "raider": true,
       "nivel": 165,
-      "max": 225,
-      "pct": 35
-    },
-    {
-      "personaje": "Coloso Tempestad",
-      "clase": "warrior",
-      "raider": false,
-      "nivel": 160,
       "max": 225,
       "pct": 35
     },
@@ -95,7 +95,7 @@
       "personaje": "Españoleitor Españoleitor",
       "clase": "warrior",
       "raider": false,
-      "nivel": 81,
+      "nivel": 84,
       "max": 150,
       "pct": 29
     },

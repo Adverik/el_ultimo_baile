@@ -4,20 +4,20 @@
   "total": 32,
   "artesanos": [
     {
+      "personaje": "Aalesian Naeuri",
+      "clase": "warrior",
+      "raider": false,
+      "nivel": 242,
+      "max": 300,
+      "pct": 44
+    },
+    {
       "personaje": "La Pety",
       "clase": "rogue",
       "raider": false,
       "nivel": 240,
       "max": 300,
       "pct": 31
-    },
-    {
-      "personaje": "Aalesian Naeuri",
-      "clase": "warrior",
-      "raider": false,
-      "nivel": 239,
-      "max": 300,
-      "pct": 44
     },
     {
       "personaje": "Coloso Tempestad",
@@ -34,6 +34,14 @@
       "nivel": 211,
       "max": 225,
       "pct": 47
+    },
+    {
+      "personaje": "Palmira Natblida",
+      "clase": "rogue",
+      "raider": true,
+      "nivel": 199,
+      "max": 225,
+      "pct": 41
     },
     {
       "personaje": "Chaca Choochoo",
@@ -60,14 +68,6 @@
       "pct": 16
     },
     {
-      "personaje": "Palmira Natblida",
-      "clase": "rogue",
-      "raider": true,
-      "nivel": 150,
-      "max": 225,
-      "pct": 22
-    },
-    {
       "personaje": "Genethika Brisaveloz",
       "clase": "hunter",
       "raider": false,
@@ -79,9 +79,17 @@
       "personaje": "Layrela Rondanit",
       "clase": "druid",
       "raider": true,
-      "nivel": 142,
+      "nivel": 146,
       "max": 150,
       "pct": 34
+    },
+    {
+      "personaje": "Ildaren Belisar",
+      "clase": "rogue",
+      "raider": false,
+      "nivel": 141,
+      "max": 150,
+      "pct": 31
     },
     {
       "personaje": "Viilar Terrisia",
@@ -97,15 +105,7 @@
       "raider": true,
       "nivel": 133,
       "max": 150,
-      "pct": 34
-    },
-    {
-      "personaje": "Ildaren Belisar",
-      "clase": "rogue",
-      "raider": false,
-      "nivel": 128,
-      "max": 150,
-      "pct": 31
+      "pct": 38
     },
     {
       "personaje": "Nelv Stardancer",
@@ -113,7 +113,7 @@
       "raider": false,
       "nivel": 115,
       "max": 150,
-      "pct": 25
+      "pct": 31
     },
     {
       "personaje": "Dio Hotmetal",
@@ -199,15 +199,15 @@
       "personaje": "Españoleitor Españoleitor",
       "clase": "warrior",
       "raider": false,
-      "nivel": 54,
-      "max": 75,
-      "pct": 3
+      "nivel": 59,
+      "max": 150,
+      "pct": 16
     },
     {
       "personaje": "Fitipaldi Sendaumbria",
       "clase": "rogue",
       "raider": true,
-      "nivel": 51,
+      "nivel": 57,
       "max": 75,
       "pct": 6
     },
@@ -215,9 +215,17 @@
       "personaje": "Mosu Warryn",
       "clase": "warrior",
       "raider": false,
-      "nivel": 47,
+      "nivel": 51,
       "max": 75,
-      "pct": 9
+      "pct": 12
+    },
+    {
+      "personaje": "Micro Bolas",
+      "clase": "warlock",
+      "raider": false,
+      "nivel": 50,
+      "max": 150,
+      "pct": 12
     },
     {
       "personaje": "Takkaao Valengri",
@@ -226,14 +234,6 @@
       "nivel": 44,
       "max": 75,
       "pct": 9
-    },
-    {
-      "personaje": "Micro Bolas",
-      "clase": "warlock",
-      "raider": false,
-      "nivel": 41,
-      "max": 75,
-      "pct": 6
     },
     {
       "personaje": "Vaporeta Pizpireta",
@@ -430,6 +430,9 @@
             21,
             22,
             23,
+            24,
+            26,
+            27,
             30
           ]
         },
@@ -517,7 +520,8 @@
             9,
             10,
             11,
-            12
+            12,
+            13
           ]
         },
         {
@@ -550,7 +554,8 @@
             1,
             2,
             3,
-            5
+            4,
+            6
           ]
         },
         {
@@ -583,7 +588,8 @@
             0,
             1,
             2,
-            3
+            3,
+            4
           ]
         },
         {
@@ -797,11 +803,12 @@
             ]
           },
           "quien": [
-            1,
+            0,
             2,
             3,
             4,
             5,
+            6,
             8,
             9,
             10,
@@ -840,7 +847,7 @@
             ]
           },
           "quien": [
-            11
+            12
           ]
         },
         {
@@ -975,13 +982,15 @@
             ]
           },
           "quien": [
-            1,
+            0,
             2,
             3,
             4,
             5,
+            6,
             8,
             9,
+            10,
             12
           ]
         },
@@ -1134,10 +1143,11 @@
             ]
           },
           "quien": [
-            1,
+            0,
             2,
             3,
-            5,
+            4,
+            6,
             8,
             9,
             10,
@@ -1231,9 +1241,11 @@
             21,
             22,
             23,
+            24,
             25,
             26,
             27,
+            28,
             29,
             30,
             31,
@@ -1350,7 +1362,7 @@
             3,
             4,
             5,
-            7,
+            6,
             8,
             9,
             10,
@@ -1367,6 +1379,7 @@
             21,
             22,
             23,
+            24,
             26,
             27,
             28,
@@ -1419,7 +1432,7 @@
             3,
             4,
             5,
-            7,
+            6,
             8,
             9,
             10,
@@ -1434,7 +1447,8 @@
             19,
             20,
             21,
-            22
+            22,
+            24
           ]
         },
         {
@@ -1472,14 +1486,16 @@
             ]
           },
           "quien": [
-            1,
+            0,
             2,
             3,
-            5,
+            4,
+            6,
             8,
             9,
-            10,
-            11
+            11,
+            12,
+            13
           ]
         },
         {

@@ -15,7 +15,7 @@
       "personaje": "Sugar Papy",
       "clase": "druid",
       "raider": false,
-      "nivel": 216,
+      "nivel": 229,
       "max": 300,
       "pct": 33
     },
@@ -36,18 +36,18 @@
       "pct": 33
     },
     {
+      "personaje": "Fran Furion",
+      "clase": "druid",
+      "raider": true,
+      "nivel": 153,
+      "max": 225,
+      "pct": 33
+    },
+    {
       "personaje": "Nelv Stardancer",
       "clase": "druid",
       "raider": false,
       "nivel": 150,
-      "max": 150,
-      "pct": 33
-    },
-    {
-      "personaje": "Fran Furion",
-      "clase": "druid",
-      "raider": true,
-      "nivel": 147,
       "max": 225,
       "pct": 33
     },
@@ -63,7 +63,7 @@
       "personaje": "Genethika Brisaveloz",
       "clase": "hunter",
       "raider": false,
-      "nivel": 116,
+      "nivel": 121,
       "max": 150,
       "pct": 33
     },
@@ -79,7 +79,7 @@
       "personaje": "Aynita Again",
       "clase": "hunter",
       "raider": false,
-      "nivel": 31,
+      "nivel": 35,
       "max": 75,
       "pct": 33
     },
