@@ -8,7 +8,7 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 202,
+          "nivel": 207,
           "max": 300
         },
         {
@@ -175,13 +175,13 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 176,
+          "nivel": 184,
           "max": 225
         },
         {
           "nombre": "Herrería",
-          "nivel": 130,
-          "max": 150
+          "nivel": 168,
+          "max": 225
         },
         {
           "nombre": "Cocina",
@@ -195,7 +195,7 @@
         },
         {
           "nombre": "Primeros auxilios",
-          "nivel": 225,
+          "nivel": 227,
           "max": 300
         }
       ]
@@ -249,7 +249,7 @@
         },
         {
           "nombre": "Cocina",
-          "nivel": 192,
+          "nivel": 205,
           "max": 225
         },
         {
@@ -276,7 +276,7 @@
         },
         {
           "nombre": "Herboristería",
-          "nivel": 240,
+          "nivel": 242,
           "max": 300
         },
         {
@@ -475,7 +475,7 @@
       "profesiones": [
         {
           "nombre": "Sastrería",
-          "nivel": 155,
+          "nivel": 162,
           "max": 225
         },
         {
@@ -647,12 +647,12 @@
       "profesiones": [
         {
           "nombre": "Peletería",
-          "nivel": 90,
+          "nivel": 92,
           "max": 150
         },
         {
           "nombre": "Desuello",
-          "nivel": 163,
+          "nivel": 167,
           "max": 225
         },
         {
@@ -667,7 +667,7 @@
         },
         {
           "nombre": "Primeros auxilios",
-          "nivel": 141,
+          "nivel": 142,
           "max": 150
         }
       ]
@@ -760,17 +760,17 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 158,
+          "nivel": 168,
           "max": 225
         },
         {
           "nombre": "Ingeniería",
-          "nivel": 137,
+          "nivel": 153,
           "max": 225
         },
         {
           "nombre": "Cocina",
-          "nivel": 197,
+          "nivel": 201,
           "max": 225
         },
         {
@@ -861,7 +861,7 @@
         },
         {
           "nombre": "Desuello",
-          "nivel": 214,
+          "nivel": 215,
           "max": 225
         },
         {
@@ -1156,7 +1156,7 @@
       "profesiones": [
         {
           "nombre": "Desuello",
-          "nivel": 1,
+          "nivel": 13,
           "max": 75
         },
         {
@@ -2121,6 +2121,16 @@
       ]
     },
     {
+      "nombre": "Briny Seafood Stew",
+      "profesion": "Cocina",
+      "calidad": "common",
+      "personajes": [
+        "Aalesian Naeuri",
+        "Finn Felagund",
+        "La Pety"
+      ]
+    },
+    {
       "nombre": "Bristle Whisker Catfish",
       "profesion": "Cocina",
       "calidad": "common",
@@ -2955,6 +2965,14 @@
       ]
     },
     {
+      "nombre": "Tender Wolf Steak",
+      "profesion": "Cocina",
+      "calidad": "common",
+      "personajes": [
+        "Aalesian Naeuri"
+      ]
+    },
+    {
       "nombre": "Thistle Tea",
       "profesion": "Cocina",
       "calidad": "common",
@@ -2970,6 +2988,14 @@
       "calidad": "common",
       "personajes": [
         "Sugar Papy"
+      ]
+    },
+    {
+      "nombre": "Undermine Clam Chowder",
+      "profesion": "Cocina",
+      "calidad": "common",
+      "personajes": [
+        "Aalesian Naeuri"
       ]
     },
     {
@@ -4059,6 +4085,14 @@
       ]
     },
     {
+      "nombre": "Glinting Steel Dagger",
+      "profesion": "Herrería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Coloso Tempestad"
+      ]
+    },
+    {
       "nombre": "Glowing Copper Boots",
       "profesion": "Herrería",
       "calidad": "rare",
@@ -4087,7 +4121,8 @@
       "profesion": "Herrería",
       "calidad": "uncommon",
       "personajes": [
-        "Aalesian Naeuri"
+        "Aalesian Naeuri",
+        "Coloso Tempestad"
       ]
     },
     {
@@ -4115,7 +4150,16 @@
       "calidad": "uncommon",
       "personajes": [
         "Aalesian Naeuri",
+        "Coloso Tempestad",
         "Khyoraku Shunsui"
+      ]
+    },
+    {
+      "nombre": "Green Iron Hauberk",
+      "profesion": "Herrería",
+      "calidad": "rare",
+      "personajes": [
+        "Coloso Tempestad"
       ]
     },
     {
@@ -4124,6 +4168,7 @@
       "calidad": "uncommon",
       "personajes": [
         "Aalesian Naeuri",
+        "Coloso Tempestad",
         "Khyoraku Shunsui"
       ]
     },
@@ -4133,6 +4178,7 @@
       "calidad": "uncommon",
       "personajes": [
         "Aalesian Naeuri",
+        "Coloso Tempestad",
         "Khyoraku Shunsui"
       ]
     },
@@ -4254,6 +4300,14 @@
       ]
     },
     {
+      "nombre": "Justicar's Belt",
+      "profesion": "Herrería",
+      "calidad": "rare",
+      "personajes": [
+        "Coloso Tempestad"
+      ]
+    },
+    {
       "nombre": "Mighty Iron Hammer",
       "profesion": "Herrería",
       "calidad": "uncommon",
@@ -4267,6 +4321,7 @@
       "calidad": "rare",
       "personajes": [
         "Aalesian Naeuri",
+        "Coloso Tempestad",
         "Khyoraku Shunsui"
       ]
     },
@@ -4291,6 +4346,14 @@
         "Coloso Tempestad",
         "Khyoraku Shunsui",
         "Tharindel Magnaluz"
+      ]
+    },
+    {
+      "nombre": "Prefect's Belt",
+      "profesion": "Herrería",
+      "calidad": "rare",
+      "personajes": [
+        "Coloso Tempestad"
       ]
     },
     {
@@ -4504,7 +4567,8 @@
       "profesion": "Herrería",
       "calidad": "rare",
       "personajes": [
-        "Aalesian Naeuri"
+        "Aalesian Naeuri",
+        "Coloso Tempestad"
       ]
     },
     {
@@ -4694,6 +4758,14 @@
       ]
     },
     {
+      "nombre": "Warder's Belt",
+      "profesion": "Herrería",
+      "calidad": "rare",
+      "personajes": [
+        "Coloso Tempestad"
+      ]
+    },
+    {
       "nombre": "Aquadynamic Fish Attractor",
       "profesion": "Ingeniería",
       "calidad": "common",
@@ -4738,7 +4810,8 @@
       "calidad": "common",
       "personajes": [
         "Chaca Choochoo",
-        "Cuzcu Aker"
+        "Cuzcu Aker",
+        "La Pety"
       ]
     },
     {
@@ -4856,7 +4929,8 @@
       "profesion": "Ingeniería",
       "calidad": "common",
       "personajes": [
-        "Chaca Choochoo"
+        "Chaca Choochoo",
+        "La Pety"
       ]
     },
     {
@@ -4883,7 +4957,8 @@
       "profesion": "Ingeniería",
       "calidad": "uncommon",
       "personajes": [
-        "Chaca Choochoo"
+        "Chaca Choochoo",
+        "La Pety"
       ]
     },
     {
@@ -5257,7 +5332,8 @@
       "profesion": "Minería",
       "calidad": "uncommon",
       "personajes": [
-        "Aalesian Naeuri"
+        "Aalesian Naeuri",
+        "Coloso Tempestad"
       ]
     },
     {
@@ -5279,7 +5355,8 @@
       "profesion": "Minería",
       "calidad": "common",
       "personajes": [
-        "Aalesian Naeuri"
+        "Aalesian Naeuri",
+        "Coloso Tempestad"
       ]
     },
     {
@@ -5306,7 +5383,8 @@
       "profesion": "Minería",
       "calidad": "common",
       "personajes": [
-        "Aalesian Naeuri"
+        "Aalesian Naeuri",
+        "Coloso Tempestad"
       ]
     },
     {
@@ -5471,6 +5549,7 @@
         "Aurelio Amador",
         "Diana Flechaveloz",
         "Edoras Duskranger",
+        "Ildaren Belisar",
         "Manelhon Gargon",
         "Memas Tour",
         "Palmira Natblida",
@@ -5751,6 +5830,7 @@
       "personajes": [
         "Diana Flechaveloz",
         "Edoras Duskranger",
+        "Ildaren Belisar",
         "Manelhon Gargon",
         "Memas Tour",
         "Palmira Natblida"
@@ -6087,6 +6167,7 @@
         "Aurelio Amador",
         "Diana Flechaveloz",
         "Edoras Duskranger",
+        "Ildaren Belisar",
         "Manelhon Gargon",
         "Memas Tour",
         "Palmira Natblida",
@@ -6691,6 +6772,14 @@
       ]
     },
     {
+      "nombre": "Potent Anti-Venom",
+      "profesion": "Primeros auxilios",
+      "calidad": "common",
+      "personajes": [
+        "Coloso Tempestad"
+      ]
+    },
+    {
       "nombre": "Silk Bandage",
       "profesion": "Primeros auxilios",
       "calidad": "common",
@@ -6984,6 +7073,14 @@
       ]
     },
     {
+      "nombre": "Crimson Silk Pantaloons",
+      "profesion": "Sastrería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Finn Felagund"
+      ]
+    },
+    {
       "nombre": "Double-stitched Woolen Shoulders",
       "profesion": "Sastrería",
       "calidad": "uncommon",
@@ -7137,6 +7234,14 @@
         "Finn Felagund",
         "Saint Peligroxa",
         "Vaporeta Pizpireta"
+      ]
+    },
+    {
+      "nombre": "Green Silken Shoulders",
+      "profesion": "Sastrería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Finn Felagund"
       ]
     },
     {
@@ -7314,6 +7419,14 @@
         "Kadeharz Apsus",
         "Micro Bolas",
         "Nimassus Pater"
+      ]
+    },
+    {
+      "nombre": "Long Silken Cloak",
+      "profesion": "Sastrería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Finn Felagund"
       ]
     },
     {

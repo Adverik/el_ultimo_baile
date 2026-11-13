@@ -7,8 +7,16 @@
       "personaje": "Aalesian Naeuri",
       "clase": "warrior",
       "raider": false,
-      "nivel": 202,
+      "nivel": 207,
       "max": 300,
+      "pct": 53
+    },
+    {
+      "personaje": "Coloso Tempestad",
+      "clase": "warrior",
+      "raider": false,
+      "nivel": 184,
+      "max": 225,
       "pct": 53
     },
     {
@@ -20,10 +28,10 @@
       "pct": 35
     },
     {
-      "personaje": "Coloso Tempestad",
-      "clase": "warrior",
+      "personaje": "La Pety",
+      "clase": "rogue",
       "raider": false,
-      "nivel": 176,
+      "nivel": 168,
       "max": 225,
       "pct": 35
     },
@@ -32,14 +40,6 @@
       "clase": "warrior",
       "raider": true,
       "nivel": 165,
-      "max": 225,
-      "pct": 35
-    },
-    {
-      "personaje": "La Pety",
-      "clase": "rogue",
-      "raider": false,
-      "nivel": 158,
       "max": 225,
       "pct": 35
     },
@@ -219,7 +219,8 @@
             ]
           },
           "quien": [
-            0
+            0,
+            1
           ]
         },
         {
@@ -324,7 +325,8 @@
             ]
           },
           "quien": [
-            0
+            0,
+            1
           ]
         },
         {
@@ -418,7 +420,8 @@
             ]
           },
           "quien": [
-            0
+            0,
+            1
           ]
         },
         {

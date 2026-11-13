@@ -31,7 +31,7 @@
       "personaje": "Memas Tour",
       "clase": "shaman",
       "raider": false,
-      "nivel": 214,
+      "nivel": 215,
       "max": 225,
       "pct": 33
     },
@@ -63,7 +63,7 @@
       "personaje": "Ildaren Belisar",
       "clase": "rogue",
       "raider": false,
-      "nivel": 163,
+      "nivel": 167,
       "max": 225,
       "pct": 33
     },
@@ -95,7 +95,7 @@
       "personaje": "Samael Thallanor",
       "clase": "hunter",
       "raider": false,
-      "nivel": 1,
+      "nivel": 13,
       "max": 75,
       "pct": 0
     }

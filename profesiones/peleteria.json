@@ -63,9 +63,9 @@
       "personaje": "Ildaren Belisar",
       "clase": "rogue",
       "raider": false,
-      "nivel": 90,
+      "nivel": 92,
       "max": 150,
-      "pct": 5
+      "pct": 6
     },
     {
       "personaje": "Filps Pachamamamon",
@@ -259,7 +259,8 @@
             2,
             3,
             4,
-            5
+            5,
+            7
           ]
         },
         {
@@ -10573,7 +10574,8 @@
             3,
             4,
             5,
-            6
+            6,
+            7
           ]
         },
         {
@@ -10700,7 +10702,8 @@
             3,
             4,
             5,
-            6
+            6,
+            7
           ]
         },
         {

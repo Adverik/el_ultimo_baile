@@ -23,9 +23,9 @@
       "personaje": "Coloso Tempestad",
       "clase": "warrior",
       "raider": false,
-      "nivel": 225,
+      "nivel": 227,
       "max": 300,
-      "pct": 44
+      "pct": 47
     },
     {
       "personaje": "Flexita Shadowsoul",
@@ -87,7 +87,7 @@
       "personaje": "Ildaren Belisar",
       "clase": "rogue",
       "raider": false,
-      "nivel": 141,
+      "nivel": 142,
       "max": 150,
       "pct": 31
     },
@@ -1183,7 +1183,9 @@
               "25"
             ]
           },
-          "quien": []
+          "quien": [
+            2
+          ]
         }
       ]
     },

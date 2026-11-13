@@ -51,11 +51,11 @@
           "clase": "warrior"
         },
         {
-          "n": "Khyoraku Shunsui",
+          "n": "Coloso Tempestad",
           "clase": "warrior"
         },
         {
-          "n": "Coloso Tempestad",
+          "n": "Khyoraku Shunsui",
           "clase": "warrior"
         },
         {
@@ -126,11 +126,11 @@
           "clase": "warrior"
         },
         {
-          "n": "Khyoraku Shunsui",
+          "n": "Coloso Tempestad",
           "clase": "warrior"
         },
         {
-          "n": "Coloso Tempestad",
+          "n": "Khyoraku Shunsui",
           "clase": "warrior"
         },
         {
@@ -194,11 +194,11 @@
           "clase": "warrior"
         },
         {
-          "n": "Khyoraku Shunsui",
+          "n": "Coloso Tempestad",
           "clase": "warrior"
         },
         {
-          "n": "Coloso Tempestad",
+          "n": "Khyoraku Shunsui",
           "clase": "warrior"
         },
         {
@@ -211,6 +211,62 @@
         },
         {
           "n": "Españoleitor Españoleitor",
+          "clase": "warrior"
+        }
+      ]
+    },
+    {
+      "id": 2000,
+      "n": "Camisote de hierro verde",
+      "q": "rare",
+      "ico": "132624",
+      "reac": [
+        [
+          "Lingote de hierro",
+          20
+        ],
+        [
+          "Piedra de pulir pesada",
+          4
+        ],
+        [
+          "Jade",
+          2
+        ],
+        [
+          "Ágata musgosa",
+          2
+        ],
+        [
+          "Armadura de cuero verde",
+          1
+        ]
+      ],
+      "obj": {
+        "arm": "238 armadura",
+        "id": 3844,
+        "ilvl": 36,
+        "lig": "Se liga al equiparlo",
+        "n": "Camisote de hierro verde",
+        "q": "rare",
+        "ranura": "Pecho",
+        "req": 31,
+        "stats": [
+          "+7 fuerza",
+          "+11 aguante",
+          "+120 bonus de armadura"
+        ],
+        "sub": "Mallas",
+        "venta": [
+          "0",
+          "56",
+          "58"
+        ]
+      },
+      "profesion": "Herrería",
+      "personajes": [
+        {
+          "n": "Coloso Tempestad",
           "clase": "warrior"
         }
       ]
@@ -312,6 +368,106 @@
         {
           "n": "Aalesian Naeuri",
           "clase": "warrior"
+        },
+        {
+          "n": "Coloso Tempestad",
+          "clase": "warrior"
+        }
+      ]
+    },
+    {
+      "id": 54770,
+      "n": "Cinturón de guardián",
+      "q": "rare",
+      "ico": "132518",
+      "reac": [
+        [
+          "Lingote de hierro",
+          6
+        ],
+        [
+          "Piedra de pulir pesada",
+          2
+        ],
+        [
+          "Perla negra",
+          2
+        ]
+      ],
+      "obj": {
+        "arm": "132 armadura",
+        "id": 250558,
+        "ilvl": 35,
+        "lig": "Se liga al recogerlo",
+        "n": "Cinturón de guardián",
+        "q": "rare",
+        "ranura": "Cintura",
+        "req": 30,
+        "stats": [
+          "+10 aguante",
+          "+7 Defensa",
+          "+7 poder con hechizos"
+        ],
+        "sub": "Mallas",
+        "venta": [
+          "0",
+          "27",
+          "10"
+        ]
+      },
+      "profesion": "Herrería",
+      "personajes": [
+        {
+          "n": "Coloso Tempestad",
+          "clase": "warrior"
+        }
+      ]
+    },
+    {
+      "id": 54772,
+      "n": "Cinturón de justicar",
+      "q": "rare",
+      "ico": "132502",
+      "reac": [
+        [
+          "Lingote de hierro",
+          6
+        ],
+        [
+          "Piedra de pulir pesada",
+          2
+        ],
+        [
+          "Globo de agua",
+          2
+        ]
+      ],
+      "obj": {
+        "arm": "132 armadura",
+        "id": 250560,
+        "ilvl": 35,
+        "lig": "Se liga al recogerlo",
+        "n": "Cinturón de justicar",
+        "q": "rare",
+        "ranura": "Cintura",
+        "req": 30,
+        "stats": [
+          "+6 fuerza",
+          "+7 aguante",
+          "+12 poder con hechizos"
+        ],
+        "sub": "Mallas",
+        "venta": [
+          "0",
+          "27",
+          "29"
+        ]
+      },
+      "profesion": "Herrería",
+      "personajes": [
+        {
+          "n": "Coloso Tempestad",
+          "clase": "warrior"
         }
       ]
     },
@@ -362,7 +518,60 @@
           "clase": "warrior"
         },
         {
+          "n": "Coloso Tempestad",
+          "clase": "warrior"
+        },
+        {
           "n": "Khyoraku Shunsui",
+          "clase": "warrior"
+        }
+      ]
+    },
+    {
+      "id": 54771,
+      "n": "Cinturón de prefecto",
+      "q": "rare",
+      "ico": "132497",
+      "reac": [
+        [
+          "Lingote de hierro",
+          6
+        ],
+        [
+          "Piedra de pulir pesada",
+          2
+        ],
+        [
+          "Perla de oro",
+          2
+        ]
+      ],
+      "obj": {
+        "arm": "132 armadura",
+        "id": 250559,
+        "ilvl": 35,
+        "lig": "Se liga al recogerlo",
+        "n": "Cinturón de prefecto",
+        "q": "rare",
+        "ranura": "Cintura",
+        "req": 30,
+        "stats": [
+          "+7 intelecto",
+          "+6 aguante",
+          "+7 Daño con hechizos",
+          "+22 Sanación con hechizos"
+        ],
+        "sub": "Mallas",
+        "venta": [
+          "0",
+          "27",
+          "19"
+        ]
+      },
+      "profesion": "Herrería",
+      "personajes": [
+        {
+          "n": "Coloso Tempestad",
           "clase": "warrior"
         }
       ]
@@ -469,11 +678,11 @@
           "clase": "warrior"
         },
         {
-          "n": "Khyoraku Shunsui",
+          "n": "Coloso Tempestad",
           "clase": "warrior"
         },
         {
-          "n": "Coloso Tempestad",
+          "n": "Khyoraku Shunsui",
           "clase": "warrior"
         },
         {
