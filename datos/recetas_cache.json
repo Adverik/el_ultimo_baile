@@ -1635,6 +1635,10 @@
     "calidad": "uncommon",
     "objeto": true
   },
+  "10242": {
+    "calidad": "common",
+    "objeto": false
+  },
   "10245": {
     "calidad": "common",
     "objeto": true
@@ -2077,6 +2081,10 @@
   },
   "55471": {
     "calidad": "rare",
+    "objeto": true
+  },
+  "55742": {
+    "calidad": "common",
     "objeto": true
   },
   "55743": {

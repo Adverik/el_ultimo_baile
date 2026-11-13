@@ -15,7 +15,7 @@
       "personaje": "Sugar Papy",
       "clase": "druid",
       "raider": false,
-      "nivel": 231,
+      "nivel": 242,
       "max": 300,
       "pct": 33
     },
@@ -23,7 +23,15 @@
       "personaje": "Layrela Rondanit",
       "clase": "druid",
       "raider": true,
-      "nivel": 188,
+      "nivel": 193,
+      "max": 225,
+      "pct": 33
+    },
+    {
+      "personaje": "Fran Furion",
+      "clase": "druid",
+      "raider": true,
+      "nivel": 169,
       "max": 225,
       "pct": 33
     },
@@ -36,10 +44,10 @@
       "pct": 33
     },
     {
-      "personaje": "Fran Furion",
-      "clase": "druid",
-      "raider": true,
-      "nivel": 154,
+      "personaje": "Don Josechu",
+      "clase": "warlock",
+      "raider": false,
+      "nivel": 151,
       "max": 225,
       "pct": 33
     },
@@ -52,19 +60,19 @@
       "pct": 33
     },
     {
-      "personaje": "Don Josechu",
-      "clase": "warlock",
-      "raider": false,
-      "nivel": 147,
-      "max": 225,
-      "pct": 33
-    },
-    {
       "personaje": "Genethika Brisaveloz",
       "clase": "hunter",
       "raider": false,
       "nivel": 123,
       "max": 150,
+      "pct": 33
+    },
+    {
+      "personaje": "Grimmjow Jaegerjakez",
+      "clase": "druid",
+      "raider": false,
+      "nivel": 71,
+      "max": 75,
       "pct": 33
     },
     {
@@ -148,7 +156,8 @@
             6,
             7,
             8,
-            9
+            9,
+            10
           ]
         },
         {

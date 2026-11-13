@@ -7,7 +7,7 @@
       "personaje": "Edoras Duskranger",
       "clase": "hunter",
       "raider": true,
-      "nivel": 229,
+      "nivel": 240,
       "max": 300,
       "pct": 67
     },
@@ -63,7 +63,15 @@
       "personaje": "Ildaren Belisar",
       "clase": "rogue",
       "raider": false,
-      "nivel": 169,
+      "nivel": 176,
+      "max": 225,
+      "pct": 33
+    },
+    {
+      "personaje": "Tom Kha",
+      "clase": "shaman",
+      "raider": false,
+      "nivel": 160,
       "max": 225,
       "pct": 33
     },
@@ -79,7 +87,7 @@
       "personaje": "Fitipaldi Sendaumbria",
       "clase": "rogue",
       "raider": true,
-      "nivel": 110,
+      "nivel": 119,
       "max": 150,
       "pct": 33
     },
@@ -141,7 +149,8 @@
             7,
             8,
             9,
-            10
+            10,
+            11
           ]
         },
         {

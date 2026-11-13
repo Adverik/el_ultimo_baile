@@ -67,12 +67,16 @@
           "clase": "paladin"
         },
         {
+          "n": "Mosu Warryn",
+          "clase": "warrior"
+        },
+        {
           "n": "Hugo Forjaluz",
           "clase": "paladin"
         },
         {
-          "n": "Mosu Warryn",
-          "clase": "warrior"
+          "n": "Armando Buya",
+          "clase": "paladin"
         },
         {
           "n": "Españoleitor Españoleitor",
@@ -142,6 +146,10 @@
           "clase": "paladin"
         },
         {
+          "n": "Armando Buya",
+          "clase": "paladin"
+        },
+        {
           "n": "Españoleitor Españoleitor",
           "clase": "warrior"
         }
@@ -207,6 +215,10 @@
         },
         {
           "n": "Hugo Forjaluz",
+          "clase": "paladin"
+        },
+        {
+          "n": "Armando Buya",
           "clase": "paladin"
         },
         {
@@ -1070,6 +1082,10 @@
         {
           "n": "Ildaren Belisar",
           "clase": "rogue"
+        },
+        {
+          "n": "Tom Kha",
+          "clase": "shaman"
         }
       ]
     },
@@ -1129,6 +1145,10 @@
         {
           "n": "Ildaren Belisar",
           "clase": "rogue"
+        },
+        {
+          "n": "Tom Kha",
+          "clase": "shaman"
         }
       ]
     },
@@ -1732,6 +1752,10 @@
         {
           "n": "Edoras Duskranger",
           "clase": "hunter"
+        },
+        {
+          "n": "Tom Kha",
+          "clase": "shaman"
         }
       ]
     },
@@ -2123,6 +2147,10 @@
         {
           "n": "Ildaren Belisar",
           "clase": "rogue"
+        },
+        {
+          "n": "Tom Kha",
+          "clase": "shaman"
         }
       ]
     },
@@ -2182,6 +2210,10 @@
         {
           "n": "Ildaren Belisar",
           "clase": "rogue"
+        },
+        {
+          "n": "Tom Kha",
+          "clase": "shaman"
         }
       ]
     },

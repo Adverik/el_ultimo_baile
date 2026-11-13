@@ -8,7 +8,7 @@
       "clase": "mage",
       "raider": false,
       "nivel": 225,
-      "max": 225,
+      "max": 300,
       "pct": 33
     },
     {
@@ -33,6 +33,14 @@
       "raider": false,
       "nivel": 160,
       "max": 225,
+      "pct": 33
+    },
+    {
+      "personaje": "Mosu Warryn",
+      "clase": "warrior",
+      "raider": false,
+      "nivel": 150,
+      "max": 150,
       "pct": 33
     },
     {
@@ -95,7 +103,7 @@
       "personaje": "Sugar Papy",
       "clase": "druid",
       "raider": false,
-      "nivel": 100,
+      "nivel": 102,
       "max": 150,
       "pct": 33
     },
@@ -116,10 +124,10 @@
       "pct": 33
     },
     {
-      "personaje": "Mosu Warryn",
-      "clase": "warrior",
+      "personaje": "Tom Kha",
+      "clase": "shaman",
       "raider": false,
-      "nivel": 75,
+      "nivel": 78,
       "max": 150,
       "pct": 33
     },
@@ -236,6 +244,14 @@
       "pct": 0
     },
     {
+      "personaje": "Grimmjow Jaegerjakez",
+      "clase": "druid",
+      "raider": false,
+      "nivel": 1,
+      "max": 75,
+      "pct": 0
+    },
+    {
       "personaje": "Hugo Forjaluz",
       "clase": "paladin",
       "raider": false,
@@ -320,9 +336,10 @@
             18,
             19,
             20,
-            22,
+            21,
             23,
-            24
+            24,
+            25
           ]
         },
         {
