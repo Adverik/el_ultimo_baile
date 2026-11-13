@@ -7,7 +7,7 @@
       "personaje": "Edoras Duskranger",
       "clase": "hunter",
       "raider": true,
-      "nivel": 226,
+      "nivel": 229,
       "max": 300,
       "pct": 67
     },
@@ -23,7 +23,7 @@
       "personaje": "Palmira Natblida",
       "clase": "rogue",
       "raider": true,
-      "nivel": 222,
+      "nivel": 225,
       "max": 225,
       "pct": 33
     },
@@ -39,7 +39,7 @@
       "personaje": "Runa Ruina",
       "clase": "shaman",
       "raider": true,
-      "nivel": 199,
+      "nivel": 200,
       "max": 225,
       "pct": 33
     },
@@ -47,7 +47,7 @@
       "personaje": "Aurelio Amador",
       "clase": "rogue",
       "raider": false,
-      "nivel": 189,
+      "nivel": 198,
       "max": 225,
       "pct": 33
     },
@@ -63,7 +63,7 @@
       "personaje": "Ildaren Belisar",
       "clase": "rogue",
       "raider": false,
-      "nivel": 167,
+      "nivel": 169,
       "max": 225,
       "pct": 33
     },
@@ -71,7 +71,7 @@
       "personaje": "Nindalf Pizpireta",
       "clase": "rogue",
       "raider": false,
-      "nivel": 131,
+      "nivel": 138,
       "max": 150,
       "pct": 33
     },

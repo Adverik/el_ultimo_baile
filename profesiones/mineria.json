@@ -7,25 +7,25 @@
       "personaje": "Aalesian Naeuri",
       "clase": "warrior",
       "raider": false,
-      "nivel": 207,
+      "nivel": 208,
       "max": 300,
-      "pct": 53
-    },
-    {
-      "personaje": "Coloso Tempestad",
-      "clase": "warrior",
-      "raider": false,
-      "nivel": 184,
-      "max": 225,
       "pct": 53
     },
     {
       "personaje": "Chaca Choochoo",
       "clase": "druid",
       "raider": false,
-      "nivel": 179,
+      "nivel": 190,
       "max": 225,
       "pct": 35
+    },
+    {
+      "personaje": "Coloso Tempestad",
+      "clase": "warrior",
+      "raider": false,
+      "nivel": 189,
+      "max": 225,
+      "pct": 53
     },
     {
       "personaje": "La Pety",
@@ -44,20 +44,20 @@
       "pct": 35
     },
     {
-      "personaje": "Flexita Shadowsoul",
-      "clase": "hunter",
-      "raider": false,
-      "nivel": 135,
+      "personaje": "Espartaco Gladiador",
+      "clase": "warrior",
+      "raider": true,
+      "nivel": 140,
       "max": 225,
       "pct": 35
     },
     {
-      "personaje": "Espartaco Gladiador",
-      "clase": "warrior",
-      "raider": true,
-      "nivel": 134,
-      "max": 150,
-      "pct": 29
+      "personaje": "Flexita Shadowsoul",
+      "clase": "hunter",
+      "raider": false,
+      "nivel": 136,
+      "max": 225,
+      "pct": 35
     },
     {
       "personaje": "Tharindel Magnaluz",
@@ -71,7 +71,7 @@
       "personaje": "Cuzcu Aker",
       "clase": "paladin",
       "raider": true,
-      "nivel": 119,
+      "nivel": 120,
       "max": 150,
       "pct": 29
     },
@@ -95,7 +95,7 @@
       "personaje": "Españoleitor Españoleitor",
       "clase": "warrior",
       "raider": false,
-      "nivel": 84,
+      "nivel": 85,
       "max": 150,
       "pct": 29
     },
@@ -220,7 +220,7 @@
           },
           "quien": [
             0,
-            1
+            2
           ]
         },
         {
@@ -254,6 +254,7 @@
             3,
             4,
             5,
+            6,
             7
           ]
         },
@@ -326,7 +327,7 @@
           },
           "quien": [
             0,
-            1
+            2
           ]
         },
         {
@@ -421,7 +422,7 @@
           },
           "quien": [
             0,
-            1
+            2
           ]
         },
         {

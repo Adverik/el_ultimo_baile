@@ -17,7 +17,7 @@
       "raider": false,
       "nivel": 168,
       "max": 225,
-      "pct": 16
+      "pct": 17
     },
     {
       "personaje": "Kadeharz Apsus",
@@ -47,23 +47,23 @@
       "personaje": "Micro Bolas",
       "clase": "warlock",
       "raider": false,
-      "nivel": 47,
-      "max": 75,
-      "pct": 3
+      "nivel": 101,
+      "max": 150,
+      "pct": 4
     },
     {
       "personaje": "Vaporeta Pizpireta",
       "clase": "mage",
       "raider": true,
-      "nivel": 44,
+      "nivel": 54,
       "max": 75,
-      "pct": 4
+      "pct": 5
     },
     {
       "personaje": "Rhyomen Sukuna",
       "clase": "warlock",
       "raider": false,
-      "nivel": 17,
+      "nivel": 21,
       "max": 75,
       "pct": 2
     },
@@ -144,7 +144,8 @@
             0,
             1,
             2,
-            3
+            3,
+            6
           ]
         },
         {
@@ -1158,7 +1159,8 @@
             1,
             2,
             3,
-            4
+            4,
+            5
           ]
         },
         {
@@ -1312,7 +1314,8 @@
             1,
             2,
             3,
-            4
+            4,
+            6
           ]
         },
         {
@@ -2239,7 +2242,9 @@
           ],
           "cant": 10.0,
           "desc": "Encanta de forma permanente un arma cuerpo a cuerpo para que, a veces, pueda activar Revelación cuando uno de tus hechizos no periódicos no aseste un golpe crítico. Revelación otorgará un 100% más de probabilidad de golpe crítico al siguien",
-          "quien": []
+          "quien": [
+            1
+          ]
         }
       ]
     },
@@ -3654,7 +3659,8 @@
             1,
             2,
             3,
-            4
+            4,
+            5
           ]
         },
         {
@@ -4396,7 +4402,9 @@
               "0"
             ]
           },
-          "quien": []
+          "quien": [
+            1
+          ]
         },
         {
           "id": 13139,
