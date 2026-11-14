@@ -31,7 +31,7 @@
       "personaje": "Fran Furion",
       "clase": "druid",
       "raider": true,
-      "nivel": 180,
+      "nivel": 183,
       "max": 225,
       "pct": 33
     },
@@ -40,14 +40,6 @@
       "clase": "druid",
       "raider": false,
       "nivel": 162,
-      "max": 225,
-      "pct": 33
-    },
-    {
-      "personaje": "Nelv Stardancer",
-      "clase": "druid",
-      "raider": false,
-      "nivel": 155,
       "max": 225,
       "pct": 33
     },
@@ -63,7 +55,7 @@
       "personaje": "Genethika Brisaveloz",
       "clase": "hunter",
       "raider": false,
-      "nivel": 123,
+      "nivel": 126,
       "max": 150,
       "pct": 33
     },
@@ -79,7 +71,7 @@
       "personaje": "Takkaao Valengri",
       "clase": "warlock",
       "raider": false,
-      "nivel": 59,
+      "nivel": 64,
       "max": 75,
       "pct": 33
     },
@@ -95,7 +87,7 @@
       "personaje": "Tanki Llo",
       "clase": "warlock",
       "raider": false,
-      "nivel": 25,
+      "nivel": 27,
       "max": 75,
       "pct": 33
     },
@@ -165,8 +157,7 @@
             7,
             8,
             9,
-            10,
-            11
+            10
           ]
         },
         {

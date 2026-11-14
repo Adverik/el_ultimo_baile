@@ -8,12 +8,12 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 219,
+          "nivel": 227,
           "max": 300
         },
         {
           "nombre": "Herrería",
-          "nivel": 178,
+          "nivel": 183,
           "max": 225
         },
         {
@@ -165,7 +165,7 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 195,
+          "nivel": 216,
           "max": 225
         },
         {
@@ -384,12 +384,12 @@
         },
         {
           "nombre": "Desuello",
-          "nivel": 240,
+          "nivel": 250,
           "max": 300
         },
         {
           "nombre": "Cocina",
-          "nivel": 150,
+          "nivel": 184,
           "max": 225
         },
         {
@@ -411,28 +411,28 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 140,
+          "nivel": 148,
           "max": 225
         },
         {
           "nombre": "Herrería",
-          "nivel": 129,
-          "max": 150
+          "nivel": 155,
+          "max": 225
         },
         {
           "nombre": "Cocina",
-          "nivel": 196,
+          "nivel": 225,
           "max": 225
         },
         {
           "nombre": "Pesca",
-          "nivel": 146,
+          "nivel": 170,
           "max": 225
         },
         {
           "nombre": "Primeros auxilios",
-          "nivel": 150,
-          "max": 150
+          "nivel": 219,
+          "max": 225
         }
       ]
     },
@@ -551,7 +551,7 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 141,
+          "nivel": 149,
           "max": 225
         },
         {
@@ -561,7 +561,7 @@
         },
         {
           "nombre": "Cocina",
-          "nivel": 181,
+          "nivel": 185,
           "max": 225
         },
         {
@@ -588,7 +588,7 @@
         },
         {
           "nombre": "Herboristería",
-          "nivel": 180,
+          "nivel": 183,
           "max": 225
         },
         {
@@ -615,7 +615,7 @@
         },
         {
           "nombre": "Herboristería",
-          "nivel": 123,
+          "nivel": 126,
           "max": 150
         },
         {
@@ -733,7 +733,7 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 70,
+          "nivel": 72,
           "max": 150
         },
         {
@@ -743,7 +743,7 @@
         },
         {
           "nombre": "Cocina",
-          "nivel": 22,
+          "nivel": 26,
           "max": 75
         },
         {
@@ -753,7 +753,7 @@
         },
         {
           "nombre": "Primeros auxilios",
-          "nivel": 61,
+          "nivel": 67,
           "max": 150
         }
       ]
@@ -787,7 +787,7 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 197,
+          "nivel": 199,
           "max": 225
         },
         {
@@ -846,7 +846,7 @@
       "profesiones": [
         {
           "nombre": "Alquimia",
-          "nivel": 169,
+          "nivel": 172,
           "max": 225
         },
         {
@@ -856,7 +856,7 @@
         },
         {
           "nombre": "Cocina",
-          "nivel": 202,
+          "nivel": 209,
           "max": 225
         },
         {
@@ -878,7 +878,7 @@
       "profesiones": [
         {
           "nombre": "Peletería",
-          "nivel": 135,
+          "nivel": 140,
           "max": 150
         },
         {
@@ -974,12 +974,12 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 99,
+          "nivel": 106,
           "max": 150
         },
         {
           "nombre": "Herrería",
-          "nivel": 90,
+          "nivel": 93,
           "max": 150
         },
         {
@@ -995,38 +995,6 @@
         {
           "nombre": "Primeros auxilios",
           "nivel": 80,
-          "max": 150
-        }
-      ]
-    },
-    {
-      "personaje": "Nelv Stardancer",
-      "clase": "druid",
-      "raider": false,
-      "profesiones": [
-        {
-          "nombre": "Alquimia",
-          "nivel": 150,
-          "max": 150
-        },
-        {
-          "nombre": "Herboristería",
-          "nivel": 155,
-          "max": 225
-        },
-        {
-          "nombre": "Cocina",
-          "nivel": 103,
-          "max": 150
-        },
-        {
-          "nombre": "Pesca",
-          "nivel": 110,
-          "max": 150
-        },
-        {
-          "nombre": "Primeros auxilios",
-          "nivel": 115,
           "max": 150
         }
       ]
@@ -1264,12 +1232,12 @@
       "profesiones": [
         {
           "nombre": "Alquimia",
-          "nivel": 33,
+          "nivel": 42,
           "max": 75
         },
         {
           "nombre": "Herboristería",
-          "nivel": 59,
+          "nivel": 64,
           "max": 75
         },
         {
@@ -1279,7 +1247,7 @@
         },
         {
           "nombre": "Primeros auxilios",
-          "nivel": 44,
+          "nivel": 46,
           "max": 75
         }
       ]
@@ -1291,17 +1259,17 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 13,
+          "nivel": 15,
           "max": 75
         },
         {
           "nombre": "Herboristería",
-          "nivel": 25,
+          "nivel": 27,
           "max": 75
         },
         {
           "nombre": "Cocina",
-          "nivel": 2,
+          "nivel": 8,
           "max": 75
         }
       ]
@@ -1473,7 +1441,6 @@
         "Fran Furion",
         "Genethika Brisaveloz",
         "Layrela Rondanit",
-        "Nelv Stardancer",
         "Sugar Papy",
         "Viilar Terrisia"
       ]
@@ -1496,8 +1463,8 @@
         "Fran Furion",
         "Genethika Brisaveloz",
         "Layrela Rondanit",
-        "Nelv Stardancer",
         "Sugar Papy",
+        "Takkaao Valengri",
         "Viilar Terrisia"
       ]
     },
@@ -1519,7 +1486,6 @@
         "Fran Furion",
         "Genethika Brisaveloz",
         "Layrela Rondanit",
-        "Nelv Stardancer",
         "Sugar Papy",
         "Viilar Terrisia"
       ]
@@ -1550,7 +1516,6 @@
         "Don Josechu",
         "Fran Furion",
         "Layrela Rondanit",
-        "Nelv Stardancer",
         "Sugar Papy"
       ]
     },
@@ -1563,7 +1528,6 @@
         "Don Josechu",
         "Fran Furion",
         "Layrela Rondanit",
-        "Nelv Stardancer",
         "Sugar Papy",
         "Viilar Terrisia"
       ]
@@ -1584,7 +1548,6 @@
       "calidad": "common",
       "personajes": [
         "Layrela Rondanit",
-        "Nelv Stardancer",
         "Viilar Terrisia"
       ]
     },
@@ -1598,7 +1561,6 @@
         "Fran Furion",
         "Genethika Brisaveloz",
         "Layrela Rondanit",
-        "Nelv Stardancer",
         "Sugar Papy",
         "Takkaao Valengri",
         "Viilar Terrisia"
@@ -1614,7 +1576,6 @@
         "Fran Furion",
         "Genethika Brisaveloz",
         "Layrela Rondanit",
-        "Nelv Stardancer",
         "Sugar Papy",
         "Takkaao Valengri",
         "Viilar Terrisia"
@@ -1630,7 +1591,6 @@
         "Fran Furion",
         "Genethika Brisaveloz",
         "Layrela Rondanit",
-        "Nelv Stardancer",
         "Sugar Papy",
         "Viilar Terrisia"
       ]
@@ -1645,7 +1605,6 @@
         "Fran Furion",
         "Genethika Brisaveloz",
         "Layrela Rondanit",
-        "Nelv Stardancer",
         "Sugar Papy",
         "Takkaao Valengri",
         "Viilar Terrisia"
@@ -1669,7 +1628,6 @@
         "Fran Furion",
         "Genethika Brisaveloz",
         "Layrela Rondanit",
-        "Nelv Stardancer",
         "Sugar Papy",
         "Viilar Terrisia"
       ]
@@ -1683,9 +1641,16 @@
         "Don Josechu",
         "Fran Furion",
         "Layrela Rondanit",
-        "Nelv Stardancer",
         "Sugar Papy",
         "Viilar Terrisia"
+      ]
+    },
+    {
+      "nombre": "Fire Protection Potion",
+      "profesion": "Alquimia",
+      "calidad": "common",
+      "personajes": [
+        "Layrela Rondanit"
       ]
     },
     {
@@ -1762,7 +1727,6 @@
         "Don Josechu",
         "Fran Furion",
         "Layrela Rondanit",
-        "Nelv Stardancer",
         "Sugar Papy",
         "Viilar Terrisia"
       ]
@@ -1792,7 +1756,6 @@
         "Don Josechu",
         "Fran Furion",
         "Layrela Rondanit",
-        "Nelv Stardancer",
         "Sugar Papy",
         "Viilar Terrisia"
       ]
@@ -1806,7 +1769,6 @@
         "Don Josechu",
         "Fran Furion",
         "Layrela Rondanit",
-        "Nelv Stardancer",
         "Sugar Papy",
         "Viilar Terrisia"
       ]
@@ -1832,7 +1794,6 @@
         "Fran Furion",
         "Genethika Brisaveloz",
         "Layrela Rondanit",
-        "Nelv Stardancer",
         "Sugar Papy",
         "Takkaao Valengri",
         "Viilar Terrisia"
@@ -1848,7 +1809,6 @@
         "Fran Furion",
         "Genethika Brisaveloz",
         "Layrela Rondanit",
-        "Nelv Stardancer",
         "Sugar Papy",
         "Takkaao Valengri",
         "Viilar Terrisia"
@@ -1861,7 +1821,6 @@
       "personajes": [
         "Dio Hotmetal",
         "Layrela Rondanit",
-        "Nelv Stardancer",
         "Viilar Terrisia"
       ]
     },
@@ -1871,8 +1830,7 @@
       "calidad": "common",
       "personajes": [
         "Genethika Brisaveloz",
-        "Layrela Rondanit",
-        "Nelv Stardancer"
+        "Layrela Rondanit"
       ]
     },
     {
@@ -1903,8 +1861,8 @@
         "Fran Furion",
         "Genethika Brisaveloz",
         "Layrela Rondanit",
-        "Nelv Stardancer",
         "Sugar Papy",
+        "Takkaao Valengri",
         "Viilar Terrisia"
       ]
     },
@@ -1926,8 +1884,8 @@
         "Fran Furion",
         "Genethika Brisaveloz",
         "Layrela Rondanit",
-        "Nelv Stardancer",
         "Sugar Papy",
+        "Takkaao Valengri",
         "Viilar Terrisia"
       ]
     },
@@ -1936,8 +1894,7 @@
       "profesion": "Alquimia",
       "calidad": "common",
       "personajes": [
-        "Layrela Rondanit",
-        "Nelv Stardancer"
+        "Layrela Rondanit"
       ]
     },
     {
@@ -1950,7 +1907,6 @@
         "Fran Furion",
         "Genethika Brisaveloz",
         "Layrela Rondanit",
-        "Nelv Stardancer",
         "Sugar Papy",
         "Takkaao Valengri",
         "Viilar Terrisia"
@@ -1995,7 +1951,6 @@
       "profesion": "Alquimia",
       "calidad": "common",
       "personajes": [
-        "Nelv Stardancer",
         "Sugar Papy"
       ]
     },
@@ -2017,8 +1972,8 @@
         "Fran Furion",
         "Genethika Brisaveloz",
         "Layrela Rondanit",
-        "Nelv Stardancer",
         "Sugar Papy",
+        "Takkaao Valengri",
         "Viilar Terrisia"
       ]
     },
@@ -2027,7 +1982,6 @@
       "profesion": "Alquimia",
       "calidad": "common",
       "personajes": [
-        "Nelv Stardancer",
         "Viilar Terrisia"
       ]
     },
@@ -2041,7 +1995,6 @@
         "Fran Furion",
         "Genethika Brisaveloz",
         "Layrela Rondanit",
-        "Nelv Stardancer",
         "Sugar Papy",
         "Viilar Terrisia"
       ]
@@ -2078,6 +2031,7 @@
         "Chaca Choochoo",
         "Diana Flechaveloz",
         "Dum Bo",
+        "Edoras Duskranger",
         "Layrela Rondanit",
         "Sugar Papy"
       ]
@@ -2121,7 +2075,6 @@
         "Memas Tour",
         "Micro Bolas",
         "Mosu Warryn",
-        "Nelv Stardancer",
         "Nimassus Pater",
         "Nindalf Pizpireta",
         "Palmira Natblida",
@@ -2209,7 +2162,6 @@
         "Layrela Rondanit",
         "Manelhon Gargon",
         "Memas Tour",
-        "Nelv Stardancer",
         "Nimassus Pater",
         "Palmira Natblida",
         "Runa Ruina",
@@ -2252,7 +2204,6 @@
         "Manelhon Gargon",
         "Memas Tour",
         "Mosu Warryn",
-        "Nelv Stardancer",
         "Nimassus Pater",
         "Nindalf Pizpireta",
         "Palmira Natblida",
@@ -2327,7 +2278,6 @@
         "Memas Tour",
         "Micro Bolas",
         "Mosu Warryn",
-        "Nelv Stardancer",
         "Nimassus Pater",
         "Nindalf Pizpireta",
         "Palmira Natblida",
@@ -2390,7 +2340,6 @@
         "Layrela Rondanit",
         "Manelhon Gargon",
         "Memas Tour",
-        "Nelv Stardancer",
         "Nimassus Pater",
         "Palmira Natblida",
         "Runa Ruina",
@@ -2420,7 +2369,6 @@
         "Layrela Rondanit",
         "Manelhon Gargon",
         "Memas Tour",
-        "Nelv Stardancer",
         "Palmira Natblida",
         "Runa Ruina",
         "Sugar Papy",
@@ -2500,7 +2448,6 @@
         "Layrela Rondanit",
         "Manelhon Gargon",
         "Memas Tour",
-        "Nelv Stardancer",
         "Nimassus Pater",
         "Palmira Natblida",
         "Runa Ruina",
@@ -2650,7 +2597,6 @@
         "Memas Tour",
         "Micro Bolas",
         "Mosu Warryn",
-        "Nelv Stardancer",
         "Nimassus Pater",
         "Nindalf Pizpireta",
         "Palmira Natblida",
@@ -2666,6 +2612,14 @@
         "Tom Kha",
         "Vaporeta Pizpireta",
         "Viilar Terrisia"
+      ]
+    },
+    {
+      "nombre": "Hot Wolf Ribs",
+      "profesion": "Cocina",
+      "calidad": "common",
+      "personajes": [
+        "Edoras Duskranger"
       ]
     },
     {
@@ -2688,8 +2642,7 @@
         "Finn Felagund",
         "Flexita Shadowsoul",
         "Ildaren Belisar",
-        "La Pety",
-        "Nelv Stardancer"
+        "La Pety"
       ]
     },
     {
@@ -2700,6 +2653,14 @@
         "Edoras Duskranger",
         "Espartaco Gladiador",
         "Khyoraku Shunsui"
+      ]
+    },
+    {
+      "nombre": "Lean Wolf Steak",
+      "profesion": "Cocina",
+      "calidad": "common",
+      "personajes": [
+        "Edoras Duskranger"
       ]
     },
     {
@@ -2727,7 +2688,6 @@
         "Manelhon Gargon",
         "Memas Tour",
         "Mosu Warryn",
-        "Nelv Stardancer",
         "Tharindel Magnaluz"
       ]
     },
@@ -2772,6 +2732,8 @@
       "profesion": "Cocina",
       "calidad": "common",
       "personajes": [
+        "Edoras Duskranger",
+        "Espartaco Gladiador",
         "Finn Felagund",
         "Layrela Rondanit"
       ]
@@ -2817,7 +2779,6 @@
         "Manelhon Gargon",
         "Memas Tour",
         "Mosu Warryn",
-        "Nelv Stardancer",
         "Palmira Natblida",
         "Runa Ruina",
         "Sugar Papy",
@@ -2847,6 +2808,7 @@
       "calidad": "common",
       "personajes": [
         "Dum Bo",
+        "Espartaco Gladiador",
         "Finn Felagund",
         "Layrela Rondanit"
       ]
@@ -2890,7 +2852,6 @@
         "Memas Tour",
         "Micro Bolas",
         "Mosu Warryn",
-        "Nelv Stardancer",
         "Nimassus Pater",
         "Nindalf Pizpireta",
         "Palmira Natblida",
@@ -2939,6 +2900,7 @@
       "personajes": [
         "Aalesian Naeuri",
         "Cuzcu Aker",
+        "Edoras Duskranger",
         "Finn Felagund",
         "Layrela Rondanit",
         "Sugar Papy"
@@ -2999,7 +2961,6 @@
         "Layrela Rondanit",
         "Manelhon Gargon",
         "Memas Tour",
-        "Nelv Stardancer",
         "Nimassus Pater",
         "Palmira Natblida",
         "Samael Thallanor",
@@ -3034,7 +2995,6 @@
         "Manelhon Gargon",
         "Memas Tour",
         "Mosu Warryn",
-        "Nelv Stardancer",
         "Palmira Natblida",
         "Runa Ruina",
         "Sugar Papy",
@@ -3049,6 +3009,7 @@
         "Chaca Choochoo",
         "Diana Flechaveloz",
         "Dum Bo",
+        "Edoras Duskranger",
         "Finn Felagund",
         "La Pety",
         "Layrela Rondanit",
@@ -3084,7 +3045,6 @@
         "Manelhon Gargon",
         "Memas Tour",
         "Micro Bolas",
-        "Nelv Stardancer",
         "Nimassus Pater",
         "Nindalf Pizpireta",
         "Palmira Natblida",
@@ -3101,6 +3061,7 @@
       "profesion": "Cocina",
       "calidad": "common",
       "personajes": [
+        "Espartaco Gladiador",
         "Layrela Rondanit",
         "Sugar Papy"
       ]
@@ -3115,7 +3076,6 @@
         "Ildaren Belisar",
         "Kadeharz Apsus",
         "Layrela Rondanit",
-        "Nelv Stardancer",
         "Tom Kha"
       ]
     },
@@ -3139,7 +3099,9 @@
         "Diana Flechaveloz",
         "Dum Bo",
         "Edoras Duskranger",
+        "Espartaco Gladiador",
         "Finn Felagund",
+        "Flexita Shadowsoul",
         "Khyoraku Shunsui",
         "La Pety",
         "Layrela Rondanit",
@@ -3156,7 +3118,6 @@
         "Espartaco Gladiador",
         "Kadeharz Apsus",
         "La Pety",
-        "Nelv Stardancer",
         "Palmira Natblida",
         "Runa Ruina"
       ]
@@ -3994,7 +3955,6 @@
         "Fran Furion",
         "Genethika Brisaveloz",
         "Layrela Rondanit",
-        "Nelv Stardancer",
         "Sugar Papy",
         "Viilar Terrisia"
       ]
@@ -4007,7 +3967,6 @@
         "Don Josechu",
         "Fran Furion",
         "Layrela Rondanit",
-        "Nelv Stardancer",
         "Viilar Terrisia"
       ]
     },
@@ -4019,7 +3978,6 @@
         "Don Josechu",
         "Fran Furion",
         "Layrela Rondanit",
-        "Nelv Stardancer",
         "Viilar Terrisia"
       ]
     },
@@ -4089,7 +4047,6 @@
         "Genethika Brisaveloz",
         "Grimmjow Jaegerjakez",
         "Layrela Rondanit",
-        "Nelv Stardancer",
         "Sugar Papy",
         "Takkaao Valengri",
         "Tanki Llo",
@@ -4101,7 +4058,8 @@
       "profesion": "Herrería",
       "calidad": "rare",
       "personajes": [
-        "Aalesian Naeuri"
+        "Aalesian Naeuri",
+        "Espartaco Gladiador"
       ]
     },
     {
@@ -4501,6 +4459,7 @@
       "personajes": [
         "Aalesian Naeuri",
         "Coloso Tempestad",
+        "Espartaco Gladiador",
         "Khyoraku Shunsui"
       ]
     },
@@ -4509,7 +4468,8 @@
       "profesion": "Herrería",
       "calidad": "rare",
       "personajes": [
-        "Coloso Tempestad"
+        "Coloso Tempestad",
+        "Espartaco Gladiador"
       ]
     },
     {
@@ -4519,6 +4479,7 @@
       "personajes": [
         "Aalesian Naeuri",
         "Coloso Tempestad",
+        "Espartaco Gladiador",
         "Khyoraku Shunsui"
       ]
     },
@@ -4529,6 +4490,7 @@
       "personajes": [
         "Aalesian Naeuri",
         "Coloso Tempestad",
+        "Espartaco Gladiador",
         "Khyoraku Shunsui"
       ]
     },
@@ -4612,6 +4574,7 @@
       "profesion": "Herrería",
       "calidad": "uncommon",
       "personajes": [
+        "Aalesian Naeuri",
         "Coloso Tempestad"
       ]
     },
@@ -4620,6 +4583,7 @@
       "profesion": "Herrería",
       "calidad": "uncommon",
       "personajes": [
+        "Aalesian Naeuri",
         "Coloso Tempestad"
       ]
     },
@@ -4665,6 +4629,14 @@
         "Espartaco Gladiador",
         "Khyoraku Shunsui",
         "Tharindel Magnaluz"
+      ]
+    },
+    {
+      "nombre": "Iron Shield Spike",
+      "profesion": "Herrería",
+      "calidad": "common",
+      "personajes": [
+        "Espartaco Gladiador"
       ]
     },
     {
@@ -4967,7 +4939,8 @@
       "calidad": "rare",
       "personajes": [
         "Aalesian Naeuri",
-        "Coloso Tempestad"
+        "Coloso Tempestad",
+        "Espartaco Gladiador"
       ]
     },
     {
@@ -5433,6 +5406,14 @@
       ]
     },
     {
+      "nombre": "Hoof-Shaped Foot Pedal",
+      "profesion": "Ingeniería",
+      "calidad": "common",
+      "personajes": [
+        "Chaca Choochoo"
+      ]
+    },
+    {
       "nombre": "Iron Grenade",
       "profesion": "Ingeniería",
       "calidad": "common",
@@ -5723,6 +5704,14 @@
       "calidad": "common",
       "personajes": [
         "Aalesian Naeuri"
+      ]
+    },
+    {
+      "nombre": "Rock Garden",
+      "profesion": "Minería",
+      "calidad": "common",
+      "personajes": [
+        "Espartaco Gladiador"
       ]
     },
     {
@@ -6997,7 +6986,6 @@
         "Manelhon Gargon",
         "Memas Tour",
         "Mosu Warryn",
-        "Nelv Stardancer",
         "Nimassus Pater",
         "Nindalf Pizpireta",
         "Palmira Natblida",
@@ -7057,7 +7045,6 @@
         "Layrela Rondanit",
         "Manelhon Gargon",
         "Mosu Warryn",
-        "Nelv Stardancer",
         "Palmira Natblida",
         "Samael Thallanor",
         "Sugar Papy",
@@ -7088,7 +7075,6 @@
         "Ildaren Belisar",
         "Layrela Rondanit",
         "Mosu Warryn",
-        "Nelv Stardancer",
         "Palmira Natblida",
         "Runa Ruina",
         "Sugar Papy",
@@ -7135,7 +7121,6 @@
         "Manelhon Gargon",
         "Micro Bolas",
         "Mosu Warryn",
-        "Nelv Stardancer",
         "Nindalf Pizpireta",
         "Palmira Natblida",
         "Runa Ruina",
@@ -7157,7 +7142,6 @@
         "Flexita Shadowsoul",
         "Genethika Brisaveloz",
         "Layrela Rondanit",
-        "Nelv Stardancer",
         "Palmira Natblida",
         "Runa Ruina",
         "Sugar Papy",
@@ -7191,7 +7175,6 @@
         "Manelhon Gargon",
         "Micro Bolas",
         "Mosu Warryn",
-        "Nelv Stardancer",
         "Nindalf Pizpireta",
         "Palmira Natblida",
         "Runa Ruina",
@@ -7215,6 +7198,7 @@
       "personajes": [
         "Aalesian Naeuri",
         "Coloso Tempestad",
+        "Espartaco Gladiador",
         "Flexita Shadowsoul",
         "La Pety",
         "Palmira Natblida"
@@ -7235,7 +7219,6 @@
         "Ildaren Belisar",
         "La Pety",
         "Layrela Rondanit",
-        "Nelv Stardancer",
         "Palmira Natblida",
         "Runa Ruina",
         "Sugar Papy",
@@ -7273,7 +7256,6 @@
         "Layrela Rondanit",
         "Manelhon Gargon",
         "Mosu Warryn",
-        "Nelv Stardancer",
         "Nindalf Pizpireta",
         "Palmira Natblida",
         "Runa Ruina",
@@ -7315,7 +7297,6 @@
         "Memas Tour",
         "Micro Bolas",
         "Mosu Warryn",
-        "Nelv Stardancer",
         "Nindalf Pizpireta",
         "Palmira Natblida",
         "Runa Ruina",
@@ -7369,7 +7350,6 @@
         "Manelhon Gargon",
         "Micro Bolas",
         "Mosu Warryn",
-        "Nelv Stardancer",
         "Nindalf Pizpireta",
         "Palmira Natblida",
         "Runa Ruina",
@@ -7404,6 +7384,7 @@
         "Aalesian Naeuri",
         "Coloso Tempestad",
         "Edoras Duskranger",
+        "Espartaco Gladiador",
         "Flexita Shadowsoul",
         "Genethika Brisaveloz",
         "La Pety",
@@ -7424,7 +7405,6 @@
         "Genethika Brisaveloz",
         "Ildaren Belisar",
         "Layrela Rondanit",
-        "Nelv Stardancer",
         "Palmira Natblida",
         "Runa Ruina",
         "Sugar Papy",
@@ -7456,7 +7436,6 @@
         "La Pety",
         "Layrela Rondanit",
         "Mosu Warryn",
-        "Nelv Stardancer",
         "Palmira Natblida",
         "Runa Ruina",
         "Sugar Papy",
@@ -7739,6 +7718,14 @@
     },
     {
       "nombre": "Crimson Silk Pantaloons",
+      "profesion": "Sastrería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Finn Felagund"
+      ]
+    },
+    {
+      "nombre": "Crimson Silk Robe",
       "profesion": "Sastrería",
       "calidad": "uncommon",
       "personajes": [

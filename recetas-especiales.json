@@ -55,11 +55,11 @@
           "clase": "warrior"
         },
         {
-          "n": "Khyoraku Shunsui",
+          "n": "Espartaco Gladiador",
           "clase": "warrior"
         },
         {
-          "n": "Espartaco Gladiador",
+          "n": "Khyoraku Shunsui",
           "clase": "warrior"
         },
         {
@@ -280,6 +280,10 @@
         {
           "n": "Coloso Tempestad",
           "clase": "warrior"
+        },
+        {
+          "n": "Espartaco Gladiador",
+          "clase": "warrior"
         }
       ]
     },
@@ -383,6 +387,10 @@
         },
         {
           "n": "Aalesian Naeuri",
+          "clase": "warrior"
+        },
+        {
+          "n": "Espartaco Gladiador",
           "clase": "warrior"
         }
       ]
@@ -857,6 +865,10 @@
       "personajes": [
         {
           "n": "Aalesian Naeuri",
+          "clase": "warrior"
+        },
+        {
+          "n": "Espartaco Gladiador",
           "clase": "warrior"
         }
       ]

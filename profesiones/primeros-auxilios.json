@@ -28,6 +28,14 @@
       "pct": 47
     },
     {
+      "personaje": "Espartaco Gladiador",
+      "clase": "warrior",
+      "raider": true,
+      "nivel": 219,
+      "max": 225,
+      "pct": 22
+    },
+    {
       "personaje": "Flexita Shadowsoul",
       "clase": "hunter",
       "raider": false,
@@ -68,14 +76,6 @@
       "pct": 38
     },
     {
-      "personaje": "Espartaco Gladiador",
-      "clase": "warrior",
-      "raider": true,
-      "nivel": 150,
-      "max": 150,
-      "pct": 16
-    },
-    {
       "personaje": "Genethika Brisaveloz",
       "clase": "hunter",
       "raider": false,
@@ -112,14 +112,6 @@
       "clase": "druid",
       "raider": false,
       "nivel": 137,
-      "max": 150,
-      "pct": 31
-    },
-    {
-      "personaje": "Nelv Stardancer",
-      "clase": "druid",
-      "raider": false,
-      "nivel": 115,
       "max": 150,
       "pct": 31
     },
@@ -204,20 +196,20 @@
       "pct": 16
     },
     {
+      "personaje": "Jonaver Legends",
+      "clase": "mage",
+      "raider": false,
+      "nivel": 67,
+      "max": 150,
+      "pct": 12
+    },
+    {
       "personaje": "Fitipaldi Sendaumbria",
       "clase": "rogue",
       "raider": true,
       "nivel": 64,
       "max": 150,
       "pct": 16
-    },
-    {
-      "personaje": "Jonaver Legends",
-      "clase": "mage",
-      "raider": false,
-      "nivel": 61,
-      "max": 150,
-      "pct": 12
     },
     {
       "personaje": "Micro Bolas",
@@ -231,7 +223,7 @@
       "personaje": "Takkaao Valengri",
       "clase": "warlock",
       "raider": false,
-      "nivel": 44,
+      "nivel": 46,
       "max": 75,
       "pct": 9
     },
@@ -384,8 +376,7 @@
             34,
             35,
             36,
-            37,
-            38
+            37
           ]
         },
         {
@@ -442,8 +433,7 @@
             24,
             25,
             26,
-            27,
-            30
+            29
           ]
         },
         {
@@ -488,9 +478,8 @@
             12,
             13,
             14,
-            15,
-            18,
-            20
+            17,
+            19
           ]
         },
         {
@@ -533,8 +522,7 @@
             10,
             11,
             12,
-            13,
-            14
+            13
           ]
         },
         {
@@ -569,7 +557,8 @@
             3,
             4,
             5,
-            7,
+            6,
+            8,
             9,
             11
           ]
@@ -605,7 +594,8 @@
             1,
             2,
             3,
-            4
+            4,
+            5
           ]
         },
         {
@@ -638,7 +628,7 @@
             0,
             1,
             2,
-            3
+            4
           ]
         },
         {
@@ -825,20 +815,19 @@
           "quien": [
             1,
             2,
-            3,
             4,
             5,
             6,
             7,
+            8,
             9,
             10,
             11,
             12,
             13,
             14,
-            15,
-            18,
-            20
+            17,
+            19
           ]
         },
         {
@@ -1008,11 +997,11 @@
           "quien": [
             1,
             2,
-            3,
             4,
             5,
             6,
             7,
+            8,
             9,
             10,
             11,
@@ -1129,8 +1118,8 @@
             ]
           },
           "quien": [
-            3,
-            5
+            4,
+            6
           ]
         },
         {
@@ -1171,16 +1160,15 @@
           "quien": [
             1,
             2,
-            3,
             4,
             5,
-            7,
+            6,
+            8,
             9,
             10,
             11,
             12,
-            13,
-            14
+            13
           ]
         },
         {
@@ -1278,8 +1266,7 @@
             29,
             30,
             31,
-            32,
-            33
+            32
           ]
         },
         {
@@ -1389,11 +1376,11 @@
             0,
             1,
             2,
-            3,
             4,
             5,
             6,
             7,
+            8,
             9,
             10,
             11,
@@ -1413,13 +1400,12 @@
             25,
             26,
             27,
-            28,
+            29,
             30,
             31,
             32,
             33,
-            34,
-            35
+            34
           ]
         },
         {
@@ -1461,11 +1447,11 @@
             0,
             1,
             2,
-            3,
             4,
             5,
             6,
             7,
+            8,
             9,
             10,
             11,
@@ -1481,7 +1467,6 @@
             21,
             22,
             23,
-            24,
             25
           ]
         },
@@ -1522,15 +1507,14 @@
           "quien": [
             1,
             2,
-            3,
             4,
             5,
-            7,
+            6,
+            8,
             9,
             10,
             11,
-            13,
-            14
+            13
           ]
         },
         {
