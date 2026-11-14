@@ -228,6 +228,14 @@
       "pct": 0
     },
     {
+      "personaje": "Sr Byron",
+      "clase": "warlock",
+      "raider": false,
+      "nivel": 3,
+      "max": 75,
+      "pct": 0
+    },
+    {
       "personaje": "Chaca Choochoo",
       "clase": "druid",
       "raider": false,

@@ -15,7 +15,7 @@
       "personaje": "Sugar Papy",
       "clase": "druid",
       "raider": false,
-      "nivel": 242,
+      "nivel": 243,
       "max": 300,
       "pct": 33
     },
@@ -39,7 +39,7 @@
       "personaje": "Viilar Terrisia",
       "clase": "druid",
       "raider": false,
-      "nivel": 162,
+      "nivel": 172,
       "max": 225,
       "pct": 33
     },
@@ -87,7 +87,7 @@
       "personaje": "Tanki Llo",
       "clase": "warlock",
       "raider": false,
-      "nivel": 27,
+      "nivel": 33,
       "max": 75,
       "pct": 33
     },

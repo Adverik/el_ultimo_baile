@@ -7,7 +7,7 @@
       "personaje": "Edoras Duskranger",
       "clase": "hunter",
       "raider": true,
-      "nivel": 250,
+      "nivel": 260,
       "max": 300,
       "pct": 67
     },
@@ -39,7 +39,7 @@
       "personaje": "Runa Ruina",
       "clase": "shaman",
       "raider": true,
-      "nivel": 201,
+      "nivel": 211,
       "max": 225,
       "pct": 33
     },

@@ -197,7 +197,7 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 203,
+          "nivel": 209,
           "max": 225
         },
         {
@@ -229,7 +229,7 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 129,
+          "nivel": 131,
           "max": 225
         },
         {
@@ -384,7 +384,7 @@
         },
         {
           "nombre": "Desuello",
-          "nivel": 250,
+          "nivel": 260,
           "max": 300
         },
         {
@@ -411,12 +411,12 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 148,
+          "nivel": 163,
           "max": 225
         },
         {
           "nombre": "Herrería",
-          "nivel": 155,
+          "nivel": 156,
           "max": 225
         },
         {
@@ -539,7 +539,7 @@
         },
         {
           "nombre": "Primeros auxilios",
-          "nivel": 64,
+          "nivel": 78,
           "max": 150
         }
       ]
@@ -551,7 +551,7 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 149,
+          "nivel": 151,
           "max": 225
         },
         {
@@ -733,12 +733,12 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 72,
+          "nivel": 80,
           "max": 150
         },
         {
           "nombre": "Ingeniería",
-          "nivel": 90,
+          "nivel": 100,
           "max": 150
         },
         {
@@ -765,12 +765,12 @@
       "profesiones": [
         {
           "nombre": "Sastrería",
-          "nivel": 97,
+          "nivel": 104,
           "max": 150
         },
         {
           "nombre": "Encantamiento",
-          "nivel": 125,
+          "nivel": 131,
           "max": 225
         },
         {
@@ -787,7 +787,7 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 199,
+          "nivel": 201,
           "max": 225
         },
         {
@@ -1119,17 +1119,17 @@
       "profesiones": [
         {
           "nombre": "Peletería",
-          "nivel": 107,
+          "nivel": 118,
           "max": 150
         },
         {
           "nombre": "Desuello",
-          "nivel": 201,
+          "nivel": 211,
           "max": 225
         },
         {
           "nombre": "Cocina",
-          "nivel": 180,
+          "nivel": 185,
           "max": 225
         },
         {
@@ -1194,18 +1194,50 @@
       ]
     },
     {
+      "personaje": "Sr Byron",
+      "clase": "warlock",
+      "raider": false,
+      "profesiones": [
+        {
+          "nombre": "Sastrería",
+          "nivel": 156,
+          "max": 225
+        },
+        {
+          "nombre": "Encantamiento",
+          "nivel": 88,
+          "max": 150
+        },
+        {
+          "nombre": "Cocina",
+          "nivel": 125,
+          "max": 150
+        },
+        {
+          "nombre": "Pesca",
+          "nivel": 3,
+          "max": 75
+        },
+        {
+          "nombre": "Primeros auxilios",
+          "nivel": 52,
+          "max": 75
+        }
+      ]
+    },
+    {
       "personaje": "Sugar Papy",
       "clase": "druid",
       "raider": false,
       "profesiones": [
         {
           "nombre": "Alquimia",
-          "nivel": 240,
+          "nivel": 248,
           "max": 300
         },
         {
           "nombre": "Herboristería",
-          "nivel": 242,
+          "nivel": 243,
           "max": 300
         },
         {
@@ -1259,12 +1291,12 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 15,
+          "nivel": 17,
           "max": 75
         },
         {
           "nombre": "Herboristería",
-          "nivel": 27,
+          "nivel": 33,
           "max": 75
         },
         {
@@ -1404,17 +1436,17 @@
       "profesiones": [
         {
           "nombre": "Alquimia",
-          "nivel": 136,
-          "max": 150
+          "nivel": 151,
+          "max": 225
         },
         {
           "nombre": "Herboristería",
-          "nivel": 162,
+          "nivel": 172,
           "max": 225
         },
         {
           "nombre": "Cocina",
-          "nivel": 117,
+          "nivel": 146,
           "max": 150
         },
         {
@@ -1424,7 +1456,7 @@
         },
         {
           "nombre": "Primeros auxilios",
-          "nivel": 137,
+          "nivel": 141,
           "max": 150
         }
       ]
@@ -1516,7 +1548,16 @@
         "Don Josechu",
         "Fran Furion",
         "Layrela Rondanit",
-        "Sugar Papy"
+        "Sugar Papy",
+        "Viilar Terrisia"
+      ]
+    },
+    {
+      "nombre": "Elixir of Lesser Agility",
+      "profesion": "Alquimia",
+      "calidad": "common",
+      "personajes": [
+        "Viilar Terrisia"
       ]
     },
     {
@@ -1697,7 +1738,8 @@
       "personajes": [
         "Dio Hotmetal",
         "Genethika Brisaveloz",
-        "Sugar Papy"
+        "Sugar Papy",
+        "Viilar Terrisia"
       ]
     },
     {
@@ -2016,6 +2058,14 @@
       ]
     },
     {
+      "nombre": "Troll's Blood Elixir",
+      "profesion": "Alquimia",
+      "calidad": "common",
+      "personajes": [
+        "Sugar Papy"
+      ]
+    },
+    {
       "nombre": "Viridian Dye",
       "profesion": "Alquimia",
       "calidad": "uncommon",
@@ -2033,6 +2083,7 @@
         "Dum Bo",
         "Edoras Duskranger",
         "Layrela Rondanit",
+        "Runa Ruina",
         "Sugar Papy"
       ]
     },
@@ -2082,6 +2133,7 @@
         "Runa Ruina",
         "Saint Peligroxa",
         "Samael Thallanor",
+        "Sr Byron",
         "Sugar Papy",
         "Takkaao Valengri",
         "Tanki Llo",
@@ -2107,6 +2159,7 @@
         "Mosu Warryn",
         "Nindalf Pizpireta",
         "Runa Ruina",
+        "Sr Byron",
         "Tharindel Magnaluz",
         "Tom Kha"
       ]
@@ -2135,6 +2188,7 @@
         "Micro Bolas",
         "Mosu Warryn",
         "Runa Ruina",
+        "Sr Byron",
         "Tharindel Magnaluz",
         "Tom Kha"
       ]
@@ -2165,6 +2219,7 @@
         "Nimassus Pater",
         "Palmira Natblida",
         "Runa Ruina",
+        "Sr Byron",
         "Sugar Papy",
         "Tharindel Magnaluz",
         "Tom Kha",
@@ -2207,6 +2262,7 @@
         "Nimassus Pater",
         "Nindalf Pizpireta",
         "Palmira Natblida",
+        "Sr Byron",
         "Sugar Papy",
         "Tharindel Magnaluz",
         "Tom Kha"
@@ -2285,6 +2341,7 @@
         "Runa Ruina",
         "Saint Peligroxa",
         "Samael Thallanor",
+        "Sr Byron",
         "Sugar Papy",
         "Takkaao Valengri",
         "Tanki Llo",
@@ -2343,6 +2400,7 @@
         "Nimassus Pater",
         "Palmira Natblida",
         "Runa Ruina",
+        "Sr Byron",
         "Sugar Papy",
         "Tharindel Magnaluz",
         "Tom Kha",
@@ -2371,6 +2429,7 @@
         "Memas Tour",
         "Palmira Natblida",
         "Runa Ruina",
+        "Sr Byron",
         "Sugar Papy",
         "Tharindel Magnaluz",
         "Viilar Terrisia"
@@ -2395,7 +2454,9 @@
         "Memas Tour",
         "Palmira Natblida",
         "Runa Ruina",
-        "Sugar Papy"
+        "Sr Byron",
+        "Sugar Papy",
+        "Viilar Terrisia"
       ]
     },
     {
@@ -2425,7 +2486,8 @@
         "La Pety",
         "Palmira Natblida",
         "Runa Ruina",
-        "Sugar Papy"
+        "Sugar Papy",
+        "Viilar Terrisia"
       ]
     },
     {
@@ -2451,6 +2513,7 @@
         "Nimassus Pater",
         "Palmira Natblida",
         "Runa Ruina",
+        "Sr Byron",
         "Sugar Papy",
         "Tharindel Magnaluz",
         "Viilar Terrisia"
@@ -2496,8 +2559,10 @@
         "Manelhon Gargon",
         "Memas Tour",
         "Palmira Natblida",
+        "Sr Byron",
         "Sugar Papy",
-        "Tharindel Magnaluz"
+        "Tharindel Magnaluz",
+        "Viilar Terrisia"
       ]
     },
     {
@@ -2505,7 +2570,8 @@
       "profesion": "Cocina",
       "calidad": "common",
       "personajes": [
-        "Aalesian Naeuri"
+        "Aalesian Naeuri",
+        "Sugar Papy"
       ]
     },
     {
@@ -2528,6 +2594,7 @@
         "Manelhon Gargon",
         "Memas Tour",
         "Palmira Natblida",
+        "Sr Byron",
         "Sugar Papy"
       ]
     },
@@ -2547,6 +2614,7 @@
         "Mosu Warryn",
         "Palmira Natblida",
         "Runa Ruina",
+        "Sr Byron",
         "Tharindel Magnaluz"
       ]
     },
@@ -2604,6 +2672,7 @@
         "Runa Ruina",
         "Saint Peligroxa",
         "Samael Thallanor",
+        "Sr Byron",
         "Sugar Papy",
         "Takkaao Valengri",
         "Tanki Llo",
@@ -2628,6 +2697,7 @@
       "calidad": "common",
       "personajes": [
         "Dum Bo",
+        "Espartaco Gladiador",
         "Flexita Shadowsoul"
       ]
     },
@@ -2724,6 +2794,7 @@
         "La Pety",
         "Manelhon Gargon",
         "Palmira Natblida",
+        "Sr Byron",
         "Sugar Papy"
       ]
     },
@@ -2781,6 +2852,7 @@
         "Mosu Warryn",
         "Palmira Natblida",
         "Runa Ruina",
+        "Sr Byron",
         "Sugar Papy",
         "Tom Kha"
       ]
@@ -2799,6 +2871,7 @@
         "La Pety",
         "Manelhon Gargon",
         "Runa Ruina",
+        "Sr Byron",
         "Sugar Papy"
       ]
     },
@@ -2859,6 +2932,7 @@
         "Runa Ruina",
         "Saint Peligroxa",
         "Samael Thallanor",
+        "Sr Byron",
         "Sugar Papy",
         "Takkaao Valengri",
         "Tanki Llo",
@@ -2925,6 +2999,7 @@
         "Manelhon Gargon",
         "Memas Tour",
         "Palmira Natblida",
+        "Sr Byron",
         "Sugar Papy"
       ]
     },
@@ -3049,6 +3124,7 @@
         "Nindalf Pizpireta",
         "Palmira Natblida",
         "Runa Ruina",
+        "Sr Byron",
         "Sugar Papy",
         "Takkaao Valengri",
         "Tharindel Magnaluz",
@@ -3105,7 +3181,8 @@
         "Khyoraku Shunsui",
         "La Pety",
         "Layrela Rondanit",
-        "Palmira Natblida"
+        "Palmira Natblida",
+        "Runa Ruina"
       ]
     },
     {
@@ -3175,6 +3252,7 @@
         "Nimassus Pater",
         "Palmira Natblida",
         "Runa Ruina",
+        "Sr Byron",
         "Tharindel Magnaluz"
       ]
     },
@@ -3252,6 +3330,7 @@
         "Nimassus Pater",
         "Rhyomen Sukuna",
         "Saint Peligroxa",
+        "Sr Byron",
         "Thundrik Volgrim",
         "Vaporeta Pizpireta"
       ]
@@ -3268,6 +3347,7 @@
         "Nimassus Pater",
         "Rhyomen Sukuna",
         "Saint Peligroxa",
+        "Sr Byron",
         "Thundrik Volgrim",
         "Vaporeta Pizpireta"
       ]
@@ -3354,6 +3434,7 @@
         "Nimassus Pater",
         "Rhyomen Sukuna",
         "Saint Peligroxa",
+        "Sr Byron",
         "Thundrik Volgrim",
         "Vaporeta Pizpireta"
       ]
@@ -3414,6 +3495,7 @@
         "Nimassus Pater",
         "Rhyomen Sukuna",
         "Saint Peligroxa",
+        "Sr Byron",
         "Thundrik Volgrim",
         "Vaporeta Pizpireta"
       ]
@@ -3435,6 +3517,7 @@
         "Finn Felagund",
         "Kadeharz Apsus",
         "Nimassus Pater",
+        "Sr Byron",
         "Vaporeta Pizpireta"
       ]
     },
@@ -3499,6 +3582,7 @@
         "Micro Bolas",
         "Nimassus Pater",
         "Saint Peligroxa",
+        "Sr Byron",
         "Vaporeta Pizpireta"
       ]
     },
@@ -3529,7 +3613,8 @@
         "Finn Felagund",
         "Kadeharz Apsus",
         "Nimassus Pater",
-        "Saint Peligroxa"
+        "Saint Peligroxa",
+        "Sr Byron"
       ]
     },
     {
@@ -3551,6 +3636,7 @@
         "Micro Bolas",
         "Nimassus Pater",
         "Saint Peligroxa",
+        "Sr Byron",
         "Vaporeta Pizpireta"
       ]
     },
@@ -3652,7 +3738,8 @@
         "Dum Bo",
         "Finn Felagund",
         "Kadeharz Apsus",
-        "Nimassus Pater"
+        "Nimassus Pater",
+        "Sr Byron"
       ]
     },
     {
@@ -3665,6 +3752,7 @@
         "Kadeharz Apsus",
         "Nimassus Pater",
         "Saint Peligroxa",
+        "Sr Byron",
         "Vaporeta Pizpireta"
       ]
     },
@@ -3807,6 +3895,7 @@
         "Micro Bolas",
         "Nimassus Pater",
         "Saint Peligroxa",
+        "Sr Byron",
         "Vaporeta Pizpireta"
       ]
     },
@@ -3820,7 +3909,8 @@
         "Kadeharz Apsus",
         "Micro Bolas",
         "Nimassus Pater",
-        "Saint Peligroxa"
+        "Saint Peligroxa",
+        "Sr Byron"
       ]
     },
     {
@@ -3843,6 +3933,7 @@
         "Nimassus Pater",
         "Rhyomen Sukuna",
         "Saint Peligroxa",
+        "Sr Byron",
         "Thundrik Volgrim",
         "Vaporeta Pizpireta"
       ]
@@ -3895,6 +3986,7 @@
         "Nimassus Pater",
         "Rhyomen Sukuna",
         "Saint Peligroxa",
+        "Sr Byron",
         "Thundrik Volgrim",
         "Vaporeta Pizpireta"
       ]
@@ -3911,6 +4003,7 @@
         "Nimassus Pater",
         "Rhyomen Sukuna",
         "Saint Peligroxa",
+        "Sr Byron",
         "Thundrik Volgrim",
         "Vaporeta Pizpireta"
       ]
@@ -5728,6 +5821,7 @@
         "Españoleitor Españoleitor",
         "Flexita Shadowsoul",
         "Hugo Forjaluz",
+        "Jonaver Legends",
         "Khyoraku Shunsui",
         "La Pety",
         "Mosu Warryn",
@@ -5834,6 +5928,7 @@
         "Españoleitor Españoleitor",
         "Flexita Shadowsoul",
         "Hugo Forjaluz",
+        "Jonaver Legends",
         "Khyoraku Shunsui",
         "La Pety",
         "Mosu Warryn",
@@ -6014,7 +6109,8 @@
         "Ildaren Belisar",
         "Manelhon Gargon",
         "Memas Tour",
-        "Palmira Natblida"
+        "Palmira Natblida",
+        "Runa Ruina"
       ]
     },
     {
@@ -6612,6 +6708,7 @@
         "Manelhon Gargon",
         "Memas Tour",
         "Palmira Natblida",
+        "Runa Ruina",
         "Tom Kha"
       ]
     },
@@ -7017,6 +7114,7 @@
         "Nimassus Pater",
         "Nindalf Pizpireta",
         "Saint Peligroxa",
+        "Sr Byron",
         "Thundrik Volgrim",
         "Vaporeta Pizpireta",
         "Viilar Terrisia"
@@ -7124,6 +7222,7 @@
         "Nindalf Pizpireta",
         "Palmira Natblida",
         "Runa Ruina",
+        "Sr Byron",
         "Sugar Papy",
         "Takkaao Valengri",
         "Tharindel Magnaluz",
@@ -7301,6 +7400,7 @@
         "Palmira Natblida",
         "Runa Ruina",
         "Saint Peligroxa",
+        "Sr Byron",
         "Sugar Papy",
         "Takkaao Valengri",
         "Tharindel Magnaluz",
@@ -7316,6 +7416,7 @@
       "personajes": [
         "Aalesian Naeuri",
         "Coloso Tempestad",
+        "Espartaco Gladiador",
         "Flexita Shadowsoul",
         "La Pety"
       ]
@@ -7353,6 +7454,7 @@
         "Nindalf Pizpireta",
         "Palmira Natblida",
         "Runa Ruina",
+        "Sr Byron",
         "Sugar Papy",
         "Takkaao Valengri",
         "Tharindel Magnaluz",
@@ -7458,7 +7560,8 @@
         "Layrela Rondanit",
         "Palmira Natblida",
         "Runa Ruina",
-        "Sugar Papy"
+        "Sugar Papy",
+        "Viilar Terrisia"
       ]
     },
     {
@@ -7476,7 +7579,8 @@
       "calidad": "uncommon",
       "personajes": [
         "Dum Bo",
-        "Finn Felagund"
+        "Finn Felagund",
+        "Sr Byron"
       ]
     },
     {
@@ -7506,6 +7610,7 @@
         "Dum Bo",
         "Finn Felagund",
         "Saint Peligroxa",
+        "Sr Byron",
         "Vaporeta Pizpireta"
       ]
     },
@@ -7542,6 +7647,14 @@
       ]
     },
     {
+      "nombre": "Black Slippers",
+      "profesion": "Sastrería",
+      "calidad": "rare",
+      "personajes": [
+        "Sr Byron"
+      ]
+    },
+    {
       "nombre": "Blue Linen Robe",
       "profesion": "Sastrería",
       "calidad": "uncommon",
@@ -7558,6 +7671,7 @@
         "Finn Felagund",
         "Kadeharz Apsus",
         "Saint Peligroxa",
+        "Sr Byron",
         "Vaporeta Pizpireta"
       ]
     },
@@ -7593,6 +7707,7 @@
         "Nimassus Pater",
         "Rhyomen Sukuna",
         "Saint Peligroxa",
+        "Sr Byron",
         "Thundrik Volgrim",
         "Vaporeta Pizpireta"
       ]
@@ -7614,7 +7729,8 @@
         "Dum Bo",
         "Finn Felagund",
         "Micro Bolas",
-        "Nimassus Pater"
+        "Nimassus Pater",
+        "Sr Byron"
       ]
     },
     {
@@ -7629,6 +7745,7 @@
         "Nimassus Pater",
         "Rhyomen Sukuna",
         "Saint Peligroxa",
+        "Sr Byron",
         "Vaporeta Pizpireta"
       ]
     },
@@ -7642,6 +7759,7 @@
         "Finn Felagund",
         "Kadeharz Apsus",
         "Saint Peligroxa",
+        "Sr Byron",
         "Vaporeta Pizpireta"
       ]
     },
@@ -7655,6 +7773,7 @@
         "Finn Felagund",
         "Kadeharz Apsus",
         "Saint Peligroxa",
+        "Sr Byron",
         "Vaporeta Pizpireta"
       ]
     },
@@ -7672,6 +7791,7 @@
         "Nimassus Pater",
         "Rhyomen Sukuna",
         "Saint Peligroxa",
+        "Sr Byron",
         "Thundrik Volgrim",
         "Vaporeta Pizpireta"
       ]
@@ -7686,6 +7806,7 @@
         "Kadeharz Apsus",
         "Rhyomen Sukuna",
         "Saint Peligroxa",
+        "Sr Byron",
         "Vaporeta Pizpireta"
       ]
     },
@@ -7737,7 +7858,8 @@
       "profesion": "Sastrería",
       "calidad": "uncommon",
       "personajes": [
-        "Finn Felagund"
+        "Finn Felagund",
+        "Sr Byron"
       ]
     },
     {
@@ -7774,7 +7896,16 @@
         "Nimassus Pater",
         "Rhyomen Sukuna",
         "Saint Peligroxa",
+        "Sr Byron",
         "Vaporeta Pizpireta"
+      ]
+    },
+    {
+      "nombre": "Fiery Slippers",
+      "profesion": "Sastrería",
+      "calidad": "rare",
+      "personajes": [
+        "Sr Byron"
       ]
     },
     {
@@ -7782,7 +7913,8 @@
       "profesion": "Sastrería",
       "calidad": "rare",
       "personajes": [
-        "Dum Bo"
+        "Dum Bo",
+        "Sr Byron"
       ]
     },
     {
@@ -7808,6 +7940,14 @@
       "calidad": "rare",
       "personajes": [
         "Finn Felagund"
+      ]
+    },
+    {
+      "nombre": "Filigreed Shining Circlet",
+      "profesion": "Sastrería",
+      "calidad": "rare",
+      "personajes": [
+        "Sr Byron"
       ]
     },
     {
@@ -7850,7 +7990,8 @@
       "calidad": "uncommon",
       "personajes": [
         "Dum Bo",
-        "Finn Felagund"
+        "Finn Felagund",
+        "Sr Byron"
       ]
     },
     {
@@ -7867,7 +8008,8 @@
       "calidad": "common",
       "personajes": [
         "Dum Bo",
-        "Finn Felagund"
+        "Finn Felagund",
+        "Sr Byron"
       ]
     },
     {
@@ -7890,6 +8032,7 @@
         "Kadeharz Apsus",
         "Nimassus Pater",
         "Saint Peligroxa",
+        "Sr Byron",
         "Vaporeta Pizpireta"
       ]
     },
@@ -7901,7 +8044,16 @@
         "Dum Bo",
         "Finn Felagund",
         "Saint Peligroxa",
+        "Sr Byron",
         "Vaporeta Pizpireta"
+      ]
+    },
+    {
+      "nombre": "Green Silk Armor",
+      "profesion": "Sastrería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Sr Byron"
       ]
     },
     {
@@ -7920,7 +8072,8 @@
         "Dum Bo",
         "Finn Felagund",
         "Kadeharz Apsus",
-        "Rhyomen Sukuna"
+        "Rhyomen Sukuna",
+        "Sr Byron"
       ]
     },
     {
@@ -7931,7 +8084,8 @@
         "Dum Bo",
         "Finn Felagund",
         "Micro Bolas",
-        "Saint Peligroxa"
+        "Saint Peligroxa",
+        "Sr Byron"
       ]
     },
     {
@@ -7952,6 +8106,7 @@
         "Kadeharz Apsus",
         "Nimassus Pater",
         "Saint Peligroxa",
+        "Sr Byron",
         "Vaporeta Pizpireta"
       ]
     },
@@ -7967,6 +8122,7 @@
         "Nimassus Pater",
         "Rhyomen Sukuna",
         "Saint Peligroxa",
+        "Sr Byron",
         "Thundrik Volgrim",
         "Vaporeta Pizpireta"
       ]
@@ -7989,7 +8145,8 @@
         "Finn Felagund",
         "Kadeharz Apsus",
         "Micro Bolas",
-        "Saint Peligroxa"
+        "Saint Peligroxa",
+        "Sr Byron"
       ]
     },
     {
@@ -8025,6 +8182,7 @@
         "Nimassus Pater",
         "Rhyomen Sukuna",
         "Saint Peligroxa",
+        "Sr Byron",
         "Thundrik Volgrim",
         "Vaporeta Pizpireta"
       ]
@@ -8041,6 +8199,7 @@
         "Micro Bolas",
         "Rhyomen Sukuna",
         "Saint Peligroxa",
+        "Sr Byron",
         "Vaporeta Pizpireta"
       ]
     },
@@ -8055,6 +8214,7 @@
         "Nimassus Pater",
         "Rhyomen Sukuna",
         "Saint Peligroxa",
+        "Sr Byron",
         "Vaporeta Pizpireta"
       ]
     },
@@ -8072,6 +8232,7 @@
         "Nimassus Pater",
         "Rhyomen Sukuna",
         "Saint Peligroxa",
+        "Sr Byron",
         "Thundrik Volgrim",
         "Vaporeta Pizpireta"
       ]
@@ -8086,7 +8247,8 @@
         "Finn Felagund",
         "Kadeharz Apsus",
         "Micro Bolas",
-        "Nimassus Pater"
+        "Nimassus Pater",
+        "Sr Byron"
       ]
     },
     {
@@ -8108,6 +8270,7 @@
         "Kadeharz Apsus",
         "Micro Bolas",
         "Saint Peligroxa",
+        "Sr Byron",
         "Thundrik Volgrim",
         "Vaporeta Pizpireta"
       ]
@@ -8122,6 +8285,7 @@
         "Kadeharz Apsus",
         "Nimassus Pater",
         "Saint Peligroxa",
+        "Sr Byron",
         "Thundrik Volgrim",
         "Vaporeta Pizpireta"
       ]
@@ -8141,7 +8305,8 @@
       "personajes": [
         "Dum Bo",
         "Finn Felagund",
-        "Micro Bolas"
+        "Micro Bolas",
+        "Sr Byron"
       ]
     },
     {
@@ -8149,7 +8314,8 @@
       "profesion": "Sastrería",
       "calidad": "uncommon",
       "personajes": [
-        "Dum Bo"
+        "Dum Bo",
+        "Sr Byron"
       ]
     },
     {
@@ -8197,6 +8363,7 @@
         "Finn Felagund",
         "Kadeharz Apsus",
         "Saint Peligroxa",
+        "Sr Byron",
         "Vaporeta Pizpireta"
       ]
     },
@@ -8235,7 +8402,8 @@
       "calidad": "uncommon",
       "personajes": [
         "Dum Bo",
-        "Micro Bolas"
+        "Micro Bolas",
+        "Sr Byron"
       ]
     },
     {
@@ -8250,6 +8418,7 @@
         "Nimassus Pater",
         "Rhyomen Sukuna",
         "Saint Peligroxa",
+        "Sr Byron",
         "Thundrik Volgrim",
         "Vaporeta Pizpireta"
       ]
@@ -8275,7 +8444,8 @@
       "profesion": "Sastrería",
       "calidad": "uncommon",
       "personajes": [
-        "Finn Felagund"
+        "Finn Felagund",
+        "Sr Byron"
       ]
     },
     {
@@ -8304,6 +8474,7 @@
         "Finn Felagund",
         "Kadeharz Apsus",
         "Saint Peligroxa",
+        "Sr Byron",
         "Vaporeta Pizpireta"
       ]
     },
@@ -8317,6 +8488,7 @@
         "Nimassus Pater",
         "Rhyomen Sukuna",
         "Saint Peligroxa",
+        "Sr Byron",
         "Vaporeta Pizpireta"
       ]
     },
@@ -8329,6 +8501,7 @@
         "Finn Felagund",
         "Kadeharz Apsus",
         "Saint Peligroxa",
+        "Sr Byron",
         "Vaporeta Pizpireta"
       ]
     },
@@ -8346,6 +8519,7 @@
         "Nimassus Pater",
         "Rhyomen Sukuna",
         "Saint Peligroxa",
+        "Sr Byron",
         "Thundrik Volgrim",
         "Vaporeta Pizpireta"
       ]
@@ -8356,7 +8530,8 @@
       "calidad": "common",
       "personajes": [
         "Dum Bo",
-        "Finn Felagund"
+        "Finn Felagund",
+        "Sr Byron"
       ]
     },
     {
@@ -8365,7 +8540,8 @@
       "calidad": "uncommon",
       "personajes": [
         "Dum Bo",
-        "Finn Felagund"
+        "Finn Felagund",
+        "Sr Byron"
       ]
     },
     {
@@ -8381,7 +8557,8 @@
       "profesion": "Sastrería",
       "calidad": "uncommon",
       "personajes": [
-        "Dum Bo"
+        "Dum Bo",
+        "Sr Byron"
       ]
     },
     {
@@ -8391,7 +8568,8 @@
       "personajes": [
         "Dum Bo",
         "Finn Felagund",
-        "Nimassus Pater"
+        "Nimassus Pater",
+        "Sr Byron"
       ]
     },
     {
@@ -8407,7 +8585,8 @@
       "profesion": "Sastrería",
       "calidad": "common",
       "personajes": [
-        "Dum Bo"
+        "Dum Bo",
+        "Sr Byron"
       ]
     },
     {
@@ -8446,6 +8625,7 @@
         "Kadeharz Apsus",
         "Rhyomen Sukuna",
         "Saint Peligroxa",
+        "Sr Byron",
         "Vaporeta Pizpireta"
       ]
     },
@@ -8459,6 +8639,7 @@
         "Kadeharz Apsus",
         "Rhyomen Sukuna",
         "Saint Peligroxa",
+        "Sr Byron",
         "Vaporeta Pizpireta"
       ]
     },
@@ -8489,7 +8670,8 @@
         "Dum Bo",
         "Finn Felagund",
         "Kadeharz Apsus",
-        "Saint Peligroxa"
+        "Saint Peligroxa",
+        "Sr Byron"
       ]
     },
     {
@@ -8501,7 +8683,8 @@
         "Finn Felagund",
         "Kadeharz Apsus",
         "Micro Bolas",
-        "Saint Peligroxa"
+        "Saint Peligroxa",
+        "Sr Byron"
       ]
     },
     {
@@ -8516,6 +8699,7 @@
         "Nimassus Pater",
         "Rhyomen Sukuna",
         "Saint Peligroxa",
+        "Sr Byron",
         "Vaporeta Pizpireta"
       ]
     },
@@ -8529,7 +8713,8 @@
         "Kadeharz Apsus",
         "Micro Bolas",
         "Nimassus Pater",
-        "Saint Peligroxa"
+        "Saint Peligroxa",
+        "Sr Byron"
       ]
     }
   ]

@@ -33,7 +33,7 @@
       "raider": true,
       "nivel": 219,
       "max": 225,
-      "pct": 22
+      "pct": 25
     },
     {
       "personaje": "Flexita Shadowsoul",
@@ -111,9 +111,9 @@
       "personaje": "Viilar Terrisia",
       "clase": "druid",
       "raider": false,
-      "nivel": 137,
+      "nivel": 141,
       "max": 150,
-      "pct": 31
+      "pct": 34
     },
     {
       "personaje": "Hugo Forjaluz",
@@ -164,6 +164,14 @@
       "pct": 22
     },
     {
+      "personaje": "Fitipaldi Sendaumbria",
+      "clase": "rogue",
+      "raider": true,
+      "nivel": 78,
+      "max": 150,
+      "pct": 16
+    },
+    {
       "personaje": "Aurelio Amador",
       "clase": "rogue",
       "raider": false,
@@ -204,12 +212,12 @@
       "pct": 12
     },
     {
-      "personaje": "Fitipaldi Sendaumbria",
-      "clase": "rogue",
-      "raider": true,
-      "nivel": 64,
-      "max": 150,
-      "pct": 16
+      "personaje": "Sr Byron",
+      "clase": "warlock",
+      "raider": false,
+      "nivel": 52,
+      "max": 75,
+      "pct": 9
     },
     {
       "personaje": "Micro Bolas",
@@ -376,7 +384,8 @@
             34,
             35,
             36,
-            37
+            37,
+            38
           ]
         },
         {
@@ -432,8 +441,8 @@
             23,
             24,
             25,
-            26,
-            29
+            27,
+            30
           ]
         },
         {
@@ -628,6 +637,7 @@
             0,
             1,
             2,
+            3,
             4
           ]
         },
@@ -1005,7 +1015,8 @@
             9,
             10,
             11,
-            12
+            12,
+            13
           ]
         },
         {
@@ -1266,7 +1277,8 @@
             29,
             30,
             31,
-            32
+            32,
+            33
           ]
         },
         {
@@ -1400,12 +1412,13 @@
             25,
             26,
             27,
-            29,
+            28,
             30,
             31,
             32,
             33,
-            34
+            34,
+            35
           ]
         },
         {
@@ -1467,7 +1480,7 @@
             21,
             22,
             23,
-            25
+            24
           ]
         },
         {

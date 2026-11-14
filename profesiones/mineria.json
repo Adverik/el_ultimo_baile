@@ -23,7 +23,7 @@
       "personaje": "Coloso Tempestad",
       "clase": "warrior",
       "raider": false,
-      "nivel": 203,
+      "nivel": 209,
       "max": 225,
       "pct": 53
     },
@@ -31,7 +31,7 @@
       "personaje": "Khyoraku Shunsui",
       "clase": "warrior",
       "raider": true,
-      "nivel": 199,
+      "nivel": 201,
       "max": 225,
       "pct": 35
     },
@@ -44,26 +44,26 @@
       "pct": 35
     },
     {
-      "personaje": "Flexita Shadowsoul",
-      "clase": "hunter",
-      "raider": false,
-      "nivel": 149,
-      "max": 225,
-      "pct": 35
-    },
-    {
       "personaje": "Espartaco Gladiador",
       "clase": "warrior",
       "raider": true,
-      "nivel": 148,
+      "nivel": 163,
       "max": 225,
       "pct": 41
+    },
+    {
+      "personaje": "Flexita Shadowsoul",
+      "clase": "hunter",
+      "raider": false,
+      "nivel": 151,
+      "max": 225,
+      "pct": 35
     },
     {
       "personaje": "Cuzcu Aker",
       "clase": "paladin",
       "raider": true,
-      "nivel": 129,
+      "nivel": 131,
       "max": 225,
       "pct": 35
     },
@@ -111,9 +111,9 @@
       "personaje": "Jonaver Legends",
       "clase": "mage",
       "raider": false,
-      "nivel": 72,
+      "nivel": 80,
       "max": 150,
-      "pct": 12
+      "pct": 24
     },
     {
       "personaje": "Grimmjow Jaegerjakez",
@@ -127,7 +127,7 @@
       "personaje": "Tanki Llo",
       "clase": "warlock",
       "raider": false,
-      "nivel": 15,
+      "nivel": 17,
       "max": 75,
       "pct": 6
     }
@@ -218,7 +218,8 @@
             9,
             10,
             11,
-            12
+            12,
+            13
           ]
         },
         {
@@ -322,7 +323,8 @@
             9,
             10,
             11,
-            12
+            12,
+            13
           ]
         },
         {
@@ -675,7 +677,7 @@
             "sub": "Otros"
           },
           "quien": [
-            6
+            5
           ]
         },
         {

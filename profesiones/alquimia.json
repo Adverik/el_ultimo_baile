@@ -7,9 +7,9 @@
       "personaje": "Sugar Papy",
       "clase": "druid",
       "raider": false,
-      "nivel": 240,
+      "nivel": 248,
       "max": 300,
-      "pct": 20
+      "pct": 21
     },
     {
       "personaje": "Dio Hotmetal",
@@ -47,9 +47,9 @@
       "personaje": "Viilar Terrisia",
       "clase": "druid",
       "raider": false,
-      "nivel": 136,
-      "max": 150,
-      "pct": 14
+      "nivel": 151,
+      "max": 225,
+      "pct": 15
     },
     {
       "personaje": "Genethika Brisaveloz",
@@ -368,7 +368,9 @@
               "35"
             ]
           },
-          "quien": []
+          "quien": [
+            5
+          ]
         },
         {
           "id": 1822,
@@ -571,7 +573,9 @@
               "5"
             ]
           },
-          "quien": []
+          "quien": [
+            0
+          ]
         },
         {
           "id": 4178,
@@ -659,7 +663,8 @@
             1,
             2,
             3,
-            4
+            4,
+            5
           ]
         },
         {
@@ -3493,6 +3498,7 @@
           "quien": [
             0,
             1,
+            5,
             6
           ]
         },

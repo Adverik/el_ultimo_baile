@@ -2331,12 +2331,67 @@
           "clase": "priest"
         },
         {
+          "n": "Sr Byron",
+          "clase": "warlock"
+        },
+        {
           "n": "Dum Bo",
           "clase": "mage"
         },
         {
           "n": "Nimassus Pater",
           "clase": "priest"
+        }
+      ]
+    },
+    {
+      "id": 55473,
+      "n": "Diadema brillante de filigrana",
+      "q": "rare",
+      "ico": "132767",
+      "reac": [
+        [
+          "Madeja de paño de seda",
+          8
+        ],
+        [
+          "Hilo refinado",
+          4
+        ],
+        [
+          "Tinte cerúleo",
+          2
+        ],
+        [
+          "Pirita",
+          6
+        ]
+      ],
+      "obj": {
+        "arm": "38 armadura",
+        "id": 253985,
+        "ilvl": 30,
+        "lig": "Se liga al recogerlo",
+        "n": "Diadema brillante de filigrana",
+        "q": "rare",
+        "ranura": "Cabeza",
+        "req": 25,
+        "stats": [
+          "+12 aguante",
+          "+14 Daño Sagrado"
+        ],
+        "sub": "Tela",
+        "venta": [
+          "0",
+          "15",
+          "45"
+        ]
+      },
+      "profesion": "Sastrería",
+      "personajes": [
+        {
+          "n": "Sr Byron",
+          "clase": "warlock"
         }
       ]
     },
@@ -2496,6 +2551,10 @@
       "profesion": "Sastrería",
       "personajes": [
         {
+          "n": "Sr Byron",
+          "clase": "warlock"
+        },
+        {
           "n": "Dum Bo",
           "clase": "mage"
         }
@@ -2608,6 +2667,10 @@
           "clase": "priest"
         },
         {
+          "n": "Sr Byron",
+          "clase": "warlock"
+        },
+        {
           "n": "Dum Bo",
           "clase": "mage"
         },
@@ -2683,6 +2746,10 @@
         {
           "n": "Finn Felagund",
           "clase": "priest"
+        },
+        {
+          "n": "Sr Byron",
+          "clase": "warlock"
         },
         {
           "n": "Dum Bo",
@@ -2992,6 +3059,63 @@
       ]
     },
     {
+      "id": 55484,
+      "n": "Zapatillas negras",
+      "q": "rare",
+      "ico": "132578",
+      "reac": [
+        [
+          "Madeja de tejido mágico",
+          8
+        ],
+        [
+          "Hilo de seda pesada",
+          4
+        ],
+        [
+          "Tinte magenta",
+          2
+        ],
+        [
+          "Tinte cerúleo",
+          2
+        ],
+        [
+          "Perla negra",
+          2
+        ]
+      ],
+      "obj": {
+        "arm": "35 armadura",
+        "id": 254007,
+        "ilvl": 35,
+        "lig": "Se liga al recogerlo",
+        "n": "Zapatillas negras",
+        "q": "rare",
+        "ranura": "Pies",
+        "req": 30,
+        "stats": [
+          "+7 intelecto",
+          "+6 aguante",
+          "+4 espíritu",
+          "+13 Daño de las Sombras"
+        ],
+        "sub": "Tela",
+        "venta": [
+          "0",
+          "25",
+          "7"
+        ]
+      },
+      "profesion": "Sastrería",
+      "personajes": [
+        {
+          "n": "Sr Byron",
+          "clase": "warlock"
+        }
+      ]
+    },
+    {
       "id": 55481,
       "n": "Zapatillas áureas",
       "q": "rare",
@@ -3046,6 +3170,63 @@
         {
           "n": "Finn Felagund",
           "clase": "priest"
+        }
+      ]
+    },
+    {
+      "id": 55483,
+      "n": "Zapatillas ígneas",
+      "q": "rare",
+      "ico": "132559",
+      "reac": [
+        [
+          "Madeja de tejido mágico",
+          8
+        ],
+        [
+          "Hilo de seda pesada",
+          4
+        ],
+        [
+          "Tinte magenta",
+          2
+        ],
+        [
+          "Tinte cerúleo",
+          2
+        ],
+        [
+          "Corazón de fuego",
+          2
+        ]
+      ],
+      "obj": {
+        "arm": "35 armadura",
+        "id": 254005,
+        "ilvl": 35,
+        "lig": "Se liga al recogerlo",
+        "n": "Zapatillas ígneas",
+        "q": "rare",
+        "ranura": "Pies",
+        "req": 30,
+        "stats": [
+          "+7 intelecto",
+          "+6 aguante",
+          "+4 espíritu",
+          "+13 Daño de Fuego"
+        ],
+        "sub": "Tela",
+        "venta": [
+          "0",
+          "24",
+          "88"
+        ]
+      },
+      "profesion": "Sastrería",
+      "personajes": [
+        {
+          "n": "Sr Byron",
+          "clase": "warlock"
         }
       ]
     }
