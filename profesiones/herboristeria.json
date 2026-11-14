@@ -23,7 +23,7 @@
       "personaje": "Layrela Rondanit",
       "clase": "druid",
       "raider": true,
-      "nivel": 193,
+      "nivel": 196,
       "max": 225,
       "pct": 33
     },
@@ -31,7 +31,7 @@
       "personaje": "Fran Furion",
       "clase": "druid",
       "raider": true,
-      "nivel": 169,
+      "nivel": 180,
       "max": 225,
       "pct": 33
     },
@@ -39,21 +39,21 @@
       "personaje": "Viilar Terrisia",
       "clase": "druid",
       "raider": false,
-      "nivel": 157,
-      "max": 225,
-      "pct": 33
-    },
-    {
-      "personaje": "Don Josechu",
-      "clase": "warlock",
-      "raider": false,
-      "nivel": 151,
+      "nivel": 162,
       "max": 225,
       "pct": 33
     },
     {
       "personaje": "Nelv Stardancer",
       "clase": "druid",
+      "raider": false,
+      "nivel": 155,
+      "max": 225,
+      "pct": 33
+    },
+    {
+      "personaje": "Don Josechu",
+      "clase": "warlock",
       "raider": false,
       "nivel": 151,
       "max": 225,
@@ -92,16 +92,16 @@
       "pct": 33
     },
     {
-      "personaje": "Blind Minds",
-      "clase": "priest",
+      "personaje": "Fitipaldi Sendaumbria",
+      "clase": "rogue",
       "raider": true,
-      "nivel": 14,
+      "nivel": 16,
       "max": 75,
       "pct": 0
     },
     {
-      "personaje": "Fitipaldi Sendaumbria",
-      "clase": "rogue",
+      "personaje": "Blind Minds",
+      "clase": "priest",
       "raider": true,
       "nivel": 14,
       "max": 75,

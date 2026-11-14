@@ -31,7 +31,7 @@
       "personaje": "Finn Felagund",
       "clase": "priest",
       "raider": false,
-      "nivel": 160,
+      "nivel": 163,
       "max": 225,
       "pct": 33
     },
@@ -108,6 +108,14 @@
       "pct": 33
     },
     {
+      "personaje": "Samael Thallanor",
+      "clase": "hunter",
+      "raider": false,
+      "nivel": 101,
+      "max": 150,
+      "pct": 33
+    },
+    {
       "personaje": "Layrela Rondanit",
       "clase": "druid",
       "raider": true,
@@ -137,14 +145,6 @@
       "raider": true,
       "nivel": 75,
       "max": 75,
-      "pct": 33
-    },
-    {
-      "personaje": "Samael Thallanor",
-      "clase": "hunter",
-      "raider": false,
-      "nivel": 75,
-      "max": 150,
       "pct": 33
     },
     {
@@ -204,6 +204,14 @@
       "pct": 33
     },
     {
+      "personaje": "Hugo Forjaluz",
+      "clase": "paladin",
+      "raider": false,
+      "nivel": 20,
+      "max": 75,
+      "pct": 33
+    },
+    {
       "personaje": "La Pety",
       "clase": "rogue",
       "raider": false,
@@ -246,14 +254,6 @@
     {
       "personaje": "Grimmjow Jaegerjakez",
       "clase": "druid",
-      "raider": false,
-      "nivel": 1,
-      "max": 75,
-      "pct": 0
-    },
-    {
-      "personaje": "Hugo Forjaluz",
-      "clase": "paladin",
       "raider": false,
       "nivel": 1,
       "max": 75,
@@ -339,7 +339,8 @@
             21,
             23,
             24,
-            25
+            25,
+            26
           ]
         },
         {

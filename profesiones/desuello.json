@@ -36,6 +36,14 @@
       "pct": 33
     },
     {
+      "personaje": "Manelhon Gargon",
+      "clase": "shaman",
+      "raider": true,
+      "nivel": 200,
+      "max": 225,
+      "pct": 33
+    },
+    {
       "personaje": "Runa Ruina",
       "clase": "shaman",
       "raider": true,
@@ -48,14 +56,6 @@
       "clase": "rogue",
       "raider": false,
       "nivel": 198,
-      "max": 225,
-      "pct": 33
-    },
-    {
-      "personaje": "Manelhon Gargon",
-      "clase": "shaman",
-      "raider": true,
-      "nivel": 180,
       "max": 225,
       "pct": 33
     },
@@ -87,7 +87,15 @@
       "personaje": "Fitipaldi Sendaumbria",
       "clase": "rogue",
       "raider": true,
-      "nivel": 119,
+      "nivel": 121,
+      "max": 150,
+      "pct": 33
+    },
+    {
+      "personaje": "Samael Thallanor",
+      "clase": "hunter",
+      "raider": false,
+      "nivel": 104,
       "max": 150,
       "pct": 33
     },
@@ -98,14 +106,6 @@
       "nivel": 100,
       "max": 150,
       "pct": 33
-    },
-    {
-      "personaje": "Samael Thallanor",
-      "clase": "hunter",
-      "raider": false,
-      "nivel": 13,
-      "max": 75,
-      "pct": 0
     }
   ],
   "categorias": [
@@ -150,7 +150,8 @@
             8,
             9,
             10,
-            11
+            11,
+            12
           ]
         },
         {

@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-13",
+  "actualizado": "2026-11-14",
   "recetas": [
     {
       "id": 54692,
@@ -67,12 +67,12 @@
           "clase": "paladin"
         },
         {
-          "n": "Mosu Warryn",
-          "clase": "warrior"
-        },
-        {
           "n": "Hugo Forjaluz",
           "clase": "paladin"
+        },
+        {
+          "n": "Mosu Warryn",
+          "clase": "warrior"
         },
         {
           "n": "Armando Buya",
@@ -1052,15 +1052,15 @@
       "profesion": "Peletería",
       "personajes": [
         {
+          "n": "Palmira Natblida",
+          "clase": "rogue"
+        },
+        {
           "n": "Diana Flechaveloz",
           "clase": "hunter"
         },
         {
           "n": "Aurelio Amador",
-          "clase": "rogue"
-        },
-        {
-          "n": "Palmira Natblida",
           "clase": "rogue"
         },
         {
@@ -1686,15 +1686,15 @@
       "profesion": "Peletería",
       "personajes": [
         {
+          "n": "Palmira Natblida",
+          "clase": "rogue"
+        },
+        {
           "n": "Diana Flechaveloz",
           "clase": "hunter"
         },
         {
           "n": "Aurelio Amador",
-          "clase": "rogue"
-        },
-        {
-          "n": "Palmira Natblida",
           "clase": "rogue"
         },
         {
@@ -1866,15 +1866,15 @@
       "profesion": "Peletería",
       "personajes": [
         {
+          "n": "Palmira Natblida",
+          "clase": "rogue"
+        },
+        {
           "n": "Diana Flechaveloz",
           "clase": "hunter"
         },
         {
           "n": "Aurelio Amador",
-          "clase": "rogue"
-        },
-        {
-          "n": "Palmira Natblida",
           "clase": "rogue"
         },
         {
@@ -2040,6 +2040,53 @@
         {
           "n": "Edoras Duskranger",
           "clase": "hunter"
+        }
+      ]
+    },
+    {
+      "id": 55150,
+      "n": "Yelmo de cuero de jinete de la tormenta",
+      "q": "rare",
+      "ico": "133132",
+      "reac": [
+        [
+          "Cuero medio",
+          12
+        ],
+        [
+          "Pellejo medio curado",
+          2
+        ],
+        [
+          "Tinte cerúleo",
+          3
+        ]
+      ],
+      "obj": {
+        "arm": "84 armadura",
+        "id": 252514,
+        "ilvl": 30,
+        "lig": "Se liga al recogerlo",
+        "n": "Yelmo de cuero de jinete de la tormenta",
+        "q": "rare",
+        "ranura": "Cabeza",
+        "req": 25,
+        "stats": [
+          "+13 aguante",
+          "+10 espíritu"
+        ],
+        "sub": "Cuero",
+        "venta": [
+          "0",
+          "20",
+          "71"
+        ]
+      },
+      "profesion": "Peletería",
+      "personajes": [
+        {
+          "n": "Palmira Natblida",
+          "clase": "rogue"
         }
       ]
     },

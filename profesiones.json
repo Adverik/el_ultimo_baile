@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-13",
+  "actualizado": "2026-11-14",
   "artesanos": [
     {
       "personaje": "Aalesian Naeuri",
@@ -40,7 +40,7 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 89,
+          "nivel": 94,
           "max": 150
         },
         {
@@ -165,7 +165,7 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 191,
+          "nivel": 195,
           "max": 225
         },
         {
@@ -229,8 +229,8 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 120,
-          "max": 150
+          "nivel": 129,
+          "max": 225
         },
         {
           "nombre": "Ingeniería",
@@ -239,7 +239,7 @@
         },
         {
           "nombre": "Cocina",
-          "nivel": 150,
+          "nivel": 225,
           "max": 225
         },
         {
@@ -347,7 +347,7 @@
       "profesiones": [
         {
           "nombre": "Sastrería",
-          "nivel": 140,
+          "nivel": 145,
           "max": 225
         },
         {
@@ -512,7 +512,7 @@
         },
         {
           "nombre": "Pesca",
-          "nivel": 160,
+          "nivel": 163,
           "max": 225
         }
       ]
@@ -524,12 +524,12 @@
       "profesiones": [
         {
           "nombre": "Desuello",
-          "nivel": 119,
+          "nivel": 121,
           "max": 150
         },
         {
           "nombre": "Herboristería",
-          "nivel": 14,
+          "nivel": 16,
           "max": 75
         },
         {
@@ -539,7 +539,7 @@
         },
         {
           "nombre": "Primeros auxilios",
-          "nivel": 59,
+          "nivel": 64,
           "max": 150
         }
       ]
@@ -583,12 +583,12 @@
       "profesiones": [
         {
           "nombre": "Alquimia",
-          "nivel": 183,
+          "nivel": 190,
           "max": 225
         },
         {
           "nombre": "Herboristería",
-          "nivel": 169,
+          "nivel": 180,
           "max": 225
         },
         {
@@ -669,27 +669,27 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 99,
+          "nivel": 105,
           "max": 150
         },
         {
           "nombre": "Herrería",
-          "nivel": 88,
+          "nivel": 90,
           "max": 150
         },
         {
           "nombre": "Cocina",
-          "nivel": 21,
+          "nivel": 26,
           "max": 75
         },
         {
           "nombre": "Pesca",
-          "nivel": 1,
+          "nivel": 20,
           "max": 75
         },
         {
           "nombre": "Primeros auxilios",
-          "nivel": 92,
+          "nivel": 102,
           "max": 150
         }
       ]
@@ -787,7 +787,7 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 165,
+          "nivel": 171,
           "max": 225
         },
         {
@@ -814,7 +814,7 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 168,
+          "nivel": 195,
           "max": 225
         },
         {
@@ -834,7 +834,7 @@
         },
         {
           "nombre": "Primeros auxilios",
-          "nivel": 240,
+          "nivel": 267,
           "max": 300
         }
       ]
@@ -846,12 +846,12 @@
       "profesiones": [
         {
           "nombre": "Alquimia",
-          "nivel": 150,
+          "nivel": 169,
           "max": 225
         },
         {
           "nombre": "Herboristería",
-          "nivel": 193,
+          "nivel": 196,
           "max": 225
         },
         {
@@ -866,7 +866,7 @@
         },
         {
           "nombre": "Primeros auxilios",
-          "nivel": 150,
+          "nivel": 153,
           "max": 225
         }
       ]
@@ -878,12 +878,12 @@
       "profesiones": [
         {
           "nombre": "Peletería",
-          "nivel": 113,
+          "nivel": 117,
           "max": 150
         },
         {
           "nombre": "Desuello",
-          "nivel": 180,
+          "nivel": 200,
           "max": 225
         },
         {
@@ -1006,12 +1006,12 @@
       "profesiones": [
         {
           "nombre": "Alquimia",
-          "nivel": 138,
+          "nivel": 150,
           "max": 150
         },
         {
           "nombre": "Herboristería",
-          "nivel": 151,
+          "nivel": 155,
           "max": 225
         },
         {
@@ -1097,7 +1097,7 @@
       "profesiones": [
         {
           "nombre": "Peletería",
-          "nivel": 151,
+          "nivel": 161,
           "max": 225
         },
         {
@@ -1210,17 +1210,17 @@
       "profesiones": [
         {
           "nombre": "Desuello",
-          "nivel": 13,
-          "max": 75
+          "nivel": 104,
+          "max": 150
         },
         {
           "nombre": "Cocina",
-          "nivel": 1,
+          "nivel": 24,
           "max": 75
         },
         {
           "nombre": "Pesca",
-          "nivel": 75,
+          "nivel": 101,
           "max": 150
         }
       ]
@@ -1419,7 +1419,7 @@
         },
         {
           "nombre": "Herboristería",
-          "nivel": 157,
+          "nivel": 162,
           "max": 225
         },
         {
@@ -1434,7 +1434,7 @@
         },
         {
           "nombre": "Primeros auxilios",
-          "nivel": 135,
+          "nivel": 137,
           "max": 150
         }
       ]
@@ -1527,6 +1527,7 @@
         "Don Josechu",
         "Fran Furion",
         "Layrela Rondanit",
+        "Nelv Stardancer",
         "Sugar Papy"
       ]
     },
@@ -1670,6 +1671,7 @@
       "calidad": "common",
       "personajes": [
         "Dio Hotmetal",
+        "Layrela Rondanit",
         "Sugar Papy"
       ]
     },
@@ -1858,6 +1860,7 @@
       "profesion": "Alquimia",
       "calidad": "common",
       "personajes": [
+        "Fran Furion",
         "Viilar Terrisia"
       ]
     },
@@ -1963,6 +1966,7 @@
       "profesion": "Alquimia",
       "calidad": "common",
       "personajes": [
+        "Nelv Stardancer",
         "Sugar Papy"
       ]
     },
@@ -2407,6 +2411,7 @@
         "Flexita Shadowsoul",
         "Khyoraku Shunsui",
         "La Pety",
+        "Manelhon Gargon",
         "Memas Tour",
         "Palmira Natblida",
         "Runa Ruina",
@@ -2500,6 +2505,7 @@
       "calidad": "common",
       "personajes": [
         "Aalesian Naeuri",
+        "Cuzcu Aker",
         "Diana Flechaveloz",
         "Dum Bo",
         "Edoras Duskranger",
@@ -2563,6 +2569,14 @@
         "Palmira Natblida",
         "Runa Ruina",
         "Tharindel Magnaluz"
+      ]
+    },
+    {
+      "nombre": "Heavy Kodo Stew",
+      "profesion": "Cocina",
+      "calidad": "common",
+      "personajes": [
+        "Layrela Rondanit"
       ]
     },
     {
@@ -2724,7 +2738,8 @@
       "profesion": "Cocina",
       "calidad": "common",
       "personajes": [
-        "Finn Felagund"
+        "Finn Felagund",
+        "Layrela Rondanit"
       ]
     },
     {
@@ -2888,6 +2903,7 @@
       "calidad": "common",
       "personajes": [
         "Aalesian Naeuri",
+        "Cuzcu Aker",
         "Finn Felagund",
         "Layrela Rondanit",
         "Sugar Papy"
@@ -2950,6 +2966,7 @@
         "Nelv Stardancer",
         "Nimassus Pater",
         "Palmira Natblida",
+        "Samael Thallanor",
         "Tharindel Magnaluz",
         "Tom Kha"
       ]
@@ -3023,6 +3040,7 @@
         "Flexita Shadowsoul",
         "Genethika Brisaveloz",
         "Grimmjow Jaegerjakez",
+        "Hugo Forjaluz",
         "Ildaren Belisar",
         "Kadeharz Apsus",
         "Khyoraku Shunsui",
@@ -3047,6 +3065,7 @@
       "profesion": "Cocina",
       "calidad": "common",
       "personajes": [
+        "Layrela Rondanit",
         "Sugar Papy"
       ]
     },
@@ -3085,6 +3104,7 @@
         "Dum Bo",
         "Edoras Duskranger",
         "Finn Felagund",
+        "Khyoraku Shunsui",
         "La Pety",
         "Layrela Rondanit",
         "Palmira Natblida"
@@ -3177,6 +3197,7 @@
         "Nindalf Pizpireta",
         "Palmira Natblida",
         "Runa Ruina",
+        "Samael Thallanor",
         "Tom Kha"
       ]
     },
@@ -3218,14 +3239,7 @@
       "personajes": [
         "Filps Pachamamamon",
         "Fitipaldi Sendaumbria",
-        "Nindalf Pizpireta"
-      ]
-    },
-    {
-      "nombre": "Skinning",
-      "profesion": "Desuello",
-      "calidad": "common",
-      "personajes": [
+        "Nindalf Pizpireta",
         "Samael Thallanor"
       ]
     },
@@ -5490,6 +5504,7 @@
       "personajes": [
         "Chaca Choochoo",
         "Coloso Tempestad",
+        "Cuzcu Aker",
         "Espartaco Gladiador",
         "Flexita Shadowsoul",
         "Khyoraku Shunsui",
@@ -5572,6 +5587,7 @@
         "Aalesian Naeuri",
         "Chaca Choochoo",
         "Coloso Tempestad",
+        "Cuzcu Aker",
         "Espartaco Gladiador",
         "Flexita Shadowsoul",
         "Khyoraku Shunsui",
@@ -5896,7 +5912,8 @@
       "profesion": "Peletería",
       "calidad": "uncommon",
       "personajes": [
-        "Diana Flechaveloz"
+        "Diana Flechaveloz",
+        "Palmira Natblida"
       ]
     },
     {
@@ -6072,6 +6089,14 @@
       ]
     },
     {
+      "nombre": "Frost Leather Cloak",
+      "profesion": "Peletería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Palmira Natblida"
+      ]
+    },
+    {
       "nombre": "Gray Leather Boots",
       "profesion": "Peletería",
       "calidad": "uncommon",
@@ -6099,7 +6124,8 @@
       "profesion": "Peletería",
       "calidad": "uncommon",
       "personajes": [
-        "Diana Flechaveloz"
+        "Diana Flechaveloz",
+        "Palmira Natblida"
       ]
     },
     {
@@ -6268,6 +6294,7 @@
       "calidad": "uncommon",
       "personajes": [
         "Aurelio Amador",
+        "Manelhon Gargon",
         "Palmira Natblida"
       ]
     },
@@ -6528,6 +6555,14 @@
       ]
     },
     {
+      "nombre": "Pilferer's Gloves",
+      "profesion": "Peletería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Manelhon Gargon"
+      ]
+    },
+    {
       "nombre": "Prowler's Leather Belt",
       "profesion": "Peletería",
       "calidad": "rare",
@@ -6596,6 +6631,14 @@
       "calidad": "rare",
       "personajes": [
         "Memas Tour",
+        "Palmira Natblida"
+      ]
+    },
+    {
+      "nombre": "Stormrider's Leather Helm",
+      "profesion": "Peletería",
+      "calidad": "rare",
+      "personajes": [
         "Palmira Natblida"
       ]
     },
@@ -6688,6 +6731,7 @@
         "Espartaco Gladiador",
         "Finn Felagund",
         "Flexita Shadowsoul",
+        "Hugo Forjaluz",
         "La Pety",
         "Layrela Rondanit",
         "Manelhon Gargon",
@@ -6897,6 +6941,14 @@
       ]
     },
     {
+      "nombre": "Heavy Mageweave Bandage",
+      "profesion": "Primeros auxilios",
+      "calidad": "common",
+      "personajes": [
+        "La Pety"
+      ]
+    },
+    {
       "nombre": "Heavy Silk Bandage",
       "profesion": "Primeros auxilios",
       "calidad": "common",
@@ -7077,6 +7129,14 @@
       ]
     },
     {
+      "nombre": "Runecloth Bandage",
+      "profesion": "Primeros auxilios",
+      "calidad": "common",
+      "personajes": [
+        "La Pety"
+      ]
+    },
+    {
       "nombre": "Silk Bandage",
       "profesion": "Primeros auxilios",
       "calidad": "common",
@@ -7087,6 +7147,7 @@
         "Flexita Shadowsoul",
         "Genethika Brisaveloz",
         "La Pety",
+        "Layrela Rondanit",
         "Palmira Natblida",
         "Sugar Papy"
       ]

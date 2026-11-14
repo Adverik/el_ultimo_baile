@@ -1347,6 +1347,10 @@
     "calidad": "uncommon",
     "objeto": true
   },
+  "5029": {
+    "calidad": "uncommon",
+    "objeto": true
+  },
   "5047": {
     "calidad": "uncommon",
     "objeto": true
@@ -1356,6 +1360,10 @@
     "objeto": true
   },
   "5050": {
+    "calidad": "uncommon",
+    "objeto": true
+  },
+  "5052": {
     "calidad": "uncommon",
     "objeto": true
   },
@@ -1420,6 +1428,10 @@
     "objeto": false
   },
   "5767": {
+    "calidad": "common",
+    "objeto": true
+  },
+  "5768": {
     "calidad": "common",
     "objeto": true
   },
@@ -1631,6 +1643,10 @@
     "calidad": "common",
     "objeto": true
   },
+  "8624": {
+    "calidad": "common",
+    "objeto": true
+  },
   "8636": {
     "calidad": "uncommon",
     "objeto": true
@@ -1640,6 +1656,10 @@
     "objeto": false
   },
   "10245": {
+    "calidad": "common",
+    "objeto": true
+  },
+  "10488": {
     "calidad": "common",
     "objeto": true
   },
@@ -1968,6 +1988,10 @@
     "objeto": true
   },
   "55142": {
+    "calidad": "rare",
+    "objeto": true
+  },
+  "55150": {
     "calidad": "rare",
     "objeto": true
   },
