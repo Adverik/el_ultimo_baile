@@ -47,11 +47,11 @@
       "profesion": "Herrería",
       "personajes": [
         {
-          "n": "Aalesian Naeuri",
+          "n": "Coloso Tempestad",
           "clase": "warrior"
         },
         {
-          "n": "Coloso Tempestad",
+          "n": "Aalesian Naeuri",
           "clase": "warrior"
         },
         {
@@ -126,11 +126,11 @@
       "profesion": "Herrería",
       "personajes": [
         {
-          "n": "Aalesian Naeuri",
+          "n": "Coloso Tempestad",
           "clase": "warrior"
         },
         {
-          "n": "Coloso Tempestad",
+          "n": "Aalesian Naeuri",
           "clase": "warrior"
         },
         {
@@ -198,11 +198,11 @@
       "profesion": "Herrería",
       "personajes": [
         {
-          "n": "Aalesian Naeuri",
+          "n": "Coloso Tempestad",
           "clase": "warrior"
         },
         {
-          "n": "Coloso Tempestad",
+          "n": "Aalesian Naeuri",
           "clase": "warrior"
         },
         {
@@ -378,11 +378,11 @@
       "profesion": "Herrería",
       "personajes": [
         {
-          "n": "Aalesian Naeuri",
+          "n": "Coloso Tempestad",
           "clase": "warrior"
         },
         {
-          "n": "Coloso Tempestad",
+          "n": "Aalesian Naeuri",
           "clase": "warrior"
         }
       ]
@@ -526,11 +526,11 @@
       "profesion": "Herrería",
       "personajes": [
         {
-          "n": "Aalesian Naeuri",
+          "n": "Coloso Tempestad",
           "clase": "warrior"
         },
         {
-          "n": "Coloso Tempestad",
+          "n": "Aalesian Naeuri",
           "clase": "warrior"
         },
         {
@@ -686,11 +686,11 @@
       "profesion": "Herrería",
       "personajes": [
         {
-          "n": "Aalesian Naeuri",
+          "n": "Coloso Tempestad",
           "clase": "warrior"
         },
         {
-          "n": "Coloso Tempestad",
+          "n": "Aalesian Naeuri",
           "clase": "warrior"
         },
         {
@@ -1052,12 +1052,12 @@
       "profesion": "Peletería",
       "personajes": [
         {
-          "n": "Palmira Natblida",
-          "clase": "rogue"
-        },
-        {
           "n": "Diana Flechaveloz",
           "clase": "hunter"
+        },
+        {
+          "n": "Palmira Natblida",
+          "clase": "rogue"
         },
         {
           "n": "Aurelio Amador",
@@ -1686,12 +1686,12 @@
       "profesion": "Peletería",
       "personajes": [
         {
-          "n": "Palmira Natblida",
-          "clase": "rogue"
-        },
-        {
           "n": "Diana Flechaveloz",
           "clase": "hunter"
+        },
+        {
+          "n": "Palmira Natblida",
+          "clase": "rogue"
         },
         {
           "n": "Aurelio Amador",
@@ -1866,12 +1866,12 @@
       "profesion": "Peletería",
       "personajes": [
         {
-          "n": "Palmira Natblida",
-          "clase": "rogue"
-        },
-        {
           "n": "Diana Flechaveloz",
           "clase": "hunter"
+        },
+        {
+          "n": "Palmira Natblida",
+          "clase": "rogue"
         },
         {
           "n": "Aurelio Amador",
@@ -2133,6 +2133,10 @@
       "personajes": [
         {
           "n": "Memas Tour",
+          "clase": "shaman"
+        },
+        {
+          "n": "Manelhon Gargon",
           "clase": "shaman"
         }
       ]
@@ -2911,6 +2915,124 @@
       "personajes": [
         {
           "n": "Nimassus Pater",
+          "clase": "priest"
+        }
+      ]
+    },
+    {
+      "id": 4854,
+      "n": "Toga de poder",
+      "q": "rare",
+      "ico": "132643",
+      "reac": [
+        [
+          "Madeja de tejido mágico",
+          2
+        ],
+        [
+          "Elemental de tierra",
+          2
+        ],
+        [
+          "Elemental de agua",
+          2
+        ],
+        [
+          "Elemental de Fuego",
+          2
+        ],
+        [
+          "Elemental de aire",
+          2
+        ],
+        [
+          "Hilo de seda",
+          2
+        ]
+      ],
+      "obj": {
+        "arm": "55 armadura",
+        "id": 7054,
+        "ilvl": 38,
+        "lig": "Se liga al recogerlo",
+        "n": "Toga de Poder",
+        "q": "rare",
+        "ranura": "Pecho",
+        "req": 33,
+        "stats": [
+          "+12 intelecto",
+          "+14 poder con hechizos",
+          "+8 espíritu"
+        ],
+        "sub": "Tela",
+        "venta": [
+          "0",
+          "47",
+          "0"
+        ]
+      },
+      "profesion": "Sastrería",
+      "personajes": [
+        {
+          "n": "Finn Felagund",
+          "clase": "priest"
+        }
+      ]
+    },
+    {
+      "id": 55481,
+      "n": "Zapatillas áureas",
+      "q": "rare",
+      "ico": "132149",
+      "reac": [
+        [
+          "Madeja de tejido mágico",
+          8
+        ],
+        [
+          "Hilo de seda pesada",
+          4
+        ],
+        [
+          "Tinte magenta",
+          2
+        ],
+        [
+          "Tinte cerúleo",
+          2
+        ],
+        [
+          "Lingote de oro",
+          2
+        ]
+      ],
+      "obj": {
+        "arm": "35 armadura",
+        "id": 254001,
+        "ilvl": 35,
+        "lig": "Se liga al recogerlo",
+        "n": "Zapatillas áureas",
+        "q": "rare",
+        "ranura": "Pies",
+        "req": 30,
+        "stats": [
+          "+7 intelecto",
+          "+6 aguante",
+          "+7 Daño con hechizos",
+          "+20 Sanación con hechizos",
+          "+4 espíritu"
+        ],
+        "sub": "Tela",
+        "venta": [
+          "0",
+          "27",
+          "11"
+        ]
+      },
+      "profesion": "Sastrería",
+      "personajes": [
+        {
+          "n": "Finn Felagund",
           "clase": "priest"
         }
       ]

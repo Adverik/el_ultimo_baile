@@ -10,7 +10,7 @@
     "slug": "cocina",
     "nombre": "Cocina",
     "ico": "133971",
-    "artesanos": 49,
+    "artesanos": 50,
     "total": 132
   },
   {
@@ -31,7 +31,7 @@
     "slug": "herboristeria",
     "nombre": "Herboristería",
     "ico": "136246",
-    "artesanos": 14,
+    "artesanos": 15,
     "total": 3
   },
   {
@@ -52,7 +52,7 @@
     "slug": "mineria",
     "nombre": "Minería",
     "ico": "136248",
-    "artesanos": 15,
+    "artesanos": 16,
     "total": 17
   },
   {

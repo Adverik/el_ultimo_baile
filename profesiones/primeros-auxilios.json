@@ -84,6 +84,14 @@
       "pct": 38
     },
     {
+      "personaje": "Runa Ruina",
+      "clase": "shaman",
+      "raider": true,
+      "nivel": 150,
+      "max": 150,
+      "pct": 38
+    },
+    {
       "personaje": "Sugar Papy",
       "clase": "druid",
       "raider": false,
@@ -108,14 +116,6 @@
       "pct": 31
     },
     {
-      "personaje": "Runa Ruina",
-      "clase": "shaman",
-      "raider": true,
-      "nivel": 133,
-      "max": 150,
-      "pct": 38
-    },
-    {
       "personaje": "Nelv Stardancer",
       "clase": "druid",
       "raider": false,
@@ -127,7 +127,7 @@
       "personaje": "Hugo Forjaluz",
       "clase": "paladin",
       "raider": false,
-      "nivel": 102,
+      "nivel": 106,
       "max": 150,
       "pct": 22
     },
@@ -571,7 +571,7 @@
             5,
             7,
             9,
-            10
+            11
           ]
         },
         {
@@ -869,7 +869,7 @@
             ]
           },
           "quien": [
-            13
+            10
           ]
         },
         {
@@ -1016,7 +1016,7 @@
             9,
             10,
             11,
-            13
+            12
           ]
         },
         {
@@ -1528,7 +1528,7 @@
             7,
             9,
             10,
-            12,
+            11,
             13,
             14
           ]

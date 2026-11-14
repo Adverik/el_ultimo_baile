@@ -31,7 +31,15 @@
       "personaje": "Memas Tour",
       "clase": "shaman",
       "raider": false,
-      "nivel": 215,
+      "nivel": 220,
+      "max": 225,
+      "pct": 33
+    },
+    {
+      "personaje": "Runa Ruina",
+      "clase": "shaman",
+      "raider": true,
+      "nivel": 201,
       "max": 225,
       "pct": 33
     },
@@ -44,18 +52,10 @@
       "pct": 33
     },
     {
-      "personaje": "Runa Ruina",
-      "clase": "shaman",
-      "raider": true,
-      "nivel": 200,
-      "max": 225,
-      "pct": 33
-    },
-    {
       "personaje": "Aurelio Amador",
       "clase": "rogue",
       "raider": false,
-      "nivel": 198,
+      "nivel": 199,
       "max": 225,
       "pct": 33
     },

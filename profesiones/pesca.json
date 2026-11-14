@@ -132,6 +132,14 @@
       "pct": 33
     },
     {
+      "personaje": "Manelhon Gargon",
+      "clase": "shaman",
+      "raider": true,
+      "nivel": 80,
+      "max": 150,
+      "pct": 33
+    },
+    {
       "personaje": "Tom Kha",
       "clase": "shaman",
       "raider": false,
@@ -145,14 +153,6 @@
       "raider": true,
       "nivel": 75,
       "max": 75,
-      "pct": 33
-    },
-    {
-      "personaje": "Manelhon Gargon",
-      "clase": "shaman",
-      "raider": true,
-      "nivel": 54,
-      "max": 150,
       "pct": 33
     },
     {
@@ -172,20 +172,20 @@
       "pct": 33
     },
     {
+      "personaje": "Dio Hotmetal",
+      "clase": "hunter",
+      "raider": false,
+      "nivel": 31,
+      "max": 75,
+      "pct": 0
+    },
+    {
       "personaje": "Nindalf Pizpireta",
       "clase": "rogue",
       "raider": false,
       "nivel": 30,
       "max": 75,
       "pct": 33
-    },
-    {
-      "personaje": "Dio Hotmetal",
-      "clase": "hunter",
-      "raider": false,
-      "nivel": 25,
-      "max": 75,
-      "pct": 0
     },
     {
       "personaje": "Saint Peligroxa",
@@ -336,7 +336,7 @@
             18,
             19,
             20,
-            21,
+            22,
             23,
             24,
             25,

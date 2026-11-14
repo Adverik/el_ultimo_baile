@@ -12,6 +12,22 @@
       "pct": 53
     },
     {
+      "personaje": "Coloso Tempestad",
+      "clase": "warrior",
+      "raider": false,
+      "nivel": 203,
+      "max": 225,
+      "pct": 53
+    },
+    {
+      "personaje": "Khyoraku Shunsui",
+      "clase": "warrior",
+      "raider": true,
+      "nivel": 197,
+      "max": 225,
+      "pct": 35
+    },
+    {
       "personaje": "Chaca Choochoo",
       "clase": "druid",
       "raider": false,
@@ -28,18 +44,10 @@
       "pct": 35
     },
     {
-      "personaje": "Coloso Tempestad",
-      "clase": "warrior",
+      "personaje": "Flexita Shadowsoul",
+      "clase": "hunter",
       "raider": false,
-      "nivel": 193,
-      "max": 225,
-      "pct": 53
-    },
-    {
-      "personaje": "Khyoraku Shunsui",
-      "clase": "warrior",
-      "raider": true,
-      "nivel": 171,
+      "nivel": 141,
       "max": 225,
       "pct": 35
     },
@@ -48,14 +56,6 @@
       "clase": "warrior",
       "raider": true,
       "nivel": 140,
-      "max": 225,
-      "pct": 35
-    },
-    {
-      "personaje": "Flexita Shadowsoul",
-      "clase": "hunter",
-      "raider": false,
-      "nivel": 136,
       "max": 225,
       "pct": 35
     },
@@ -79,7 +79,7 @@
       "personaje": "Hugo Forjaluz",
       "clase": "paladin",
       "raider": false,
-      "nivel": 105,
+      "nivel": 108,
       "max": 150,
       "pct": 29
     },
@@ -111,7 +111,7 @@
       "personaje": "Jonaver Legends",
       "clase": "mage",
       "raider": false,
-      "nivel": 62,
+      "nivel": 70,
       "max": 150,
       "pct": 12
     },
@@ -122,6 +122,14 @@
       "nivel": 47,
       "max": 75,
       "pct": 12
+    },
+    {
+      "personaje": "Tanki Llo",
+      "clase": "warlock",
+      "raider": false,
+      "nivel": 13,
+      "max": 75,
+      "pct": 6
     }
   ],
   "categorias": [
@@ -238,7 +246,7 @@
           },
           "quien": [
             0,
-            3
+            1
           ]
         },
         {
@@ -347,7 +355,7 @@
           },
           "quien": [
             0,
-            3
+            1
           ]
         },
         {
@@ -389,7 +397,8 @@
             11,
             12,
             13,
-            14
+            14,
+            15
           ]
         },
         {
@@ -444,7 +453,7 @@
           },
           "quien": [
             0,
-            3
+            1
           ]
         },
         {
