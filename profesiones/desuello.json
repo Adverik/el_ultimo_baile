@@ -7,7 +7,7 @@
       "personaje": "Edoras Duskranger",
       "clase": "hunter",
       "raider": true,
-      "nivel": 260,
+      "nivel": 268,
       "max": 300,
       "pct": 67
     },
@@ -55,7 +55,7 @@
       "personaje": "Runa Ruina",
       "clase": "shaman",
       "raider": true,
-      "nivel": 216,
+      "nivel": 221,
       "max": 225,
       "pct": 33
     },
@@ -63,7 +63,7 @@
       "personaje": "Ildaren Belisar",
       "clase": "rogue",
       "raider": false,
-      "nivel": 178,
+      "nivel": 198,
       "max": 225,
       "pct": 33
     },

@@ -63,12 +63,12 @@
           "clase": "paladin"
         },
         {
-          "n": "Mosu Warryn",
-          "clase": "warrior"
-        },
-        {
           "n": "Hugo Forjaluz",
           "clase": "paladin"
+        },
+        {
+          "n": "Mosu Warryn",
+          "clase": "warrior"
         },
         {
           "n": "Armando Buya",
@@ -794,6 +794,10 @@
         {
           "n": "Khyoraku Shunsui",
           "clase": "warrior"
+        },
+        {
+          "n": "Hugo Forjaluz",
+          "clase": "paladin"
         }
       ]
     },
@@ -2671,12 +2675,12 @@
           "clase": "warlock"
         },
         {
-          "n": "Micro Bolas",
-          "clase": "warlock"
-        },
-        {
           "n": "Kadeharz Apsus",
           "clase": "mage"
+        },
+        {
+          "n": "Micro Bolas",
+          "clase": "warlock"
         },
         {
           "n": "Saint Peligroxa",
@@ -2756,12 +2760,12 @@
           "clase": "warlock"
         },
         {
-          "n": "Nimassus Pater",
-          "clase": "priest"
-        },
-        {
           "n": "Kadeharz Apsus",
           "clase": "mage"
+        },
+        {
+          "n": "Nimassus Pater",
+          "clase": "priest"
         },
         {
           "n": "Saint Peligroxa",

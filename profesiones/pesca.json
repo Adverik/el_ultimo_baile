@@ -63,7 +63,7 @@
       "personaje": "Cuzcu Aker",
       "clase": "paladin",
       "raider": true,
-      "nivel": 126,
+      "nivel": 127,
       "max": 150,
       "pct": 33
     },
@@ -151,7 +151,7 @@
       "personaje": "Aynita Again",
       "clase": "hunter",
       "raider": false,
-      "nivel": 39,
+      "nivel": 40,
       "max": 75,
       "pct": 33
     },
@@ -172,6 +172,14 @@
       "pct": 33
     },
     {
+      "personaje": "Hugo Forjaluz",
+      "clase": "paladin",
+      "raider": false,
+      "nivel": 30,
+      "max": 75,
+      "pct": 33
+    },
+    {
       "personaje": "Nindalf Pizpireta",
       "clase": "rogue",
       "raider": false,
@@ -184,14 +192,6 @@
       "clase": "mage",
       "raider": true,
       "nivel": 22,
-      "max": 75,
-      "pct": 33
-    },
-    {
-      "personaje": "Hugo Forjaluz",
-      "clase": "paladin",
-      "raider": false,
-      "nivel": 20,
       "max": 75,
       "pct": 33
     },

@@ -32,8 +32,8 @@
       "clase": "druid",
       "raider": false,
       "nivel": 225,
-      "max": 225,
-      "pct": 20
+      "max": 300,
+      "pct": 22
     },
     {
       "personaje": "Layrela Rondanit",
@@ -105,7 +105,7 @@
       "raider": true,
       "nivel": 185,
       "max": 225,
-      "pct": 19
+      "pct": 20
     },
     {
       "personaje": "Edoras Duskranger",
@@ -175,7 +175,7 @@
       "personaje": "Ildaren Belisar",
       "clase": "rogue",
       "raider": false,
-      "nivel": 115,
+      "nivel": 116,
       "max": 150,
       "pct": 14
     },
@@ -837,6 +837,7 @@
             2,
             4,
             6,
+            12,
             13
           ]
         },
@@ -3877,7 +3878,8 @@
             ]
           },
           "quien": [
-            0
+            0,
+            3
           ]
         },
         {
@@ -4413,7 +4415,8 @@
             16,
             18,
             21,
-            22
+            22,
+            23
           ]
         },
         {
@@ -4491,6 +4494,7 @@
             ]
           },
           "quien": [
+            3,
             6,
             7
           ]
