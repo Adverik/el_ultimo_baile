@@ -423,6 +423,14 @@
     "calidad": "uncommon",
     "objeto": true
   },
+  "1986": {
+    "calidad": "uncommon",
+    "objeto": true
+  },
+  "1987": {
+    "calidad": "uncommon",
+    "objeto": true
+  },
   "1993": {
     "calidad": "uncommon",
     "objeto": true
@@ -941,6 +949,10 @@
   },
   "4022": {
     "calidad": "uncommon",
+    "objeto": true
+  },
+  "4023": {
+    "calidad": "common",
     "objeto": true
   },
   "4026": {
@@ -1868,6 +1880,10 @@
     "objeto": true
   },
   "12422": {
+    "calidad": "common",
+    "objeto": true
+  },
+  "12516": {
     "calidad": "common",
     "objeto": true
   },

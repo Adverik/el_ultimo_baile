@@ -23,7 +23,7 @@
       "personaje": "Fran Furion",
       "clase": "druid",
       "raider": true,
-      "nivel": 190,
+      "nivel": 195,
       "max": 225,
       "pct": 15
     },
@@ -39,9 +39,9 @@
       "personaje": "Layrela Rondanit",
       "clase": "druid",
       "raider": true,
-      "nivel": 172,
+      "nivel": 180,
       "max": 225,
-      "pct": 15
+      "pct": 17
     },
     {
       "personaje": "Viilar Terrisia",
@@ -535,7 +535,8 @@
           "quien": [
             0,
             2,
-            3
+            3,
+            4
           ]
         },
         {
@@ -2612,7 +2613,8 @@
             0,
             1,
             2,
-            3
+            3,
+            4
           ]
         },
         {
@@ -3221,7 +3223,8 @@
           "quien": [
             0,
             1,
-            2
+            2,
+            4
           ]
         },
         {
@@ -3341,7 +3344,8 @@
           "quien": [
             0,
             1,
-            2
+            2,
+            4
           ]
         },
         {
@@ -3421,6 +3425,7 @@
             ]
           },
           "quien": [
+            2,
             4
           ]
         },

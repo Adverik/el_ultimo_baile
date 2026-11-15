@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-14",
+  "actualizado": "2026-11-15",
   "recetas": [
     {
       "id": 54692,
@@ -1076,20 +1076,20 @@
           "clase": "rogue"
         },
         {
-          "n": "Memas Tour",
+          "n": "Manelhon Gargon",
           "clase": "shaman"
         },
         {
-          "n": "Edoras Duskranger",
-          "clase": "hunter"
-        },
-        {
-          "n": "Manelhon Gargon",
+          "n": "Memas Tour",
           "clase": "shaman"
         },
         {
           "n": "Runa Ruina",
           "clase": "shaman"
+        },
+        {
+          "n": "Edoras Duskranger",
+          "clase": "hunter"
         },
         {
           "n": "Ildaren Belisar",
@@ -1545,6 +1545,10 @@
         {
           "n": "Memas Tour",
           "clase": "shaman"
+        },
+        {
+          "n": "Runa Ruina",
+          "clase": "shaman"
         }
       ]
     },
@@ -1890,16 +1894,16 @@
           "clase": "rogue"
         },
         {
+          "n": "Manelhon Gargon",
+          "clase": "shaman"
+        },
+        {
           "n": "Memas Tour",
           "clase": "shaman"
         },
         {
           "n": "Edoras Duskranger",
           "clase": "hunter"
-        },
-        {
-          "n": "Manelhon Gargon",
-          "clase": "shaman"
         }
       ]
     },
@@ -2144,11 +2148,11 @@
       "profesion": "Peletería",
       "personajes": [
         {
-          "n": "Memas Tour",
+          "n": "Manelhon Gargon",
           "clase": "shaman"
         },
         {
-          "n": "Manelhon Gargon",
+          "n": "Memas Tour",
           "clase": "shaman"
         }
       ]

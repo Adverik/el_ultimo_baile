@@ -23,7 +23,7 @@
       "personaje": "Coloso Tempestad",
       "clase": "warrior",
       "raider": false,
-      "nivel": 209,
+      "nivel": 210,
       "max": 225,
       "pct": 53
     },
@@ -76,6 +76,14 @@
       "pct": 35
     },
     {
+      "personaje": "Armando Buya",
+      "clase": "paladin",
+      "raider": false,
+      "nivel": 116,
+      "max": 150,
+      "pct": 29
+    },
+    {
       "personaje": "Hugo Forjaluz",
       "clase": "paladin",
       "raider": false,
@@ -87,15 +95,7 @@
       "personaje": "Mosu Warryn",
       "clase": "warrior",
       "raider": false,
-      "nivel": 106,
-      "max": 150,
-      "pct": 29
-    },
-    {
-      "personaje": "Armando Buya",
-      "clase": "paladin",
-      "raider": false,
-      "nivel": 94,
+      "nivel": 107,
       "max": 150,
       "pct": 29
     },
@@ -127,7 +127,7 @@
       "personaje": "Tanki Llo",
       "clase": "warlock",
       "raider": false,
-      "nivel": 17,
+      "nivel": 19,
       "max": 75,
       "pct": 6
     }

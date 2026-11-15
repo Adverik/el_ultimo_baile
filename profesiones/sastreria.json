@@ -23,7 +23,7 @@
       "personaje": "Dum Bo",
       "clase": "mage",
       "raider": false,
-      "nivel": 145,
+      "nivel": 147,
       "max": 225,
       "pct": 17
     },
@@ -55,9 +55,9 @@
       "personaje": "Saint Peligroxa",
       "clase": "priest",
       "raider": false,
-      "nivel": 88,
+      "nivel": 95,
       "max": 150,
-      "pct": 7
+      "pct": 8
     },
     {
       "personaje": "Rhyomen Sukuna",
@@ -6511,7 +6511,8 @@
           "quien": [
             0,
             1,
-            2
+            2,
+            6
           ]
         },
         {
@@ -6842,7 +6843,8 @@
           },
           "quien": [
             1,
-            2
+            2,
+            6
           ]
         },
         {
@@ -12143,7 +12145,8 @@
             ]
           },
           "quien": [
-            2
+            2,
+            6
           ]
         },
         {
@@ -17105,7 +17108,9 @@
               "0"
             ]
           },
-          "quien": []
+          "quien": [
+            2
+          ]
         },
         {
           "id": 4024,
