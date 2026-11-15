@@ -15,7 +15,15 @@
       "personaje": "Sugar Papy",
       "clase": "druid",
       "raider": false,
-      "nivel": 244,
+      "nivel": 245,
+      "max": 300,
+      "pct": 33
+    },
+    {
+      "personaje": "Fran Furion",
+      "clase": "druid",
+      "raider": true,
+      "nivel": 207,
       "max": 300,
       "pct": 33
     },
@@ -23,15 +31,7 @@
       "personaje": "Layrela Rondanit",
       "clase": "druid",
       "raider": true,
-      "nivel": 200,
-      "max": 225,
-      "pct": 33
-    },
-    {
-      "personaje": "Fran Furion",
-      "clase": "druid",
-      "raider": true,
-      "nivel": 198,
+      "nivel": 203,
       "max": 225,
       "pct": 33
     },
@@ -55,7 +55,7 @@
       "personaje": "Genethika Brisaveloz",
       "clase": "hunter",
       "raider": false,
-      "nivel": 135,
+      "nivel": 137,
       "max": 225,
       "pct": 33
     },
@@ -92,18 +92,18 @@
       "pct": 33
     },
     {
-      "personaje": "Fitipaldi Sendaumbria",
-      "clase": "rogue",
+      "personaje": "Blind Minds",
+      "clase": "priest",
       "raider": true,
-      "nivel": 16,
+      "nivel": 17,
       "max": 75,
       "pct": 0
     },
     {
-      "personaje": "Blind Minds",
-      "clase": "priest",
+      "personaje": "Fitipaldi Sendaumbria",
+      "clase": "rogue",
       "raider": true,
-      "nivel": 14,
+      "nivel": 16,
       "max": 75,
       "pct": 0
     },

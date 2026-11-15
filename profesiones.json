@@ -35,7 +35,7 @@
         },
         {
           "nombre": "Desuello",
-          "nivel": 200,
+          "nivel": 225,
           "max": 225
         },
         {
@@ -101,12 +101,12 @@
       "profesiones": [
         {
           "nombre": "Sastrería",
-          "nivel": 42,
+          "nivel": 43,
           "max": 75
         },
         {
           "nombre": "Herboristería",
-          "nivel": 14,
+          "nivel": 17,
           "max": 75
         },
         {
@@ -133,7 +133,7 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 216,
+          "nivel": 225,
           "max": 225
         },
         {
@@ -143,7 +143,7 @@
         },
         {
           "nombre": "Cocina",
-          "nivel": 183,
+          "nivel": 192,
           "max": 225
         },
         {
@@ -165,8 +165,8 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 210,
-          "max": 225
+          "nivel": 219,
+          "max": 300
         },
         {
           "nombre": "Herrería",
@@ -315,7 +315,7 @@
       "profesiones": [
         {
           "nombre": "Sastrería",
-          "nivel": 147,
+          "nivel": 162,
           "max": 225
         },
         {
@@ -379,12 +379,12 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 163,
+          "nivel": 169,
           "max": 225
         },
         {
           "nombre": "Herrería",
-          "nivel": 156,
+          "nivel": 168,
           "max": 225
         },
         {
@@ -394,12 +394,12 @@
         },
         {
           "nombre": "Pesca",
-          "nivel": 170,
+          "nivel": 185,
           "max": 225
         },
         {
           "nombre": "Primeros auxilios",
-          "nivel": 219,
+          "nivel": 220,
           "max": 225
         }
       ]
@@ -519,7 +519,7 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 153,
+          "nivel": 156,
           "max": 225
         },
         {
@@ -529,7 +529,7 @@
         },
         {
           "nombre": "Cocina",
-          "nivel": 185,
+          "nivel": 197,
           "max": 225
         },
         {
@@ -539,7 +539,7 @@
         },
         {
           "nombre": "Primeros auxilios",
-          "nivel": 211,
+          "nivel": 220,
           "max": 225
         }
       ]
@@ -556,8 +556,8 @@
         },
         {
           "nombre": "Herboristería",
-          "nivel": 198,
-          "max": 225
+          "nivel": 207,
+          "max": 300
         },
         {
           "nombre": "Cocina",
@@ -578,12 +578,12 @@
       "profesiones": [
         {
           "nombre": "Alquimia",
-          "nivel": 124,
+          "nivel": 132,
           "max": 150
         },
         {
           "nombre": "Herboristería",
-          "nivel": 135,
+          "nivel": 137,
           "max": 225
         },
         {
@@ -593,8 +593,8 @@
         },
         {
           "nombre": "Primeros auxilios",
-          "nivel": 150,
-          "max": 150
+          "nivel": 173,
+          "max": 225
         }
       ]
     },
@@ -701,17 +701,17 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 80,
+          "nivel": 85,
           "max": 150
         },
         {
           "nombre": "Ingeniería",
-          "nivel": 100,
+          "nivel": 102,
           "max": 150
         },
         {
           "nombre": "Cocina",
-          "nivel": 26,
+          "nivel": 40,
           "max": 75
         },
         {
@@ -721,7 +721,7 @@
         },
         {
           "nombre": "Primeros auxilios",
-          "nivel": 67,
+          "nivel": 75,
           "max": 150
         }
       ]
@@ -814,17 +814,17 @@
       "profesiones": [
         {
           "nombre": "Alquimia",
-          "nivel": 180,
+          "nivel": 185,
           "max": 225
         },
         {
           "nombre": "Herboristería",
-          "nivel": 200,
+          "nivel": 203,
           "max": 225
         },
         {
           "nombre": "Cocina",
-          "nivel": 209,
+          "nivel": 217,
           "max": 225
         },
         {
@@ -846,17 +846,17 @@
       "profesiones": [
         {
           "nombre": "Peletería",
-          "nivel": 150,
-          "max": 150
-        },
-        {
-          "nombre": "Desuello",
-          "nivel": 208,
+          "nivel": 156,
           "max": 225
         },
         {
+          "nombre": "Desuello",
+          "nivel": 227,
+          "max": 300
+        },
+        {
           "nombre": "Cocina",
-          "nivel": 164,
+          "nivel": 187,
           "max": 225
         },
         {
@@ -893,7 +893,7 @@
         },
         {
           "nombre": "Pesca",
-          "nivel": 172,
+          "nivel": 178,
           "max": 225
         },
         {
@@ -942,12 +942,12 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 107,
+          "nivel": 118,
           "max": 150
         },
         {
           "nombre": "Herrería",
-          "nivel": 96,
+          "nivel": 100,
           "max": 150
         },
         {
@@ -962,7 +962,7 @@
         },
         {
           "nombre": "Primeros auxilios",
-          "nivel": 130,
+          "nivel": 131,
           "max": 150
         }
       ]
@@ -1043,7 +1043,7 @@
         },
         {
           "nombre": "Cocina",
-          "nivel": 187,
+          "nivel": 191,
           "max": 225
         },
         {
@@ -1158,6 +1158,11 @@
           "nombre": "Pesca",
           "nivel": 101,
           "max": 150
+        },
+        {
+          "nombre": "Primeros auxilios",
+          "nivel": 1,
+          "max": 75
         }
       ]
     },
@@ -1205,7 +1210,7 @@
         },
         {
           "nombre": "Herboristería",
-          "nivel": 244,
+          "nivel": 245,
           "max": 300
         },
         {
@@ -1259,7 +1264,7 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 22,
+          "nivel": 23,
           "max": 75
         },
         {
@@ -1544,6 +1549,7 @@
         "Dio Hotmetal",
         "Don Josechu",
         "Fran Furion",
+        "Genethika Brisaveloz",
         "Layrela Rondanit",
         "Sugar Papy",
         "Viilar Terrisia"
@@ -1658,6 +1664,7 @@
         "Dio Hotmetal",
         "Don Josechu",
         "Fran Furion",
+        "Genethika Brisaveloz",
         "Layrela Rondanit",
         "Sugar Papy",
         "Viilar Terrisia"
@@ -1756,6 +1763,7 @@
         "Dio Hotmetal",
         "Don Josechu",
         "Fran Furion",
+        "Genethika Brisaveloz",
         "Layrela Rondanit",
         "Sugar Papy",
         "Viilar Terrisia"
@@ -1785,6 +1793,7 @@
         "Dio Hotmetal",
         "Don Josechu",
         "Fran Furion",
+        "Genethika Brisaveloz",
         "Layrela Rondanit",
         "Sugar Papy",
         "Viilar Terrisia"
@@ -1798,6 +1807,7 @@
         "Dio Hotmetal",
         "Don Josechu",
         "Fran Furion",
+        "Genethika Brisaveloz",
         "Layrela Rondanit",
         "Sugar Papy",
         "Viilar Terrisia"
@@ -2854,6 +2864,7 @@
         "Dum Bo",
         "Espartaco Gladiador",
         "Finn Felagund",
+        "Flexita Shadowsoul",
         "Layrela Rondanit"
       ]
     },
@@ -2931,6 +2942,7 @@
       "personajes": [
         "Edoras Duskranger",
         "Layrela Rondanit",
+        "Manelhon Gargon",
         "Memas Tour",
         "Nimassus Pater",
         "Palmira Natblida",
@@ -3057,6 +3069,7 @@
         "Khyoraku Shunsui",
         "La Pety",
         "Layrela Rondanit",
+        "Manelhon Gargon",
         "Runa Ruina"
       ]
     },
@@ -3092,6 +3105,7 @@
         "Nindalf Pizpireta",
         "Palmira Natblida",
         "Runa Ruina",
+        "Samael Thallanor",
         "Sr Byron",
         "Sugar Papy",
         "Takkaao Valengri",
@@ -3148,6 +3162,7 @@
         "Khyoraku Shunsui",
         "La Pety",
         "Layrela Rondanit",
+        "Manelhon Gargon",
         "Memas Tour",
         "Palmira Natblida",
         "Runa Ruina"
@@ -3244,7 +3259,6 @@
         "Aurelio Amador",
         "Diana Flechaveloz",
         "Ildaren Belisar",
-        "Manelhon Gargon",
         "Memas Tour",
         "Palmira Natblida",
         "Runa Ruina",
@@ -3256,7 +3270,8 @@
       "profesion": "Desuello",
       "calidad": "common",
       "personajes": [
-        "Edoras Duskranger"
+        "Edoras Duskranger",
+        "Manelhon Gargon"
       ]
     },
     {
@@ -4023,7 +4038,6 @@
       "calidad": "common",
       "personajes": [
         "Don Josechu",
-        "Fran Furion",
         "Genethika Brisaveloz",
         "Layrela Rondanit",
         "Viilar Terrisia"
@@ -4035,7 +4049,6 @@
       "calidad": "common",
       "personajes": [
         "Don Josechu",
-        "Fran Furion",
         "Genethika Brisaveloz",
         "Layrela Rondanit",
         "Viilar Terrisia"
@@ -4075,6 +4088,7 @@
       "calidad": "common",
       "personajes": [
         "Dio Hotmetal",
+        "Fran Furion",
         "Sugar Papy"
       ]
     },
@@ -4084,6 +4098,7 @@
       "calidad": "common",
       "personajes": [
         "Dio Hotmetal",
+        "Fran Furion",
         "Sugar Papy"
       ]
     },
@@ -4455,6 +4470,15 @@
       "profesion": "Herrería",
       "calidad": "uncommon",
       "personajes": [
+        "Coloso Tempestad",
+        "Espartaco Gladiador"
+      ]
+    },
+    {
+      "nombre": "Golden Scale Coif",
+      "profesion": "Herrería",
+      "calidad": "uncommon",
+      "personajes": [
         "Coloso Tempestad"
       ]
     },
@@ -4512,6 +4536,14 @@
       "nombre": "Guard's Chain Belt",
       "profesion": "Herrería",
       "calidad": "rare",
+      "personajes": [
+        "Coloso Tempestad"
+      ]
+    },
+    {
+      "nombre": "Hard Gold Leggings",
+      "profesion": "Herrería",
+      "calidad": "uncommon",
       "personajes": [
         "Coloso Tempestad"
       ]
@@ -4707,6 +4739,14 @@
         "Hugo Forjaluz",
         "Khyoraku Shunsui",
         "Tharindel Magnaluz"
+      ]
+    },
+    {
+      "nombre": "Polished Steel Boots",
+      "profesion": "Herrería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Espartaco Gladiador"
       ]
     },
     {
@@ -5309,6 +5349,7 @@
         "Chaca Choochoo",
         "Cuzcu Aker",
         "Flexita Shadowsoul",
+        "Jonaver Legends",
         "La Pety"
       ]
     },
@@ -5455,7 +5496,8 @@
       "personajes": [
         "Chaca Choochoo",
         "Cuzcu Aker",
-        "Flexita Shadowsoul"
+        "Flexita Shadowsoul",
+        "Jonaver Legends"
       ]
     },
     {
@@ -5652,8 +5694,15 @@
       "profesion": "Minería",
       "calidad": "common",
       "personajes": [
+        "Coloso Tempestad"
+      ]
+    },
+    {
+      "nombre": "Mining",
+      "profesion": "Minería",
+      "calidad": "common",
+      "personajes": [
         "Chaca Choochoo",
-        "Coloso Tempestad",
         "Cuzcu Aker",
         "Espartaco Gladiador",
         "Flexita Shadowsoul",
@@ -5828,6 +5877,7 @@
       "calidad": "uncommon",
       "personajes": [
         "Diana Flechaveloz",
+        "Manelhon Gargon",
         "Memas Tour",
         "Palmira Natblida",
         "Runa Ruina"
@@ -6796,7 +6846,8 @@
       "profesion": "Peletería",
       "calidad": "uncommon",
       "personajes": [
-        "Manelhon Gargon"
+        "Manelhon Gargon",
+        "Memas Tour"
       ]
     },
     {
@@ -6804,6 +6855,7 @@
       "profesion": "Peletería",
       "calidad": "rare",
       "personajes": [
+        "Manelhon Gargon",
         "Memas Tour",
         "Palmira Natblida"
       ]
@@ -6822,6 +6874,7 @@
       "profesion": "Peletería",
       "calidad": "rare",
       "personajes": [
+        "Manelhon Gargon",
         "Memas Tour",
         "Palmira Natblida"
       ]
@@ -6900,7 +6953,8 @@
       "profesion": "Peletería",
       "calidad": "uncommon",
       "personajes": [
-        "Diana Flechaveloz"
+        "Diana Flechaveloz",
+        "Manelhon Gargon"
       ]
     },
     {
@@ -7253,6 +7307,7 @@
         "Genethika Brisaveloz",
         "Hugo Forjaluz",
         "Ildaren Belisar",
+        "Jonaver Legends",
         "La Pety",
         "Layrela Rondanit",
         "Manelhon Gargon",
@@ -7301,6 +7356,7 @@
         "Palmira Natblida",
         "Runa Ruina",
         "Saint Peligroxa",
+        "Samael Thallanor",
         "Sr Byron",
         "Sugar Papy",
         "Takkaao Valengri",
@@ -7550,6 +7606,7 @@
       "profesion": "Sastrería",
       "calidad": "rare",
       "personajes": [
+        "Dum Bo",
         "Sr Byron"
       ]
     },
@@ -7745,6 +7802,7 @@
       "profesion": "Sastrería",
       "calidad": "uncommon",
       "personajes": [
+        "Dum Bo",
         "Finn Felagund"
       ]
     },
@@ -7761,6 +7819,7 @@
       "profesion": "Sastrería",
       "calidad": "uncommon",
       "personajes": [
+        "Dum Bo",
         "Finn Felagund",
         "Sr Byron"
       ]
@@ -7776,6 +7835,14 @@
         "Nimassus Pater",
         "Rhyomen Sukuna",
         "Saint Peligroxa"
+      ]
+    },
+    {
+      "nombre": "Earthen Silk Belt",
+      "profesion": "Sastrería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Dum Bo"
       ]
     },
     {
@@ -7809,6 +7876,7 @@
       "profesion": "Sastrería",
       "calidad": "rare",
       "personajes": [
+        "Dum Bo",
         "Sr Byron"
       ]
     },
@@ -7889,10 +7957,19 @@
       ]
     },
     {
+      "nombre": "Frothing Slippers",
+      "profesion": "Sastrería",
+      "calidad": "rare",
+      "personajes": [
+        "Dum Bo"
+      ]
+    },
+    {
       "nombre": "Gilded Slippers",
       "profesion": "Sastrería",
       "calidad": "rare",
       "personajes": [
+        "Dum Bo",
         "Finn Felagund"
       ]
     },
@@ -7905,6 +7982,14 @@
         "Finn Felagund",
         "Rhyomen Sukuna",
         "Sr Byron"
+      ]
+    },
+    {
+      "nombre": "Golden Slippers",
+      "profesion": "Sastrería",
+      "calidad": "rare",
+      "personajes": [
+        "Dum Bo"
       ]
     },
     {
@@ -7986,6 +8071,7 @@
       "profesion": "Sastrería",
       "calidad": "uncommon",
       "personajes": [
+        "Dum Bo",
         "Finn Felagund"
       ]
     },
@@ -8187,6 +8273,7 @@
       "profesion": "Sastrería",
       "calidad": "uncommon",
       "personajes": [
+        "Dum Bo",
         "Finn Felagund"
       ]
     },
@@ -8266,6 +8353,14 @@
       "calidad": "rare",
       "personajes": [
         "Finn Felagund"
+      ]
+    },
+    {
+      "nombre": "Radiant Slippers",
+      "profesion": "Sastrería",
+      "calidad": "rare",
+      "personajes": [
+        "Dum Bo"
       ]
     },
     {
@@ -8372,6 +8467,7 @@
       "profesion": "Sastrería",
       "calidad": "rare",
       "personajes": [
+        "Dum Bo",
         "Finn Felagund"
       ]
     },
@@ -8526,6 +8622,7 @@
       "calidad": "common",
       "personajes": [
         "Dum Bo",
+        "Kadeharz Apsus",
         "Saint Peligroxa",
         "Sr Byron"
       ]

@@ -63,12 +63,12 @@
           "clase": "paladin"
         },
         {
-          "n": "Hugo Forjaluz",
-          "clase": "paladin"
-        },
-        {
           "n": "Mosu Warryn",
           "clase": "warrior"
+        },
+        {
+          "n": "Hugo Forjaluz",
+          "clase": "paladin"
         },
         {
           "n": "Armando Buya",
@@ -1048,11 +1048,11 @@
           "clase": "rogue"
         },
         {
-          "n": "Memas Tour",
+          "n": "Manelhon Gargon",
           "clase": "shaman"
         },
         {
-          "n": "Manelhon Gargon",
+          "n": "Memas Tour",
           "clase": "shaman"
         },
         {
@@ -1572,6 +1572,10 @@
           "clase": "rogue"
         },
         {
+          "n": "Manelhon Gargon",
+          "clase": "shaman"
+        },
+        {
           "n": "Memas Tour",
           "clase": "shaman"
         }
@@ -1623,6 +1627,10 @@
         {
           "n": "Palmira Natblida",
           "clase": "rogue"
+        },
+        {
+          "n": "Manelhon Gargon",
+          "clase": "shaman"
         },
         {
           "n": "Memas Tour",
@@ -1870,11 +1878,11 @@
           "clase": "rogue"
         },
         {
-          "n": "Memas Tour",
+          "n": "Manelhon Gargon",
           "clase": "shaman"
         },
         {
-          "n": "Manelhon Gargon",
+          "n": "Memas Tour",
           "clase": "shaman"
         },
         {
@@ -2124,11 +2132,11 @@
       "profesion": "Peletería",
       "personajes": [
         {
-          "n": "Memas Tour",
+          "n": "Manelhon Gargon",
           "clase": "shaman"
         },
         {
-          "n": "Manelhon Gargon",
+          "n": "Memas Tour",
           "clase": "shaman"
         }
       ]
@@ -2311,12 +2319,12 @@
           "clase": "priest"
         },
         {
-          "n": "Sr Byron",
-          "clase": "warlock"
-        },
-        {
           "n": "Dum Bo",
           "clase": "mage"
+        },
+        {
+          "n": "Sr Byron",
+          "clase": "warlock"
         },
         {
           "n": "Rhyomen Sukuna",
@@ -2535,12 +2543,12 @@
       "profesion": "Sastrería",
       "personajes": [
         {
-          "n": "Sr Byron",
-          "clase": "warlock"
-        },
-        {
           "n": "Dum Bo",
           "clase": "mage"
+        },
+        {
+          "n": "Sr Byron",
+          "clase": "warlock"
         }
       ]
     },
@@ -2651,12 +2659,12 @@
           "clase": "priest"
         },
         {
-          "n": "Sr Byron",
-          "clase": "warlock"
-        },
-        {
           "n": "Dum Bo",
           "clase": "mage"
+        },
+        {
+          "n": "Sr Byron",
+          "clase": "warlock"
         },
         {
           "n": "Rhyomen Sukuna",
@@ -2736,12 +2744,12 @@
           "clase": "priest"
         },
         {
-          "n": "Sr Byron",
-          "clase": "warlock"
-        },
-        {
           "n": "Dum Bo",
           "clase": "mage"
+        },
+        {
+          "n": "Sr Byron",
+          "clase": "warlock"
         },
         {
           "n": "Rhyomen Sukuna",
@@ -3100,6 +3108,67 @@
         {
           "n": "Finn Felagund",
           "clase": "priest"
+        },
+        {
+          "n": "Dum Bo",
+          "clase": "mage"
+        }
+      ]
+    },
+    {
+      "id": 55485,
+      "n": "Zapatillas doradas",
+      "q": "rare",
+      "ico": "132563",
+      "reac": [
+        [
+          "Madeja de tejido mágico",
+          8
+        ],
+        [
+          "Hilo de seda pesada",
+          4
+        ],
+        [
+          "Tinte magenta",
+          2
+        ],
+        [
+          "Tinte cerúleo",
+          2
+        ],
+        [
+          "Perla de oro",
+          2
+        ]
+      ],
+      "obj": {
+        "arm": "35 armadura",
+        "id": 254009,
+        "ilvl": 35,
+        "lig": "Se liga al recogerlo",
+        "n": "Zapatillas doradas",
+        "q": "rare",
+        "ranura": "Pies",
+        "req": 30,
+        "stats": [
+          "+7 intelecto",
+          "+6 aguante",
+          "+4 espíritu",
+          "+13 Daño Arcano"
+        ],
+        "sub": "Tela",
+        "venta": [
+          "0",
+          "25",
+          "26"
+        ]
+      },
+      "profesion": "Sastrería",
+      "personajes": [
+        {
+          "n": "Dum Bo",
+          "clase": "mage"
         }
       ]
     },
@@ -3155,8 +3224,126 @@
       "profesion": "Sastrería",
       "personajes": [
         {
+          "n": "Dum Bo",
+          "clase": "mage"
+        },
+        {
           "n": "Sr Byron",
           "clase": "warlock"
+        }
+      ]
+    },
+    {
+      "id": 55482,
+      "n": "Zapatillas rabiosas",
+      "q": "rare",
+      "ico": "132560",
+      "reac": [
+        [
+          "Madeja de tejido mágico",
+          8
+        ],
+        [
+          "Hilo de seda pesada",
+          4
+        ],
+        [
+          "Tinte magenta",
+          2
+        ],
+        [
+          "Tinte cerúleo",
+          2
+        ],
+        [
+          "Globo de agua",
+          2
+        ]
+      ],
+      "obj": {
+        "arm": "35 armadura",
+        "id": 254003,
+        "ilvl": 35,
+        "lig": "Se liga al recogerlo",
+        "n": "Zapatillas rabiosas",
+        "q": "rare",
+        "ranura": "Pies",
+        "req": 30,
+        "stats": [
+          "+7 intelecto",
+          "+6 aguante",
+          "+4 espíritu",
+          "+13 Daño de Escarcha"
+        ],
+        "sub": "Tela",
+        "venta": [
+          "0",
+          "27",
+          "30"
+        ]
+      },
+      "profesion": "Sastrería",
+      "personajes": [
+        {
+          "n": "Dum Bo",
+          "clase": "mage"
+        }
+      ]
+    },
+    {
+      "id": 55486,
+      "n": "Zapatillas radiantes",
+      "q": "rare",
+      "ico": "132149",
+      "reac": [
+        [
+          "Madeja de tejido mágico",
+          8
+        ],
+        [
+          "Hilo de seda pesada",
+          4
+        ],
+        [
+          "Tinte magenta",
+          2
+        ],
+        [
+          "Tinte cerúleo",
+          2
+        ],
+        [
+          "Fragmento radiante grande",
+          2
+        ]
+      ],
+      "obj": {
+        "arm": "35 armadura",
+        "id": 254011,
+        "ilvl": 35,
+        "lig": "Se liga al recogerlo",
+        "n": "Zapatillas radiantes",
+        "q": "rare",
+        "ranura": "Pies",
+        "req": 30,
+        "stats": [
+          "+7 intelecto",
+          "+6 aguante",
+          "+4 espíritu",
+          "+13 Daño Sagrado"
+        ],
+        "sub": "Tela",
+        "venta": [
+          "0",
+          "25",
+          "45"
+        ]
+      },
+      "profesion": "Sastrería",
+      "personajes": [
+        {
+          "n": "Dum Bo",
+          "clase": "mage"
         }
       ]
     },
@@ -3215,6 +3402,10 @@
         {
           "n": "Finn Felagund",
           "clase": "priest"
+        },
+        {
+          "n": "Dum Bo",
+          "clase": "mage"
         }
       ]
     },
@@ -3269,6 +3460,10 @@
       },
       "profesion": "Sastrería",
       "personajes": [
+        {
+          "n": "Dum Bo",
+          "clase": "mage"
+        },
         {
           "n": "Sr Byron",
           "clase": "warlock"

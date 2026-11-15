@@ -12,6 +12,22 @@
       "pct": 67
     },
     {
+      "personaje": "Manelhon Gargon",
+      "clase": "shaman",
+      "raider": true,
+      "nivel": 227,
+      "max": 300,
+      "pct": 33
+    },
+    {
+      "personaje": "Aurelio Amador",
+      "clase": "rogue",
+      "raider": false,
+      "nivel": 225,
+      "max": 225,
+      "pct": 33
+    },
+    {
       "personaje": "Diana Flechaveloz",
       "clase": "hunter",
       "raider": false,
@@ -40,22 +56,6 @@
       "clase": "shaman",
       "raider": true,
       "nivel": 216,
-      "max": 225,
-      "pct": 33
-    },
-    {
-      "personaje": "Manelhon Gargon",
-      "clase": "shaman",
-      "raider": true,
-      "nivel": 208,
-      "max": 225,
-      "pct": 33
-    },
-    {
-      "personaje": "Aurelio Amador",
-      "clase": "rogue",
-      "raider": false,
-      "nivel": 200,
       "max": 225,
       "pct": 33
     },
