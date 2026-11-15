@@ -17,7 +17,7 @@
       "raider": false,
       "nivel": 201,
       "max": 225,
-      "pct": 15
+      "pct": 17
     },
     {
       "personaje": "Fran Furion",
@@ -55,7 +55,7 @@
       "personaje": "Genethika Brisaveloz",
       "clase": "hunter",
       "raider": false,
-      "nivel": 119,
+      "nivel": 124,
       "max": 150,
       "pct": 10
     },
@@ -575,7 +575,8 @@
             ]
           },
           "quien": [
-            0
+            0,
+            1
           ]
         },
         {
@@ -3464,7 +3465,9 @@
               "0"
             ]
           },
-          "quien": []
+          "quien": [
+            1
+          ]
         },
         {
           "id": 4211,
@@ -3543,7 +3546,8 @@
             ]
           },
           "quien": [
-            0
+            0,
+            1
           ]
         },
         {
@@ -5102,7 +5106,9 @@
               "50"
             ]
           },
-          "quien": []
+          "quien": [
+            1
+          ]
         },
         {
           "id": 4176,

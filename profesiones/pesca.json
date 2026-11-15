@@ -12,14 +12,6 @@
       "pct": 33
     },
     {
-      "personaje": "Aalesian Naeuri",
-      "clase": "warrior",
-      "raider": false,
-      "nivel": 174,
-      "max": 225,
-      "pct": 33
-    },
-    {
       "personaje": "Memas Tour",
       "clase": "shaman",
       "raider": false,
@@ -212,6 +204,14 @@
       "pct": 33
     },
     {
+      "personaje": "Sr Byron",
+      "clase": "warlock",
+      "raider": false,
+      "nivel": 20,
+      "max": 75,
+      "pct": 33
+    },
+    {
       "personaje": "Blind Minds",
       "clase": "priest",
       "raider": true,
@@ -222,14 +222,6 @@
     {
       "personaje": "Ildaren Belisar",
       "clase": "rogue",
-      "raider": false,
-      "nivel": 3,
-      "max": 75,
-      "pct": 0
-    },
-    {
-      "personaje": "Sr Byron",
-      "clase": "warlock",
       "raider": false,
       "nivel": 3,
       "max": 75,
@@ -334,7 +326,7 @@
             16,
             17,
             18,
-            19,
+            20,
             21,
             22,
             23,

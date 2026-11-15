@@ -4,14 +4,6 @@
   "total": 17,
   "artesanos": [
     {
-      "personaje": "Aalesian Naeuri",
-      "clase": "warrior",
-      "raider": false,
-      "nivel": 227,
-      "max": 300,
-      "pct": 53
-    },
-    {
       "personaje": "Chaca Choochoo",
       "clase": "druid",
       "raider": false,
@@ -28,18 +20,18 @@
       "pct": 53
     },
     {
+      "personaje": "La Pety",
+      "clase": "rogue",
+      "raider": false,
+      "nivel": 206,
+      "max": 225,
+      "pct": 53
+    },
+    {
       "personaje": "Khyoraku Shunsui",
       "clase": "warrior",
       "raider": true,
       "nivel": 201,
-      "max": 225,
-      "pct": 35
-    },
-    {
-      "personaje": "La Pety",
-      "clase": "rogue",
-      "raider": false,
-      "nivel": 195,
       "max": 225,
       "pct": 35
     },
@@ -55,7 +47,7 @@
       "personaje": "Flexita Shadowsoul",
       "clase": "hunter",
       "raider": false,
-      "nivel": 151,
+      "nivel": 153,
       "max": 225,
       "pct": 35
     },
@@ -127,7 +119,7 @@
       "personaje": "Tanki Llo",
       "clase": "warlock",
       "raider": false,
-      "nivel": 19,
+      "nivel": 22,
       "max": 75,
       "pct": 6
     }
@@ -172,8 +164,7 @@
             8,
             9,
             10,
-            11,
-            12
+            11
           ]
         },
         {
@@ -218,8 +209,7 @@
             9,
             10,
             11,
-            12,
-            13
+            12
           ]
         },
         {
@@ -246,7 +236,7 @@
             ]
           },
           "quien": [
-            0,
+            1,
             2
           ]
         },
@@ -282,8 +272,7 @@
             4,
             5,
             6,
-            7,
-            8
+            7
           ]
         },
         {
@@ -323,8 +312,7 @@
             9,
             10,
             11,
-            12,
-            13
+            12
           ]
         },
         {
@@ -356,7 +344,7 @@
             ]
           },
           "quien": [
-            0,
+            1,
             2
           ]
         },
@@ -399,8 +387,7 @@
             11,
             12,
             13,
-            14,
-            15
+            14
           ]
         },
         {
@@ -454,7 +441,7 @@
             ]
           },
           "quien": [
-            0,
+            1,
             2
           ]
         },
@@ -642,8 +629,7 @@
             10,
             11,
             12,
-            13,
-            14
+            13
           ]
         },
         {
@@ -677,7 +663,7 @@
             "sub": "Otros"
           },
           "quien": [
-            5
+            4
           ]
         },
         {

@@ -51,10 +51,6 @@
           "clase": "warrior"
         },
         {
-          "n": "Aalesian Naeuri",
-          "clase": "warrior"
-        },
-        {
           "n": "Espartaco Gladiador",
           "clase": "warrior"
         },
@@ -130,10 +126,6 @@
           "clase": "warrior"
         },
         {
-          "n": "Aalesian Naeuri",
-          "clase": "warrior"
-        },
-        {
           "n": "Khyoraku Shunsui",
           "clase": "warrior"
         },
@@ -199,10 +191,6 @@
       "personajes": [
         {
           "n": "Coloso Tempestad",
-          "clase": "warrior"
-        },
-        {
-          "n": "Aalesian Naeuri",
           "clase": "warrior"
         },
         {
@@ -386,10 +374,6 @@
           "clase": "warrior"
         },
         {
-          "n": "Aalesian Naeuri",
-          "clase": "warrior"
-        },
-        {
           "n": "Espartaco Gladiador",
           "clase": "warrior"
         }
@@ -535,10 +519,6 @@
       "personajes": [
         {
           "n": "Coloso Tempestad",
-          "clase": "warrior"
-        },
-        {
-          "n": "Aalesian Naeuri",
           "clase": "warrior"
         },
         {
@@ -695,10 +675,6 @@
       "personajes": [
         {
           "n": "Coloso Tempestad",
-          "clase": "warrior"
-        },
-        {
-          "n": "Aalesian Naeuri",
           "clase": "warrior"
         },
         {
@@ -863,10 +839,6 @@
       },
       "profesion": "Herrería",
       "personajes": [
-        {
-          "n": "Aalesian Naeuri",
-          "clase": "warrior"
-        },
         {
           "n": "Espartaco Gladiador",
           "clase": "warrior"
@@ -1076,11 +1048,11 @@
           "clase": "rogue"
         },
         {
-          "n": "Manelhon Gargon",
+          "n": "Memas Tour",
           "clase": "shaman"
         },
         {
-          "n": "Memas Tour",
+          "n": "Manelhon Gargon",
           "clase": "shaman"
         },
         {
@@ -1766,6 +1738,10 @@
           "clase": "rogue"
         },
         {
+          "n": "Memas Tour",
+          "clase": "shaman"
+        },
+        {
           "n": "Edoras Duskranger",
           "clase": "hunter"
         },
@@ -1894,11 +1870,11 @@
           "clase": "rogue"
         },
         {
-          "n": "Manelhon Gargon",
+          "n": "Memas Tour",
           "clase": "shaman"
         },
         {
-          "n": "Memas Tour",
+          "n": "Manelhon Gargon",
           "clase": "shaman"
         },
         {
@@ -2148,11 +2124,11 @@
       "profesion": "Peletería",
       "personajes": [
         {
-          "n": "Manelhon Gargon",
+          "n": "Memas Tour",
           "clase": "shaman"
         },
         {
-          "n": "Memas Tour",
+          "n": "Manelhon Gargon",
           "clase": "shaman"
         }
       ]
@@ -2341,6 +2317,10 @@
         {
           "n": "Dum Bo",
           "clase": "mage"
+        },
+        {
+          "n": "Rhyomen Sukuna",
+          "clase": "warlock"
         },
         {
           "n": "Nimassus Pater",
@@ -2679,6 +2659,10 @@
           "clase": "mage"
         },
         {
+          "n": "Rhyomen Sukuna",
+          "clase": "warlock"
+        },
+        {
           "n": "Micro Bolas",
           "clase": "warlock"
         },
@@ -2758,6 +2742,10 @@
         {
           "n": "Dum Bo",
           "clase": "mage"
+        },
+        {
+          "n": "Rhyomen Sukuna",
+          "clase": "warlock"
         },
         {
           "n": "Nimassus Pater",
@@ -2945,6 +2933,59 @@
         {
           "n": "Dum Bo",
           "clase": "mage"
+        }
+      ]
+    },
+    {
+      "id": 55453,
+      "n": "Leotardos nacarados de filigrana",
+      "q": "rare",
+      "ico": "134590",
+      "reac": [
+        [
+          "Madeja de paño de seda",
+          8
+        ],
+        [
+          "Hilo refinado",
+          4
+        ],
+        [
+          "Tinte cerúleo",
+          2
+        ],
+        [
+          "Perla lustrosa pequeña",
+          4
+        ]
+      ],
+      "obj": {
+        "arm": "37 armadura",
+        "id": 253945,
+        "ilvl": 25,
+        "lig": "Se liga al recogerlo",
+        "n": "Leotardos nacarados de filigrana",
+        "q": "rare",
+        "ranura": "Piernas",
+        "req": 20,
+        "stats": [
+          "+6 intelecto",
+          "+5 aguante",
+          "+4 espíritu",
+          "+11 Daño Arcano"
+        ],
+        "sub": "Tela",
+        "venta": [
+          "0",
+          "13",
+          "41"
+        ]
+      },
+      "profesion": "Sastrería",
+      "personajes": [
+        {
+          "n": "Sr Byron",
+          "clase": "warlock"
         }
       ]
     },

@@ -73,7 +73,7 @@
       "raider": false,
       "nivel": 21,
       "max": 75,
-      "pct": 2
+      "pct": 3
     },
     {
       "personaje": "Thundrik Volgrim",
@@ -732,7 +732,8 @@
             4,
             5,
             6,
-            7
+            7,
+            8
           ]
         },
         {
@@ -2998,7 +2999,9 @@
             ]
           ],
           "desc": "Encanta de forma permanente un escudo para que proporcione +7 p. de aguante.",
-          "quien": []
+          "quien": [
+            0
+          ]
         },
         {
           "id": 7671,
@@ -5778,7 +5781,8 @@
             4,
             5,
             6,
-            7
+            7,
+            8
           ]
         },
         {

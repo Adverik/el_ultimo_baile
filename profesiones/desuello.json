@@ -20,6 +20,14 @@
       "pct": 33
     },
     {
+      "personaje": "Memas Tour",
+      "clase": "shaman",
+      "raider": false,
+      "nivel": 225,
+      "max": 225,
+      "pct": 33
+    },
+    {
       "personaje": "Palmira Natblida",
       "clase": "rogue",
       "raider": true,
@@ -28,18 +36,10 @@
       "pct": 33
     },
     {
-      "personaje": "Memas Tour",
-      "clase": "shaman",
-      "raider": false,
-      "nivel": 220,
-      "max": 225,
-      "pct": 33
-    },
-    {
       "personaje": "Runa Ruina",
       "clase": "shaman",
       "raider": true,
-      "nivel": 212,
+      "nivel": 216,
       "max": 225,
       "pct": 33
     },
