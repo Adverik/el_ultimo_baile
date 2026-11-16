@@ -134,7 +134,7 @@
         {
           "nombre": "Minería",
           "nivel": 225,
-          "max": 225
+          "max": 300
         },
         {
           "nombre": "Ingeniería",
@@ -165,7 +165,7 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 233,
+          "nivel": 235,
           "max": 300
         },
         {
@@ -261,8 +261,8 @@
       "profesiones": [
         {
           "nombre": "Alquimia",
-          "nivel": 217,
-          "max": 225
+          "nivel": 251,
+          "max": 300
         },
         {
           "nombre": "Herboristería",
@@ -276,7 +276,7 @@
         },
         {
           "nombre": "Pesca",
-          "nivel": 31,
+          "nivel": 38,
           "max": 75
         },
         {
@@ -465,22 +465,22 @@
       "profesiones": [
         {
           "nombre": "Sastrería",
-          "nivel": 188,
+          "nivel": 193,
           "max": 225
         },
         {
           "nombre": "Encantamiento",
-          "nivel": 225,
-          "max": 225
+          "nivel": 250,
+          "max": 300
         },
         {
           "nombre": "Cocina",
-          "nivel": 202,
+          "nivel": 216,
           "max": 225
         },
         {
           "nombre": "Pesca",
-          "nivel": 163,
+          "nivel": 182,
           "max": 225
         }
       ]
@@ -615,8 +615,8 @@
         },
         {
           "nombre": "Cocina",
-          "nivel": 21,
-          "max": 75
+          "nivel": 51,
+          "max": 150
         },
         {
           "nombre": "Pesca",
@@ -782,8 +782,8 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 206,
-          "max": 225
+          "nivel": 220,
+          "max": 300
         },
         {
           "nombre": "Ingeniería",
@@ -1269,7 +1269,7 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 25,
+          "nivel": 27,
           "max": 75
         },
         {
@@ -1460,6 +1460,7 @@
       "profesion": "Alquimia",
       "calidad": "common",
       "personajes": [
+        "Dio Hotmetal",
         "Fran Furion",
         "Sugar Papy"
       ]
@@ -1492,6 +1493,7 @@
       "profesion": "Alquimia",
       "calidad": "common",
       "personajes": [
+        "Dio Hotmetal",
         "Sugar Papy"
       ]
     },
@@ -1514,6 +1516,7 @@
       "profesion": "Alquimia",
       "calidad": "common",
       "personajes": [
+        "Dio Hotmetal",
         "Fran Furion",
         "Sugar Papy"
       ]
@@ -1523,6 +1526,7 @@
       "profesion": "Alquimia",
       "calidad": "common",
       "personajes": [
+        "Dio Hotmetal",
         "Fran Furion",
         "Sugar Papy"
       ]
@@ -1567,6 +1571,7 @@
       "profesion": "Alquimia",
       "calidad": "common",
       "personajes": [
+        "Dio Hotmetal",
         "Don Josechu",
         "Fran Furion",
         "Layrela Rondanit",
@@ -1716,6 +1721,14 @@
       ]
     },
     {
+      "nombre": "Ghost Dye",
+      "profesion": "Alquimia",
+      "calidad": "common",
+      "personajes": [
+        "Dio Hotmetal"
+      ]
+    },
+    {
       "nombre": "Great Rage Potion",
       "profesion": "Alquimia",
       "calidad": "common",
@@ -1731,6 +1744,7 @@
       "profesion": "Alquimia",
       "calidad": "common",
       "personajes": [
+        "Dio Hotmetal",
         "Fran Furion",
         "Sugar Papy"
       ]
@@ -1822,6 +1836,14 @@
         "Layrela Rondanit",
         "Sugar Papy",
         "Viilar Terrisia"
+      ]
+    },
+    {
+      "nombre": "Magic Resistance Potion",
+      "profesion": "Alquimia",
+      "calidad": "common",
+      "personajes": [
+        "Dio Hotmetal"
       ]
     },
     {
@@ -1979,6 +2001,7 @@
       "profesion": "Alquimia",
       "calidad": "common",
       "personajes": [
+        "Dio Hotmetal",
         "Fran Furion",
         "Sugar Papy"
       ]
@@ -1988,6 +2011,7 @@
       "profesion": "Alquimia",
       "calidad": "common",
       "personajes": [
+        "Dio Hotmetal",
         "Sugar Papy"
       ]
     },
@@ -2059,6 +2083,7 @@
       "profesion": "Alquimia",
       "calidad": "uncommon",
       "personajes": [
+        "Dio Hotmetal",
         "Sugar Papy"
       ]
     },
@@ -2067,6 +2092,7 @@
       "profesion": "Alquimia",
       "calidad": "uncommon",
       "personajes": [
+        "Dio Hotmetal",
         "Sugar Papy"
       ]
     },
@@ -2084,7 +2110,16 @@
       "profesion": "Alquimia",
       "calidad": "uncommon",
       "personajes": [
+        "Dio Hotmetal",
         "Sugar Papy"
+      ]
+    },
+    {
+      "nombre": "Wildvine Potion",
+      "profesion": "Alquimia",
+      "calidad": "common",
+      "personajes": [
+        "Dio Hotmetal"
       ]
     },
     {
@@ -2220,6 +2255,7 @@
         "Espartaco Gladiador",
         "Finn Felagund",
         "Flexita Shadowsoul",
+        "Grimmjow Jaegerjakez",
         "Ildaren Belisar",
         "Kadeharz Apsus",
         "Khyoraku Shunsui",
@@ -2399,6 +2435,7 @@
         "Espartaco Gladiador",
         "Finn Felagund",
         "Flexita Shadowsoul",
+        "Grimmjow Jaegerjakez",
         "Ildaren Belisar",
         "Kadeharz Apsus",
         "Khyoraku Shunsui",
@@ -3015,6 +3052,7 @@
         "Diana Flechaveloz",
         "Dum Bo",
         "Edoras Duskranger",
+        "Grimmjow Jaegerjakez",
         "Kadeharz Apsus",
         "Khyoraku Shunsui",
         "Palmira Natblida"
@@ -3145,6 +3183,7 @@
       "calidad": "common",
       "personajes": [
         "Espartaco Gladiador",
+        "Finn Felagund",
         "Layrela Rondanit",
         "Sugar Papy"
       ]
@@ -3345,6 +3384,14 @@
       ]
     },
     {
+      "nombre": "Enchant 2H Weapon - Greater Impact",
+      "profesion": "Encantamiento",
+      "calidad": "common",
+      "personajes": [
+        "Finn Felagund"
+      ]
+    },
+    {
       "nombre": "Enchant 2H Weapon - Impact",
       "profesion": "Encantamiento",
       "calidad": "common",
@@ -3391,6 +3438,14 @@
       ]
     },
     {
+      "nombre": "Enchant Boots - Agility",
+      "profesion": "Encantamiento",
+      "calidad": "common",
+      "personajes": [
+        "Finn Felagund"
+      ]
+    },
+    {
       "nombre": "Enchant Boots - Lesser Agility",
       "profesion": "Encantamiento",
       "calidad": "common",
@@ -3407,11 +3462,35 @@
       ]
     },
     {
+      "nombre": "Enchant Boots - Minor Speed",
+      "profesion": "Encantamiento",
+      "calidad": "common",
+      "personajes": [
+        "Finn Felagund"
+      ]
+    },
+    {
       "nombre": "Enchant Boots - Minor Stamina",
       "profesion": "Encantamiento",
       "calidad": "common",
       "personajes": [
         "Dum Bo",
+        "Finn Felagund"
+      ]
+    },
+    {
+      "nombre": "Enchant Boots - Stamina",
+      "profesion": "Encantamiento",
+      "calidad": "common",
+      "personajes": [
+        "Finn Felagund"
+      ]
+    },
+    {
+      "nombre": "Enchant Bracer - Greater Strength",
+      "profesion": "Encantamiento",
+      "calidad": "common",
+      "personajes": [
         "Finn Felagund"
       ]
     },
@@ -3667,6 +3746,30 @@
       ]
     },
     {
+      "nombre": "Enchant Chest - Stats",
+      "profesion": "Encantamiento",
+      "calidad": "common",
+      "personajes": [
+        "Finn Felagund"
+      ]
+    },
+    {
+      "nombre": "Enchant Chest - Superior Intellect",
+      "profesion": "Encantamiento",
+      "calidad": "common",
+      "personajes": [
+        "Finn Felagund"
+      ]
+    },
+    {
+      "nombre": "Enchant Chest - Superior Stamina",
+      "profesion": "Encantamiento",
+      "calidad": "common",
+      "personajes": [
+        "Finn Felagund"
+      ]
+    },
+    {
       "nombre": "Enchant Cloak - Defense",
       "profesion": "Encantamiento",
       "calidad": "common",
@@ -3784,6 +3887,30 @@
       ]
     },
     {
+      "nombre": "Enchant Gloves - Minor Haste",
+      "profesion": "Encantamiento",
+      "calidad": "common",
+      "personajes": [
+        "Finn Felagund"
+      ]
+    },
+    {
+      "nombre": "Enchant Gloves - Strength",
+      "profesion": "Encantamiento",
+      "calidad": "common",
+      "personajes": [
+        "Finn Felagund"
+      ]
+    },
+    {
+      "nombre": "Enchant Shield - Greater Spirit",
+      "profesion": "Encantamiento",
+      "calidad": "common",
+      "personajes": [
+        "Finn Felagund"
+      ]
+    },
+    {
       "nombre": "Enchant Shield - Lesser Protection",
       "profesion": "Encantamiento",
       "calidad": "common",
@@ -3831,6 +3958,14 @@
     },
     {
       "nombre": "Enchant Shield - Stamina",
+      "profesion": "Encantamiento",
+      "calidad": "common",
+      "personajes": [
+        "Finn Felagund"
+      ]
+    },
+    {
+      "nombre": "Enchant Weapon - Greater Striking",
       "profesion": "Encantamiento",
       "calidad": "common",
       "personajes": [
@@ -3889,6 +4024,14 @@
       ]
     },
     {
+      "nombre": "Enchanted Leather",
+      "profesion": "Encantamiento",
+      "calidad": "common",
+      "personajes": [
+        "Finn Felagund"
+      ]
+    },
+    {
       "nombre": "Enchanted Lute",
       "profesion": "Encantamiento",
       "calidad": "common",
@@ -3902,6 +4045,14 @@
         "Saint Peligroxa",
         "Sr Byron",
         "Vaporeta Pizpireta"
+      ]
+    },
+    {
+      "nombre": "Enchanted Thorium",
+      "profesion": "Encantamiento",
+      "calidad": "common",
+      "personajes": [
+        "Finn Felagund"
       ]
     },
     {
@@ -4721,6 +4872,14 @@
       "calidad": "rare",
       "personajes": [
         "Coloso Tempestad"
+      ]
+    },
+    {
+      "nombre": "Massive Iron Axe",
+      "profesion": "Herrería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Espartaco Gladiador"
       ]
     },
     {
@@ -5752,22 +5911,9 @@
       "profesion": "Minería",
       "calidad": "common",
       "personajes": [
-        "Coloso Tempestad"
-      ]
-    },
-    {
-      "nombre": "Mining",
-      "profesion": "Minería",
-      "calidad": "common",
-      "personajes": [
         "Chaca Choochoo",
-        "Cuzcu Aker",
-        "Espartaco Gladiador",
-        "Flexita Shadowsoul",
-        "Khyoraku Shunsui",
-        "La Pety",
-        "Mosu Warryn",
-        "Tharindel Magnaluz"
+        "Coloso Tempestad",
+        "La Pety"
       ]
     },
     {
@@ -5778,6 +5924,19 @@
         "Grimmjow Jaegerjakez",
         "Samael Thallanor",
         "Tanki Llo"
+      ]
+    },
+    {
+      "nombre": "Mining",
+      "profesion": "Minería",
+      "calidad": "common",
+      "personajes": [
+        "Cuzcu Aker",
+        "Espartaco Gladiador",
+        "Flexita Shadowsoul",
+        "Khyoraku Shunsui",
+        "Mosu Warryn",
+        "Tharindel Magnaluz"
       ]
     },
     {
@@ -7883,6 +8042,14 @@
       ]
     },
     {
+      "nombre": "Cindercloth Robe",
+      "profesion": "Sastrería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Finn Felagund"
+      ]
+    },
+    {
       "nombre": "Colorful Kilt",
       "profesion": "Sastrería",
       "calidad": "uncommon",
@@ -7948,6 +8115,14 @@
         "Nimassus Pater",
         "Rhyomen Sukuna",
         "Saint Peligroxa"
+      ]
+    },
+    {
+      "nombre": "Dreamweave Gloves",
+      "profesion": "Sastrería",
+      "calidad": "rare",
+      "personajes": [
+        "Finn Felagund"
       ]
     },
     {
@@ -8077,6 +8252,14 @@
         "Dum Bo",
         "Finn Felagund",
         "Rhyomen Sukuna"
+      ]
+    },
+    {
+      "nombre": "Frothing Cord",
+      "profesion": "Sastrería",
+      "calidad": "rare",
+      "personajes": [
+        "Finn Felagund"
       ]
     },
     {
@@ -8399,6 +8582,14 @@
       "calidad": "uncommon",
       "personajes": [
         "Dum Bo",
+        "Finn Felagund"
+      ]
+    },
+    {
+      "nombre": "Mageweave Bag",
+      "profesion": "Sastrería",
+      "calidad": "common",
+      "personajes": [
         "Finn Felagund"
       ]
     },

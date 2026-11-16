@@ -7,9 +7,9 @@
       "personaje": "Finn Felagund",
       "clase": "priest",
       "raider": false,
-      "nivel": 225,
-      "max": 225,
-      "pct": 24
+      "nivel": 250,
+      "max": 300,
+      "pct": 30
     },
     {
       "personaje": "Dum Bo",
@@ -413,7 +413,9 @@
             ]
           ],
           "desc": "Encanta de forma permanente unos brazales para que proporcionen +7 p. de fuerza.",
-          "quien": []
+          "quien": [
+            0
+          ]
         },
         {
           "id": 7683,
@@ -976,7 +978,9 @@
             ]
           ],
           "desc": "Encanta de forma permanente una armadura de torso para que proporcione +8 de aguante.",
-          "quien": []
+          "quien": [
+            0
+          ]
         },
         {
           "id": 7673,
@@ -990,7 +994,9 @@
             ]
           ],
           "desc": "Encanta de forma permanente una armadura de torso para que proporcione +8 p. de intelecto.",
-          "quien": []
+          "quien": [
+            0
+          ]
         },
         {
           "id": 7681,
@@ -1012,7 +1018,9 @@
             ]
           ],
           "desc": "Encanta de forma permanente una coraza para que proporcione +3 de todas las estadísticas.",
-          "quien": []
+          "quien": [
+            0
+          ]
         },
         {
           "id": 11380,
@@ -1894,7 +1902,9 @@
             ]
           ],
           "desc": "Encanta de forma permanente un arma cuerpo a cuerpo para que cause 4 p. extra de daño.",
-          "quien": []
+          "quien": [
+            0
+          ]
         },
         {
           "id": 11382,
@@ -2403,7 +2413,9 @@
             ]
           ],
           "desc": "Encanta de forma permanente un arma cuerpo a cuerpo de dos manos para que cause +7 p. de daño.",
-          "quien": []
+          "quien": [
+            0
+          ]
         },
         {
           "id": 11389,
@@ -2748,7 +2760,9 @@
             ]
           ],
           "desc": "Encanta de forma permanente unas botas para que proporcionen +5 p. de aguante.",
-          "quien": []
+          "quien": [
+            0
+          ]
         },
         {
           "id": 7669,
@@ -2770,7 +2784,9 @@
             ]
           ],
           "desc": "Encanta de forma permanente unas botas para aumentar un 4% la velocidad de movimiento.",
-          "quien": []
+          "quien": [
+            0
+          ]
         },
         {
           "id": 7678,
@@ -2784,7 +2800,9 @@
             ]
           ],
           "desc": "Encanta de forma permanente unas botas para que proporcionen +5 p. de agilidad.",
-          "quien": []
+          "quien": [
+            0
+          ]
         },
         {
           "id": 11374,
@@ -3019,7 +3037,9 @@
             ]
           ],
           "desc": "Encanta de forma permanente un escudo para que proporcione +7 p. de espíritu.",
-          "quien": []
+          "quien": [
+            0
+          ]
         },
         {
           "id": 7677,
@@ -3266,7 +3286,9 @@
             ]
           ],
           "desc": "Encanta de forma permanente unos guantes para que proporcionen +7 p. de fuerza.",
-          "quien": []
+          "quien": [
+            0
+          ]
         },
         {
           "id": 7684,
@@ -3302,7 +3324,9 @@
             ]
           ],
           "desc": "Encanta permanentemente unos guantes para que concedan un bonus de +1% de velocidades de ataque y de lanzamiento.",
-          "quien": []
+          "quien": [
+            0
+          ]
         },
         {
           "id": 11378,
@@ -4305,7 +4329,9 @@
               "0"
             ]
           },
-          "quien": []
+          "quien": [
+            0
+          ]
         },
         {
           "id": 9598,
@@ -4334,7 +4360,9 @@
               "0"
             ]
           },
-          "quien": []
+          "quien": [
+            0
+          ]
         },
         {
           "id": 54213,

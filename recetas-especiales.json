@@ -2341,6 +2341,63 @@
       ]
     },
     {
+      "id": 55500,
+      "n": "Cordón rabioso",
+      "q": "rare",
+      "ico": "132492",
+      "reac": [
+        [
+          "Madeja de tejido mágico",
+          28
+        ],
+        [
+          "Hilo de seda pesada",
+          4
+        ],
+        [
+          "Tinte magenta",
+          6
+        ],
+        [
+          "Tinte cerúleo",
+          4
+        ],
+        [
+          "Globo de agua",
+          12
+        ]
+      ],
+      "obj": {
+        "arm": "37 armadura",
+        "id": 254039,
+        "ilvl": 45,
+        "lig": "Se liga al recogerlo",
+        "n": "Cordón rabioso",
+        "q": "rare",
+        "ranura": "Cintura",
+        "req": 40,
+        "stats": [
+          "+8 intelecto",
+          "+8 aguante",
+          "+6 espíritu",
+          "+14 Daño de Escarcha"
+        ],
+        "sub": "Tela",
+        "venta": [
+          "0",
+          "40",
+          "18"
+        ]
+      },
+      "profesion": "Sastrería",
+      "personajes": [
+        {
+          "n": "Finn Felagund",
+          "clase": "priest"
+        }
+      ]
+    },
+    {
       "id": 55473,
       "n": "Diadema brillante de filigrana",
       "q": "rare",
@@ -2943,6 +3000,58 @@
         {
           "n": "Micro Bolas",
           "clase": "warlock"
+        }
+      ]
+    },
+    {
+      "id": 6598,
+      "n": "Guantes Tejesueños",
+      "q": "rare",
+      "ico": "132952",
+      "reac": [
+        [
+          "Madeja de tejido mágico",
+          4
+        ],
+        [
+          "Atriplex salvaje",
+          4
+        ],
+        [
+          "Corazón del Salvaje",
+          2
+        ],
+        [
+          "Hilo de seda pesada",
+          2
+        ]
+      ],
+      "obj": {
+        "arm": "41 armadura",
+        "id": 10019,
+        "ilvl": 45,
+        "lig": "Se liga al equiparlo",
+        "n": "Guantes Vigilasueños",
+        "q": "rare",
+        "ranura": "Manos",
+        "req": 40,
+        "stats": [
+          "+4 intelecto",
+          "+18 poder con hechizos",
+          "+7 espíritu"
+        ],
+        "sub": "Tela",
+        "venta": [
+          "0",
+          "39",
+          "44"
+        ]
+      },
+      "profesion": "Sastrería",
+      "personajes": [
+        {
+          "n": "Finn Felagund",
+          "clase": "priest"
         }
       ]
     },
