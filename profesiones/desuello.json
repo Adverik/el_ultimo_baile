@@ -15,7 +15,7 @@
       "personaje": "Manelhon Gargon",
       "clase": "shaman",
       "raider": true,
-      "nivel": 227,
+      "nivel": 232,
       "max": 300,
       "pct": 33
     },
@@ -95,7 +95,7 @@
       "personaje": "Samael Thallanor",
       "clase": "hunter",
       "raider": false,
-      "nivel": 104,
+      "nivel": 112,
       "max": 150,
       "pct": 33
     },

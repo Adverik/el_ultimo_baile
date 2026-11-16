@@ -17,7 +17,7 @@
       "raider": false,
       "nivel": 252,
       "max": 300,
-      "pct": 47
+      "pct": 50
     },
     {
       "personaje": "Espartaco Gladiador",
@@ -47,7 +47,7 @@
       "personaje": "Viilar Terrisia",
       "clase": "druid",
       "raider": false,
-      "nivel": 187,
+      "nivel": 190,
       "max": 225,
       "pct": 41
     },
@@ -113,7 +113,7 @@
       "raider": false,
       "nivel": 131,
       "max": 150,
-      "pct": 28
+      "pct": 34
     },
     {
       "personaje": "Hugo Forjaluz",
@@ -212,6 +212,14 @@
       "pct": 16
     },
     {
+      "personaje": "Samael Thallanor",
+      "clase": "hunter",
+      "raider": false,
+      "nivel": 53,
+      "max": 150,
+      "pct": 9
+    },
+    {
       "personaje": "Sr Byron",
       "clase": "warlock",
       "raider": false,
@@ -302,14 +310,6 @@
     {
       "personaje": "Saint Peligroxa",
       "clase": "priest",
-      "raider": false,
-      "nivel": 1,
-      "max": 75,
-      "pct": 3
-    },
-    {
-      "personaje": "Samael Thallanor",
-      "clase": "hunter",
       "raider": false,
       "nivel": 1,
       "max": 75,
@@ -441,8 +441,8 @@
             23,
             24,
             25,
-            27,
-            30
+            28,
+            31
           ]
         },
         {
@@ -529,7 +529,8 @@
             9,
             10,
             11,
-            12
+            12,
+            13
           ]
         },
         {
@@ -1012,7 +1013,8 @@
             9,
             10,
             11,
-            12
+            12,
+            13
           ]
         },
         {
@@ -1275,7 +1277,8 @@
             29,
             30,
             31,
-            32
+            32,
+            33
           ]
         },
         {
@@ -1410,11 +1413,12 @@
             26,
             27,
             28,
-            30,
+            29,
             31,
             32,
             33,
-            34
+            34,
+            35
           ]
         },
         {
@@ -1600,7 +1604,9 @@
               "50"
             ]
           },
-          "quien": []
+          "quien": [
+            1
+          ]
         },
         {
           "id": 54196,

@@ -15,7 +15,7 @@
       "personaje": "Dum Bo",
       "clase": "mage",
       "raider": false,
-      "nivel": 162,
+      "nivel": 164,
       "max": 225,
       "pct": 20
     },
@@ -31,7 +31,7 @@
       "personaje": "Rhyomen Sukuna",
       "clase": "warlock",
       "raider": false,
-      "nivel": 141,
+      "nivel": 142,
       "max": 150,
       "pct": 13
     },
@@ -1803,6 +1803,7 @@
           },
           "quien": [
             0,
+            1,
             4
           ]
         },
@@ -14747,7 +14748,9 @@
               "95"
             ]
           },
-          "quien": []
+          "quien": [
+            1
+          ]
         },
         {
           "id": 55473,

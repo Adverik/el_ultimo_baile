@@ -4,6 +4,14 @@
   "total": 17,
   "artesanos": [
     {
+      "personaje": "Coloso Tempestad",
+      "clase": "warrior",
+      "raider": false,
+      "nivel": 233,
+      "max": 300,
+      "pct": 53
+    },
+    {
       "personaje": "Chaca Choochoo",
       "clase": "druid",
       "raider": false,
@@ -18,14 +26,6 @@
       "nivel": 225,
       "max": 225,
       "pct": 35
-    },
-    {
-      "personaje": "Coloso Tempestad",
-      "clase": "warrior",
-      "raider": false,
-      "nivel": 219,
-      "max": 300,
-      "pct": 53
     },
     {
       "personaje": "La Pety",
@@ -55,7 +55,7 @@
       "personaje": "Cuzcu Aker",
       "clase": "paladin",
       "raider": true,
-      "nivel": 140,
+      "nivel": 153,
       "max": 225,
       "pct": 35
     },
@@ -71,15 +71,15 @@
       "personaje": "Mosu Warryn",
       "clase": "warrior",
       "raider": false,
-      "nivel": 118,
-      "max": 150,
-      "pct": 29
+      "nivel": 126,
+      "max": 225,
+      "pct": 35
     },
     {
       "personaje": "Armando Buya",
       "clase": "paladin",
       "raider": false,
-      "nivel": 116,
+      "nivel": 121,
       "max": 150,
       "pct": 29
     },
@@ -95,7 +95,7 @@
       "personaje": "Jonaver Legends",
       "clase": "mage",
       "raider": false,
-      "nivel": 86,
+      "nivel": 89,
       "max": 150,
       "pct": 24
     },
@@ -106,6 +106,14 @@
       "nivel": 85,
       "max": 150,
       "pct": 29
+    },
+    {
+      "personaje": "Samael Thallanor",
+      "clase": "hunter",
+      "raider": false,
+      "nivel": 60,
+      "max": 75,
+      "pct": 6
     },
     {
       "personaje": "Grimmjow Jaegerjakez",
@@ -119,7 +127,7 @@
       "personaje": "Tanki Llo",
       "clase": "warlock",
       "raider": false,
-      "nivel": 24,
+      "nivel": 25,
       "max": 75,
       "pct": 6
     }
@@ -236,7 +244,7 @@
             ]
           },
           "quien": [
-            2,
+            0,
             3
           ]
         },
@@ -272,7 +280,8 @@
             4,
             5,
             6,
-            7
+            7,
+            8
           ]
         },
         {
@@ -344,7 +353,7 @@
             ]
           },
           "quien": [
-            2,
+            0,
             3
           ]
         },
@@ -387,7 +396,8 @@
             11,
             12,
             13,
-            14
+            14,
+            15
           ]
         },
         {
@@ -441,7 +451,7 @@
             ]
           },
           "quien": [
-            2,
+            0,
             3
           ]
         },
@@ -629,7 +639,7 @@
             10,
             11,
             12,
-            13
+            14
           ]
         },
         {

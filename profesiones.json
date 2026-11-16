@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-15",
+  "actualizado": "2026-11-16",
   "artesanos": [
     {
       "personaje": "Armando Buya",
@@ -8,12 +8,12 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 116,
+          "nivel": 121,
           "max": 150
         },
         {
           "nombre": "Herrería",
-          "nivel": 77,
+          "nivel": 78,
           "max": 150
         },
         {
@@ -165,7 +165,7 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 219,
+          "nivel": 233,
           "max": 300
         },
         {
@@ -197,7 +197,7 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 140,
+          "nivel": 153,
           "max": 225
         },
         {
@@ -261,12 +261,12 @@
       "profesiones": [
         {
           "nombre": "Alquimia",
-          "nivel": 201,
+          "nivel": 217,
           "max": 225
         },
         {
           "nombre": "Herboristería",
-          "nivel": 256,
+          "nivel": 262,
           "max": 300
         },
         {
@@ -315,7 +315,7 @@
       "profesiones": [
         {
           "nombre": "Sastrería",
-          "nivel": 162,
+          "nivel": 164,
           "max": 225
         },
         {
@@ -701,7 +701,7 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 86,
+          "nivel": 89,
           "max": 150
         },
         {
@@ -846,12 +846,12 @@
       "profesiones": [
         {
           "nombre": "Peletería",
-          "nivel": 156,
+          "nivel": 157,
           "max": 225
         },
         {
           "nombre": "Desuello",
-          "nivel": 227,
+          "nivel": 232,
           "max": 300
         },
         {
@@ -942,23 +942,23 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 118,
-          "max": 150
+          "nivel": 126,
+          "max": 225
         },
         {
           "nombre": "Herrería",
-          "nivel": 100,
+          "nivel": 115,
           "max": 150
         },
         {
           "nombre": "Cocina",
-          "nivel": 150,
-          "max": 150
+          "nivel": 162,
+          "max": 225
         },
         {
           "nombre": "Pesca",
           "nivel": 150,
-          "max": 150
+          "max": 225
         },
         {
           "nombre": "Primeros auxilios",
@@ -1065,7 +1065,7 @@
       "profesiones": [
         {
           "nombre": "Sastrería",
-          "nivel": 141,
+          "nivel": 142,
           "max": 150
         },
         {
@@ -1146,13 +1146,18 @@
       "profesiones": [
         {
           "nombre": "Desuello",
-          "nivel": 104,
+          "nivel": 112,
           "max": 150
         },
         {
-          "nombre": "Cocina",
-          "nivel": 24,
+          "nombre": "Minería",
+          "nivel": 60,
           "max": 75
+        },
+        {
+          "nombre": "Cocina",
+          "nivel": 84,
+          "max": 150
         },
         {
           "nombre": "Pesca",
@@ -1161,8 +1166,8 @@
         },
         {
           "nombre": "Primeros auxilios",
-          "nivel": 1,
-          "max": 75
+          "nivel": 53,
+          "max": 150
         }
       ]
     },
@@ -1188,7 +1193,7 @@
         },
         {
           "nombre": "Pesca",
-          "nivel": 20,
+          "nivel": 24,
           "max": 75
         },
         {
@@ -1264,7 +1269,7 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 24,
+          "nivel": 25,
           "max": 75
         },
         {
@@ -1409,17 +1414,17 @@
       "profesiones": [
         {
           "nombre": "Alquimia",
-          "nivel": 151,
+          "nivel": 181,
           "max": 225
         },
         {
           "nombre": "Herboristería",
-          "nivel": 182,
+          "nivel": 183,
           "max": 225
         },
         {
           "nombre": "Cocina",
-          "nivel": 146,
+          "nivel": 150,
           "max": 150
         },
         {
@@ -1429,7 +1434,7 @@
         },
         {
           "nombre": "Primeros auxilios",
-          "nivel": 187,
+          "nivel": 190,
           "max": 225
         }
       ]
@@ -1565,7 +1570,8 @@
         "Don Josechu",
         "Fran Furion",
         "Layrela Rondanit",
-        "Sugar Papy"
+        "Sugar Papy",
+        "Viilar Terrisia"
       ]
     },
     {
@@ -1756,7 +1762,8 @@
         "Dio Hotmetal",
         "Fran Furion",
         "Layrela Rondanit",
-        "Sugar Papy"
+        "Sugar Papy",
+        "Viilar Terrisia"
       ]
     },
     {
@@ -1826,7 +1833,8 @@
         "Don Josechu",
         "Fran Furion",
         "Layrela Rondanit",
-        "Sugar Papy"
+        "Sugar Papy",
+        "Viilar Terrisia"
       ]
     },
     {
@@ -2222,6 +2230,7 @@
         "Nimassus Pater",
         "Palmira Natblida",
         "Runa Ruina",
+        "Samael Thallanor",
         "Sr Byron",
         "Sugar Papy",
         "Tharindel Magnaluz",
@@ -2399,6 +2408,7 @@
         "Nimassus Pater",
         "Palmira Natblida",
         "Runa Ruina",
+        "Samael Thallanor",
         "Sr Byron",
         "Sugar Papy",
         "Tharindel Magnaluz",
@@ -2427,6 +2437,7 @@
         "Memas Tour",
         "Palmira Natblida",
         "Runa Ruina",
+        "Samael Thallanor",
         "Sr Byron",
         "Sugar Papy",
         "Tharindel Magnaluz",
@@ -2508,6 +2519,7 @@
         "Nimassus Pater",
         "Palmira Natblida",
         "Runa Ruina",
+        "Samael Thallanor",
         "Sr Byron",
         "Sugar Papy",
         "Tharindel Magnaluz",
@@ -2585,6 +2597,7 @@
         "La Pety",
         "Manelhon Gargon",
         "Memas Tour",
+        "Mosu Warryn",
         "Palmira Natblida",
         "Sr Byron",
         "Sugar Papy"
@@ -2986,6 +2999,7 @@
         "La Pety",
         "Manelhon Gargon",
         "Memas Tour",
+        "Mosu Warryn",
         "Palmira Natblida",
         "Sr Byron",
         "Sugar Papy",
@@ -3061,6 +3075,7 @@
         "Mosu Warryn",
         "Palmira Natblida",
         "Runa Ruina",
+        "Sr Byron",
         "Sugar Papy",
         "Tharindel Magnaluz"
       ]
@@ -3071,6 +3086,7 @@
       "calidad": "common",
       "personajes": [
         "Chaca Choochoo",
+        "Cuzcu Aker",
         "Diana Flechaveloz",
         "Dum Bo",
         "Edoras Duskranger",
@@ -4610,6 +4626,7 @@
         "Coloso Tempestad",
         "Espartaco Gladiador",
         "Khyoraku Shunsui",
+        "Mosu Warryn",
         "Tharindel Magnaluz"
       ]
     },
@@ -4645,6 +4662,7 @@
         "Coloso Tempestad",
         "Espartaco Gladiador",
         "Khyoraku Shunsui",
+        "Mosu Warryn",
         "Tharindel Magnaluz"
       ]
     },
@@ -4656,6 +4674,7 @@
         "Coloso Tempestad",
         "Espartaco Gladiador",
         "Khyoraku Shunsui",
+        "Mosu Warryn",
         "Tharindel Magnaluz"
       ]
     },
@@ -4706,6 +4725,14 @@
     },
     {
       "nombre": "Mighty Iron Hammer",
+      "profesion": "Herrería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Coloso Tempestad"
+      ]
+    },
+    {
+      "nombre": "Mithril Plate Bracers",
       "profesion": "Herrería",
       "calidad": "uncommon",
       "personajes": [
@@ -5046,6 +5073,7 @@
         "Coloso Tempestad",
         "Espartaco Gladiador",
         "Khyoraku Shunsui",
+        "Mosu Warryn",
         "Tharindel Magnaluz"
       ]
     },
@@ -5057,6 +5085,7 @@
         "Coloso Tempestad",
         "Espartaco Gladiador",
         "Khyoraku Shunsui",
+        "Mosu Warryn",
         "Tharindel Magnaluz"
       ]
     },
@@ -5102,6 +5131,14 @@
     },
     {
       "nombre": "Steel Plate Helm",
+      "profesion": "Herrería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Coloso Tempestad"
+      ]
+    },
+    {
+      "nombre": "Sterling Silver Gauntlet",
       "profesion": "Herrería",
       "calidad": "uncommon",
       "personajes": [
@@ -5729,6 +5766,7 @@
         "Flexita Shadowsoul",
         "Khyoraku Shunsui",
         "La Pety",
+        "Mosu Warryn",
         "Tharindel Magnaluz"
       ]
     },
@@ -5738,6 +5776,7 @@
       "calidad": "common",
       "personajes": [
         "Grimmjow Jaegerjakez",
+        "Samael Thallanor",
         "Tanki Llo"
       ]
     },
@@ -5787,6 +5826,7 @@
         "Khyoraku Shunsui",
         "La Pety",
         "Mosu Warryn",
+        "Samael Thallanor",
         "Tanki Llo",
         "Tharindel Magnaluz"
       ]
@@ -5812,6 +5852,7 @@
         "Flexita Shadowsoul",
         "Khyoraku Shunsui",
         "La Pety",
+        "Mosu Warryn",
         "Tharindel Magnaluz"
       ]
     },
@@ -7122,7 +7163,8 @@
       "personajes": [
         "Espartaco Gladiador",
         "Finn Felagund",
-        "Memas Tour"
+        "Memas Tour",
+        "Mosu Warryn"
       ]
     },
     {
@@ -7136,7 +7178,6 @@
         "Flexita Shadowsoul",
         "Layrela Rondanit",
         "Manelhon Gargon",
-        "Mosu Warryn",
         "Palmira Natblida",
         "Samael Thallanor",
         "Sugar Papy",
@@ -7146,6 +7187,14 @@
     },
     {
       "nombre": "Fishing",
+      "profesion": "Pesca",
+      "calidad": "common",
+      "personajes": [
+        "Dum Bo"
+      ]
+    },
+    {
+      "nombre": "Fishing Rack",
       "profesion": "Pesca",
       "calidad": "common",
       "personajes": [
@@ -7214,6 +7263,7 @@
         "Nindalf Pizpireta",
         "Palmira Natblida",
         "Runa Ruina",
+        "Samael Thallanor",
         "Sr Byron",
         "Sugar Papy",
         "Takkaao Valengri",
@@ -7311,6 +7361,7 @@
         "Ildaren Belisar",
         "La Pety",
         "Layrela Rondanit",
+        "Mosu Warryn",
         "Palmira Natblida",
         "Runa Ruina",
         "Sugar Papy",
@@ -7446,6 +7497,7 @@
         "Nindalf Pizpireta",
         "Palmira Natblida",
         "Runa Ruina",
+        "Samael Thallanor",
         "Sr Byron",
         "Sugar Papy",
         "Takkaao Valengri",
@@ -7514,6 +7566,14 @@
       ]
     },
     {
+      "nombre": "Superior Healing Potion",
+      "profesion": "Primeros auxilios",
+      "calidad": "common",
+      "personajes": [
+        "Coloso Tempestad"
+      ]
+    },
+    {
       "nombre": "Superior Poultice",
       "profesion": "Primeros auxilios",
       "calidad": "common",
@@ -7556,6 +7616,7 @@
         "Genethika Brisaveloz",
         "Ildaren Belisar",
         "Layrela Rondanit",
+        "Mosu Warryn",
         "Palmira Natblida",
         "Runa Ruina",
         "Sugar Papy",
@@ -7952,6 +8013,14 @@
       ]
     },
     {
+      "nombre": "Filigreed Pearly Circlet",
+      "profesion": "Sastrería",
+      "calidad": "rare",
+      "personajes": [
+        "Dum Bo"
+      ]
+    },
+    {
       "nombre": "Filigreed Pearly Leggings",
       "profesion": "Sastrería",
       "calidad": "rare",
@@ -8071,6 +8140,7 @@
       "profesion": "Sastrería",
       "calidad": "uncommon",
       "personajes": [
+        "Dum Bo",
         "Finn Felagund",
         "Kadeharz Apsus"
       ]

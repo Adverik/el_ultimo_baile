@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-15",
+  "actualizado": "2026-11-16",
   "recetas": [
     {
       "id": 54692,
@@ -63,12 +63,12 @@
           "clase": "paladin"
         },
         {
-          "n": "Hugo Forjaluz",
-          "clase": "paladin"
-        },
-        {
           "n": "Mosu Warryn",
           "clase": "warrior"
+        },
+        {
+          "n": "Hugo Forjaluz",
+          "clase": "paladin"
         },
         {
           "n": "Armando Buya",
@@ -2553,6 +2553,57 @@
         {
           "n": "Sr Byron",
           "clase": "warlock"
+        }
+      ]
+    },
+    {
+      "id": 55472,
+      "n": "Diadema nacarada de filigrana",
+      "q": "rare",
+      "ico": "132767",
+      "reac": [
+        [
+          "Madeja de paño de seda",
+          8
+        ],
+        [
+          "Hilo refinado",
+          4
+        ],
+        [
+          "Tinte cerúleo",
+          2
+        ],
+        [
+          "Perla lustrosa pequeña",
+          6
+        ]
+      ],
+      "obj": {
+        "arm": "38 armadura",
+        "id": 253983,
+        "ilvl": 30,
+        "lig": "Se liga al recogerlo",
+        "n": "Diadema nacarada de filigrana",
+        "q": "rare",
+        "ranura": "Cabeza",
+        "req": 25,
+        "stats": [
+          "+12 aguante",
+          "+14 Daño Arcano"
+        ],
+        "sub": "Tela",
+        "venta": [
+          "0",
+          "16",
+          "95"
+        ]
+      },
+      "profesion": "Sastrería",
+      "personajes": [
+        {
+          "n": "Dum Bo",
+          "clase": "mage"
         }
       ]
     },

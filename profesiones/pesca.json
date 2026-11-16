@@ -9,7 +9,7 @@
       "raider": false,
       "nivel": 300,
       "max": 300,
-      "pct": 33
+      "pct": 67
     },
     {
       "personaje": "Espartaco Gladiador",
@@ -40,7 +40,7 @@
       "clase": "warrior",
       "raider": false,
       "nivel": 150,
-      "max": 150,
+      "max": 225,
       "pct": 33
     },
     {
@@ -188,6 +188,14 @@
       "pct": 33
     },
     {
+      "personaje": "Sr Byron",
+      "clase": "warlock",
+      "raider": false,
+      "nivel": 24,
+      "max": 75,
+      "pct": 33
+    },
+    {
       "personaje": "Vaporeta Pizpireta",
       "clase": "mage",
       "raider": true,
@@ -198,14 +206,6 @@
     {
       "personaje": "La Pety",
       "clase": "rogue",
-      "raider": false,
-      "nivel": 20,
-      "max": 75,
-      "pct": 33
-    },
-    {
-      "personaje": "Sr Byron",
-      "clase": "warlock",
       "raider": false,
       "nivel": 20,
       "max": 75,
@@ -364,7 +364,9 @@
             "q": "common",
             "sub": "Otros"
           },
-          "quien": []
+          "quien": [
+            0
+          ]
         },
         {
           "id": 57037,
