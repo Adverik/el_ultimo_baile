@@ -15,7 +15,7 @@
       "personaje": "Espartaco Gladiador",
       "clase": "warrior",
       "raider": true,
-      "nivel": 185,
+      "nivel": 192,
       "max": 225,
       "pct": 33
     },
@@ -31,7 +31,7 @@
       "personaje": "Memas Tour",
       "clase": "shaman",
       "raider": false,
-      "nivel": 178,
+      "nivel": 179,
       "max": 225,
       "pct": 33
     },
@@ -60,6 +60,14 @@
       "pct": 33
     },
     {
+      "personaje": "Sugar Papy",
+      "clase": "druid",
+      "raider": false,
+      "nivel": 130,
+      "max": 150,
+      "pct": 33
+    },
+    {
       "personaje": "Cuzcu Aker",
       "clase": "paladin",
       "raider": true,
@@ -80,14 +88,6 @@
       "clase": "hunter",
       "raider": true,
       "nivel": 110,
-      "max": 150,
-      "pct": 33
-    },
-    {
-      "personaje": "Sugar Papy",
-      "clase": "druid",
-      "raider": false,
-      "nivel": 102,
       "max": 150,
       "pct": 33
     },
@@ -137,6 +137,14 @@
       "raider": true,
       "nivel": 75,
       "max": 75,
+      "pct": 33
+    },
+    {
+      "personaje": "Micro Bolas",
+      "clase": "warlock",
+      "raider": false,
+      "nivel": 50,
+      "max": 150,
       "pct": 33
     },
     {
@@ -260,14 +268,6 @@
       "pct": 0
     },
     {
-      "personaje": "Micro Bolas",
-      "clase": "warlock",
-      "raider": false,
-      "nivel": 1,
-      "max": 75,
-      "pct": 0
-    },
-    {
       "personaje": "Thundrik Volgrim",
       "clase": "priest",
       "raider": false,
@@ -326,12 +326,13 @@
             16,
             17,
             18,
-            20,
+            19,
             21,
             22,
             23,
             24,
-            25
+            25,
+            26
           ]
         },
         {

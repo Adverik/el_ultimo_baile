@@ -106,7 +106,7 @@
         },
         {
           "nombre": "Herboristería",
-          "nivel": 17,
+          "nivel": 19,
           "max": 75
         },
         {
@@ -133,7 +133,7 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 225,
+          "nivel": 239,
           "max": 300
         },
         {
@@ -143,7 +143,7 @@
         },
         {
           "nombre": "Cocina",
-          "nivel": 192,
+          "nivel": 225,
           "max": 225
         },
         {
@@ -165,7 +165,7 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 235,
+          "nivel": 238,
           "max": 300
         },
         {
@@ -197,7 +197,7 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 153,
+          "nivel": 154,
           "max": 225
         },
         {
@@ -261,17 +261,17 @@
       "profesiones": [
         {
           "nombre": "Alquimia",
-          "nivel": 251,
+          "nivel": 253,
           "max": 300
         },
         {
           "nombre": "Herboristería",
-          "nivel": 262,
+          "nivel": 265,
           "max": 300
         },
         {
           "nombre": "Cocina",
-          "nivel": 77,
+          "nivel": 84,
           "max": 150
         },
         {
@@ -293,12 +293,12 @@
       "profesiones": [
         {
           "nombre": "Alquimia",
-          "nivel": 183,
+          "nivel": 187,
           "max": 225
         },
         {
           "nombre": "Herboristería",
-          "nivel": 151,
+          "nivel": 156,
           "max": 225
         },
         {
@@ -352,7 +352,7 @@
         },
         {
           "nombre": "Desuello",
-          "nivel": 268,
+          "nivel": 271,
           "max": 300
         },
         {
@@ -379,7 +379,7 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 169,
+          "nivel": 174,
           "max": 225
         },
         {
@@ -394,12 +394,12 @@
         },
         {
           "nombre": "Pesca",
-          "nivel": 185,
+          "nivel": 192,
           "max": 225
         },
         {
           "nombre": "Primeros auxilios",
-          "nivel": 220,
+          "nivel": 221,
           "max": 225
         }
       ]
@@ -465,17 +465,17 @@
       "profesiones": [
         {
           "nombre": "Sastrería",
-          "nivel": 193,
+          "nivel": 195,
           "max": 225
         },
         {
           "nombre": "Encantamiento",
-          "nivel": 250,
+          "nivel": 251,
           "max": 300
         },
         {
           "nombre": "Cocina",
-          "nivel": 216,
+          "nivel": 225,
           "max": 225
         },
         {
@@ -556,7 +556,7 @@
         },
         {
           "nombre": "Herboristería",
-          "nivel": 207,
+          "nivel": 216,
           "max": 300
         },
         {
@@ -578,12 +578,12 @@
       "profesiones": [
         {
           "nombre": "Alquimia",
-          "nivel": 132,
+          "nivel": 138,
           "max": 150
         },
         {
           "nombre": "Herboristería",
-          "nivel": 139,
+          "nivel": 140,
           "max": 225
         },
         {
@@ -593,7 +593,7 @@
         },
         {
           "nombre": "Primeros auxilios",
-          "nivel": 185,
+          "nivel": 193,
           "max": 225
         }
       ]
@@ -760,12 +760,12 @@
         },
         {
           "nombre": "Herrería",
-          "nivel": 151,
+          "nivel": 156,
           "max": 225
         },
         {
           "nombre": "Cocina",
-          "nivel": 175,
+          "nivel": 189,
           "max": 225
         },
         {
@@ -814,12 +814,12 @@
       "profesiones": [
         {
           "nombre": "Alquimia",
-          "nivel": 185,
+          "nivel": 187,
           "max": 225
         },
         {
           "nombre": "Herboristería",
-          "nivel": 203,
+          "nivel": 214,
           "max": 225
         },
         {
@@ -851,7 +851,7 @@
         },
         {
           "nombre": "Desuello",
-          "nivel": 232,
+          "nivel": 242,
           "max": 300
         },
         {
@@ -893,7 +893,7 @@
         },
         {
           "nombre": "Pesca",
-          "nivel": 178,
+          "nivel": 179,
           "max": 225
         },
         {
@@ -910,7 +910,7 @@
       "profesiones": [
         {
           "nombre": "Sastrería",
-          "nivel": 116,
+          "nivel": 118,
           "max": 150
         },
         {
@@ -925,8 +925,8 @@
         },
         {
           "nombre": "Pesca",
-          "nivel": 1,
-          "max": 75
+          "nivel": 50,
+          "max": 150
         },
         {
           "nombre": "Primeros auxilios",
@@ -974,7 +974,7 @@
       "profesiones": [
         {
           "nombre": "Sastrería",
-          "nivel": 109,
+          "nivel": 117,
           "max": 150
         },
         {
@@ -1092,12 +1092,12 @@
         },
         {
           "nombre": "Desuello",
-          "nivel": 221,
-          "max": 225
+          "nivel": 229,
+          "max": 300
         },
         {
           "nombre": "Cocina",
-          "nivel": 185,
+          "nivel": 206,
           "max": 225
         },
         {
@@ -1151,12 +1151,12 @@
         },
         {
           "nombre": "Minería",
-          "nivel": 60,
-          "max": 75
+          "nivel": 74,
+          "max": 150
         },
         {
           "nombre": "Cocina",
-          "nivel": 84,
+          "nivel": 89,
           "max": 150
         },
         {
@@ -1166,7 +1166,7 @@
         },
         {
           "nombre": "Primeros auxilios",
-          "nivel": 53,
+          "nivel": 56,
           "max": 150
         }
       ]
@@ -1178,7 +1178,7 @@
       "profesiones": [
         {
           "nombre": "Sastrería",
-          "nivel": 156,
+          "nivel": 181,
           "max": 225
         },
         {
@@ -1215,17 +1215,17 @@
         },
         {
           "nombre": "Herboristería",
-          "nivel": 253,
+          "nivel": 258,
           "max": 300
         },
         {
           "nombre": "Cocina",
-          "nivel": 225,
+          "nivel": 299,
           "max": 300
         },
         {
           "nombre": "Pesca",
-          "nivel": 102,
+          "nivel": 130,
           "max": 150
         },
         {
@@ -1269,7 +1269,7 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 27,
+          "nivel": 32,
           "max": 75
         },
         {
@@ -2300,6 +2300,7 @@
         "Finn Felagund",
         "Flexita Shadowsoul",
         "Grimmjow Jaegerjakez",
+        "Ildaren Belisar",
         "Jonaver Legends",
         "La Pety",
         "Layrela Rondanit",
@@ -2320,6 +2321,7 @@
       "profesion": "Cocina",
       "calidad": "common",
       "personajes": [
+        "Dum Bo",
         "Finn Felagund",
         "La Pety",
         "Sugar Papy"
@@ -2334,6 +2336,7 @@
         "Dum Bo",
         "Edoras Duskranger",
         "Finn Felagund",
+        "Ildaren Belisar",
         "Layrela Rondanit",
         "Memas Tour",
         "Mosu Warryn",
@@ -2613,6 +2616,7 @@
       "profesion": "Cocina",
       "calidad": "common",
       "personajes": [
+        "Flexita Shadowsoul",
         "Sugar Papy"
       ]
     },
@@ -2740,7 +2744,8 @@
       "personajes": [
         "Dum Bo",
         "Espartaco Gladiador",
-        "Flexita Shadowsoul"
+        "Flexita Shadowsoul",
+        "Layrela Rondanit"
       ]
     },
     {
@@ -2857,6 +2862,7 @@
         "Espartaco Gladiador",
         "Manelhon Gargon",
         "Mosu Warryn",
+        "Samael Thallanor",
         "Tharindel Magnaluz"
       ]
     },
@@ -2875,6 +2881,14 @@
       ]
     },
     {
+      "nombre": "Plain Ol' Paletusk",
+      "profesion": "Cocina",
+      "calidad": "common",
+      "personajes": [
+        "Layrela Rondanit"
+      ]
+    },
+    {
       "nombre": "Rainbow Fin Albacore",
       "profesion": "Cocina",
       "calidad": "common",
@@ -2885,6 +2899,7 @@
         "Edoras Duskranger",
         "Espartaco Gladiador",
         "Finn Felagund",
+        "Ildaren Belisar",
         "Khyoraku Shunsui",
         "Layrela Rondanit",
         "Manelhon Gargon",
@@ -3113,6 +3128,7 @@
         "Mosu Warryn",
         "Palmira Natblida",
         "Runa Ruina",
+        "Samael Thallanor",
         "Sr Byron",
         "Sugar Papy",
         "Tharindel Magnaluz"
@@ -3248,6 +3264,14 @@
       ]
     },
     {
+      "nombre": "Tender Wolf Steak",
+      "profesion": "Cocina",
+      "calidad": "common",
+      "personajes": [
+        "Sugar Papy"
+      ]
+    },
+    {
       "nombre": "Thistle Tea",
       "profesion": "Cocina",
       "calidad": "common",
@@ -3262,6 +3286,15 @@
       "profesion": "Cocina",
       "calidad": "common",
       "personajes": [
+        "Sugar Papy"
+      ]
+    },
+    {
+      "nombre": "Undermine Clam Chowder",
+      "profesion": "Cocina",
+      "calidad": "common",
+      "personajes": [
+        "Chaca Choochoo",
         "Sugar Papy"
       ]
     },
@@ -3325,7 +3358,6 @@
         "Ildaren Belisar",
         "Memas Tour",
         "Palmira Natblida",
-        "Runa Ruina",
         "Tom Kha"
       ]
     },
@@ -3335,7 +3367,8 @@
       "calidad": "common",
       "personajes": [
         "Edoras Duskranger",
-        "Manelhon Gargon"
+        "Manelhon Gargon",
+        "Runa Ruina"
       ]
     },
     {
@@ -5883,6 +5916,7 @@
         "Khyoraku Shunsui",
         "La Pety",
         "Mosu Warryn",
+        "Samael Thallanor",
         "Tharindel Magnaluz"
       ]
     },
@@ -5903,6 +5937,7 @@
         "Khyoraku Shunsui",
         "La Pety",
         "Mosu Warryn",
+        "Samael Thallanor",
         "Tharindel Magnaluz"
       ]
     },
@@ -5922,7 +5957,6 @@
       "calidad": "common",
       "personajes": [
         "Grimmjow Jaegerjakez",
-        "Samael Thallanor",
         "Tanki Llo"
       ]
     },
@@ -5964,6 +5998,7 @@
         "Khyoraku Shunsui",
         "La Pety",
         "Mosu Warryn",
+        "Samael Thallanor",
         "Tharindel Magnaluz"
       ]
     },
@@ -6069,6 +6104,7 @@
         "Khyoraku Shunsui",
         "La Pety",
         "Mosu Warryn",
+        "Samael Thallanor",
         "Tharindel Magnaluz"
       ]
     },
@@ -7276,6 +7312,7 @@
         "Layrela Rondanit",
         "Manelhon Gargon",
         "Memas Tour",
+        "Micro Bolas",
         "Mosu Warryn",
         "Nimassus Pater",
         "Nindalf Pizpireta",
@@ -7305,7 +7342,6 @@
         "Ildaren Belisar",
         "Jonaver Legends",
         "La Pety",
-        "Micro Bolas",
         "Nimassus Pater",
         "Nindalf Pizpireta",
         "Saint Peligroxa",
@@ -7337,6 +7373,7 @@
         "Flexita Shadowsoul",
         "Layrela Rondanit",
         "Manelhon Gargon",
+        "Micro Bolas",
         "Palmira Natblida",
         "Samael Thallanor",
         "Sugar Papy",
@@ -7789,7 +7826,8 @@
       "personajes": [
         "Dum Bo",
         "Finn Felagund",
-        "Rhyomen Sukuna"
+        "Rhyomen Sukuna",
+        "Sr Byron"
       ]
     },
     {
@@ -7811,7 +7849,8 @@
       "personajes": [
         "Dum Bo",
         "Finn Felagund",
-        "Rhyomen Sukuna"
+        "Rhyomen Sukuna",
+        "Sr Byron"
       ]
     },
     {
@@ -7821,7 +7860,8 @@
       "personajes": [
         "Dum Bo",
         "Finn Felagund",
-        "Rhyomen Sukuna"
+        "Rhyomen Sukuna",
+        "Sr Byron"
       ]
     },
     {
@@ -7843,7 +7883,8 @@
       "profesion": "Sastrería",
       "calidad": "uncommon",
       "personajes": [
-        "Finn Felagund"
+        "Finn Felagund",
+        "Sr Byron"
       ]
     },
     {
@@ -7851,7 +7892,8 @@
       "profesion": "Sastrería",
       "calidad": "uncommon",
       "personajes": [
-        "Finn Felagund"
+        "Finn Felagund",
+        "Sr Byron"
       ]
     },
     {
@@ -7859,7 +7901,8 @@
       "profesion": "Sastrería",
       "calidad": "uncommon",
       "personajes": [
-        "Finn Felagund"
+        "Finn Felagund",
+        "Sr Byron"
       ]
     },
     {
@@ -7867,7 +7910,8 @@
       "profesion": "Sastrería",
       "calidad": "uncommon",
       "personajes": [
-        "Finn Felagund"
+        "Finn Felagund",
+        "Sr Byron"
       ]
     },
     {
@@ -7876,6 +7920,7 @@
       "calidad": "rare",
       "personajes": [
         "Dum Bo",
+        "Finn Felagund",
         "Sr Byron"
       ]
     },
@@ -7945,7 +7990,8 @@
       "personajes": [
         "Dum Bo",
         "Finn Felagund",
-        "Rhyomen Sukuna"
+        "Rhyomen Sukuna",
+        "Sr Byron"
       ]
     },
     {
@@ -8066,7 +8112,8 @@
       "personajes": [
         "Dum Bo",
         "Finn Felagund",
-        "Rhyomen Sukuna"
+        "Rhyomen Sukuna",
+        "Sr Byron"
       ]
     },
     {
@@ -8083,7 +8130,8 @@
       "calidad": "uncommon",
       "personajes": [
         "Dum Bo",
-        "Finn Felagund"
+        "Finn Felagund",
+        "Sr Byron"
       ]
     },
     {
@@ -8114,11 +8162,20 @@
         "Micro Bolas",
         "Nimassus Pater",
         "Rhyomen Sukuna",
-        "Saint Peligroxa"
+        "Saint Peligroxa",
+        "Sr Byron"
       ]
     },
     {
       "nombre": "Dreamweave Gloves",
+      "profesion": "Sastrería",
+      "calidad": "rare",
+      "personajes": [
+        "Finn Felagund"
+      ]
+    },
+    {
+      "nombre": "Dreamweave Vest",
       "profesion": "Sastrería",
       "calidad": "rare",
       "personajes": [
@@ -8140,7 +8197,8 @@
       "personajes": [
         "Dum Bo",
         "Finn Felagund",
-        "Rhyomen Sukuna"
+        "Rhyomen Sukuna",
+        "Sr Byron"
       ]
     },
     {
@@ -8251,7 +8309,8 @@
       "personajes": [
         "Dum Bo",
         "Finn Felagund",
-        "Rhyomen Sukuna"
+        "Rhyomen Sukuna",
+        "Sr Byron"
       ]
     },
     {
@@ -8267,7 +8326,8 @@
       "profesion": "Sastrería",
       "calidad": "rare",
       "personajes": [
-        "Dum Bo"
+        "Dum Bo",
+        "Sr Byron"
       ]
     },
     {
@@ -8276,7 +8336,8 @@
       "calidad": "rare",
       "personajes": [
         "Dum Bo",
-        "Finn Felagund"
+        "Finn Felagund",
+        "Sr Byron"
       ]
     },
     {
@@ -8295,7 +8356,8 @@
       "profesion": "Sastrería",
       "calidad": "rare",
       "personajes": [
-        "Dum Bo"
+        "Dum Bo",
+        "Sr Byron"
       ]
     },
     {
@@ -8379,7 +8441,8 @@
       "calidad": "uncommon",
       "personajes": [
         "Dum Bo",
-        "Finn Felagund"
+        "Finn Felagund",
+        "Sr Byron"
       ]
     },
     {
@@ -8478,7 +8541,8 @@
         "Dum Bo",
         "Finn Felagund",
         "Nimassus Pater",
-        "Rhyomen Sukuna"
+        "Rhyomen Sukuna",
+        "Sr Byron"
       ]
     },
     {
@@ -8489,7 +8553,9 @@
         "Dum Bo",
         "Finn Felagund",
         "Kadeharz Apsus",
-        "Rhyomen Sukuna"
+        "Micro Bolas",
+        "Rhyomen Sukuna",
+        "Sr Byron"
       ]
     },
     {
@@ -8582,7 +8648,8 @@
       "calidad": "uncommon",
       "personajes": [
         "Dum Bo",
-        "Finn Felagund"
+        "Finn Felagund",
+        "Sr Byron"
       ]
     },
     {
@@ -8676,7 +8743,9 @@
       "profesion": "Sastrería",
       "calidad": "rare",
       "personajes": [
-        "Dum Bo"
+        "Dum Bo",
+        "Finn Felagund",
+        "Sr Byron"
       ]
     },
     {
@@ -8729,7 +8798,8 @@
       "personajes": [
         "Dum Bo",
         "Finn Felagund",
-        "Rhyomen Sukuna"
+        "Rhyomen Sukuna",
+        "Sr Byron"
       ]
     },
     {
@@ -8785,7 +8855,8 @@
       "calidad": "rare",
       "personajes": [
         "Dum Bo",
-        "Finn Felagund"
+        "Finn Felagund",
+        "Sr Byron"
       ]
     },
     {
@@ -8812,7 +8883,8 @@
       "personajes": [
         "Dum Bo",
         "Finn Felagund",
-        "Rhyomen Sukuna"
+        "Rhyomen Sukuna",
+        "Sr Byron"
       ]
     },
     {
@@ -8904,6 +8976,7 @@
       "profesion": "Sastrería",
       "calidad": "uncommon",
       "personajes": [
+        "Dum Bo",
         "Finn Felagund"
       ]
     },
@@ -8923,6 +8996,7 @@
       "personajes": [
         "Dum Bo",
         "Finn Felagund",
+        "Micro Bolas",
         "Nimassus Pater",
         "Rhyomen Sukuna",
         "Sr Byron"
@@ -8954,7 +9028,8 @@
       "personajes": [
         "Dum Bo",
         "Finn Felagund",
-        "Rhyomen Sukuna"
+        "Rhyomen Sukuna",
+        "Sr Byron"
       ]
     },
     {
@@ -9010,7 +9085,8 @@
       "personajes": [
         "Dum Bo",
         "Finn Felagund",
-        "Rhyomen Sukuna"
+        "Rhyomen Sukuna",
+        "Sr Byron"
       ]
     },
     {
@@ -9029,7 +9105,8 @@
         "Dum Bo",
         "Finn Felagund",
         "Rhyomen Sukuna",
-        "Saint Peligroxa"
+        "Saint Peligroxa",
+        "Sr Byron"
       ]
     },
     {

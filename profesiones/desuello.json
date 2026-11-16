@@ -7,7 +7,7 @@
       "personaje": "Edoras Duskranger",
       "clase": "hunter",
       "raider": true,
-      "nivel": 268,
+      "nivel": 271,
       "max": 300,
       "pct": 67
     },
@@ -15,7 +15,15 @@
       "personaje": "Manelhon Gargon",
       "clase": "shaman",
       "raider": true,
-      "nivel": 232,
+      "nivel": 242,
+      "max": 300,
+      "pct": 33
+    },
+    {
+      "personaje": "Runa Ruina",
+      "clase": "shaman",
+      "raider": true,
+      "nivel": 229,
       "max": 300,
       "pct": 33
     },
@@ -48,14 +56,6 @@
       "clase": "rogue",
       "raider": true,
       "nivel": 225,
-      "max": 225,
-      "pct": 33
-    },
-    {
-      "personaje": "Runa Ruina",
-      "clase": "shaman",
-      "raider": true,
-      "nivel": 221,
       "max": 225,
       "pct": 33
     },

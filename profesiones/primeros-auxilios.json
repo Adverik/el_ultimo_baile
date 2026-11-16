@@ -23,7 +23,7 @@
       "personaje": "Espartaco Gladiador",
       "clase": "warrior",
       "raider": true,
-      "nivel": 220,
+      "nivel": 221,
       "max": 225,
       "pct": 25
     },
@@ -44,18 +44,18 @@
       "pct": 41
     },
     {
-      "personaje": "Viilar Terrisia",
-      "clase": "druid",
+      "personaje": "Genethika Brisaveloz",
+      "clase": "hunter",
       "raider": false,
-      "nivel": 190,
+      "nivel": 193,
       "max": 225,
       "pct": 41
     },
     {
-      "personaje": "Genethika Brisaveloz",
-      "clase": "hunter",
+      "personaje": "Viilar Terrisia",
+      "clase": "druid",
       "raider": false,
-      "nivel": 185,
+      "nivel": 190,
       "max": 225,
       "pct": 41
     },
@@ -215,7 +215,7 @@
       "personaje": "Samael Thallanor",
       "clase": "hunter",
       "raider": false,
-      "nivel": 53,
+      "nivel": 56,
       "max": 150,
       "pct": 9
     },

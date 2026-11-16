@@ -7,7 +7,7 @@
       "personaje": "Dio Hotmetal",
       "clase": "hunter",
       "raider": false,
-      "nivel": 262,
+      "nivel": 265,
       "max": 300,
       "pct": 33
     },
@@ -15,7 +15,7 @@
       "personaje": "Sugar Papy",
       "clase": "druid",
       "raider": false,
-      "nivel": 253,
+      "nivel": 258,
       "max": 300,
       "pct": 33
     },
@@ -23,7 +23,7 @@
       "personaje": "Fran Furion",
       "clase": "druid",
       "raider": true,
-      "nivel": 207,
+      "nivel": 216,
       "max": 300,
       "pct": 33
     },
@@ -31,7 +31,7 @@
       "personaje": "Layrela Rondanit",
       "clase": "druid",
       "raider": true,
-      "nivel": 203,
+      "nivel": 214,
       "max": 225,
       "pct": 33
     },
@@ -47,7 +47,7 @@
       "personaje": "Don Josechu",
       "clase": "warlock",
       "raider": false,
-      "nivel": 151,
+      "nivel": 156,
       "max": 225,
       "pct": 33
     },
@@ -55,7 +55,7 @@
       "personaje": "Genethika Brisaveloz",
       "clase": "hunter",
       "raider": false,
-      "nivel": 139,
+      "nivel": 140,
       "max": 225,
       "pct": 33
     },
@@ -95,7 +95,7 @@
       "personaje": "Blind Minds",
       "clase": "priest",
       "raider": true,
-      "nivel": 17,
+      "nivel": 19,
       "max": 75,
       "pct": 0
     },

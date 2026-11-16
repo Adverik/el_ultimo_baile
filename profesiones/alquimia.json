@@ -7,7 +7,7 @@
       "personaje": "Dio Hotmetal",
       "clase": "hunter",
       "raider": false,
-      "nivel": 251,
+      "nivel": 253,
       "max": 300,
       "pct": 24
     },
@@ -28,20 +28,20 @@
       "pct": 18
     },
     {
-      "personaje": "Layrela Rondanit",
-      "clase": "druid",
-      "raider": true,
-      "nivel": 185,
-      "max": 225,
-      "pct": 17
-    },
-    {
       "personaje": "Don Josechu",
       "clase": "warlock",
       "raider": false,
-      "nivel": 183,
+      "nivel": 187,
       "max": 225,
       "pct": 12
+    },
+    {
+      "personaje": "Layrela Rondanit",
+      "clase": "druid",
+      "raider": true,
+      "nivel": 187,
+      "max": 225,
+      "pct": 17
     },
     {
       "personaje": "Viilar Terrisia",
@@ -55,7 +55,7 @@
       "personaje": "Genethika Brisaveloz",
       "clase": "hunter",
       "raider": false,
-      "nivel": 132,
+      "nivel": 138,
       "max": 150,
       "pct": 12
     },
@@ -495,7 +495,7 @@
             ]
           },
           "quien": [
-            3,
+            4,
             5
           ]
         },
@@ -1610,7 +1610,7 @@
           },
           "quien": [
             0,
-            3,
+            4,
             5
           ]
         },
@@ -1936,7 +1936,7 @@
             ]
           },
           "quien": [
-            3,
+            4,
             5
           ]
         },
@@ -2663,7 +2663,7 @@
             ]
           },
           "quien": [
-            3,
+            4,
             6
           ]
         },
@@ -3238,7 +3238,7 @@
             0,
             1,
             2,
-            3,
+            4,
             5
           ]
         },
@@ -3318,7 +3318,7 @@
             0,
             1,
             2,
-            3
+            4
           ]
         },
         {
@@ -3360,7 +3360,7 @@
             0,
             1,
             2,
-            3
+            4
           ]
         },
         {
@@ -3400,7 +3400,7 @@
           },
           "quien": [
             2,
-            3,
+            4,
             6
           ]
         },
@@ -3441,7 +3441,7 @@
           },
           "quien": [
             2,
-            3
+            4
           ]
         },
         {
@@ -4241,7 +4241,7 @@
             ]
           },
           "quien": [
-            3
+            4
           ]
         },
         {
@@ -4319,7 +4319,7 @@
             ]
           },
           "quien": [
-            3
+            4
           ]
         },
         {

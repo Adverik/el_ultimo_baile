@@ -2323,15 +2323,19 @@
           "clase": "priest"
         },
         {
-          "n": "Dum Bo",
-          "clase": "mage"
-        },
-        {
           "n": "Sr Byron",
           "clase": "warlock"
         },
         {
+          "n": "Dum Bo",
+          "clase": "mage"
+        },
+        {
           "n": "Rhyomen Sukuna",
+          "clase": "warlock"
+        },
+        {
+          "n": "Micro Bolas",
           "clase": "warlock"
         },
         {
@@ -2604,12 +2608,12 @@
       "profesion": "Sastrería",
       "personajes": [
         {
-          "n": "Dum Bo",
-          "clase": "mage"
-        },
-        {
           "n": "Sr Byron",
           "clase": "warlock"
+        },
+        {
+          "n": "Dum Bo",
+          "clase": "mage"
         }
       ]
     },
@@ -2771,12 +2775,12 @@
           "clase": "priest"
         },
         {
-          "n": "Dum Bo",
-          "clase": "mage"
-        },
-        {
           "n": "Sr Byron",
           "clase": "warlock"
+        },
+        {
+          "n": "Dum Bo",
+          "clase": "mage"
         },
         {
           "n": "Rhyomen Sukuna",
@@ -2856,12 +2860,12 @@
           "clase": "priest"
         },
         {
-          "n": "Dum Bo",
-          "clase": "mage"
-        },
-        {
           "n": "Sr Byron",
           "clase": "warlock"
+        },
+        {
+          "n": "Dum Bo",
+          "clase": "mage"
         },
         {
           "n": "Rhyomen Sukuna",
@@ -3045,6 +3049,58 @@
           "0",
           "39",
           "44"
+        ]
+      },
+      "profesion": "Sastrería",
+      "personajes": [
+        {
+          "n": "Finn Felagund",
+          "clase": "priest"
+        }
+      ]
+    },
+    {
+      "id": 6601,
+      "n": "Jubón Tejesueños",
+      "q": "rare",
+      "ico": "132683",
+      "reac": [
+        [
+          "Madeja de tejido mágico",
+          6
+        ],
+        [
+          "Atriplex salvaje",
+          6
+        ],
+        [
+          "Corazón del Salvaje",
+          2
+        ],
+        [
+          "Hilo de seda pesada",
+          2
+        ]
+      ],
+      "obj": {
+        "arm": "65 armadura",
+        "id": 10021,
+        "ilvl": 45,
+        "lig": "Se liga al equiparlo",
+        "n": "Jubón Vigilasueños",
+        "q": "rare",
+        "ranura": "Pecho",
+        "req": 40,
+        "stats": [
+          "+9 intelecto",
+          "+18 poder con hechizos",
+          "+14 espíritu"
+        ],
+        "sub": "Tela",
+        "venta": [
+          "0",
+          "79",
+          "46"
         ]
       },
       "profesion": "Sastrería",
@@ -3274,6 +3330,10 @@
           "clase": "priest"
         },
         {
+          "n": "Sr Byron",
+          "clase": "warlock"
+        },
+        {
           "n": "Dum Bo",
           "clase": "mage"
         }
@@ -3330,6 +3390,10 @@
       },
       "profesion": "Sastrería",
       "personajes": [
+        {
+          "n": "Sr Byron",
+          "clase": "warlock"
+        },
         {
           "n": "Dum Bo",
           "clase": "mage"
@@ -3388,12 +3452,16 @@
       "profesion": "Sastrería",
       "personajes": [
         {
-          "n": "Dum Bo",
-          "clase": "mage"
+          "n": "Finn Felagund",
+          "clase": "priest"
         },
         {
           "n": "Sr Byron",
           "clase": "warlock"
+        },
+        {
+          "n": "Dum Bo",
+          "clase": "mage"
         }
       ]
     },
@@ -3448,6 +3516,10 @@
       },
       "profesion": "Sastrería",
       "personajes": [
+        {
+          "n": "Sr Byron",
+          "clase": "warlock"
+        },
         {
           "n": "Dum Bo",
           "clase": "mage"
@@ -3505,6 +3577,14 @@
       },
       "profesion": "Sastrería",
       "personajes": [
+        {
+          "n": "Finn Felagund",
+          "clase": "priest"
+        },
+        {
+          "n": "Sr Byron",
+          "clase": "warlock"
+        },
         {
           "n": "Dum Bo",
           "clase": "mage"
@@ -3568,6 +3648,10 @@
           "clase": "priest"
         },
         {
+          "n": "Sr Byron",
+          "clase": "warlock"
+        },
+        {
           "n": "Dum Bo",
           "clase": "mage"
         }
@@ -3625,12 +3709,12 @@
       "profesion": "Sastrería",
       "personajes": [
         {
-          "n": "Dum Bo",
-          "clase": "mage"
-        },
-        {
           "n": "Sr Byron",
           "clase": "warlock"
+        },
+        {
+          "n": "Dum Bo",
+          "clase": "mage"
         }
       ]
     }
