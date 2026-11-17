@@ -52,12 +52,12 @@
       "pct": 41
     },
     {
-      "personaje": "Viilar Terrisia",
-      "clase": "druid",
+      "personaje": "Llamas Xx",
+      "clase": "warrior",
       "raider": false,
       "nivel": 190,
       "max": 225,
-      "pct": 41
+      "pct": 34
     },
     {
       "personaje": "Layrela Rondanit",
@@ -84,6 +84,14 @@
       "pct": 38
     },
     {
+      "personaje": "Mosu Warryn",
+      "clase": "warrior",
+      "raider": false,
+      "nivel": 150,
+      "max": 150,
+      "pct": 34
+    },
+    {
       "personaje": "Runa Ruina",
       "clase": "shaman",
       "raider": true,
@@ -104,14 +112,6 @@
       "clase": "rogue",
       "raider": false,
       "nivel": 147,
-      "max": 150,
-      "pct": 34
-    },
-    {
-      "personaje": "Mosu Warryn",
-      "clase": "warrior",
-      "raider": false,
-      "nivel": 131,
       "max": 150,
       "pct": 34
     },
@@ -156,6 +156,14 @@
       "pct": 16
     },
     {
+      "personaje": "Samael Thallanor",
+      "clase": "hunter",
+      "raider": false,
+      "nivel": 83,
+      "max": 150,
+      "pct": 12
+    },
+    {
       "personaje": "Fitipaldi Sendaumbria",
       "clase": "rogue",
       "raider": true,
@@ -166,6 +174,14 @@
     {
       "personaje": "Aurelio Amador",
       "clase": "rogue",
+      "raider": false,
+      "nivel": 77,
+      "max": 150,
+      "pct": 16
+    },
+    {
+      "personaje": "Españoleitor Españoleitor",
+      "clase": "warrior",
       "raider": false,
       "nivel": 77,
       "max": 150,
@@ -202,22 +218,6 @@
       "nivel": 74,
       "max": 150,
       "pct": 16
-    },
-    {
-      "personaje": "Españoleitor Españoleitor",
-      "clase": "warrior",
-      "raider": false,
-      "nivel": 72,
-      "max": 150,
-      "pct": 16
-    },
-    {
-      "personaje": "Samael Thallanor",
-      "clase": "hunter",
-      "raider": false,
-      "nivel": 56,
-      "max": 150,
-      "pct": 9
     },
     {
       "personaje": "Sr Byron",
@@ -434,13 +434,13 @@
             16,
             17,
             18,
-            19,
             20,
             21,
             22,
             23,
             24,
             25,
+            26,
             28,
             31
           ]
@@ -568,7 +568,7 @@
             6,
             7,
             9,
-            11
+            12
           ]
         },
         {
@@ -603,8 +603,7 @@
             2,
             3,
             4,
-            5,
-            6
+            5
           ]
         },
         {
@@ -866,7 +865,7 @@
             ]
           },
           "quien": [
-            10
+            11
           ]
         },
         {
@@ -1481,7 +1480,8 @@
             22,
             23,
             24,
-            25
+            25,
+            26
           ]
         },
         {
@@ -1523,7 +1523,6 @@
             3,
             4,
             5,
-            6,
             7,
             9,
             10,

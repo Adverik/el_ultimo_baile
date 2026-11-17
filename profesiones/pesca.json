@@ -84,6 +84,14 @@
       "pct": 33
     },
     {
+      "personaje": "Samael Thallanor",
+      "clase": "hunter",
+      "raider": false,
+      "nivel": 114,
+      "max": 150,
+      "pct": 33
+    },
+    {
       "personaje": "Edoras Duskranger",
       "clase": "hunter",
       "raider": true,
@@ -92,18 +100,10 @@
       "pct": 33
     },
     {
-      "personaje": "Samael Thallanor",
-      "clase": "hunter",
-      "raider": false,
-      "nivel": 101,
-      "max": 150,
-      "pct": 33
-    },
-    {
       "personaje": "Layrela Rondanit",
       "clase": "druid",
       "raider": true,
-      "nivel": 98,
+      "nivel": 103,
       "max": 150,
       "pct": 33
     },
@@ -145,14 +145,6 @@
       "raider": false,
       "nivel": 50,
       "max": 150,
-      "pct": 33
-    },
-    {
-      "personaje": "Viilar Terrisia",
-      "clase": "druid",
-      "raider": false,
-      "nivel": 47,
-      "max": 75,
       "pct": 33
     },
     {
@@ -214,6 +206,14 @@
     {
       "personaje": "La Pety",
       "clase": "rogue",
+      "raider": false,
+      "nivel": 20,
+      "max": 75,
+      "pct": 33
+    },
+    {
+      "personaje": "Llamas Xx",
+      "clase": "warrior",
       "raider": false,
       "nivel": 20,
       "max": 75,
@@ -326,7 +326,7 @@
             16,
             17,
             18,
-            19,
+            20,
             21,
             22,
             23,

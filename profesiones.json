@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-16",
+  "actualizado": "2026-11-17",
   "artesanos": [
     {
       "personaje": "Armando Buya",
@@ -133,7 +133,7 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 239,
+          "nivel": 252,
           "max": 300
         },
         {
@@ -165,12 +165,12 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 238,
+          "nivel": 250,
           "max": 300
         },
         {
           "nombre": "Herrería",
-          "nivel": 190,
+          "nivel": 200,
           "max": 225
         },
         {
@@ -197,12 +197,12 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 154,
+          "nivel": 180,
           "max": 225
         },
         {
           "nombre": "Ingeniería",
-          "nivel": 176,
+          "nivel": 212,
           "max": 225
         },
         {
@@ -261,12 +261,12 @@
       "profesiones": [
         {
           "nombre": "Alquimia",
-          "nivel": 253,
+          "nivel": 254,
           "max": 300
         },
         {
           "nombre": "Herboristería",
-          "nivel": 265,
+          "nivel": 266,
           "max": 300
         },
         {
@@ -411,12 +411,12 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 85,
+          "nivel": 87,
           "max": 150
         },
         {
           "nombre": "Herrería",
-          "nivel": 66,
+          "nivel": 75,
           "max": 150
         },
         {
@@ -426,7 +426,7 @@
         },
         {
           "nombre": "Primeros auxilios",
-          "nivel": 72,
+          "nivel": 77,
           "max": 150
         }
       ]
@@ -556,7 +556,7 @@
         },
         {
           "nombre": "Herboristería",
-          "nivel": 216,
+          "nivel": 220,
           "max": 300
         },
         {
@@ -782,7 +782,7 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 220,
+          "nivel": 221,
           "max": 300
         },
         {
@@ -814,12 +814,12 @@
       "profesiones": [
         {
           "nombre": "Alquimia",
-          "nivel": 187,
+          "nivel": 196,
           "max": 225
         },
         {
           "nombre": "Herboristería",
-          "nivel": 214,
+          "nivel": 215,
           "max": 225
         },
         {
@@ -829,12 +829,44 @@
         },
         {
           "nombre": "Pesca",
-          "nivel": 98,
+          "nivel": 103,
           "max": 150
         },
         {
           "nombre": "Primeros auxilios",
           "nivel": 165,
+          "max": 225
+        }
+      ]
+    },
+    {
+      "personaje": "Llamas Xx",
+      "clase": "warrior",
+      "raider": false,
+      "profesiones": [
+        {
+          "nombre": "Minería",
+          "nivel": 126,
+          "max": 225
+        },
+        {
+          "nombre": "Herrería",
+          "nivel": 122,
+          "max": 150
+        },
+        {
+          "nombre": "Cocina",
+          "nivel": 29,
+          "max": 75
+        },
+        {
+          "nombre": "Pesca",
+          "nivel": 20,
+          "max": 75
+        },
+        {
+          "nombre": "Primeros auxilios",
+          "nivel": 190,
           "max": 225
         }
       ]
@@ -947,7 +979,7 @@
         },
         {
           "nombre": "Herrería",
-          "nivel": 115,
+          "nivel": 119,
           "max": 150
         },
         {
@@ -962,7 +994,7 @@
         },
         {
           "nombre": "Primeros auxilios",
-          "nivel": 131,
+          "nivel": 150,
           "max": 150
         }
       ]
@@ -974,7 +1006,7 @@
       "profesiones": [
         {
           "nombre": "Sastrería",
-          "nivel": 117,
+          "nivel": 120,
           "max": 150
         },
         {
@@ -1114,12 +1146,12 @@
       "profesiones": [
         {
           "nombre": "Sastrería",
-          "nivel": 95,
+          "nivel": 122,
           "max": 150
         },
         {
           "nombre": "Encantamiento",
-          "nivel": 121,
+          "nivel": 150,
           "max": 150
         },
         {
@@ -1146,12 +1178,12 @@
       "profesiones": [
         {
           "nombre": "Desuello",
-          "nivel": 112,
+          "nivel": 115,
           "max": 150
         },
         {
           "nombre": "Minería",
-          "nivel": 74,
+          "nivel": 84,
           "max": 150
         },
         {
@@ -1161,12 +1193,12 @@
         },
         {
           "nombre": "Pesca",
-          "nivel": 101,
+          "nivel": 114,
           "max": 150
         },
         {
           "nombre": "Primeros auxilios",
-          "nivel": 56,
+          "nivel": 83,
           "max": 150
         }
       ]
@@ -1178,7 +1210,7 @@
       "profesiones": [
         {
           "nombre": "Sastrería",
-          "nivel": 181,
+          "nivel": 196,
           "max": 225
         },
         {
@@ -1269,12 +1301,12 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 32,
+          "nivel": 34,
           "max": 75
         },
         {
           "nombre": "Herboristería",
-          "nivel": 37,
+          "nivel": 38,
           "max": 75
         },
         {
@@ -1406,38 +1438,6 @@
           "max": 75
         }
       ]
-    },
-    {
-      "personaje": "Viilar Terrisia",
-      "clase": "druid",
-      "raider": false,
-      "profesiones": [
-        {
-          "nombre": "Alquimia",
-          "nivel": 181,
-          "max": 225
-        },
-        {
-          "nombre": "Herboristería",
-          "nivel": 183,
-          "max": 225
-        },
-        {
-          "nombre": "Cocina",
-          "nivel": 150,
-          "max": 150
-        },
-        {
-          "nombre": "Pesca",
-          "nivel": 47,
-          "max": 75
-        },
-        {
-          "nombre": "Primeros auxilios",
-          "nivel": 190,
-          "max": 225
-        }
-      ]
     }
   ],
   "recetas": [
@@ -1451,8 +1451,7 @@
         "Fran Furion",
         "Genethika Brisaveloz",
         "Layrela Rondanit",
-        "Sugar Papy",
-        "Viilar Terrisia"
+        "Sugar Papy"
       ]
     },
     {
@@ -1476,8 +1475,7 @@
         "Genethika Brisaveloz",
         "Layrela Rondanit",
         "Sugar Papy",
-        "Takkaao Valengri",
-        "Viilar Terrisia"
+        "Takkaao Valengri"
       ]
     },
     {
@@ -1485,7 +1483,8 @@
       "profesion": "Alquimia",
       "calidad": "common",
       "personajes": [
-        "Dio Hotmetal"
+        "Dio Hotmetal",
+        "Sugar Papy"
       ]
     },
     {
@@ -1507,8 +1506,7 @@
         "Fran Furion",
         "Genethika Brisaveloz",
         "Layrela Rondanit",
-        "Sugar Papy",
-        "Viilar Terrisia"
+        "Sugar Papy"
       ]
     },
     {
@@ -1517,7 +1515,9 @@
       "calidad": "common",
       "personajes": [
         "Dio Hotmetal",
+        "Don Josechu",
         "Fran Furion",
+        "Layrela Rondanit",
         "Sugar Papy"
       ]
     },
@@ -1528,6 +1528,7 @@
       "personajes": [
         "Dio Hotmetal",
         "Fran Furion",
+        "Layrela Rondanit",
         "Sugar Papy"
       ]
     },
@@ -1540,16 +1541,7 @@
         "Don Josechu",
         "Fran Furion",
         "Layrela Rondanit",
-        "Sugar Papy",
-        "Viilar Terrisia"
-      ]
-    },
-    {
-      "nombre": "Elixir of Lesser Agility",
-      "profesion": "Alquimia",
-      "calidad": "common",
-      "personajes": [
-        "Viilar Terrisia"
+        "Sugar Papy"
       ]
     },
     {
@@ -1562,8 +1554,7 @@
         "Fran Furion",
         "Genethika Brisaveloz",
         "Layrela Rondanit",
-        "Sugar Papy",
-        "Viilar Terrisia"
+        "Sugar Papy"
       ]
     },
     {
@@ -1575,8 +1566,7 @@
         "Don Josechu",
         "Fran Furion",
         "Layrela Rondanit",
-        "Sugar Papy",
-        "Viilar Terrisia"
+        "Sugar Papy"
       ]
     },
     {
@@ -1584,8 +1574,7 @@
       "profesion": "Alquimia",
       "calidad": "common",
       "personajes": [
-        "Layrela Rondanit",
-        "Viilar Terrisia"
+        "Layrela Rondanit"
       ]
     },
     {
@@ -1599,8 +1588,7 @@
         "Genethika Brisaveloz",
         "Layrela Rondanit",
         "Sugar Papy",
-        "Takkaao Valengri",
-        "Viilar Terrisia"
+        "Takkaao Valengri"
       ]
     },
     {
@@ -1614,8 +1602,7 @@
         "Genethika Brisaveloz",
         "Layrela Rondanit",
         "Sugar Papy",
-        "Takkaao Valengri",
-        "Viilar Terrisia"
+        "Takkaao Valengri"
       ]
     },
     {
@@ -1628,8 +1615,7 @@
         "Fran Furion",
         "Genethika Brisaveloz",
         "Layrela Rondanit",
-        "Sugar Papy",
-        "Viilar Terrisia"
+        "Sugar Papy"
       ]
     },
     {
@@ -1643,8 +1629,7 @@
         "Genethika Brisaveloz",
         "Layrela Rondanit",
         "Sugar Papy",
-        "Takkaao Valengri",
-        "Viilar Terrisia"
+        "Takkaao Valengri"
       ]
     },
     {
@@ -1665,8 +1650,7 @@
         "Fran Furion",
         "Genethika Brisaveloz",
         "Layrela Rondanit",
-        "Sugar Papy",
-        "Viilar Terrisia"
+        "Sugar Papy"
       ]
     },
     {
@@ -1679,8 +1663,7 @@
         "Fran Furion",
         "Genethika Brisaveloz",
         "Layrela Rondanit",
-        "Sugar Papy",
-        "Viilar Terrisia"
+        "Sugar Papy"
       ]
     },
     {
@@ -1756,8 +1739,7 @@
       "personajes": [
         "Dio Hotmetal",
         "Genethika Brisaveloz",
-        "Sugar Papy",
-        "Viilar Terrisia"
+        "Sugar Papy"
       ]
     },
     {
@@ -1776,8 +1758,7 @@
         "Dio Hotmetal",
         "Fran Furion",
         "Layrela Rondanit",
-        "Sugar Papy",
-        "Viilar Terrisia"
+        "Sugar Papy"
       ]
     },
     {
@@ -1790,24 +1771,7 @@
         "Fran Furion",
         "Genethika Brisaveloz",
         "Layrela Rondanit",
-        "Sugar Papy",
-        "Viilar Terrisia"
-      ]
-    },
-    {
-      "nombre": "Lesser Mender's Potion",
-      "profesion": "Alquimia",
-      "calidad": "common",
-      "personajes": [
-        "Viilar Terrisia"
-      ]
-    },
-    {
-      "nombre": "Lesser Spellblasting Potion",
-      "profesion": "Alquimia",
-      "calidad": "common",
-      "personajes": [
-        "Viilar Terrisia"
+        "Sugar Papy"
       ]
     },
     {
@@ -1820,8 +1784,7 @@
         "Fran Furion",
         "Genethika Brisaveloz",
         "Layrela Rondanit",
-        "Sugar Papy",
-        "Viilar Terrisia"
+        "Sugar Papy"
       ]
     },
     {
@@ -1834,8 +1797,7 @@
         "Fran Furion",
         "Genethika Brisaveloz",
         "Layrela Rondanit",
-        "Sugar Papy",
-        "Viilar Terrisia"
+        "Sugar Papy"
       ]
     },
     {
@@ -1855,8 +1817,7 @@
         "Don Josechu",
         "Fran Furion",
         "Layrela Rondanit",
-        "Sugar Papy",
-        "Viilar Terrisia"
+        "Sugar Papy"
       ]
     },
     {
@@ -1870,8 +1831,7 @@
         "Genethika Brisaveloz",
         "Layrela Rondanit",
         "Sugar Papy",
-        "Takkaao Valengri",
-        "Viilar Terrisia"
+        "Takkaao Valengri"
       ]
     },
     {
@@ -1885,8 +1845,7 @@
         "Genethika Brisaveloz",
         "Layrela Rondanit",
         "Sugar Papy",
-        "Takkaao Valengri",
-        "Viilar Terrisia"
+        "Takkaao Valengri"
       ]
     },
     {
@@ -1895,8 +1854,7 @@
       "calidad": "common",
       "personajes": [
         "Dio Hotmetal",
-        "Layrela Rondanit",
-        "Viilar Terrisia"
+        "Layrela Rondanit"
       ]
     },
     {
@@ -1913,8 +1871,7 @@
       "profesion": "Alquimia",
       "calidad": "common",
       "personajes": [
-        "Layrela Rondanit",
-        "Viilar Terrisia"
+        "Layrela Rondanit"
       ]
     },
     {
@@ -1922,8 +1879,7 @@
       "profesion": "Alquimia",
       "calidad": "common",
       "personajes": [
-        "Fran Furion",
-        "Viilar Terrisia"
+        "Fran Furion"
       ]
     },
     {
@@ -1937,8 +1893,7 @@
         "Genethika Brisaveloz",
         "Layrela Rondanit",
         "Sugar Papy",
-        "Takkaao Valengri",
-        "Viilar Terrisia"
+        "Takkaao Valengri"
       ]
     },
     {
@@ -1960,8 +1915,7 @@
         "Genethika Brisaveloz",
         "Layrela Rondanit",
         "Sugar Papy",
-        "Takkaao Valengri",
-        "Viilar Terrisia"
+        "Takkaao Valengri"
       ]
     },
     {
@@ -1983,8 +1937,7 @@
         "Genethika Brisaveloz",
         "Layrela Rondanit",
         "Sugar Papy",
-        "Takkaao Valengri",
-        "Viilar Terrisia"
+        "Takkaao Valengri"
       ]
     },
     {
@@ -2052,16 +2005,7 @@
         "Genethika Brisaveloz",
         "Layrela Rondanit",
         "Sugar Papy",
-        "Takkaao Valengri",
-        "Viilar Terrisia"
-      ]
-    },
-    {
-      "nombre": "Swiftness Potion",
-      "profesion": "Alquimia",
-      "calidad": "common",
-      "personajes": [
-        "Viilar Terrisia"
+        "Takkaao Valengri"
       ]
     },
     {
@@ -2074,8 +2018,7 @@
         "Fran Furion",
         "Genethika Brisaveloz",
         "Layrela Rondanit",
-        "Sugar Papy",
-        "Viilar Terrisia"
+        "Sugar Papy"
       ]
     },
     {
@@ -2170,6 +2113,7 @@
         "Khyoraku Shunsui",
         "La Pety",
         "Layrela Rondanit",
+        "Llamas Xx",
         "Manelhon Gargon",
         "Memas Tour",
         "Micro Bolas",
@@ -2188,8 +2132,7 @@
         "Tharindel Magnaluz",
         "Thundrik Volgrim",
         "Tom Kha",
-        "Vaporeta Pizpireta",
-        "Viilar Terrisia"
+        "Vaporeta Pizpireta"
       ]
     },
     {
@@ -2270,8 +2213,7 @@
         "Sr Byron",
         "Sugar Papy",
         "Tharindel Magnaluz",
-        "Tom Kha",
-        "Viilar Terrisia"
+        "Tom Kha"
       ]
     },
     {
@@ -2378,6 +2320,7 @@
         "Khyoraku Shunsui",
         "La Pety",
         "Layrela Rondanit",
+        "Llamas Xx",
         "Manelhon Gargon",
         "Memas Tour",
         "Micro Bolas",
@@ -2396,8 +2339,7 @@
         "Tharindel Magnaluz",
         "Thundrik Volgrim",
         "Tom Kha",
-        "Vaporeta Pizpireta",
-        "Viilar Terrisia"
+        "Vaporeta Pizpireta"
       ]
     },
     {
@@ -2452,8 +2394,7 @@
         "Sr Byron",
         "Sugar Papy",
         "Tharindel Magnaluz",
-        "Tom Kha",
-        "Viilar Terrisia"
+        "Tom Kha"
       ]
     },
     {
@@ -2480,8 +2421,7 @@
         "Samael Thallanor",
         "Sr Byron",
         "Sugar Papy",
-        "Tharindel Magnaluz",
-        "Viilar Terrisia"
+        "Tharindel Magnaluz"
       ]
     },
     {
@@ -2503,8 +2443,7 @@
         "Palmira Natblida",
         "Runa Ruina",
         "Sr Byron",
-        "Sugar Papy",
-        "Viilar Terrisia"
+        "Sugar Papy"
       ]
     },
     {
@@ -2533,8 +2472,7 @@
         "La Pety",
         "Palmira Natblida",
         "Runa Ruina",
-        "Sugar Papy",
-        "Viilar Terrisia"
+        "Sugar Papy"
       ]
     },
     {
@@ -2562,8 +2500,7 @@
         "Samael Thallanor",
         "Sr Byron",
         "Sugar Papy",
-        "Tharindel Magnaluz",
-        "Viilar Terrisia"
+        "Tharindel Magnaluz"
       ]
     },
     {
@@ -2607,8 +2544,7 @@
         "Palmira Natblida",
         "Sr Byron",
         "Sugar Papy",
-        "Tharindel Magnaluz",
-        "Viilar Terrisia"
+        "Tharindel Magnaluz"
       ]
     },
     {
@@ -2706,6 +2642,7 @@
         "Khyoraku Shunsui",
         "La Pety",
         "Layrela Rondanit",
+        "Llamas Xx",
         "Manelhon Gargon",
         "Memas Tour",
         "Micro Bolas",
@@ -2724,8 +2661,7 @@
         "Tharindel Magnaluz",
         "Thundrik Volgrim",
         "Tom Kha",
-        "Vaporeta Pizpireta",
-        "Viilar Terrisia"
+        "Vaporeta Pizpireta"
       ]
     },
     {
@@ -2975,6 +2911,7 @@
         "Khyoraku Shunsui",
         "La Pety",
         "Layrela Rondanit",
+        "Llamas Xx",
         "Manelhon Gargon",
         "Memas Tour",
         "Micro Bolas",
@@ -2993,8 +2930,7 @@
         "Tharindel Magnaluz",
         "Thundrik Volgrim",
         "Tom Kha",
-        "Vaporeta Pizpireta",
-        "Viilar Terrisia"
+        "Vaporeta Pizpireta"
       ]
     },
     {
@@ -3013,6 +2949,7 @@
       "profesion": "Cocina",
       "calidad": "common",
       "personajes": [
+        "Cuzcu Aker",
         "Edoras Duskranger",
         "Layrela Rondanit",
         "Manelhon Gargon",
@@ -3054,8 +2991,7 @@
         "Mosu Warryn",
         "Palmira Natblida",
         "Sr Byron",
-        "Sugar Papy",
-        "Viilar Terrisia"
+        "Sugar Papy"
       ]
     },
     {
@@ -3177,6 +3113,7 @@
         "Kadeharz Apsus",
         "Khyoraku Shunsui",
         "Layrela Rondanit",
+        "Llamas Xx",
         "Manelhon Gargon",
         "Memas Tour",
         "Micro Bolas",
@@ -3189,8 +3126,7 @@
         "Sugar Papy",
         "Takkaao Valengri",
         "Tharindel Magnaluz",
-        "Tom Kha",
-        "Viilar Terrisia"
+        "Tom Kha"
       ]
     },
     {
@@ -3233,6 +3169,7 @@
       "calidad": "common",
       "personajes": [
         "Chaca Choochoo",
+        "Cuzcu Aker",
         "Diana Flechaveloz",
         "Dum Bo",
         "Edoras Duskranger",
@@ -3259,6 +3196,7 @@
         "Genethika Brisaveloz",
         "Kadeharz Apsus",
         "La Pety",
+        "Llamas Xx",
         "Palmira Natblida",
         "Runa Ruina"
       ]
@@ -3295,6 +3233,7 @@
       "calidad": "common",
       "personajes": [
         "Chaca Choochoo",
+        "Dum Bo",
         "Sugar Papy"
       ]
     },
@@ -3508,7 +3447,8 @@
       "calidad": "common",
       "personajes": [
         "Dum Bo",
-        "Finn Felagund"
+        "Finn Felagund",
+        "Saint Peligroxa"
       ]
     },
     {
@@ -3575,7 +3515,8 @@
       "calidad": "common",
       "personajes": [
         "Dum Bo",
-        "Finn Felagund"
+        "Finn Felagund",
+        "Saint Peligroxa"
       ]
     },
     {
@@ -3775,7 +3716,8 @@
       "personajes": [
         "Dum Bo",
         "Finn Felagund",
-        "Kadeharz Apsus"
+        "Kadeharz Apsus",
+        "Saint Peligroxa"
       ]
     },
     {
@@ -3841,7 +3783,8 @@
       "calidad": "common",
       "personajes": [
         "Dum Bo",
-        "Finn Felagund"
+        "Finn Felagund",
+        "Saint Peligroxa"
       ]
     },
     {
@@ -4037,7 +3980,8 @@
       "personajes": [
         "Dum Bo",
         "Finn Felagund",
-        "Nimassus Pater"
+        "Nimassus Pater",
+        "Saint Peligroxa"
       ]
     },
     {
@@ -4237,8 +4181,7 @@
         "Fran Furion",
         "Genethika Brisaveloz",
         "Layrela Rondanit",
-        "Sugar Papy",
-        "Viilar Terrisia"
+        "Sugar Papy"
       ]
     },
     {
@@ -4248,8 +4191,7 @@
       "personajes": [
         "Don Josechu",
         "Genethika Brisaveloz",
-        "Layrela Rondanit",
-        "Viilar Terrisia"
+        "Layrela Rondanit"
       ]
     },
     {
@@ -4259,8 +4201,7 @@
       "personajes": [
         "Don Josechu",
         "Genethika Brisaveloz",
-        "Layrela Rondanit",
-        "Viilar Terrisia"
+        "Layrela Rondanit"
       ]
     },
     {
@@ -4325,8 +4266,7 @@
         "Layrela Rondanit",
         "Sugar Papy",
         "Takkaao Valengri",
-        "Tanki Llo",
-        "Viilar Terrisia"
+        "Tanki Llo"
       ]
     },
     {
@@ -4345,6 +4285,7 @@
         "Coloso Tempestad",
         "Hugo Forjaluz",
         "Khyoraku Shunsui",
+        "Llamas Xx",
         "Mosu Warryn",
         "Tharindel Magnaluz"
       ]
@@ -4357,6 +4298,7 @@
         "Coloso Tempestad",
         "Hugo Forjaluz",
         "Khyoraku Shunsui",
+        "Llamas Xx",
         "Tharindel Magnaluz"
       ]
     },
@@ -4388,6 +4330,7 @@
         "Coloso Tempestad",
         "Hugo Forjaluz",
         "Khyoraku Shunsui",
+        "Llamas Xx",
         "Mosu Warryn",
         "Tharindel Magnaluz"
       ]
@@ -4400,6 +4343,7 @@
         "Coloso Tempestad",
         "Hugo Forjaluz",
         "Khyoraku Shunsui",
+        "Llamas Xx",
         "Tharindel Magnaluz"
       ]
     },
@@ -4424,6 +4368,7 @@
         "Españoleitor Españoleitor",
         "Hugo Forjaluz",
         "Khyoraku Shunsui",
+        "Llamas Xx",
         "Mosu Warryn",
         "Tharindel Magnaluz"
       ]
@@ -4439,6 +4384,7 @@
         "Españoleitor Españoleitor",
         "Hugo Forjaluz",
         "Khyoraku Shunsui",
+        "Llamas Xx",
         "Mosu Warryn",
         "Tharindel Magnaluz"
       ]
@@ -4454,6 +4400,7 @@
         "Españoleitor Españoleitor",
         "Hugo Forjaluz",
         "Khyoraku Shunsui",
+        "Llamas Xx",
         "Mosu Warryn",
         "Tharindel Magnaluz"
       ]
@@ -4469,6 +4416,7 @@
         "Españoleitor Españoleitor",
         "Hugo Forjaluz",
         "Khyoraku Shunsui",
+        "Llamas Xx",
         "Tharindel Magnaluz"
       ]
     },
@@ -4482,6 +4430,7 @@
         "Españoleitor Españoleitor",
         "Hugo Forjaluz",
         "Khyoraku Shunsui",
+        "Llamas Xx",
         "Tharindel Magnaluz"
       ]
     },
@@ -4496,6 +4445,7 @@
         "Españoleitor Españoleitor",
         "Hugo Forjaluz",
         "Khyoraku Shunsui",
+        "Llamas Xx",
         "Mosu Warryn",
         "Tharindel Magnaluz"
       ]
@@ -4511,6 +4461,7 @@
         "Españoleitor Españoleitor",
         "Hugo Forjaluz",
         "Khyoraku Shunsui",
+        "Llamas Xx",
         "Mosu Warryn",
         "Tharindel Magnaluz"
       ]
@@ -4526,6 +4477,7 @@
         "Españoleitor Españoleitor",
         "Hugo Forjaluz",
         "Khyoraku Shunsui",
+        "Llamas Xx",
         "Mosu Warryn",
         "Tharindel Magnaluz"
       ]
@@ -4541,6 +4493,7 @@
         "Españoleitor Españoleitor",
         "Hugo Forjaluz",
         "Khyoraku Shunsui",
+        "Llamas Xx",
         "Mosu Warryn",
         "Tharindel Magnaluz"
       ]
@@ -4566,6 +4519,7 @@
         "Españoleitor Españoleitor",
         "Hugo Forjaluz",
         "Khyoraku Shunsui",
+        "Llamas Xx",
         "Tharindel Magnaluz"
       ]
     },
@@ -4580,6 +4534,7 @@
         "Españoleitor Españoleitor",
         "Hugo Forjaluz",
         "Khyoraku Shunsui",
+        "Llamas Xx",
         "Tharindel Magnaluz"
       ]
     },
@@ -4594,6 +4549,7 @@
         "Españoleitor Españoleitor",
         "Hugo Forjaluz",
         "Khyoraku Shunsui",
+        "Llamas Xx",
         "Mosu Warryn",
         "Tharindel Magnaluz"
       ]
@@ -4609,6 +4565,7 @@
         "Españoleitor Españoleitor",
         "Hugo Forjaluz",
         "Khyoraku Shunsui",
+        "Llamas Xx",
         "Mosu Warryn",
         "Tharindel Magnaluz"
       ]
@@ -4624,6 +4581,7 @@
         "Españoleitor Españoleitor",
         "Hugo Forjaluz",
         "Khyoraku Shunsui",
+        "Llamas Xx",
         "Mosu Warryn",
         "Tharindel Magnaluz"
       ]
@@ -4639,6 +4597,7 @@
         "Españoleitor Españoleitor",
         "Hugo Forjaluz",
         "Khyoraku Shunsui",
+        "Llamas Xx",
         "Mosu Warryn",
         "Tharindel Magnaluz"
       ]
@@ -4661,6 +4620,7 @@
         "Españoleitor Españoleitor",
         "Hugo Forjaluz",
         "Khyoraku Shunsui",
+        "Llamas Xx",
         "Tharindel Magnaluz"
       ]
     },
@@ -4783,6 +4743,7 @@
       "personajes": [
         "Armando Buya",
         "Coloso Tempestad",
+        "Españoleitor Españoleitor",
         "Hugo Forjaluz",
         "Khyoraku Shunsui",
         "Tharindel Magnaluz"
@@ -4799,6 +4760,7 @@
         "Españoleitor Españoleitor",
         "Hugo Forjaluz",
         "Khyoraku Shunsui",
+        "Llamas Xx",
         "Tharindel Magnaluz"
       ]
     },
@@ -4810,6 +4772,7 @@
         "Coloso Tempestad",
         "Espartaco Gladiador",
         "Khyoraku Shunsui",
+        "Llamas Xx",
         "Mosu Warryn",
         "Tharindel Magnaluz"
       ]
@@ -4846,6 +4809,7 @@
         "Coloso Tempestad",
         "Espartaco Gladiador",
         "Khyoraku Shunsui",
+        "Llamas Xx",
         "Mosu Warryn",
         "Tharindel Magnaluz"
       ]
@@ -4858,6 +4822,7 @@
         "Coloso Tempestad",
         "Espartaco Gladiador",
         "Khyoraku Shunsui",
+        "Llamas Xx",
         "Mosu Warryn",
         "Tharindel Magnaluz"
       ]
@@ -4924,6 +4889,14 @@
       ]
     },
     {
+      "nombre": "Mithril Claws",
+      "profesion": "Herrería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Coloso Tempestad"
+      ]
+    },
+    {
       "nombre": "Mithril Plate Bracers",
       "profesion": "Herrería",
       "calidad": "uncommon",
@@ -4957,6 +4930,7 @@
         "Espartaco Gladiador",
         "Hugo Forjaluz",
         "Khyoraku Shunsui",
+        "Llamas Xx",
         "Mosu Warryn",
         "Tharindel Magnaluz"
       ]
@@ -4969,6 +4943,7 @@
         "Coloso Tempestad",
         "Hugo Forjaluz",
         "Khyoraku Shunsui",
+        "Llamas Xx",
         "Tharindel Magnaluz"
       ]
     },
@@ -5012,6 +4987,7 @@
         "Armando Buya",
         "Coloso Tempestad",
         "Espartaco Gladiador",
+        "Españoleitor Españoleitor",
         "Hugo Forjaluz",
         "Khyoraku Shunsui",
         "Mosu Warryn",
@@ -5027,6 +5003,7 @@
         "Espartaco Gladiador",
         "Hugo Forjaluz",
         "Khyoraku Shunsui",
+        "Llamas Xx",
         "Mosu Warryn",
         "Tharindel Magnaluz"
       ]
@@ -5040,6 +5017,7 @@
         "Espartaco Gladiador",
         "Hugo Forjaluz",
         "Khyoraku Shunsui",
+        "Llamas Xx",
         "Mosu Warryn",
         "Tharindel Magnaluz"
       ]
@@ -5053,6 +5031,7 @@
         "Espartaco Gladiador",
         "Hugo Forjaluz",
         "Khyoraku Shunsui",
+        "Llamas Xx",
         "Mosu Warryn",
         "Tharindel Magnaluz"
       ]
@@ -5078,6 +5057,7 @@
         "Españoleitor Españoleitor",
         "Hugo Forjaluz",
         "Khyoraku Shunsui",
+        "Llamas Xx",
         "Mosu Warryn",
         "Tharindel Magnaluz"
       ]
@@ -5093,6 +5073,7 @@
         "Españoleitor Españoleitor",
         "Hugo Forjaluz",
         "Khyoraku Shunsui",
+        "Llamas Xx",
         "Mosu Warryn",
         "Tharindel Magnaluz"
       ]
@@ -5108,6 +5089,7 @@
         "Españoleitor Españoleitor",
         "Hugo Forjaluz",
         "Khyoraku Shunsui",
+        "Llamas Xx",
         "Mosu Warryn",
         "Tharindel Magnaluz"
       ]
@@ -5123,6 +5105,7 @@
         "Españoleitor Españoleitor",
         "Hugo Forjaluz",
         "Khyoraku Shunsui",
+        "Llamas Xx",
         "Mosu Warryn",
         "Tharindel Magnaluz"
       ]
@@ -5138,6 +5121,7 @@
         "Españoleitor Españoleitor",
         "Hugo Forjaluz",
         "Khyoraku Shunsui",
+        "Llamas Xx",
         "Mosu Warryn",
         "Tharindel Magnaluz"
       ]
@@ -5153,6 +5137,7 @@
         "Españoleitor Españoleitor",
         "Hugo Forjaluz",
         "Khyoraku Shunsui",
+        "Llamas Xx",
         "Mosu Warryn",
         "Tharindel Magnaluz"
       ]
@@ -5176,6 +5161,7 @@
         "Españoleitor Españoleitor",
         "Hugo Forjaluz",
         "Khyoraku Shunsui",
+        "Llamas Xx",
         "Mosu Warryn",
         "Tharindel Magnaluz"
       ]
@@ -5191,6 +5177,7 @@
         "Españoleitor Españoleitor",
         "Hugo Forjaluz",
         "Khyoraku Shunsui",
+        "Llamas Xx",
         "Mosu Warryn",
         "Tharindel Magnaluz"
       ]
@@ -5215,8 +5202,17 @@
         "Españoleitor Españoleitor",
         "Hugo Forjaluz",
         "Khyoraku Shunsui",
+        "Llamas Xx",
         "Mosu Warryn",
         "Tharindel Magnaluz"
+      ]
+    },
+    {
+      "nombre": "Shining Mithril Boots",
+      "profesion": "Herrería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Coloso Tempestad"
       ]
     },
     {
@@ -5226,6 +5222,7 @@
       "personajes": [
         "Coloso Tempestad",
         "Khyoraku Shunsui",
+        "Llamas Xx",
         "Tharindel Magnaluz"
       ]
     },
@@ -5239,6 +5236,7 @@
         "Espartaco Gladiador",
         "Hugo Forjaluz",
         "Khyoraku Shunsui",
+        "Llamas Xx",
         "Mosu Warryn",
         "Tharindel Magnaluz"
       ]
@@ -5253,6 +5251,7 @@
         "Espartaco Gladiador",
         "Hugo Forjaluz",
         "Khyoraku Shunsui",
+        "Llamas Xx",
         "Mosu Warryn",
         "Tharindel Magnaluz"
       ]
@@ -5277,6 +5276,7 @@
         "Coloso Tempestad",
         "Espartaco Gladiador",
         "Khyoraku Shunsui",
+        "Llamas Xx",
         "Mosu Warryn",
         "Tharindel Magnaluz"
       ]
@@ -5330,6 +5330,14 @@
       ]
     },
     {
+      "nombre": "Sterling Silver Boots",
+      "profesion": "Herrería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Llamas Xx"
+      ]
+    },
+    {
       "nombre": "Sterling Silver Gauntlet",
       "profesion": "Herrería",
       "calidad": "uncommon",
@@ -5355,6 +5363,7 @@
         "Españoleitor Españoleitor",
         "Hugo Forjaluz",
         "Khyoraku Shunsui",
+        "Llamas Xx",
         "Tharindel Magnaluz"
       ]
     },
@@ -5369,6 +5378,7 @@
         "Españoleitor Españoleitor",
         "Hugo Forjaluz",
         "Khyoraku Shunsui",
+        "Llamas Xx",
         "Tharindel Magnaluz"
       ]
     },
@@ -5402,7 +5412,8 @@
       "calidad": "rare",
       "personajes": [
         "Hugo Forjaluz",
-        "Khyoraku Shunsui"
+        "Khyoraku Shunsui",
+        "Llamas Xx"
       ]
     },
     {
@@ -5411,6 +5422,14 @@
       "calidad": "rare",
       "personajes": [
         "Coloso Tempestad"
+      ]
+    },
+    {
+      "nombre": "Advanced Target Dummy",
+      "profesion": "Ingeniería",
+      "calidad": "common",
+      "personajes": [
+        "Cuzcu Aker"
       ]
     },
     {
@@ -5442,6 +5461,14 @@
         "Chaca Choochoo",
         "Cuzcu Aker",
         "Flexita Shadowsoul"
+      ]
+    },
+    {
+      "nombre": "Big Iron Bomb",
+      "profesion": "Ingeniería",
+      "calidad": "common",
+      "personajes": [
+        "Cuzcu Aker"
       ]
     },
     {
@@ -5596,6 +5623,22 @@
       ]
     },
     {
+      "nombre": "Gnomish Net-o-Matic Projector",
+      "profesion": "Ingeniería",
+      "calidad": "common",
+      "personajes": [
+        "Cuzcu Aker"
+      ]
+    },
+    {
+      "nombre": "Gnomish Shrink Ray",
+      "profesion": "Ingeniería",
+      "calidad": "common",
+      "personajes": [
+        "Cuzcu Aker"
+      ]
+    },
+    {
       "nombre": "Gnomish Universal Remote",
       "profesion": "Ingeniería",
       "calidad": "uncommon",
@@ -5672,6 +5715,22 @@
       ]
     },
     {
+      "nombre": "Ice Deflector",
+      "profesion": "Ingeniería",
+      "calidad": "common",
+      "personajes": [
+        "Cuzcu Aker"
+      ]
+    },
+    {
+      "nombre": "Inlaid Mithril Cylinder Plans",
+      "profesion": "Ingeniería",
+      "calidad": "common",
+      "personajes": [
+        "Cuzcu Aker"
+      ]
+    },
+    {
       "nombre": "Iron Grenade",
       "profesion": "Ingeniería",
       "calidad": "common",
@@ -5720,6 +5779,14 @@
       "personajes": [
         "Chaca Choochoo",
         "Flexita Shadowsoul"
+      ]
+    },
+    {
+      "nombre": "Mithril Tube",
+      "profesion": "Ingeniería",
+      "calidad": "common",
+      "personajes": [
+        "Cuzcu Aker"
       ]
     },
     {
@@ -5915,6 +5982,7 @@
         "Jonaver Legends",
         "Khyoraku Shunsui",
         "La Pety",
+        "Llamas Xx",
         "Mosu Warryn",
         "Samael Thallanor",
         "Tharindel Magnaluz"
@@ -5936,6 +6004,7 @@
         "Jonaver Legends",
         "Khyoraku Shunsui",
         "La Pety",
+        "Llamas Xx",
         "Mosu Warryn",
         "Samael Thallanor",
         "Tharindel Magnaluz"
@@ -5969,6 +6038,7 @@
         "Espartaco Gladiador",
         "Flexita Shadowsoul",
         "Khyoraku Shunsui",
+        "Llamas Xx",
         "Mosu Warryn",
         "Tharindel Magnaluz"
       ]
@@ -5997,6 +6067,7 @@
         "Jonaver Legends",
         "Khyoraku Shunsui",
         "La Pety",
+        "Llamas Xx",
         "Mosu Warryn",
         "Samael Thallanor",
         "Tharindel Magnaluz"
@@ -6019,6 +6090,7 @@
         "Jonaver Legends",
         "Khyoraku Shunsui",
         "La Pety",
+        "Llamas Xx",
         "Mosu Warryn",
         "Samael Thallanor",
         "Tanki Llo",
@@ -6031,6 +6103,7 @@
       "calidad": "uncommon",
       "personajes": [
         "Coloso Tempestad",
+        "Cuzcu Aker",
         "La Pety"
       ]
     },
@@ -6046,6 +6119,7 @@
         "Flexita Shadowsoul",
         "Khyoraku Shunsui",
         "La Pety",
+        "Llamas Xx",
         "Mosu Warryn",
         "Tharindel Magnaluz"
       ]
@@ -6056,6 +6130,7 @@
       "calidad": "common",
       "personajes": [
         "Coloso Tempestad",
+        "Cuzcu Aker",
         "La Pety"
       ]
     },
@@ -6074,7 +6149,9 @@
         "Hugo Forjaluz",
         "Khyoraku Shunsui",
         "La Pety",
+        "Llamas Xx",
         "Mosu Warryn",
+        "Samael Thallanor",
         "Tharindel Magnaluz"
       ]
     },
@@ -6084,6 +6161,7 @@
       "calidad": "common",
       "personajes": [
         "Coloso Tempestad",
+        "Cuzcu Aker",
         "La Pety"
       ]
     },
@@ -6103,6 +6181,7 @@
         "Jonaver Legends",
         "Khyoraku Shunsui",
         "La Pety",
+        "Llamas Xx",
         "Mosu Warryn",
         "Samael Thallanor",
         "Tharindel Magnaluz"
@@ -7310,6 +7389,7 @@
         "Hugo Forjaluz",
         "La Pety",
         "Layrela Rondanit",
+        "Llamas Xx",
         "Manelhon Gargon",
         "Memas Tour",
         "Micro Bolas",
@@ -7323,8 +7403,7 @@
         "Sugar Papy",
         "Tharindel Magnaluz",
         "Tom Kha",
-        "Vaporeta Pizpireta",
-        "Viilar Terrisia"
+        "Vaporeta Pizpireta"
       ]
     },
     {
@@ -7342,13 +7421,13 @@
         "Ildaren Belisar",
         "Jonaver Legends",
         "La Pety",
+        "Llamas Xx",
         "Nimassus Pater",
         "Nindalf Pizpireta",
         "Saint Peligroxa",
         "Sr Byron",
         "Thundrik Volgrim",
-        "Vaporeta Pizpireta",
-        "Viilar Terrisia"
+        "Vaporeta Pizpireta"
       ]
     },
     {
@@ -7410,12 +7489,12 @@
         "Hugo Forjaluz",
         "Ildaren Belisar",
         "Layrela Rondanit",
+        "Llamas Xx",
         "Mosu Warryn",
         "Palmira Natblida",
         "Runa Ruina",
         "Sugar Papy",
-        "Tharindel Magnaluz",
-        "Viilar Terrisia"
+        "Tharindel Magnaluz"
       ]
     },
     {
@@ -7453,6 +7532,7 @@
         "Khyoraku Shunsui",
         "La Pety",
         "Layrela Rondanit",
+        "Llamas Xx",
         "Manelhon Gargon",
         "Micro Bolas",
         "Mosu Warryn",
@@ -7464,8 +7544,7 @@
         "Sugar Papy",
         "Takkaao Valengri",
         "Tharindel Magnaluz",
-        "Vaporeta Pizpireta",
-        "Viilar Terrisia"
+        "Vaporeta Pizpireta"
       ]
     },
     {
@@ -7482,8 +7561,7 @@
         "Mosu Warryn",
         "Palmira Natblida",
         "Runa Ruina",
-        "Sugar Papy",
-        "Viilar Terrisia"
+        "Sugar Papy"
       ]
     },
     {
@@ -7510,6 +7588,7 @@
         "Jonaver Legends",
         "La Pety",
         "Layrela Rondanit",
+        "Llamas Xx",
         "Manelhon Gargon",
         "Micro Bolas",
         "Mosu Warryn",
@@ -7517,8 +7596,7 @@
         "Palmira Natblida",
         "Runa Ruina",
         "Sugar Papy",
-        "Tharindel Magnaluz",
-        "Viilar Terrisia"
+        "Tharindel Magnaluz"
       ]
     },
     {
@@ -7539,8 +7617,7 @@
         "Flexita Shadowsoul",
         "Genethika Brisaveloz",
         "La Pety",
-        "Palmira Natblida",
-        "Viilar Terrisia"
+        "Palmira Natblida"
       ]
     },
     {
@@ -7557,11 +7634,11 @@
         "Ildaren Belisar",
         "La Pety",
         "Layrela Rondanit",
+        "Llamas Xx",
         "Mosu Warryn",
         "Palmira Natblida",
         "Runa Ruina",
-        "Sugar Papy",
-        "Viilar Terrisia"
+        "Sugar Papy"
       ]
     },
     {
@@ -7594,14 +7671,15 @@
         "Jonaver Legends",
         "La Pety",
         "Layrela Rondanit",
+        "Llamas Xx",
         "Manelhon Gargon",
         "Mosu Warryn",
         "Nindalf Pizpireta",
         "Palmira Natblida",
         "Runa Ruina",
+        "Samael Thallanor",
         "Sugar Papy",
-        "Tharindel Magnaluz",
-        "Viilar Terrisia"
+        "Tharindel Magnaluz"
       ]
     },
     {
@@ -7632,6 +7710,7 @@
         "Khyoraku Shunsui",
         "La Pety",
         "Layrela Rondanit",
+        "Llamas Xx",
         "Manelhon Gargon",
         "Memas Tour",
         "Micro Bolas",
@@ -7646,8 +7725,7 @@
         "Takkaao Valengri",
         "Tharindel Magnaluz",
         "Thundrik Volgrim",
-        "Vaporeta Pizpireta",
-        "Viilar Terrisia"
+        "Vaporeta Pizpireta"
       ]
     },
     {
@@ -7687,6 +7765,7 @@
         "Khyoraku Shunsui",
         "La Pety",
         "Layrela Rondanit",
+        "Llamas Xx",
         "Manelhon Gargon",
         "Micro Bolas",
         "Mosu Warryn",
@@ -7698,8 +7777,7 @@
         "Sugar Papy",
         "Takkaao Valengri",
         "Tharindel Magnaluz",
-        "Thundrik Volgrim",
-        "Viilar Terrisia"
+        "Thundrik Volgrim"
       ]
     },
     {
@@ -7730,9 +7808,9 @@
         "Genethika Brisaveloz",
         "La Pety",
         "Layrela Rondanit",
+        "Llamas Xx",
         "Palmira Natblida",
-        "Sugar Papy",
-        "Viilar Terrisia"
+        "Sugar Papy"
       ]
     },
     {
@@ -7746,11 +7824,11 @@
         "Genethika Brisaveloz",
         "Ildaren Belisar",
         "Layrela Rondanit",
+        "Llamas Xx",
         "Mosu Warryn",
         "Palmira Natblida",
         "Runa Ruina",
-        "Sugar Papy",
-        "Viilar Terrisia"
+        "Sugar Papy"
       ]
     },
     {
@@ -7792,12 +7870,12 @@
         "Ildaren Belisar",
         "La Pety",
         "Layrela Rondanit",
+        "Llamas Xx",
         "Mosu Warryn",
         "Palmira Natblida",
         "Runa Ruina",
         "Sugar Papy",
-        "Tharindel Magnaluz",
-        "Viilar Terrisia"
+        "Tharindel Magnaluz"
       ]
     },
     {
@@ -7812,11 +7890,11 @@
         "Genethika Brisaveloz",
         "Ildaren Belisar",
         "Layrela Rondanit",
+        "Llamas Xx",
         "Mosu Warryn",
         "Palmira Natblida",
         "Runa Ruina",
-        "Sugar Papy",
-        "Viilar Terrisia"
+        "Sugar Papy"
       ]
     },
     {
@@ -8005,6 +8083,7 @@
         "Micro Bolas",
         "Nimassus Pater",
         "Rhyomen Sukuna",
+        "Saint Peligroxa",
         "Sr Byron"
       ]
     },
@@ -8117,6 +8196,14 @@
       ]
     },
     {
+      "nombre": "Crimson Silk Cloak",
+      "profesion": "Sastrería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Dum Bo"
+      ]
+    },
+    {
       "nombre": "Crimson Silk Gloves",
       "profesion": "Sastrería",
       "calidad": "uncommon",
@@ -8199,6 +8286,14 @@
         "Finn Felagund",
         "Rhyomen Sukuna",
         "Sr Byron"
+      ]
+    },
+    {
+      "nombre": "Enchanter's Cowl",
+      "profesion": "Sastrería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Dum Bo"
       ]
     },
     {
@@ -8348,6 +8443,7 @@
         "Dum Bo",
         "Finn Felagund",
         "Rhyomen Sukuna",
+        "Saint Peligroxa",
         "Sr Byron"
       ]
     },
@@ -8542,6 +8638,7 @@
         "Finn Felagund",
         "Nimassus Pater",
         "Rhyomen Sukuna",
+        "Saint Peligroxa",
         "Sr Byron"
       ]
     },
@@ -8555,6 +8652,7 @@
         "Kadeharz Apsus",
         "Micro Bolas",
         "Rhyomen Sukuna",
+        "Saint Peligroxa",
         "Sr Byron"
       ]
     },
@@ -8999,6 +9097,7 @@
         "Micro Bolas",
         "Nimassus Pater",
         "Rhyomen Sukuna",
+        "Saint Peligroxa",
         "Sr Byron"
       ]
     },

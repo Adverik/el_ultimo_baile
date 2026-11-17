@@ -3,7 +3,7 @@
     "slug": "alquimia",
     "nombre": "Alquimia",
     "ico": "136240",
-    "artesanos": 8,
+    "artesanos": 7,
     "total": 196
   },
   {
@@ -31,14 +31,14 @@
     "slug": "herboristeria",
     "nombre": "Herboristería",
     "ico": "136246",
-    "artesanos": 14,
+    "artesanos": 13,
     "total": 3
   },
   {
     "slug": "herreria",
     "nombre": "Herrería",
     "ico": "136241",
-    "artesanos": 8,
+    "artesanos": 9,
     "total": 507
   },
   {
@@ -52,7 +52,7 @@
     "slug": "mineria",
     "nombre": "Minería",
     "ico": "136248",
-    "artesanos": 16,
+    "artesanos": 17,
     "total": 17
   },
   {
