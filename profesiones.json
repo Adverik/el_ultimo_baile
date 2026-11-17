@@ -133,7 +133,7 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 262,
+          "nivel": 269,
           "max": 300
         },
         {
@@ -298,7 +298,7 @@
         },
         {
           "nombre": "Herboristería",
-          "nivel": 157,
+          "nivel": 159,
           "max": 225
         },
         {
@@ -373,18 +373,45 @@
       ]
     },
     {
+      "personaje": "Elfa Vorable",
+      "clase": "druid",
+      "raider": false,
+      "profesiones": [
+        {
+          "nombre": "Sastrería",
+          "nivel": 151,
+          "max": 225
+        },
+        {
+          "nombre": "Encantamiento",
+          "nivel": 206,
+          "max": 225
+        },
+        {
+          "nombre": "Cocina",
+          "nivel": 182,
+          "max": 225
+        },
+        {
+          "nombre": "Pesca",
+          "nivel": 155,
+          "max": 225
+        }
+      ]
+    },
+    {
       "personaje": "Espartaco Gladiador",
       "clase": "warrior",
       "raider": true,
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 174,
+          "nivel": 181,
           "max": 225
         },
         {
           "nombre": "Herrería",
-          "nivel": 168,
+          "nivel": 169,
           "max": 225
         },
         {
@@ -438,12 +465,12 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 89,
+          "nivel": 92,
           "max": 150
         },
         {
           "nombre": "Herrería",
-          "nivel": 90,
+          "nivel": 95,
           "max": 150
         },
         {
@@ -460,6 +487,23 @@
           "nombre": "Primeros auxilios",
           "nivel": 73,
           "max": 150
+        }
+      ]
+    },
+    {
+      "personaje": "Fifi Fififran",
+      "clase": "hunter",
+      "raider": false,
+      "profesiones": [
+        {
+          "nombre": "Minería",
+          "nivel": 3,
+          "max": 75
+        },
+        {
+          "nombre": "Cocina",
+          "nivel": 1,
+          "max": 75
         }
       ]
     },
@@ -551,12 +595,12 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 157,
+          "nivel": 165,
           "max": 225
         },
         {
           "nombre": "Ingeniería",
-          "nivel": 146,
+          "nivel": 154,
           "max": 225
         },
         {
@@ -571,7 +615,7 @@
         },
         {
           "nombre": "Primeros auxilios",
-          "nivel": 220,
+          "nivel": 225,
           "max": 225
         }
       ]
@@ -588,7 +632,7 @@
         },
         {
           "nombre": "Herboristería",
-          "nivel": 220,
+          "nivel": 229,
           "max": 300
         },
         {
@@ -637,13 +681,13 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 49,
+          "nivel": 54,
           "max": 75
         },
         {
           "nombre": "Herboristería",
-          "nivel": 72,
-          "max": 75
+          "nivel": 75,
+          "max": 150
         },
         {
           "nombre": "Cocina",
@@ -706,7 +750,7 @@
         },
         {
           "nombre": "Desuello",
-          "nivel": 200,
+          "nivel": 212,
           "max": 225
         },
         {
@@ -727,13 +771,35 @@
       ]
     },
     {
+      "personaje": "Joaquin Bollos",
+      "clase": "warlock",
+      "raider": false,
+      "profesiones": [
+        {
+          "nombre": "Sastrería",
+          "nivel": 13,
+          "max": 75
+        },
+        {
+          "nombre": "Cocina",
+          "nivel": 1,
+          "max": 75
+        },
+        {
+          "nombre": "Pesca",
+          "nivel": 1,
+          "max": 75
+        }
+      ]
+    },
+    {
       "personaje": "Jonaver Legends",
       "clase": "mage",
       "raider": false,
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 89,
+          "nivel": 91,
           "max": 150
         },
         {
@@ -765,7 +831,7 @@
       "profesiones": [
         {
           "nombre": "Sastrería",
-          "nivel": 125,
+          "nivel": 127,
           "max": 225
         },
         {
@@ -851,7 +917,7 @@
         },
         {
           "nombre": "Herboristería",
-          "nivel": 216,
+          "nivel": 217,
           "max": 225
         },
         {
@@ -878,7 +944,7 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 126,
+          "nivel": 134,
           "max": 225
         },
         {
@@ -898,7 +964,7 @@
         },
         {
           "nombre": "Primeros auxilios",
-          "nivel": 190,
+          "nivel": 192,
           "max": 225
         }
       ]
@@ -942,7 +1008,7 @@
       "profesiones": [
         {
           "nombre": "Peletería",
-          "nivel": 155,
+          "nivel": 170,
           "max": 225
         },
         {
@@ -974,8 +1040,8 @@
       "profesiones": [
         {
           "nombre": "Sastrería",
-          "nivel": 118,
-          "max": 150
+          "nivel": 142,
+          "max": 225
         },
         {
           "nombre": "Encantamiento",
@@ -1038,7 +1104,7 @@
       "profesiones": [
         {
           "nombre": "Sastrería",
-          "nivel": 120,
+          "nivel": 136,
           "max": 150
         },
         {
@@ -1117,7 +1183,7 @@
         },
         {
           "nombre": "Primeros auxilios",
-          "nivel": 207,
+          "nivel": 216,
           "max": 225
         }
       ]
@@ -1129,7 +1195,7 @@
       "profesiones": [
         {
           "nombre": "Sastrería",
-          "nivel": 143,
+          "nivel": 146,
           "max": 150
         },
         {
@@ -1156,7 +1222,7 @@
         },
         {
           "nombre": "Desuello",
-          "nivel": 229,
+          "nivel": 231,
           "max": 300
         },
         {
@@ -1210,12 +1276,12 @@
       "profesiones": [
         {
           "nombre": "Desuello",
-          "nivel": 115,
+          "nivel": 128,
           "max": 150
         },
         {
           "nombre": "Minería",
-          "nivel": 84,
+          "nivel": 89,
           "max": 150
         },
         {
@@ -1236,6 +1302,38 @@
       ]
     },
     {
+      "personaje": "Señor Ollivander",
+      "clase": "mage",
+      "raider": false,
+      "profesiones": [
+        {
+          "nombre": "Sastrería",
+          "nivel": 178,
+          "max": 225
+        },
+        {
+          "nombre": "Alquimia",
+          "nivel": 75,
+          "max": 150
+        },
+        {
+          "nombre": "Cocina",
+          "nivel": 19,
+          "max": 75
+        },
+        {
+          "nombre": "Pesca",
+          "nivel": 1,
+          "max": 75
+        },
+        {
+          "nombre": "Primeros auxilios",
+          "nivel": 150,
+          "max": 150
+        }
+      ]
+    },
+    {
       "personaje": "Sr Byron",
       "clase": "warlock",
       "raider": false,
@@ -1247,8 +1345,8 @@
         },
         {
           "nombre": "Encantamiento",
-          "nivel": 90,
-          "max": 150
+          "nivel": 200,
+          "max": 225
         },
         {
           "nombre": "Cocina",
@@ -1257,7 +1355,7 @@
         },
         {
           "nombre": "Pesca",
-          "nivel": 24,
+          "nivel": 25,
           "max": 75
         },
         {
@@ -1327,18 +1425,50 @@
       ]
     },
     {
+      "personaje": "Tankesito Khrih",
+      "clase": "druid",
+      "raider": false,
+      "profesiones": [
+        {
+          "nombre": "Peletería",
+          "nivel": 159,
+          "max": 225
+        },
+        {
+          "nombre": "Desuello",
+          "nivel": 231,
+          "max": 300
+        },
+        {
+          "nombre": "Cocina",
+          "nivel": 145,
+          "max": 150
+        },
+        {
+          "nombre": "Pesca",
+          "nivel": 130,
+          "max": 150
+        },
+        {
+          "nombre": "Primeros auxilios",
+          "nivel": 150,
+          "max": 150
+        }
+      ]
+    },
+    {
       "personaje": "Tanki Llo",
       "clase": "warlock",
       "raider": false,
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 34,
+          "nivel": 37,
           "max": 75
         },
         {
           "nombre": "Herboristería",
-          "nivel": 39,
+          "nivel": 41,
           "max": 75
         },
         {
@@ -1506,6 +1636,7 @@
         "Fran Furion",
         "Genethika Brisaveloz",
         "Layrela Rondanit",
+        "Señor Ollivander",
         "Sugar Papy",
         "Takkaao Valengri"
       ]
@@ -1619,6 +1750,7 @@
         "Fran Furion",
         "Genethika Brisaveloz",
         "Layrela Rondanit",
+        "Señor Ollivander",
         "Sugar Papy",
         "Takkaao Valengri"
       ]
@@ -1633,6 +1765,7 @@
         "Fran Furion",
         "Genethika Brisaveloz",
         "Layrela Rondanit",
+        "Señor Ollivander",
         "Sugar Papy",
         "Takkaao Valengri"
       ]
@@ -1647,6 +1780,7 @@
         "Fran Furion",
         "Genethika Brisaveloz",
         "Layrela Rondanit",
+        "Señor Ollivander",
         "Sugar Papy"
       ]
     },
@@ -1660,6 +1794,7 @@
         "Fran Furion",
         "Genethika Brisaveloz",
         "Layrela Rondanit",
+        "Señor Ollivander",
         "Sugar Papy",
         "Takkaao Valengri"
       ]
@@ -1733,7 +1868,8 @@
       "profesion": "Alquimia",
       "calidad": "common",
       "personajes": [
-        "Dio Hotmetal"
+        "Dio Hotmetal",
+        "Fran Furion"
       ]
     },
     {
@@ -1871,6 +2007,7 @@
         "Fran Furion",
         "Genethika Brisaveloz",
         "Layrela Rondanit",
+        "Señor Ollivander",
         "Sugar Papy",
         "Takkaao Valengri"
       ]
@@ -1885,6 +2022,7 @@
         "Fran Furion",
         "Genethika Brisaveloz",
         "Layrela Rondanit",
+        "Señor Ollivander",
         "Sugar Papy",
         "Takkaao Valengri"
       ]
@@ -1895,7 +2033,8 @@
       "calidad": "common",
       "personajes": [
         "Dio Hotmetal",
-        "Layrela Rondanit"
+        "Layrela Rondanit",
+        "Señor Ollivander"
       ]
     },
     {
@@ -1933,6 +2072,7 @@
         "Fran Furion",
         "Genethika Brisaveloz",
         "Layrela Rondanit",
+        "Señor Ollivander",
         "Sugar Papy",
         "Takkaao Valengri"
       ]
@@ -1955,6 +2095,7 @@
         "Fran Furion",
         "Genethika Brisaveloz",
         "Layrela Rondanit",
+        "Señor Ollivander",
         "Sugar Papy",
         "Takkaao Valengri"
       ]
@@ -1977,6 +2118,7 @@
         "Fran Furion",
         "Genethika Brisaveloz",
         "Layrela Rondanit",
+        "Señor Ollivander",
         "Sugar Papy",
         "Takkaao Valengri"
       ]
@@ -2045,6 +2187,7 @@
         "Fran Furion",
         "Genethika Brisaveloz",
         "Layrela Rondanit",
+        "Señor Ollivander",
         "Sugar Papy",
         "Takkaao Valengri"
       ]
@@ -2115,6 +2258,8 @@
         "Diana Flechaveloz",
         "Dum Bo",
         "Edoras Duskranger",
+        "Elfa Vorable",
+        "Flexita Shadowsoul",
         "Layrela Rondanit",
         "Runa Ruina",
         "Sugar Papy"
@@ -2138,9 +2283,11 @@
         "Don Josechu",
         "Dum Bo",
         "Edoras Duskranger",
+        "Elfa Vorable",
         "Espartaco Gladiador",
         "Españoleitor Españoleitor",
         "Farhan Ironbeard",
+        "Fifi Fififran",
         "Filps Pachamamamon",
         "Finn Felagund",
         "Fitipaldi Sendaumbria",
@@ -2150,6 +2297,7 @@
         "Grimmjow Jaegerjakez",
         "Hugo Forjaluz",
         "Ildaren Belisar",
+        "Joaquin Bollos",
         "Jonaver Legends",
         "Kadeharz Apsus",
         "Khyoraku Shunsui",
@@ -2167,9 +2315,11 @@
         "Runa Ruina",
         "Saint Peligroxa",
         "Samael Thallanor",
+        "Señor Ollivander",
         "Sr Byron",
         "Sugar Papy",
         "Takkaao Valengri",
+        "Tankesito Khrih",
         "Tanki Llo",
         "Tharindel Magnaluz",
         "Thundrik Volgrim",
@@ -2237,6 +2387,7 @@
         "Dio Hotmetal",
         "Dum Bo",
         "Edoras Duskranger",
+        "Elfa Vorable",
         "Espartaco Gladiador",
         "Finn Felagund",
         "Flexita Shadowsoul",
@@ -2254,6 +2405,7 @@
         "Samael Thallanor",
         "Sr Byron",
         "Sugar Papy",
+        "Tankesito Khrih",
         "Tharindel Magnaluz",
         "Tom Kha"
       ]
@@ -2266,6 +2418,7 @@
         "Coloso Tempestad",
         "Diana Flechaveloz",
         "Dio Hotmetal",
+        "Elfa Vorable",
         "Flexita Shadowsoul",
         "Ildaren Belisar",
         "Sugar Papy"
@@ -2280,6 +2433,7 @@
         "Diana Flechaveloz",
         "Dum Bo",
         "Edoras Duskranger",
+        "Elfa Vorable",
         "Espartaco Gladiador",
         "Finn Felagund",
         "Flexita Shadowsoul",
@@ -2296,6 +2450,7 @@
         "Palmira Natblida",
         "Sr Byron",
         "Sugar Papy",
+        "Tankesito Khrih",
         "Tharindel Magnaluz",
         "Tom Kha"
       ]
@@ -2319,13 +2474,15 @@
         "Diana Flechaveloz",
         "Dum Bo",
         "Edoras Duskranger",
+        "Elfa Vorable",
         "Finn Felagund",
         "Ildaren Belisar",
         "Layrela Rondanit",
         "Memas Tour",
         "Mosu Warryn",
         "Palmira Natblida",
-        "Sugar Papy"
+        "Sugar Papy",
+        "Tankesito Khrih"
       ]
     },
     {
@@ -2346,9 +2503,11 @@
         "Don Josechu",
         "Dum Bo",
         "Edoras Duskranger",
+        "Elfa Vorable",
         "Espartaco Gladiador",
         "Españoleitor Españoleitor",
         "Farhan Ironbeard",
+        "Fifi Fififran",
         "Filps Pachamamamon",
         "Finn Felagund",
         "Fitipaldi Sendaumbria",
@@ -2358,6 +2517,7 @@
         "Grimmjow Jaegerjakez",
         "Hugo Forjaluz",
         "Ildaren Belisar",
+        "Joaquin Bollos",
         "Jonaver Legends",
         "Kadeharz Apsus",
         "Khyoraku Shunsui",
@@ -2375,9 +2535,11 @@
         "Runa Ruina",
         "Saint Peligroxa",
         "Samael Thallanor",
+        "Señor Ollivander",
         "Sr Byron",
         "Sugar Papy",
         "Takkaao Valengri",
+        "Tankesito Khrih",
         "Tanki Llo",
         "Tharindel Magnaluz",
         "Thundrik Volgrim",
@@ -2420,6 +2582,7 @@
         "Dio Hotmetal",
         "Dum Bo",
         "Edoras Duskranger",
+        "Elfa Vorable",
         "Espartaco Gladiador",
         "Finn Felagund",
         "Flexita Shadowsoul",
@@ -2436,6 +2599,7 @@
         "Samael Thallanor",
         "Sr Byron",
         "Sugar Papy",
+        "Tankesito Khrih",
         "Tharindel Magnaluz",
         "Tom Kha"
       ]
@@ -2450,6 +2614,7 @@
         "Diana Flechaveloz",
         "Dum Bo",
         "Edoras Duskranger",
+        "Elfa Vorable",
         "Espartaco Gladiador",
         "Finn Felagund",
         "Flexita Shadowsoul",
@@ -2465,6 +2630,7 @@
         "Samael Thallanor",
         "Sr Byron",
         "Sugar Papy",
+        "Tankesito Khrih",
         "Tharindel Magnaluz"
       ]
     },
@@ -2477,6 +2643,7 @@
         "Diana Flechaveloz",
         "Dum Bo",
         "Edoras Duskranger",
+        "Elfa Vorable",
         "Espartaco Gladiador",
         "Finn Felagund",
         "Flexita Shadowsoul",
@@ -2484,6 +2651,7 @@
         "La Pety",
         "Manelhon Gargon",
         "Memas Tour",
+        "Mosu Warryn",
         "Palmira Natblida",
         "Runa Ruina",
         "Sr Byron",
@@ -2511,6 +2679,7 @@
         "Diana Flechaveloz",
         "Dum Bo",
         "Edoras Duskranger",
+        "Elfa Vorable",
         "Espartaco Gladiador",
         "Flexita Shadowsoul",
         "La Pety",
@@ -2529,6 +2698,7 @@
         "Diana Flechaveloz",
         "Dum Bo",
         "Edoras Duskranger",
+        "Elfa Vorable",
         "Espartaco Gladiador",
         "Finn Felagund",
         "Flexita Shadowsoul",
@@ -2544,6 +2714,7 @@
         "Samael Thallanor",
         "Sr Byron",
         "Sugar Papy",
+        "Tankesito Khrih",
         "Tharindel Magnaluz"
       ]
     },
@@ -2578,6 +2749,7 @@
         "Diana Flechaveloz",
         "Dum Bo",
         "Edoras Duskranger",
+        "Elfa Vorable",
         "Espartaco Gladiador",
         "Finn Felagund",
         "Khyoraku Shunsui",
@@ -2589,6 +2761,7 @@
         "Runa Ruina",
         "Sr Byron",
         "Sugar Papy",
+        "Tankesito Khrih",
         "Tharindel Magnaluz"
       ]
     },
@@ -2611,6 +2784,7 @@
         "Diana Flechaveloz",
         "Dum Bo",
         "Edoras Duskranger",
+        "Elfa Vorable",
         "Espartaco Gladiador",
         "Finn Felagund",
         "Flexita Shadowsoul",
@@ -2633,6 +2807,7 @@
         "Coloso Tempestad",
         "Dum Bo",
         "Edoras Duskranger",
+        "Elfa Vorable",
         "Flexita Shadowsoul",
         "Khyoraku Shunsui",
         "La Pety",
@@ -2671,9 +2846,11 @@
         "Don Josechu",
         "Dum Bo",
         "Edoras Duskranger",
+        "Elfa Vorable",
         "Espartaco Gladiador",
         "Españoleitor Españoleitor",
         "Farhan Ironbeard",
+        "Fifi Fififran",
         "Filps Pachamamamon",
         "Finn Felagund",
         "Fitipaldi Sendaumbria",
@@ -2683,6 +2860,7 @@
         "Grimmjow Jaegerjakez",
         "Hugo Forjaluz",
         "Ildaren Belisar",
+        "Joaquin Bollos",
         "Jonaver Legends",
         "Kadeharz Apsus",
         "Khyoraku Shunsui",
@@ -2700,9 +2878,11 @@
         "Runa Ruina",
         "Saint Peligroxa",
         "Samael Thallanor",
+        "Señor Ollivander",
         "Sr Byron",
         "Sugar Papy",
         "Takkaao Valengri",
+        "Tankesito Khrih",
         "Tanki Llo",
         "Tharindel Magnaluz",
         "Thundrik Volgrim",
@@ -2780,12 +2960,14 @@
         "Cuzcu Aker",
         "Dum Bo",
         "Edoras Duskranger",
+        "Elfa Vorable",
         "Espartaco Gladiador",
         "Finn Felagund",
         "Flexita Shadowsoul",
         "Manelhon Gargon",
         "Memas Tour",
         "Mosu Warryn",
+        "Tankesito Khrih",
         "Tharindel Magnaluz"
       ]
     },
@@ -2796,6 +2978,7 @@
       "personajes": [
         "Diana Flechaveloz",
         "Dum Bo",
+        "Elfa Vorable",
         "Espartaco Gladiador",
         "Finn Felagund",
         "Layrela Rondanit",
@@ -2812,6 +2995,7 @@
         "Cuzcu Aker",
         "Diana Flechaveloz",
         "Dum Bo",
+        "Elfa Vorable",
         "Espartaco Gladiador",
         "Finn Felagund",
         "Flexita Shadowsoul",
@@ -2857,6 +3041,7 @@
         "Diana Flechaveloz",
         "Dum Bo",
         "Edoras Duskranger",
+        "Elfa Vorable",
         "Grimmjow Jaegerjakez",
         "Kadeharz Apsus",
         "Khyoraku Shunsui",
@@ -2880,6 +3065,7 @@
         "Dio Hotmetal",
         "Dum Bo",
         "Edoras Duskranger",
+        "Elfa Vorable",
         "Espartaco Gladiador",
         "Finn Felagund",
         "Ildaren Belisar",
@@ -2903,6 +3089,7 @@
         "Chaca Choochoo",
         "Diana Flechaveloz",
         "Dum Bo",
+        "Elfa Vorable",
         "Flexita Shadowsoul",
         "Khyoraku Shunsui",
         "La Pety",
@@ -2942,9 +3129,11 @@
         "Don Josechu",
         "Dum Bo",
         "Edoras Duskranger",
+        "Elfa Vorable",
         "Espartaco Gladiador",
         "Españoleitor Españoleitor",
         "Farhan Ironbeard",
+        "Fifi Fififran",
         "Filps Pachamamamon",
         "Finn Felagund",
         "Fitipaldi Sendaumbria",
@@ -2954,6 +3143,7 @@
         "Grimmjow Jaegerjakez",
         "Hugo Forjaluz",
         "Ildaren Belisar",
+        "Joaquin Bollos",
         "Jonaver Legends",
         "Kadeharz Apsus",
         "Khyoraku Shunsui",
@@ -2971,9 +3161,11 @@
         "Runa Ruina",
         "Saint Peligroxa",
         "Samael Thallanor",
+        "Señor Ollivander",
         "Sr Byron",
         "Sugar Papy",
         "Takkaao Valengri",
+        "Tankesito Khrih",
         "Tanki Llo",
         "Tharindel Magnaluz",
         "Thundrik Volgrim",
@@ -2987,6 +3179,7 @@
       "calidad": "common",
       "personajes": [
         "Diana Flechaveloz",
+        "Elfa Vorable",
         "Espartaco Gladiador",
         "Finn Felagund",
         "Layrela Rondanit"
@@ -2999,6 +3192,7 @@
       "personajes": [
         "Cuzcu Aker",
         "Edoras Duskranger",
+        "Elfa Vorable",
         "Layrela Rondanit",
         "Manelhon Gargon",
         "Memas Tour",
@@ -3014,9 +3208,18 @@
       "personajes": [
         "Cuzcu Aker",
         "Edoras Duskranger",
+        "Elfa Vorable",
         "Finn Felagund",
         "Layrela Rondanit",
         "Sugar Papy"
+      ]
+    },
+    {
+      "nombre": "Savory Whimsyfin Delight",
+      "profesion": "Cocina",
+      "calidad": "common",
+      "personajes": [
+        "Elfa Vorable"
       ]
     },
     {
@@ -3029,6 +3232,7 @@
         "Diana Flechaveloz",
         "Dum Bo",
         "Edoras Duskranger",
+        "Elfa Vorable",
         "Espartaco Gladiador",
         "Finn Felagund",
         "Flexita Shadowsoul",
@@ -3039,7 +3243,8 @@
         "Mosu Warryn",
         "Palmira Natblida",
         "Sr Byron",
-        "Sugar Papy"
+        "Sugar Papy",
+        "Tankesito Khrih"
       ]
     },
     {
@@ -3051,6 +3256,7 @@
         "Diana Flechaveloz",
         "Dum Bo",
         "Edoras Duskranger",
+        "Elfa Vorable",
         "Grimmjow Jaegerjakez",
         "Kadeharz Apsus",
         "Khyoraku Shunsui",
@@ -3066,6 +3272,7 @@
         "Diana Flechaveloz",
         "Dum Bo",
         "Edoras Duskranger",
+        "Elfa Vorable",
         "Finn Felagund",
         "Fitipaldi Sendaumbria",
         "Flexita Shadowsoul",
@@ -3101,6 +3308,7 @@
         "Diana Flechaveloz",
         "Dum Bo",
         "Edoras Duskranger",
+        "Elfa Vorable",
         "Espartaco Gladiador",
         "Finn Felagund",
         "Flexita Shadowsoul",
@@ -3128,6 +3336,7 @@
         "Diana Flechaveloz",
         "Dum Bo",
         "Edoras Duskranger",
+        "Elfa Vorable",
         "Finn Felagund",
         "Khyoraku Shunsui",
         "La Pety",
@@ -3150,6 +3359,7 @@
         "Dio Hotmetal",
         "Dum Bo",
         "Edoras Duskranger",
+        "Elfa Vorable",
         "Espartaco Gladiador",
         "Filps Pachamamamon",
         "Finn Felagund",
@@ -3173,6 +3383,7 @@
         "Sr Byron",
         "Sugar Papy",
         "Takkaao Valengri",
+        "Tankesito Khrih",
         "Tharindel Magnaluz",
         "Tom Kha"
       ]
@@ -3230,6 +3441,7 @@
         "Diana Flechaveloz",
         "Dum Bo",
         "Edoras Duskranger",
+        "Elfa Vorable",
         "Espartaco Gladiador",
         "Finn Felagund",
         "Flexita Shadowsoul",
@@ -3263,6 +3475,7 @@
       "profesion": "Cocina",
       "calidad": "common",
       "personajes": [
+        "Finn Felagund",
         "Sugar Papy"
       ]
     },
@@ -3303,6 +3516,7 @@
         "Cuzcu Aker",
         "Dum Bo",
         "Edoras Duskranger",
+        "Elfa Vorable",
         "Flexita Shadowsoul",
         "Khyoraku Shunsui",
         "La Pety",
@@ -3333,6 +3547,7 @@
         "Palmira Natblida",
         "Runa Ruina",
         "Samael Thallanor",
+        "Tankesito Khrih",
         "Tom Kha"
       ]
     },
@@ -3364,7 +3579,8 @@
       "personajes": [
         "Edoras Duskranger",
         "Manelhon Gargon",
-        "Runa Ruina"
+        "Runa Ruina",
+        "Tankesito Khrih"
       ]
     },
     {
@@ -3384,6 +3600,7 @@
       "calidad": "common",
       "personajes": [
         "Dum Bo",
+        "Elfa Vorable",
         "Finn Felagund",
         "Kadeharz Apsus",
         "Micro Bolas",
@@ -3401,6 +3618,7 @@
       "calidad": "common",
       "personajes": [
         "Dum Bo",
+        "Elfa Vorable",
         "Finn Felagund",
         "Kadeharz Apsus",
         "Micro Bolas",
@@ -3425,7 +3643,9 @@
       "profesion": "Encantamiento",
       "calidad": "common",
       "personajes": [
-        "Finn Felagund"
+        "Elfa Vorable",
+        "Finn Felagund",
+        "Sr Byron"
       ]
     },
     {
@@ -3434,7 +3654,9 @@
       "calidad": "common",
       "personajes": [
         "Dum Bo",
-        "Finn Felagund"
+        "Elfa Vorable",
+        "Finn Felagund",
+        "Sr Byron"
       ]
     },
     {
@@ -3442,7 +3664,8 @@
       "profesion": "Encantamiento",
       "calidad": "common",
       "personajes": [
-        "Dum Bo"
+        "Dum Bo",
+        "Elfa Vorable"
       ]
     },
     {
@@ -3461,9 +3684,11 @@
       "calidad": "common",
       "personajes": [
         "Dum Bo",
+        "Elfa Vorable",
         "Finn Felagund",
         "Nimassus Pater",
-        "Saint Peligroxa"
+        "Saint Peligroxa",
+        "Sr Byron"
       ]
     },
     {
@@ -3479,7 +3704,17 @@
       "profesion": "Encantamiento",
       "calidad": "common",
       "personajes": [
-        "Finn Felagund"
+        "Elfa Vorable",
+        "Finn Felagund",
+        "Sr Byron"
+      ]
+    },
+    {
+      "nombre": "Enchant Boots - Lesser Spirit",
+      "profesion": "Encantamiento",
+      "calidad": "common",
+      "personajes": [
+        "Sr Byron"
       ]
     },
     {
@@ -3487,7 +3722,17 @@
       "profesion": "Encantamiento",
       "calidad": "common",
       "personajes": [
-        "Finn Felagund"
+        "Elfa Vorable",
+        "Finn Felagund",
+        "Sr Byron"
+      ]
+    },
+    {
+      "nombre": "Enchant Boots - Minor Agility",
+      "profesion": "Encantamiento",
+      "calidad": "common",
+      "personajes": [
+        "Elfa Vorable"
       ]
     },
     {
@@ -3504,8 +3749,10 @@
       "calidad": "common",
       "personajes": [
         "Dum Bo",
+        "Elfa Vorable",
         "Finn Felagund",
-        "Saint Peligroxa"
+        "Saint Peligroxa",
+        "Sr Byron"
       ]
     },
     {
@@ -3530,6 +3777,7 @@
       "calidad": "common",
       "personajes": [
         "Dum Bo",
+        "Elfa Vorable",
         "Finn Felagund",
         "Kadeharz Apsus",
         "Micro Bolas",
@@ -3555,7 +3803,9 @@
       "calidad": "common",
       "personajes": [
         "Dum Bo",
-        "Finn Felagund"
+        "Elfa Vorable",
+        "Finn Felagund",
+        "Sr Byron"
       ]
     },
     {
@@ -3563,7 +3813,8 @@
       "profesion": "Encantamiento",
       "calidad": "common",
       "personajes": [
-        "Dum Bo"
+        "Dum Bo",
+        "Elfa Vorable"
       ]
     },
     {
@@ -3572,8 +3823,19 @@
       "calidad": "common",
       "personajes": [
         "Dum Bo",
+        "Elfa Vorable",
         "Finn Felagund",
-        "Saint Peligroxa"
+        "Kadeharz Apsus",
+        "Saint Peligroxa",
+        "Sr Byron"
+      ]
+    },
+    {
+      "nombre": "Enchant Bracer - Lesser Strength",
+      "profesion": "Encantamiento",
+      "calidad": "common",
+      "personajes": [
+        "Elfa Vorable"
       ]
     },
     {
@@ -3582,8 +3844,10 @@
       "calidad": "common",
       "personajes": [
         "Dum Bo",
+        "Elfa Vorable",
         "Finn Felagund",
-        "Nimassus Pater"
+        "Nimassus Pater",
+        "Sr Byron"
       ]
     },
     {
@@ -3592,6 +3856,7 @@
       "calidad": "common",
       "personajes": [
         "Dum Bo",
+        "Elfa Vorable",
         "Finn Felagund",
         "Kadeharz Apsus",
         "Micro Bolas",
@@ -3617,6 +3882,7 @@
       "calidad": "common",
       "personajes": [
         "Dum Bo",
+        "Elfa Vorable",
         "Finn Felagund",
         "Kadeharz Apsus",
         "Nimassus Pater",
@@ -3639,7 +3905,9 @@
       "profesion": "Encantamiento",
       "calidad": "common",
       "personajes": [
-        "Finn Felagund"
+        "Elfa Vorable",
+        "Finn Felagund",
+        "Sr Byron"
       ]
     },
     {
@@ -3647,7 +3915,9 @@
       "profesion": "Encantamiento",
       "calidad": "common",
       "personajes": [
-        "Finn Felagund"
+        "Elfa Vorable",
+        "Finn Felagund",
+        "Sr Byron"
       ]
     },
     {
@@ -3655,7 +3925,9 @@
       "profesion": "Encantamiento",
       "calidad": "common",
       "personajes": [
-        "Finn Felagund"
+        "Elfa Vorable",
+        "Finn Felagund",
+        "Sr Byron"
       ]
     },
     {
@@ -3663,7 +3935,9 @@
       "profesion": "Encantamiento",
       "calidad": "common",
       "personajes": [
-        "Finn Felagund"
+        "Elfa Vorable",
+        "Finn Felagund",
+        "Sr Byron"
       ]
     },
     {
@@ -3671,7 +3945,9 @@
       "profesion": "Encantamiento",
       "calidad": "common",
       "personajes": [
-        "Finn Felagund"
+        "Elfa Vorable",
+        "Finn Felagund",
+        "Sr Byron"
       ]
     },
     {
@@ -3680,6 +3956,7 @@
       "calidad": "common",
       "personajes": [
         "Dum Bo",
+        "Elfa Vorable",
         "Finn Felagund",
         "Kadeharz Apsus",
         "Micro Bolas",
@@ -3696,7 +3973,9 @@
       "calidad": "common",
       "personajes": [
         "Dum Bo",
-        "Finn Felagund"
+        "Elfa Vorable",
+        "Finn Felagund",
+        "Sr Byron"
       ]
     },
     {
@@ -3705,7 +3984,9 @@
       "calidad": "common",
       "personajes": [
         "Dum Bo",
-        "Finn Felagund"
+        "Elfa Vorable",
+        "Finn Felagund",
+        "Sr Byron"
       ]
     },
     {
@@ -3714,6 +3995,7 @@
       "calidad": "common",
       "personajes": [
         "Dum Bo",
+        "Elfa Vorable",
         "Finn Felagund",
         "Kadeharz Apsus",
         "Nimassus Pater",
@@ -3726,7 +4008,9 @@
       "profesion": "Encantamiento",
       "calidad": "common",
       "personajes": [
-        "Finn Felagund"
+        "Elfa Vorable",
+        "Finn Felagund",
+        "Sr Byron"
       ]
     },
     {
@@ -3735,6 +4019,7 @@
       "calidad": "common",
       "personajes": [
         "Dum Bo",
+        "Elfa Vorable",
         "Finn Felagund",
         "Kadeharz Apsus",
         "Micro Bolas",
@@ -3750,6 +4035,7 @@
       "calidad": "common",
       "personajes": [
         "Dum Bo",
+        "Elfa Vorable",
         "Finn Felagund",
         "Kadeharz Apsus",
         "Nimassus Pater",
@@ -3763,7 +4049,9 @@
       "calidad": "common",
       "personajes": [
         "Dum Bo",
-        "Finn Felagund"
+        "Elfa Vorable",
+        "Finn Felagund",
+        "Sr Byron"
       ]
     },
     {
@@ -3772,9 +4060,11 @@
       "calidad": "common",
       "personajes": [
         "Dum Bo",
+        "Elfa Vorable",
         "Finn Felagund",
         "Kadeharz Apsus",
-        "Saint Peligroxa"
+        "Saint Peligroxa",
+        "Sr Byron"
       ]
     },
     {
@@ -3806,7 +4096,9 @@
       "profesion": "Encantamiento",
       "calidad": "common",
       "personajes": [
-        "Finn Felagund"
+        "Elfa Vorable",
+        "Finn Felagund",
+        "Sr Byron"
       ]
     },
     {
@@ -3814,7 +4106,9 @@
       "profesion": "Encantamiento",
       "calidad": "common",
       "personajes": [
-        "Finn Felagund"
+        "Elfa Vorable",
+        "Finn Felagund",
+        "Sr Byron"
       ]
     },
     {
@@ -3822,6 +4116,7 @@
       "profesion": "Encantamiento",
       "calidad": "common",
       "personajes": [
+        "Elfa Vorable",
         "Finn Felagund"
       ]
     },
@@ -3831,7 +4126,9 @@
       "calidad": "common",
       "personajes": [
         "Dum Bo",
-        "Finn Felagund"
+        "Elfa Vorable",
+        "Finn Felagund",
+        "Sr Byron"
       ]
     },
     {
@@ -3840,8 +4137,10 @@
       "calidad": "common",
       "personajes": [
         "Dum Bo",
+        "Elfa Vorable",
         "Finn Felagund",
-        "Saint Peligroxa"
+        "Saint Peligroxa",
+        "Sr Byron"
       ]
     },
     {
@@ -3849,7 +4148,8 @@
       "profesion": "Encantamiento",
       "calidad": "common",
       "personajes": [
-        "Dum Bo"
+        "Dum Bo",
+        "Sr Byron"
       ]
     },
     {
@@ -3857,7 +4157,8 @@
       "profesion": "Encantamiento",
       "calidad": "common",
       "personajes": [
-        "Dum Bo"
+        "Dum Bo",
+        "Elfa Vorable"
       ]
     },
     {
@@ -3866,6 +4167,7 @@
       "calidad": "common",
       "personajes": [
         "Dum Bo",
+        "Elfa Vorable",
         "Finn Felagund",
         "Kadeharz Apsus",
         "Nimassus Pater",
@@ -3878,6 +4180,7 @@
       "calidad": "common",
       "personajes": [
         "Dum Bo",
+        "Elfa Vorable",
         "Finn Felagund",
         "Kadeharz Apsus",
         "Nimassus Pater",
@@ -3891,6 +4194,7 @@
       "profesion": "Encantamiento",
       "calidad": "common",
       "personajes": [
+        "Elfa Vorable",
         "Finn Felagund"
       ]
     },
@@ -3916,7 +4220,8 @@
       "profesion": "Encantamiento",
       "calidad": "common",
       "personajes": [
-        "Finn Felagund"
+        "Finn Felagund",
+        "Sr Byron"
       ]
     },
     {
@@ -3958,7 +4263,9 @@
       "calidad": "common",
       "personajes": [
         "Dum Bo",
-        "Finn Felagund"
+        "Elfa Vorable",
+        "Finn Felagund",
+        "Sr Byron"
       ]
     },
     {
@@ -3966,7 +4273,9 @@
       "profesion": "Encantamiento",
       "calidad": "common",
       "personajes": [
-        "Finn Felagund"
+        "Elfa Vorable",
+        "Finn Felagund",
+        "Sr Byron"
       ]
     },
     {
@@ -3975,10 +4284,12 @@
       "calidad": "common",
       "personajes": [
         "Dum Bo",
+        "Elfa Vorable",
         "Finn Felagund",
         "Kadeharz Apsus",
         "Nimassus Pater",
-        "Saint Peligroxa"
+        "Saint Peligroxa",
+        "Sr Byron"
       ]
     },
     {
@@ -3986,7 +4297,9 @@
       "profesion": "Encantamiento",
       "calidad": "common",
       "personajes": [
-        "Finn Felagund"
+        "Elfa Vorable",
+        "Finn Felagund",
+        "Sr Byron"
       ]
     },
     {
@@ -4019,7 +4332,9 @@
       "calidad": "common",
       "personajes": [
         "Dum Bo",
-        "Finn Felagund"
+        "Elfa Vorable",
+        "Finn Felagund",
+        "Sr Byron"
       ]
     },
     {
@@ -4036,9 +4351,11 @@
       "calidad": "common",
       "personajes": [
         "Dum Bo",
+        "Elfa Vorable",
         "Finn Felagund",
         "Nimassus Pater",
-        "Saint Peligroxa"
+        "Saint Peligroxa",
+        "Sr Byron"
       ]
     },
     {
@@ -4054,7 +4371,9 @@
       "profesion": "Encantamiento",
       "calidad": "common",
       "personajes": [
-        "Finn Felagund"
+        "Elfa Vorable",
+        "Finn Felagund",
+        "Sr Byron"
       ]
     },
     {
@@ -4071,6 +4390,7 @@
       "calidad": "common",
       "personajes": [
         "Dum Bo",
+        "Elfa Vorable",
         "Finn Felagund",
         "Kadeharz Apsus",
         "Micro Bolas",
@@ -4095,6 +4415,7 @@
       "calidad": "uncommon",
       "personajes": [
         "Dum Bo",
+        "Elfa Vorable",
         "Finn Felagund",
         "Kadeharz Apsus",
         "Micro Bolas",
@@ -4108,7 +4429,9 @@
       "profesion": "Encantamiento",
       "calidad": "uncommon",
       "personajes": [
-        "Finn Felagund"
+        "Elfa Vorable",
+        "Finn Felagund",
+        "Sr Byron"
       ]
     },
     {
@@ -4117,6 +4440,7 @@
       "calidad": "uncommon",
       "personajes": [
         "Dum Bo",
+        "Elfa Vorable",
         "Finn Felagund",
         "Kadeharz Apsus",
         "Micro Bolas",
@@ -4133,7 +4457,9 @@
       "profesion": "Encantamiento",
       "calidad": "uncommon",
       "personajes": [
-        "Finn Felagund"
+        "Elfa Vorable",
+        "Finn Felagund",
+        "Sr Byron"
       ]
     },
     {
@@ -4150,6 +4476,7 @@
       "calidad": "common",
       "personajes": [
         "Dum Bo",
+        "Elfa Vorable",
         "Finn Felagund"
       ]
     },
@@ -4159,6 +4486,7 @@
       "calidad": "common",
       "personajes": [
         "Dum Bo",
+        "Elfa Vorable",
         "Finn Felagund",
         "Kadeharz Apsus",
         "Thundrik Volgrim"
@@ -4170,6 +4498,7 @@
       "calidad": "common",
       "personajes": [
         "Dum Bo",
+        "Elfa Vorable",
         "Finn Felagund",
         "Kadeharz Apsus",
         "Micro Bolas",
@@ -4187,6 +4516,7 @@
       "calidad": "common",
       "personajes": [
         "Dum Bo",
+        "Elfa Vorable",
         "Finn Felagund",
         "Kadeharz Apsus",
         "Micro Bolas",
@@ -4204,7 +4534,9 @@
       "calidad": "common",
       "personajes": [
         "Dum Bo",
-        "Finn Felagund"
+        "Elfa Vorable",
+        "Finn Felagund",
+        "Sr Byron"
       ]
     },
     {
@@ -4213,11 +4545,13 @@
       "calidad": "common",
       "personajes": [
         "Dum Bo",
+        "Elfa Vorable",
         "Finn Felagund",
         "Kadeharz Apsus",
         "Micro Bolas",
         "Nimassus Pater",
-        "Saint Peligroxa"
+        "Saint Peligroxa",
+        "Sr Byron"
       ]
     },
     {
@@ -4225,7 +4559,9 @@
       "profesion": "Encantamiento",
       "calidad": "common",
       "personajes": [
-        "Finn Felagund"
+        "Elfa Vorable",
+        "Finn Felagund",
+        "Sr Byron"
       ]
     },
     {
@@ -4237,6 +4573,7 @@
         "Don Josechu",
         "Fran Furion",
         "Genethika Brisaveloz",
+        "Grimmjow Jaegerjakez",
         "Layrela Rondanit",
         "Sugar Papy"
       ]
@@ -4266,11 +4603,18 @@
       "profesion": "Herboristería",
       "calidad": "common",
       "personajes": [
+        "Grimmjow Jaegerjakez"
+      ]
+    },
+    {
+      "nombre": "Herbalism",
+      "profesion": "Herboristería",
+      "calidad": "common",
+      "personajes": [
         "Aynita Again",
         "Black Phanter",
         "Blind Minds",
         "Fitipaldi Sendaumbria",
-        "Grimmjow Jaegerjakez",
         "Takkaao Valengri",
         "Tanki Llo"
       ]
@@ -4284,7 +4628,6 @@
         "Black Phanter",
         "Blind Minds",
         "Fitipaldi Sendaumbria",
-        "Grimmjow Jaegerjakez",
         "Takkaao Valengri",
         "Tanki Llo"
       ]
@@ -4411,6 +4754,7 @@
       "calidad": "uncommon",
       "personajes": [
         "Coloso Tempestad",
+        "Farhan Ironbeard",
         "Hugo Forjaluz",
         "Khyoraku Shunsui",
         "Llamas Xx",
@@ -4917,6 +5261,14 @@
       ]
     },
     {
+      "nombre": "Iridescent Hammer",
+      "profesion": "Herrería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Llamas Xx"
+      ]
+    },
+    {
       "nombre": "Iron Buckle",
       "profesion": "Herrería",
       "calidad": "common",
@@ -5017,6 +5369,7 @@
       "personajes": [
         "Coloso Tempestad",
         "Espartaco Gladiador",
+        "Farhan Ironbeard",
         "Hugo Forjaluz",
         "Khyoraku Shunsui",
         "Llamas Xx",
@@ -5048,6 +5401,14 @@
     },
     {
       "nombre": "Prefect's Belt",
+      "profesion": "Herrería",
+      "calidad": "rare",
+      "personajes": [
+        "Coloso Tempestad"
+      ]
+    },
+    {
+      "nombre": "Prefect's Boots",
       "profesion": "Herrería",
       "calidad": "rare",
       "personajes": [
@@ -6148,6 +6509,7 @@
       "profesion": "Minería",
       "calidad": "common",
       "personajes": [
+        "Fifi Fififran",
         "Grimmjow Jaegerjakez",
         "Tanki Llo"
       ]
@@ -6209,6 +6571,7 @@
         "Espartaco Gladiador",
         "Españoleitor Españoleitor",
         "Farhan Ironbeard",
+        "Fifi Fififran",
         "Flexita Shadowsoul",
         "Grimmjow Jaegerjakez",
         "Hugo Forjaluz",
@@ -6229,6 +6592,8 @@
       "personajes": [
         "Coloso Tempestad",
         "Cuzcu Aker",
+        "Espartaco Gladiador",
+        "Flexita Shadowsoul",
         "La Pety"
       ]
     },
@@ -6256,6 +6621,7 @@
       "personajes": [
         "Coloso Tempestad",
         "Cuzcu Aker",
+        "Espartaco Gladiador",
         "La Pety"
       ]
     },
@@ -6288,6 +6654,8 @@
       "personajes": [
         "Coloso Tempestad",
         "Cuzcu Aker",
+        "Espartaco Gladiador",
+        "Flexita Shadowsoul",
         "La Pety"
       ]
     },
@@ -6343,7 +6711,8 @@
         "Manelhon Gargon",
         "Memas Tour",
         "Palmira Natblida",
-        "Runa Ruina"
+        "Runa Ruina",
+        "Tankesito Khrih"
       ]
     },
     {
@@ -6355,6 +6724,7 @@
         "Memas Tour",
         "Palmira Natblida",
         "Runa Ruina",
+        "Tankesito Khrih",
         "Tom Kha"
       ]
     },
@@ -6380,7 +6750,8 @@
       "profesion": "Peletería",
       "calidad": "rare",
       "personajes": [
-        "Aurelio Amador"
+        "Aurelio Amador",
+        "Tankesito Khrih"
       ]
     },
     {
@@ -6388,7 +6759,8 @@
       "profesion": "Peletería",
       "calidad": "rare",
       "personajes": [
-        "Aurelio Amador"
+        "Aurelio Amador",
+        "Tankesito Khrih"
       ]
     },
     {
@@ -6424,6 +6796,7 @@
         "Nindalf Pizpireta",
         "Palmira Natblida",
         "Runa Ruina",
+        "Tankesito Khrih",
         "Tom Kha"
       ]
     },
@@ -6438,7 +6811,8 @@
         "Manelhon Gargon",
         "Memas Tour",
         "Palmira Natblida",
-        "Runa Ruina"
+        "Runa Ruina",
+        "Tankesito Khrih"
       ]
     },
     {
@@ -6456,6 +6830,7 @@
         "Nindalf Pizpireta",
         "Palmira Natblida",
         "Runa Ruina",
+        "Tankesito Khrih",
         "Tom Kha"
       ]
     },
@@ -6472,6 +6847,7 @@
         "Memas Tour",
         "Palmira Natblida",
         "Runa Ruina",
+        "Tankesito Khrih",
         "Tom Kha"
       ]
     },
@@ -6495,7 +6871,8 @@
         "Manelhon Gargon",
         "Memas Tour",
         "Palmira Natblida",
-        "Runa Ruina"
+        "Runa Ruina",
+        "Tankesito Khrih"
       ]
     },
     {
@@ -6511,6 +6888,7 @@
         "Memas Tour",
         "Palmira Natblida",
         "Runa Ruina",
+        "Tankesito Khrih",
         "Tom Kha"
       ]
     },
@@ -6524,6 +6902,7 @@
         "Manelhon Gargon",
         "Memas Tour",
         "Palmira Natblida",
+        "Tankesito Khrih",
         "Tom Kha"
       ]
     },
@@ -6547,6 +6926,7 @@
         "Memas Tour",
         "Palmira Natblida",
         "Runa Ruina",
+        "Tankesito Khrih",
         "Tom Kha"
       ]
     },
@@ -6558,6 +6938,22 @@
         "Diana Flechaveloz",
         "Ildaren Belisar",
         "Palmira Natblida"
+      ]
+    },
+    {
+      "nombre": "Defender's Leather Armor",
+      "profesion": "Peletería",
+      "calidad": "rare",
+      "personajes": [
+        "Tankesito Khrih"
+      ]
+    },
+    {
+      "nombre": "Defender's Leather Helm",
+      "profesion": "Peletería",
+      "calidad": "rare",
+      "personajes": [
+        "Tankesito Khrih"
       ]
     },
     {
@@ -6605,7 +7001,8 @@
       "personajes": [
         "Diana Flechaveloz",
         "Memas Tour",
-        "Palmira Natblida"
+        "Palmira Natblida",
+        "Tankesito Khrih"
       ]
     },
     {
@@ -6628,6 +7025,7 @@
         "Memas Tour",
         "Palmira Natblida",
         "Runa Ruina",
+        "Tankesito Khrih",
         "Tom Kha"
       ]
     },
@@ -6644,6 +7042,7 @@
         "Nindalf Pizpireta",
         "Palmira Natblida",
         "Runa Ruina",
+        "Tankesito Khrih",
         "Tom Kha"
       ]
     },
@@ -6661,6 +7060,7 @@
         "Nindalf Pizpireta",
         "Palmira Natblida",
         "Runa Ruina",
+        "Tankesito Khrih",
         "Tom Kha"
       ]
     },
@@ -6676,6 +7076,7 @@
         "Memas Tour",
         "Palmira Natblida",
         "Runa Ruina",
+        "Tankesito Khrih",
         "Tom Kha"
       ]
     },
@@ -6692,6 +7093,7 @@
         "Nindalf Pizpireta",
         "Palmira Natblida",
         "Runa Ruina",
+        "Tankesito Khrih",
         "Tom Kha"
       ]
     },
@@ -6707,6 +7109,7 @@
         "Manelhon Gargon",
         "Memas Tour",
         "Palmira Natblida",
+        "Tankesito Khrih",
         "Tom Kha"
       ]
     },
@@ -6730,6 +7133,7 @@
         "Manelhon Gargon",
         "Memas Tour",
         "Palmira Natblida",
+        "Tankesito Khrih",
         "Tom Kha"
       ]
     },
@@ -6752,6 +7156,7 @@
         "Manelhon Gargon",
         "Memas Tour",
         "Palmira Natblida",
+        "Tankesito Khrih",
         "Tom Kha"
       ]
     },
@@ -6763,7 +7168,8 @@
         "Diana Flechaveloz",
         "Edoras Duskranger",
         "Memas Tour",
-        "Palmira Natblida"
+        "Palmira Natblida",
+        "Tankesito Khrih"
       ]
     },
     {
@@ -6772,7 +7178,8 @@
       "calidad": "uncommon",
       "personajes": [
         "Edoras Duskranger",
-        "Memas Tour"
+        "Memas Tour",
+        "Tankesito Khrih"
       ]
     },
     {
@@ -6785,7 +7192,8 @@
         "Manelhon Gargon",
         "Memas Tour",
         "Palmira Natblida",
-        "Runa Ruina"
+        "Runa Ruina",
+        "Tankesito Khrih"
       ]
     },
     {
@@ -6794,7 +7202,8 @@
       "calidad": "uncommon",
       "personajes": [
         "Memas Tour",
-        "Palmira Natblida"
+        "Palmira Natblida",
+        "Tankesito Khrih"
       ]
     },
     {
@@ -6808,6 +7217,7 @@
         "Manelhon Gargon",
         "Memas Tour",
         "Palmira Natblida",
+        "Tankesito Khrih",
         "Tom Kha"
       ]
     },
@@ -6818,7 +7228,8 @@
       "personajes": [
         "Diana Flechaveloz",
         "Memas Tour",
-        "Palmira Natblida"
+        "Palmira Natblida",
+        "Tankesito Khrih"
       ]
     },
     {
@@ -6828,7 +7239,8 @@
       "personajes": [
         "Diana Flechaveloz",
         "Memas Tour",
-        "Palmira Natblida"
+        "Palmira Natblida",
+        "Tankesito Khrih"
       ]
     },
     {
@@ -6846,7 +7258,8 @@
       "personajes": [
         "Diana Flechaveloz",
         "Memas Tour",
-        "Palmira Natblida"
+        "Palmira Natblida",
+        "Tankesito Khrih"
       ]
     },
     {
@@ -6862,6 +7275,7 @@
         "Nindalf Pizpireta",
         "Palmira Natblida",
         "Runa Ruina",
+        "Tankesito Khrih",
         "Tom Kha"
       ]
     },
@@ -6880,6 +7294,7 @@
         "Nindalf Pizpireta",
         "Palmira Natblida",
         "Runa Ruina",
+        "Tankesito Khrih",
         "Tom Kha"
       ]
     },
@@ -6898,6 +7313,7 @@
         "Nindalf Pizpireta",
         "Palmira Natblida",
         "Runa Ruina",
+        "Tankesito Khrih",
         "Tom Kha"
       ]
     },
@@ -6916,6 +7332,7 @@
         "Nindalf Pizpireta",
         "Palmira Natblida",
         "Runa Ruina",
+        "Tankesito Khrih",
         "Tom Kha"
       ]
     },
@@ -6934,6 +7351,7 @@
         "Nindalf Pizpireta",
         "Palmira Natblida",
         "Runa Ruina",
+        "Tankesito Khrih",
         "Tom Kha"
       ]
     },
@@ -6952,6 +7370,7 @@
         "Nindalf Pizpireta",
         "Palmira Natblida",
         "Runa Ruina",
+        "Tankesito Khrih",
         "Tom Kha"
       ]
     },
@@ -6966,7 +7385,8 @@
         "Manelhon Gargon",
         "Memas Tour",
         "Palmira Natblida",
-        "Runa Ruina"
+        "Runa Ruina",
+        "Tankesito Khrih"
       ]
     },
     {
@@ -6980,7 +7400,8 @@
         "Manelhon Gargon",
         "Memas Tour",
         "Palmira Natblida",
-        "Runa Ruina"
+        "Runa Ruina",
+        "Tankesito Khrih"
       ]
     },
     {
@@ -6990,7 +7411,8 @@
       "personajes": [
         "Edoras Duskranger",
         "Memas Tour",
-        "Palmira Natblida"
+        "Palmira Natblida",
+        "Tankesito Khrih"
       ]
     },
     {
@@ -7009,7 +7431,8 @@
         "Diana Flechaveloz",
         "Edoras Duskranger",
         "Memas Tour",
-        "Palmira Natblida"
+        "Palmira Natblida",
+        "Tankesito Khrih"
       ]
     },
     {
@@ -7032,7 +7455,8 @@
         "Manelhon Gargon",
         "Memas Tour",
         "Palmira Natblida",
-        "Runa Ruina"
+        "Runa Ruina",
+        "Tankesito Khrih"
       ]
     },
     {
@@ -7045,7 +7469,8 @@
         "Edoras Duskranger",
         "Manelhon Gargon",
         "Memas Tour",
-        "Palmira Natblida"
+        "Palmira Natblida",
+        "Tankesito Khrih"
       ]
     },
     {
@@ -7066,7 +7491,8 @@
         "Ildaren Belisar",
         "Manelhon Gargon",
         "Memas Tour",
-        "Palmira Natblida"
+        "Palmira Natblida",
+        "Tankesito Khrih"
       ]
     },
     {
@@ -7084,6 +7510,7 @@
         "Nindalf Pizpireta",
         "Palmira Natblida",
         "Runa Ruina",
+        "Tankesito Khrih",
         "Tom Kha"
       ]
     },
@@ -7102,6 +7529,7 @@
         "Nindalf Pizpireta",
         "Palmira Natblida",
         "Runa Ruina",
+        "Tankesito Khrih",
         "Tom Kha"
       ]
     },
@@ -7117,6 +7545,7 @@
         "Memas Tour",
         "Palmira Natblida",
         "Runa Ruina",
+        "Tankesito Khrih",
         "Tom Kha"
       ]
     },
@@ -7133,6 +7562,7 @@
         "Memas Tour",
         "Palmira Natblida",
         "Runa Ruina",
+        "Tankesito Khrih",
         "Tom Kha"
       ]
     },
@@ -7148,6 +7578,7 @@
         "Nindalf Pizpireta",
         "Palmira Natblida",
         "Runa Ruina",
+        "Tankesito Khrih",
         "Tom Kha"
       ]
     },
@@ -7158,7 +7589,8 @@
       "personajes": [
         "Edoras Duskranger",
         "Ildaren Belisar",
-        "Memas Tour"
+        "Memas Tour",
+        "Tankesito Khrih"
       ]
     },
     {
@@ -7173,6 +7605,7 @@
         "Memas Tour",
         "Palmira Natblida",
         "Runa Ruina",
+        "Tankesito Khrih",
         "Tom Kha"
       ]
     },
@@ -7189,6 +7622,7 @@
         "Memas Tour",
         "Palmira Natblida",
         "Runa Ruina",
+        "Tankesito Khrih",
         "Tom Kha"
       ]
     },
@@ -7199,7 +7633,8 @@
       "personajes": [
         "Memas Tour",
         "Palmira Natblida",
-        "Runa Ruina"
+        "Runa Ruina",
+        "Tankesito Khrih"
       ]
     },
     {
@@ -7211,6 +7646,7 @@
         "Memas Tour",
         "Palmira Natblida",
         "Runa Ruina",
+        "Tankesito Khrih",
         "Tom Kha"
       ]
     },
@@ -7220,7 +7656,8 @@
       "calidad": "uncommon",
       "personajes": [
         "Edoras Duskranger",
-        "Manelhon Gargon"
+        "Manelhon Gargon",
+        "Tankesito Khrih"
       ]
     },
     {
@@ -7257,6 +7694,7 @@
         "Memas Tour",
         "Palmira Natblida",
         "Runa Ruina",
+        "Tankesito Khrih",
         "Tom Kha"
       ]
     },
@@ -7266,7 +7704,8 @@
       "calidad": "uncommon",
       "personajes": [
         "Edoras Duskranger",
-        "Memas Tour"
+        "Memas Tour",
+        "Tankesito Khrih"
       ]
     },
     {
@@ -7278,7 +7717,8 @@
         "Manelhon Gargon",
         "Memas Tour",
         "Palmira Natblida",
-        "Runa Ruina"
+        "Runa Ruina",
+        "Tankesito Khrih"
       ]
     },
     {
@@ -7306,7 +7746,8 @@
         "Edoras Duskranger",
         "Manelhon Gargon",
         "Memas Tour",
-        "Palmira Natblida"
+        "Palmira Natblida",
+        "Tankesito Khrih"
       ]
     },
     {
@@ -7325,7 +7766,8 @@
       "personajes": [
         "Manelhon Gargon",
         "Memas Tour",
-        "Palmira Natblida"
+        "Palmira Natblida",
+        "Tankesito Khrih"
       ]
     },
     {
@@ -7344,7 +7786,8 @@
       "personajes": [
         "Manelhon Gargon",
         "Memas Tour",
-        "Palmira Natblida"
+        "Palmira Natblida",
+        "Tankesito Khrih"
       ]
     },
     {
@@ -7355,7 +7798,8 @@
         "Aurelio Amador",
         "Diana Flechaveloz",
         "Memas Tour",
-        "Palmira Natblida"
+        "Palmira Natblida",
+        "Tankesito Khrih"
       ]
     },
     {
@@ -7364,7 +7808,8 @@
       "calidad": "rare",
       "personajes": [
         "Memas Tour",
-        "Palmira Natblida"
+        "Palmira Natblida",
+        "Tankesito Khrih"
       ]
     },
     {
@@ -7380,6 +7825,7 @@
         "Nindalf Pizpireta",
         "Palmira Natblida",
         "Runa Ruina",
+        "Tankesito Khrih",
         "Tom Kha"
       ]
     },
@@ -7389,7 +7835,8 @@
       "calidad": "rare",
       "personajes": [
         "Memas Tour",
-        "Palmira Natblida"
+        "Palmira Natblida",
+        "Tankesito Khrih"
       ]
     },
     {
@@ -7397,7 +7844,8 @@
       "profesion": "Peletería",
       "calidad": "rare",
       "personajes": [
-        "Palmira Natblida"
+        "Palmira Natblida",
+        "Tankesito Khrih"
       ]
     },
     {
@@ -7422,7 +7870,16 @@
       "calidad": "uncommon",
       "personajes": [
         "Diana Flechaveloz",
-        "Manelhon Gargon"
+        "Manelhon Gargon",
+        "Tankesito Khrih"
+      ]
+    },
+    {
+      "nombre": "Totemic Leather Armor",
+      "profesion": "Peletería",
+      "calidad": "rare",
+      "personajes": [
+        "Tankesito Khrih"
       ]
     },
     {
@@ -7442,7 +7899,8 @@
         "Edoras Duskranger",
         "Manelhon Gargon",
         "Memas Tour",
-        "Palmira Natblida"
+        "Palmira Natblida",
+        "Tankesito Khrih"
       ]
     },
     {
@@ -7455,7 +7913,8 @@
         "Edoras Duskranger",
         "Manelhon Gargon",
         "Memas Tour",
-        "Palmira Natblida"
+        "Palmira Natblida",
+        "Tankesito Khrih"
       ]
     },
     {
@@ -7482,7 +7941,8 @@
       "calidad": "rare",
       "personajes": [
         "Memas Tour",
-        "Palmira Natblida"
+        "Palmira Natblida",
+        "Tankesito Khrih"
       ]
     },
     {
@@ -7511,6 +7971,7 @@
         "Diana Flechaveloz",
         "Dum Bo",
         "Edoras Duskranger",
+        "Elfa Vorable",
         "Espartaco Gladiador",
         "Finn Felagund",
         "Flexita Shadowsoul",
@@ -7529,6 +7990,7 @@
         "Samael Thallanor",
         "Sr Byron",
         "Sugar Papy",
+        "Tankesito Khrih",
         "Tharindel Magnaluz",
         "Tom Kha",
         "Vaporeta Pizpireta"
@@ -7548,12 +8010,14 @@
         "Grimmjow Jaegerjakez",
         "Hugo Forjaluz",
         "Ildaren Belisar",
+        "Joaquin Bollos",
         "Jonaver Legends",
         "La Pety",
         "Llamas Xx",
         "Nimassus Pater",
         "Nindalf Pizpireta",
         "Saint Peligroxa",
+        "Señor Ollivander",
         "Sr Byron",
         "Thundrik Volgrim",
         "Vaporeta Pizpireta"
@@ -7564,6 +8028,7 @@
       "profesion": "Pesca",
       "calidad": "common",
       "personajes": [
+        "Elfa Vorable",
         "Espartaco Gladiador",
         "Finn Felagund",
         "Memas Tour",
@@ -7585,6 +8050,7 @@
         "Palmira Natblida",
         "Samael Thallanor",
         "Sugar Papy",
+        "Tankesito Khrih",
         "Tharindel Magnaluz",
         "Tom Kha"
       ]
@@ -7622,7 +8088,9 @@
         "Mosu Warryn",
         "Palmira Natblida",
         "Runa Ruina",
+        "Señor Ollivander",
         "Sugar Papy",
+        "Tankesito Khrih",
         "Tharindel Magnaluz"
       ]
     },
@@ -7670,9 +8138,11 @@
         "Palmira Natblida",
         "Runa Ruina",
         "Samael Thallanor",
+        "Señor Ollivander",
         "Sr Byron",
         "Sugar Papy",
         "Takkaao Valengri",
+        "Tankesito Khrih",
         "Tharindel Magnaluz",
         "Vaporeta Pizpireta"
       ]
@@ -7699,7 +8169,9 @@
         "Mosu Warryn",
         "Palmira Natblida",
         "Runa Ruina",
-        "Sugar Papy"
+        "Señor Ollivander",
+        "Sugar Papy",
+        "Tankesito Khrih"
       ]
     },
     {
@@ -7734,7 +8206,9 @@
         "Nindalf Pizpireta",
         "Palmira Natblida",
         "Runa Ruina",
+        "Señor Ollivander",
         "Sugar Papy",
+        "Tankesito Khrih",
         "Tharindel Magnaluz"
       ]
     },
@@ -7777,7 +8251,8 @@
         "Mosu Warryn",
         "Palmira Natblida",
         "Runa Ruina",
-        "Sugar Papy"
+        "Sugar Papy",
+        "Tankesito Khrih"
       ]
     },
     {
@@ -7818,7 +8293,9 @@
         "Palmira Natblida",
         "Runa Ruina",
         "Samael Thallanor",
+        "Señor Ollivander",
         "Sugar Papy",
+        "Tankesito Khrih",
         "Tharindel Magnaluz"
       ]
     },
@@ -7861,9 +8338,11 @@
         "Runa Ruina",
         "Saint Peligroxa",
         "Samael Thallanor",
+        "Señor Ollivander",
         "Sr Byron",
         "Sugar Papy",
         "Takkaao Valengri",
+        "Tankesito Khrih",
         "Tharindel Magnaluz",
         "Thundrik Volgrim",
         "Vaporeta Pizpireta"
@@ -7877,7 +8356,8 @@
         "Coloso Tempestad",
         "Espartaco Gladiador",
         "Flexita Shadowsoul",
-        "La Pety"
+        "La Pety",
+        "Palmira Natblida"
       ]
     },
     {
@@ -7915,9 +8395,11 @@
         "Palmira Natblida",
         "Runa Ruina",
         "Samael Thallanor",
+        "Señor Ollivander",
         "Sr Byron",
         "Sugar Papy",
         "Takkaao Valengri",
+        "Tankesito Khrih",
         "Tharindel Magnaluz",
         "Thundrik Volgrim"
       ]
@@ -7970,7 +8452,9 @@
         "Mosu Warryn",
         "Palmira Natblida",
         "Runa Ruina",
-        "Sugar Papy"
+        "Señor Ollivander",
+        "Sugar Papy",
+        "Tankesito Khrih"
       ]
     },
     {
@@ -8016,7 +8500,9 @@
         "Mosu Warryn",
         "Palmira Natblida",
         "Runa Ruina",
+        "Señor Ollivander",
         "Sugar Papy",
+        "Tankesito Khrih",
         "Tharindel Magnaluz"
       ]
     },
@@ -8053,6 +8539,7 @@
       "calidad": "uncommon",
       "personajes": [
         "Dum Bo",
+        "Elfa Vorable",
         "Finn Felagund",
         "Rhyomen Sukuna",
         "Sr Byron"
@@ -8064,9 +8551,13 @@
       "calidad": "uncommon",
       "personajes": [
         "Dum Bo",
+        "Elfa Vorable",
         "Finn Felagund",
         "Kadeharz Apsus",
+        "Micro Bolas",
+        "Nimassus Pater",
         "Rhyomen Sukuna",
+        "Señor Ollivander",
         "Sr Byron"
       ]
     },
@@ -8076,8 +8567,11 @@
       "calidad": "uncommon",
       "personajes": [
         "Dum Bo",
+        "Elfa Vorable",
         "Finn Felagund",
+        "Nimassus Pater",
         "Rhyomen Sukuna",
+        "Señor Ollivander",
         "Sr Byron"
       ]
     },
@@ -8087,7 +8581,10 @@
       "calidad": "uncommon",
       "personajes": [
         "Dum Bo",
+        "Elfa Vorable",
         "Finn Felagund",
+        "Kadeharz Apsus",
+        "Nimassus Pater",
         "Rhyomen Sukuna",
         "Sr Byron"
       ]
@@ -8099,9 +8596,12 @@
       "personajes": [
         "Blind Minds",
         "Dum Bo",
+        "Elfa Vorable",
         "Finn Felagund",
+        "Nimassus Pater",
         "Rhyomen Sukuna",
         "Saint Peligroxa",
+        "Señor Ollivander",
         "Sr Byron",
         "Vaporeta Pizpireta"
       ]
@@ -8148,6 +8648,7 @@
       "calidad": "rare",
       "personajes": [
         "Dum Bo",
+        "Elfa Vorable",
         "Finn Felagund",
         "Sr Byron"
       ]
@@ -8166,10 +8667,12 @@
       "calidad": "common",
       "personajes": [
         "Dum Bo",
+        "Elfa Vorable",
         "Finn Felagund",
         "Kadeharz Apsus",
         "Rhyomen Sukuna",
         "Saint Peligroxa",
+        "Señor Ollivander",
         "Sr Byron",
         "Vaporeta Pizpireta"
       ]
@@ -8189,6 +8692,7 @@
       "calidad": "uncommon",
       "personajes": [
         "Dum Bo",
+        "Elfa Vorable",
         "Finn Felagund"
       ]
     },
@@ -8200,12 +8704,15 @@
         "Aynita Again",
         "Blind Minds",
         "Dum Bo",
+        "Elfa Vorable",
         "Finn Felagund",
+        "Joaquin Bollos",
         "Kadeharz Apsus",
         "Micro Bolas",
         "Nimassus Pater",
         "Rhyomen Sukuna",
         "Saint Peligroxa",
+        "Señor Ollivander",
         "Sr Byron",
         "Thundrik Volgrim",
         "Vaporeta Pizpireta"
@@ -8217,8 +8724,10 @@
       "calidad": "common",
       "personajes": [
         "Dum Bo",
+        "Elfa Vorable",
         "Finn Felagund",
         "Rhyomen Sukuna",
+        "Señor Ollivander",
         "Sr Byron"
       ]
     },
@@ -8228,12 +8737,14 @@
       "calidad": "common",
       "personajes": [
         "Dum Bo",
+        "Elfa Vorable",
         "Finn Felagund",
         "Kadeharz Apsus",
         "Micro Bolas",
         "Nimassus Pater",
         "Rhyomen Sukuna",
         "Saint Peligroxa",
+        "Señor Ollivander",
         "Sr Byron"
       ]
     },
@@ -8243,14 +8754,24 @@
       "calidad": "common",
       "personajes": [
         "Dum Bo",
+        "Elfa Vorable",
         "Finn Felagund",
         "Kadeharz Apsus",
         "Micro Bolas",
         "Nimassus Pater",
         "Rhyomen Sukuna",
         "Saint Peligroxa",
+        "Señor Ollivander",
         "Sr Byron",
         "Vaporeta Pizpireta"
+      ]
+    },
+    {
+      "nombre": "Boots of the Enchanter",
+      "profesion": "Sastrería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Señor Ollivander"
       ]
     },
     {
@@ -8260,10 +8781,12 @@
       "personajes": [
         "Blind Minds",
         "Dum Bo",
+        "Elfa Vorable",
         "Finn Felagund",
         "Kadeharz Apsus",
         "Rhyomen Sukuna",
         "Saint Peligroxa",
+        "Señor Ollivander",
         "Sr Byron",
         "Vaporeta Pizpireta"
       ]
@@ -8275,10 +8798,12 @@
       "personajes": [
         "Blind Minds",
         "Dum Bo",
+        "Elfa Vorable",
         "Finn Felagund",
         "Kadeharz Apsus",
         "Rhyomen Sukuna",
         "Saint Peligroxa",
+        "Señor Ollivander",
         "Sr Byron",
         "Vaporeta Pizpireta"
       ]
@@ -8291,12 +8816,15 @@
         "Aynita Again",
         "Blind Minds",
         "Dum Bo",
+        "Elfa Vorable",
         "Finn Felagund",
+        "Joaquin Bollos",
         "Kadeharz Apsus",
         "Micro Bolas",
         "Nimassus Pater",
         "Rhyomen Sukuna",
         "Saint Peligroxa",
+        "Señor Ollivander",
         "Sr Byron",
         "Thundrik Volgrim",
         "Vaporeta Pizpireta"
@@ -8308,10 +8836,12 @@
       "calidad": "common",
       "personajes": [
         "Dum Bo",
+        "Elfa Vorable",
         "Finn Felagund",
         "Kadeharz Apsus",
         "Rhyomen Sukuna",
         "Saint Peligroxa",
+        "Señor Ollivander",
         "Sr Byron",
         "Vaporeta Pizpireta"
       ]
@@ -8332,7 +8862,8 @@
       "personajes": [
         "Dum Bo",
         "Finn Felagund",
-        "Nimassus Pater"
+        "Nimassus Pater",
+        "Sr Byron"
       ]
     },
     {
@@ -8341,7 +8872,9 @@
       "calidad": "uncommon",
       "personajes": [
         "Dum Bo",
+        "Elfa Vorable",
         "Finn Felagund",
+        "Micro Bolas",
         "Rhyomen Sukuna",
         "Sr Byron"
       ]
@@ -8387,7 +8920,9 @@
       "calidad": "uncommon",
       "personajes": [
         "Dum Bo",
+        "Elfa Vorable",
         "Finn Felagund",
+        "Señor Ollivander",
         "Sr Byron"
       ]
     },
@@ -8397,11 +8932,13 @@
       "calidad": "uncommon",
       "personajes": [
         "Dum Bo",
+        "Elfa Vorable",
         "Finn Felagund",
         "Micro Bolas",
         "Nimassus Pater",
         "Rhyomen Sukuna",
         "Saint Peligroxa",
+        "Señor Ollivander",
         "Sr Byron"
       ]
     },
@@ -8437,8 +8974,10 @@
       "calidad": "uncommon",
       "personajes": [
         "Dum Bo",
+        "Elfa Vorable",
         "Finn Felagund",
         "Rhyomen Sukuna",
+        "Señor Ollivander",
         "Sr Byron"
       ]
     },
@@ -8457,12 +8996,14 @@
       "personajes": [
         "Blind Minds",
         "Dum Bo",
+        "Elfa Vorable",
         "Finn Felagund",
         "Kadeharz Apsus",
         "Micro Bolas",
         "Nimassus Pater",
         "Rhyomen Sukuna",
         "Saint Peligroxa",
+        "Señor Ollivander",
         "Sr Byron",
         "Vaporeta Pizpireta"
       ]
@@ -8473,6 +9014,7 @@
       "calidad": "rare",
       "personajes": [
         "Dum Bo",
+        "Elfa Vorable",
         "Sr Byron"
       ]
     },
@@ -8508,6 +9050,15 @@
       "calidad": "rare",
       "personajes": [
         "Sr Byron"
+      ]
+    },
+    {
+      "nombre": "Filigreed Pristine Circlet",
+      "profesion": "Sastrería",
+      "calidad": "rare",
+      "personajes": [
+        "Elfa Vorable",
+        "Nimassus Pater"
       ]
     },
     {
@@ -8557,7 +9108,9 @@
       "calidad": "common",
       "personajes": [
         "Dum Bo",
+        "Elfa Vorable",
         "Finn Felagund",
+        "Micro Bolas",
         "Rhyomen Sukuna",
         "Sr Byron"
       ]
@@ -8577,6 +9130,7 @@
       "calidad": "rare",
       "personajes": [
         "Dum Bo",
+        "Elfa Vorable",
         "Sr Byron"
       ]
     },
@@ -8594,6 +9148,7 @@
       "calidad": "rare",
       "personajes": [
         "Dum Bo",
+        "Elfa Vorable",
         "Finn Felagund",
         "Sr Byron"
       ]
@@ -8604,9 +9159,13 @@
       "calidad": "uncommon",
       "personajes": [
         "Dum Bo",
+        "Elfa Vorable",
         "Finn Felagund",
+        "Kadeharz Apsus",
+        "Nimassus Pater",
         "Rhyomen Sukuna",
         "Saint Peligroxa",
+        "Señor Ollivander",
         "Sr Byron"
       ]
     },
@@ -8616,6 +9175,7 @@
       "calidad": "rare",
       "personajes": [
         "Dum Bo",
+        "Elfa Vorable",
         "Sr Byron"
       ]
     },
@@ -8633,9 +9193,11 @@
       "calidad": "common",
       "personajes": [
         "Dum Bo",
+        "Elfa Vorable",
         "Finn Felagund",
         "Rhyomen Sukuna",
         "Saint Peligroxa",
+        "Señor Ollivander",
         "Sr Byron"
       ]
     },
@@ -8656,11 +9218,13 @@
       "personajes": [
         "Blind Minds",
         "Dum Bo",
+        "Elfa Vorable",
         "Finn Felagund",
         "Kadeharz Apsus",
         "Nimassus Pater",
         "Rhyomen Sukuna",
         "Saint Peligroxa",
+        "Señor Ollivander",
         "Sr Byron",
         "Vaporeta Pizpireta"
       ]
@@ -8671,9 +9235,11 @@
       "calidad": "common",
       "personajes": [
         "Dum Bo",
+        "Elfa Vorable",
         "Finn Felagund",
         "Rhyomen Sukuna",
         "Saint Peligroxa",
+        "Señor Ollivander",
         "Sr Byron",
         "Vaporeta Pizpireta"
       ]
@@ -8700,6 +9266,7 @@
       "calidad": "uncommon",
       "personajes": [
         "Dum Bo",
+        "Elfa Vorable",
         "Finn Felagund",
         "Sr Byron"
       ]
@@ -8722,10 +9289,12 @@
       "calidad": "uncommon",
       "personajes": [
         "Dum Bo",
+        "Elfa Vorable",
         "Finn Felagund",
         "Micro Bolas",
         "Rhyomen Sukuna",
         "Saint Peligroxa",
+        "Señor Ollivander",
         "Sr Byron"
       ]
     },
@@ -8743,11 +9312,13 @@
       "calidad": "uncommon",
       "personajes": [
         "Dum Bo",
+        "Elfa Vorable",
         "Finn Felagund",
         "Kadeharz Apsus",
         "Nimassus Pater",
         "Rhyomen Sukuna",
         "Saint Peligroxa",
+        "Señor Ollivander",
         "Sr Byron",
         "Vaporeta Pizpireta"
       ]
@@ -8759,11 +9330,13 @@
       "personajes": [
         "Blind Minds",
         "Dum Bo",
+        "Elfa Vorable",
         "Finn Felagund",
         "Kadeharz Apsus",
         "Nimassus Pater",
         "Rhyomen Sukuna",
         "Saint Peligroxa",
+        "Señor Ollivander",
         "Sr Byron",
         "Thundrik Volgrim",
         "Vaporeta Pizpireta"
@@ -8784,11 +9357,13 @@
       "calidad": "uncommon",
       "personajes": [
         "Dum Bo",
+        "Elfa Vorable",
         "Finn Felagund",
         "Kadeharz Apsus",
         "Micro Bolas",
         "Rhyomen Sukuna",
         "Saint Peligroxa",
+        "Señor Ollivander",
         "Sr Byron"
       ]
     },
@@ -8798,11 +9373,21 @@
       "calidad": "uncommon",
       "personajes": [
         "Dum Bo",
+        "Elfa Vorable",
         "Finn Felagund",
         "Nimassus Pater",
         "Rhyomen Sukuna",
         "Saint Peligroxa",
+        "Señor Ollivander",
         "Sr Byron"
+      ]
+    },
+    {
+      "nombre": "Invoker's Cord",
+      "profesion": "Sastrería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Señor Ollivander"
       ]
     },
     {
@@ -8811,11 +9396,14 @@
       "calidad": "uncommon",
       "personajes": [
         "Dum Bo",
+        "Elfa Vorable",
         "Finn Felagund",
         "Kadeharz Apsus",
         "Micro Bolas",
+        "Nimassus Pater",
         "Rhyomen Sukuna",
         "Saint Peligroxa",
+        "Señor Ollivander",
         "Sr Byron"
       ]
     },
@@ -8827,12 +9415,15 @@
         "Aynita Again",
         "Blind Minds",
         "Dum Bo",
+        "Elfa Vorable",
         "Finn Felagund",
+        "Joaquin Bollos",
         "Kadeharz Apsus",
         "Micro Bolas",
         "Nimassus Pater",
         "Rhyomen Sukuna",
         "Saint Peligroxa",
+        "Señor Ollivander",
         "Sr Byron",
         "Thundrik Volgrim",
         "Vaporeta Pizpireta"
@@ -8845,11 +9436,13 @@
       "personajes": [
         "Blind Minds",
         "Dum Bo",
+        "Elfa Vorable",
         "Finn Felagund",
         "Kadeharz Apsus",
         "Micro Bolas",
         "Rhyomen Sukuna",
         "Saint Peligroxa",
+        "Señor Ollivander",
         "Sr Byron",
         "Vaporeta Pizpireta"
       ]
@@ -8861,10 +9454,12 @@
       "personajes": [
         "Blind Minds",
         "Dum Bo",
+        "Elfa Vorable",
         "Finn Felagund",
         "Nimassus Pater",
         "Rhyomen Sukuna",
         "Saint Peligroxa",
+        "Señor Ollivander",
         "Sr Byron",
         "Vaporeta Pizpireta"
       ]
@@ -8877,12 +9472,15 @@
         "Aynita Again",
         "Blind Minds",
         "Dum Bo",
+        "Elfa Vorable",
         "Finn Felagund",
+        "Joaquin Bollos",
         "Kadeharz Apsus",
         "Micro Bolas",
         "Nimassus Pater",
         "Rhyomen Sukuna",
         "Saint Peligroxa",
+        "Señor Ollivander",
         "Sr Byron",
         "Thundrik Volgrim",
         "Vaporeta Pizpireta"
@@ -8895,6 +9493,7 @@
       "personajes": [
         "Blind Minds",
         "Dum Bo",
+        "Elfa Vorable",
         "Finn Felagund",
         "Kadeharz Apsus",
         "Micro Bolas",
@@ -8909,6 +9508,7 @@
       "calidad": "uncommon",
       "personajes": [
         "Dum Bo",
+        "Elfa Vorable",
         "Finn Felagund",
         "Sr Byron"
       ]
@@ -8929,11 +9529,13 @@
       "personajes": [
         "Blind Minds",
         "Dum Bo",
+        "Elfa Vorable",
         "Finn Felagund",
         "Kadeharz Apsus",
         "Micro Bolas",
         "Rhyomen Sukuna",
         "Saint Peligroxa",
+        "Señor Ollivander",
         "Sr Byron",
         "Thundrik Volgrim",
         "Vaporeta Pizpireta"
@@ -8945,11 +9547,13 @@
       "calidad": "rare",
       "personajes": [
         "Dum Bo",
+        "Elfa Vorable",
         "Finn Felagund",
         "Kadeharz Apsus",
         "Nimassus Pater",
         "Rhyomen Sukuna",
         "Saint Peligroxa",
+        "Señor Ollivander",
         "Sr Byron",
         "Thundrik Volgrim",
         "Vaporeta Pizpireta"
@@ -8970,9 +9574,11 @@
       "calidad": "uncommon",
       "personajes": [
         "Dum Bo",
+        "Elfa Vorable",
         "Finn Felagund",
         "Micro Bolas",
         "Rhyomen Sukuna",
+        "Señor Ollivander",
         "Sr Byron"
       ]
     },
@@ -8982,6 +9588,7 @@
       "calidad": "uncommon",
       "personajes": [
         "Dum Bo",
+        "Nimassus Pater",
         "Sr Byron"
       ]
     },
@@ -9007,6 +9614,7 @@
       "calidad": "rare",
       "personajes": [
         "Dum Bo",
+        "Elfa Vorable",
         "Finn Felagund",
         "Sr Byron"
       ]
@@ -9017,6 +9625,7 @@
       "calidad": "common",
       "personajes": [
         "Dum Bo",
+        "Elfa Vorable",
         "Kadeharz Apsus",
         "Nimassus Pater",
         "Rhyomen Sukuna"
@@ -9037,10 +9646,12 @@
       "calidad": "common",
       "personajes": [
         "Dum Bo",
+        "Elfa Vorable",
         "Finn Felagund",
         "Kadeharz Apsus",
         "Rhyomen Sukuna",
         "Saint Peligroxa",
+        "Señor Ollivander",
         "Sr Byron",
         "Vaporeta Pizpireta"
       ]
@@ -9076,6 +9687,7 @@
       "calidad": "common",
       "personajes": [
         "Dum Bo",
+        "Elfa Vorable",
         "Finn Felagund",
         "Rhyomen Sukuna",
         "Sr Byron"
@@ -9087,6 +9699,7 @@
       "calidad": "common",
       "personajes": [
         "Dum Bo",
+        "Elfa Vorable",
         "Finn Felagund",
         "Kadeharz Apsus",
         "Nimassus Pater"
@@ -9109,11 +9722,13 @@
       "personajes": [
         "Blind Minds",
         "Dum Bo",
+        "Elfa Vorable",
         "Finn Felagund",
         "Kadeharz Apsus",
         "Nimassus Pater",
         "Rhyomen Sukuna",
         "Saint Peligroxa",
+        "Señor Ollivander",
         "Sr Byron",
         "Thundrik Volgrim",
         "Vaporeta Pizpireta"
@@ -9125,7 +9740,8 @@
       "calidad": "uncommon",
       "personajes": [
         "Dum Bo",
-        "Saint Peligroxa"
+        "Saint Peligroxa",
+        "Señor Ollivander"
       ]
     },
     {
@@ -9156,11 +9772,28 @@
       ]
     },
     {
+      "nombre": "Shadow Gown",
+      "profesion": "Sastrería",
+      "calidad": "rare",
+      "personajes": [
+        "Micro Bolas"
+      ]
+    },
+    {
+      "nombre": "Shadow Leggings",
+      "profesion": "Sastrería",
+      "calidad": "rare",
+      "personajes": [
+        "Micro Bolas"
+      ]
+    },
+    {
       "nombre": "Silk Headband",
       "profesion": "Sastrería",
       "calidad": "uncommon",
       "personajes": [
         "Dum Bo",
+        "Elfa Vorable",
         "Finn Felagund",
         "Rhyomen Sukuna",
         "Sr Byron"
@@ -9172,10 +9805,12 @@
       "calidad": "common",
       "personajes": [
         "Dum Bo",
+        "Elfa Vorable",
         "Finn Felagund",
         "Kadeharz Apsus",
         "Rhyomen Sukuna",
         "Saint Peligroxa",
+        "Señor Ollivander",
         "Sr Byron",
         "Vaporeta Pizpireta"
       ]
@@ -9186,10 +9821,12 @@
       "calidad": "uncommon",
       "personajes": [
         "Dum Bo",
+        "Elfa Vorable",
         "Finn Felagund",
         "Nimassus Pater",
         "Rhyomen Sukuna",
         "Saint Peligroxa",
+        "Señor Ollivander",
         "Sr Byron",
         "Vaporeta Pizpireta"
       ]
@@ -9200,10 +9837,12 @@
       "calidad": "common",
       "personajes": [
         "Dum Bo",
+        "Elfa Vorable",
         "Finn Felagund",
         "Kadeharz Apsus",
         "Rhyomen Sukuna",
         "Saint Peligroxa",
+        "Señor Ollivander",
         "Sr Byron",
         "Vaporeta Pizpireta"
       ]
@@ -9216,12 +9855,15 @@
         "Aynita Again",
         "Blind Minds",
         "Dum Bo",
+        "Elfa Vorable",
         "Finn Felagund",
+        "Joaquin Bollos",
         "Kadeharz Apsus",
         "Micro Bolas",
         "Nimassus Pater",
         "Rhyomen Sukuna",
         "Saint Peligroxa",
+        "Señor Ollivander",
         "Sr Byron",
         "Thundrik Volgrim",
         "Vaporeta Pizpireta"
@@ -9233,9 +9875,12 @@
       "calidad": "common",
       "personajes": [
         "Dum Bo",
+        "Elfa Vorable",
         "Finn Felagund",
         "Kadeharz Apsus",
+        "Nimassus Pater",
         "Rhyomen Sukuna",
+        "Señor Ollivander",
         "Sr Byron"
       ]
     },
@@ -9245,8 +9890,10 @@
       "calidad": "uncommon",
       "personajes": [
         "Dum Bo",
+        "Elfa Vorable",
         "Finn Felagund",
         "Rhyomen Sukuna",
+        "Señor Ollivander",
         "Sr Byron"
       ]
     },
@@ -9274,11 +9921,13 @@
       "calidad": "rare",
       "personajes": [
         "Dum Bo",
+        "Elfa Vorable",
         "Finn Felagund",
         "Micro Bolas",
         "Nimassus Pater",
         "Rhyomen Sukuna",
         "Saint Peligroxa",
+        "Señor Ollivander",
         "Sr Byron"
       ]
     },
@@ -9297,6 +9946,7 @@
       "personajes": [
         "Dum Bo",
         "Kadeharz Apsus",
+        "Nimassus Pater",
         "Saint Peligroxa",
         "Sr Byron"
       ]
@@ -9307,8 +9957,10 @@
       "calidad": "common",
       "personajes": [
         "Dum Bo",
+        "Elfa Vorable",
         "Finn Felagund",
         "Rhyomen Sukuna",
+        "Señor Ollivander",
         "Sr Byron"
       ]
     },
@@ -9336,10 +9988,12 @@
       "personajes": [
         "Blind Minds",
         "Dum Bo",
+        "Elfa Vorable",
         "Finn Felagund",
         "Kadeharz Apsus",
         "Rhyomen Sukuna",
         "Saint Peligroxa",
+        "Señor Ollivander",
         "Sr Byron",
         "Vaporeta Pizpireta"
       ]
@@ -9350,10 +10004,13 @@
       "calidad": "common",
       "personajes": [
         "Dum Bo",
+        "Elfa Vorable",
         "Finn Felagund",
+        "Joaquin Bollos",
         "Kadeharz Apsus",
         "Rhyomen Sukuna",
         "Saint Peligroxa",
+        "Señor Ollivander",
         "Sr Byron",
         "Vaporeta Pizpireta"
       ]
@@ -9364,7 +10021,9 @@
       "calidad": "common",
       "personajes": [
         "Dum Bo",
+        "Elfa Vorable",
         "Finn Felagund",
+        "Kadeharz Apsus",
         "Rhyomen Sukuna",
         "Sr Byron"
       ]
@@ -9374,6 +10033,7 @@
       "profesion": "Sastrería",
       "calidad": "common",
       "personajes": [
+        "Elfa Vorable",
         "Finn Felagund"
       ]
     },
@@ -9383,9 +10043,11 @@
       "calidad": "uncommon",
       "personajes": [
         "Dum Bo",
+        "Elfa Vorable",
         "Finn Felagund",
         "Rhyomen Sukuna",
         "Saint Peligroxa",
+        "Señor Ollivander",
         "Sr Byron"
       ]
     },
@@ -9395,10 +10057,12 @@
       "calidad": "common",
       "personajes": [
         "Dum Bo",
+        "Elfa Vorable",
         "Finn Felagund",
         "Kadeharz Apsus",
         "Rhyomen Sukuna",
         "Saint Peligroxa",
+        "Señor Ollivander",
         "Sr Byron"
       ]
     },
@@ -9408,11 +10072,13 @@
       "calidad": "uncommon",
       "personajes": [
         "Dum Bo",
+        "Elfa Vorable",
         "Finn Felagund",
         "Kadeharz Apsus",
         "Micro Bolas",
         "Rhyomen Sukuna",
         "Saint Peligroxa",
+        "Señor Ollivander",
         "Sr Byron"
       ]
     },
@@ -9422,12 +10088,14 @@
       "calidad": "uncommon",
       "personajes": [
         "Dum Bo",
+        "Elfa Vorable",
         "Finn Felagund",
         "Kadeharz Apsus",
         "Micro Bolas",
         "Nimassus Pater",
         "Rhyomen Sukuna",
         "Saint Peligroxa",
+        "Señor Ollivander",
         "Sr Byron",
         "Vaporeta Pizpireta"
       ]
@@ -9438,6 +10106,7 @@
       "calidad": "common",
       "personajes": [
         "Dum Bo",
+        "Elfa Vorable",
         "Finn Felagund",
         "Kadeharz Apsus",
         "Micro Bolas",

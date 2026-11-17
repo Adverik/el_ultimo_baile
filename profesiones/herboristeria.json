@@ -23,7 +23,7 @@
       "personaje": "Fran Furion",
       "clase": "druid",
       "raider": true,
-      "nivel": 220,
+      "nivel": 229,
       "max": 300,
       "pct": 33
     },
@@ -31,7 +31,7 @@
       "personaje": "Layrela Rondanit",
       "clase": "druid",
       "raider": true,
-      "nivel": 216,
+      "nivel": 217,
       "max": 225,
       "pct": 33
     },
@@ -39,7 +39,7 @@
       "personaje": "Don Josechu",
       "clase": "warlock",
       "raider": false,
-      "nivel": 157,
+      "nivel": 159,
       "max": 225,
       "pct": 33
     },
@@ -55,8 +55,8 @@
       "personaje": "Grimmjow Jaegerjakez",
       "clase": "druid",
       "raider": false,
-      "nivel": 72,
-      "max": 75,
+      "nivel": 75,
+      "max": 150,
       "pct": 33
     },
     {
@@ -71,7 +71,7 @@
       "personaje": "Tanki Llo",
       "clase": "warlock",
       "raider": false,
-      "nivel": 39,
+      "nivel": 41,
       "max": 75,
       "pct": 33
     },

@@ -23,7 +23,15 @@
       "personaje": "Runa Ruina",
       "clase": "shaman",
       "raider": true,
-      "nivel": 229,
+      "nivel": 231,
+      "max": 300,
+      "pct": 33
+    },
+    {
+      "personaje": "Tankesito Khrih",
+      "clase": "druid",
+      "raider": false,
+      "nivel": 231,
       "max": 300,
       "pct": 33
     },
@@ -63,7 +71,7 @@
       "personaje": "Ildaren Belisar",
       "clase": "rogue",
       "raider": false,
-      "nivel": 200,
+      "nivel": 212,
       "max": 225,
       "pct": 33
     },
@@ -84,18 +92,18 @@
       "pct": 33
     },
     {
-      "personaje": "Fitipaldi Sendaumbria",
-      "clase": "rogue",
-      "raider": true,
-      "nivel": 121,
+      "personaje": "Samael Thallanor",
+      "clase": "hunter",
+      "raider": false,
+      "nivel": 128,
       "max": 150,
       "pct": 33
     },
     {
-      "personaje": "Samael Thallanor",
-      "clase": "hunter",
-      "raider": false,
-      "nivel": 115,
+      "personaje": "Fitipaldi Sendaumbria",
+      "clase": "rogue",
+      "raider": true,
+      "nivel": 121,
       "max": 150,
       "pct": 33
     },
@@ -151,7 +159,8 @@
             9,
             10,
             11,
-            12
+            12,
+            13
           ]
         },
         {

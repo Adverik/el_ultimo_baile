@@ -240,6 +240,55 @@
       ]
     },
     {
+      "id": 54761,
+      "n": "Botas de prefecto",
+      "q": "rare",
+      "ico": "457762",
+      "reac": [
+        [
+          "Lingote de acero",
+          4
+        ],
+        [
+          "Piedra de pulir pesada",
+          4
+        ],
+        [
+          "Perla de oro",
+          4
+        ]
+      ],
+      "obj": {
+        "arm": "330 armadura",
+        "id": 250549,
+        "ilvl": 45,
+        "lig": "Se liga al recogerlo",
+        "n": "Botas de prefecto",
+        "q": "rare",
+        "ranura": "Pies",
+        "req": 40,
+        "stats": [
+          "+9 intelecto",
+          "+7 aguante",
+          "+9 Daño con hechizos",
+          "+28 Sanación con hechizos"
+        ],
+        "sub": "Placas",
+        "venta": [
+          "0",
+          "99",
+          "94"
+        ]
+      },
+      "profesion": "Herrería",
+      "personajes": [
+        {
+          "n": "Coloso Tempestad",
+          "clase": "warrior"
+        }
+      ]
+    },
+    {
       "id": 54703,
       "n": "Camisa de anillas de acólito",
       "q": "rare",
@@ -1075,6 +1124,55 @@
       ]
     },
     {
+      "id": 55195,
+      "n": "Armadura de cuero de defensor",
+      "q": "rare",
+      "ico": "132725",
+      "reac": [
+        [
+          "Cuero ligero",
+          16
+        ],
+        [
+          "Pellejo ligero curado",
+          2
+        ],
+        [
+          "Elixir de entereza menor",
+          1
+        ]
+      ],
+      "obj": {
+        "arm": "85 armadura",
+        "id": 252434,
+        "ilvl": 20,
+        "lig": "Se liga al recogerlo",
+        "n": "Armadura de cuero de defensor",
+        "q": "rare",
+        "ranura": "Pecho",
+        "req": 15,
+        "stats": [
+          "+3 agilidad",
+          "+7 fuerza",
+          "+5 aguante",
+          "+33 bonus de armadura"
+        ],
+        "sub": "Cuero",
+        "venta": [
+          "0",
+          "8",
+          "50"
+        ]
+      },
+      "profesion": "Peletería",
+      "personajes": [
+        {
+          "n": "Tankesito Khrih",
+          "clase": "druid"
+        }
+      ]
+    },
+    {
       "id": 55196,
       "n": "Armadura de cuero de trampero",
       "q": "rare",
@@ -1118,12 +1216,61 @@
       "profesion": "Peletería",
       "personajes": [
         {
-          "n": "Aurelio Amador",
-          "clase": "rogue"
-        },
-        {
           "n": "Memas Tour",
           "clase": "shaman"
+        },
+        {
+          "n": "Aurelio Amador",
+          "clase": "rogue"
+        }
+      ]
+    },
+    {
+      "id": 55194,
+      "n": "Armadura de cuero totémica",
+      "q": "rare",
+      "ico": "136235",
+      "reac": [
+        [
+          "Cuero ligero",
+          16
+        ],
+        [
+          "Pellejo ligero curado",
+          2
+        ],
+        [
+          "Ácido sulfúrico",
+          1
+        ]
+      ],
+      "obj": {
+        "arm": "85 armadura",
+        "id": 252435,
+        "ilvl": 20,
+        "lig": "Se liga al recogerlo",
+        "n": "Armadura de cuero totémica",
+        "q": "rare",
+        "ranura": "Pecho",
+        "req": 15,
+        "stats": [
+          "+3 intelecto",
+          "+7 fuerza",
+          "+3 aguante",
+          "+6 poder con hechizos"
+        ],
+        "sub": "Cuero",
+        "venta": [
+          "0",
+          "8",
+          "53"
+        ]
+      },
+      "profesion": "Peletería",
+      "personajes": [
+        {
+          "n": "Tankesito Khrih",
+          "clase": "druid"
         }
       ]
     },
@@ -1173,8 +1320,16 @@
           "clase": "hunter"
         },
         {
+          "n": "Memas Tour",
+          "clase": "shaman"
+        },
+        {
           "n": "Palmira Natblida",
           "clase": "rogue"
+        },
+        {
+          "n": "Tankesito Khrih",
+          "clase": "druid"
         },
         {
           "n": "Aurelio Amador",
@@ -1182,10 +1337,6 @@
         },
         {
           "n": "Manelhon Gargon",
-          "clase": "shaman"
-        },
-        {
-          "n": "Memas Tour",
           "clase": "shaman"
         },
         {
@@ -1248,12 +1399,16 @@
       "profesion": "Peletería",
       "personajes": [
         {
+          "n": "Memas Tour",
+          "clase": "shaman"
+        },
+        {
           "n": "Palmira Natblida",
           "clase": "rogue"
         },
         {
-          "n": "Memas Tour",
-          "clase": "shaman"
+          "n": "Tankesito Khrih",
+          "clase": "druid"
         },
         {
           "n": "Runa Ruina",
@@ -1428,12 +1583,16 @@
       "profesion": "Peletería",
       "personajes": [
         {
+          "n": "Memas Tour",
+          "clase": "shaman"
+        },
+        {
           "n": "Palmira Natblida",
           "clase": "rogue"
         },
         {
-          "n": "Memas Tour",
-          "clase": "shaman"
+          "n": "Tankesito Khrih",
+          "clase": "druid"
         }
       ]
     },
@@ -1488,6 +1647,10 @@
       "profesion": "Peletería",
       "personajes": [
         {
+          "n": "Tankesito Khrih",
+          "clase": "druid"
+        },
+        {
           "n": "Aurelio Amador",
           "clase": "rogue"
         }
@@ -1537,12 +1700,16 @@
       "profesion": "Peletería",
       "personajes": [
         {
+          "n": "Memas Tour",
+          "clase": "shaman"
+        },
+        {
           "n": "Palmira Natblida",
           "clase": "rogue"
         },
         {
-          "n": "Memas Tour",
-          "clase": "shaman"
+          "n": "Tankesito Khrih",
+          "clase": "druid"
         }
       ]
     },
@@ -1590,12 +1757,16 @@
       "profesion": "Peletería",
       "personajes": [
         {
+          "n": "Memas Tour",
+          "clase": "shaman"
+        },
+        {
           "n": "Palmira Natblida",
           "clase": "rogue"
         },
         {
-          "n": "Memas Tour",
-          "clase": "shaman"
+          "n": "Tankesito Khrih",
+          "clase": "druid"
         }
       ]
     },
@@ -1644,12 +1815,16 @@
       "profesion": "Peletería",
       "personajes": [
         {
+          "n": "Memas Tour",
+          "clase": "shaman"
+        },
+        {
           "n": "Palmira Natblida",
           "clase": "rogue"
         },
         {
-          "n": "Memas Tour",
-          "clase": "shaman"
+          "n": "Tankesito Khrih",
+          "clase": "druid"
         },
         {
           "n": "Runa Ruina",
@@ -1701,15 +1876,19 @@
       "profesion": "Peletería",
       "personajes": [
         {
+          "n": "Memas Tour",
+          "clase": "shaman"
+        },
+        {
           "n": "Palmira Natblida",
           "clase": "rogue"
         },
         {
-          "n": "Manelhon Gargon",
-          "clase": "shaman"
+          "n": "Tankesito Khrih",
+          "clase": "druid"
         },
         {
-          "n": "Memas Tour",
+          "n": "Manelhon Gargon",
           "clase": "shaman"
         }
       ]
@@ -1758,15 +1937,19 @@
       "profesion": "Peletería",
       "personajes": [
         {
+          "n": "Memas Tour",
+          "clase": "shaman"
+        },
+        {
           "n": "Palmira Natblida",
           "clase": "rogue"
         },
         {
-          "n": "Manelhon Gargon",
-          "clase": "shaman"
+          "n": "Tankesito Khrih",
+          "clase": "druid"
         },
         {
-          "n": "Memas Tour",
+          "n": "Manelhon Gargon",
           "clase": "shaman"
         }
       ]
@@ -1819,16 +2002,20 @@
           "clase": "hunter"
         },
         {
+          "n": "Memas Tour",
+          "clase": "shaman"
+        },
+        {
           "n": "Palmira Natblida",
           "clase": "rogue"
         },
         {
-          "n": "Aurelio Amador",
-          "clase": "rogue"
+          "n": "Tankesito Khrih",
+          "clase": "druid"
         },
         {
-          "n": "Memas Tour",
-          "clase": "shaman"
+          "n": "Aurelio Amador",
+          "clase": "rogue"
         }
       ]
     },
@@ -1875,12 +2062,12 @@
       "profesion": "Peletería",
       "personajes": [
         {
-          "n": "Palmira Natblida",
-          "clase": "rogue"
-        },
-        {
           "n": "Memas Tour",
           "clase": "shaman"
+        },
+        {
+          "n": "Palmira Natblida",
+          "clase": "rogue"
         },
         {
           "n": "Edoras Duskranger",
@@ -1943,6 +2130,10 @@
       "profesion": "Peletería",
       "personajes": [
         {
+          "n": "Tankesito Khrih",
+          "clase": "druid"
+        },
+        {
           "n": "Aurelio Amador",
           "clase": "rogue"
         }
@@ -2003,8 +2194,16 @@
           "clase": "hunter"
         },
         {
+          "n": "Memas Tour",
+          "clase": "shaman"
+        },
+        {
           "n": "Palmira Natblida",
           "clase": "rogue"
+        },
+        {
+          "n": "Tankesito Khrih",
+          "clase": "druid"
         },
         {
           "n": "Aurelio Amador",
@@ -2012,10 +2211,6 @@
         },
         {
           "n": "Manelhon Gargon",
-          "clase": "shaman"
-        },
-        {
-          "n": "Memas Tour",
           "clase": "shaman"
         },
         {
@@ -2177,6 +2372,53 @@
       ]
     },
     {
+      "id": 55152,
+      "n": "Yelmo de cuero de defensor",
+      "q": "rare",
+      "ico": "133135",
+      "reac": [
+        [
+          "Cuero medio",
+          12
+        ],
+        [
+          "Pellejo medio curado",
+          2
+        ],
+        [
+          "Elixir de entereza menor",
+          3
+        ]
+      ],
+      "obj": {
+        "arm": "84 armadura",
+        "id": 252455,
+        "ilvl": 30,
+        "lig": "Se liga al recogerlo",
+        "n": "Yelmo de cuero de defensor",
+        "q": "rare",
+        "ranura": "Cabeza",
+        "req": 25,
+        "stats": [
+          "+12 fuerza",
+          "+13 aguante"
+        ],
+        "sub": "Cuero",
+        "venta": [
+          "0",
+          "20",
+          "79"
+        ]
+      },
+      "profesion": "Peletería",
+      "personajes": [
+        {
+          "n": "Tankesito Khrih",
+          "clase": "druid"
+        }
+      ]
+    },
+    {
       "id": 55150,
       "n": "Yelmo de cuero de jinete de la tormenta",
       "q": "rare",
@@ -2220,6 +2462,10 @@
         {
           "n": "Palmira Natblida",
           "clase": "rogue"
+        },
+        {
+          "n": "Tankesito Khrih",
+          "clase": "druid"
         }
       ]
     },
@@ -2265,11 +2511,11 @@
       "profesion": "Peletería",
       "personajes": [
         {
-          "n": "Manelhon Gargon",
+          "n": "Memas Tour",
           "clase": "shaman"
         },
         {
-          "n": "Memas Tour",
+          "n": "Manelhon Gargon",
           "clase": "shaman"
         }
       ]
@@ -2317,12 +2563,16 @@
       "profesion": "Peletería",
       "personajes": [
         {
+          "n": "Memas Tour",
+          "clase": "shaman"
+        },
+        {
           "n": "Palmira Natblida",
           "clase": "rogue"
         },
         {
-          "n": "Memas Tour",
-          "clase": "shaman"
+          "n": "Tankesito Khrih",
+          "clase": "druid"
         },
         {
           "n": "Runa Ruina",
@@ -2380,12 +2630,16 @@
       "profesion": "Peletería",
       "personajes": [
         {
+          "n": "Memas Tour",
+          "clase": "shaman"
+        },
+        {
           "n": "Palmira Natblida",
           "clase": "rogue"
         },
         {
-          "n": "Memas Tour",
-          "clase": "shaman"
+          "n": "Tankesito Khrih",
+          "clase": "druid"
         },
         {
           "n": "Runa Ruina",
@@ -2456,24 +2710,32 @@
           "clase": "priest"
         },
         {
+          "n": "Señor Ollivander",
+          "clase": "mage"
+        },
+        {
           "n": "Dum Bo",
           "clase": "mage"
+        },
+        {
+          "n": "Elfa Vorable",
+          "clase": "druid"
         },
         {
           "n": "Rhyomen Sukuna",
           "clase": "warlock"
         },
         {
-          "n": "Saint Peligroxa",
-          "clase": "priest"
+          "n": "Micro Bolas",
+          "clase": "warlock"
         },
         {
           "n": "Nimassus Pater",
           "clase": "priest"
         },
         {
-          "n": "Micro Bolas",
-          "clase": "warlock"
+          "n": "Saint Peligroxa",
+          "clase": "priest"
         }
       ]
     },
@@ -2924,6 +3186,62 @@
       ]
     },
     {
+      "id": 55468,
+      "n": "Diadema prístina de filigrana",
+      "q": "rare",
+      "ico": "132767",
+      "reac": [
+        [
+          "Madeja de paño de seda",
+          8
+        ],
+        [
+          "Hilo refinado",
+          4
+        ],
+        [
+          "Tinte cerúleo",
+          2
+        ],
+        [
+          "Cuero prístino",
+          6
+        ]
+      ],
+      "obj": {
+        "arm": "38 armadura",
+        "id": 253975,
+        "ilvl": 30,
+        "lig": "Se liga al recogerlo",
+        "n": "Diadema prístina de filigrana",
+        "q": "rare",
+        "ranura": "Cabeza",
+        "req": 25,
+        "stats": [
+          "+12 aguante",
+          "+8 Daño con hechizos",
+          "+22 Sanación con hechizos"
+        ],
+        "sub": "Tela",
+        "venta": [
+          "0",
+          "16",
+          "5"
+        ]
+      },
+      "profesion": "Sastrería",
+      "personajes": [
+        {
+          "n": "Elfa Vorable",
+          "clase": "druid"
+        },
+        {
+          "n": "Nimassus Pater",
+          "clase": "priest"
+        }
+      ]
+    },
+    {
       "id": 55423,
       "n": "Fajín de arcanista novicio",
       "q": "rare",
@@ -2974,11 +3292,23 @@
           "clase": "priest"
         },
         {
+          "n": "Señor Ollivander",
+          "clase": "mage"
+        },
+        {
           "n": "Dum Bo",
           "clase": "mage"
         },
         {
+          "n": "Elfa Vorable",
+          "clase": "druid"
+        },
+        {
           "n": "Rhyomen Sukuna",
+          "clase": "warlock"
+        },
+        {
+          "n": "Micro Bolas",
           "clase": "warlock"
         },
         {
@@ -2988,10 +3318,6 @@
         {
           "n": "Saint Peligroxa",
           "clase": "priest"
-        },
-        {
-          "n": "Micro Bolas",
-          "clase": "warlock"
         },
         {
           "n": "Vaporeta Pizpireta",
@@ -3059,12 +3385,24 @@
           "clase": "priest"
         },
         {
+          "n": "Señor Ollivander",
+          "clase": "mage"
+        },
+        {
           "n": "Dum Bo",
           "clase": "mage"
         },
         {
+          "n": "Elfa Vorable",
+          "clase": "druid"
+        },
+        {
           "n": "Rhyomen Sukuna",
           "clase": "warlock"
+        },
+        {
+          "n": "Nimassus Pater",
+          "clase": "priest"
         },
         {
           "n": "Kadeharz Apsus",
@@ -3075,16 +3413,73 @@
           "clase": "priest"
         },
         {
-          "n": "Nimassus Pater",
-          "clase": "priest"
-        },
-        {
           "n": "Vaporeta Pizpireta",
           "clase": "mage"
         },
         {
           "n": "Thundrik Volgrim",
           "clase": "priest"
+        }
+      ]
+    },
+    {
+      "id": 55464,
+      "n": "Gonela de las Sombras",
+      "q": "rare",
+      "ico": "132689",
+      "reac": [
+        [
+          "Madeja de paño de seda",
+          12
+        ],
+        [
+          "Hilo de seda",
+          2
+        ],
+        [
+          "Tinte cerúleo",
+          6
+        ],
+        [
+          "Gema de las Sombras",
+          6
+        ],
+        [
+          "Lingote de plata",
+          2
+        ],
+        [
+          "Esencia astral superior",
+          2
+        ]
+      ],
+      "obj": {
+        "arm": "45 armadura",
+        "id": 253967,
+        "ilvl": 27,
+        "lig": "Se liga al recogerlo",
+        "n": "Gonela de las Sombras",
+        "q": "rare",
+        "ranura": "Pecho",
+        "req": 22,
+        "stats": [
+          "+7 intelecto",
+          "+6 aguante",
+          "+4 espíritu",
+          "+13 Daño de las Sombras"
+        ],
+        "sub": "Tela",
+        "venta": [
+          "0",
+          "15",
+          "60"
+        ]
+      },
+      "profesion": "Sastrería",
+      "personajes": [
+        {
+          "n": "Micro Bolas",
+          "clase": "warlock"
         }
       ]
     },
@@ -3368,6 +3763,67 @@
       ]
     },
     {
+      "id": 55477,
+      "n": "Leotardos de las Sombras",
+      "q": "rare",
+      "ico": "134591",
+      "reac": [
+        [
+          "Madeja de paño de seda",
+          14
+        ],
+        [
+          "Hilo refinado",
+          3
+        ],
+        [
+          "Tinte cerúleo",
+          8
+        ],
+        [
+          "Gema de las Sombras",
+          8
+        ],
+        [
+          "Lingote de plata",
+          2
+        ],
+        [
+          "Esencia astral superior",
+          3
+        ]
+      ],
+      "obj": {
+        "arm": "41 armadura",
+        "id": 253993,
+        "ilvl": 30,
+        "lig": "Se liga al recogerlo",
+        "n": "Leotardos de las Sombras",
+        "q": "rare",
+        "ranura": "Piernas",
+        "req": 25,
+        "stats": [
+          "+7 intelecto",
+          "+7 aguante",
+          "+5 espíritu",
+          "+14 Daño de las Sombras"
+        ],
+        "sub": "Tela",
+        "venta": [
+          "0",
+          "21",
+          "24"
+        ]
+      },
+      "profesion": "Sastrería",
+      "personajes": [
+        {
+          "n": "Micro Bolas",
+          "clase": "warlock"
+        }
+      ]
+    },
+    {
       "id": 55453,
       "n": "Leotardos nacarados de filigrana",
       "q": "rare",
@@ -3600,6 +4056,10 @@
         {
           "n": "Dum Bo",
           "clase": "mage"
+        },
+        {
+          "n": "Elfa Vorable",
+          "clase": "druid"
         }
       ]
     },
@@ -3665,6 +4125,10 @@
         {
           "n": "Dum Bo",
           "clase": "mage"
+        },
+        {
+          "n": "Elfa Vorable",
+          "clase": "druid"
         }
       ]
     },
@@ -3726,6 +4190,10 @@
         {
           "n": "Dum Bo",
           "clase": "mage"
+        },
+        {
+          "n": "Elfa Vorable",
+          "clase": "druid"
         }
       ]
     },
@@ -3791,6 +4259,10 @@
         {
           "n": "Dum Bo",
           "clase": "mage"
+        },
+        {
+          "n": "Elfa Vorable",
+          "clase": "druid"
         }
       ]
     },
@@ -3857,6 +4329,10 @@
         {
           "n": "Dum Bo",
           "clase": "mage"
+        },
+        {
+          "n": "Elfa Vorable",
+          "clase": "druid"
         }
       ]
     },
@@ -3918,6 +4394,10 @@
         {
           "n": "Dum Bo",
           "clase": "mage"
+        },
+        {
+          "n": "Elfa Vorable",
+          "clase": "druid"
         }
       ]
     }
