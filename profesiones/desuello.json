@@ -7,7 +7,7 @@
       "personaje": "Edoras Duskranger",
       "clase": "hunter",
       "raider": true,
-      "nivel": 271,
+      "nivel": 272,
       "max": 300,
       "pct": 67
     },
@@ -63,7 +63,7 @@
       "personaje": "Ildaren Belisar",
       "clase": "rogue",
       "raider": false,
-      "nivel": 198,
+      "nivel": 200,
       "max": 225,
       "pct": 33
     },

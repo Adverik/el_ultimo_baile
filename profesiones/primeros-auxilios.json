@@ -17,7 +17,7 @@
       "raider": false,
       "nivel": 252,
       "max": 300,
-      "pct": 50
+      "pct": 53
     },
     {
       "personaje": "Espartaco Gladiador",
@@ -63,7 +63,7 @@
       "personaje": "Layrela Rondanit",
       "clase": "druid",
       "raider": true,
-      "nivel": 165,
+      "nivel": 175,
       "max": 225,
       "pct": 41
     },
@@ -148,6 +148,14 @@
       "pct": 22
     },
     {
+      "personaje": "Españoleitor Españoleitor",
+      "clase": "warrior",
+      "raider": false,
+      "nivel": 84,
+      "max": 150,
+      "pct": 16
+    },
+    {
       "personaje": "Filps Pachamamamon",
       "clase": "hunter",
       "raider": false,
@@ -174,14 +182,6 @@
     {
       "personaje": "Aurelio Amador",
       "clase": "rogue",
-      "raider": false,
-      "nivel": 77,
-      "max": 150,
-      "pct": 16
-    },
-    {
-      "personaje": "Españoleitor Españoleitor",
-      "clase": "warrior",
       "raider": false,
       "nivel": 77,
       "max": 150,
@@ -216,6 +216,14 @@
       "clase": "druid",
       "raider": true,
       "nivel": 74,
+      "max": 150,
+      "pct": 16
+    },
+    {
+      "personaje": "Farhan Ironbeard",
+      "clase": "warrior",
+      "raider": false,
+      "nivel": 73,
       "max": 150,
       "pct": 16
     },
@@ -385,7 +393,8 @@
             35,
             36,
             37,
-            38
+            38,
+            39
           ]
         },
         {
@@ -434,15 +443,16 @@
             16,
             17,
             18,
-            20,
+            19,
             21,
             22,
             23,
             24,
             25,
             26,
-            28,
-            31
+            27,
+            29,
+            32
           ]
         },
         {
@@ -1277,7 +1287,8 @@
             30,
             31,
             32,
-            33
+            33,
+            34
           ]
         },
         {
@@ -1413,11 +1424,12 @@
             27,
             28,
             29,
-            31,
+            30,
             32,
             33,
             34,
-            35
+            35,
+            36
           ]
         },
         {
@@ -1481,7 +1493,8 @@
             23,
             24,
             25,
-            26
+            26,
+            27
           ]
         },
         {
@@ -1566,7 +1579,9 @@
               "25"
             ]
           },
-          "quien": []
+          "quien": [
+            1
+          ]
         },
         {
           "id": 54195,

@@ -75,12 +75,16 @@
           "clase": "paladin"
         },
         {
-          "n": "Armando Buya",
-          "clase": "paladin"
+          "n": "Farhan Ironbeard",
+          "clase": "warrior"
         },
         {
           "n": "Españoleitor Españoleitor",
           "clase": "warrior"
+        },
+        {
+          "n": "Armando Buya",
+          "clase": "paladin"
         }
       ]
     },
@@ -146,12 +150,16 @@
           "clase": "paladin"
         },
         {
-          "n": "Armando Buya",
-          "clase": "paladin"
+          "n": "Farhan Ironbeard",
+          "clase": "warrior"
         },
         {
           "n": "Españoleitor Españoleitor",
           "clase": "warrior"
+        },
+        {
+          "n": "Armando Buya",
+          "clase": "paladin"
         }
       ]
     },
@@ -218,11 +226,112 @@
           "clase": "paladin"
         },
         {
-          "n": "Armando Buya",
-          "clase": "paladin"
+          "n": "Farhan Ironbeard",
+          "clase": "warrior"
         },
         {
           "n": "Españoleitor Españoleitor",
+          "clase": "warrior"
+        },
+        {
+          "n": "Armando Buya",
+          "clase": "paladin"
+        }
+      ]
+    },
+    {
+      "id": 54703,
+      "n": "Camisa de anillas de acólito",
+      "q": "rare",
+      "ico": "132630",
+      "reac": [
+        [
+          "Lingote de bronce",
+          4
+        ],
+        [
+          "Piedra de pulir férrea",
+          2
+        ],
+        [
+          "Polvo extraño",
+          2
+        ]
+      ],
+      "obj": {
+        "arm": "184 armadura",
+        "id": 250491,
+        "ilvl": 20,
+        "lig": "Se liga al recogerlo",
+        "n": "Camisa de anillas de acólito",
+        "q": "rare",
+        "ranura": "Pecho",
+        "req": 15,
+        "stats": [
+          "+5 intelecto",
+          "+4 aguante",
+          "+5 Daño con hechizos",
+          "+16 Sanación con hechizos"
+        ],
+        "sub": "Mallas",
+        "venta": [
+          "0",
+          "3",
+          "13"
+        ]
+      },
+      "profesion": "Herrería",
+      "personajes": [
+        {
+          "n": "Farhan Ironbeard",
+          "clase": "warrior"
+        }
+      ]
+    },
+    {
+      "id": 54700,
+      "n": "Camisa de anillas de veterano",
+      "q": "rare",
+      "ico": "132629",
+      "reac": [
+        [
+          "Lingote de bronce",
+          4
+        ],
+        [
+          "Piedra de pulir férrea",
+          2
+        ],
+        [
+          "Perla lustrosa pequeña",
+          2
+        ]
+      ],
+      "obj": {
+        "arm": "184 armadura",
+        "id": 250488,
+        "ilvl": 20,
+        "lig": "Se liga al recogerlo",
+        "n": "Camisa de anillas de veterano",
+        "q": "rare",
+        "ranura": "Pecho",
+        "req": 15,
+        "stats": [
+          "+4 agilidad",
+          "+7 fuerza",
+          "+5 aguante"
+        ],
+        "sub": "Mallas",
+        "venta": [
+          "0",
+          "9",
+          "74"
+        ]
+      },
+      "profesion": "Herrería",
+      "personajes": [
+        {
+          "n": "Farhan Ironbeard",
           "clase": "warrior"
         }
       ]
@@ -2420,8 +2529,70 @@
       "profesion": "Sastrería",
       "personajes": [
         {
+          "n": "Sr Byron",
+          "clase": "warlock"
+        },
+        {
           "n": "Finn Felagund",
           "clase": "priest"
+        }
+      ]
+    },
+    {
+      "id": 55499,
+      "n": "Cordón áureo",
+      "q": "rare",
+      "ico": "132497",
+      "reac": [
+        [
+          "Madeja de tejido mágico",
+          28
+        ],
+        [
+          "Hilo de seda pesada",
+          4
+        ],
+        [
+          "Tinte magenta",
+          6
+        ],
+        [
+          "Tinte cerúleo",
+          4
+        ],
+        [
+          "Lingote de oro",
+          12
+        ]
+      ],
+      "obj": {
+        "arm": "37 armadura",
+        "id": 254037,
+        "ilvl": 45,
+        "lig": "Se liga al recogerlo",
+        "n": "Cordón áureo",
+        "q": "rare",
+        "ranura": "Cintura",
+        "req": 40,
+        "stats": [
+          "+8 intelecto",
+          "+8 aguante",
+          "+8 Daño con hechizos",
+          "+22 Sanación con hechizos",
+          "+6 espíritu"
+        ],
+        "sub": "Tela",
+        "venta": [
+          "0",
+          "39",
+          "89"
+        ]
+      },
+      "profesion": "Sastrería",
+      "personajes": [
+        {
+          "n": "Sr Byron",
+          "clase": "warlock"
         }
       ]
     },
@@ -3078,6 +3249,10 @@
       "profesion": "Sastrería",
       "personajes": [
         {
+          "n": "Sr Byron",
+          "clase": "warlock"
+        },
+        {
           "n": "Finn Felagund",
           "clase": "priest"
         }
@@ -3129,6 +3304,10 @@
       },
       "profesion": "Sastrería",
       "personajes": [
+        {
+          "n": "Sr Byron",
+          "clase": "warlock"
+        },
         {
           "n": "Finn Felagund",
           "clase": "priest"

@@ -7,7 +7,7 @@
       "personaje": "Chaca Choochoo",
       "clase": "druid",
       "raider": false,
-      "nivel": 252,
+      "nivel": 262,
       "max": 300,
       "pct": 35
     },
@@ -15,7 +15,7 @@
       "personaje": "Coloso Tempestad",
       "clase": "warrior",
       "raider": false,
-      "nivel": 250,
+      "nivel": 257,
       "max": 300,
       "pct": 53
     },
@@ -31,7 +31,7 @@
       "personaje": "La Pety",
       "clase": "rogue",
       "raider": false,
-      "nivel": 221,
+      "nivel": 224,
       "max": 300,
       "pct": 53
     },
@@ -95,7 +95,15 @@
       "personaje": "Hugo Forjaluz",
       "clase": "paladin",
       "raider": false,
-      "nivel": 116,
+      "nivel": 119,
+      "max": 150,
+      "pct": 29
+    },
+    {
+      "personaje": "Farhan Ironbeard",
+      "clase": "warrior",
+      "raider": false,
+      "nivel": 89,
       "max": 150,
       "pct": 29
     },
@@ -111,7 +119,7 @@
       "personaje": "Españoleitor Españoleitor",
       "clase": "warrior",
       "raider": false,
-      "nivel": 87,
+      "nivel": 88,
       "max": 150,
       "pct": 29
     },
@@ -127,7 +135,7 @@
       "personaje": "Grimmjow Jaegerjakez",
       "clase": "druid",
       "raider": false,
-      "nivel": 47,
+      "nivel": 49,
       "max": 75,
       "pct": 12
     },
@@ -181,8 +189,9 @@
             9,
             10,
             11,
-            13,
-            14
+            12,
+            14,
+            15
           ]
         },
         {
@@ -229,7 +238,8 @@
             11,
             12,
             13,
-            14
+            14,
+            15
           ]
         },
         {
@@ -337,7 +347,8 @@
             11,
             12,
             13,
-            14
+            14,
+            15
           ]
         },
         {
@@ -415,7 +426,8 @@
             13,
             14,
             15,
-            16
+            16,
+            17
           ]
         },
         {
@@ -660,7 +672,8 @@
             12,
             13,
             14,
-            15
+            15,
+            16
           ]
         },
         {
