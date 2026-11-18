@@ -33,7 +33,7 @@
       "raider": true,
       "nivel": 201,
       "max": 225,
-      "pct": 18
+      "pct": 19
     },
     {
       "personaje": "Don Josechu",
@@ -1651,7 +1651,8 @@
             ]
           },
           "quien": [
-            0
+            0,
+            3
           ]
         },
         {

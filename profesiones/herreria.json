@@ -68,18 +68,18 @@
       "pct": 10
     },
     {
-      "personaje": "Farhan Ironbeard",
+      "personaje": "Españoleitor Españoleitor",
       "clase": "warrior",
       "raider": false,
-      "nivel": 95,
+      "nivel": 96,
       "max": 150,
       "pct": 8
     },
     {
-      "personaje": "Españoleitor Españoleitor",
+      "personaje": "Farhan Ironbeard",
       "clase": "warrior",
       "raider": false,
-      "nivel": 93,
+      "nivel": 95,
       "max": 150,
       "pct": 8
     },
@@ -2362,7 +2362,8 @@
             5,
             6,
             7,
-            8
+            8,
+            9
           ]
         },
         {
@@ -3424,7 +3425,7 @@
             ]
           },
           "quien": [
-            8
+            9
           ]
         },
         {
@@ -3468,7 +3469,7 @@
             ]
           },
           "quien": [
-            9
+            8
           ]
         },
         {
@@ -3555,7 +3556,7 @@
             ]
           },
           "quien": [
-            8
+            9
           ]
         },
         {
@@ -5392,7 +5393,8 @@
             5,
             6,
             7,
-            8
+            8,
+            9
           ]
         },
         {

@@ -79,11 +79,11 @@
           "clase": "paladin"
         },
         {
-          "n": "Farhan Ironbeard",
+          "n": "Españoleitor Españoleitor",
           "clase": "warrior"
         },
         {
-          "n": "Españoleitor Españoleitor",
+          "n": "Farhan Ironbeard",
           "clase": "warrior"
         },
         {
@@ -154,11 +154,11 @@
           "clase": "paladin"
         },
         {
-          "n": "Farhan Ironbeard",
+          "n": "Españoleitor Españoleitor",
           "clase": "warrior"
         },
         {
-          "n": "Españoleitor Españoleitor",
+          "n": "Farhan Ironbeard",
           "clase": "warrior"
         },
         {
@@ -230,11 +230,11 @@
           "clase": "paladin"
         },
         {
-          "n": "Farhan Ironbeard",
+          "n": "Españoleitor Españoleitor",
           "clase": "warrior"
         },
         {
-          "n": "Españoleitor Españoleitor",
+          "n": "Farhan Ironbeard",
           "clase": "warrior"
         },
         {
@@ -1285,6 +1285,55 @@
       ]
     },
     {
+      "id": 55193,
+      "n": "Armadura de cuero de jinete de la tormenta",
+      "q": "rare",
+      "ico": "132718",
+      "reac": [
+        [
+          "Cuero ligero",
+          16
+        ],
+        [
+          "Pellejo ligero curado",
+          2
+        ],
+        [
+          "Tinte cerúleo",
+          1
+        ]
+      ],
+      "obj": {
+        "arm": "85 armadura",
+        "id": 252492,
+        "ilvl": 20,
+        "lig": "Se liga al recogerlo",
+        "n": "Armadura de cuero de jinete de la tormenta",
+        "q": "rare",
+        "ranura": "Pecho",
+        "req": 15,
+        "stats": [
+          "+5 intelecto",
+          "+3 aguante",
+          "+8 poder con hechizos",
+          "+3 espíritu"
+        ],
+        "sub": "Cuero",
+        "venta": [
+          "0",
+          "8",
+          "66"
+        ]
+      },
+      "profesion": "Peletería",
+      "personajes": [
+        {
+          "n": "Memas Tour",
+          "clase": "shaman"
+        }
+      ]
+    },
+    {
       "id": 55196,
       "n": "Armadura de cuero de trampero",
       "q": "rare",
@@ -1444,16 +1493,16 @@
           "clase": "rogue"
         },
         {
+          "n": "Runa Ruina",
+          "clase": "shaman"
+        },
+        {
           "n": "Tankesito Khrih",
           "clase": "druid"
         },
         {
           "n": "Aurelio Amador",
           "clase": "rogue"
-        },
-        {
-          "n": "Runa Ruina",
-          "clase": "shaman"
         },
         {
           "n": "Edoras Duskranger",
@@ -1523,12 +1572,12 @@
           "clase": "rogue"
         },
         {
-          "n": "Tankesito Khrih",
-          "clase": "druid"
-        },
-        {
           "n": "Runa Ruina",
           "clase": "shaman"
+        },
+        {
+          "n": "Tankesito Khrih",
+          "clase": "druid"
         },
         {
           "n": "Ildaren Belisar",
@@ -1947,12 +1996,12 @@
           "clase": "rogue"
         },
         {
-          "n": "Tankesito Khrih",
-          "clase": "druid"
-        },
-        {
           "n": "Runa Ruina",
           "clase": "shaman"
+        },
+        {
+          "n": "Tankesito Khrih",
+          "clase": "druid"
         }
       ]
     },
@@ -2140,6 +2189,10 @@
         {
           "n": "Aurelio Amador",
           "clase": "rogue"
+        },
+        {
+          "n": "Edoras Duskranger",
+          "clase": "hunter"
         }
       ]
     },
@@ -2695,12 +2748,12 @@
           "clase": "rogue"
         },
         {
-          "n": "Tankesito Khrih",
-          "clase": "druid"
-        },
-        {
           "n": "Runa Ruina",
           "clase": "shaman"
+        },
+        {
+          "n": "Tankesito Khrih",
+          "clase": "druid"
         },
         {
           "n": "Ildaren Belisar",
@@ -2766,12 +2819,12 @@
           "clase": "rogue"
         },
         {
-          "n": "Tankesito Khrih",
-          "clase": "druid"
-        },
-        {
           "n": "Runa Ruina",
           "clase": "shaman"
+        },
+        {
+          "n": "Tankesito Khrih",
+          "clase": "druid"
         },
         {
           "n": "Ildaren Belisar",
@@ -3148,6 +3201,10 @@
         {
           "n": "Finn Felagund",
           "clase": "priest"
+        },
+        {
+          "n": "Micro Bolas",
+          "clase": "warlock"
         }
       ]
     },
@@ -3366,6 +3423,10 @@
         {
           "n": "Elfa Vorable",
           "clase": "druid"
+        },
+        {
+          "n": "Micro Bolas",
+          "clase": "warlock"
         },
         {
           "n": "Nimassus Pater",

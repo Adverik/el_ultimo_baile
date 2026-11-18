@@ -15,7 +15,7 @@
       "personaje": "Sugar Papy",
       "clase": "druid",
       "raider": false,
-      "nivel": 274,
+      "nivel": 281,
       "max": 300,
       "pct": 33
     },
@@ -31,7 +31,7 @@
       "personaje": "Tommy Durum",
       "clase": "druid",
       "raider": false,
-      "nivel": 225,
+      "nivel": 236,
       "max": 300,
       "pct": 33
     },
@@ -39,7 +39,7 @@
       "personaje": "Layrela Rondanit",
       "clase": "druid",
       "raider": true,
-      "nivel": 224,
+      "nivel": 225,
       "max": 300,
       "pct": 33
     },
@@ -55,7 +55,7 @@
       "personaje": "Genethika Brisaveloz",
       "clase": "hunter",
       "raider": false,
-      "nivel": 140,
+      "nivel": 148,
       "max": 225,
       "pct": 33
     },

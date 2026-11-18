@@ -20,6 +20,14 @@
       "pct": 33
     },
     {
+      "personaje": "Mosu Warryn",
+      "clase": "warrior",
+      "raider": false,
+      "nivel": 192,
+      "max": 225,
+      "pct": 33
+    },
+    {
       "personaje": "Finn Felagund",
       "clase": "priest",
       "raider": false,
@@ -44,10 +52,10 @@
       "pct": 33
     },
     {
-      "personaje": "Mosu Warryn",
-      "clase": "warrior",
+      "personaje": "Jonaver Legends",
+      "clase": "mage",
       "raider": false,
-      "nivel": 153,
+      "nivel": 151,
       "max": 225,
       "pct": 33
     },
@@ -87,7 +95,7 @@
       "personaje": "Cuzcu Aker",
       "clase": "paladin",
       "raider": true,
-      "nivel": 127,
+      "nivel": 128,
       "max": 150,
       "pct": 33
     },
@@ -156,19 +164,19 @@
       "pct": 33
     },
     {
+      "personaje": "Micro Bolas",
+      "clase": "warlock",
+      "raider": false,
+      "nivel": 75,
+      "max": 150,
+      "pct": 33
+    },
+    {
       "personaje": "Nimassus Pater",
       "clase": "priest",
       "raider": true,
       "nivel": 75,
       "max": 75,
-      "pct": 33
-    },
-    {
-      "personaje": "Micro Bolas",
-      "clase": "warlock",
-      "raider": false,
-      "nivel": 50,
-      "max": 150,
       "pct": 33
     },
     {
@@ -248,14 +256,6 @@
       "clase": "priest",
       "raider": true,
       "nivel": 13,
-      "max": 75,
-      "pct": 0
-    },
-    {
-      "personaje": "Jonaver Legends",
-      "clase": "mage",
-      "raider": false,
-      "nivel": 5,
       "max": 75,
       "pct": 0
     },
@@ -417,13 +417,14 @@
             19,
             20,
             21,
-            23,
+            22,
             24,
             25,
             26,
             27,
             28,
-            29
+            29,
+            30
           ]
         },
         {

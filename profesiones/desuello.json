@@ -7,7 +7,7 @@
       "personaje": "Edoras Duskranger",
       "clase": "hunter",
       "raider": true,
-      "nivel": 272,
+      "nivel": 287,
       "max": 300,
       "pct": 67
     },
@@ -15,15 +15,7 @@
       "personaje": "Manelhon Gargon",
       "clase": "shaman",
       "raider": true,
-      "nivel": 251,
-      "max": 300,
-      "pct": 33
-    },
-    {
-      "personaje": "Tankesito Khrih",
-      "clase": "druid",
-      "raider": false,
-      "nivel": 240,
+      "nivel": 253,
       "max": 300,
       "pct": 33
     },
@@ -31,7 +23,15 @@
       "personaje": "Runa Ruina",
       "clase": "shaman",
       "raider": true,
-      "nivel": 239,
+      "nivel": 242,
+      "max": 300,
+      "pct": 33
+    },
+    {
+      "personaje": "Tankesito Khrih",
+      "clase": "druid",
+      "raider": false,
+      "nivel": 242,
       "max": 300,
       "pct": 33
     },
@@ -71,7 +71,7 @@
       "personaje": "Ildaren Belisar",
       "clase": "rogue",
       "raider": false,
-      "nivel": 221,
+      "nivel": 223,
       "max": 300,
       "pct": 33
     },
