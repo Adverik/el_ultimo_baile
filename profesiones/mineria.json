@@ -7,7 +7,7 @@
       "personaje": "Chaca Choochoo",
       "clase": "druid",
       "raider": false,
-      "nivel": 271,
+      "nivel": 275,
       "max": 300,
       "pct": 35
     },
@@ -15,7 +15,7 @@
       "personaje": "Coloso Tempestad",
       "clase": "warrior",
       "raider": false,
-      "nivel": 259,
+      "nivel": 265,
       "max": 300,
       "pct": 53
     },
@@ -47,7 +47,7 @@
       "personaje": "Althez Sendagris",
       "clase": "paladin",
       "raider": false,
-      "nivel": 197,
+      "nivel": 198,
       "max": 225,
       "pct": 53
     },
@@ -55,7 +55,7 @@
       "personaje": "Espartaco Gladiador",
       "clase": "warrior",
       "raider": true,
-      "nivel": 181,
+      "nivel": 182,
       "max": 225,
       "pct": 59
     },
@@ -71,7 +71,7 @@
       "personaje": "Llamas Xx",
       "clase": "warrior",
       "raider": false,
-      "nivel": 141,
+      "nivel": 148,
       "max": 225,
       "pct": 35
     },
@@ -119,7 +119,7 @@
       "personaje": "Españoleitor Españoleitor",
       "clase": "warrior",
       "raider": false,
-      "nivel": 106,
+      "nivel": 113,
       "max": 150,
       "pct": 29
     },
@@ -167,7 +167,7 @@
       "personaje": "Tanki Llo",
       "clase": "warlock",
       "raider": false,
-      "nivel": 38,
+      "nivel": 39,
       "max": 75,
       "pct": 6
     },

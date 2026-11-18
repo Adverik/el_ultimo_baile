@@ -31,7 +31,7 @@
       "personaje": "Runa Ruina",
       "clase": "shaman",
       "raider": true,
-      "nivel": 231,
+      "nivel": 239,
       "max": 300,
       "pct": 33
     },
@@ -71,8 +71,8 @@
       "personaje": "Ildaren Belisar",
       "clase": "rogue",
       "raider": false,
-      "nivel": 212,
-      "max": 225,
+      "nivel": 221,
+      "max": 300,
       "pct": 33
     },
     {
@@ -87,7 +87,7 @@
       "personaje": "Tom Kha",
       "clase": "shaman",
       "raider": false,
-      "nivel": 160,
+      "nivel": 168,
       "max": 225,
       "pct": 33
     },

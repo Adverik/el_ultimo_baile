@@ -15,7 +15,7 @@
       "personaje": "Finn Felagund",
       "clase": "priest",
       "raider": false,
-      "nivel": 195,
+      "nivel": 198,
       "max": 225,
       "pct": 20
     },
@@ -39,7 +39,7 @@
       "personaje": "Elfa Vorable",
       "clase": "druid",
       "raider": false,
-      "nivel": 151,
+      "nivel": 152,
       "max": 225,
       "pct": 15
     },
@@ -47,7 +47,7 @@
       "personaje": "Rhyomen Sukuna",
       "clase": "warlock",
       "raider": false,
-      "nivel": 146,
+      "nivel": 148,
       "max": 150,
       "pct": 13
     },

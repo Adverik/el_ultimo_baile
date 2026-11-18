@@ -7,7 +7,7 @@
       "personaje": "Dio Hotmetal",
       "clase": "hunter",
       "raider": false,
-      "nivel": 278,
+      "nivel": 284,
       "max": 300,
       "pct": 33
     },
@@ -15,7 +15,7 @@
       "personaje": "Sugar Papy",
       "clase": "druid",
       "raider": false,
-      "nivel": 272,
+      "nivel": 274,
       "max": 300,
       "pct": 33
     },
@@ -47,7 +47,7 @@
       "personaje": "Don Josechu",
       "clase": "warlock",
       "raider": false,
-      "nivel": 159,
+      "nivel": 161,
       "max": 225,
       "pct": 33
     },

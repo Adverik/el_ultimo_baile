@@ -803,6 +803,58 @@
       ]
     },
     {
+      "id": 54721,
+      "n": "Guantes de guardia",
+      "q": "rare",
+      "ico": "136192",
+      "reac": [
+        [
+          "Lingote de bronce",
+          10
+        ],
+        [
+          "Piedra de pulir férrea",
+          4
+        ],
+        [
+          "Ácido sulfúrico",
+          2
+        ],
+        [
+          "Gema de las Sombras",
+          3
+        ]
+      ],
+      "obj": {
+        "arm": "115 armadura",
+        "id": 250509,
+        "ilvl": 20,
+        "lig": "Se liga al recogerlo",
+        "n": "Guantes de guardia",
+        "q": "rare",
+        "ranura": "Manos",
+        "req": 15,
+        "stats": [
+          "+5 fuerza",
+          "+5 aguante",
+          "+3 Defensa"
+        ],
+        "sub": "Mallas",
+        "venta": [
+          "0",
+          "4",
+          "89"
+        ]
+      },
+      "profesion": "Herrería",
+      "personajes": [
+        {
+          "n": "Hugo Forjaluz",
+          "clase": "paladin"
+        }
+      ]
+    },
+    {
       "id": 54707,
       "n": "Leotardos de anillas de protector",
       "q": "rare",
@@ -1414,6 +1466,10 @@
         {
           "n": "Tom Kha",
           "clase": "shaman"
+        },
+        {
+          "n": "Breezy Reaver",
+          "clase": "shaman"
         }
       ]
     },
@@ -1480,6 +1536,10 @@
         },
         {
           "n": "Tom Kha",
+          "clase": "shaman"
+        },
+        {
+          "n": "Breezy Reaver",
           "clase": "shaman"
         }
       ]
@@ -1653,6 +1713,10 @@
         {
           "n": "Tankesito Khrih",
           "clase": "druid"
+        },
+        {
+          "n": "Edoras Duskranger",
+          "clase": "hunter"
         }
       ]
     },
@@ -2645,6 +2709,10 @@
         {
           "n": "Tom Kha",
           "clase": "shaman"
+        },
+        {
+          "n": "Breezy Reaver",
+          "clase": "shaman"
         }
       ]
     },
@@ -2711,6 +2779,10 @@
         },
         {
           "n": "Tom Kha",
+          "clase": "shaman"
+        },
+        {
+          "n": "Breezy Reaver",
           "clase": "shaman"
         }
       ]

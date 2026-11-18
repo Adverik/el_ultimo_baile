@@ -71,7 +71,7 @@
       "personaje": "Sugar Papy",
       "clase": "druid",
       "raider": false,
-      "nivel": 130,
+      "nivel": 131,
       "max": 150,
       "pct": 33
     },
@@ -252,6 +252,14 @@
       "pct": 0
     },
     {
+      "personaje": "Jonaver Legends",
+      "clase": "mage",
+      "raider": false,
+      "nivel": 5,
+      "max": 75,
+      "pct": 0
+    },
+    {
       "personaje": "Ildaren Belisar",
       "clase": "rogue",
       "raider": false,
@@ -284,6 +292,14 @@
       "pct": 0
     },
     {
+      "personaje": "Españoleitor Españoleitor",
+      "clase": "warrior",
+      "raider": false,
+      "nivel": 1,
+      "max": 75,
+      "pct": 0
+    },
+    {
       "personaje": "Farhan Ironbeard",
       "clase": "warrior",
       "raider": false,
@@ -308,9 +324,9 @@
       "pct": 0
     },
     {
-      "personaje": "Jonaver Legends",
-      "clase": "mage",
-      "raider": false,
+      "personaje": "Khyoraku Shunsui",
+      "clase": "warrior",
+      "raider": true,
       "nivel": 1,
       "max": 75,
       "pct": 0
@@ -318,6 +334,14 @@
     {
       "personaje": "Señor Ollivander",
       "clase": "mage",
+      "raider": false,
+      "nivel": 1,
+      "max": 75,
+      "pct": 0
+    },
+    {
+      "personaje": "Tanki Llo",
+      "clase": "warlock",
       "raider": false,
       "nivel": 1,
       "max": 75,

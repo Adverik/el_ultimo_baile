@@ -7,7 +7,7 @@
       "personaje": "Dio Hotmetal",
       "clase": "hunter",
       "raider": false,
-      "nivel": 254,
+      "nivel": 257,
       "max": 300,
       "pct": 24
     },
@@ -23,9 +23,9 @@
       "personaje": "Fran Furion",
       "clase": "druid",
       "raider": true,
-      "nivel": 225,
-      "max": 225,
-      "pct": 18
+      "nivel": 242,
+      "max": 300,
+      "pct": 22
     },
     {
       "personaje": "Layrela Rondanit",
@@ -822,7 +822,9 @@
               "0"
             ]
           },
-          "quien": []
+          "quien": [
+            2
+          ]
         },
         {
           "id": 6011,
@@ -859,7 +861,9 @@
               "0"
             ]
           },
-          "quien": []
+          "quien": [
+            2
+          ]
         },
         {
           "id": 6012,
@@ -933,7 +937,9 @@
               "0"
             ]
           },
-          "quien": []
+          "quien": [
+            2
+          ]
         },
         {
           "id": 6015,
@@ -2770,7 +2776,9 @@
               "50"
             ]
           },
-          "quien": []
+          "quien": [
+            2
+          ]
         },
         {
           "id": 9938,
@@ -3551,7 +3559,8 @@
           },
           "quien": [
             0,
-            1
+            1,
+            2
           ]
         },
         {
@@ -5228,7 +5237,9 @@
               "0"
             ]
           },
-          "quien": []
+          "quien": [
+            2
+          ]
         },
         {
           "id": 6014,
@@ -5373,7 +5384,8 @@
           },
           "quien": [
             0,
-            1
+            1,
+            2
           ]
         },
         {
@@ -5820,7 +5832,8 @@
           },
           "quien": [
             0,
-            1
+            1,
+            2
           ]
         },
         {
