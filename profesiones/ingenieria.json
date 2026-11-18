@@ -7,9 +7,9 @@
       "personaje": "Cuzcu Aker",
       "clase": "paladin",
       "raider": true,
-      "nivel": 212,
-      "max": 225,
-      "pct": 14
+      "nivel": 213,
+      "max": 300,
+      "pct": 16
     },
     {
       "personaje": "Chaca Choochoo",
@@ -39,7 +39,7 @@
       "personaje": "Jonaver Legends",
       "clase": "mage",
       "raider": false,
-      "nivel": 102,
+      "nivel": 110,
       "max": 150,
       "pct": 7
     }
@@ -433,7 +433,9 @@
               "50"
             ]
           },
-          "quien": []
+          "quien": [
+            0
+          ]
         },
         {
           "id": 4294,
@@ -493,7 +495,9 @@
               "50"
             ]
           },
-          "quien": []
+          "quien": [
+            0
+          ]
         },
         {
           "id": 6858,
@@ -607,7 +611,9 @@
               "0"
             ]
           },
-          "quien": []
+          "quien": [
+            0
+          ]
         },
         {
           "id": 6868,
@@ -3078,7 +3084,9 @@
               "2"
             ]
           },
-          "quien": []
+          "quien": [
+            0
+          ]
         },
         {
           "id": 6878,

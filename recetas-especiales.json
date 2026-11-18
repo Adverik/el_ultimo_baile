@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-17",
+  "actualizado": "2026-11-18",
   "recetas": [
     {
       "id": 54692,
@@ -59,15 +59,19 @@
           "clase": "warrior"
         },
         {
+          "n": "Althez Sendagris",
+          "clase": "paladin"
+        },
+        {
+          "n": "Mosu Warryn",
+          "clase": "warrior"
+        },
+        {
           "n": "Tharindel Magnaluz",
           "clase": "paladin"
         },
         {
           "n": "Llamas Xx",
-          "clase": "warrior"
-        },
-        {
-          "n": "Mosu Warryn",
           "clase": "warrior"
         },
         {
@@ -333,6 +337,54 @@
       "personajes": [
         {
           "n": "Farhan Ironbeard",
+          "clase": "warrior"
+        }
+      ]
+    },
+    {
+      "id": 54701,
+      "n": "Camisa de anillas de guardia",
+      "q": "rare",
+      "ico": "132631",
+      "reac": [
+        [
+          "Lingote de bronce",
+          4
+        ],
+        [
+          "Piedra de pulir férrea",
+          2
+        ],
+        [
+          "Gema de las Sombras",
+          2
+        ]
+      ],
+      "obj": {
+        "arm": "184 armadura",
+        "id": 250489,
+        "ilvl": 20,
+        "lig": "Se liga al recogerlo",
+        "n": "Camisa de anillas de guardia",
+        "q": "rare",
+        "ranura": "Pecho",
+        "req": 15,
+        "stats": [
+          "+4 fuerza",
+          "+7 aguante",
+          "+5 Defensa"
+        ],
+        "sub": "Mallas",
+        "venta": [
+          "0",
+          "9",
+          "78"
+        ]
+      },
+      "profesion": "Herrería",
+      "personajes": [
+        {
+          "n": "Españoleitor Españoleitor",
           "clase": "warrior"
         }
       ]
@@ -694,6 +746,10 @@
         {
           "n": "Khyoraku Shunsui",
           "clase": "warrior"
+        },
+        {
+          "n": "Althez Sendagris",
+          "clase": "paladin"
         }
       ]
     },
@@ -850,6 +906,10 @@
         {
           "n": "Khyoraku Shunsui",
           "clase": "warrior"
+        },
+        {
+          "n": "Althez Sendagris",
+          "clase": "paladin"
         },
         {
           "n": "Tharindel Magnaluz",
@@ -1320,6 +1380,10 @@
           "clase": "hunter"
         },
         {
+          "n": "Manelhon Gargon",
+          "clase": "shaman"
+        },
+        {
           "n": "Memas Tour",
           "clase": "shaman"
         },
@@ -1334,10 +1398,6 @@
         {
           "n": "Aurelio Amador",
           "clase": "rogue"
-        },
-        {
-          "n": "Manelhon Gargon",
-          "clase": "shaman"
         },
         {
           "n": "Runa Ruina",
@@ -1876,6 +1936,10 @@
       "profesion": "Peletería",
       "personajes": [
         {
+          "n": "Manelhon Gargon",
+          "clase": "shaman"
+        },
+        {
           "n": "Memas Tour",
           "clase": "shaman"
         },
@@ -1886,10 +1950,6 @@
         {
           "n": "Tankesito Khrih",
           "clase": "druid"
-        },
-        {
-          "n": "Manelhon Gargon",
-          "clase": "shaman"
         }
       ]
     },
@@ -1937,6 +1997,10 @@
       "profesion": "Peletería",
       "personajes": [
         {
+          "n": "Manelhon Gargon",
+          "clase": "shaman"
+        },
+        {
           "n": "Memas Tour",
           "clase": "shaman"
         },
@@ -1947,10 +2011,6 @@
         {
           "n": "Tankesito Khrih",
           "clase": "druid"
-        },
-        {
-          "n": "Manelhon Gargon",
-          "clase": "shaman"
         }
       ]
     },
@@ -2194,6 +2254,10 @@
           "clase": "hunter"
         },
         {
+          "n": "Manelhon Gargon",
+          "clase": "shaman"
+        },
+        {
           "n": "Memas Tour",
           "clase": "shaman"
         },
@@ -2208,10 +2272,6 @@
         {
           "n": "Aurelio Amador",
           "clase": "rogue"
-        },
-        {
-          "n": "Manelhon Gargon",
-          "clase": "shaman"
         },
         {
           "n": "Edoras Duskranger",
@@ -2511,11 +2571,11 @@
       "profesion": "Peletería",
       "personajes": [
         {
-          "n": "Memas Tour",
+          "n": "Manelhon Gargon",
           "clase": "shaman"
         },
         {
-          "n": "Manelhon Gargon",
+          "n": "Memas Tour",
           "clase": "shaman"
         }
       ]

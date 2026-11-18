@@ -10,14 +10,14 @@
     "slug": "cocina",
     "nombre": "Cocina",
     "ico": "133971",
-    "artesanos": 55,
+    "artesanos": 59,
     "total": 132
   },
   {
     "slug": "desuello",
     "nombre": "Desuello",
     "ico": "134366",
-    "artesanos": 14,
+    "artesanos": 15,
     "total": 3
   },
   {
@@ -31,14 +31,14 @@
     "slug": "herboristeria",
     "nombre": "Herboristería",
     "ico": "136246",
-    "artesanos": 13,
+    "artesanos": 14,
     "total": 3
   },
   {
     "slug": "herreria",
     "nombre": "Herrería",
     "ico": "136241",
-    "artesanos": 10,
+    "artesanos": 11,
     "total": 507
   },
   {
@@ -52,35 +52,35 @@
     "slug": "mineria",
     "nombre": "Minería",
     "ico": "136248",
-    "artesanos": 19,
+    "artesanos": 22,
     "total": 17
   },
   {
     "slug": "peleteria",
     "nombre": "Peletería",
     "ico": "136247",
-    "artesanos": 12,
+    "artesanos": 13,
     "total": 592
   },
   {
     "slug": "pesca",
     "nombre": "Pesca",
     "ico": "136245",
-    "artesanos": 39,
+    "artesanos": 42,
     "total": 3
   },
   {
     "slug": "primeros-auxilios",
     "nombre": "Primeros auxilios",
     "ico": "135966",
-    "artesanos": 42,
+    "artesanos": 44,
     "total": 32
   },
   {
     "slug": "sastreria",
     "nombre": "Sastrería",
     "ico": "136249",
-    "artesanos": 15,
+    "artesanos": 16,
     "total": 471
   }
 ]

@@ -15,7 +15,7 @@
       "personaje": "Sugar Papy",
       "clase": "druid",
       "raider": false,
-      "nivel": 267,
+      "nivel": 272,
       "max": 300,
       "pct": 33
     },
@@ -23,7 +23,15 @@
       "personaje": "Fran Furion",
       "clase": "druid",
       "raider": true,
-      "nivel": 229,
+      "nivel": 244,
+      "max": 300,
+      "pct": 33
+    },
+    {
+      "personaje": "Tommy Durum",
+      "clase": "druid",
+      "raider": false,
+      "nivel": 225,
       "max": 300,
       "pct": 33
     },
@@ -31,8 +39,8 @@
       "personaje": "Layrela Rondanit",
       "clase": "druid",
       "raider": true,
-      "nivel": 217,
-      "max": 225,
+      "nivel": 224,
+      "max": 300,
       "pct": 33
     },
     {
@@ -71,7 +79,7 @@
       "personaje": "Tanki Llo",
       "clase": "warlock",
       "raider": false,
-      "nivel": 41,
+      "nivel": 44,
       "max": 75,
       "pct": 33
     },
@@ -148,7 +156,8 @@
             6,
             7,
             8,
-            9
+            9,
+            10
           ]
         },
         {

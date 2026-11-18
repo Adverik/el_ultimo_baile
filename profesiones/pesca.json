@@ -47,7 +47,7 @@
       "personaje": "Mosu Warryn",
       "clase": "warrior",
       "raider": false,
-      "nivel": 150,
+      "nivel": 153,
       "max": 225,
       "pct": 33
     },
@@ -124,6 +124,14 @@
       "pct": 33
     },
     {
+      "personaje": "Breezy Reaver",
+      "clase": "shaman",
+      "raider": false,
+      "nivel": 97,
+      "max": 150,
+      "pct": 33
+    },
+    {
       "personaje": "Flexita Shadowsoul",
       "clase": "hunter",
       "raider": false,
@@ -135,7 +143,7 @@
       "personaje": "Manelhon Gargon",
       "clase": "shaman",
       "raider": true,
-      "nivel": 80,
+      "nivel": 86,
       "max": 150,
       "pct": 33
     },
@@ -252,6 +260,14 @@
       "pct": 0
     },
     {
+      "personaje": "Althez Sendagris",
+      "clase": "paladin",
+      "raider": false,
+      "nivel": 1,
+      "max": 75,
+      "pct": 0
+    },
+    {
       "personaje": "Chaca Choochoo",
       "clase": "druid",
       "raider": false,
@@ -314,6 +330,14 @@
       "nivel": 1,
       "max": 75,
       "pct": 0
+    },
+    {
+      "personaje": "Tio Richard",
+      "clase": "paladin",
+      "raider": false,
+      "nivel": 1,
+      "max": 75,
+      "pct": 0
     }
   ],
   "categorias": [
@@ -368,13 +392,14 @@
             18,
             19,
             20,
-            22,
+            21,
             23,
             24,
             25,
             26,
             27,
-            28
+            28,
+            29
           ]
         },
         {

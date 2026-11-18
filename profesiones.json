@@ -1,6 +1,33 @@
 {
-  "actualizado": "2026-11-17",
+  "actualizado": "2026-11-18",
   "artesanos": [
+    {
+      "personaje": "Althez Sendagris",
+      "clase": "paladin",
+      "raider": false,
+      "profesiones": [
+        {
+          "nombre": "Minería",
+          "nivel": 197,
+          "max": 225
+        },
+        {
+          "nombre": "Herrería",
+          "nivel": 151,
+          "max": 225
+        },
+        {
+          "nombre": "Cocina",
+          "nivel": 150,
+          "max": 150
+        },
+        {
+          "nombre": "Pesca",
+          "nivel": 1,
+          "max": 75
+        }
+      ]
+    },
     {
       "personaje": "Armando Buya",
       "clase": "paladin",
@@ -8,12 +35,12 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 121,
+          "nivel": 124,
           "max": 150
         },
         {
           "nombre": "Herrería",
-          "nivel": 78,
+          "nivel": 81,
           "max": 150
         },
         {
@@ -127,13 +154,45 @@
       ]
     },
     {
+      "personaje": "Breezy Reaver",
+      "clase": "shaman",
+      "raider": false,
+      "profesiones": [
+        {
+          "nombre": "Peletería",
+          "nivel": 22,
+          "max": 75
+        },
+        {
+          "nombre": "Desuello",
+          "nivel": 185,
+          "max": 225
+        },
+        {
+          "nombre": "Cocina",
+          "nivel": 97,
+          "max": 150
+        },
+        {
+          "nombre": "Pesca",
+          "nivel": 97,
+          "max": 150
+        },
+        {
+          "nombre": "Primeros auxilios",
+          "nivel": 62,
+          "max": 150
+        }
+      ]
+    },
+    {
       "personaje": "Chaca Choochoo",
       "clase": "druid",
       "raider": false,
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 269,
+          "nivel": 271,
           "max": 300
         },
         {
@@ -165,7 +224,7 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 257,
+          "nivel": 259,
           "max": 300
         },
         {
@@ -197,13 +256,13 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 180,
-          "max": 225
+          "nivel": 209,
+          "max": 300
         },
         {
           "nombre": "Ingeniería",
-          "nivel": 212,
-          "max": 225
+          "nivel": 213,
+          "max": 300
         },
         {
           "nombre": "Cocina",
@@ -438,12 +497,12 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 88,
+          "nivel": 106,
           "max": 150
         },
         {
           "nombre": "Herrería",
-          "nivel": 85,
+          "nivel": 90,
           "max": 150
         },
         {
@@ -453,7 +512,7 @@
         },
         {
           "nombre": "Primeros auxilios",
-          "nivel": 84,
+          "nivel": 114,
           "max": 150
         }
       ]
@@ -632,7 +691,7 @@
         },
         {
           "nombre": "Herboristería",
-          "nivel": 229,
+          "nivel": 244,
           "max": 300
         },
         {
@@ -799,12 +858,12 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 91,
+          "nivel": 95,
           "max": 150
         },
         {
           "nombre": "Ingeniería",
-          "nivel": 102,
+          "nivel": 110,
           "max": 150
         },
         {
@@ -880,7 +939,7 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 224,
+          "nivel": 227,
           "max": 300
         },
         {
@@ -890,7 +949,7 @@
         },
         {
           "nombre": "Cocina",
-          "nivel": 201,
+          "nivel": 206,
           "max": 225
         },
         {
@@ -912,13 +971,13 @@
       "profesiones": [
         {
           "nombre": "Alquimia",
-          "nivel": 196,
+          "nivel": 201,
           "max": 225
         },
         {
           "nombre": "Herboristería",
-          "nivel": 217,
-          "max": 225
+          "nivel": 224,
+          "max": 300
         },
         {
           "nombre": "Cocina",
@@ -944,7 +1003,7 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 134,
+          "nivel": 141,
           "max": 225
         },
         {
@@ -964,7 +1023,7 @@
         },
         {
           "nombre": "Primeros auxilios",
-          "nivel": 192,
+          "nivel": 193,
           "max": 225
         }
       ]
@@ -976,12 +1035,12 @@
       "profesiones": [
         {
           "nombre": "Peletería",
-          "nivel": 157,
+          "nivel": 182,
           "max": 225
         },
         {
           "nombre": "Desuello",
-          "nivel": 242,
+          "nivel": 251,
           "max": 300
         },
         {
@@ -991,7 +1050,7 @@
         },
         {
           "nombre": "Pesca",
-          "nivel": 80,
+          "nivel": 86,
           "max": 150
         },
         {
@@ -1072,12 +1131,12 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 126,
+          "nivel": 140,
           "max": 225
         },
         {
           "nombre": "Herrería",
-          "nivel": 119,
+          "nivel": 130,
           "max": 150
         },
         {
@@ -1087,7 +1146,7 @@
         },
         {
           "nombre": "Pesca",
-          "nivel": 150,
+          "nivel": 153,
           "max": 225
         },
         {
@@ -1276,12 +1335,12 @@
       "profesiones": [
         {
           "nombre": "Desuello",
-          "nivel": 128,
-          "max": 150
+          "nivel": 138,
+          "max": 225
         },
         {
           "nombre": "Minería",
-          "nivel": 89,
+          "nivel": 93,
           "max": 150
         },
         {
@@ -1296,7 +1355,7 @@
         },
         {
           "nombre": "Primeros auxilios",
-          "nivel": 83,
+          "nivel": 84,
           "max": 150
         }
       ]
@@ -1377,7 +1436,7 @@
         },
         {
           "nombre": "Herboristería",
-          "nivel": 267,
+          "nivel": 272,
           "max": 300
         },
         {
@@ -1436,7 +1495,7 @@
         },
         {
           "nombre": "Desuello",
-          "nivel": 231,
+          "nivel": 240,
           "max": 300
         },
         {
@@ -1463,12 +1522,12 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 37,
+          "nivel": 38,
           "max": 75
         },
         {
           "nombre": "Herboristería",
-          "nivel": 41,
+          "nivel": 44,
           "max": 75
         },
         {
@@ -1543,6 +1602,38 @@
       ]
     },
     {
+      "personaje": "Tio Richard",
+      "clase": "paladin",
+      "raider": false,
+      "profesiones": [
+        {
+          "nombre": "Sastrería",
+          "nivel": 137,
+          "max": 150
+        },
+        {
+          "nombre": "Minería",
+          "nivel": 72,
+          "max": 75
+        },
+        {
+          "nombre": "Cocina",
+          "nivel": 6,
+          "max": 75
+        },
+        {
+          "nombre": "Pesca",
+          "nivel": 1,
+          "max": 75
+        },
+        {
+          "nombre": "Primeros auxilios",
+          "nivel": 83,
+          "max": 150
+        }
+      ]
+    },
+    {
       "personaje": "Tom Kha",
       "clase": "shaman",
       "raider": false,
@@ -1566,6 +1657,28 @@
           "nombre": "Pesca",
           "nivel": 78,
           "max": 150
+        }
+      ]
+    },
+    {
+      "personaje": "Tommy Durum",
+      "clase": "druid",
+      "raider": false,
+      "profesiones": [
+        {
+          "nombre": "Minería",
+          "nivel": 116,
+          "max": 150
+        },
+        {
+          "nombre": "Herboristería",
+          "nivel": 225,
+          "max": 300
+        },
+        {
+          "nombre": "Cocina",
+          "nivel": 45,
+          "max": 75
         }
       ]
     },
@@ -2270,11 +2383,13 @@
       "profesion": "Cocina",
       "calidad": "common",
       "personajes": [
+        "Althez Sendagris",
         "Armando Buya",
         "Aurelio Amador",
         "Aynita Again",
         "Black Phanter",
         "Blind Minds",
+        "Breezy Reaver",
         "Chaca Choochoo",
         "Coloso Tempestad",
         "Cuzcu Aker",
@@ -2323,7 +2438,9 @@
         "Tanki Llo",
         "Tharindel Magnaluz",
         "Thundrik Volgrim",
+        "Tio Richard",
         "Tom Kha",
+        "Tommy Durum",
         "Vaporeta Pizpireta"
       ]
     },
@@ -2332,6 +2449,7 @@
       "profesion": "Cocina",
       "calidad": "common",
       "personajes": [
+        "Breezy Reaver",
         "Dum Bo",
         "Kadeharz Apsus",
         "Khyoraku Shunsui",
@@ -2361,6 +2479,8 @@
       "profesion": "Cocina",
       "calidad": "common",
       "personajes": [
+        "Althez Sendagris",
+        "Breezy Reaver",
         "Coloso Tempestad",
         "Dum Bo",
         "Espartaco Gladiador",
@@ -2380,7 +2500,9 @@
       "profesion": "Cocina",
       "calidad": "common",
       "personajes": [
+        "Althez Sendagris",
         "Aurelio Amador",
+        "Breezy Reaver",
         "Chaca Choochoo",
         "Coloso Tempestad",
         "Diana Flechaveloz",
@@ -2415,6 +2537,7 @@
       "profesion": "Cocina",
       "calidad": "common",
       "personajes": [
+        "Breezy Reaver",
         "Coloso Tempestad",
         "Diana Flechaveloz",
         "Dio Hotmetal",
@@ -2429,6 +2552,7 @@
       "profesion": "Cocina",
       "calidad": "common",
       "personajes": [
+        "Breezy Reaver",
         "Cuzcu Aker",
         "Diana Flechaveloz",
         "Dum Bo",
@@ -2490,11 +2614,13 @@
       "profesion": "Cocina",
       "calidad": "common",
       "personajes": [
+        "Althez Sendagris",
         "Armando Buya",
         "Aurelio Amador",
         "Aynita Again",
         "Black Phanter",
         "Blind Minds",
+        "Breezy Reaver",
         "Chaca Choochoo",
         "Coloso Tempestad",
         "Cuzcu Aker",
@@ -2543,7 +2669,9 @@
         "Tanki Llo",
         "Tharindel Magnaluz",
         "Thundrik Volgrim",
+        "Tio Richard",
         "Tom Kha",
+        "Tommy Durum",
         "Vaporeta Pizpireta"
       ]
     },
@@ -2560,6 +2688,7 @@
       "profesion": "Cocina",
       "calidad": "common",
       "personajes": [
+        "Althez Sendagris",
         "Chaca Choochoo",
         "Coloso Tempestad",
         "Dum Bo",
@@ -2567,6 +2696,7 @@
         "Flexita Shadowsoul",
         "Layrela Rondanit",
         "Manelhon Gargon",
+        "Samael Thallanor",
         "Tharindel Magnaluz"
       ]
     },
@@ -2576,6 +2706,7 @@
       "calidad": "common",
       "personajes": [
         "Aurelio Amador",
+        "Breezy Reaver",
         "Chaca Choochoo",
         "Coloso Tempestad",
         "Diana Flechaveloz",
@@ -2609,6 +2740,7 @@
       "profesion": "Cocina",
       "calidad": "common",
       "personajes": [
+        "Breezy Reaver",
         "Chaca Choochoo",
         "Coloso Tempestad",
         "Diana Flechaveloz",
@@ -2639,6 +2771,7 @@
       "profesion": "Cocina",
       "calidad": "common",
       "personajes": [
+        "Althez Sendagris",
         "Chaca Choochoo",
         "Diana Flechaveloz",
         "Dum Bo",
@@ -2663,6 +2796,8 @@
       "profesion": "Cocina",
       "calidad": "common",
       "personajes": [
+        "Althez Sendagris",
+        "Breezy Reaver",
         "Coloso Tempestad",
         "Dum Bo",
         "Manelhon Gargon",
@@ -2675,6 +2810,7 @@
       "profesion": "Cocina",
       "calidad": "common",
       "personajes": [
+        "Althez Sendagris",
         "Chaca Choochoo",
         "Diana Flechaveloz",
         "Dum Bo",
@@ -2683,6 +2819,7 @@
         "Espartaco Gladiador",
         "Flexita Shadowsoul",
         "La Pety",
+        "Mosu Warryn",
         "Palmira Natblida",
         "Runa Ruina",
         "Sugar Papy"
@@ -2693,6 +2830,8 @@
       "profesion": "Cocina",
       "calidad": "common",
       "personajes": [
+        "Althez Sendagris",
+        "Breezy Reaver",
         "Chaca Choochoo",
         "Coloso Tempestad",
         "Diana Flechaveloz",
@@ -2745,6 +2884,7 @@
       "profesion": "Cocina",
       "calidad": "common",
       "personajes": [
+        "Althez Sendagris",
         "Cuzcu Aker",
         "Diana Flechaveloz",
         "Dum Bo",
@@ -2779,6 +2919,7 @@
       "profesion": "Cocina",
       "calidad": "common",
       "personajes": [
+        "Althez Sendagris",
         "Chaca Choochoo",
         "Cuzcu Aker",
         "Diana Flechaveloz",
@@ -2804,6 +2945,7 @@
       "profesion": "Cocina",
       "calidad": "common",
       "personajes": [
+        "Althez Sendagris",
         "Coloso Tempestad",
         "Dum Bo",
         "Edoras Duskranger",
@@ -2833,11 +2975,13 @@
       "profesion": "Cocina",
       "calidad": "common",
       "personajes": [
+        "Althez Sendagris",
         "Armando Buya",
         "Aurelio Amador",
         "Aynita Again",
         "Black Phanter",
         "Blind Minds",
+        "Breezy Reaver",
         "Chaca Choochoo",
         "Coloso Tempestad",
         "Cuzcu Aker",
@@ -2886,7 +3030,9 @@
         "Tanki Llo",
         "Tharindel Magnaluz",
         "Thundrik Volgrim",
+        "Tio Richard",
         "Tom Kha",
+        "Tommy Durum",
         "Vaporeta Pizpireta"
       ]
     },
@@ -2946,6 +3092,7 @@
       "profesion": "Cocina",
       "calidad": "common",
       "personajes": [
+        "Breezy Reaver",
         "Dum Bo",
         "Edoras Duskranger",
         "Memas Tour",
@@ -2957,6 +3104,7 @@
       "profesion": "Cocina",
       "calidad": "common",
       "personajes": [
+        "Breezy Reaver",
         "Cuzcu Aker",
         "Dum Bo",
         "Edoras Duskranger",
@@ -2990,6 +3138,8 @@
       "profesion": "Cocina",
       "calidad": "common",
       "personajes": [
+        "Althez Sendagris",
+        "Breezy Reaver",
         "Chaca Choochoo",
         "Coloso Tempestad",
         "Cuzcu Aker",
@@ -3086,6 +3236,7 @@
       "profesion": "Cocina",
       "calidad": "common",
       "personajes": [
+        "Althez Sendagris",
         "Chaca Choochoo",
         "Diana Flechaveloz",
         "Dum Bo",
@@ -3116,11 +3267,13 @@
       "profesion": "Cocina",
       "calidad": "common",
       "personajes": [
+        "Althez Sendagris",
         "Armando Buya",
         "Aurelio Amador",
         "Aynita Again",
         "Black Phanter",
         "Blind Minds",
+        "Breezy Reaver",
         "Chaca Choochoo",
         "Coloso Tempestad",
         "Cuzcu Aker",
@@ -3169,7 +3322,9 @@
         "Tanki Llo",
         "Tharindel Magnaluz",
         "Thundrik Volgrim",
+        "Tio Richard",
         "Tom Kha",
+        "Tommy Durum",
         "Vaporeta Pizpireta"
       ]
     },
@@ -3190,6 +3345,7 @@
       "profesion": "Cocina",
       "calidad": "common",
       "personajes": [
+        "Althez Sendagris",
         "Cuzcu Aker",
         "Edoras Duskranger",
         "Elfa Vorable",
@@ -3227,6 +3383,7 @@
       "profesion": "Cocina",
       "calidad": "common",
       "personajes": [
+        "Althez Sendagris",
         "Chaca Choochoo",
         "Cuzcu Aker",
         "Diana Flechaveloz",
@@ -3352,6 +3509,7 @@
       "personajes": [
         "Aurelio Amador",
         "Aynita Again",
+        "Breezy Reaver",
         "Chaca Choochoo",
         "Coloso Tempestad",
         "Cuzcu Aker",
@@ -3385,7 +3543,8 @@
         "Takkaao Valengri",
         "Tankesito Khrih",
         "Tharindel Magnaluz",
-        "Tom Kha"
+        "Tom Kha",
+        "Tommy Durum"
       ]
     },
     {
@@ -3395,6 +3554,7 @@
       "personajes": [
         "Espartaco Gladiador",
         "Finn Felagund",
+        "La Pety",
         "Layrela Rondanit",
         "Runa Ruina",
         "Sugar Papy"
@@ -3436,6 +3596,7 @@
       "profesion": "Cocina",
       "calidad": "common",
       "personajes": [
+        "Althez Sendagris",
         "Chaca Choochoo",
         "Cuzcu Aker",
         "Diana Flechaveloz",
@@ -3466,8 +3627,10 @@
         "Kadeharz Apsus",
         "La Pety",
         "Llamas Xx",
+        "Mosu Warryn",
         "Palmira Natblida",
-        "Runa Ruina"
+        "Runa Ruina",
+        "Tommy Durum"
       ]
     },
     {
@@ -3475,6 +3638,7 @@
       "profesion": "Cocina",
       "calidad": "common",
       "personajes": [
+        "Cuzcu Aker",
         "Finn Felagund",
         "Sugar Papy"
       ]
@@ -3512,6 +3676,7 @@
       "profesion": "Cocina",
       "calidad": "common",
       "personajes": [
+        "Althez Sendagris",
         "Coloso Tempestad",
         "Cuzcu Aker",
         "Dum Bo",
@@ -3536,6 +3701,7 @@
       "calidad": "common",
       "personajes": [
         "Aurelio Amador",
+        "Breezy Reaver",
         "Diana Flechaveloz",
         "Edoras Duskranger",
         "Filps Pachamamamon",
@@ -3565,10 +3731,12 @@
       "calidad": "common",
       "personajes": [
         "Aurelio Amador",
+        "Breezy Reaver",
         "Diana Flechaveloz",
         "Ildaren Belisar",
         "Memas Tour",
         "Palmira Natblida",
+        "Samael Thallanor",
         "Tom Kha"
       ]
     },
@@ -3590,8 +3758,7 @@
       "personajes": [
         "Filps Pachamamamon",
         "Fitipaldi Sendaumbria",
-        "Nindalf Pizpireta",
-        "Samael Thallanor"
+        "Nindalf Pizpireta"
       ]
     },
     {
@@ -4570,12 +4737,25 @@
       "calidad": "common",
       "personajes": [
         "Dio Hotmetal",
+        "Fran Furion",
+        "Layrela Rondanit",
+        "Sugar Papy",
+        "Tommy Durum"
+      ]
+    },
+    {
+      "nombre": "Herbalism",
+      "profesion": "Herboristería",
+      "calidad": "common",
+      "personajes": [
+        "Dio Hotmetal",
         "Don Josechu",
         "Fran Furion",
         "Genethika Brisaveloz",
         "Grimmjow Jaegerjakez",
         "Layrela Rondanit",
-        "Sugar Papy"
+        "Sugar Papy",
+        "Tommy Durum"
       ]
     },
     {
@@ -4583,19 +4763,11 @@
       "profesion": "Herboristería",
       "calidad": "common",
       "personajes": [
-        "Don Josechu",
-        "Genethika Brisaveloz",
-        "Layrela Rondanit"
-      ]
-    },
-    {
-      "nombre": "Herbalism",
-      "profesion": "Herboristería",
-      "calidad": "common",
-      "personajes": [
-        "Don Josechu",
-        "Genethika Brisaveloz",
-        "Layrela Rondanit"
+        "Dio Hotmetal",
+        "Fran Furion",
+        "Layrela Rondanit",
+        "Sugar Papy",
+        "Tommy Durum"
       ]
     },
     {
@@ -4637,9 +4809,8 @@
       "profesion": "Herboristería",
       "calidad": "common",
       "personajes": [
-        "Dio Hotmetal",
-        "Fran Furion",
-        "Sugar Papy"
+        "Don Josechu",
+        "Genethika Brisaveloz"
       ]
     },
     {
@@ -4647,9 +4818,8 @@
       "profesion": "Herboristería",
       "calidad": "common",
       "personajes": [
-        "Dio Hotmetal",
-        "Fran Furion",
-        "Sugar Papy"
+        "Don Josechu",
+        "Genethika Brisaveloz"
       ]
     },
     {
@@ -4666,7 +4836,8 @@
         "Layrela Rondanit",
         "Sugar Papy",
         "Takkaao Valengri",
-        "Tanki Llo"
+        "Tanki Llo",
+        "Tommy Durum"
       ]
     },
     {
@@ -4690,6 +4861,7 @@
       "profesion": "Herrería",
       "calidad": "uncommon",
       "personajes": [
+        "Armando Buya",
         "Coloso Tempestad",
         "Españoleitor Españoleitor",
         "Farhan Ironbeard",
@@ -4701,11 +4873,21 @@
       ]
     },
     {
+      "nombre": "Blue Glittering Axe",
+      "profesion": "Herrería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Coloso Tempestad"
+      ]
+    },
+    {
       "nombre": "Bronze Axe",
       "profesion": "Herrería",
       "calidad": "uncommon",
       "personajes": [
+        "Althez Sendagris",
         "Coloso Tempestad",
+        "Españoleitor Españoleitor",
         "Farhan Ironbeard",
         "Hugo Forjaluz",
         "Khyoraku Shunsui",
@@ -4766,6 +4948,7 @@
       "profesion": "Herrería",
       "calidad": "uncommon",
       "personajes": [
+        "Althez Sendagris",
         "Coloso Tempestad",
         "Khyoraku Shunsui",
         "Tharindel Magnaluz"
@@ -4776,6 +4959,7 @@
       "profesion": "Herrería",
       "calidad": "common",
       "personajes": [
+        "Althez Sendagris",
         "Armando Buya",
         "Coloso Tempestad",
         "Espartaco Gladiador",
@@ -4810,6 +4994,7 @@
       "profesion": "Herrería",
       "calidad": "common",
       "personajes": [
+        "Althez Sendagris",
         "Armando Buya",
         "Coloso Tempestad",
         "Espartaco Gladiador",
@@ -4827,6 +5012,7 @@
       "profesion": "Herrería",
       "calidad": "common",
       "personajes": [
+        "Althez Sendagris",
         "Armando Buya",
         "Coloso Tempestad",
         "Espartaco Gladiador",
@@ -4858,6 +5044,7 @@
       "profesion": "Herrería",
       "calidad": "common",
       "personajes": [
+        "Althez Sendagris",
         "Armando Buya",
         "Coloso Tempestad",
         "Espartaco Gladiador",
@@ -4875,6 +5062,7 @@
       "profesion": "Herrería",
       "calidad": "uncommon",
       "personajes": [
+        "Althez Sendagris",
         "Armando Buya",
         "Coloso Tempestad",
         "Espartaco Gladiador",
@@ -4909,6 +5097,7 @@
       "profesion": "Herrería",
       "calidad": "uncommon",
       "personajes": [
+        "Althez Sendagris",
         "Armando Buya",
         "Coloso Tempestad",
         "Espartaco Gladiador",
@@ -4926,6 +5115,7 @@
       "profesion": "Herrería",
       "calidad": "uncommon",
       "personajes": [
+        "Althez Sendagris",
         "Coloso Tempestad",
         "Espartaco Gladiador",
         "Tharindel Magnaluz"
@@ -4968,6 +5158,7 @@
       "profesion": "Herrería",
       "calidad": "common",
       "personajes": [
+        "Althez Sendagris",
         "Armando Buya",
         "Coloso Tempestad",
         "Espartaco Gladiador",
@@ -4985,6 +5176,7 @@
       "profesion": "Herrería",
       "calidad": "common",
       "personajes": [
+        "Althez Sendagris",
         "Armando Buya",
         "Coloso Tempestad",
         "Espartaco Gladiador",
@@ -5019,6 +5211,7 @@
       "profesion": "Herrería",
       "calidad": "rare",
       "personajes": [
+        "Althez Sendagris",
         "Armando Buya",
         "Coloso Tempestad",
         "Espartaco Gladiador",
@@ -5029,6 +5222,15 @@
         "Llamas Xx",
         "Mosu Warryn",
         "Tharindel Magnaluz"
+      ]
+    },
+    {
+      "nombre": "Gemmed Copper Gauntlets",
+      "profesion": "Herrería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Althez Sendagris",
+        "Armando Buya"
       ]
     },
     {
@@ -5062,6 +5264,7 @@
         "Coloso Tempestad",
         "Espartaco Gladiador",
         "Khyoraku Shunsui",
+        "Mosu Warryn",
         "Tharindel Magnaluz"
       ]
     },
@@ -5090,6 +5293,7 @@
         "Coloso Tempestad",
         "Espartaco Gladiador",
         "Khyoraku Shunsui",
+        "Mosu Warryn",
         "Tharindel Magnaluz"
       ]
     },
@@ -5098,6 +5302,7 @@
       "profesion": "Herrería",
       "calidad": "uncommon",
       "personajes": [
+        "Althez Sendagris",
         "Coloso Tempestad",
         "Espartaco Gladiador",
         "Khyoraku Shunsui"
@@ -5117,6 +5322,7 @@
       "profesion": "Herrería",
       "calidad": "uncommon",
       "personajes": [
+        "Althez Sendagris",
         "Coloso Tempestad",
         "Espartaco Gladiador",
         "Khyoraku Shunsui"
@@ -5127,6 +5333,7 @@
       "profesion": "Herrería",
       "calidad": "uncommon",
       "personajes": [
+        "Althez Sendagris",
         "Coloso Tempestad",
         "Espartaco Gladiador",
         "Khyoraku Shunsui"
@@ -5138,6 +5345,14 @@
       "calidad": "rare",
       "personajes": [
         "Coloso Tempestad"
+      ]
+    },
+    {
+      "nombre": "Guard's Chain Shirt",
+      "profesion": "Herrería",
+      "calidad": "rare",
+      "personajes": [
+        "Españoleitor Españoleitor"
       ]
     },
     {
@@ -5186,6 +5401,7 @@
       "profesion": "Herrería",
       "calidad": "uncommon",
       "personajes": [
+        "Althez Sendagris",
         "Armando Buya",
         "Coloso Tempestad",
         "Espartaco Gladiador",
@@ -5202,6 +5418,7 @@
       "profesion": "Herrería",
       "calidad": "common",
       "personajes": [
+        "Althez Sendagris",
         "Coloso Tempestad",
         "Espartaco Gladiador",
         "Khyoraku Shunsui",
@@ -5252,6 +5469,7 @@
       "profesion": "Herrería",
       "calidad": "common",
       "personajes": [
+        "Althez Sendagris",
         "Coloso Tempestad",
         "Espartaco Gladiador",
         "Khyoraku Shunsui",
@@ -5273,9 +5491,11 @@
       "profesion": "Herrería",
       "calidad": "common",
       "personajes": [
+        "Althez Sendagris",
         "Coloso Tempestad",
         "Espartaco Gladiador",
         "Khyoraku Shunsui",
+        "Mosu Warryn",
         "Tharindel Magnaluz"
       ]
     },
@@ -5292,6 +5512,7 @@
       "profesion": "Herrería",
       "calidad": "uncommon",
       "personajes": [
+        "Althez Sendagris",
         "Espartaco Gladiador",
         "Hugo Forjaluz",
         "Tharindel Magnaluz"
@@ -5358,6 +5579,7 @@
       "profesion": "Herrería",
       "calidad": "rare",
       "personajes": [
+        "Althez Sendagris",
         "Coloso Tempestad",
         "Khyoraku Shunsui"
       ]
@@ -5367,6 +5589,7 @@
       "profesion": "Herrería",
       "calidad": "uncommon",
       "personajes": [
+        "Althez Sendagris",
         "Coloso Tempestad",
         "Espartaco Gladiador",
         "Farhan Ironbeard",
@@ -5452,6 +5675,7 @@
       "profesion": "Herrería",
       "calidad": "uncommon",
       "personajes": [
+        "Armando Buya",
         "Coloso Tempestad",
         "Espartaco Gladiador",
         "Españoleitor Españoleitor",
@@ -5468,6 +5692,7 @@
       "profesion": "Herrería",
       "calidad": "uncommon",
       "personajes": [
+        "Armando Buya",
         "Coloso Tempestad",
         "Espartaco Gladiador",
         "Españoleitor Españoleitor",
@@ -5484,6 +5709,7 @@
       "profesion": "Herrería",
       "calidad": "uncommon",
       "personajes": [
+        "Althez Sendagris",
         "Coloso Tempestad",
         "Espartaco Gladiador",
         "Españoleitor Españoleitor",
@@ -5510,6 +5736,7 @@
       "profesion": "Herrería",
       "calidad": "uncommon",
       "personajes": [
+        "Althez Sendagris",
         "Armando Buya",
         "Coloso Tempestad",
         "Espartaco Gladiador",
@@ -5527,6 +5754,7 @@
       "profesion": "Herrería",
       "calidad": "common",
       "personajes": [
+        "Althez Sendagris",
         "Armando Buya",
         "Coloso Tempestad",
         "Espartaco Gladiador",
@@ -5544,6 +5772,7 @@
       "profesion": "Herrería",
       "calidad": "common",
       "personajes": [
+        "Althez Sendagris",
         "Armando Buya",
         "Coloso Tempestad",
         "Espartaco Gladiador",
@@ -5561,6 +5790,7 @@
       "profesion": "Herrería",
       "calidad": "common",
       "personajes": [
+        "Althez Sendagris",
         "Armando Buya",
         "Coloso Tempestad",
         "Espartaco Gladiador",
@@ -5578,6 +5808,7 @@
       "profesion": "Herrería",
       "calidad": "uncommon",
       "personajes": [
+        "Althez Sendagris",
         "Armando Buya",
         "Coloso Tempestad",
         "Espartaco Gladiador",
@@ -5595,6 +5826,7 @@
       "profesion": "Herrería",
       "calidad": "uncommon",
       "personajes": [
+        "Althez Sendagris",
         "Armando Buya",
         "Coloso Tempestad",
         "Espartaco Gladiador",
@@ -5620,6 +5852,7 @@
       "profesion": "Herrería",
       "calidad": "uncommon",
       "personajes": [
+        "Althez Sendagris",
         "Armando Buya",
         "Coloso Tempestad",
         "Espartaco Gladiador",
@@ -5637,6 +5870,7 @@
       "profesion": "Herrería",
       "calidad": "uncommon",
       "personajes": [
+        "Althez Sendagris",
         "Armando Buya",
         "Coloso Tempestad",
         "Espartaco Gladiador",
@@ -5688,6 +5922,7 @@
       "profesion": "Herrería",
       "calidad": "rare",
       "personajes": [
+        "Althez Sendagris",
         "Coloso Tempestad",
         "Khyoraku Shunsui",
         "Llamas Xx",
@@ -5733,6 +5968,7 @@
       "profesion": "Herrería",
       "calidad": "uncommon",
       "personajes": [
+        "Althez Sendagris",
         "Coloso Tempestad",
         "Espartaco Gladiador",
         "Khyoraku Shunsui",
@@ -5745,12 +5981,21 @@
       "profesion": "Herrería",
       "calidad": "uncommon",
       "personajes": [
+        "Althez Sendagris",
         "Coloso Tempestad",
         "Espartaco Gladiador",
         "Khyoraku Shunsui",
         "Llamas Xx",
         "Mosu Warryn",
         "Tharindel Magnaluz"
+      ]
+    },
+    {
+      "nombre": "Silvered Bronze Leggings",
+      "profesion": "Herrería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Mosu Warryn"
       ]
     },
     {
@@ -6129,6 +6374,14 @@
       ]
     },
     {
+      "nombre": "Gold Power Core",
+      "profesion": "Ingeniería",
+      "calidad": "common",
+      "personajes": [
+        "Cuzcu Aker"
+      ]
+    },
+    {
       "nombre": "Green Tinted Goggles",
       "profesion": "Ingeniería",
       "calidad": "uncommon",
@@ -6136,6 +6389,14 @@
         "Chaca Choochoo",
         "Cuzcu Aker",
         "La Pety"
+      ]
+    },
+    {
+      "nombre": "Gyrochronatom",
+      "profesion": "Ingeniería",
+      "calidad": "common",
+      "personajes": [
+        "Cuzcu Aker"
       ]
     },
     {
@@ -6186,6 +6447,14 @@
         "Cuzcu Aker",
         "Flexita Shadowsoul",
         "La Pety"
+      ]
+    },
+    {
+      "nombre": "Hi-Impact Mithril Slugs",
+      "profesion": "Ingeniería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Cuzcu Aker"
       ]
     },
     {
@@ -6438,6 +6707,14 @@
       ]
     },
     {
+      "nombre": "Unstable Trigger",
+      "profesion": "Ingeniería",
+      "calidad": "common",
+      "personajes": [
+        "Cuzcu Aker"
+      ]
+    },
+    {
       "nombre": "Whirring Bronze Gizmo",
       "profesion": "Ingeniería",
       "calidad": "common",
@@ -6452,6 +6729,7 @@
       "profesion": "Minería",
       "calidad": "common",
       "personajes": [
+        "Althez Sendagris",
         "Armando Buya",
         "Chaca Choochoo",
         "Coloso Tempestad",
@@ -6468,7 +6746,9 @@
         "Llamas Xx",
         "Mosu Warryn",
         "Samael Thallanor",
-        "Tharindel Magnaluz"
+        "Tharindel Magnaluz",
+        "Tio Richard",
+        "Tommy Durum"
       ]
     },
     {
@@ -6476,6 +6756,7 @@
       "profesion": "Minería",
       "calidad": "common",
       "personajes": [
+        "Althez Sendagris",
         "Armando Buya",
         "Chaca Choochoo",
         "Coloso Tempestad",
@@ -6491,7 +6772,8 @@
         "Llamas Xx",
         "Mosu Warryn",
         "Samael Thallanor",
-        "Tharindel Magnaluz"
+        "Tharindel Magnaluz",
+        "Tommy Durum"
       ]
     },
     {
@@ -6501,6 +6783,7 @@
       "personajes": [
         "Chaca Choochoo",
         "Coloso Tempestad",
+        "Cuzcu Aker",
         "La Pety"
       ]
     },
@@ -6511,7 +6794,8 @@
       "personajes": [
         "Fifi Fififran",
         "Grimmjow Jaegerjakez",
-        "Tanki Llo"
+        "Tanki Llo",
+        "Tio Richard"
       ]
     },
     {
@@ -6519,7 +6803,7 @@
       "profesion": "Minería",
       "calidad": "common",
       "personajes": [
-        "Cuzcu Aker",
+        "Althez Sendagris",
         "Espartaco Gladiador",
         "Flexita Shadowsoul",
         "Khyoraku Shunsui",
@@ -6541,6 +6825,7 @@
       "profesion": "Minería",
       "calidad": "common",
       "personajes": [
+        "Althez Sendagris",
         "Armando Buya",
         "Chaca Choochoo",
         "Coloso Tempestad",
@@ -6564,6 +6849,7 @@
       "profesion": "Minería",
       "calidad": "common",
       "personajes": [
+        "Althez Sendagris",
         "Armando Buya",
         "Chaca Choochoo",
         "Coloso Tempestad",
@@ -6582,7 +6868,9 @@
         "Mosu Warryn",
         "Samael Thallanor",
         "Tanki Llo",
-        "Tharindel Magnaluz"
+        "Tharindel Magnaluz",
+        "Tio Richard",
+        "Tommy Durum"
       ]
     },
     {
@@ -6590,6 +6878,7 @@
       "profesion": "Minería",
       "calidad": "uncommon",
       "personajes": [
+        "Althez Sendagris",
         "Coloso Tempestad",
         "Cuzcu Aker",
         "Espartaco Gladiador",
@@ -6602,6 +6891,7 @@
       "profesion": "Minería",
       "calidad": "common",
       "personajes": [
+        "Althez Sendagris",
         "Chaca Choochoo",
         "Coloso Tempestad",
         "Cuzcu Aker",
@@ -6619,6 +6909,7 @@
       "profesion": "Minería",
       "calidad": "common",
       "personajes": [
+        "Althez Sendagris",
         "Coloso Tempestad",
         "Cuzcu Aker",
         "Espartaco Gladiador",
@@ -6630,6 +6921,7 @@
       "profesion": "Minería",
       "calidad": "uncommon",
       "personajes": [
+        "Althez Sendagris",
         "Armando Buya",
         "Chaca Choochoo",
         "Coloso Tempestad",
@@ -6652,6 +6944,7 @@
       "profesion": "Minería",
       "calidad": "common",
       "personajes": [
+        "Althez Sendagris",
         "Coloso Tempestad",
         "Cuzcu Aker",
         "Espartaco Gladiador",
@@ -6664,6 +6957,7 @@
       "profesion": "Minería",
       "calidad": "common",
       "personajes": [
+        "Althez Sendagris",
         "Armando Buya",
         "Chaca Choochoo",
         "Coloso Tempestad",
@@ -6856,7 +7150,8 @@
       "profesion": "Peletería",
       "calidad": "common",
       "personajes": [
-        "Diana Flechaveloz"
+        "Diana Flechaveloz",
+        "Manelhon Gargon"
       ]
     },
     {
@@ -7238,6 +7533,7 @@
       "calidad": "uncommon",
       "personajes": [
         "Diana Flechaveloz",
+        "Manelhon Gargon",
         "Memas Tour",
         "Palmira Natblida",
         "Tankesito Khrih"
@@ -7248,7 +7544,8 @@
       "profesion": "Peletería",
       "calidad": "uncommon",
       "personajes": [
-        "Diana Flechaveloz"
+        "Diana Flechaveloz",
+        "Manelhon Gargon"
       ]
     },
     {
@@ -7285,6 +7582,7 @@
       "calidad": "common",
       "personajes": [
         "Aurelio Amador",
+        "Breezy Reaver",
         "Diana Flechaveloz",
         "Edoras Duskranger",
         "Filps Pachamamamon",
@@ -7304,6 +7602,7 @@
       "calidad": "common",
       "personajes": [
         "Aurelio Amador",
+        "Breezy Reaver",
         "Diana Flechaveloz",
         "Edoras Duskranger",
         "Filps Pachamamamon",
@@ -7323,6 +7622,7 @@
       "calidad": "common",
       "personajes": [
         "Aurelio Amador",
+        "Breezy Reaver",
         "Diana Flechaveloz",
         "Edoras Duskranger",
         "Filps Pachamamamon",
@@ -7361,6 +7661,7 @@
       "calidad": "uncommon",
       "personajes": [
         "Aurelio Amador",
+        "Breezy Reaver",
         "Diana Flechaveloz",
         "Edoras Duskranger",
         "Filps Pachamamamon",
@@ -7501,6 +7802,7 @@
       "calidad": "common",
       "personajes": [
         "Aurelio Amador",
+        "Breezy Reaver",
         "Diana Flechaveloz",
         "Edoras Duskranger",
         "Filps Pachamamamon",
@@ -7520,6 +7822,7 @@
       "calidad": "common",
       "personajes": [
         "Aurelio Amador",
+        "Breezy Reaver",
         "Diana Flechaveloz",
         "Edoras Duskranger",
         "Filps Pachamamamon",
@@ -7726,7 +8029,8 @@
       "profesion": "Peletería",
       "calidad": "uncommon",
       "personajes": [
-        "Diana Flechaveloz"
+        "Diana Flechaveloz",
+        "Manelhon Gargon"
       ]
     },
     {
@@ -7853,7 +8157,8 @@
       "profesion": "Peletería",
       "calidad": "common",
       "personajes": [
-        "Diana Flechaveloz"
+        "Diana Flechaveloz",
+        "Manelhon Gargon"
       ]
     },
     {
@@ -7861,7 +8166,8 @@
       "profesion": "Peletería",
       "calidad": "common",
       "personajes": [
-        "Diana Flechaveloz"
+        "Diana Flechaveloz",
+        "Manelhon Gargon"
       ]
     },
     {
@@ -7967,6 +8273,7 @@
       "calidad": "common",
       "personajes": [
         "Aynita Again",
+        "Breezy Reaver",
         "Cuzcu Aker",
         "Diana Flechaveloz",
         "Dum Bo",
@@ -8001,6 +8308,7 @@
       "profesion": "Pesca",
       "calidad": "common",
       "personajes": [
+        "Althez Sendagris",
         "Aynita Again",
         "Blind Minds",
         "Chaca Choochoo",
@@ -8020,6 +8328,7 @@
         "Señor Ollivander",
         "Sr Byron",
         "Thundrik Volgrim",
+        "Tio Richard",
         "Vaporeta Pizpireta"
       ]
     },
@@ -8040,6 +8349,7 @@
       "profesion": "Pesca",
       "calidad": "common",
       "personajes": [
+        "Breezy Reaver",
         "Cuzcu Aker",
         "Diana Flechaveloz",
         "Edoras Duskranger",
@@ -8079,6 +8389,7 @@
         "Chaca Choochoo",
         "Coloso Tempestad",
         "Edoras Duskranger",
+        "Españoleitor Españoleitor",
         "Flexita Shadowsoul",
         "Genethika Brisaveloz",
         "Hugo Forjaluz",
@@ -8109,6 +8420,7 @@
       "calidad": "common",
       "personajes": [
         "Aurelio Amador",
+        "Breezy Reaver",
         "Chaca Choochoo",
         "Coloso Tempestad",
         "Diana Flechaveloz",
@@ -8144,6 +8456,7 @@
         "Takkaao Valengri",
         "Tankesito Khrih",
         "Tharindel Magnaluz",
+        "Tio Richard",
         "Vaporeta Pizpireta"
       ]
     },
@@ -8162,6 +8475,7 @@
       "personajes": [
         "Coloso Tempestad",
         "Edoras Duskranger",
+        "Españoleitor Españoleitor",
         "Flexita Shadowsoul",
         "Genethika Brisaveloz",
         "Ildaren Belisar",
@@ -8209,7 +8523,8 @@
         "Señor Ollivander",
         "Sugar Papy",
         "Tankesito Khrih",
-        "Tharindel Magnaluz"
+        "Tharindel Magnaluz",
+        "Tio Richard"
       ]
     },
     {
@@ -8269,6 +8584,7 @@
       "calidad": "common",
       "personajes": [
         "Aurelio Amador",
+        "Breezy Reaver",
         "Chaca Choochoo",
         "Coloso Tempestad",
         "Dio Hotmetal",
@@ -8296,7 +8612,8 @@
         "Señor Ollivander",
         "Sugar Papy",
         "Tankesito Khrih",
-        "Tharindel Magnaluz"
+        "Tharindel Magnaluz",
+        "Tio Richard"
       ]
     },
     {
@@ -8306,6 +8623,7 @@
       "personajes": [
         "Aurelio Amador",
         "Blind Minds",
+        "Breezy Reaver",
         "Chaca Choochoo",
         "Coloso Tempestad",
         "Cuzcu Aker",
@@ -8345,6 +8663,7 @@
         "Tankesito Khrih",
         "Tharindel Magnaluz",
         "Thundrik Volgrim",
+        "Tio Richard",
         "Vaporeta Pizpireta"
       ]
     },
@@ -8366,6 +8685,7 @@
       "calidad": "common",
       "personajes": [
         "Aurelio Amador",
+        "Breezy Reaver",
         "Chaca Choochoo",
         "Coloso Tempestad",
         "Cuzcu Aker",
@@ -8444,6 +8764,7 @@
       "personajes": [
         "Coloso Tempestad",
         "Edoras Duskranger",
+        "Españoleitor Españoleitor",
         "Flexita Shadowsoul",
         "Genethika Brisaveloz",
         "Ildaren Belisar",
@@ -8490,6 +8811,7 @@
         "Coloso Tempestad",
         "Edoras Duskranger",
         "Espartaco Gladiador",
+        "Españoleitor Españoleitor",
         "Flexita Shadowsoul",
         "Genethika Brisaveloz",
         "Hugo Forjaluz",
@@ -8503,7 +8825,8 @@
         "Señor Ollivander",
         "Sugar Papy",
         "Tankesito Khrih",
-        "Tharindel Magnaluz"
+        "Tharindel Magnaluz",
+        "Tio Richard"
       ]
     },
     {
@@ -8558,7 +8881,8 @@
         "Nimassus Pater",
         "Rhyomen Sukuna",
         "Señor Ollivander",
-        "Sr Byron"
+        "Sr Byron",
+        "Tio Richard"
       ]
     },
     {
@@ -8715,6 +9039,7 @@
         "Señor Ollivander",
         "Sr Byron",
         "Thundrik Volgrim",
+        "Tio Richard",
         "Vaporeta Pizpireta"
       ]
     },
@@ -8745,7 +9070,8 @@
         "Rhyomen Sukuna",
         "Saint Peligroxa",
         "Señor Ollivander",
-        "Sr Byron"
+        "Sr Byron",
+        "Tio Richard"
       ]
     },
     {
@@ -8763,6 +9089,7 @@
         "Saint Peligroxa",
         "Señor Ollivander",
         "Sr Byron",
+        "Tio Richard",
         "Vaporeta Pizpireta"
       ]
     },
@@ -8827,6 +9154,7 @@
         "Señor Ollivander",
         "Sr Byron",
         "Thundrik Volgrim",
+        "Tio Richard",
         "Vaporeta Pizpireta"
       ]
     },
@@ -8939,7 +9267,8 @@
         "Rhyomen Sukuna",
         "Saint Peligroxa",
         "Señor Ollivander",
-        "Sr Byron"
+        "Sr Byron",
+        "Tio Richard"
       ]
     },
     {
@@ -9320,6 +9649,7 @@
         "Saint Peligroxa",
         "Señor Ollivander",
         "Sr Byron",
+        "Tio Richard",
         "Vaporeta Pizpireta"
       ]
     },
@@ -9404,7 +9734,8 @@
         "Rhyomen Sukuna",
         "Saint Peligroxa",
         "Señor Ollivander",
-        "Sr Byron"
+        "Sr Byron",
+        "Tio Richard"
       ]
     },
     {
@@ -9426,6 +9757,7 @@
         "Señor Ollivander",
         "Sr Byron",
         "Thundrik Volgrim",
+        "Tio Richard",
         "Vaporeta Pizpireta"
       ]
     },
@@ -9483,6 +9815,7 @@
         "Señor Ollivander",
         "Sr Byron",
         "Thundrik Volgrim",
+        "Tio Richard",
         "Vaporeta Pizpireta"
       ]
     },
@@ -9866,6 +10199,7 @@
         "Señor Ollivander",
         "Sr Byron",
         "Thundrik Volgrim",
+        "Tio Richard",
         "Vaporeta Pizpireta"
       ]
     },
@@ -9881,7 +10215,8 @@
         "Nimassus Pater",
         "Rhyomen Sukuna",
         "Señor Ollivander",
-        "Sr Byron"
+        "Sr Byron",
+        "Tio Richard"
       ]
     },
     {
@@ -10063,7 +10398,8 @@
         "Rhyomen Sukuna",
         "Saint Peligroxa",
         "Señor Ollivander",
-        "Sr Byron"
+        "Sr Byron",
+        "Tio Richard"
       ]
     },
     {
@@ -10113,7 +10449,8 @@
         "Nimassus Pater",
         "Rhyomen Sukuna",
         "Saint Peligroxa",
-        "Sr Byron"
+        "Sr Byron",
+        "Tio Richard"
       ]
     }
   ]
