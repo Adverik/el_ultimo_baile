@@ -28,20 +28,20 @@
       "pct": 53
     },
     {
+      "personaje": "Runa Ruina",
+      "clase": "shaman",
+      "raider": true,
+      "nivel": 225,
+      "max": 225,
+      "pct": 47
+    },
+    {
       "personaje": "Espartaco Gladiador",
       "clase": "warrior",
       "raider": true,
       "nivel": 221,
       "max": 225,
       "pct": 25
-    },
-    {
-      "personaje": "Runa Ruina",
-      "clase": "shaman",
-      "raider": true,
-      "nivel": 221,
-      "max": 225,
-      "pct": 47
     },
     {
       "personaje": "Palmira Natblida",
@@ -135,7 +135,7 @@
       "personaje": "Jonaver Legends",
       "clase": "mage",
       "raider": false,
-      "nivel": 144,
+      "nivel": 146,
       "max": 150,
       "pct": 34
     },
@@ -180,20 +180,20 @@
       "pct": 16
     },
     {
+      "personaje": "Tharindel Magnaluz",
+      "clase": "paladin",
+      "raider": false,
+      "nivel": 100,
+      "max": 150,
+      "pct": 22
+    },
+    {
       "personaje": "Dio Hotmetal",
       "clase": "hunter",
       "raider": false,
       "nivel": 95,
       "max": 150,
       "pct": 16
-    },
-    {
-      "personaje": "Tharindel Magnaluz",
-      "clase": "paladin",
-      "raider": false,
-      "nivel": 85,
-      "max": 150,
-      "pct": 22
     },
     {
       "personaje": "Samael Thallanor",
@@ -258,6 +258,14 @@
       "nivel": 73,
       "max": 150,
       "pct": 16
+    },
+    {
+      "personaje": "Arthas Yevon",
+      "clase": "paladin",
+      "raider": false,
+      "nivel": 63,
+      "max": 150,
+      "pct": 12
     },
     {
       "personaje": "Sr Byron",
@@ -430,7 +438,8 @@
             40,
             41,
             42,
-            43
+            43,
+            44
           ]
         },
         {
@@ -491,8 +500,9 @@
             29,
             30,
             31,
-            33,
-            36
+            32,
+            34,
+            37
           ]
         },
         {
@@ -543,7 +553,7 @@
             18,
             19,
             20,
-            23
+            22
           ]
         },
         {
@@ -887,7 +897,7 @@
           "quien": [
             1,
             2,
-            4,
+            3,
             5,
             6,
             7,
@@ -903,7 +913,7 @@
             17,
             18,
             20,
-            23
+            22
           ]
         },
         {
@@ -934,7 +944,7 @@
             ]
           },
           "quien": [
-            4
+            3
           ]
         },
         {
@@ -1073,7 +1083,7 @@
           "quien": [
             1,
             2,
-            4,
+            3,
             5,
             6,
             7,
@@ -1240,7 +1250,7 @@
           "quien": [
             1,
             2,
-            4,
+            3,
             5,
             6,
             7,
@@ -1358,7 +1368,8 @@
             35,
             36,
             37,
-            38
+            38,
+            39
           ]
         },
         {
@@ -1468,7 +1479,7 @@
             0,
             1,
             2,
-            4,
+            3,
             5,
             6,
             7,
@@ -1498,11 +1509,12 @@
             32,
             33,
             34,
-            36,
+            35,
             37,
             38,
             39,
-            40
+            40,
+            41
           ]
         },
         {
@@ -1544,7 +1556,7 @@
             0,
             1,
             2,
-            4,
+            3,
             5,
             6,
             7,
@@ -1611,7 +1623,7 @@
           "quien": [
             1,
             2,
-            4,
+            3,
             5,
             6,
             8,

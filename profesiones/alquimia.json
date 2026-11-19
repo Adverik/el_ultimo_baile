@@ -7,7 +7,7 @@
       "personaje": "Dio Hotmetal",
       "clase": "hunter",
       "raider": false,
-      "nivel": 257,
+      "nivel": 258,
       "max": 300,
       "pct": 24
     },
@@ -15,9 +15,9 @@
       "personaje": "Sugar Papy",
       "clase": "druid",
       "raider": false,
-      "nivel": 248,
+      "nivel": 257,
       "max": 300,
-      "pct": 22
+      "pct": 27
     },
     {
       "personaje": "Fran Furion",
@@ -823,6 +823,7 @@
             ]
           },
           "quien": [
+            1,
             2
           ]
         },
@@ -862,6 +863,7 @@
             ]
           },
           "quien": [
+            1,
             2
           ]
         },
@@ -938,6 +940,7 @@
             ]
           },
           "quien": [
+            1,
             2
           ]
         },
@@ -2778,6 +2781,7 @@
             ]
           },
           "quien": [
+            1,
             2
           ]
         },
@@ -5239,6 +5243,7 @@
             ]
           },
           "quien": [
+            1,
             2
           ]
         },
@@ -5306,7 +5311,9 @@
               "0"
             ]
           },
-          "quien": []
+          "quien": [
+            1
+          ]
         },
         {
           "id": 6848,
@@ -5672,7 +5679,8 @@
             ]
           },
           "quien": [
-            0
+            0,
+            1
           ]
         },
         {
@@ -5702,7 +5710,9 @@
               "25"
             ]
           },
-          "quien": []
+          "quien": [
+            1
+          ]
         },
         {
           "id": 12216,

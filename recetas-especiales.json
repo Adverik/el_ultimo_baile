@@ -2841,6 +2841,70 @@
       ]
     },
     {
+      "id": 6623,
+      "n": "Aro Tejesueños",
+      "q": "rare",
+      "ico": "132767",
+      "reac": [
+        [
+          "Madeja de tejido mágico",
+          8
+        ],
+        [
+          "Atriplex salvaje",
+          4
+        ],
+        [
+          "Corazón del Salvaje",
+          2
+        ],
+        [
+          "Hilo de seda pesada",
+          3
+        ],
+        [
+          "Lingote de veraplata",
+          1
+        ],
+        [
+          "Jade",
+          1
+        ]
+      ],
+      "obj": {
+        "arm": "58 armadura",
+        "id": 10041,
+        "ilvl": 50,
+        "lig": "Se liga al equiparlo",
+        "n": "Aro Vigilasueños",
+        "q": "rare",
+        "ranura": "Cabeza",
+        "req": 45,
+        "stats": [
+          "+10 intelecto",
+          "+21 poder con hechizos",
+          "+12 espíritu"
+        ],
+        "sub": "Tela",
+        "venta": [
+          "0",
+          "85",
+          "93"
+        ]
+      },
+      "profesion": "Sastrería",
+      "personajes": [
+        {
+          "n": "Sr Byron",
+          "clase": "warlock"
+        },
+        {
+          "n": "Finn Felagund",
+          "clase": "priest"
+        }
+      ]
+    },
+    {
       "id": 2391,
       "n": "Botas de sedarácnida",
       "q": "rare",

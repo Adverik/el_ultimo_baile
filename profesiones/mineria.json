@@ -15,7 +15,7 @@
       "personaje": "Chaca Choochoo",
       "clase": "druid",
       "raider": false,
-      "nivel": 280,
+      "nivel": 282,
       "max": 300,
       "pct": 35
     },
@@ -32,8 +32,8 @@
       "clase": "warrior",
       "raider": true,
       "nivel": 225,
-      "max": 225,
-      "pct": 35
+      "max": 300,
+      "pct": 53
     },
     {
       "personaje": "Cuzcu Aker",
@@ -47,7 +47,7 @@
       "personaje": "Althez Sendagris",
       "clase": "paladin",
       "raider": false,
-      "nivel": 198,
+      "nivel": 200,
       "max": 225,
       "pct": 53
     },
@@ -55,7 +55,7 @@
       "personaje": "Espartaco Gladiador",
       "clase": "warrior",
       "raider": true,
-      "nivel": 182,
+      "nivel": 190,
       "max": 225,
       "pct": 59
     },
@@ -87,7 +87,7 @@
       "personaje": "Tharindel Magnaluz",
       "clase": "paladin",
       "raider": false,
-      "nivel": 130,
+      "nivel": 131,
       "max": 225,
       "pct": 35
     },
@@ -127,7 +127,7 @@
       "personaje": "Jonaver Legends",
       "clase": "mage",
       "raider": false,
-      "nivel": 104,
+      "nivel": 116,
       "max": 150,
       "pct": 29
     },
@@ -146,6 +146,14 @@
       "nivel": 92,
       "max": 150,
       "pct": 29
+    },
+    {
+      "personaje": "Arthas Yevon",
+      "clase": "paladin",
+      "raider": false,
+      "nivel": 76,
+      "max": 150,
+      "pct": 12
     },
     {
       "personaje": "Tio Richard",
@@ -303,6 +311,7 @@
           "quien": [
             0,
             2,
+            3,
             4,
             5,
             6,
@@ -422,6 +431,7 @@
           "quien": [
             0,
             2,
+            3,
             4,
             5,
             6,
@@ -474,7 +484,8 @@
             18,
             19,
             20,
-            21
+            21,
+            22
           ]
         },
         {
@@ -532,6 +543,7 @@
           "quien": [
             0,
             2,
+            3,
             4,
             5,
             6
@@ -731,7 +743,8 @@
             16,
             17,
             18,
-            19
+            19,
+            20
           ]
         },
         {

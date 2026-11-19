@@ -20,18 +20,18 @@
       "pct": 33
     },
     {
-      "personaje": "Espartaco Gladiador",
-      "clase": "warrior",
-      "raider": true,
-      "nivel": 192,
+      "personaje": "Finn Felagund",
+      "clase": "priest",
+      "raider": false,
+      "nivel": 194,
       "max": 225,
       "pct": 33
     },
     {
-      "personaje": "Finn Felagund",
-      "clase": "priest",
-      "raider": false,
-      "nivel": 182,
+      "personaje": "Espartaco Gladiador",
+      "clase": "warrior",
+      "raider": true,
+      "nivel": 192,
       "max": 225,
       "pct": 33
     },
@@ -47,7 +47,7 @@
       "personaje": "Jonaver Legends",
       "clase": "mage",
       "raider": false,
-      "nivel": 169,
+      "nivel": 170,
       "max": 225,
       "pct": 33
     },
@@ -55,7 +55,7 @@
       "personaje": "Elfa Vorable",
       "clase": "druid",
       "raider": false,
-      "nivel": 155,
+      "nivel": 167,
       "max": 225,
       "pct": 33
     },
@@ -156,6 +156,14 @@
       "pct": 33
     },
     {
+      "personaje": "Arthas Yevon",
+      "clase": "paladin",
+      "raider": false,
+      "nivel": 79,
+      "max": 150,
+      "pct": 33
+    },
+    {
       "personaje": "Tom Kha",
       "clase": "shaman",
       "raider": false,
@@ -204,6 +212,14 @@
       "pct": 33
     },
     {
+      "personaje": "Sr Byron",
+      "clase": "warlock",
+      "raider": false,
+      "nivel": 32,
+      "max": 75,
+      "pct": 33
+    },
+    {
       "personaje": "Saint Peligroxa",
       "clase": "priest",
       "raider": false,
@@ -216,14 +232,6 @@
       "clase": "rogue",
       "raider": false,
       "nivel": 30,
-      "max": 75,
-      "pct": 33
-    },
-    {
-      "personaje": "Sr Byron",
-      "clase": "warlock",
-      "raider": false,
-      "nivel": 25,
       "max": 75,
       "pct": 33
     },
@@ -426,13 +434,14 @@
             20,
             21,
             22,
-            24,
+            23,
             25,
             26,
             27,
             28,
             29,
-            30
+            30,
+            31
           ]
         },
         {
