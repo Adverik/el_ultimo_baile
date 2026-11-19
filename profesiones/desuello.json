@@ -7,7 +7,7 @@
       "personaje": "Edoras Duskranger",
       "clase": "hunter",
       "raider": true,
-      "nivel": 287,
+      "nivel": 288,
       "max": 300,
       "pct": 67
     },
@@ -23,7 +23,7 @@
       "personaje": "Tankesito Khrih",
       "clase": "druid",
       "raider": false,
-      "nivel": 246,
+      "nivel": 253,
       "max": 300,
       "pct": 33
     },
@@ -31,7 +31,23 @@
       "personaje": "Runa Ruina",
       "clase": "shaman",
       "raider": true,
-      "nivel": 242,
+      "nivel": 244,
+      "max": 300,
+      "pct": 33
+    },
+    {
+      "personaje": "Memas Tour",
+      "clase": "shaman",
+      "raider": false,
+      "nivel": 229,
+      "max": 300,
+      "pct": 33
+    },
+    {
+      "personaje": "Ildaren Belisar",
+      "clase": "rogue",
+      "raider": false,
+      "nivel": 226,
       "max": 300,
       "pct": 33
     },
@@ -52,27 +68,11 @@
       "pct": 33
     },
     {
-      "personaje": "Memas Tour",
-      "clase": "shaman",
-      "raider": false,
-      "nivel": 225,
-      "max": 225,
-      "pct": 33
-    },
-    {
       "personaje": "Palmira Natblida",
       "clase": "rogue",
       "raider": true,
       "nivel": 225,
       "max": 225,
-      "pct": 33
-    },
-    {
-      "personaje": "Ildaren Belisar",
-      "clase": "rogue",
-      "raider": false,
-      "nivel": 223,
-      "max": 300,
       "pct": 33
     },
     {

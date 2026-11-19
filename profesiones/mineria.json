@@ -15,7 +15,7 @@
       "personaje": "Chaca Choochoo",
       "clase": "druid",
       "raider": false,
-      "nivel": 282,
+      "nivel": 292,
       "max": 300,
       "pct": 35
     },
@@ -55,7 +55,7 @@
       "personaje": "Espartaco Gladiador",
       "clase": "warrior",
       "raider": true,
-      "nivel": 190,
+      "nivel": 191,
       "max": 225,
       "pct": 59
     },
@@ -63,7 +63,7 @@
       "personaje": "Flexita Shadowsoul",
       "clase": "hunter",
       "raider": false,
-      "nivel": 167,
+      "nivel": 178,
       "max": 225,
       "pct": 47
     },
@@ -71,15 +71,15 @@
       "personaje": "Llamas Xx",
       "clase": "warrior",
       "raider": false,
-      "nivel": 161,
+      "nivel": 177,
       "max": 225,
-      "pct": 35
+      "pct": 53
     },
     {
       "personaje": "Mosu Warryn",
       "clase": "warrior",
       "raider": false,
-      "nivel": 140,
+      "nivel": 141,
       "max": 225,
       "pct": 35
     },
@@ -87,7 +87,7 @@
       "personaje": "Tharindel Magnaluz",
       "clase": "paladin",
       "raider": false,
-      "nivel": 131,
+      "nivel": 133,
       "max": 225,
       "pct": 35
     },
@@ -100,18 +100,18 @@
       "pct": 29
     },
     {
-      "personaje": "Hugo Forjaluz",
-      "clase": "paladin",
+      "personaje": "Españoleitor Españoleitor",
+      "clase": "warrior",
       "raider": false,
-      "nivel": 119,
+      "nivel": 124,
       "max": 150,
       "pct": 29
     },
     {
-      "personaje": "Españoleitor Españoleitor",
-      "clase": "warrior",
+      "personaje": "Hugo Forjaluz",
+      "clase": "paladin",
       "raider": false,
-      "nivel": 118,
+      "nivel": 119,
       "max": 150,
       "pct": 29
     },
@@ -127,7 +127,7 @@
       "personaje": "Jonaver Legends",
       "clase": "mage",
       "raider": false,
-      "nivel": 116,
+      "nivel": 117,
       "max": 150,
       "pct": 29
     },
@@ -175,7 +175,7 @@
       "personaje": "Tanki Llo",
       "clase": "warlock",
       "raider": false,
-      "nivel": 40,
+      "nivel": 44,
       "max": 75,
       "pct": 6
     },
@@ -315,7 +315,8 @@
             4,
             5,
             6,
-            7
+            7,
+            8
           ]
         },
         {
@@ -435,7 +436,8 @@
             4,
             5,
             6,
-            7
+            7,
+            8
           ]
         },
         {
@@ -546,7 +548,8 @@
             3,
             4,
             5,
-            6
+            6,
+            8
           ]
         },
         {

@@ -63,12 +63,12 @@
           "clase": "paladin"
         },
         {
-          "n": "Mosu Warryn",
-          "clase": "warrior"
-        },
-        {
           "n": "Tharindel Magnaluz",
           "clase": "paladin"
+        },
+        {
+          "n": "Mosu Warryn",
+          "clase": "warrior"
         },
         {
           "n": "Llamas Xx",
@@ -337,6 +337,54 @@
       "personajes": [
         {
           "n": "Farhan Ironbeard",
+          "clase": "warrior"
+        }
+      ]
+    },
+    {
+      "id": 54704,
+      "n": "Camisa de anillas de cruzado",
+      "q": "rare",
+      "ico": "132631",
+      "reac": [
+        [
+          "Lingote de bronce",
+          4
+        ],
+        [
+          "Piedra de pulir férrea",
+          2
+        ],
+        [
+          "Esencia mágica inferior",
+          2
+        ]
+      ],
+      "obj": {
+        "arm": "184 armadura",
+        "id": 250492,
+        "ilvl": 20,
+        "lig": "Se liga al recogerlo",
+        "n": "Camisa de anillas de cruzado",
+        "q": "rare",
+        "ranura": "Pecho",
+        "req": 15,
+        "stats": [
+          "+4 fuerza",
+          "+5 aguante",
+          "+9 poder con hechizos"
+        ],
+        "sub": "Mallas",
+        "venta": [
+          "0",
+          "4",
+          "56"
+        ]
+      },
+      "profesion": "Herrería",
+      "personajes": [
+        {
+          "n": "Khyoraku Shunsui",
           "clase": "warrior"
         }
       ]
@@ -1135,6 +1183,53 @@
       "personajes": [
         {
           "n": "Espartaco Gladiador",
+          "clase": "warrior"
+        }
+      ]
+    },
+    {
+      "id": 54711,
+      "n": "Yelmo de anillas de guardia",
+      "q": "rare",
+      "ico": "133140",
+      "reac": [
+        [
+          "Lingote de bronce",
+          8
+        ],
+        [
+          "Piedra de pulir burda",
+          2
+        ],
+        [
+          "Gema de las Sombras",
+          6
+        ]
+      ],
+      "obj": {
+        "arm": "177 armadura",
+        "id": 250499,
+        "ilvl": 30,
+        "lig": "Se liga al recogerlo",
+        "n": "Yelmo de anillas de guardia",
+        "q": "rare",
+        "ranura": "Cabeza",
+        "req": 25,
+        "stats": [
+          "+12 agilidad",
+          "+11 aguante"
+        ],
+        "sub": "Mallas",
+        "venta": [
+          "0",
+          "24",
+          "80"
+        ]
+      },
+      "profesion": "Herrería",
+      "personajes": [
+        {
+          "n": "Llamas Xx",
           "clase": "warrior"
         }
       ]

@@ -44,20 +44,28 @@
       "pct": 25
     },
     {
+      "personaje": "Tankesito Khrih",
+      "clase": "druid",
+      "raider": false,
+      "nivel": 221,
+      "max": 225,
+      "pct": 47
+    },
+    {
+      "personaje": "Genethika Brisaveloz",
+      "clase": "hunter",
+      "raider": false,
+      "nivel": 219,
+      "max": 225,
+      "pct": 47
+    },
+    {
       "personaje": "Palmira Natblida",
       "clase": "rogue",
       "raider": true,
       "nivel": 216,
       "max": 225,
       "pct": 44
-    },
-    {
-      "personaje": "Genethika Brisaveloz",
-      "clase": "hunter",
-      "raider": false,
-      "nivel": 209,
-      "max": 225,
-      "pct": 41
     },
     {
       "personaje": "Llamas Xx",
@@ -74,6 +82,14 @@
       "nivel": 175,
       "max": 225,
       "pct": 41
+    },
+    {
+      "personaje": "Ildaren Belisar",
+      "clase": "rogue",
+      "raider": false,
+      "nivel": 154,
+      "max": 225,
+      "pct": 34
     },
     {
       "personaje": "Chaca Choochoo",
@@ -116,22 +132,6 @@
       "pct": 38
     },
     {
-      "personaje": "Tankesito Khrih",
-      "clase": "druid",
-      "raider": false,
-      "nivel": 150,
-      "max": 150,
-      "pct": 31
-    },
-    {
-      "personaje": "Ildaren Belisar",
-      "clase": "rogue",
-      "raider": false,
-      "nivel": 147,
-      "max": 225,
-      "pct": 34
-    },
-    {
       "personaje": "Jonaver Legends",
       "clase": "mage",
       "raider": false,
@@ -143,9 +143,9 @@
       "personaje": "Españoleitor Españoleitor",
       "clase": "warrior",
       "raider": false,
-      "nivel": 127,
+      "nivel": 142,
       "max": 150,
-      "pct": 28
+      "pct": 38
     },
     {
       "personaje": "Hugo Forjaluz",
@@ -172,20 +172,20 @@
       "pct": 28
     },
     {
+      "personaje": "Tharindel Magnaluz",
+      "clase": "paladin",
+      "raider": false,
+      "nivel": 108,
+      "max": 150,
+      "pct": 22
+    },
+    {
       "personaje": "Dum Bo",
       "clase": "mage",
       "raider": false,
       "nivel": 100,
       "max": 150,
       "pct": 16
-    },
-    {
-      "personaje": "Tharindel Magnaluz",
-      "clase": "paladin",
-      "raider": false,
-      "nivel": 100,
-      "max": 150,
-      "pct": 22
     },
     {
       "personaje": "Dio Hotmetal",
@@ -553,7 +553,7 @@
             18,
             19,
             20,
-            22
+            21
           ]
         },
         {
@@ -595,10 +595,11 @@
             9,
             10,
             11,
+            12,
             13,
-            14,
             15,
             16,
+            17,
             18
           ]
         },
@@ -637,9 +638,10 @@
             6,
             7,
             8,
-            10,
-            11,
-            13
+            9,
+            12,
+            13,
+            15
           ]
         },
         {
@@ -675,7 +677,8 @@
             3,
             4,
             5,
-            6
+            6,
+            7
           ]
         },
         {
@@ -710,7 +713,9 @@
             2,
             3,
             4,
-            5
+            5,
+            6,
+            7
           ]
         },
         {
@@ -913,7 +918,7 @@
             17,
             18,
             20,
-            22
+            21
           ]
         },
         {
@@ -944,7 +949,8 @@
             ]
           },
           "quien": [
-            3
+            3,
+            17
           ]
         },
         {
@@ -1046,7 +1052,8 @@
             ]
           },
           "quien": [
-            2
+            2,
+            5
           ]
         },
         {
@@ -1091,9 +1098,11 @@
             9,
             10,
             11,
+            12,
             13,
             15,
-            16
+            16,
+            17
           ]
         },
         {
@@ -1209,7 +1218,7 @@
           },
           "quien": [
             2,
-            8
+            9
           ]
         },
         {
@@ -1255,8 +1264,8 @@
             6,
             7,
             8,
+            9,
             10,
-            11,
             12,
             13,
             14,
@@ -1626,9 +1635,9 @@
             3,
             5,
             6,
-            8,
+            7,
+            9,
             10,
-            11,
             12,
             13,
             14,
@@ -1675,7 +1684,8 @@
             ]
           },
           "quien": [
-            1
+            1,
+            6
           ]
         },
         {

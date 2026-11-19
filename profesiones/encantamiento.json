@@ -7,7 +7,7 @@
       "personaje": "Finn Felagund",
       "clase": "priest",
       "raider": false,
-      "nivel": 253,
+      "nivel": 255,
       "max": 300,
       "pct": 30
     },
@@ -79,7 +79,7 @@
       "personaje": "Rhyomen Sukuna",
       "clase": "warlock",
       "raider": false,
-      "nivel": 23,
+      "nivel": 25,
       "max": 75,
       "pct": 3
     },
