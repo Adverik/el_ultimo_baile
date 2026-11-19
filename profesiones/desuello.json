@@ -15,15 +15,7 @@
       "personaje": "Manelhon Gargon",
       "clase": "shaman",
       "raider": true,
-      "nivel": 253,
-      "max": 300,
-      "pct": 33
-    },
-    {
-      "personaje": "Runa Ruina",
-      "clase": "shaman",
-      "raider": true,
-      "nivel": 242,
+      "nivel": 261,
       "max": 300,
       "pct": 33
     },
@@ -31,6 +23,14 @@
       "personaje": "Tankesito Khrih",
       "clase": "druid",
       "raider": false,
+      "nivel": 246,
+      "max": 300,
+      "pct": 33
+    },
+    {
+      "personaje": "Runa Ruina",
+      "clase": "shaman",
+      "raider": true,
       "nivel": 242,
       "max": 300,
       "pct": 33
@@ -79,7 +79,15 @@
       "personaje": "Breezy Reaver",
       "clase": "shaman",
       "raider": false,
-      "nivel": 185,
+      "nivel": 191,
+      "max": 225,
+      "pct": 33
+    },
+    {
+      "personaje": "Reaper Dead",
+      "clase": "paladin",
+      "raider": false,
+      "nivel": 188,
       "max": 225,
       "pct": 33
     },
@@ -169,7 +177,8 @@
             11,
             12,
             13,
-            14
+            14,
+            15
           ]
         },
         {

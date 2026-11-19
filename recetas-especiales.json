@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-18",
+  "actualizado": "2026-11-19",
   "recetas": [
     {
       "id": 54692,
@@ -1485,6 +1485,10 @@
           "clase": "shaman"
         },
         {
+          "n": "Tankesito Khrih",
+          "clase": "druid"
+        },
+        {
           "n": "Memas Tour",
           "clase": "shaman"
         },
@@ -1495,10 +1499,6 @@
         {
           "n": "Runa Ruina",
           "clase": "shaman"
-        },
-        {
-          "n": "Tankesito Khrih",
-          "clase": "druid"
         },
         {
           "n": "Aurelio Amador",
@@ -1564,6 +1564,10 @@
       "profesion": "Peletería",
       "personajes": [
         {
+          "n": "Tankesito Khrih",
+          "clase": "druid"
+        },
+        {
           "n": "Memas Tour",
           "clase": "shaman"
         },
@@ -1574,10 +1578,6 @@
         {
           "n": "Runa Ruina",
           "clase": "shaman"
-        },
-        {
-          "n": "Tankesito Khrih",
-          "clase": "druid"
         },
         {
           "n": "Ildaren Belisar",
@@ -1752,16 +1752,16 @@
       "profesion": "Peletería",
       "personajes": [
         {
+          "n": "Tankesito Khrih",
+          "clase": "druid"
+        },
+        {
           "n": "Memas Tour",
           "clase": "shaman"
         },
         {
           "n": "Palmira Natblida",
           "clase": "rogue"
-        },
-        {
-          "n": "Tankesito Khrih",
-          "clase": "druid"
         },
         {
           "n": "Edoras Duskranger",
@@ -1873,16 +1873,16 @@
       "profesion": "Peletería",
       "personajes": [
         {
+          "n": "Tankesito Khrih",
+          "clase": "druid"
+        },
+        {
           "n": "Memas Tour",
           "clase": "shaman"
         },
         {
           "n": "Palmira Natblida",
           "clase": "rogue"
-        },
-        {
-          "n": "Tankesito Khrih",
-          "clase": "druid"
         }
       ]
     },
@@ -1930,16 +1930,16 @@
       "profesion": "Peletería",
       "personajes": [
         {
+          "n": "Tankesito Khrih",
+          "clase": "druid"
+        },
+        {
           "n": "Memas Tour",
           "clase": "shaman"
         },
         {
           "n": "Palmira Natblida",
           "clase": "rogue"
-        },
-        {
-          "n": "Tankesito Khrih",
-          "clase": "druid"
         }
       ]
     },
@@ -1988,6 +1988,10 @@
       "profesion": "Peletería",
       "personajes": [
         {
+          "n": "Tankesito Khrih",
+          "clase": "druid"
+        },
+        {
           "n": "Memas Tour",
           "clase": "shaman"
         },
@@ -1998,10 +2002,6 @@
         {
           "n": "Runa Ruina",
           "clase": "shaman"
-        },
-        {
-          "n": "Tankesito Khrih",
-          "clase": "druid"
         }
       ]
     },
@@ -2053,16 +2053,16 @@
           "clase": "shaman"
         },
         {
+          "n": "Tankesito Khrih",
+          "clase": "druid"
+        },
+        {
           "n": "Memas Tour",
           "clase": "shaman"
         },
         {
           "n": "Palmira Natblida",
           "clase": "rogue"
-        },
-        {
-          "n": "Tankesito Khrih",
-          "clase": "druid"
         }
       ]
     },
@@ -2114,16 +2114,16 @@
           "clase": "shaman"
         },
         {
+          "n": "Tankesito Khrih",
+          "clase": "druid"
+        },
+        {
           "n": "Memas Tour",
           "clase": "shaman"
         },
         {
           "n": "Palmira Natblida",
           "clase": "rogue"
-        },
-        {
-          "n": "Tankesito Khrih",
-          "clase": "druid"
         }
       ]
     },
@@ -2175,16 +2175,16 @@
           "clase": "hunter"
         },
         {
+          "n": "Tankesito Khrih",
+          "clase": "druid"
+        },
+        {
           "n": "Memas Tour",
           "clase": "shaman"
         },
         {
           "n": "Palmira Natblida",
           "clase": "rogue"
-        },
-        {
-          "n": "Tankesito Khrih",
-          "clase": "druid"
         },
         {
           "n": "Aurelio Amador",
@@ -2375,16 +2375,16 @@
           "clase": "shaman"
         },
         {
+          "n": "Tankesito Khrih",
+          "clase": "druid"
+        },
+        {
           "n": "Memas Tour",
           "clase": "shaman"
         },
         {
           "n": "Palmira Natblida",
           "clase": "rogue"
-        },
-        {
-          "n": "Tankesito Khrih",
-          "clase": "druid"
         },
         {
           "n": "Aurelio Amador",
@@ -2637,12 +2637,12 @@
       "profesion": "Peletería",
       "personajes": [
         {
-          "n": "Palmira Natblida",
-          "clase": "rogue"
-        },
-        {
           "n": "Tankesito Khrih",
           "clase": "druid"
+        },
+        {
+          "n": "Palmira Natblida",
+          "clase": "rogue"
         }
       ]
     },
@@ -2740,6 +2740,10 @@
       "profesion": "Peletería",
       "personajes": [
         {
+          "n": "Tankesito Khrih",
+          "clase": "druid"
+        },
+        {
           "n": "Memas Tour",
           "clase": "shaman"
         },
@@ -2750,10 +2754,6 @@
         {
           "n": "Runa Ruina",
           "clase": "shaman"
-        },
-        {
-          "n": "Tankesito Khrih",
-          "clase": "druid"
         },
         {
           "n": "Ildaren Belisar",
@@ -2811,6 +2811,10 @@
       "profesion": "Peletería",
       "personajes": [
         {
+          "n": "Tankesito Khrih",
+          "clase": "druid"
+        },
+        {
           "n": "Memas Tour",
           "clase": "shaman"
         },
@@ -2821,10 +2825,6 @@
         {
           "n": "Runa Ruina",
           "clase": "shaman"
-        },
-        {
-          "n": "Tankesito Khrih",
-          "clase": "druid"
         },
         {
           "n": "Ildaren Belisar",

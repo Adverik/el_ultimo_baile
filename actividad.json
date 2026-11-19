@@ -1,12 +1,19 @@
 {
   "proxima_raid": {
-    "fecha": "2026-11-18",
+    "fecha": "2026-11-19",
     "titulo": "Event",
     "instancia": "",
     "dificultad": "",
     "apuntados": 13
   },
   "ultimas_raids": [
+    {
+      "fecha": "2026-11-18",
+      "titulo": "Event",
+      "instancia": "",
+      "dificultad": "",
+      "apuntados": 13
+    },
     {
       "fecha": "2026-11-12",
       "titulo": "Event",
@@ -20,13 +27,6 @@
       "instancia": "",
       "dificultad": "",
       "apuntados": 13
-    },
-    {
-      "fecha": "2026-11-05",
-      "titulo": "Event",
-      "instancia": "",
-      "dificultad": "",
-      "apuntados": 0
     }
   ],
   "botin": []

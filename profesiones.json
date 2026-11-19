@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-18",
+  "actualizado": "2026-11-19",
   "artesanos": [
     {
       "personaje": "Althez Sendagris",
@@ -128,12 +128,12 @@
       "profesiones": [
         {
           "nombre": "Sastrería",
-          "nivel": 43,
+          "nivel": 44,
           "max": 75
         },
         {
           "nombre": "Herboristería",
-          "nivel": 19,
+          "nivel": 25,
           "max": 75
         },
         {
@@ -165,7 +165,7 @@
         },
         {
           "nombre": "Desuello",
-          "nivel": 185,
+          "nivel": 191,
           "max": 225
         },
         {
@@ -192,7 +192,7 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 279,
+          "nivel": 280,
           "max": 300
         },
         {
@@ -224,7 +224,7 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 293,
+          "nivel": 300,
           "max": 300
         },
         {
@@ -256,7 +256,7 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 216,
+          "nivel": 217,
           "max": 300
         },
         {
@@ -352,12 +352,12 @@
       "profesiones": [
         {
           "nombre": "Alquimia",
-          "nivel": 187,
+          "nivel": 188,
           "max": 225
         },
         {
           "nombre": "Herboristería",
-          "nivel": 161,
+          "nivel": 163,
           "max": 225
         },
         {
@@ -497,7 +497,7 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 117,
+          "nivel": 118,
           "max": 150
         },
         {
@@ -696,7 +696,7 @@
         },
         {
           "nombre": "Herboristería",
-          "nivel": 244,
+          "nivel": 252,
           "max": 300
         },
         {
@@ -868,22 +868,22 @@
         },
         {
           "nombre": "Ingeniería",
-          "nivel": 115,
+          "nivel": 126,
           "max": 150
         },
         {
           "nombre": "Cocina",
-          "nivel": 90,
+          "nivel": 113,
           "max": 150
         },
         {
           "nombre": "Pesca",
-          "nivel": 151,
+          "nivel": 169,
           "max": 225
         },
         {
           "nombre": "Primeros auxilios",
-          "nivel": 143,
+          "nivel": 144,
           "max": 150
         }
       ]
@@ -1013,7 +1013,7 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 158,
+          "nivel": 161,
           "max": 225
         },
         {
@@ -1050,7 +1050,7 @@
         },
         {
           "nombre": "Desuello",
-          "nivel": 253,
+          "nivel": 261,
           "max": 300
         },
         {
@@ -1151,18 +1151,18 @@
         },
         {
           "nombre": "Cocina",
-          "nivel": 162,
+          "nivel": 225,
           "max": 225
         },
         {
           "nombre": "Pesca",
-          "nivel": 192,
+          "nivel": 225,
           "max": 225
         },
         {
           "nombre": "Primeros auxilios",
           "nivel": 150,
-          "max": 150
+          "max": 225
         }
       ]
     },
@@ -1254,6 +1254,33 @@
           "nombre": "Primeros auxilios",
           "nivel": 216,
           "max": 225
+        }
+      ]
+    },
+    {
+      "personaje": "Reaper Dead",
+      "clase": "paladin",
+      "raider": false,
+      "profesiones": [
+        {
+          "nombre": "Desuello",
+          "nivel": 188,
+          "max": 225
+        },
+        {
+          "nombre": "Herboristería",
+          "nivel": 85,
+          "max": 150
+        },
+        {
+          "nombre": "Cocina",
+          "nivel": 150,
+          "max": 150
+        },
+        {
+          "nombre": "Pesca",
+          "nivel": 6,
+          "max": 75
         }
       ]
     },
@@ -1446,7 +1473,7 @@
         },
         {
           "nombre": "Herboristería",
-          "nivel": 281,
+          "nivel": 289,
           "max": 300
         },
         {
@@ -1500,12 +1527,12 @@
       "profesiones": [
         {
           "nombre": "Peletería",
-          "nivel": 159,
+          "nivel": 175,
           "max": 225
         },
         {
           "nombre": "Desuello",
-          "nivel": 242,
+          "nivel": 246,
           "max": 300
         },
         {
@@ -1532,7 +1559,7 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 39,
+          "nivel": 40,
           "max": 75
         },
         {
@@ -1559,7 +1586,7 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 129,
+          "nivel": 130,
           "max": 225
         },
         {
@@ -1628,7 +1655,7 @@
         },
         {
           "nombre": "Minería",
-          "nivel": 72,
+          "nivel": 74,
           "max": 75
         },
         {
@@ -1687,7 +1714,7 @@
         },
         {
           "nombre": "Herboristería",
-          "nivel": 236,
+          "nivel": 239,
           "max": 300
         },
         {
@@ -2433,6 +2460,7 @@
         "Elfa Vorable",
         "Flexita Shadowsoul",
         "Layrela Rondanit",
+        "Mosu Warryn",
         "Runa Ruina",
         "Sugar Papy"
       ]
@@ -2485,6 +2513,7 @@
         "Nimassus Pater",
         "Nindalf Pizpireta",
         "Palmira Natblida",
+        "Reaper Dead",
         "Rhyomen Sukuna",
         "Runa Ruina",
         "Saint Peligroxa",
@@ -2530,7 +2559,8 @@
       "personajes": [
         "Edoras Duskranger",
         "Espartaco Gladiador",
-        "Khyoraku Shunsui"
+        "Khyoraku Shunsui",
+        "Mosu Warryn"
       ]
     },
     {
@@ -2583,6 +2613,7 @@
         "Memas Tour",
         "Nimassus Pater",
         "Palmira Natblida",
+        "Reaper Dead",
         "Runa Ruina",
         "Samael Thallanor",
         "Sr Byron",
@@ -2720,6 +2751,7 @@
         "Nimassus Pater",
         "Nindalf Pizpireta",
         "Palmira Natblida",
+        "Reaper Dead",
         "Rhyomen Sukuna",
         "Runa Ruina",
         "Saint Peligroxa",
@@ -2743,6 +2775,7 @@
       "profesion": "Cocina",
       "calidad": "common",
       "personajes": [
+        "Mosu Warryn",
         "Runa Ruina"
       ]
     },
@@ -2790,6 +2823,7 @@
         "Memas Tour",
         "Nimassus Pater",
         "Palmira Natblida",
+        "Reaper Dead",
         "Runa Ruina",
         "Samael Thallanor",
         "Sr Byron",
@@ -2816,12 +2850,14 @@
         "Flexita Shadowsoul",
         "Grimmjow Jaegerjakez",
         "Ildaren Belisar",
+        "Jonaver Legends",
         "Kadeharz Apsus",
         "Khyoraku Shunsui",
         "Layrela Rondanit",
         "Manelhon Gargon",
         "Memas Tour",
         "Palmira Natblida",
+        "Reaper Dead",
         "Runa Ruina",
         "Samael Thallanor",
         "Sr Byron",
@@ -2906,6 +2942,7 @@
         "Finn Felagund",
         "Flexita Shadowsoul",
         "Ildaren Belisar",
+        "Jonaver Legends",
         "Kadeharz Apsus",
         "Khyoraku Shunsui",
         "Layrela Rondanit",
@@ -2913,6 +2950,7 @@
         "Memas Tour",
         "Nimassus Pater",
         "Palmira Natblida",
+        "Reaper Dead",
         "Runa Ruina",
         "Samael Thallanor",
         "Sr Byron",
@@ -2962,6 +3000,7 @@
         "Manelhon Gargon",
         "Memas Tour",
         "Palmira Natblida",
+        "Reaper Dead",
         "Runa Ruina",
         "Sr Byron",
         "Sugar Papy",
@@ -3000,6 +3039,7 @@
         "Memas Tour",
         "Mosu Warryn",
         "Palmira Natblida",
+        "Reaper Dead",
         "Sr Byron",
         "Sugar Papy"
       ]
@@ -3021,6 +3061,7 @@
         "Memas Tour",
         "Mosu Warryn",
         "Palmira Natblida",
+        "Reaper Dead",
         "Runa Ruina",
         "Sr Byron",
         "Tharindel Magnaluz"
@@ -3082,6 +3123,7 @@
         "Nimassus Pater",
         "Nindalf Pizpireta",
         "Palmira Natblida",
+        "Reaper Dead",
         "Rhyomen Sukuna",
         "Runa Ruina",
         "Saint Peligroxa",
@@ -3140,7 +3182,8 @@
       "personajes": [
         "Edoras Duskranger",
         "Espartaco Gladiador",
-        "Khyoraku Shunsui"
+        "Khyoraku Shunsui",
+        "Mosu Warryn"
       ]
     },
     {
@@ -3195,6 +3238,7 @@
         "Espartaco Gladiador",
         "Finn Felagund",
         "Layrela Rondanit",
+        "Mosu Warryn",
         "Sugar Papy"
       ]
     },
@@ -3215,10 +3259,12 @@
         "Finn Felagund",
         "Flexita Shadowsoul",
         "Ildaren Belisar",
+        "Jonaver Legends",
         "Khyoraku Shunsui",
         "La Pety",
         "Manelhon Gargon",
         "Palmira Natblida",
+        "Reaper Dead",
         "Sr Byron",
         "Sugar Papy"
       ]
@@ -3319,6 +3365,7 @@
         "Khyoraku Shunsui",
         "La Pety",
         "Manelhon Gargon",
+        "Reaper Dead",
         "Runa Ruina",
         "Sr Byron",
         "Sugar Papy"
@@ -3333,7 +3380,8 @@
         "Espartaco Gladiador",
         "Finn Felagund",
         "Flexita Shadowsoul",
-        "Layrela Rondanit"
+        "Layrela Rondanit",
+        "Mosu Warryn"
       ]
     },
     {
@@ -3384,6 +3432,7 @@
         "Nimassus Pater",
         "Nindalf Pizpireta",
         "Palmira Natblida",
+        "Reaper Dead",
         "Rhyomen Sukuna",
         "Runa Ruina",
         "Saint Peligroxa",
@@ -3412,7 +3461,8 @@
         "Elfa Vorable",
         "Espartaco Gladiador",
         "Finn Felagund",
-        "Layrela Rondanit"
+        "Layrela Rondanit",
+        "Mosu Warryn"
       ]
     },
     {
@@ -3429,6 +3479,7 @@
         "Memas Tour",
         "Nimassus Pater",
         "Palmira Natblida",
+        "Reaper Dead",
         "Runa Ruina"
       ]
     },
@@ -3482,6 +3533,7 @@
         "Memas Tour",
         "Mosu Warryn",
         "Palmira Natblida",
+        "Reaper Dead",
         "Sr Byron",
         "Sugar Papy",
         "Tankesito Khrih"
@@ -3621,6 +3673,7 @@
         "Nimassus Pater",
         "Nindalf Pizpireta",
         "Palmira Natblida",
+        "Reaper Dead",
         "Runa Ruina",
         "Samael Thallanor",
         "Sr Byron",
@@ -3778,6 +3831,7 @@
         "Mosu Warryn",
         "Nimassus Pater",
         "Palmira Natblida",
+        "Reaper Dead",
         "Runa Ruina",
         "Sr Byron",
         "Tharindel Magnaluz"
@@ -3799,6 +3853,7 @@
         "Memas Tour",
         "Nindalf Pizpireta",
         "Palmira Natblida",
+        "Reaper Dead",
         "Runa Ruina",
         "Samael Thallanor",
         "Tankesito Khrih",
@@ -3823,6 +3878,7 @@
         "Diana Flechaveloz",
         "Memas Tour",
         "Palmira Natblida",
+        "Reaper Dead",
         "Samael Thallanor",
         "Tom Kha"
       ]
@@ -4843,6 +4899,7 @@
         "Genethika Brisaveloz",
         "Grimmjow Jaegerjakez",
         "Layrela Rondanit",
+        "Reaper Dead",
         "Sugar Papy",
         "Tommy Durum"
       ]
@@ -4864,7 +4921,8 @@
       "profesion": "Herboristería",
       "calidad": "common",
       "personajes": [
-        "Grimmjow Jaegerjakez"
+        "Grimmjow Jaegerjakez",
+        "Reaper Dead"
       ]
     },
     {
@@ -4923,6 +4981,7 @@
         "Genethika Brisaveloz",
         "Grimmjow Jaegerjakez",
         "Layrela Rondanit",
+        "Reaper Dead",
         "Sugar Papy",
         "Takkaao Valengri",
         "Tanki Llo",
@@ -6159,7 +6218,8 @@
       "profesion": "Herrería",
       "calidad": "uncommon",
       "personajes": [
-        "Coloso Tempestad"
+        "Coloso Tempestad",
+        "Mosu Warryn"
       ]
     },
     {
@@ -6381,6 +6441,7 @@
         "Chaca Choochoo",
         "Cuzcu Aker",
         "Flexita Shadowsoul",
+        "Jonaver Legends",
         "La Pety"
       ]
     },
@@ -6480,7 +6541,8 @@
       "profesion": "Ingeniería",
       "calidad": "uncommon",
       "personajes": [
-        "Flexita Shadowsoul"
+        "Flexita Shadowsoul",
+        "Jonaver Legends"
       ]
     },
     {
@@ -6668,7 +6730,8 @@
       "personajes": [
         "Chaca Choochoo",
         "Cuzcu Aker",
-        "Flexita Shadowsoul"
+        "Flexita Shadowsoul",
+        "Jonaver Legends"
       ]
     },
     {
@@ -6702,6 +6765,14 @@
       "personajes": [
         "Chaca Choochoo",
         "Flexita Shadowsoul"
+      ]
+    },
+    {
+      "nombre": "Mithril Casing",
+      "profesion": "Ingeniería",
+      "calidad": "common",
+      "personajes": [
+        "Cuzcu Aker"
       ]
     },
     {
@@ -6864,7 +6935,8 @@
       "calidad": "common",
       "personajes": [
         "Chaca Choochoo",
-        "Flexita Shadowsoul"
+        "Flexita Shadowsoul",
+        "Jonaver Legends"
       ]
     },
     {
@@ -7111,6 +7183,7 @@
         "Farhan Ironbeard",
         "Flexita Shadowsoul",
         "Hugo Forjaluz",
+        "Jonaver Legends",
         "Khyoraku Shunsui",
         "La Pety",
         "Llamas Xx",
@@ -7173,12 +7246,28 @@
       ]
     },
     {
+      "nombre": "Barbaric Belt",
+      "profesion": "Peletería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Tankesito Khrih"
+      ]
+    },
+    {
       "nombre": "Barbaric Gloves",
       "profesion": "Peletería",
       "calidad": "uncommon",
       "personajes": [
         "Diana Flechaveloz",
         "Palmira Natblida"
+      ]
+    },
+    {
+      "nombre": "Barbaric Harness",
+      "profesion": "Peletería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Tankesito Khrih"
       ]
     },
     {
@@ -7351,7 +7440,8 @@
       "calidad": "common",
       "personajes": [
         "Diana Flechaveloz",
-        "Manelhon Gargon"
+        "Manelhon Gargon",
+        "Tankesito Khrih"
       ]
     },
     {
@@ -7482,12 +7572,21 @@
       ]
     },
     {
+      "nombre": "Dusky Belt",
+      "profesion": "Peletería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Tankesito Khrih"
+      ]
+    },
+    {
       "nombre": "Dusky Bracers",
       "profesion": "Peletería",
       "calidad": "uncommon",
       "personajes": [
         "Diana Flechaveloz",
-        "Palmira Natblida"
+        "Palmira Natblida",
+        "Tankesito Khrih"
       ]
     },
     {
@@ -7507,7 +7606,8 @@
       "profesion": "Peletería",
       "calidad": "uncommon",
       "personajes": [
-        "Memas Tour"
+        "Memas Tour",
+        "Tankesito Khrih"
       ]
     },
     {
@@ -7751,7 +7851,8 @@
       "calidad": "uncommon",
       "personajes": [
         "Diana Flechaveloz",
-        "Manelhon Gargon"
+        "Manelhon Gargon",
+        "Tankesito Khrih"
       ]
     },
     {
@@ -8382,7 +8483,8 @@
       "calidad": "common",
       "personajes": [
         "Diana Flechaveloz",
-        "Manelhon Gargon"
+        "Manelhon Gargon",
+        "Tankesito Khrih"
       ]
     },
     {
@@ -8391,7 +8493,8 @@
       "calidad": "common",
       "personajes": [
         "Diana Flechaveloz",
-        "Manelhon Gargon"
+        "Manelhon Gargon",
+        "Tankesito Khrih"
       ]
     },
     {
@@ -8550,6 +8653,7 @@
         "Llamas Xx",
         "Nimassus Pater",
         "Nindalf Pizpireta",
+        "Reaper Dead",
         "Saint Peligroxa",
         "Señor Ollivander",
         "Sr Byron",
@@ -8991,6 +9095,7 @@
         "La Pety",
         "Layrela Rondanit",
         "Llamas Xx",
+        "Mosu Warryn",
         "Palmira Natblida",
         "Runa Ruina",
         "Sugar Papy"

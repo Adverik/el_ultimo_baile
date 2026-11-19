@@ -7,7 +7,7 @@
       "personaje": "Coloso Tempestad",
       "clase": "warrior",
       "raider": false,
-      "nivel": 293,
+      "nivel": 300,
       "max": 300,
       "pct": 71
     },
@@ -15,7 +15,7 @@
       "personaje": "Chaca Choochoo",
       "clase": "druid",
       "raider": false,
-      "nivel": 279,
+      "nivel": 280,
       "max": 300,
       "pct": 35
     },
@@ -39,7 +39,7 @@
       "personaje": "Cuzcu Aker",
       "clase": "paladin",
       "raider": true,
-      "nivel": 216,
+      "nivel": 217,
       "max": 300,
       "pct": 53
     },
@@ -71,7 +71,7 @@
       "personaje": "Llamas Xx",
       "clase": "warrior",
       "raider": false,
-      "nivel": 158,
+      "nivel": 161,
       "max": 225,
       "pct": 35
     },
@@ -87,7 +87,7 @@
       "personaje": "Tharindel Magnaluz",
       "clase": "paladin",
       "raider": false,
-      "nivel": 129,
+      "nivel": 130,
       "max": 225,
       "pct": 35
     },
@@ -108,6 +108,14 @@
       "pct": 29
     },
     {
+      "personaje": "Españoleitor Españoleitor",
+      "clase": "warrior",
+      "raider": false,
+      "nivel": 118,
+      "max": 150,
+      "pct": 29
+    },
+    {
       "personaje": "Tommy Durum",
       "clase": "druid",
       "raider": false,
@@ -116,20 +124,12 @@
       "pct": 12
     },
     {
-      "personaje": "Españoleitor Españoleitor",
-      "clase": "warrior",
-      "raider": false,
-      "nivel": 117,
-      "max": 150,
-      "pct": 29
-    },
-    {
       "personaje": "Jonaver Legends",
       "clase": "mage",
       "raider": false,
       "nivel": 104,
       "max": 150,
-      "pct": 24
+      "pct": 29
     },
     {
       "personaje": "Samael Thallanor",
@@ -151,7 +151,7 @@
       "personaje": "Tio Richard",
       "clase": "paladin",
       "raider": false,
-      "nivel": 72,
+      "nivel": 74,
       "max": 75,
       "pct": 12
     },
@@ -167,7 +167,7 @@
       "personaje": "Tanki Llo",
       "clase": "warlock",
       "raider": false,
-      "nivel": 39,
+      "nivel": 40,
       "max": 75,
       "pct": 6
     },
@@ -222,7 +222,8 @@
             10,
             11,
             12,
-            14,
+            13,
+            15,
             16,
             17
           ]
@@ -270,7 +271,7 @@
             10,
             11,
             12,
-            14,
+            13,
             15,
             16,
             17
@@ -384,7 +385,7 @@
             10,
             11,
             12,
-            14,
+            13,
             15,
             16,
             17

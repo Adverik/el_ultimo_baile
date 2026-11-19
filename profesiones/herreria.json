@@ -41,7 +41,7 @@
       "raider": false,
       "nivel": 130,
       "max": 150,
-      "pct": 7
+      "pct": 8
     },
     {
       "personaje": "Tharindel Magnaluz",
@@ -10531,7 +10531,8 @@
             ]
           },
           "quien": [
-            0
+            0,
+            4
           ]
         },
         {

@@ -4,6 +4,14 @@
   "total": 3,
   "artesanos": [
     {
+      "personaje": "Sugar Papy",
+      "clase": "druid",
+      "raider": false,
+      "nivel": 289,
+      "max": 300,
+      "pct": 33
+    },
+    {
       "personaje": "Dio Hotmetal",
       "clase": "hunter",
       "raider": false,
@@ -12,18 +20,10 @@
       "pct": 33
     },
     {
-      "personaje": "Sugar Papy",
-      "clase": "druid",
-      "raider": false,
-      "nivel": 281,
-      "max": 300,
-      "pct": 33
-    },
-    {
       "personaje": "Fran Furion",
       "clase": "druid",
       "raider": true,
-      "nivel": 244,
+      "nivel": 252,
       "max": 300,
       "pct": 33
     },
@@ -31,7 +31,7 @@
       "personaje": "Tommy Durum",
       "clase": "druid",
       "raider": false,
-      "nivel": 236,
+      "nivel": 239,
       "max": 300,
       "pct": 33
     },
@@ -47,7 +47,7 @@
       "personaje": "Don Josechu",
       "clase": "warlock",
       "raider": false,
-      "nivel": 161,
+      "nivel": 163,
       "max": 225,
       "pct": 33
     },
@@ -57,6 +57,14 @@
       "raider": false,
       "nivel": 148,
       "max": 225,
+      "pct": 33
+    },
+    {
+      "personaje": "Reaper Dead",
+      "clase": "paladin",
+      "raider": false,
+      "nivel": 85,
+      "max": 150,
       "pct": 33
     },
     {
@@ -95,7 +103,7 @@
       "personaje": "Blind Minds",
       "clase": "priest",
       "raider": true,
-      "nivel": 19,
+      "nivel": 25,
       "max": 75,
       "pct": 0
     },
@@ -157,7 +165,8 @@
             7,
             8,
             9,
-            10
+            10,
+            11
           ]
         },
         {

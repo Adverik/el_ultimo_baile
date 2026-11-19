@@ -12,17 +12,17 @@
       "pct": 67
     },
     {
-      "personaje": "Espartaco Gladiador",
+      "personaje": "Mosu Warryn",
       "clase": "warrior",
-      "raider": true,
-      "nivel": 192,
+      "raider": false,
+      "nivel": 225,
       "max": 225,
       "pct": 33
     },
     {
-      "personaje": "Mosu Warryn",
+      "personaje": "Espartaco Gladiador",
       "clase": "warrior",
-      "raider": false,
+      "raider": true,
       "nivel": 192,
       "max": 225,
       "pct": 33
@@ -44,18 +44,18 @@
       "pct": 33
     },
     {
-      "personaje": "Elfa Vorable",
-      "clase": "druid",
+      "personaje": "Jonaver Legends",
+      "clase": "mage",
       "raider": false,
-      "nivel": 155,
+      "nivel": 169,
       "max": 225,
       "pct": 33
     },
     {
-      "personaje": "Jonaver Legends",
-      "clase": "mage",
+      "personaje": "Elfa Vorable",
+      "clase": "druid",
       "raider": false,
-      "nivel": 151,
+      "nivel": 155,
       "max": 225,
       "pct": 33
     },
@@ -256,6 +256,14 @@
       "clase": "priest",
       "raider": true,
       "nivel": 13,
+      "max": 75,
+      "pct": 0
+    },
+    {
+      "personaje": "Reaper Dead",
+      "clase": "paladin",
+      "raider": false,
+      "nivel": 6,
       "max": 75,
       "pct": 0
     },

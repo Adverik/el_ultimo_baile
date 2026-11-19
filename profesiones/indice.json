@@ -10,14 +10,14 @@
     "slug": "cocina",
     "nombre": "Cocina",
     "ico": "133971",
-    "artesanos": 59,
+    "artesanos": 60,
     "total": 132
   },
   {
     "slug": "desuello",
     "nombre": "Desuello",
     "ico": "134366",
-    "artesanos": 15,
+    "artesanos": 16,
     "total": 3
   },
   {
@@ -31,7 +31,7 @@
     "slug": "herboristeria",
     "nombre": "Herboristería",
     "ico": "136246",
-    "artesanos": 14,
+    "artesanos": 15,
     "total": 3
   },
   {
@@ -66,7 +66,7 @@
     "slug": "pesca",
     "nombre": "Pesca",
     "ico": "136245",
-    "artesanos": 45,
+    "artesanos": 46,
     "total": 3
   },
   {

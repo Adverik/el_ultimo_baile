@@ -96,8 +96,8 @@
       "clase": "warrior",
       "raider": false,
       "nivel": 150,
-      "max": 150,
-      "pct": 34
+      "max": 225,
+      "pct": 38
     },
     {
       "personaje": "Señor Ollivander",
@@ -135,7 +135,7 @@
       "personaje": "Jonaver Legends",
       "clase": "mage",
       "raider": false,
-      "nivel": 143,
+      "nivel": 144,
       "max": 150,
       "pct": 34
     },
@@ -628,6 +628,7 @@
             7,
             8,
             10,
+            11,
             13
           ]
         },
