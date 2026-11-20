@@ -47,7 +47,7 @@
       "personaje": "Althez Sendagris",
       "clase": "paladin",
       "raider": false,
-      "nivel": 200,
+      "nivel": 201,
       "max": 225,
       "pct": 53
     },
@@ -127,7 +127,15 @@
       "personaje": "Jonaver Legends",
       "clase": "mage",
       "raider": false,
-      "nivel": 117,
+      "nivel": 119,
+      "max": 150,
+      "pct": 29
+    },
+    {
+      "personaje": "Arthas Yevon",
+      "clase": "paladin",
+      "raider": false,
+      "nivel": 104,
       "max": 150,
       "pct": 29
     },
@@ -146,14 +154,6 @@
       "nivel": 92,
       "max": 150,
       "pct": 29
-    },
-    {
-      "personaje": "Arthas Yevon",
-      "clase": "paladin",
-      "raider": false,
-      "nivel": 76,
-      "max": 150,
-      "pct": 12
     },
     {
       "personaje": "Tio Richard",
@@ -233,7 +233,8 @@
             14,
             15,
             16,
-            17
+            17,
+            18
           ]
         },
         {
@@ -282,7 +283,8 @@
             14,
             15,
             16,
-            17
+            17,
+            18
           ]
         },
         {
@@ -398,7 +400,8 @@
             14,
             15,
             16,
-            17
+            17,
+            18
           ]
         },
         {

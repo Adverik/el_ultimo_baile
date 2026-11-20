@@ -220,6 +220,14 @@
       "pct": 16
     },
     {
+      "personaje": "Arthas Yevon",
+      "clase": "paladin",
+      "raider": false,
+      "nivel": 82,
+      "max": 150,
+      "pct": 16
+    },
+    {
       "personaje": "Fitipaldi Sendaumbria",
       "clase": "rogue",
       "raider": true,
@@ -258,14 +266,6 @@
       "nivel": 73,
       "max": 150,
       "pct": 16
-    },
-    {
-      "personaje": "Arthas Yevon",
-      "clase": "paladin",
-      "raider": false,
-      "nivel": 63,
-      "max": 150,
-      "pct": 12
     },
     {
       "personaje": "Sr Byron",
@@ -1608,7 +1608,8 @@
             28,
             29,
             30,
-            31
+            31,
+            32
           ]
         },
         {

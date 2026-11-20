@@ -31,7 +31,7 @@
       "personaje": "Runa Ruina",
       "clase": "shaman",
       "raider": true,
-      "nivel": 245,
+      "nivel": 247,
       "max": 300,
       "pct": 33
     },
@@ -79,7 +79,7 @@
       "personaje": "Breezy Reaver",
       "clase": "shaman",
       "raider": false,
-      "nivel": 191,
+      "nivel": 192,
       "max": 225,
       "pct": 33
     },
@@ -127,7 +127,7 @@
       "personaje": "Arthas Yevon",
       "clase": "paladin",
       "raider": false,
-      "nivel": 101,
+      "nivel": 108,
       "max": 150,
       "pct": 33
     },

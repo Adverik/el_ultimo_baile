@@ -8,7 +8,7 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 200,
+          "nivel": 201,
           "max": 225
         },
         {
@@ -35,7 +35,7 @@
       "profesiones": [
         {
           "nombre": "Sastrería",
-          "nivel": 123,
+          "nivel": 131,
           "max": 150
         },
         {
@@ -89,12 +89,12 @@
       "profesiones": [
         {
           "nombre": "Desuello",
-          "nivel": 101,
+          "nivel": 108,
           "max": 150
         },
         {
           "nombre": "Minería",
-          "nivel": 76,
+          "nivel": 104,
           "max": 150
         },
         {
@@ -109,7 +109,7 @@
         },
         {
           "nombre": "Primeros auxilios",
-          "nivel": 63,
+          "nivel": 82,
           "max": 150
         }
       ]
@@ -229,7 +229,7 @@
         },
         {
           "nombre": "Desuello",
-          "nivel": 191,
+          "nivel": 192,
           "max": 225
         },
         {
@@ -416,12 +416,12 @@
       "profesiones": [
         {
           "nombre": "Alquimia",
-          "nivel": 188,
+          "nivel": 197,
           "max": 225
         },
         {
           "nombre": "Herboristería",
-          "nivel": 174,
+          "nivel": 183,
           "max": 225
         },
         {
@@ -438,7 +438,7 @@
       "profesiones": [
         {
           "nombre": "Sastrería",
-          "nivel": 171,
+          "nivel": 198,
           "max": 225
         },
         {
@@ -502,17 +502,17 @@
       "profesiones": [
         {
           "nombre": "Sastrería",
-          "nivel": 154,
+          "nivel": 157,
           "max": 225
         },
         {
           "nombre": "Encantamiento",
-          "nivel": 206,
+          "nivel": 207,
           "max": 225
         },
         {
           "nombre": "Cocina",
-          "nivel": 205,
+          "nivel": 213,
           "max": 225
         },
         {
@@ -674,7 +674,7 @@
         },
         {
           "nombre": "Encantamiento",
-          "nivel": 255,
+          "nivel": 256,
           "max": 300
         },
         {
@@ -927,7 +927,7 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 117,
+          "nivel": 119,
           "max": 150
         },
         {
@@ -937,12 +937,12 @@
         },
         {
           "nombre": "Cocina",
-          "nivel": 135,
+          "nivel": 150,
           "max": 150
         },
         {
           "nombre": "Pesca",
-          "nivel": 172,
+          "nivel": 183,
           "max": 225
         },
         {
@@ -1237,8 +1237,8 @@
       "profesiones": [
         {
           "nombre": "Sastrería",
-          "nivel": 141,
-          "max": 150
+          "nivel": 149,
+          "max": 225
         },
         {
           "nombre": "Encantamiento",
@@ -1382,7 +1382,7 @@
         },
         {
           "nombre": "Desuello",
-          "nivel": 245,
+          "nivel": 247,
           "max": 300
         },
         {
@@ -1505,7 +1505,7 @@
         },
         {
           "nombre": "Encantamiento",
-          "nivel": 250,
+          "nivel": 252,
           "max": 300
         },
         {
@@ -1515,7 +1515,7 @@
         },
         {
           "nombre": "Pesca",
-          "nivel": 47,
+          "nivel": 60,
           "max": 75
         },
         {
@@ -2831,6 +2831,7 @@
         "Finn Felagund",
         "La Pety",
         "Layrela Rondanit",
+        "Runa Ruina",
         "Sugar Papy"
       ]
     },
@@ -2938,6 +2939,14 @@
       "personajes": [
         "Mosu Warryn",
         "Runa Ruina"
+      ]
+    },
+    {
+      "nombre": "Clam Linguine",
+      "profesion": "Cocina",
+      "calidad": "common",
+      "personajes": [
+        "Chaca Choochoo"
       ]
     },
     {
@@ -3226,6 +3235,7 @@
       "personajes": [
         "Althez Sendagris",
         "Archi Amnesia",
+        "Arthas Yevon",
         "Coloso Tempestad",
         "Dum Bo",
         "Edoras Duskranger",
@@ -3434,6 +3444,14 @@
       ]
     },
     {
+      "nombre": "Mrrggl Smrrthle",
+      "profesion": "Cocina",
+      "calidad": "common",
+      "personajes": [
+        "Sr Byron"
+      ]
+    },
+    {
       "nombre": "Murloc Fin Soup",
       "profesion": "Cocina",
       "calidad": "common",
@@ -3557,6 +3575,7 @@
         "Dum Bo",
         "Elfa Vorable",
         "Flexita Shadowsoul",
+        "Jonaver Legends",
         "Khyoraku Shunsui",
         "La Pety",
         "Manelhon Gargon",
@@ -3960,6 +3979,7 @@
         "Espartaco Gladiador",
         "Finn Felagund",
         "Flexita Shadowsoul",
+        "Jonaver Legends",
         "Khyoraku Shunsui",
         "La Pety",
         "Layrela Rondanit",
@@ -4590,6 +4610,7 @@
         "Kadeharz Apsus",
         "Nimassus Pater",
         "Saint Peligroxa",
+        "Sr Byron",
         "Vaporeta Pizpireta"
       ]
     },
@@ -4924,6 +4945,14 @@
       ]
     },
     {
+      "nombre": "Enchant Weapon - Recovery",
+      "profesion": "Encantamiento",
+      "calidad": "common",
+      "personajes": [
+        "Sr Byron"
+      ]
+    },
+    {
       "nombre": "Enchant Weapon - Revelation",
       "profesion": "Encantamiento",
       "calidad": "common",
@@ -5036,7 +5065,8 @@
       "profesion": "Encantamiento",
       "calidad": "common",
       "personajes": [
-        "Finn Felagund"
+        "Finn Felagund",
+        "Sr Byron"
       ]
     },
     {
@@ -5046,7 +5076,8 @@
       "personajes": [
         "Dum Bo",
         "Elfa Vorable",
-        "Finn Felagund"
+        "Finn Felagund",
+        "Sr Byron"
       ]
     },
     {
@@ -5058,6 +5089,7 @@
         "Elfa Vorable",
         "Finn Felagund",
         "Kadeharz Apsus",
+        "Sr Byron",
         "Thundrik Volgrim"
       ]
     },
@@ -6902,7 +6934,8 @@
       "profesion": "Ingeniería",
       "calidad": "uncommon",
       "personajes": [
-        "Chaca Choochoo"
+        "Chaca Choochoo",
+        "Jonaver Legends"
       ]
     },
     {
@@ -6912,6 +6945,14 @@
       "personajes": [
         "Cuzcu Aker",
         "Flexita Shadowsoul",
+        "Jonaver Legends"
+      ]
+    },
+    {
+      "nombre": "Green Firework",
+      "profesion": "Ingeniería",
+      "calidad": "common",
+      "personajes": [
         "Jonaver Legends"
       ]
     },
@@ -7411,6 +7452,7 @@
       "personajes": [
         "Althez Sendagris",
         "Armando Buya",
+        "Arthas Yevon",
         "Chaca Choochoo",
         "Coloso Tempestad",
         "Cuzcu Aker",
@@ -7512,6 +7554,7 @@
       "personajes": [
         "Althez Sendagris",
         "Armando Buya",
+        "Arthas Yevon",
         "Chaca Choochoo",
         "Coloso Tempestad",
         "Cuzcu Aker",
@@ -7559,6 +7602,7 @@
       "personajes": [
         "Althez Sendagris",
         "Armando Buya",
+        "Arthas Yevon",
         "Chaca Choochoo",
         "Coloso Tempestad",
         "Cuzcu Aker",
@@ -9288,6 +9332,7 @@
       "profesion": "Primeros auxilios",
       "calidad": "common",
       "personajes": [
+        "Arthas Yevon",
         "Aurelio Amador",
         "Breezy Reaver",
         "Chaca Choochoo",
@@ -9691,6 +9736,7 @@
       "profesion": "Sastrería",
       "calidad": "uncommon",
       "personajes": [
+        "Dum Bo",
         "Finn Felagund",
         "Sr Byron"
       ]
@@ -9718,6 +9764,7 @@
       "profesion": "Sastrería",
       "calidad": "uncommon",
       "personajes": [
+        "Dum Bo",
         "Finn Felagund",
         "Sr Byron"
       ]
@@ -9812,6 +9859,7 @@
         "Elfa Vorable",
         "Finn Felagund",
         "Kadeharz Apsus",
+        "Nimassus Pater",
         "Rhyomen Sukuna",
         "Señor Ollivander",
         "Sr Byron"
@@ -10118,6 +10166,22 @@
         "Finn Felagund",
         "Rhyomen Sukuna",
         "Señor Ollivander",
+        "Sr Byron"
+      ]
+    },
+    {
+      "nombre": "Earthenweave Cord",
+      "profesion": "Sastrería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Finn Felagund"
+      ]
+    },
+    {
+      "nombre": "Enchanted Mageweave Pouch",
+      "profesion": "Sastrería",
+      "calidad": "uncommon",
+      "personajes": [
         "Sr Byron"
       ]
     },
@@ -10681,6 +10745,7 @@
       "profesion": "Sastrería",
       "calidad": "common",
       "personajes": [
+        "Dum Bo",
         "Finn Felagund",
         "Sr Byron"
       ]
@@ -10949,6 +11014,7 @@
       "calidad": "rare",
       "personajes": [
         "Dum Bo",
+        "Elfa Vorable",
         "Finn Felagund",
         "Sr Byron"
       ]

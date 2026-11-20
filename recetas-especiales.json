@@ -3058,11 +3058,11 @@
           "clase": "priest"
         },
         {
-          "n": "Señor Ollivander",
+          "n": "Dum Bo",
           "clase": "mage"
         },
         {
-          "n": "Dum Bo",
+          "n": "Señor Ollivander",
           "clase": "mage"
         },
         {
@@ -3074,12 +3074,12 @@
           "clase": "warlock"
         },
         {
-          "n": "Micro Bolas",
-          "clase": "warlock"
-        },
-        {
           "n": "Nimassus Pater",
           "clase": "priest"
+        },
+        {
+          "n": "Micro Bolas",
+          "clase": "warlock"
         },
         {
           "n": "Archi Amnesia",
@@ -3596,12 +3596,12 @@
           "clase": "druid"
         },
         {
-          "n": "Micro Bolas",
-          "clase": "warlock"
-        },
-        {
           "n": "Nimassus Pater",
           "clase": "priest"
+        },
+        {
+          "n": "Micro Bolas",
+          "clase": "warlock"
         }
       ]
     },
@@ -3656,11 +3656,11 @@
           "clase": "priest"
         },
         {
-          "n": "Señor Ollivander",
+          "n": "Dum Bo",
           "clase": "mage"
         },
         {
-          "n": "Dum Bo",
+          "n": "Señor Ollivander",
           "clase": "mage"
         },
         {
@@ -3753,11 +3753,11 @@
           "clase": "priest"
         },
         {
-          "n": "Señor Ollivander",
+          "n": "Dum Bo",
           "clase": "mage"
         },
         {
-          "n": "Dum Bo",
+          "n": "Señor Ollivander",
           "clase": "mage"
         },
         {
@@ -4429,6 +4429,10 @@
         {
           "n": "Dum Bo",
           "clase": "mage"
+        },
+        {
+          "n": "Elfa Vorable",
+          "clase": "druid"
         }
       ]
     },

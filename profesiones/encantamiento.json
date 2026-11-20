@@ -7,7 +7,7 @@
       "personaje": "Finn Felagund",
       "clase": "priest",
       "raider": false,
-      "nivel": 255,
+      "nivel": 256,
       "max": 300,
       "pct": 30
     },
@@ -15,9 +15,9 @@
       "personaje": "Sr Byron",
       "clase": "warlock",
       "raider": false,
-      "nivel": 250,
+      "nivel": 252,
       "max": 300,
-      "pct": 27
+      "pct": 29
     },
     {
       "personaje": "Dum Bo",
@@ -31,7 +31,7 @@
       "personaje": "Elfa Vorable",
       "clase": "druid",
       "raider": false,
-      "nivel": 206,
+      "nivel": 207,
       "max": 225,
       "pct": 23
     },
@@ -820,6 +820,7 @@
           "desc": "Encanta de forma permanente una armadura de torso para que aumente 2 p. el intelecto del portador.",
           "quien": [
             0,
+            1,
             2,
             3,
             4,
@@ -2356,7 +2357,9 @@
           ],
           "cant": 10.0,
           "desc": "Encanta de forma permanente un arma cuerpo a cuerpo para que active una recuperación cuando esquiven o paren tus ataques, lo que te sanará un 5% de tu salud máxima. No puede ocurrir más de una vez cada 10 s.",
-          "quien": []
+          "quien": [
+            1
+          ]
         },
         {
           "id": 54408,
@@ -4596,6 +4599,7 @@
           },
           "quien": [
             0,
+            1,
             2,
             3,
             5,
@@ -4640,6 +4644,7 @@
           },
           "quien": [
             0,
+            1,
             2,
             3
           ]
@@ -4681,7 +4686,8 @@
             ]
           },
           "quien": [
-            0
+            0,
+            1
           ]
         },
         {
