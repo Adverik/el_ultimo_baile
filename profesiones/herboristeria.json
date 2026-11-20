@@ -23,7 +23,7 @@
       "personaje": "Fran Furion",
       "clase": "druid",
       "raider": true,
-      "nivel": 254,
+      "nivel": 255,
       "max": 300,
       "pct": 33
     },
@@ -31,7 +31,7 @@
       "personaje": "Tommy Durum",
       "clase": "druid",
       "raider": false,
-      "nivel": 239,
+      "nivel": 246,
       "max": 300,
       "pct": 33
     },
@@ -63,7 +63,7 @@
       "personaje": "Reaper Dead",
       "clase": "paladin",
       "raider": false,
-      "nivel": 85,
+      "nivel": 91,
       "max": 150,
       "pct": 33
     },

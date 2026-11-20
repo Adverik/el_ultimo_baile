@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-19",
+  "actualizado": "2026-11-20",
   "recetas": [
     {
       "id": 54692,
@@ -51,16 +51,16 @@
           "clase": "warrior"
         },
         {
+          "n": "Althez Sendagris",
+          "clase": "paladin"
+        },
+        {
           "n": "Espartaco Gladiador",
           "clase": "warrior"
         },
         {
           "n": "Khyoraku Shunsui",
           "clase": "warrior"
-        },
-        {
-          "n": "Althez Sendagris",
-          "clase": "paladin"
         },
         {
           "n": "Tharindel Magnaluz",
@@ -792,12 +792,12 @@
           "clase": "warrior"
         },
         {
-          "n": "Khyoraku Shunsui",
-          "clase": "warrior"
-        },
-        {
           "n": "Althez Sendagris",
           "clase": "paladin"
+        },
+        {
+          "n": "Khyoraku Shunsui",
+          "clase": "warrior"
         }
       ]
     },
@@ -1004,12 +1004,12 @@
           "clase": "warrior"
         },
         {
-          "n": "Khyoraku Shunsui",
-          "clase": "warrior"
-        },
-        {
           "n": "Althez Sendagris",
           "clase": "paladin"
+        },
+        {
+          "n": "Khyoraku Shunsui",
+          "clase": "warrior"
         },
         {
           "n": "Tharindel Magnaluz",
@@ -1324,6 +1324,10 @@
       },
       "profesion": "Peletería",
       "personajes": [
+        {
+          "n": "Manelhon Gargon",
+          "clase": "shaman"
+        },
         {
           "n": "Memas Tour",
           "clase": "shaman"
@@ -3078,6 +3082,10 @@
           "clase": "priest"
         },
         {
+          "n": "Archi Amnesia",
+          "clase": "priest"
+        },
+        {
           "n": "Saint Peligroxa",
           "clase": "priest"
         }
@@ -3530,6 +3538,10 @@
         {
           "n": "Finn Felagund",
           "clase": "priest"
+        },
+        {
+          "n": "Archi Amnesia",
+          "clase": "priest"
         }
       ]
     },
@@ -3668,6 +3680,10 @@
           "clase": "mage"
         },
         {
+          "n": "Archi Amnesia",
+          "clase": "priest"
+        },
+        {
           "n": "Saint Peligroxa",
           "clase": "priest"
         },
@@ -3759,6 +3775,10 @@
         {
           "n": "Kadeharz Apsus",
           "clase": "mage"
+        },
+        {
+          "n": "Archi Amnesia",
+          "clase": "priest"
         },
         {
           "n": "Saint Peligroxa",
@@ -3889,6 +3909,68 @@
         {
           "n": "Dum Bo",
           "clase": "mage"
+        }
+      ]
+    },
+    {
+      "id": 55461,
+      "n": "Gonela prístina",
+      "q": "rare",
+      "ico": "132673",
+      "reac": [
+        [
+          "Madeja de paño de seda",
+          12
+        ],
+        [
+          "Hilo de seda",
+          2
+        ],
+        [
+          "Tinte cerúleo",
+          6
+        ],
+        [
+          "Cuero prístino",
+          6
+        ],
+        [
+          "Lingote de plata",
+          2
+        ],
+        [
+          "Esencia astral superior",
+          2
+        ]
+      ],
+      "obj": {
+        "arm": "45 armadura",
+        "id": 253961,
+        "ilvl": 27,
+        "lig": "Se liga al recogerlo",
+        "n": "Gonela prístina",
+        "q": "rare",
+        "ranura": "Pecho",
+        "req": 22,
+        "stats": [
+          "+7 intelecto",
+          "+6 aguante",
+          "+7 Daño con hechizos",
+          "+20 Sanación con hechizos",
+          "+4 espíritu"
+        ],
+        "sub": "Tela",
+        "venta": [
+          "0",
+          "16",
+          "43"
+        ]
+      },
+      "profesion": "Sastrería",
+      "personajes": [
+        {
+          "n": "Archi Amnesia",
+          "clase": "priest"
         }
       ]
     },

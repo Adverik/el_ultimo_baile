@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-19",
+  "actualizado": "2026-11-20",
   "artesanos": [
     {
       "personaje": "Althez Sendagris",
@@ -13,7 +13,7 @@
         },
         {
           "nombre": "Herrería",
-          "nivel": 151,
+          "nivel": 185,
           "max": 225
         },
         {
@@ -24,6 +24,38 @@
         {
           "nombre": "Pesca",
           "nivel": 1,
+          "max": 75
+        }
+      ]
+    },
+    {
+      "personaje": "Archi Amnesia",
+      "clase": "priest",
+      "raider": false,
+      "profesiones": [
+        {
+          "nombre": "Sastrería",
+          "nivel": 123,
+          "max": 150
+        },
+        {
+          "nombre": "Encantamiento",
+          "nivel": 7,
+          "max": 75
+        },
+        {
+          "nombre": "Cocina",
+          "nivel": 167,
+          "max": 225
+        },
+        {
+          "nombre": "Pesca",
+          "nivel": 27,
+          "max": 75
+        },
+        {
+          "nombre": "Primeros auxilios",
+          "nivel": 26,
           "max": 75
         }
       ]
@@ -224,7 +256,7 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 292,
+          "nivel": 294,
           "max": 300
         },
         {
@@ -234,8 +266,8 @@
         },
         {
           "nombre": "Cocina",
-          "nivel": 225,
-          "max": 225
+          "nivel": 285,
+          "max": 300
         },
         {
           "nombre": "Pesca",
@@ -288,7 +320,7 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 217,
+          "nivel": 220,
           "max": 300
         },
         {
@@ -298,8 +330,8 @@
         },
         {
           "nombre": "Cocina",
-          "nivel": 225,
-          "max": 225
+          "nivel": 248,
+          "max": 300
         },
         {
           "nombre": "Pesca",
@@ -411,7 +443,7 @@
         },
         {
           "nombre": "Encantamiento",
-          "nivel": 169,
+          "nivel": 225,
           "max": 225
         },
         {
@@ -529,7 +561,7 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 124,
+          "nivel": 126,
           "max": 150
         },
         {
@@ -539,7 +571,7 @@
         },
         {
           "nombre": "Cocina",
-          "nivel": 3,
+          "nivel": 4,
           "max": 75
         },
         {
@@ -549,7 +581,7 @@
         },
         {
           "nombre": "Primeros auxilios",
-          "nivel": 142,
+          "nivel": 148,
           "max": 150
         }
       ]
@@ -728,7 +760,7 @@
         },
         {
           "nombre": "Herboristería",
-          "nivel": 254,
+          "nivel": 255,
           "max": 300
         },
         {
@@ -1097,8 +1129,8 @@
         },
         {
           "nombre": "Primeros auxilios",
-          "nivel": 77,
-          "max": 150
+          "nivel": 140,
+          "max": 225
         }
       ]
     },
@@ -1220,8 +1252,8 @@
         },
         {
           "nombre": "Pesca",
-          "nivel": 75,
-          "max": 75
+          "nivel": 80,
+          "max": 150
         }
       ]
     },
@@ -1301,7 +1333,7 @@
         },
         {
           "nombre": "Herboristería",
-          "nivel": 85,
+          "nivel": 91,
           "max": 150
         },
         {
@@ -1311,7 +1343,7 @@
         },
         {
           "nombre": "Pesca",
-          "nivel": 6,
+          "nivel": 13,
           "max": 75
         }
       ]
@@ -1350,7 +1382,7 @@
         },
         {
           "nombre": "Desuello",
-          "nivel": 244,
+          "nivel": 245,
           "max": 300
         },
         {
@@ -1468,7 +1500,7 @@
       "profesiones": [
         {
           "nombre": "Sastrería",
-          "nivel": 222,
+          "nivel": 225,
           "max": 300
         },
         {
@@ -1741,12 +1773,12 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 118,
+          "nivel": 120,
           "max": 150
         },
         {
           "nombre": "Herboristería",
-          "nivel": 239,
+          "nivel": 246,
           "max": 300
         },
         {
@@ -2580,6 +2612,7 @@
       "calidad": "common",
       "personajes": [
         "Althez Sendagris",
+        "Archi Amnesia",
         "Armando Buya",
         "Arthas Yevon",
         "Aurelio Amador",
@@ -2701,6 +2734,7 @@
       "calidad": "common",
       "personajes": [
         "Althez Sendagris",
+        "Archi Amnesia",
         "Arthas Yevon",
         "Aurelio Amador",
         "Breezy Reaver",
@@ -2790,6 +2824,7 @@
       "calidad": "common",
       "personajes": [
         "Chaca Choochoo",
+        "Cuzcu Aker",
         "Dum Bo",
         "Edoras Duskranger",
         "Elfa Vorable",
@@ -2804,6 +2839,7 @@
       "profesion": "Cocina",
       "calidad": "common",
       "personajes": [
+        "Archi Amnesia",
         "Diana Flechaveloz",
         "Dum Bo",
         "Edoras Duskranger",
@@ -2832,6 +2868,7 @@
       "calidad": "common",
       "personajes": [
         "Althez Sendagris",
+        "Archi Amnesia",
         "Armando Buya",
         "Arthas Yevon",
         "Aurelio Amador",
@@ -2925,6 +2962,7 @@
       "profesion": "Cocina",
       "calidad": "common",
       "personajes": [
+        "Archi Amnesia",
         "Arthas Yevon",
         "Aurelio Amador",
         "Breezy Reaver",
@@ -2963,6 +3001,7 @@
       "profesion": "Cocina",
       "calidad": "common",
       "personajes": [
+        "Archi Amnesia",
         "Arthas Yevon",
         "Breezy Reaver",
         "Chaca Choochoo",
@@ -2998,6 +3037,7 @@
       "calidad": "common",
       "personajes": [
         "Althez Sendagris",
+        "Archi Amnesia",
         "Chaca Choochoo",
         "Diana Flechaveloz",
         "Dum Bo",
@@ -3025,6 +3065,7 @@
       "calidad": "common",
       "personajes": [
         "Althez Sendagris",
+        "Archi Amnesia",
         "Breezy Reaver",
         "Coloso Tempestad",
         "Dum Bo",
@@ -3059,6 +3100,7 @@
       "calidad": "common",
       "personajes": [
         "Althez Sendagris",
+        "Archi Amnesia",
         "Arthas Yevon",
         "Breezy Reaver",
         "Chaca Choochoo",
@@ -3116,6 +3158,7 @@
       "calidad": "common",
       "personajes": [
         "Althez Sendagris",
+        "Archi Amnesia",
         "Cuzcu Aker",
         "Diana Flechaveloz",
         "Dum Bo",
@@ -3154,6 +3197,7 @@
       "calidad": "common",
       "personajes": [
         "Althez Sendagris",
+        "Archi Amnesia",
         "Chaca Choochoo",
         "Cuzcu Aker",
         "Diana Flechaveloz",
@@ -3181,6 +3225,7 @@
       "calidad": "common",
       "personajes": [
         "Althez Sendagris",
+        "Archi Amnesia",
         "Coloso Tempestad",
         "Dum Bo",
         "Edoras Duskranger",
@@ -3214,6 +3259,7 @@
       "calidad": "common",
       "personajes": [
         "Althez Sendagris",
+        "Archi Amnesia",
         "Armando Buya",
         "Arthas Yevon",
         "Aurelio Amador",
@@ -3367,6 +3413,7 @@
         "Manelhon Gargon",
         "Memas Tour",
         "Mosu Warryn",
+        "Reaper Dead",
         "Tankesito Khrih",
         "Tharindel Magnaluz"
       ]
@@ -3392,6 +3439,7 @@
       "calidad": "common",
       "personajes": [
         "Althez Sendagris",
+        "Archi Amnesia",
         "Breezy Reaver",
         "Chaca Choochoo",
         "Coloso Tempestad",
@@ -3503,6 +3551,7 @@
       "calidad": "common",
       "personajes": [
         "Althez Sendagris",
+        "Archi Amnesia",
         "Chaca Choochoo",
         "Diana Flechaveloz",
         "Dum Bo",
@@ -3538,6 +3587,7 @@
       "calidad": "common",
       "personajes": [
         "Althez Sendagris",
+        "Archi Amnesia",
         "Armando Buya",
         "Arthas Yevon",
         "Aurelio Amador",
@@ -3675,6 +3725,7 @@
       "calidad": "common",
       "personajes": [
         "Althez Sendagris",
+        "Archi Amnesia",
         "Chaca Choochoo",
         "Cuzcu Aker",
         "Diana Flechaveloz",
@@ -3734,6 +3785,7 @@
         "Memas Tour",
         "Nimassus Pater",
         "Palmira Natblida",
+        "Reaper Dead",
         "Samael Thallanor",
         "Tharindel Magnaluz",
         "Tom Kha"
@@ -3754,6 +3806,7 @@
       "profesion": "Cocina",
       "calidad": "common",
       "personajes": [
+        "Archi Amnesia",
         "Coloso Tempestad",
         "Diana Flechaveloz",
         "Dum Bo",
@@ -3801,6 +3854,7 @@
       "profesion": "Cocina",
       "calidad": "common",
       "personajes": [
+        "Archi Amnesia",
         "Arthas Yevon",
         "Aurelio Amador",
         "Aynita Again",
@@ -3896,6 +3950,7 @@
       "calidad": "common",
       "personajes": [
         "Althez Sendagris",
+        "Archi Amnesia",
         "Chaca Choochoo",
         "Cuzcu Aker",
         "Diana Flechaveloz",
@@ -3919,6 +3974,7 @@
       "profesion": "Cocina",
       "calidad": "common",
       "personajes": [
+        "Archi Amnesia",
         "Chaca Choochoo",
         "Dio Hotmetal",
         "Espartaco Gladiador",
@@ -3937,6 +3993,7 @@
       "profesion": "Cocina",
       "calidad": "common",
       "personajes": [
+        "Chaca Choochoo",
         "Cuzcu Aker",
         "Edoras Duskranger",
         "Finn Felagund",
@@ -3978,6 +4035,7 @@
       "calidad": "common",
       "personajes": [
         "Althez Sendagris",
+        "Archi Amnesia",
         "Arthas Yevon",
         "Coloso Tempestad",
         "Cuzcu Aker",
@@ -4074,6 +4132,7 @@
       "profesion": "Encantamiento",
       "calidad": "common",
       "personajes": [
+        "Archi Amnesia",
         "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
@@ -4092,6 +4151,7 @@
       "profesion": "Encantamiento",
       "calidad": "common",
       "personajes": [
+        "Archi Amnesia",
         "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
@@ -4181,6 +4241,7 @@
       "profesion": "Encantamiento",
       "calidad": "common",
       "personajes": [
+        "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
         "Sr Byron"
@@ -4199,6 +4260,7 @@
       "profesion": "Encantamiento",
       "calidad": "common",
       "personajes": [
+        "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
         "Sr Byron"
@@ -4257,6 +4319,7 @@
       "profesion": "Encantamiento",
       "calidad": "common",
       "personajes": [
+        "Archi Amnesia",
         "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
@@ -4337,6 +4400,7 @@
       "profesion": "Encantamiento",
       "calidad": "common",
       "personajes": [
+        "Archi Amnesia",
         "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
@@ -4387,6 +4451,7 @@
       "profesion": "Encantamiento",
       "calidad": "common",
       "personajes": [
+        "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
         "Sr Byron"
@@ -4397,6 +4462,7 @@
       "profesion": "Encantamiento",
       "calidad": "common",
       "personajes": [
+        "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
         "Sr Byron"
@@ -4407,6 +4473,7 @@
       "profesion": "Encantamiento",
       "calidad": "common",
       "personajes": [
+        "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
         "Sr Byron"
@@ -4427,6 +4494,7 @@
       "profesion": "Encantamiento",
       "calidad": "common",
       "personajes": [
+        "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
         "Sr Byron"
@@ -4581,6 +4649,7 @@
       "profesion": "Encantamiento",
       "calidad": "common",
       "personajes": [
+        "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
         "Sr Byron"
@@ -4591,6 +4660,7 @@
       "profesion": "Encantamiento",
       "calidad": "common",
       "personajes": [
+        "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
         "Sr Byron"
@@ -4764,6 +4834,7 @@
       "profesion": "Encantamiento",
       "calidad": "common",
       "personajes": [
+        "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
         "Sr Byron"
@@ -4788,6 +4859,7 @@
       "profesion": "Encantamiento",
       "calidad": "common",
       "personajes": [
+        "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
         "Sr Byron"
@@ -4798,6 +4870,7 @@
       "profesion": "Encantamiento",
       "calidad": "common",
       "personajes": [
+        "Dum Bo",
         "Finn Felagund"
       ]
     },
@@ -4923,6 +4996,7 @@
       "profesion": "Encantamiento",
       "calidad": "uncommon",
       "personajes": [
+        "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
         "Sr Byron"
@@ -4951,6 +5025,7 @@
       "profesion": "Encantamiento",
       "calidad": "uncommon",
       "personajes": [
+        "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
         "Sr Byron"
@@ -4991,6 +5066,7 @@
       "profesion": "Encantamiento",
       "calidad": "common",
       "personajes": [
+        "Archi Amnesia",
         "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
@@ -5009,6 +5085,7 @@
       "profesion": "Encantamiento",
       "calidad": "common",
       "personajes": [
+        "Archi Amnesia",
         "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
@@ -5623,6 +5700,7 @@
       "profesion": "Herrería",
       "calidad": "uncommon",
       "personajes": [
+        "Althez Sendagris",
         "Coloso Tempestad",
         "Espartaco Gladiador"
       ]
@@ -5840,6 +5918,7 @@
       "profesion": "Herrería",
       "calidad": "common",
       "personajes": [
+        "Althez Sendagris",
         "Coloso Tempestad",
         "Espartaco Gladiador",
         "Hugo Forjaluz",
@@ -6308,6 +6387,7 @@
       "profesion": "Herrería",
       "calidad": "common",
       "personajes": [
+        "Althez Sendagris",
         "Armando Buya",
         "Coloso Tempestad",
         "Espartaco Gladiador",
@@ -6416,6 +6496,7 @@
       "profesion": "Herrería",
       "calidad": "common",
       "personajes": [
+        "Althez Sendagris",
         "Coloso Tempestad"
       ]
     },
@@ -6433,6 +6514,7 @@
       "profesion": "Herrería",
       "calidad": "common",
       "personajes": [
+        "Althez Sendagris",
         "Coloso Tempestad"
       ]
     },
@@ -7095,6 +7177,14 @@
       ]
     },
     {
+      "nombre": "SAF-T Bomb",
+      "profesion": "Ingeniería",
+      "calidad": "common",
+      "personajes": [
+        "Cuzcu Aker"
+      ]
+    },
+    {
       "nombre": "Sandpaper",
       "profesion": "Ingeniería",
       "calidad": "uncommon",
@@ -7573,6 +7663,7 @@
       "profesion": "Peletería",
       "calidad": "rare",
       "personajes": [
+        "Manelhon Gargon",
         "Memas Tour"
       ]
     },
@@ -8857,6 +8948,7 @@
       "profesion": "Pesca",
       "calidad": "common",
       "personajes": [
+        "Archi Amnesia",
         "Arthas Yevon",
         "Aynita Again",
         "Breezy Reaver",
@@ -8896,6 +8988,7 @@
       "calidad": "common",
       "personajes": [
         "Althez Sendagris",
+        "Archi Amnesia",
         "Aynita Again",
         "Blind Minds",
         "Chaca Choochoo",
@@ -8910,7 +9003,6 @@
         "Khyoraku Shunsui",
         "La Pety",
         "Llamas Xx",
-        "Nimassus Pater",
         "Nindalf Pizpireta",
         "Reaper Dead",
         "Saint Peligroxa",
@@ -8949,6 +9041,7 @@
         "Layrela Rondanit",
         "Manelhon Gargon",
         "Micro Bolas",
+        "Nimassus Pater",
         "Palmira Natblida",
         "Samael Thallanor",
         "Sugar Papy",
@@ -8990,6 +9083,7 @@
         "Jonaver Legends",
         "Layrela Rondanit",
         "Llamas Xx",
+        "Manelhon Gargon",
         "Mosu Warryn",
         "Palmira Natblida",
         "Runa Ruina",
@@ -9013,6 +9107,7 @@
       "profesion": "Primeros auxilios",
       "calidad": "common",
       "personajes": [
+        "Archi Amnesia",
         "Arthas Yevon",
         "Aurelio Amador",
         "Breezy Reaver",
@@ -9079,6 +9174,7 @@
         "Ildaren Belisar",
         "Jonaver Legends",
         "Layrela Rondanit",
+        "Manelhon Gargon",
         "Mosu Warryn",
         "Palmira Natblida",
         "Runa Ruina",
@@ -9133,6 +9229,7 @@
       "profesion": "Primeros auxilios",
       "calidad": "common",
       "personajes": [
+        "Coloso Tempestad",
         "La Pety"
       ]
     },
@@ -9169,6 +9266,7 @@
         "La Pety",
         "Layrela Rondanit",
         "Llamas Xx",
+        "Manelhon Gargon",
         "Mosu Warryn",
         "Palmira Natblida",
         "Runa Ruina",
@@ -9228,6 +9326,7 @@
       "profesion": "Primeros auxilios",
       "calidad": "common",
       "personajes": [
+        "Archi Amnesia",
         "Arthas Yevon",
         "Aurelio Amador",
         "Blind Minds",
@@ -9295,6 +9394,7 @@
       "profesion": "Primeros auxilios",
       "calidad": "common",
       "personajes": [
+        "Archi Amnesia",
         "Arthas Yevon",
         "Aurelio Amador",
         "Breezy Reaver",
@@ -9388,6 +9488,7 @@
         "Jonaver Legends",
         "Layrela Rondanit",
         "Llamas Xx",
+        "Manelhon Gargon",
         "Mosu Warryn",
         "Palmira Natblida",
         "Runa Ruina",
@@ -9440,6 +9541,7 @@
         "La Pety",
         "Layrela Rondanit",
         "Llamas Xx",
+        "Manelhon Gargon",
         "Mosu Warryn",
         "Palmira Natblida",
         "Runa Ruina",
@@ -9497,6 +9599,7 @@
       "profesion": "Sastrería",
       "calidad": "uncommon",
       "personajes": [
+        "Archi Amnesia",
         "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
@@ -9514,6 +9617,7 @@
       "profesion": "Sastrería",
       "calidad": "uncommon",
       "personajes": [
+        "Archi Amnesia",
         "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
@@ -9542,6 +9646,7 @@
       "profesion": "Sastrería",
       "calidad": "uncommon",
       "personajes": [
+        "Archi Amnesia",
         "Blind Minds",
         "Dum Bo",
         "Elfa Vorable",
@@ -9642,6 +9747,7 @@
       "profesion": "Sastrería",
       "calidad": "common",
       "personajes": [
+        "Archi Amnesia",
         "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
@@ -9667,6 +9773,7 @@
       "profesion": "Sastrería",
       "calidad": "uncommon",
       "personajes": [
+        "Archi Amnesia",
         "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund"
@@ -9677,6 +9784,7 @@
       "profesion": "Sastrería",
       "calidad": "common",
       "personajes": [
+        "Archi Amnesia",
         "Aynita Again",
         "Blind Minds",
         "Dum Bo",
@@ -9723,6 +9831,7 @@
       "profesion": "Sastrería",
       "calidad": "common",
       "personajes": [
+        "Archi Amnesia",
         "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
@@ -9741,6 +9850,7 @@
       "profesion": "Sastrería",
       "calidad": "common",
       "personajes": [
+        "Archi Amnesia",
         "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
@@ -9764,10 +9874,19 @@
       ]
     },
     {
+      "nombre": "Bright Yellow Shirt",
+      "profesion": "Sastrería",
+      "calidad": "common",
+      "personajes": [
+        "Archi Amnesia"
+      ]
+    },
+    {
       "nombre": "Brown Linen Pants",
       "profesion": "Sastrería",
       "calidad": "uncommon",
       "personajes": [
+        "Archi Amnesia",
         "Blind Minds",
         "Dum Bo",
         "Elfa Vorable",
@@ -9785,6 +9904,7 @@
       "profesion": "Sastrería",
       "calidad": "uncommon",
       "personajes": [
+        "Archi Amnesia",
         "Blind Minds",
         "Dum Bo",
         "Elfa Vorable",
@@ -9802,6 +9922,7 @@
       "profesion": "Sastrería",
       "calidad": "common",
       "personajes": [
+        "Archi Amnesia",
         "Aynita Again",
         "Blind Minds",
         "Dum Bo",
@@ -9825,6 +9946,7 @@
       "profesion": "Sastrería",
       "calidad": "common",
       "personajes": [
+        "Archi Amnesia",
         "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
@@ -9926,10 +10048,19 @@
       ]
     },
     {
+      "nombre": "Dark Silk Shirt",
+      "profesion": "Sastrería",
+      "calidad": "common",
+      "personajes": [
+        "Archi Amnesia"
+      ]
+    },
+    {
       "nombre": "Double-stitched Woolen Shoulders",
       "profesion": "Sastrería",
       "calidad": "uncommon",
       "personajes": [
+        "Archi Amnesia",
         "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
@@ -10003,6 +10134,7 @@
       "profesion": "Sastrería",
       "calidad": "common",
       "personajes": [
+        "Archi Amnesia",
         "Blind Minds",
         "Dum Bo",
         "Elfa Vorable",
@@ -10169,6 +10301,7 @@
       "profesion": "Sastrería",
       "calidad": "uncommon",
       "personajes": [
+        "Archi Amnesia",
         "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
@@ -10203,6 +10336,7 @@
       "profesion": "Sastrería",
       "calidad": "common",
       "personajes": [
+        "Archi Amnesia",
         "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
@@ -10217,6 +10351,7 @@
       "profesion": "Sastrería",
       "calidad": "uncommon",
       "personajes": [
+        "Archi Amnesia",
         "Dum Bo",
         "Finn Felagund",
         "Kadeharz Apsus"
@@ -10227,6 +10362,7 @@
       "profesion": "Sastrería",
       "calidad": "uncommon",
       "personajes": [
+        "Archi Amnesia",
         "Blind Minds",
         "Dum Bo",
         "Elfa Vorable",
@@ -10245,6 +10381,7 @@
       "profesion": "Sastrería",
       "calidad": "common",
       "personajes": [
+        "Archi Amnesia",
         "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
@@ -10299,6 +10436,7 @@
       "profesion": "Sastrería",
       "calidad": "uncommon",
       "personajes": [
+        "Archi Amnesia",
         "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
@@ -10322,6 +10460,7 @@
       "profesion": "Sastrería",
       "calidad": "uncommon",
       "personajes": [
+        "Archi Amnesia",
         "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
@@ -10340,6 +10479,7 @@
       "profesion": "Sastrería",
       "calidad": "uncommon",
       "personajes": [
+        "Archi Amnesia",
         "Blind Minds",
         "Dum Bo",
         "Elfa Vorable",
@@ -10368,6 +10508,7 @@
       "profesion": "Sastrería",
       "calidad": "uncommon",
       "personajes": [
+        "Archi Amnesia",
         "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
@@ -10384,6 +10525,7 @@
       "profesion": "Sastrería",
       "calidad": "uncommon",
       "personajes": [
+        "Archi Amnesia",
         "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
@@ -10407,6 +10549,7 @@
       "profesion": "Sastrería",
       "calidad": "uncommon",
       "personajes": [
+        "Archi Amnesia",
         "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
@@ -10425,6 +10568,7 @@
       "profesion": "Sastrería",
       "calidad": "common",
       "personajes": [
+        "Archi Amnesia",
         "Aynita Again",
         "Blind Minds",
         "Dum Bo",
@@ -10448,6 +10592,7 @@
       "profesion": "Sastrería",
       "calidad": "common",
       "personajes": [
+        "Archi Amnesia",
         "Blind Minds",
         "Dum Bo",
         "Elfa Vorable",
@@ -10466,6 +10611,7 @@
       "profesion": "Sastrería",
       "calidad": "uncommon",
       "personajes": [
+        "Archi Amnesia",
         "Blind Minds",
         "Dum Bo",
         "Elfa Vorable",
@@ -10483,6 +10629,7 @@
       "profesion": "Sastrería",
       "calidad": "common",
       "personajes": [
+        "Archi Amnesia",
         "Aynita Again",
         "Blind Minds",
         "Dum Bo",
@@ -10506,6 +10653,7 @@
       "profesion": "Sastrería",
       "calidad": "common",
       "personajes": [
+        "Archi Amnesia",
         "Blind Minds",
         "Dum Bo",
         "Elfa Vorable",
@@ -10542,6 +10690,7 @@
       "profesion": "Sastrería",
       "calidad": "rare",
       "personajes": [
+        "Archi Amnesia",
         "Blind Minds",
         "Dum Bo",
         "Elfa Vorable",
@@ -10561,6 +10710,7 @@
       "profesion": "Sastrería",
       "calidad": "rare",
       "personajes": [
+        "Archi Amnesia",
         "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
@@ -10597,6 +10747,7 @@
       "profesion": "Sastrería",
       "calidad": "uncommon",
       "personajes": [
+        "Archi Amnesia",
         "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
@@ -10611,6 +10762,7 @@
       "profesion": "Sastrería",
       "calidad": "uncommon",
       "personajes": [
+        "Archi Amnesia",
         "Dum Bo",
         "Nimassus Pater",
         "Sr Byron"
@@ -10629,7 +10781,16 @@
       "profesion": "Sastrería",
       "calidad": "rare",
       "personajes": [
+        "Archi Amnesia",
         "Finn Felagund"
+      ]
+    },
+    {
+      "nombre": "Pristine Gown",
+      "profesion": "Sastrería",
+      "calidad": "rare",
+      "personajes": [
+        "Archi Amnesia"
       ]
     },
     {
@@ -10648,6 +10809,7 @@
       "profesion": "Sastrería",
       "calidad": "common",
       "personajes": [
+        "Archi Amnesia",
         "Dum Bo",
         "Elfa Vorable",
         "Kadeharz Apsus",
@@ -10669,6 +10831,7 @@
       "profesion": "Sastrería",
       "calidad": "common",
       "personajes": [
+        "Archi Amnesia",
         "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
@@ -10731,6 +10894,7 @@
       "profesion": "Sastrería",
       "calidad": "common",
       "personajes": [
+        "Archi Amnesia",
         "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
@@ -10754,6 +10918,7 @@
       "profesion": "Sastrería",
       "calidad": "uncommon",
       "personajes": [
+        "Archi Amnesia",
         "Blind Minds",
         "Dum Bo",
         "Elfa Vorable",
@@ -10864,6 +11029,7 @@
       "profesion": "Sastrería",
       "calidad": "common",
       "personajes": [
+        "Archi Amnesia",
         "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
@@ -10880,6 +11046,7 @@
       "profesion": "Sastrería",
       "calidad": "uncommon",
       "personajes": [
+        "Archi Amnesia",
         "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
@@ -10896,6 +11063,7 @@
       "profesion": "Sastrería",
       "calidad": "common",
       "personajes": [
+        "Archi Amnesia",
         "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
@@ -10912,6 +11080,7 @@
       "profesion": "Sastrería",
       "calidad": "common",
       "personajes": [
+        "Archi Amnesia",
         "Aynita Again",
         "Blind Minds",
         "Dum Bo",
@@ -10951,11 +11120,20 @@
       "profesion": "Sastrería",
       "calidad": "uncommon",
       "personajes": [
+        "Archi Amnesia",
         "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
         "Rhyomen Sukuna",
         "Señor Ollivander",
+        "Sr Byron"
+      ]
+    },
+    {
+      "nombre": "Soul Pouch",
+      "profesion": "Sastrería",
+      "calidad": "uncommon",
+      "personajes": [
         "Sr Byron"
       ]
     },
@@ -10982,6 +11160,7 @@
       "profesion": "Sastrería",
       "calidad": "rare",
       "personajes": [
+        "Archi Amnesia",
         "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
@@ -11018,6 +11197,7 @@
       "profesion": "Sastrería",
       "calidad": "common",
       "personajes": [
+        "Archi Amnesia",
         "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
@@ -11048,6 +11228,7 @@
       "profesion": "Sastrería",
       "calidad": "uncommon",
       "personajes": [
+        "Archi Amnesia",
         "Blind Minds",
         "Dum Bo",
         "Elfa Vorable",
@@ -11065,6 +11246,7 @@
       "profesion": "Sastrería",
       "calidad": "common",
       "personajes": [
+        "Archi Amnesia",
         "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
@@ -11104,6 +11286,7 @@
       "profesion": "Sastrería",
       "calidad": "uncommon",
       "personajes": [
+        "Archi Amnesia",
         "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
@@ -11118,6 +11301,7 @@
       "profesion": "Sastrería",
       "calidad": "common",
       "personajes": [
+        "Archi Amnesia",
         "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
@@ -11134,6 +11318,7 @@
       "profesion": "Sastrería",
       "calidad": "uncommon",
       "personajes": [
+        "Archi Amnesia",
         "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
@@ -11150,6 +11335,7 @@
       "profesion": "Sastrería",
       "calidad": "uncommon",
       "personajes": [
+        "Archi Amnesia",
         "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
@@ -11168,6 +11354,7 @@
       "profesion": "Sastrería",
       "calidad": "common",
       "personajes": [
+        "Archi Amnesia",
         "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",

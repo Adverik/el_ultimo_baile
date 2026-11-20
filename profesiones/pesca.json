@@ -156,6 +156,14 @@
       "pct": 33
     },
     {
+      "personaje": "Nimassus Pater",
+      "clase": "priest",
+      "raider": true,
+      "nivel": 80,
+      "max": 150,
+      "pct": 33
+    },
+    {
       "personaje": "Arthas Yevon",
       "clase": "paladin",
       "raider": false,
@@ -177,14 +185,6 @@
       "raider": false,
       "nivel": 75,
       "max": 150,
-      "pct": 33
-    },
-    {
-      "personaje": "Nimassus Pater",
-      "clase": "priest",
-      "raider": true,
-      "nivel": 75,
-      "max": 75,
       "pct": 33
     },
     {
@@ -236,6 +236,14 @@
       "pct": 33
     },
     {
+      "personaje": "Archi Amnesia",
+      "clase": "priest",
+      "raider": false,
+      "nivel": 27,
+      "max": 75,
+      "pct": 33
+    },
+    {
       "personaje": "Vaporeta Pizpireta",
       "clase": "mage",
       "raider": true,
@@ -271,7 +279,7 @@
       "personaje": "Reaper Dead",
       "clase": "paladin",
       "raider": false,
-      "nivel": 6,
+      "nivel": 13,
       "max": 75,
       "pct": 0
     },
@@ -441,7 +449,8 @@
             28,
             29,
             30,
-            31
+            31,
+            32
           ]
         },
         {
