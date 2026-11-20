@@ -4,20 +4,20 @@
   "total": 17,
   "artesanos": [
     {
+      "personaje": "Chaca Choochoo",
+      "clase": "druid",
+      "raider": false,
+      "nivel": 300,
+      "max": 300,
+      "pct": 35
+    },
+    {
       "personaje": "Coloso Tempestad",
       "clase": "warrior",
       "raider": false,
       "nivel": 300,
       "max": 300,
       "pct": 71
-    },
-    {
-      "personaje": "Chaca Choochoo",
-      "clase": "druid",
-      "raider": false,
-      "nivel": 294,
-      "max": 300,
-      "pct": 35
     },
     {
       "personaje": "La Pety",
@@ -47,7 +47,7 @@
       "personaje": "Althez Sendagris",
       "clase": "paladin",
       "raider": false,
-      "nivel": 201,
+      "nivel": 206,
       "max": 225,
       "pct": 53
     },
@@ -55,23 +55,23 @@
       "personaje": "Espartaco Gladiador",
       "clase": "warrior",
       "raider": true,
-      "nivel": 191,
+      "nivel": 192,
       "max": 225,
       "pct": 59
-    },
-    {
-      "personaje": "Flexita Shadowsoul",
-      "clase": "hunter",
-      "raider": false,
-      "nivel": 178,
-      "max": 225,
-      "pct": 47
     },
     {
       "personaje": "Llamas Xx",
       "clase": "warrior",
       "raider": false,
-      "nivel": 177,
+      "nivel": 187,
+      "max": 225,
+      "pct": 53
+    },
+    {
+      "personaje": "Flexita Shadowsoul",
+      "clase": "hunter",
+      "raider": false,
+      "nivel": 185,
       "max": 225,
       "pct": 53
     },
@@ -84,20 +84,20 @@
       "pct": 35
     },
     {
+      "personaje": "Españoleitor Españoleitor",
+      "clase": "warrior",
+      "raider": false,
+      "nivel": 136,
+      "max": 225,
+      "pct": 35
+    },
+    {
       "personaje": "Tharindel Magnaluz",
       "clase": "paladin",
       "raider": false,
       "nivel": 133,
       "max": 225,
       "pct": 35
-    },
-    {
-      "personaje": "Españoleitor Españoleitor",
-      "clase": "warrior",
-      "raider": false,
-      "nivel": 126,
-      "max": 150,
-      "pct": 29
     },
     {
       "personaje": "Armando Buya",
@@ -135,7 +135,7 @@
       "personaje": "Arthas Yevon",
       "clase": "paladin",
       "raider": false,
-      "nivel": 104,
+      "nivel": 110,
       "max": 150,
       "pct": 29
     },
@@ -175,7 +175,7 @@
       "personaje": "Tanki Llo",
       "clase": "warlock",
       "raider": false,
-      "nivel": 44,
+      "nivel": 46,
       "max": 75,
       "pct": 6
     },
@@ -311,7 +311,7 @@
             ]
           },
           "quien": [
-            0,
+            1,
             2,
             3,
             4,
@@ -356,7 +356,8 @@
             7,
             8,
             9,
-            10
+            10,
+            11
           ]
         },
         {
@@ -433,7 +434,7 @@
             ]
           },
           "quien": [
-            0,
+            1,
             2,
             3,
             4,
@@ -518,7 +519,7 @@
             ]
           },
           "quien": [
-            0
+            1
           ]
         },
         {
@@ -546,12 +547,13 @@
             ]
           },
           "quien": [
-            0,
+            1,
             2,
             3,
             4,
             5,
             6,
+            7,
             8
           ]
         },
@@ -606,7 +608,7 @@
             ]
           },
           "quien": [
-            0
+            1
           ]
         },
         {
@@ -695,7 +697,7 @@
             ]
           },
           "quien": [
-            0
+            1
           ]
         }
       ]

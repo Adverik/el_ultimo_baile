@@ -15,9 +15,9 @@
       "personaje": "Flexita Shadowsoul",
       "clase": "hunter",
       "raider": false,
-      "nivel": 190,
+      "nivel": 202,
       "max": 225,
-      "pct": 17
+      "pct": 19
     },
     {
       "personaje": "Chaca Choochoo",
@@ -588,7 +588,8 @@
             ]
           },
           "quien": [
-            0
+            0,
+            1
           ]
         },
         {
@@ -622,7 +623,8 @@
             ]
           },
           "quien": [
-            0
+            0,
+            1
           ]
         },
         {
@@ -1650,7 +1652,8 @@
             ]
           },
           "quien": [
-            0
+            0,
+            1
           ]
         },
         {
@@ -6160,6 +6163,7 @@
             ]
           },
           "quien": [
+            1,
             2,
             4
           ]
@@ -7109,7 +7113,9 @@
               "50"
             ]
           },
-          "quien": []
+          "quien": [
+            1
+          ]
         },
         {
           "id": 12296,

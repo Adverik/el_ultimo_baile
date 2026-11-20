@@ -31,7 +31,7 @@
       "personaje": "Espartaco Gladiador",
       "clase": "warrior",
       "raider": true,
-      "nivel": 192,
+      "nivel": 193,
       "max": 225,
       "pct": 33
     },
@@ -143,7 +143,15 @@
       "personaje": "Flexita Shadowsoul",
       "clase": "hunter",
       "raider": false,
-      "nivel": 87,
+      "nivel": 96,
+      "max": 150,
+      "pct": 33
+    },
+    {
+      "personaje": "Arthas Yevon",
+      "clase": "paladin",
+      "raider": false,
+      "nivel": 90,
       "max": 150,
       "pct": 33
     },
@@ -160,14 +168,6 @@
       "clase": "priest",
       "raider": true,
       "nivel": 80,
-      "max": 150,
-      "pct": 33
-    },
-    {
-      "personaje": "Arthas Yevon",
-      "clase": "paladin",
-      "raider": false,
-      "nivel": 79,
       "max": 150,
       "pct": 33
     },

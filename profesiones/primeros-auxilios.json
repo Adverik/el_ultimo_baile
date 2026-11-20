@@ -36,6 +36,14 @@
       "pct": 47
     },
     {
+      "personaje": "Genethika Brisaveloz",
+      "clase": "hunter",
+      "raider": false,
+      "nivel": 224,
+      "max": 225,
+      "pct": 47
+    },
+    {
       "personaje": "Espartaco Gladiador",
       "clase": "warrior",
       "raider": true,
@@ -52,18 +60,18 @@
       "pct": 47
     },
     {
-      "personaje": "Genethika Brisaveloz",
-      "clase": "hunter",
-      "raider": false,
-      "nivel": 219,
-      "max": 225,
-      "pct": 47
-    },
-    {
       "personaje": "Palmira Natblida",
       "clase": "rogue",
       "raider": true,
       "nivel": 216,
+      "max": 225,
+      "pct": 47
+    },
+    {
+      "personaje": "Jonaver Legends",
+      "clase": "mage",
+      "raider": false,
+      "nivel": 213,
       "max": 225,
       "pct": 44
     },
@@ -76,10 +84,26 @@
       "pct": 34
     },
     {
+      "personaje": "Edoras Duskranger",
+      "clase": "hunter",
+      "raider": true,
+      "nivel": 189,
+      "max": 225,
+      "pct": 41
+    },
+    {
       "personaje": "Layrela Rondanit",
       "clase": "druid",
       "raider": true,
       "nivel": 175,
+      "max": 225,
+      "pct": 41
+    },
+    {
+      "personaje": "Españoleitor Españoleitor",
+      "clase": "warrior",
+      "raider": false,
+      "nivel": 168,
       "max": 225,
       "pct": 41
     },
@@ -100,12 +124,12 @@
       "pct": 28
     },
     {
-      "personaje": "Edoras Duskranger",
-      "clase": "hunter",
+      "personaje": "Manelhon Gargon",
+      "clase": "shaman",
       "raider": true,
       "nivel": 150,
-      "max": 150,
-      "pct": 38
+      "max": 225,
+      "pct": 31
     },
     {
       "personaje": "Mosu Warryn",
@@ -130,30 +154,6 @@
       "nivel": 150,
       "max": 150,
       "pct": 38
-    },
-    {
-      "personaje": "Españoleitor Españoleitor",
-      "clase": "warrior",
-      "raider": false,
-      "nivel": 148,
-      "max": 150,
-      "pct": 38
-    },
-    {
-      "personaje": "Jonaver Legends",
-      "clase": "mage",
-      "raider": false,
-      "nivel": 146,
-      "max": 150,
-      "pct": 34
-    },
-    {
-      "personaje": "Manelhon Gargon",
-      "clase": "shaman",
-      "raider": true,
-      "nivel": 140,
-      "max": 225,
-      "pct": 31
     },
     {
       "personaje": "Hugo Forjaluz",
@@ -607,9 +607,9 @@
             11,
             12,
             13,
+            14,
             15,
             16,
-            17,
             18,
             19
           ]
@@ -650,9 +650,11 @@
             7,
             8,
             9,
+            10,
+            11,
             12,
-            13,
-            15
+            16,
+            18
           ]
         },
         {
@@ -689,7 +691,9 @@
             4,
             5,
             6,
-            7
+            7,
+            8,
+            10
           ]
         },
         {
@@ -726,7 +730,8 @@
             4,
             5,
             6,
-            7
+            7,
+            8
           ]
         },
         {
@@ -915,7 +920,7 @@
             1,
             2,
             3,
-            5,
+            4,
             6,
             7,
             8,
@@ -963,7 +968,7 @@
           },
           "quien": [
             3,
-            16
+            12
           ]
         },
         {
@@ -1066,7 +1071,8 @@
           },
           "quien": [
             2,
-            5
+            6,
+            7
           ]
         },
         {
@@ -1104,7 +1110,7 @@
             1,
             2,
             3,
-            5,
+            4,
             6,
             7,
             8,
@@ -1113,9 +1119,9 @@
             11,
             12,
             13,
-            15,
+            14,
             16,
-            17
+            18
           ]
         },
         {
@@ -1231,7 +1237,7 @@
           },
           "quien": [
             2,
-            9
+            11
           ]
         },
         {
@@ -1273,15 +1279,15 @@
             1,
             2,
             3,
-            5,
+            4,
             6,
             7,
             8,
             9,
             10,
+            11,
             12,
             13,
-            14,
             15,
             16,
             17,
@@ -1504,7 +1510,7 @@
             1,
             2,
             3,
-            5,
+            4,
             6,
             7,
             8,
@@ -1582,7 +1588,7 @@
             1,
             2,
             3,
-            5,
+            4,
             6,
             7,
             8,
@@ -1650,14 +1656,14 @@
             1,
             2,
             3,
-            5,
+            4,
             6,
             7,
-            9,
+            8,
             10,
+            11,
             12,
             13,
-            14,
             15,
             16,
             17,
@@ -1703,7 +1709,7 @@
           },
           "quien": [
             1,
-            6
+            4
           ]
         },
         {

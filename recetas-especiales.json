@@ -2,6 +2,55 @@
   "actualizado": "2026-11-20",
   "recetas": [
     {
+      "id": 54403,
+      "n": "Champiñón místico",
+      "q": "rare",
+      "reac": [
+        [
+          "Fragmento de luz trémula pequeño",
+          1
+        ],
+        [
+          "Esencia mágica superior",
+          2
+        ],
+        [
+          "Polvo extraño",
+          5
+        ],
+        [
+          "Champiñón con motas rojas",
+          1
+        ]
+      ],
+      "desc": "Crea un champiñón místico.",
+      "obj": {
+        "efectos": [
+          "Equipar: Aumenta un 5% el espíritu."
+        ],
+        "id": 249396,
+        "ilvl": 25,
+        "lig": "Se liga al recogerlo",
+        "n": "Champiñón místico",
+        "q": "rare",
+        "ranura": "Reliquia",
+        "req": 20,
+        "sub": "Ídolo",
+        "venta": [
+          "0",
+          "4",
+          "99"
+        ]
+      },
+      "profesion": "Encantamiento",
+      "personajes": [
+        {
+          "n": "Elfa Vorable",
+          "clase": "druid"
+        }
+      ]
+    },
+    {
       "id": 54692,
       "n": "Botas de cobre con gemas",
       "q": "rare",
@@ -63,15 +112,15 @@
           "clase": "warrior"
         },
         {
+          "n": "Llamas Xx",
+          "clase": "warrior"
+        },
+        {
           "n": "Tharindel Magnaluz",
           "clase": "paladin"
         },
         {
           "n": "Mosu Warryn",
-          "clase": "warrior"
-        },
-        {
-          "n": "Llamas Xx",
           "clase": "warrior"
         },
         {
@@ -142,12 +191,12 @@
           "clase": "warrior"
         },
         {
-          "n": "Tharindel Magnaluz",
-          "clase": "paladin"
-        },
-        {
           "n": "Llamas Xx",
           "clase": "warrior"
+        },
+        {
+          "n": "Tharindel Magnaluz",
+          "clase": "paladin"
         },
         {
           "n": "Hugo Forjaluz",
@@ -218,12 +267,12 @@
           "clase": "warrior"
         },
         {
-          "n": "Tharindel Magnaluz",
-          "clase": "paladin"
-        },
-        {
           "n": "Llamas Xx",
           "clase": "warrior"
+        },
+        {
+          "n": "Tharindel Magnaluz",
+          "clase": "paladin"
         },
         {
           "n": "Hugo Forjaluz",
@@ -1012,12 +1061,12 @@
           "clase": "warrior"
         },
         {
-          "n": "Tharindel Magnaluz",
-          "clase": "paladin"
-        },
-        {
           "n": "Llamas Xx",
           "clase": "warrior"
+        },
+        {
+          "n": "Tharindel Magnaluz",
+          "clase": "paladin"
         }
       ]
     },
@@ -1476,12 +1525,12 @@
       "profesion": "Peletería",
       "personajes": [
         {
-          "n": "Memas Tour",
-          "clase": "shaman"
-        },
-        {
           "n": "Aurelio Amador",
           "clase": "rogue"
+        },
+        {
+          "n": "Memas Tour",
+          "clase": "shaman"
         }
       ]
     },
@@ -1576,6 +1625,10 @@
       "profesion": "Peletería",
       "personajes": [
         {
+          "n": "Aurelio Amador",
+          "clase": "rogue"
+        },
+        {
           "n": "Diana Flechaveloz",
           "clase": "hunter"
         },
@@ -1598,10 +1651,6 @@
         {
           "n": "Runa Ruina",
           "clase": "shaman"
-        },
-        {
-          "n": "Aurelio Amador",
-          "clase": "rogue"
         },
         {
           "n": "Edoras Duskranger",
@@ -1919,12 +1968,12 @@
       "profesion": "Peletería",
       "personajes": [
         {
-          "n": "Tankesito Khrih",
-          "clase": "druid"
-        },
-        {
           "n": "Aurelio Amador",
           "clase": "rogue"
+        },
+        {
+          "n": "Tankesito Khrih",
+          "clase": "druid"
         }
       ]
     },
@@ -2270,6 +2319,10 @@
       "profesion": "Peletería",
       "personajes": [
         {
+          "n": "Aurelio Amador",
+          "clase": "rogue"
+        },
+        {
           "n": "Diana Flechaveloz",
           "clase": "hunter"
         },
@@ -2283,10 +2336,6 @@
         },
         {
           "n": "Palmira Natblida",
-          "clase": "rogue"
-        },
-        {
-          "n": "Aurelio Amador",
           "clase": "rogue"
         },
         {
@@ -2406,12 +2455,12 @@
       "profesion": "Peletería",
       "personajes": [
         {
-          "n": "Tankesito Khrih",
-          "clase": "druid"
-        },
-        {
           "n": "Aurelio Amador",
           "clase": "rogue"
+        },
+        {
+          "n": "Tankesito Khrih",
+          "clase": "druid"
         }
       ]
     },
@@ -2466,6 +2515,10 @@
       "profesion": "Peletería",
       "personajes": [
         {
+          "n": "Aurelio Amador",
+          "clase": "rogue"
+        },
+        {
           "n": "Diana Flechaveloz",
           "clase": "hunter"
         },
@@ -2483,10 +2536,6 @@
         },
         {
           "n": "Palmira Natblida",
-          "clase": "rogue"
-        },
-        {
-          "n": "Aurelio Amador",
           "clase": "rogue"
         },
         {
@@ -3050,16 +3099,16 @@
       "profesion": "Sastrería",
       "personajes": [
         {
+          "n": "Dum Bo",
+          "clase": "mage"
+        },
+        {
           "n": "Sr Byron",
           "clase": "warlock"
         },
         {
           "n": "Finn Felagund",
           "clase": "priest"
-        },
-        {
-          "n": "Dum Bo",
-          "clase": "mage"
         },
         {
           "n": "Señor Ollivander",
@@ -3421,12 +3470,12 @@
       "profesion": "Sastrería",
       "personajes": [
         {
-          "n": "Sr Byron",
-          "clase": "warlock"
-        },
-        {
           "n": "Dum Bo",
           "clase": "mage"
+        },
+        {
+          "n": "Sr Byron",
+          "clase": "warlock"
         }
       ]
     },
@@ -3648,16 +3697,16 @@
       "profesion": "Sastrería",
       "personajes": [
         {
+          "n": "Dum Bo",
+          "clase": "mage"
+        },
+        {
           "n": "Sr Byron",
           "clase": "warlock"
         },
         {
           "n": "Finn Felagund",
           "clase": "priest"
-        },
-        {
-          "n": "Dum Bo",
-          "clase": "mage"
         },
         {
           "n": "Señor Ollivander",
@@ -3745,16 +3794,16 @@
       "profesion": "Sastrería",
       "personajes": [
         {
+          "n": "Dum Bo",
+          "clase": "mage"
+        },
+        {
           "n": "Sr Byron",
           "clase": "warlock"
         },
         {
           "n": "Finn Felagund",
           "clase": "priest"
-        },
-        {
-          "n": "Dum Bo",
-          "clase": "mage"
         },
         {
           "n": "Señor Ollivander",
@@ -3903,12 +3952,12 @@
       "profesion": "Sastrería",
       "personajes": [
         {
-          "n": "Finn Felagund",
-          "clase": "priest"
-        },
-        {
           "n": "Dum Bo",
           "clase": "mage"
+        },
+        {
+          "n": "Finn Felagund",
+          "clase": "priest"
         }
       ]
     },
@@ -4078,6 +4127,10 @@
       "profesion": "Sastrería",
       "personajes": [
         {
+          "n": "Dum Bo",
+          "clase": "mage"
+        },
+        {
           "n": "Sr Byron",
           "clase": "warlock"
         },
@@ -4133,6 +4186,10 @@
       },
       "profesion": "Sastrería",
       "personajes": [
+        {
+          "n": "Dum Bo",
+          "clase": "mage"
+        },
         {
           "n": "Sr Byron",
           "clase": "warlock"
@@ -4419,16 +4476,16 @@
       "profesion": "Sastrería",
       "personajes": [
         {
+          "n": "Dum Bo",
+          "clase": "mage"
+        },
+        {
           "n": "Sr Byron",
           "clase": "warlock"
         },
         {
           "n": "Finn Felagund",
           "clase": "priest"
-        },
-        {
-          "n": "Dum Bo",
-          "clase": "mage"
         },
         {
           "n": "Elfa Vorable",
@@ -4488,12 +4545,12 @@
       "profesion": "Sastrería",
       "personajes": [
         {
-          "n": "Sr Byron",
-          "clase": "warlock"
-        },
-        {
           "n": "Dum Bo",
           "clase": "mage"
+        },
+        {
+          "n": "Sr Byron",
+          "clase": "warlock"
         },
         {
           "n": "Elfa Vorable",
@@ -4553,16 +4610,16 @@
       "profesion": "Sastrería",
       "personajes": [
         {
+          "n": "Dum Bo",
+          "clase": "mage"
+        },
+        {
           "n": "Sr Byron",
           "clase": "warlock"
         },
         {
           "n": "Finn Felagund",
           "clase": "priest"
-        },
-        {
-          "n": "Dum Bo",
-          "clase": "mage"
         },
         {
           "n": "Elfa Vorable",
@@ -4622,12 +4679,12 @@
       "profesion": "Sastrería",
       "personajes": [
         {
-          "n": "Sr Byron",
-          "clase": "warlock"
-        },
-        {
           "n": "Dum Bo",
           "clase": "mage"
+        },
+        {
+          "n": "Sr Byron",
+          "clase": "warlock"
         },
         {
           "n": "Elfa Vorable",
@@ -4687,16 +4744,16 @@
       "profesion": "Sastrería",
       "personajes": [
         {
+          "n": "Dum Bo",
+          "clase": "mage"
+        },
+        {
           "n": "Sr Byron",
           "clase": "warlock"
         },
         {
           "n": "Finn Felagund",
           "clase": "priest"
-        },
-        {
-          "n": "Dum Bo",
-          "clase": "mage"
         },
         {
           "n": "Elfa Vorable",
@@ -4757,16 +4814,16 @@
       "profesion": "Sastrería",
       "personajes": [
         {
+          "n": "Dum Bo",
+          "clase": "mage"
+        },
+        {
           "n": "Sr Byron",
           "clase": "warlock"
         },
         {
           "n": "Finn Felagund",
           "clase": "priest"
-        },
-        {
-          "n": "Dum Bo",
-          "clase": "mage"
         },
         {
           "n": "Elfa Vorable",
@@ -4826,12 +4883,12 @@
       "profesion": "Sastrería",
       "personajes": [
         {
-          "n": "Sr Byron",
-          "clase": "warlock"
-        },
-        {
           "n": "Dum Bo",
           "clase": "mage"
+        },
+        {
+          "n": "Sr Byron",
+          "clase": "warlock"
         },
         {
           "n": "Elfa Vorable",

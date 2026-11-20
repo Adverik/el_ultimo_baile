@@ -7,7 +7,7 @@
       "personaje": "Edoras Duskranger",
       "clase": "hunter",
       "raider": true,
-      "nivel": 288,
+      "nivel": 300,
       "max": 300,
       "pct": 67
     },
@@ -31,7 +31,7 @@
       "personaje": "Runa Ruina",
       "clase": "shaman",
       "raider": true,
-      "nivel": 247,
+      "nivel": 252,
       "max": 300,
       "pct": 33
     },
@@ -39,7 +39,7 @@
       "personaje": "Memas Tour",
       "clase": "shaman",
       "raider": false,
-      "nivel": 229,
+      "nivel": 234,
       "max": 300,
       "pct": 33
     },
@@ -56,7 +56,7 @@
       "clase": "rogue",
       "raider": false,
       "nivel": 225,
-      "max": 225,
+      "max": 300,
       "pct": 33
     },
     {
@@ -127,7 +127,7 @@
       "personaje": "Arthas Yevon",
       "clase": "paladin",
       "raider": false,
-      "nivel": 108,
+      "nivel": 112,
       "max": 150,
       "pct": 33
     },
