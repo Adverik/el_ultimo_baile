@@ -47,7 +47,7 @@
       "personaje": "Althez Sendagris",
       "clase": "paladin",
       "raider": false,
-      "nivel": 207,
+      "nivel": 216,
       "max": 225,
       "pct": 53
     },
@@ -55,7 +55,7 @@
       "personaje": "Llamas Xx",
       "clase": "warrior",
       "raider": false,
-      "nivel": 200,
+      "nivel": 202,
       "max": 300,
       "pct": 53
     },
@@ -71,13 +71,21 @@
       "personaje": "Flexita Shadowsoul",
       "clase": "hunter",
       "raider": false,
-      "nivel": 189,
+      "nivel": 192,
       "max": 225,
       "pct": 53
     },
     {
       "personaje": "Mosu Warryn",
       "clase": "warrior",
+      "raider": false,
+      "nivel": 151,
+      "max": 225,
+      "pct": 35
+    },
+    {
+      "personaje": "Jonaver Legends",
+      "clase": "mage",
       "raider": false,
       "nivel": 141,
       "max": 225,
@@ -96,14 +104,6 @@
       "clase": "paladin",
       "raider": false,
       "nivel": 133,
-      "max": 225,
-      "pct": 35
-    },
-    {
-      "personaje": "Jonaver Legends",
-      "clase": "mage",
-      "raider": false,
-      "nivel": 130,
       "max": 225,
       "pct": 35
     },
@@ -135,7 +135,7 @@
       "personaje": "Arthas Yevon",
       "clase": "paladin",
       "raider": false,
-      "nivel": 111,
+      "nivel": 112,
       "max": 150,
       "pct": 29
     },
@@ -159,7 +159,7 @@
       "personaje": "Tio Richard",
       "clase": "paladin",
       "raider": false,
-      "nivel": 74,
+      "nivel": 75,
       "max": 75,
       "pct": 12
     },
@@ -175,7 +175,7 @@
       "personaje": "Tanki Llo",
       "clase": "warlock",
       "raider": false,
-      "nivel": 47,
+      "nivel": 48,
       "max": 75,
       "pct": 6
     },

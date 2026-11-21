@@ -39,7 +39,7 @@
       "personaje": "Jonaver Legends",
       "clase": "mage",
       "raider": false,
-      "nivel": 187,
+      "nivel": 189,
       "max": 225,
       "pct": 33
     },
@@ -48,14 +48,6 @@
       "clase": "shaman",
       "raider": false,
       "nivel": 179,
-      "max": 225,
-      "pct": 33
-    },
-    {
-      "personaje": "Rasus Layer",
-      "clase": "rogue",
-      "raider": false,
-      "nivel": 174,
       "max": 225,
       "pct": 33
     },
@@ -167,7 +159,7 @@
       "personaje": "Sr Byron",
       "clase": "warlock",
       "raider": false,
-      "nivel": 94,
+      "nivel": 96,
       "max": 150,
       "pct": 33
     },
@@ -459,8 +451,7 @@
             29,
             30,
             31,
-            32,
-            33
+            32
           ]
         },
         {

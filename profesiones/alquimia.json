@@ -31,9 +31,9 @@
       "personaje": "Layrela Rondanit",
       "clase": "druid",
       "raider": true,
-      "nivel": 201,
-      "max": 225,
-      "pct": 19
+      "nivel": 205,
+      "max": 300,
+      "pct": 21
     },
     {
       "personaje": "Don Josechu",
@@ -2712,7 +2712,8 @@
           "quien": [
             0,
             1,
-            2
+            2,
+            3
           ]
         },
         {
@@ -3586,7 +3587,8 @@
           "quien": [
             0,
             1,
-            2
+            2,
+            3
           ]
         },
         {
@@ -3710,7 +3712,8 @@
           "quien": [
             0,
             1,
-            2
+            2,
+            3
           ]
         },
         {
@@ -5374,7 +5377,8 @@
           "quien": [
             0,
             1,
-            2
+            2,
+            3
           ]
         },
         {

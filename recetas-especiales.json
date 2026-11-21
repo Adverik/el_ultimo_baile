@@ -112,15 +112,15 @@
           "clase": "warrior"
         },
         {
+          "n": "Mosu Warryn",
+          "clase": "warrior"
+        },
+        {
           "n": "Tharindel Magnaluz",
           "clase": "paladin"
         },
         {
           "n": "Llamas Xx",
-          "clase": "warrior"
-        },
-        {
-          "n": "Mosu Warryn",
           "clase": "warrior"
         },
         {
@@ -1580,10 +1580,6 @@
         {
           "n": "Tankesito Khrih",
           "clase": "druid"
-        },
-        {
-          "n": "Rasus Layer",
-          "clase": "rogue"
         }
       ]
     },
@@ -1655,10 +1651,6 @@
         {
           "n": "Runa Ruina",
           "clase": "shaman"
-        },
-        {
-          "n": "Rasus Layer",
-          "clase": "rogue"
         },
         {
           "n": "Edoras Duskranger",
@@ -1736,10 +1728,6 @@
           "clase": "shaman"
         },
         {
-          "n": "Rasus Layer",
-          "clase": "rogue"
-        },
-        {
           "n": "Ildaren Belisar",
           "clase": "rogue"
         },
@@ -1750,62 +1738,6 @@
         {
           "n": "Breezy Reaver",
           "clase": "shaman"
-        }
-      ]
-    },
-    {
-      "id": 12559,
-      "n": "Brazales primitivos",
-      "q": "rare",
-      "ico": "132614",
-      "reac": [
-        [
-          "Cuero pesado",
-          8
-        ],
-        [
-          "Pellejo pesado curado",
-          2
-        ],
-        [
-          "Perla lustrosa pequeña",
-          4
-        ],
-        [
-          "Pellejo de raptor",
-          1
-        ],
-        [
-          "Colmillo grande",
-          4
-        ]
-      ],
-      "obj": {
-        "arm": "47 armadura",
-        "id": 18948,
-        "ilvl": 32,
-        "lig": "Se liga al equiparlo",
-        "n": "Brazales barbáricos",
-        "q": "rare",
-        "ranura": "Muñeca",
-        "req": 27,
-        "stats": [
-          "+4 agilidad",
-          "+4 fuerza",
-          "+6 aguante"
-        ],
-        "sub": "Cuero",
-        "venta": [
-          "0",
-          "15",
-          "89"
-        ]
-      },
-      "profesion": "Peletería",
-      "personajes": [
-        {
-          "n": "Rasus Layer",
-          "clase": "rogue"
         }
       ]
     },
@@ -1980,10 +1912,6 @@
           "clase": "rogue"
         },
         {
-          "n": "Rasus Layer",
-          "clase": "rogue"
-        },
-        {
           "n": "Edoras Duskranger",
           "clase": "hunter"
         }
@@ -2103,10 +2031,6 @@
         {
           "n": "Palmira Natblida",
           "clase": "rogue"
-        },
-        {
-          "n": "Rasus Layer",
-          "clase": "rogue"
         }
       ]
     },
@@ -2163,10 +2087,6 @@
         },
         {
           "n": "Palmira Natblida",
-          "clase": "rogue"
-        },
-        {
-          "n": "Rasus Layer",
           "clase": "rogue"
         }
       ]
@@ -2230,10 +2150,6 @@
         {
           "n": "Runa Ruina",
           "clase": "shaman"
-        },
-        {
-          "n": "Rasus Layer",
-          "clase": "rogue"
         }
       ]
     },
@@ -2295,10 +2211,6 @@
         {
           "n": "Palmira Natblida",
           "clase": "rogue"
-        },
-        {
-          "n": "Rasus Layer",
-          "clase": "rogue"
         }
       ]
     },
@@ -2359,10 +2271,6 @@
         },
         {
           "n": "Palmira Natblida",
-          "clase": "rogue"
-        },
-        {
-          "n": "Rasus Layer",
           "clase": "rogue"
         }
       ]
@@ -2431,10 +2339,6 @@
           "clase": "rogue"
         },
         {
-          "n": "Rasus Layer",
-          "clase": "rogue"
-        },
-        {
           "n": "Edoras Duskranger",
           "clase": "hunter"
         }
@@ -2488,10 +2392,6 @@
         },
         {
           "n": "Palmira Natblida",
-          "clase": "rogue"
-        },
-        {
-          "n": "Rasus Layer",
           "clase": "rogue"
         },
         {
@@ -2636,10 +2536,6 @@
         },
         {
           "n": "Palmira Natblida",
-          "clase": "rogue"
-        },
-        {
-          "n": "Rasus Layer",
           "clase": "rogue"
         },
         {
@@ -2801,6 +2697,53 @@
       ]
     },
     {
+      "id": 55154,
+      "n": "Yelmo de cuero de camorrista",
+      "q": "rare",
+      "ico": "136235",
+      "reac": [
+        [
+          "Cuero medio",
+          12
+        ],
+        [
+          "Pellejo medio curado",
+          2
+        ],
+        [
+          "Gema de las Sombras",
+          3
+        ]
+      ],
+      "obj": {
+        "arm": "84 armadura",
+        "id": 252512,
+        "ilvl": 30,
+        "lig": "Se liga al recogerlo",
+        "n": "Yelmo de cuero de camorrista",
+        "q": "rare",
+        "ranura": "Cabeza",
+        "req": 25,
+        "stats": [
+          "+10 agilidad",
+          "+13 aguante"
+        ],
+        "sub": "Cuero",
+        "venta": [
+          "0",
+          "20",
+          "56"
+        ]
+      },
+      "profesion": "Peletería",
+      "personajes": [
+        {
+          "n": "Ildaren Belisar",
+          "clase": "rogue"
+        }
+      ]
+    },
+    {
       "id": 55152,
       "n": "Yelmo de cuero de defensor",
       "q": "rare",
@@ -2844,10 +2787,6 @@
         {
           "n": "Tankesito Khrih",
           "clase": "druid"
-        },
-        {
-          "n": "Rasus Layer",
-          "clase": "rogue"
         }
       ]
     },
@@ -2950,10 +2889,6 @@
         {
           "n": "Memas Tour",
           "clase": "shaman"
-        },
-        {
-          "n": "Rasus Layer",
-          "clase": "rogue"
         }
       ]
     },
@@ -3014,10 +2949,6 @@
         {
           "n": "Runa Ruina",
           "clase": "shaman"
-        },
-        {
-          "n": "Rasus Layer",
-          "clase": "rogue"
         },
         {
           "n": "Ildaren Belisar",
@@ -3089,10 +3020,6 @@
         {
           "n": "Runa Ruina",
           "clase": "shaman"
-        },
-        {
-          "n": "Rasus Layer",
-          "clase": "rogue"
         },
         {
           "n": "Ildaren Belisar",
