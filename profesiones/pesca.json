@@ -31,7 +31,7 @@
       "personaje": "Espartaco Gladiador",
       "clase": "warrior",
       "raider": true,
-      "nivel": 204,
+      "nivel": 205,
       "max": 225,
       "pct": 33
     },
@@ -39,7 +39,7 @@
       "personaje": "Jonaver Legends",
       "clase": "mage",
       "raider": false,
-      "nivel": 186,
+      "nivel": 187,
       "max": 225,
       "pct": 33
     },
@@ -164,16 +164,16 @@
       "pct": 33
     },
     {
-      "personaje": "Arthas Yevon",
-      "clase": "paladin",
+      "personaje": "Sr Byron",
+      "clase": "warlock",
       "raider": false,
-      "nivel": 90,
+      "nivel": 94,
       "max": 150,
       "pct": 33
     },
     {
-      "personaje": "Sr Byron",
-      "clase": "warlock",
+      "personaje": "Arthas Yevon",
+      "clase": "paladin",
       "raider": false,
       "nivel": 90,
       "max": 150,

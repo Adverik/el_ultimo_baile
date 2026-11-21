@@ -9,7 +9,7 @@
       "raider": true,
       "nivel": 300,
       "max": 300,
-      "pct": 67
+      "pct": 100
     },
     {
       "personaje": "Manelhon Gargon",
@@ -31,7 +31,7 @@
       "personaje": "Runa Ruina",
       "clase": "shaman",
       "raider": true,
-      "nivel": 253,
+      "nivel": 257,
       "max": 300,
       "pct": 33
     },
@@ -55,7 +55,7 @@
       "personaje": "Ildaren Belisar",
       "clase": "rogue",
       "raider": false,
-      "nivel": 228,
+      "nivel": 229,
       "max": 300,
       "pct": 33
     },
@@ -63,7 +63,7 @@
       "personaje": "Aurelio Amador",
       "clase": "rogue",
       "raider": false,
-      "nivel": 225,
+      "nivel": 227,
       "max": 300,
       "pct": 33
     },
@@ -108,6 +108,14 @@
       "pct": 33
     },
     {
+      "personaje": "Arthas Yevon",
+      "clase": "paladin",
+      "raider": false,
+      "nivel": 142,
+      "max": 225,
+      "pct": 33
+    },
+    {
       "personaje": "Nindalf Pizpireta",
       "clase": "rogue",
       "raider": false,
@@ -120,14 +128,6 @@
       "clase": "hunter",
       "raider": false,
       "nivel": 138,
-      "max": 225,
-      "pct": 33
-    },
-    {
-      "personaje": "Arthas Yevon",
-      "clase": "paladin",
-      "raider": false,
-      "nivel": 131,
       "max": 225,
       "pct": 33
     },
@@ -264,7 +264,9 @@
             "q": "common",
             "sub": "Otros"
           },
-          "quien": []
+          "quien": [
+            0
+          ]
         }
       ]
     }

@@ -28,10 +28,18 @@
       "pct": 47
     },
     {
+      "personaje": "Edoras Duskranger",
+      "clase": "hunter",
+      "raider": true,
+      "nivel": 248,
+      "max": 300,
+      "pct": 47
+    },
+    {
       "personaje": "Flexita Shadowsoul",
       "clase": "hunter",
       "raider": false,
-      "nivel": 236,
+      "nivel": 240,
       "max": 300,
       "pct": 53
     },
@@ -71,7 +79,7 @@
       "personaje": "Espartaco Gladiador",
       "clase": "warrior",
       "raider": true,
-      "nivel": 221,
+      "nivel": 222,
       "max": 225,
       "pct": 25
     },
@@ -98,14 +106,6 @@
       "nivel": 193,
       "max": 225,
       "pct": 34
-    },
-    {
-      "personaje": "Edoras Duskranger",
-      "clase": "hunter",
-      "raider": true,
-      "nivel": 189,
-      "max": 225,
-      "pct": 41
     },
     {
       "personaje": "Ildaren Belisar",
@@ -276,6 +276,14 @@
       "pct": 16
     },
     {
+      "personaje": "Takkaao Valengri",
+      "clase": "warlock",
+      "raider": false,
+      "nivel": 57,
+      "max": 75,
+      "pct": 9
+    },
+    {
       "personaje": "Sr Byron",
       "clase": "warlock",
       "raider": false,
@@ -290,14 +298,6 @@
       "nivel": 50,
       "max": 150,
       "pct": 12
-    },
-    {
-      "personaje": "Takkaao Valengri",
-      "clase": "warlock",
-      "raider": false,
-      "nivel": 46,
-      "max": 75,
-      "pct": 9
     },
     {
       "personaje": "Archi Amnesia",
@@ -520,7 +520,7 @@
             31,
             32,
             33,
-            35,
+            36,
             37,
             39
           ]
@@ -715,7 +715,7 @@
             8,
             9,
             10,
-            12
+            11
           ]
         },
         {
@@ -755,7 +755,8 @@
             7,
             8,
             9,
-            10
+            10,
+            11
           ]
         },
         {
@@ -786,7 +787,8 @@
           },
           "quien": [
             0,
-            1
+            1,
+            3
           ]
         },
         {
@@ -951,7 +953,7 @@
             5,
             6,
             7,
-            9,
+            8,
             10,
             11,
             12,
@@ -997,7 +999,7 @@
             ]
           },
           "quien": [
-            6,
+            7,
             15
           ]
         },
@@ -1100,9 +1102,9 @@
             ]
           },
           "quien": [
-            3,
-            9,
-            10
+            4,
+            10,
+            11
           ]
         },
         {
@@ -1144,7 +1146,7 @@
             5,
             6,
             7,
-            9,
+            8,
             10,
             11,
             12,
@@ -1229,7 +1231,7 @@
             ]
           },
           "quien": [
-            3
+            4
           ]
         },
         {
@@ -1268,7 +1270,7 @@
             ]
           },
           "quien": [
-            3,
+            4,
             14
           ]
         },
@@ -1315,7 +1317,7 @@
             5,
             6,
             7,
-            9,
+            8,
             10,
             11,
             12,
@@ -1553,7 +1555,7 @@
             5,
             6,
             7,
-            9,
+            8,
             10,
             11,
             12,
@@ -1632,7 +1634,7 @@
             5,
             6,
             7,
-            9,
+            8,
             10,
             11,
             12,
@@ -1701,9 +1703,9 @@
             5,
             6,
             7,
-            9,
+            8,
             10,
-            12,
+            11,
             13,
             14,
             15,
@@ -1753,7 +1755,7 @@
           },
           "quien": [
             0,
-            7
+            8
           ]
         },
         {

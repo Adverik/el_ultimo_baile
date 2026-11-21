@@ -3596,6 +3596,10 @@
         {
           "n": "Sr Byron",
           "clase": "warlock"
+        },
+        {
+          "n": "Kadeharz Apsus",
+          "clase": "mage"
         }
       ]
     },
@@ -3841,12 +3845,12 @@
           "clase": "warlock"
         },
         {
-          "n": "Micro Bolas",
-          "clase": "warlock"
-        },
-        {
           "n": "Kadeharz Apsus",
           "clase": "mage"
+        },
+        {
+          "n": "Micro Bolas",
+          "clase": "warlock"
         },
         {
           "n": "Archi Amnesia",

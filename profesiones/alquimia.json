@@ -63,9 +63,9 @@
       "personaje": "Takkaao Valengri",
       "clase": "warlock",
       "raider": false,
-      "nivel": 42,
+      "nivel": 52,
       "max": 75,
-      "pct": 5
+      "pct": 6
     }
   ],
   "categorias": [
@@ -160,7 +160,8 @@
             3,
             4,
             5,
-            6
+            6,
+            7
           ]
         },
         {

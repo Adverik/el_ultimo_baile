@@ -17,7 +17,7 @@
       "raider": false,
       "nivel": 202,
       "max": 225,
-      "pct": 19
+      "pct": 20
     },
     {
       "personaje": "Chaca Choochoo",
@@ -2275,7 +2275,8 @@
             ]
           },
           "quien": [
-            0
+            0,
+            1
           ]
         },
         {

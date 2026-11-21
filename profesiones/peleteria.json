@@ -7,7 +7,7 @@
       "personaje": "Aurelio Amador",
       "clase": "rogue",
       "raider": false,
-      "nivel": 225,
+      "nivel": 234,
       "max": 300,
       "pct": 7
     },
@@ -4490,7 +4490,9 @@
               "0"
             ]
           },
-          "quien": []
+          "quien": [
+            0
+          ]
         },
         {
           "id": 12298,
@@ -10900,7 +10902,9 @@
               "0"
             ]
           },
-          "quien": []
+          "quien": [
+            0
+          ]
         },
         {
           "id": 11756,
@@ -11026,7 +11030,9 @@
               "0"
             ]
           },
-          "quien": []
+          "quien": [
+            0
+          ]
         }
       ]
     },

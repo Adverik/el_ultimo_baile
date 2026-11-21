@@ -64,8 +64,8 @@
       "clase": "hunter",
       "raider": false,
       "nivel": 225,
-      "max": 225,
-      "pct": 22
+      "max": 300,
+      "pct": 24
     },
     {
       "personaje": "Mosu Warryn",
@@ -168,8 +168,8 @@
       "clase": "mage",
       "raider": false,
       "nivel": 150,
-      "max": 150,
-      "pct": 17
+      "max": 225,
+      "pct": 19
     },
     {
       "personaje": "Memas Tour",
@@ -231,9 +231,9 @@
       "personaje": "Arthas Yevon",
       "clase": "paladin",
       "raider": false,
-      "nivel": 98,
+      "nivel": 107,
       "max": 150,
-      "pct": 11
+      "pct": 13
     },
     {
       "personaje": "Breezy Reaver",
@@ -324,6 +324,14 @@
       "pct": 5
     },
     {
+      "personaje": "Aynita Again",
+      "clase": "hunter",
+      "raider": false,
+      "nivel": 34,
+      "max": 75,
+      "pct": 4
+    },
+    {
       "personaje": "Filps Pachamamamon",
       "clase": "hunter",
       "raider": false,
@@ -356,10 +364,10 @@
       "pct": 5
     },
     {
-      "personaje": "Aynita Again",
-      "clase": "hunter",
+      "personaje": "Takkaao Valengri",
+      "clase": "warlock",
       "raider": false,
-      "nivel": 19,
+      "nivel": 21,
       "max": 75,
       "pct": 4
     },
@@ -370,14 +378,6 @@
       "nivel": 19,
       "max": 75,
       "pct": 3
-    },
-    {
-      "personaje": "Takkaao Valengri",
-      "clase": "warlock",
-      "raider": false,
-      "nivel": 19,
-      "max": 75,
-      "pct": 4
     },
     {
       "personaje": "Farhan Ironbeard",
@@ -1071,7 +1071,8 @@
             0,
             1,
             2,
-            5
+            5,
+            7
           ]
         },
         {
@@ -1248,7 +1249,7 @@
             42,
             43,
             44,
-            46
+            45
           ]
         },
         {
@@ -1708,7 +1709,8 @@
             2,
             3,
             4,
-            6
+            6,
+            7
           ]
         },
         {
@@ -2105,7 +2107,7 @@
             31,
             35,
             36,
-            41
+            42
           ]
         },
         {
@@ -2197,7 +2199,8 @@
             5,
             8,
             9,
-            15
+            15,
+            20
           ]
         },
         {
@@ -2237,7 +2240,8 @@
             5,
             8,
             9,
-            15
+            15,
+            20
           ]
         },
         {
@@ -3004,7 +3008,8 @@
             19,
             20,
             22,
-            27
+            27,
+            28
           ]
         },
         {
@@ -3480,7 +3485,7 @@
             33,
             37,
             38,
-            42
+            43
           ]
         }
       ]
@@ -3540,6 +3545,7 @@
             22,
             26,
             27,
+            28,
             29,
             30
           ]
@@ -3850,6 +3856,7 @@
           },
           "quien": [
             4,
+            7,
             11
           ]
         },
@@ -3994,6 +4001,7 @@
             12,
             14,
             26,
+            28,
             29,
             30,
             33
@@ -4331,8 +4339,8 @@
             29,
             34,
             35,
-            41,
-            43
+            42,
+            44
           ]
         },
         {

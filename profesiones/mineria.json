@@ -47,31 +47,31 @@
       "personaje": "Althez Sendagris",
       "clase": "paladin",
       "raider": false,
-      "nivel": 206,
+      "nivel": 207,
       "max": 225,
+      "pct": 53
+    },
+    {
+      "personaje": "Llamas Xx",
+      "clase": "warrior",
+      "raider": false,
+      "nivel": 200,
+      "max": 300,
       "pct": 53
     },
     {
       "personaje": "Espartaco Gladiador",
       "clase": "warrior",
       "raider": true,
-      "nivel": 193,
+      "nivel": 196,
       "max": 225,
       "pct": 59
-    },
-    {
-      "personaje": "Llamas Xx",
-      "clase": "warrior",
-      "raider": false,
-      "nivel": 193,
-      "max": 225,
-      "pct": 53
     },
     {
       "personaje": "Flexita Shadowsoul",
       "clase": "hunter",
       "raider": false,
-      "nivel": 185,
+      "nivel": 189,
       "max": 225,
       "pct": 53
     },
@@ -100,6 +100,14 @@
       "pct": 35
     },
     {
+      "personaje": "Jonaver Legends",
+      "clase": "mage",
+      "raider": false,
+      "nivel": 130,
+      "max": 225,
+      "pct": 35
+    },
+    {
       "personaje": "Tommy Durum",
       "clase": "druid",
       "raider": false,
@@ -108,20 +116,12 @@
       "pct": 12
     },
     {
-      "personaje": "Jonaver Legends",
-      "clase": "mage",
-      "raider": false,
-      "nivel": 125,
-      "max": 225,
-      "pct": 35
-    },
-    {
       "personaje": "Armando Buya",
       "clase": "paladin",
       "raider": false,
-      "nivel": 124,
-      "max": 150,
-      "pct": 29
+      "nivel": 129,
+      "max": 225,
+      "pct": 35
     },
     {
       "personaje": "Hugo Forjaluz",
@@ -135,7 +135,7 @@
       "personaje": "Arthas Yevon",
       "clase": "paladin",
       "raider": false,
-      "nivel": 110,
+      "nivel": 111,
       "max": 150,
       "pct": 29
     },
@@ -175,7 +175,7 @@
       "personaje": "Tanki Llo",
       "clase": "warlock",
       "raider": false,
-      "nivel": 46,
+      "nivel": 47,
       "max": 75,
       "pct": 6
     },
@@ -229,7 +229,7 @@
             9,
             10,
             11,
-            13,
+            12,
             14,
             15,
             16,
@@ -279,7 +279,7 @@
             9,
             10,
             11,
-            13,
+            12,
             14,
             15,
             16,
@@ -358,7 +358,8 @@
             9,
             10,
             11,
-            13
+            12,
+            14
           ]
         },
         {
@@ -398,7 +399,7 @@
             9,
             10,
             11,
-            13,
+            12,
             14,
             15,
             16,
@@ -787,7 +788,7 @@
             "sub": "Otros"
           },
           "quien": [
-            6
+            7
           ]
         },
         {
