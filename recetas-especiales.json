@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-20",
+  "actualizado": "2026-11-21",
   "recetas": [
     {
       "id": 54403,
@@ -112,12 +112,12 @@
           "clase": "warrior"
         },
         {
-          "n": "Llamas Xx",
-          "clase": "warrior"
-        },
-        {
           "n": "Tharindel Magnaluz",
           "clase": "paladin"
+        },
+        {
+          "n": "Llamas Xx",
+          "clase": "warrior"
         },
         {
           "n": "Mosu Warryn",
@@ -191,12 +191,12 @@
           "clase": "warrior"
         },
         {
-          "n": "Llamas Xx",
-          "clase": "warrior"
-        },
-        {
           "n": "Tharindel Magnaluz",
           "clase": "paladin"
+        },
+        {
+          "n": "Llamas Xx",
+          "clase": "warrior"
         },
         {
           "n": "Hugo Forjaluz",
@@ -267,12 +267,12 @@
           "clase": "warrior"
         },
         {
-          "n": "Llamas Xx",
-          "clase": "warrior"
-        },
-        {
           "n": "Tharindel Magnaluz",
           "clase": "paladin"
+        },
+        {
+          "n": "Llamas Xx",
+          "clase": "warrior"
         },
         {
           "n": "Hugo Forjaluz",
@@ -1061,12 +1061,12 @@
           "clase": "warrior"
         },
         {
-          "n": "Llamas Xx",
-          "clase": "warrior"
-        },
-        {
           "n": "Tharindel Magnaluz",
           "clase": "paladin"
+        },
+        {
+          "n": "Llamas Xx",
+          "clase": "warrior"
         }
       ]
     },
@@ -1580,6 +1580,10 @@
         {
           "n": "Tankesito Khrih",
           "clase": "druid"
+        },
+        {
+          "n": "Rasus Layer",
+          "clase": "rogue"
         }
       ]
     },
@@ -1651,6 +1655,10 @@
         {
           "n": "Runa Ruina",
           "clase": "shaman"
+        },
+        {
+          "n": "Rasus Layer",
+          "clase": "rogue"
         },
         {
           "n": "Edoras Duskranger",
@@ -1728,6 +1736,10 @@
           "clase": "shaman"
         },
         {
+          "n": "Rasus Layer",
+          "clase": "rogue"
+        },
+        {
           "n": "Ildaren Belisar",
           "clase": "rogue"
         },
@@ -1738,6 +1750,62 @@
         {
           "n": "Breezy Reaver",
           "clase": "shaman"
+        }
+      ]
+    },
+    {
+      "id": 12559,
+      "n": "Brazales primitivos",
+      "q": "rare",
+      "ico": "132614",
+      "reac": [
+        [
+          "Cuero pesado",
+          8
+        ],
+        [
+          "Pellejo pesado curado",
+          2
+        ],
+        [
+          "Perla lustrosa pequeña",
+          4
+        ],
+        [
+          "Pellejo de raptor",
+          1
+        ],
+        [
+          "Colmillo grande",
+          4
+        ]
+      ],
+      "obj": {
+        "arm": "47 armadura",
+        "id": 18948,
+        "ilvl": 32,
+        "lig": "Se liga al equiparlo",
+        "n": "Brazales barbáricos",
+        "q": "rare",
+        "ranura": "Muñeca",
+        "req": 27,
+        "stats": [
+          "+4 agilidad",
+          "+4 fuerza",
+          "+6 aguante"
+        ],
+        "sub": "Cuero",
+        "venta": [
+          "0",
+          "15",
+          "89"
+        ]
+      },
+      "profesion": "Peletería",
+      "personajes": [
+        {
+          "n": "Rasus Layer",
+          "clase": "rogue"
         }
       ]
     },
@@ -1912,6 +1980,10 @@
           "clase": "rogue"
         },
         {
+          "n": "Rasus Layer",
+          "clase": "rogue"
+        },
+        {
           "n": "Edoras Duskranger",
           "clase": "hunter"
         }
@@ -2031,6 +2103,10 @@
         {
           "n": "Palmira Natblida",
           "clase": "rogue"
+        },
+        {
+          "n": "Rasus Layer",
+          "clase": "rogue"
         }
       ]
     },
@@ -2087,6 +2163,10 @@
         },
         {
           "n": "Palmira Natblida",
+          "clase": "rogue"
+        },
+        {
+          "n": "Rasus Layer",
           "clase": "rogue"
         }
       ]
@@ -2150,6 +2230,10 @@
         {
           "n": "Runa Ruina",
           "clase": "shaman"
+        },
+        {
+          "n": "Rasus Layer",
+          "clase": "rogue"
         }
       ]
     },
@@ -2211,6 +2295,10 @@
         {
           "n": "Palmira Natblida",
           "clase": "rogue"
+        },
+        {
+          "n": "Rasus Layer",
+          "clase": "rogue"
         }
       ]
     },
@@ -2271,6 +2359,10 @@
         },
         {
           "n": "Palmira Natblida",
+          "clase": "rogue"
+        },
+        {
+          "n": "Rasus Layer",
           "clase": "rogue"
         }
       ]
@@ -2339,6 +2431,10 @@
           "clase": "rogue"
         },
         {
+          "n": "Rasus Layer",
+          "clase": "rogue"
+        },
+        {
           "n": "Edoras Duskranger",
           "clase": "hunter"
         }
@@ -2392,6 +2488,10 @@
         },
         {
           "n": "Palmira Natblida",
+          "clase": "rogue"
+        },
+        {
+          "n": "Rasus Layer",
           "clase": "rogue"
         },
         {
@@ -2536,6 +2636,10 @@
         },
         {
           "n": "Palmira Natblida",
+          "clase": "rogue"
+        },
+        {
+          "n": "Rasus Layer",
           "clase": "rogue"
         },
         {
@@ -2740,6 +2844,10 @@
         {
           "n": "Tankesito Khrih",
           "clase": "druid"
+        },
+        {
+          "n": "Rasus Layer",
+          "clase": "rogue"
         }
       ]
     },
@@ -2842,6 +2950,10 @@
         {
           "n": "Memas Tour",
           "clase": "shaman"
+        },
+        {
+          "n": "Rasus Layer",
+          "clase": "rogue"
         }
       ]
     },
@@ -2902,6 +3014,10 @@
         {
           "n": "Runa Ruina",
           "clase": "shaman"
+        },
+        {
+          "n": "Rasus Layer",
+          "clase": "rogue"
         },
         {
           "n": "Ildaren Belisar",
@@ -2973,6 +3089,10 @@
         {
           "n": "Runa Ruina",
           "clase": "shaman"
+        },
+        {
+          "n": "Rasus Layer",
+          "clase": "rogue"
         },
         {
           "n": "Ildaren Belisar",
@@ -3119,12 +3239,12 @@
           "clase": "druid"
         },
         {
-          "n": "Rhyomen Sukuna",
-          "clase": "warlock"
-        },
-        {
           "n": "Nimassus Pater",
           "clase": "priest"
+        },
+        {
+          "n": "Rhyomen Sukuna",
+          "clase": "warlock"
         },
         {
           "n": "Micro Bolas",
@@ -3814,12 +3934,12 @@
           "clase": "druid"
         },
         {
-          "n": "Rhyomen Sukuna",
-          "clase": "warlock"
-        },
-        {
           "n": "Nimassus Pater",
           "clase": "priest"
+        },
+        {
+          "n": "Rhyomen Sukuna",
+          "clase": "warlock"
         },
         {
           "n": "Kadeharz Apsus",

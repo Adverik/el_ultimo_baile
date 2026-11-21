@@ -15,7 +15,15 @@
       "personaje": "Manelhon Gargon",
       "clase": "shaman",
       "raider": true,
-      "nivel": 261,
+      "nivel": 269,
+      "max": 300,
+      "pct": 67
+    },
+    {
+      "personaje": "Rasus Layer",
+      "clase": "rogue",
+      "raider": false,
+      "nivel": 254,
       "max": 300,
       "pct": 33
     },
@@ -76,18 +84,18 @@
       "pct": 33
     },
     {
-      "personaje": "Breezy Reaver",
-      "clase": "shaman",
+      "personaje": "Reaper Dead",
+      "clase": "paladin",
       "raider": false,
-      "nivel": 192,
+      "nivel": 207,
       "max": 225,
       "pct": 33
     },
     {
-      "personaje": "Reaper Dead",
-      "clase": "paladin",
+      "personaje": "Breezy Reaver",
+      "clase": "shaman",
       "raider": false,
-      "nivel": 188,
+      "nivel": 194,
       "max": 225,
       "pct": 33
     },
@@ -187,7 +195,8 @@
             13,
             14,
             15,
-            16
+            16,
+            17
           ]
         },
         {
@@ -221,7 +230,8 @@
             "sub": "Otros"
           },
           "quien": [
-            0
+            0,
+            1
           ]
         },
         {

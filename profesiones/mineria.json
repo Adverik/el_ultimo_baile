@@ -31,7 +31,7 @@
       "personaje": "Khyoraku Shunsui",
       "clase": "warrior",
       "raider": true,
-      "nivel": 225,
+      "nivel": 226,
       "max": 300,
       "pct": 53
     },
@@ -55,7 +55,7 @@
       "personaje": "Espartaco Gladiador",
       "clase": "warrior",
       "raider": true,
-      "nivel": 192,
+      "nivel": 193,
       "max": 225,
       "pct": 59
     },
@@ -63,7 +63,7 @@
       "personaje": "Llamas Xx",
       "clase": "warrior",
       "raider": false,
-      "nivel": 187,
+      "nivel": 193,
       "max": 225,
       "pct": 53
     },
@@ -87,7 +87,7 @@
       "personaje": "Españoleitor Españoleitor",
       "clase": "warrior",
       "raider": false,
-      "nivel": 136,
+      "nivel": 138,
       "max": 225,
       "pct": 35
     },
@@ -96,6 +96,14 @@
       "clase": "paladin",
       "raider": false,
       "nivel": 133,
+      "max": 225,
+      "pct": 35
+    },
+    {
+      "personaje": "Jonaver Legends",
+      "clase": "mage",
+      "raider": false,
+      "nivel": 125,
       "max": 225,
       "pct": 35
     },
@@ -111,21 +119,13 @@
       "personaje": "Tommy Durum",
       "clase": "druid",
       "raider": false,
-      "nivel": 120,
+      "nivel": 124,
       "max": 150,
       "pct": 12
     },
     {
       "personaje": "Hugo Forjaluz",
       "clase": "paladin",
-      "raider": false,
-      "nivel": 119,
-      "max": 150,
-      "pct": 29
-    },
-    {
-      "personaje": "Jonaver Legends",
-      "clase": "mage",
       "raider": false,
       "nivel": 119,
       "max": 150,
@@ -230,7 +230,7 @@
             10,
             11,
             12,
-            14,
+            13,
             15,
             16,
             17,
@@ -280,7 +280,7 @@
             10,
             11,
             12,
-            14,
+            13,
             15,
             16,
             17,
@@ -357,7 +357,8 @@
             8,
             9,
             10,
-            11
+            11,
+            12
           ]
         },
         {
@@ -398,7 +399,7 @@
             10,
             11,
             12,
-            14,
+            13,
             15,
             16,
             17,

@@ -55,7 +55,7 @@
       "personaje": "Nimassus Pater",
       "clase": "priest",
       "raider": true,
-      "nivel": 114,
+      "nivel": 119,
       "max": 150,
       "pct": 8
     },
@@ -6004,7 +6004,9 @@
             "q": "common",
             "sub": "Otros"
           },
-          "quien": []
+          "quien": [
+            2
+          ]
         },
         {
           "id": 57034,
