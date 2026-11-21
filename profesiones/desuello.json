@@ -23,7 +23,15 @@
       "personaje": "Rasus Layer",
       "clase": "rogue",
       "raider": false,
-      "nivel": 254,
+      "nivel": 262,
+      "max": 300,
+      "pct": 33
+    },
+    {
+      "personaje": "Runa Ruina",
+      "clase": "shaman",
+      "raider": true,
+      "nivel": 253,
       "max": 300,
       "pct": 33
     },
@@ -32,14 +40,6 @@
       "clase": "druid",
       "raider": false,
       "nivel": 253,
-      "max": 300,
-      "pct": 33
-    },
-    {
-      "personaje": "Runa Ruina",
-      "clase": "shaman",
-      "raider": true,
-      "nivel": 252,
       "max": 300,
       "pct": 33
     },
@@ -55,7 +55,7 @@
       "personaje": "Ildaren Belisar",
       "clase": "rogue",
       "raider": false,
-      "nivel": 226,
+      "nivel": 228,
       "max": 300,
       "pct": 33
     },
@@ -87,7 +87,7 @@
       "personaje": "Reaper Dead",
       "clase": "paladin",
       "raider": false,
-      "nivel": 207,
+      "nivel": 225,
       "max": 225,
       "pct": 33
     },
@@ -124,18 +124,18 @@
       "pct": 33
     },
     {
+      "personaje": "Arthas Yevon",
+      "clase": "paladin",
+      "raider": false,
+      "nivel": 131,
+      "max": 225,
+      "pct": 33
+    },
+    {
       "personaje": "Fitipaldi Sendaumbria",
       "clase": "rogue",
       "raider": true,
       "nivel": 121,
-      "max": 150,
-      "pct": 33
-    },
-    {
-      "personaje": "Arthas Yevon",
-      "clase": "paladin",
-      "raider": false,
-      "nivel": 112,
       "max": 150,
       "pct": 33
     },

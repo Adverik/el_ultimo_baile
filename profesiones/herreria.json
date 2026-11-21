@@ -7,9 +7,9 @@
       "personaje": "Coloso Tempestad",
       "clase": "warrior",
       "raider": false,
-      "nivel": 211,
+      "nivel": 235,
       "max": 300,
-      "pct": 19
+      "pct": 20
     },
     {
       "personaje": "Althez Sendagris",
@@ -429,7 +429,9 @@
               "75"
             ]
           },
-          "quien": []
+          "quien": [
+            0
+          ]
         },
         {
           "id": 9157,
@@ -458,7 +460,9 @@
               "75"
             ]
           },
-          "quien": []
+          "quien": [
+            0
+          ]
         },
         {
           "id": 12302,
@@ -5609,7 +5613,9 @@
               "71"
             ]
           },
-          "quien": []
+          "quien": [
+            0
+          ]
         },
         {
           "id": 5348,
@@ -8847,7 +8853,9 @@
               "0"
             ]
           },
-          "quien": []
+          "quien": [
+            0
+          ]
         }
       ]
     },
@@ -12035,7 +12043,9 @@
               "50"
             ]
           },
-          "quien": []
+          "quien": [
+            0
+          ]
         },
         {
           "id": 9168,
@@ -13664,7 +13674,9 @@
               "28"
             ]
           },
-          "quien": []
+          "quien": [
+            0
+          ]
         },
         {
           "id": 54763,

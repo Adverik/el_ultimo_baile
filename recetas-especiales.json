@@ -3163,12 +3163,12 @@
       "profesion": "Sastrería",
       "personajes": [
         {
-          "n": "Sr Byron",
-          "clase": "warlock"
-        },
-        {
           "n": "Finn Felagund",
           "clase": "priest"
+        },
+        {
+          "n": "Sr Byron",
+          "clase": "warlock"
         }
       ]
     },
@@ -3219,16 +3219,16 @@
       "profesion": "Sastrería",
       "personajes": [
         {
+          "n": "Finn Felagund",
+          "clase": "priest"
+        },
+        {
           "n": "Dum Bo",
           "clase": "mage"
         },
         {
           "n": "Sr Byron",
           "clase": "warlock"
-        },
-        {
-          "n": "Finn Felagund",
-          "clase": "priest"
         },
         {
           "n": "Señor Ollivander",
@@ -3312,12 +3312,12 @@
       "profesion": "Sastrería",
       "personajes": [
         {
-          "n": "Sr Byron",
-          "clase": "warlock"
-        },
-        {
           "n": "Finn Felagund",
           "clase": "priest"
+        },
+        {
+          "n": "Sr Byron",
+          "clase": "warlock"
         }
       ]
     },
@@ -3817,16 +3817,16 @@
       "profesion": "Sastrería",
       "personajes": [
         {
+          "n": "Finn Felagund",
+          "clase": "priest"
+        },
+        {
           "n": "Dum Bo",
           "clase": "mage"
         },
         {
           "n": "Sr Byron",
           "clase": "warlock"
-        },
-        {
-          "n": "Finn Felagund",
-          "clase": "priest"
         },
         {
           "n": "Señor Ollivander",
@@ -3914,16 +3914,16 @@
       "profesion": "Sastrería",
       "personajes": [
         {
+          "n": "Finn Felagund",
+          "clase": "priest"
+        },
+        {
           "n": "Dum Bo",
           "clase": "mage"
         },
         {
           "n": "Sr Byron",
           "clase": "warlock"
-        },
-        {
-          "n": "Finn Felagund",
-          "clase": "priest"
         },
         {
           "n": "Señor Ollivander",
@@ -4072,12 +4072,12 @@
       "profesion": "Sastrería",
       "personajes": [
         {
-          "n": "Dum Bo",
-          "clase": "mage"
-        },
-        {
           "n": "Finn Felagund",
           "clase": "priest"
+        },
+        {
+          "n": "Dum Bo",
+          "clase": "mage"
         }
       ]
     },
@@ -4247,16 +4247,16 @@
       "profesion": "Sastrería",
       "personajes": [
         {
+          "n": "Finn Felagund",
+          "clase": "priest"
+        },
+        {
           "n": "Dum Bo",
           "clase": "mage"
         },
         {
           "n": "Sr Byron",
           "clase": "warlock"
-        },
-        {
-          "n": "Finn Felagund",
-          "clase": "priest"
         }
       ]
     },
@@ -4307,16 +4307,16 @@
       "profesion": "Sastrería",
       "personajes": [
         {
+          "n": "Finn Felagund",
+          "clase": "priest"
+        },
+        {
           "n": "Dum Bo",
           "clase": "mage"
         },
         {
           "n": "Sr Byron",
           "clase": "warlock"
-        },
-        {
-          "n": "Finn Felagund",
-          "clase": "priest"
         }
       ]
     },
@@ -4596,16 +4596,16 @@
       "profesion": "Sastrería",
       "personajes": [
         {
+          "n": "Finn Felagund",
+          "clase": "priest"
+        },
+        {
           "n": "Dum Bo",
           "clase": "mage"
         },
         {
           "n": "Sr Byron",
           "clase": "warlock"
-        },
-        {
-          "n": "Finn Felagund",
-          "clase": "priest"
         },
         {
           "n": "Elfa Vorable",
@@ -4730,16 +4730,16 @@
       "profesion": "Sastrería",
       "personajes": [
         {
+          "n": "Finn Felagund",
+          "clase": "priest"
+        },
+        {
           "n": "Dum Bo",
           "clase": "mage"
         },
         {
           "n": "Sr Byron",
           "clase": "warlock"
-        },
-        {
-          "n": "Finn Felagund",
-          "clase": "priest"
         },
         {
           "n": "Elfa Vorable",
@@ -4864,16 +4864,16 @@
       "profesion": "Sastrería",
       "personajes": [
         {
+          "n": "Finn Felagund",
+          "clase": "priest"
+        },
+        {
           "n": "Dum Bo",
           "clase": "mage"
         },
         {
           "n": "Sr Byron",
           "clase": "warlock"
-        },
-        {
-          "n": "Finn Felagund",
-          "clase": "priest"
         },
         {
           "n": "Elfa Vorable",
@@ -4934,16 +4934,16 @@
       "profesion": "Sastrería",
       "personajes": [
         {
+          "n": "Finn Felagund",
+          "clase": "priest"
+        },
+        {
           "n": "Dum Bo",
           "clase": "mage"
         },
         {
           "n": "Sr Byron",
           "clase": "warlock"
-        },
-        {
-          "n": "Finn Felagund",
-          "clase": "priest"
         },
         {
           "n": "Elfa Vorable",

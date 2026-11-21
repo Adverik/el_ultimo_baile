@@ -89,8 +89,8 @@
       "profesiones": [
         {
           "nombre": "Desuello",
-          "nivel": 112,
-          "max": 150
+          "nivel": 131,
+          "max": 225
         },
         {
           "nombre": "Minería",
@@ -99,7 +99,7 @@
         },
         {
           "nombre": "Cocina",
-          "nivel": 84,
+          "nivel": 98,
           "max": 150
         },
         {
@@ -109,7 +109,7 @@
         },
         {
           "nombre": "Primeros auxilios",
-          "nivel": 82,
+          "nivel": 130,
           "max": 150
         }
       ]
@@ -293,7 +293,7 @@
         },
         {
           "nombre": "Herrería",
-          "nivel": 211,
+          "nivel": 235,
           "max": 300
         },
         {
@@ -308,7 +308,7 @@
         },
         {
           "nombre": "Primeros auxilios",
-          "nivel": 252,
+          "nivel": 300,
           "max": 300
         }
       ]
@@ -384,12 +384,12 @@
       "profesiones": [
         {
           "nombre": "Alquimia",
-          "nivel": 281,
+          "nivel": 293,
           "max": 300
         },
         {
           "nombre": "Herboristería",
-          "nivel": 291,
+          "nivel": 293,
           "max": 300
         },
         {
@@ -458,8 +458,8 @@
         },
         {
           "nombre": "Primeros auxilios",
-          "nivel": 150,
-          "max": 150
+          "nivel": 256,
+          "max": 300
         }
       ]
     },
@@ -669,7 +669,7 @@
       "profesiones": [
         {
           "nombre": "Sastrería",
-          "nivel": 215,
+          "nivel": 231,
           "max": 300
         },
         {
@@ -684,7 +684,7 @@
         },
         {
           "nombre": "Pesca",
-          "nivel": 194,
+          "nivel": 209,
           "max": 225
         }
       ]
@@ -755,12 +755,12 @@
       "profesiones": [
         {
           "nombre": "Alquimia",
-          "nivel": 242,
+          "nivel": 250,
           "max": 300
         },
         {
           "nombre": "Herboristería",
-          "nivel": 255,
+          "nivel": 258,
           "max": 300
         },
         {
@@ -878,17 +878,17 @@
         },
         {
           "nombre": "Desuello",
-          "nivel": 226,
+          "nivel": 228,
           "max": 300
         },
         {
           "nombre": "Cocina",
-          "nivel": 117,
+          "nivel": 126,
           "max": 150
         },
         {
           "nombre": "Pesca",
-          "nivel": 3,
+          "nivel": 7,
           "max": 75
         },
         {
@@ -1333,7 +1333,7 @@
         },
         {
           "nombre": "Desuello",
-          "nivel": 254,
+          "nivel": 262,
           "max": 300
         },
         {
@@ -1343,7 +1343,7 @@
         },
         {
           "nombre": "Pesca",
-          "nivel": 170,
+          "nivel": 174,
           "max": 225
         },
         {
@@ -1360,7 +1360,7 @@
       "profesiones": [
         {
           "nombre": "Desuello",
-          "nivel": 207,
+          "nivel": 225,
           "max": 225
         },
         {
@@ -1414,7 +1414,7 @@
         },
         {
           "nombre": "Desuello",
-          "nivel": 252,
+          "nivel": 253,
           "max": 300
         },
         {
@@ -1547,7 +1547,7 @@
         },
         {
           "nombre": "Pesca",
-          "nivel": 75,
+          "nivel": 90,
           "max": 150
         },
         {
@@ -1805,12 +1805,12 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 124,
+          "nivel": 130,
           "max": 150
         },
         {
           "nombre": "Herboristería",
-          "nivel": 251,
+          "nivel": 253,
           "max": 300
         },
         {
@@ -1914,6 +1914,7 @@
       "profesion": "Alquimia",
       "calidad": "common",
       "personajes": [
+        "Fran Furion",
         "Sugar Papy"
       ]
     },
@@ -2194,6 +2195,7 @@
       "calidad": "common",
       "personajes": [
         "Dio Hotmetal",
+        "Fran Furion",
         "Sugar Papy"
       ]
     },
@@ -2495,6 +2497,7 @@
       "calidad": "common",
       "personajes": [
         "Dio Hotmetal",
+        "Fran Furion",
         "Sugar Papy"
       ]
     },
@@ -2529,6 +2532,7 @@
       "profesion": "Alquimia",
       "calidad": "common",
       "personajes": [
+        "Fran Furion",
         "Sugar Papy"
       ]
     },
@@ -2591,6 +2595,7 @@
       "calidad": "uncommon",
       "personajes": [
         "Dio Hotmetal",
+        "Fran Furion",
         "Sugar Papy"
       ]
     },
@@ -2600,6 +2605,7 @@
       "calidad": "uncommon",
       "personajes": [
         "Dio Hotmetal",
+        "Fran Furion",
         "Sugar Papy"
       ]
     },
@@ -3010,6 +3016,7 @@
         "Althez Sendagris",
         "Chaca Choochoo",
         "Coloso Tempestad",
+        "Dio Hotmetal",
         "Dum Bo",
         "Finn Felagund",
         "Flexita Shadowsoul",
@@ -4256,6 +4263,7 @@
       "profesion": "Desuello",
       "calidad": "common",
       "personajes": [
+        "Arthas Yevon",
         "Breezy Reaver",
         "Diana Flechaveloz",
         "Palmira Natblida",
@@ -4284,7 +4292,6 @@
       "profesion": "Desuello",
       "calidad": "common",
       "personajes": [
-        "Arthas Yevon",
         "Filps Pachamamamon",
         "Fitipaldi Sendaumbria",
         "Nindalf Pizpireta"
@@ -5826,6 +5833,38 @@
       ]
     },
     {
+      "nombre": "Dazzling Mithril Rapier",
+      "profesion": "Herrería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Coloso Tempestad"
+      ]
+    },
+    {
+      "nombre": "Dense Grinding Stone",
+      "profesion": "Herrería",
+      "calidad": "common",
+      "personajes": [
+        "Coloso Tempestad"
+      ]
+    },
+    {
+      "nombre": "Dense Sharpening Stone",
+      "profesion": "Herrería",
+      "calidad": "common",
+      "personajes": [
+        "Coloso Tempestad"
+      ]
+    },
+    {
+      "nombre": "Dense Weightstone",
+      "profesion": "Herrería",
+      "calidad": "common",
+      "personajes": [
+        "Coloso Tempestad"
+      ]
+    },
+    {
       "nombre": "Gemmed Copper Boots",
       "profesion": "Herrería",
       "calidad": "rare",
@@ -6259,6 +6298,14 @@
       ]
     },
     {
+      "nombre": "Mithril Spurs",
+      "profesion": "Herrería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Coloso Tempestad"
+      ]
+    },
+    {
       "nombre": "Moonsteel Broadsword",
       "profesion": "Herrería",
       "calidad": "uncommon",
@@ -6613,6 +6660,14 @@
     },
     {
       "nombre": "Shining Mithril Boots",
+      "profesion": "Herrería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Coloso Tempestad"
+      ]
+    },
+    {
+      "nombre": "Shining Mithril Gauntlet",
       "profesion": "Herrería",
       "calidad": "uncommon",
       "personajes": [
@@ -9442,6 +9497,7 @@
       "profesion": "Primeros auxilios",
       "calidad": "common",
       "personajes": [
+        "Arthas Yevon",
         "Breezy Reaver",
         "Chaca Choochoo",
         "Coloso Tempestad",
@@ -9538,6 +9594,7 @@
       "profesion": "Primeros auxilios",
       "calidad": "common",
       "personajes": [
+        "Arthas Yevon",
         "Breezy Reaver",
         "Coloso Tempestad",
         "Dum Bo",
@@ -9612,11 +9669,20 @@
       ]
     },
     {
+      "nombre": "Heavy Runecloth Bandage",
+      "profesion": "Primeros auxilios",
+      "calidad": "common",
+      "personajes": [
+        "Coloso Tempestad"
+      ]
+    },
+    {
       "nombre": "Heavy Silk Bandage",
       "profesion": "Primeros auxilios",
       "calidad": "common",
       "personajes": [
         "Coloso Tempestad",
+        "Dum Bo",
         "Edoras Duskranger",
         "Espartaco Gladiador",
         "Flexita Shadowsoul",
@@ -9768,6 +9834,7 @@
       "calidad": "common",
       "personajes": [
         "Coloso Tempestad",
+        "Dum Bo",
         "Espartaco Gladiador",
         "Flexita Shadowsoul",
         "Genethika Brisaveloz",
@@ -9840,6 +9907,7 @@
       "profesion": "Primeros auxilios",
       "calidad": "common",
       "personajes": [
+        "Coloso Tempestad",
         "La Pety"
       ]
     },
@@ -9873,6 +9941,7 @@
       "profesion": "Primeros auxilios",
       "calidad": "common",
       "personajes": [
+        "Arthas Yevon",
         "Breezy Reaver",
         "Coloso Tempestad",
         "Dum Bo",
@@ -9934,6 +10003,7 @@
       "profesion": "Primeros auxilios",
       "calidad": "common",
       "personajes": [
+        "Arthas Yevon",
         "Breezy Reaver",
         "Chaca Choochoo",
         "Coloso Tempestad",
@@ -10003,6 +10073,14 @@
         "Finn Felagund",
         "Rhyomen Sukuna",
         "Sr Byron"
+      ]
+    },
+    {
+      "nombre": "Azure Silk Cloak",
+      "profesion": "Sastrería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Finn Felagund"
       ]
     },
     {
@@ -10392,6 +10470,14 @@
       "personajes": [
         "Dum Bo",
         "Finn Felagund",
+        "Sr Byron"
+      ]
+    },
+    {
+      "nombre": "Cindercloth Vest",
+      "profesion": "Sastrería",
+      "calidad": "uncommon",
+      "personajes": [
         "Sr Byron"
       ]
     },
@@ -11125,6 +11211,14 @@
       ]
     },
     {
+      "nombre": "Mooncloth",
+      "profesion": "Sastrería",
+      "calidad": "common",
+      "personajes": [
+        "Finn Felagund"
+      ]
+    },
+    {
       "nombre": "Novice Arcanist's Sash",
       "profesion": "Sastrería",
       "calidad": "rare",
@@ -11417,6 +11511,14 @@
       "calidad": "uncommon",
       "personajes": [
         "Dum Bo",
+        "Finn Felagund"
+      ]
+    },
+    {
+      "nombre": "Runecloth Gloves",
+      "profesion": "Sastrería",
+      "calidad": "uncommon",
+      "personajes": [
         "Finn Felagund"
       ]
     },

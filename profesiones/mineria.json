@@ -100,6 +100,14 @@
       "pct": 35
     },
     {
+      "personaje": "Tommy Durum",
+      "clase": "druid",
+      "raider": false,
+      "nivel": 130,
+      "max": 150,
+      "pct": 12
+    },
+    {
       "personaje": "Jonaver Legends",
       "clase": "mage",
       "raider": false,
@@ -114,14 +122,6 @@
       "nivel": 124,
       "max": 150,
       "pct": 29
-    },
-    {
-      "personaje": "Tommy Durum",
-      "clase": "druid",
-      "raider": false,
-      "nivel": 124,
-      "max": 150,
-      "pct": 12
     },
     {
       "personaje": "Hugo Forjaluz",
@@ -229,8 +229,8 @@
             9,
             10,
             11,
-            12,
             13,
+            14,
             15,
             16,
             17,
@@ -279,8 +279,8 @@
             9,
             10,
             11,
-            12,
             13,
+            14,
             15,
             16,
             17,
@@ -358,7 +358,7 @@
             9,
             10,
             11,
-            12
+            13
           ]
         },
         {
@@ -398,8 +398,8 @@
             9,
             10,
             11,
-            12,
             13,
+            14,
             15,
             16,
             17,

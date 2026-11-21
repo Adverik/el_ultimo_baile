@@ -15,7 +15,7 @@
       "personaje": "Dio Hotmetal",
       "clase": "hunter",
       "raider": false,
-      "nivel": 291,
+      "nivel": 293,
       "max": 300,
       "pct": 33
     },
@@ -23,7 +23,7 @@
       "personaje": "Fran Furion",
       "clase": "druid",
       "raider": true,
-      "nivel": 255,
+      "nivel": 258,
       "max": 300,
       "pct": 33
     },
@@ -31,7 +31,7 @@
       "personaje": "Tommy Durum",
       "clase": "druid",
       "raider": false,
-      "nivel": 251,
+      "nivel": 253,
       "max": 300,
       "pct": 33
     },

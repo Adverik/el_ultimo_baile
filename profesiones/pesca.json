@@ -20,18 +20,18 @@
       "pct": 33
     },
     {
-      "personaje": "Espartaco Gladiador",
-      "clase": "warrior",
-      "raider": true,
-      "nivel": 204,
+      "personaje": "Finn Felagund",
+      "clase": "priest",
+      "raider": false,
+      "nivel": 209,
       "max": 225,
       "pct": 33
     },
     {
-      "personaje": "Finn Felagund",
-      "clase": "priest",
-      "raider": false,
-      "nivel": 194,
+      "personaje": "Espartaco Gladiador",
+      "clase": "warrior",
+      "raider": true,
+      "nivel": 204,
       "max": 225,
       "pct": 33
     },
@@ -55,7 +55,7 @@
       "personaje": "Rasus Layer",
       "clase": "rogue",
       "raider": false,
-      "nivel": 170,
+      "nivel": 174,
       "max": 225,
       "pct": 33
     },
@@ -172,6 +172,14 @@
       "pct": 33
     },
     {
+      "personaje": "Sr Byron",
+      "clase": "warlock",
+      "raider": false,
+      "nivel": 90,
+      "max": 150,
+      "pct": 33
+    },
+    {
       "personaje": "Nimassus Pater",
       "clase": "priest",
       "raider": true,
@@ -197,14 +205,6 @@
     },
     {
       "personaje": "Micro Bolas",
-      "clase": "warlock",
-      "raider": false,
-      "nivel": 75,
-      "max": 150,
-      "pct": 33
-    },
-    {
-      "personaje": "Sr Byron",
       "clase": "warlock",
       "raider": false,
       "nivel": 75,
@@ -303,7 +303,7 @@
       "personaje": "Ildaren Belisar",
       "clase": "rogue",
       "raider": false,
-      "nivel": 3,
+      "nivel": 7,
       "max": 75,
       "pct": 0
     },

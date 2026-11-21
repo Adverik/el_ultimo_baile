@@ -1463,6 +1463,10 @@
     "calidad": "uncommon",
     "objeto": true
   },
+  "4870": {
+    "calidad": "uncommon",
+    "objeto": true
+  },
   "4871": {
     "calidad": "uncommon",
     "objeto": true
@@ -1619,6 +1623,10 @@
     "calidad": "uncommon",
     "objeto": true
   },
+  "5330": {
+    "calidad": "uncommon",
+    "objeto": true
+  },
   "5332": {
     "calidad": "uncommon",
     "objeto": true
@@ -1648,6 +1656,10 @@
     "objeto": true
   },
   "5345": {
+    "calidad": "uncommon",
+    "objeto": true
+  },
+  "5347": {
     "calidad": "uncommon",
     "objeto": true
   },
@@ -2211,6 +2223,18 @@
     "calidad": "common",
     "objeto": true
   },
+  "9156": {
+    "calidad": "common",
+    "objeto": true
+  },
+  "9157": {
+    "calidad": "common",
+    "objeto": true
+  },
+  "9158": {
+    "calidad": "common",
+    "objeto": true
+  },
   "9597": {
     "calidad": "common",
     "objeto": true
@@ -2259,7 +2283,23 @@
     "calidad": "common",
     "objeto": true
   },
+  "10403": {
+    "calidad": "uncommon",
+    "objeto": true
+  },
+  "10412": {
+    "calidad": "uncommon",
+    "objeto": true
+  },
+  "10487": {
+    "calidad": "common",
+    "objeto": true
+  },
   "10488": {
+    "calidad": "common",
+    "objeto": true
+  },
+  "10489": {
     "calidad": "common",
     "objeto": true
   },
@@ -2676,6 +2716,10 @@
     "objeto": true
   },
   "54754": {
+    "calidad": "uncommon",
+    "objeto": true
+  },
+  "54757": {
     "calidad": "uncommon",
     "objeto": true
   },
