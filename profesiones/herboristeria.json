@@ -23,7 +23,7 @@
       "personaje": "Fran Furion",
       "clase": "druid",
       "raider": true,
-      "nivel": 260,
+      "nivel": 261,
       "max": 300,
       "pct": 33
     },
@@ -39,7 +39,7 @@
       "personaje": "Layrela Rondanit",
       "clase": "druid",
       "raider": true,
-      "nivel": 230,
+      "nivel": 234,
       "max": 300,
       "pct": 33
     },
@@ -63,7 +63,15 @@
       "personaje": "Reaper Dead",
       "clase": "paladin",
       "raider": false,
-      "nivel": 121,
+      "nivel": 122,
+      "max": 150,
+      "pct": 33
+    },
+    {
+      "personaje": "Takkaao Valengri",
+      "clase": "warlock",
+      "raider": false,
+      "nivel": 82,
       "max": 150,
       "pct": 33
     },
@@ -72,14 +80,6 @@
       "clase": "druid",
       "raider": false,
       "nivel": 75,
-      "max": 150,
-      "pct": 33
-    },
-    {
-      "personaje": "Takkaao Valengri",
-      "clase": "warlock",
-      "raider": false,
-      "nivel": 74,
       "max": 150,
       "pct": 33
     },

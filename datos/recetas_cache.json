@@ -1567,6 +1567,10 @@
     "calidad": "uncommon",
     "objeto": true
   },
+  "5054": {
+    "calidad": "uncommon",
+    "objeto": true
+  },
   "5055": {
     "calidad": "uncommon",
     "objeto": true
@@ -1620,6 +1624,18 @@
     "objeto": true
   },
   "5320": {
+    "calidad": "uncommon",
+    "objeto": true
+  },
+  "5323": {
+    "calidad": "uncommon",
+    "objeto": true
+  },
+  "5324": {
+    "calidad": "uncommon",
+    "objeto": true
+  },
+  "5325": {
     "calidad": "uncommon",
     "objeto": true
   },
@@ -1699,6 +1715,22 @@
     "calidad": "uncommon",
     "objeto": true
   },
+  "5672": {
+    "calidad": "uncommon",
+    "objeto": true
+  },
+  "5674": {
+    "calidad": "uncommon",
+    "objeto": true
+  },
+  "5675": {
+    "calidad": "uncommon",
+    "objeto": true
+  },
+  "5679": {
+    "calidad": "uncommon",
+    "objeto": true
+  },
   "5685": {
     "calidad": "uncommon",
     "objeto": true
@@ -1716,6 +1748,10 @@
     "objeto": true
   },
   "5768": {
+    "calidad": "common",
+    "objeto": true
+  },
+  "5996": {
     "calidad": "common",
     "objeto": true
   },
@@ -1776,6 +1812,10 @@
     "objeto": true
   },
   "6021": {
+    "calidad": "uncommon",
+    "objeto": true
+  },
+  "6136": {
     "calidad": "uncommon",
     "objeto": true
   },
@@ -1940,6 +1980,10 @@
     "objeto": true
   },
   "6868": {
+    "calidad": "common",
+    "objeto": true
+  },
+  "6869": {
     "calidad": "common",
     "objeto": true
   },
@@ -2195,6 +2239,14 @@
     "calidad": "uncommon",
     "objeto": true
   },
+  "8056": {
+    "calidad": "uncommon",
+    "objeto": true
+  },
+  "8057": {
+    "calidad": "uncommon",
+    "objeto": true
+  },
   "8196": {
     "calidad": "common",
     "objeto": true
@@ -2255,6 +2307,14 @@
     "calidad": "common",
     "objeto": true
   },
+  "9163": {
+    "calidad": "uncommon",
+    "objeto": true
+  },
+  "9164": {
+    "calidad": "uncommon",
+    "objeto": true
+  },
   "9597": {
     "calidad": "common",
     "objeto": true
@@ -2288,6 +2348,10 @@
     "objeto": true
   },
   "10245": {
+    "calidad": "common",
+    "objeto": true
+  },
+  "10246": {
     "calidad": "common",
     "objeto": true
   },
@@ -2432,6 +2496,10 @@
     "objeto": true
   },
   "13811": {
+    "calidad": "uncommon",
+    "objeto": true
+  },
+  "49818": {
     "calidad": "uncommon",
     "objeto": true
   },
@@ -2789,6 +2857,10 @@
   },
   "54821": {
     "calidad": "uncommon",
+    "objeto": true
+  },
+  "55122": {
+    "calidad": "rare",
     "objeto": true
   },
   "55136": {

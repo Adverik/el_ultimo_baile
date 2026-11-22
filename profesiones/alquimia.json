@@ -17,7 +17,7 @@
       "raider": false,
       "nivel": 280,
       "max": 300,
-      "pct": 30
+      "pct": 31
     },
     {
       "personaje": "Fran Furion",
@@ -5235,7 +5235,9 @@
               "25"
             ]
           },
-          "quien": []
+          "quien": [
+            1
+          ]
         },
         {
           "id": 6008,

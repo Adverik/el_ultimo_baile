@@ -15,7 +15,7 @@
       "personaje": "Manelhon Gargon",
       "clase": "shaman",
       "raider": true,
-      "nivel": 269,
+      "nivel": 272,
       "max": 300,
       "pct": 67
     },
@@ -23,7 +23,7 @@
       "personaje": "Runa Ruina",
       "clase": "shaman",
       "raider": true,
-      "nivel": 261,
+      "nivel": 262,
       "max": 300,
       "pct": 33
     },
@@ -39,7 +39,7 @@
       "personaje": "Reaper Dead",
       "clase": "paladin",
       "raider": false,
-      "nivel": 236,
+      "nivel": 250,
       "max": 300,
       "pct": 33
     },
@@ -47,7 +47,15 @@
       "personaje": "Memas Tour",
       "clase": "shaman",
       "raider": false,
-      "nivel": 234,
+      "nivel": 240,
+      "max": 300,
+      "pct": 33
+    },
+    {
+      "personaje": "Aurelio Amador",
+      "clase": "rogue",
+      "raider": false,
+      "nivel": 237,
       "max": 300,
       "pct": 33
     },
@@ -56,14 +64,6 @@
       "clase": "rogue",
       "raider": false,
       "nivel": 229,
-      "max": 300,
-      "pct": 33
-    },
-    {
-      "personaje": "Aurelio Amador",
-      "clase": "rogue",
-      "raider": false,
-      "nivel": 227,
       "max": 300,
       "pct": 33
     },
@@ -80,14 +80,14 @@
       "clase": "rogue",
       "raider": true,
       "nivel": 225,
-      "max": 225,
+      "max": 300,
       "pct": 33
     },
     {
       "personaje": "Breezy Reaver",
       "clase": "shaman",
       "raider": false,
-      "nivel": 194,
+      "nivel": 213,
       "max": 225,
       "pct": 33
     },

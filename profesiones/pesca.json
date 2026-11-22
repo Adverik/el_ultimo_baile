@@ -31,7 +31,7 @@
       "personaje": "Espartaco Gladiador",
       "clase": "warrior",
       "raider": true,
-      "nivel": 205,
+      "nivel": 211,
       "max": 225,
       "pct": 33
     },
@@ -55,7 +55,15 @@
       "personaje": "Elfa Vorable",
       "clase": "druid",
       "raider": false,
-      "nivel": 167,
+      "nivel": 175,
+      "max": 225,
+      "pct": 33
+    },
+    {
+      "personaje": "Coloso Tempestad",
+      "clase": "warrior",
+      "raider": false,
+      "nivel": 150,
       "max": 225,
       "pct": 33
     },
@@ -64,7 +72,7 @@
       "clase": "rogue",
       "raider": true,
       "nivel": 150,
-      "max": 150,
+      "max": 225,
       "pct": 33
     },
     {
@@ -132,6 +140,14 @@
       "pct": 33
     },
     {
+      "personaje": "Sr Byron",
+      "clase": "warlock",
+      "raider": false,
+      "nivel": 100,
+      "max": 150,
+      "pct": 33
+    },
+    {
       "personaje": "Breezy Reaver",
       "clase": "shaman",
       "raider": false,
@@ -140,26 +156,10 @@
       "pct": 33
     },
     {
-      "personaje": "Dio Hotmetal",
-      "clase": "hunter",
-      "raider": false,
-      "nivel": 96,
-      "max": 150,
-      "pct": 33
-    },
-    {
       "personaje": "Flexita Shadowsoul",
       "clase": "hunter",
       "raider": false,
-      "nivel": 96,
-      "max": 150,
-      "pct": 33
-    },
-    {
-      "personaje": "Sr Byron",
-      "clase": "warlock",
-      "raider": false,
-      "nivel": 96,
+      "nivel": 97,
       "max": 150,
       "pct": 33
     },
@@ -167,7 +167,15 @@
       "personaje": "Arthas Yevon",
       "clase": "paladin",
       "raider": false,
-      "nivel": 90,
+      "nivel": 96,
+      "max": 150,
+      "pct": 33
+    },
+    {
+      "personaje": "Dio Hotmetal",
+      "clase": "hunter",
+      "raider": false,
+      "nivel": 96,
       "max": 150,
       "pct": 33
     },
@@ -316,14 +324,6 @@
       "pct": 0
     },
     {
-      "personaje": "Coloso Tempestad",
-      "clase": "warrior",
-      "raider": false,
-      "nivel": 1,
-      "max": 75,
-      "pct": 0
-    },
-    {
       "personaje": "Españoleitor Españoleitor",
       "clase": "warrior",
       "raider": false,
@@ -451,7 +451,8 @@
             29,
             30,
             31,
-            32
+            32,
+            33
           ]
         },
         {

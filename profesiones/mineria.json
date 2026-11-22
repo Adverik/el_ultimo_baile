@@ -23,7 +23,7 @@
       "personaje": "Khyoraku Shunsui",
       "clase": "warrior",
       "raider": true,
-      "nivel": 227,
+      "nivel": 228,
       "max": 300,
       "pct": 53
     },
@@ -55,7 +55,15 @@
       "personaje": "Althez Sendagris",
       "clase": "paladin",
       "raider": false,
-      "nivel": 216,
+      "nivel": 217,
+      "max": 225,
+      "pct": 53
+    },
+    {
+      "personaje": "Flexita Shadowsoul",
+      "clase": "hunter",
+      "raider": false,
+      "nivel": 202,
       "max": 225,
       "pct": 53
     },
@@ -68,26 +76,18 @@
       "pct": 53
     },
     {
-      "personaje": "Flexita Shadowsoul",
-      "clase": "hunter",
+      "personaje": "Jonaver Legends",
+      "clase": "mage",
       "raider": false,
-      "nivel": 192,
+      "nivel": 152,
       "max": 225,
-      "pct": 53
+      "pct": 35
     },
     {
       "personaje": "Mosu Warryn",
       "clase": "warrior",
       "raider": false,
       "nivel": 151,
-      "max": 225,
-      "pct": 35
-    },
-    {
-      "personaje": "Jonaver Legends",
-      "clase": "mage",
-      "raider": false,
-      "nivel": 149,
       "max": 225,
       "pct": 35
     },
@@ -143,7 +143,7 @@
       "personaje": "Samael Thallanor",
       "clase": "hunter",
       "raider": false,
-      "nivel": 93,
+      "nivel": 102,
       "max": 150,
       "pct": 29
     },

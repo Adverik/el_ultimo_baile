@@ -1633,12 +1633,20 @@
           "clase": "rogue"
         },
         {
-          "n": "Diana Flechaveloz",
+          "n": "Palmira Natblida",
+          "clase": "rogue"
+        },
+        {
+          "n": "Edoras Duskranger",
           "clase": "hunter"
         },
         {
           "n": "Manelhon Gargon",
           "clase": "shaman"
+        },
+        {
+          "n": "Diana Flechaveloz",
+          "clase": "hunter"
         },
         {
           "n": "Tankesito Khrih",
@@ -1649,16 +1657,8 @@
           "clase": "shaman"
         },
         {
-          "n": "Palmira Natblida",
-          "clase": "rogue"
-        },
-        {
           "n": "Runa Ruina",
           "clase": "shaman"
-        },
-        {
-          "n": "Edoras Duskranger",
-          "clase": "hunter"
         },
         {
           "n": "Ildaren Belisar",
@@ -1716,16 +1716,16 @@
       "profesion": "Peletería",
       "personajes": [
         {
+          "n": "Palmira Natblida",
+          "clase": "rogue"
+        },
+        {
           "n": "Tankesito Khrih",
           "clase": "druid"
         },
         {
           "n": "Memas Tour",
           "clase": "shaman"
-        },
-        {
-          "n": "Palmira Natblida",
-          "clase": "rogue"
         },
         {
           "n": "Runa Ruina",
@@ -1904,20 +1904,20 @@
       "profesion": "Peletería",
       "personajes": [
         {
-          "n": "Tankesito Khrih",
-          "clase": "druid"
-        },
-        {
-          "n": "Memas Tour",
-          "clase": "shaman"
-        },
-        {
           "n": "Palmira Natblida",
           "clase": "rogue"
         },
         {
           "n": "Edoras Duskranger",
           "clase": "hunter"
+        },
+        {
+          "n": "Tankesito Khrih",
+          "clase": "druid"
+        },
+        {
+          "n": "Memas Tour",
+          "clase": "shaman"
         }
       ]
     },
@@ -2025,16 +2025,16 @@
       "profesion": "Peletería",
       "personajes": [
         {
+          "n": "Palmira Natblida",
+          "clase": "rogue"
+        },
+        {
           "n": "Tankesito Khrih",
           "clase": "druid"
         },
         {
           "n": "Memas Tour",
           "clase": "shaman"
-        },
-        {
-          "n": "Palmira Natblida",
-          "clase": "rogue"
         }
       ]
     },
@@ -2082,16 +2082,16 @@
       "profesion": "Peletería",
       "personajes": [
         {
+          "n": "Palmira Natblida",
+          "clase": "rogue"
+        },
+        {
           "n": "Tankesito Khrih",
           "clase": "druid"
         },
         {
           "n": "Memas Tour",
           "clase": "shaman"
-        },
-        {
-          "n": "Palmira Natblida",
-          "clase": "rogue"
         }
       ]
     },
@@ -2140,16 +2140,16 @@
       "profesion": "Peletería",
       "personajes": [
         {
+          "n": "Palmira Natblida",
+          "clase": "rogue"
+        },
+        {
           "n": "Tankesito Khrih",
           "clase": "druid"
         },
         {
           "n": "Memas Tour",
           "clase": "shaman"
-        },
-        {
-          "n": "Palmira Natblida",
-          "clase": "rogue"
         },
         {
           "n": "Runa Ruina",
@@ -2201,6 +2201,10 @@
       "profesion": "Peletería",
       "personajes": [
         {
+          "n": "Palmira Natblida",
+          "clase": "rogue"
+        },
+        {
           "n": "Manelhon Gargon",
           "clase": "shaman"
         },
@@ -2211,10 +2215,6 @@
         {
           "n": "Memas Tour",
           "clase": "shaman"
-        },
-        {
-          "n": "Palmira Natblida",
-          "clase": "rogue"
         }
       ]
     },
@@ -2262,6 +2262,10 @@
       "profesion": "Peletería",
       "personajes": [
         {
+          "n": "Palmira Natblida",
+          "clase": "rogue"
+        },
+        {
           "n": "Manelhon Gargon",
           "clase": "shaman"
         },
@@ -2272,10 +2276,6 @@
         {
           "n": "Memas Tour",
           "clase": "shaman"
-        },
-        {
-          "n": "Palmira Natblida",
-          "clase": "rogue"
         }
       ]
     },
@@ -2327,6 +2327,14 @@
           "clase": "rogue"
         },
         {
+          "n": "Palmira Natblida",
+          "clase": "rogue"
+        },
+        {
+          "n": "Edoras Duskranger",
+          "clase": "hunter"
+        },
+        {
           "n": "Diana Flechaveloz",
           "clase": "hunter"
         },
@@ -2337,14 +2345,6 @@
         {
           "n": "Memas Tour",
           "clase": "shaman"
-        },
-        {
-          "n": "Palmira Natblida",
-          "clase": "rogue"
-        },
-        {
-          "n": "Edoras Duskranger",
-          "clase": "hunter"
         }
       ]
     },
@@ -2391,16 +2391,16 @@
       "profesion": "Peletería",
       "personajes": [
         {
-          "n": "Memas Tour",
-          "clase": "shaman"
-        },
-        {
           "n": "Palmira Natblida",
           "clase": "rogue"
         },
         {
           "n": "Edoras Duskranger",
           "clase": "hunter"
+        },
+        {
+          "n": "Memas Tour",
+          "clase": "shaman"
         },
         {
           "n": "Tom Kha",
@@ -2523,12 +2523,20 @@
           "clase": "rogue"
         },
         {
-          "n": "Diana Flechaveloz",
+          "n": "Palmira Natblida",
+          "clase": "rogue"
+        },
+        {
+          "n": "Edoras Duskranger",
           "clase": "hunter"
         },
         {
           "n": "Manelhon Gargon",
           "clase": "shaman"
+        },
+        {
+          "n": "Diana Flechaveloz",
+          "clase": "hunter"
         },
         {
           "n": "Tankesito Khrih",
@@ -2537,14 +2545,6 @@
         {
           "n": "Memas Tour",
           "clase": "shaman"
-        },
-        {
-          "n": "Palmira Natblida",
-          "clase": "rogue"
-        },
-        {
-          "n": "Edoras Duskranger",
-          "clase": "hunter"
         }
       ]
     },
@@ -2836,12 +2836,12 @@
       "profesion": "Peletería",
       "personajes": [
         {
-          "n": "Tankesito Khrih",
-          "clase": "druid"
-        },
-        {
           "n": "Palmira Natblida",
           "clase": "rogue"
+        },
+        {
+          "n": "Tankesito Khrih",
+          "clase": "druid"
         }
       ]
     },
@@ -2939,16 +2939,16 @@
       "profesion": "Peletería",
       "personajes": [
         {
+          "n": "Palmira Natblida",
+          "clase": "rogue"
+        },
+        {
           "n": "Tankesito Khrih",
           "clase": "druid"
         },
         {
           "n": "Memas Tour",
           "clase": "shaman"
-        },
-        {
-          "n": "Palmira Natblida",
-          "clase": "rogue"
         },
         {
           "n": "Runa Ruina",
@@ -2965,6 +2965,55 @@
         {
           "n": "Breezy Reaver",
           "clase": "shaman"
+        }
+      ]
+    },
+    {
+      "id": 55122,
+      "n": "Zapatos de cuero de clamacielos",
+      "q": "rare",
+      "ico": "136235",
+      "reac": [
+        [
+          "Cuero pesado",
+          8
+        ],
+        [
+          "Pellejo medio curado",
+          2
+        ],
+        [
+          "Elemental de agua",
+          2
+        ]
+      ],
+      "obj": {
+        "arm": "92 armadura",
+        "id": 252532,
+        "ilvl": 45,
+        "lig": "Se liga al recogerlo",
+        "n": "Zapatos de cuero de clamacielos",
+        "q": "rare",
+        "ranura": "Pies",
+        "req": 40,
+        "stats": [
+          "+7 intelecto",
+          "+7 aguante",
+          "+13 poder con hechizos",
+          "+5 espíritu"
+        ],
+        "sub": "Cuero",
+        "venta": [
+          "0",
+          "74",
+          "16"
+        ]
+      },
+      "profesion": "Peletería",
+      "personajes": [
+        {
+          "n": "Aurelio Amador",
+          "clase": "rogue"
         }
       ]
     },
@@ -3010,16 +3059,16 @@
       "profesion": "Peletería",
       "personajes": [
         {
+          "n": "Palmira Natblida",
+          "clase": "rogue"
+        },
+        {
           "n": "Tankesito Khrih",
           "clase": "druid"
         },
         {
           "n": "Memas Tour",
           "clase": "shaman"
-        },
-        {
-          "n": "Palmira Natblida",
-          "clase": "rogue"
         },
         {
           "n": "Runa Ruina",

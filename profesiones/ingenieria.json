@@ -15,7 +15,7 @@
       "personaje": "Flexita Shadowsoul",
       "clase": "hunter",
       "raider": false,
-      "nivel": 214,
+      "nivel": 219,
       "max": 300,
       "pct": 23
     },
@@ -651,7 +651,8 @@
             ]
           },
           "quien": [
-            0
+            0,
+            1
           ]
         },
         {
@@ -1877,7 +1878,9 @@
               "50"
             ]
           },
-          "quien": []
+          "quien": [
+            1
+          ]
         },
         {
           "id": 6876,

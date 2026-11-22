@@ -7,9 +7,9 @@
       "personaje": "Coloso Tempestad",
       "clase": "warrior",
       "raider": false,
-      "nivel": 235,
+      "nivel": 240,
       "max": 300,
-      "pct": 20
+      "pct": 21
     },
     {
       "personaje": "Espartaco Gladiador",
@@ -31,7 +31,7 @@
       "personaje": "Khyoraku Shunsui",
       "clase": "warrior",
       "raider": true,
-      "nivel": 175,
+      "nivel": 185,
       "max": 225,
       "pct": 14
     },
@@ -9226,7 +9226,9 @@
               "89"
             ]
           },
-          "quien": []
+          "quien": [
+            0
+          ]
         },
         {
           "id": 9171,
@@ -10430,7 +10432,8 @@
             ]
           },
           "quien": [
-            2
+            2,
+            3
           ]
         },
         {
@@ -11172,7 +11175,8 @@
             ]
           },
           "quien": [
-            0
+            0,
+            3
           ]
         },
         {
@@ -12512,7 +12516,9 @@
               "57"
             ]
           },
-          "quien": []
+          "quien": [
+            0
+          ]
         },
         {
           "id": 8220,
@@ -12590,7 +12596,9 @@
               "46"
             ]
           },
-          "quien": []
+          "quien": [
+            0
+          ]
         },
         {
           "id": 9174,
@@ -13291,7 +13299,9 @@
               "87"
             ]
           },
-          "quien": []
+          "quien": [
+            0
+          ]
         },
         {
           "id": 5326,
@@ -14329,7 +14339,9 @@
               "52"
             ]
           },
-          "quien": []
+          "quien": [
+            0
+          ]
         },
         {
           "id": 9180,
@@ -18034,7 +18046,9 @@
               "33"
             ]
           },
-          "quien": []
+          "quien": [
+            0
+          ]
         },
         {
           "id": 12679,
