@@ -36,6 +36,14 @@
       "pct": 33
     },
     {
+      "personaje": "Shiryoku Moonfury",
+      "clase": "warrior",
+      "raider": false,
+      "nivel": 197,
+      "max": 225,
+      "pct": 33
+    },
+    {
       "personaje": "Jonaver Legends",
       "clase": "mage",
       "raider": false,
@@ -60,17 +68,25 @@
       "pct": 33
     },
     {
-      "personaje": "Coloso Tempestad",
-      "clase": "warrior",
-      "raider": false,
-      "nivel": 150,
+      "personaje": "Palmira Natblida",
+      "clase": "rogue",
+      "raider": true,
+      "nivel": 165,
       "max": 225,
       "pct": 33
     },
     {
-      "personaje": "Palmira Natblida",
-      "clase": "rogue",
-      "raider": true,
+      "personaje": "Betadine Pervinox",
+      "clase": "paladin",
+      "raider": false,
+      "nivel": 156,
+      "max": 225,
+      "pct": 33
+    },
+    {
+      "personaje": "Coloso Tempestad",
+      "clase": "warrior",
+      "raider": false,
       "nivel": 150,
       "max": 225,
       "pct": 33
@@ -143,21 +159,21 @@
       "personaje": "Sr Byron",
       "clase": "warlock",
       "raider": false,
-      "nivel": 100,
-      "max": 150,
-      "pct": 33
-    },
-    {
-      "personaje": "Breezy Reaver",
-      "clase": "shaman",
-      "raider": false,
-      "nivel": 97,
+      "nivel": 106,
       "max": 150,
       "pct": 33
     },
     {
       "personaje": "Flexita Shadowsoul",
       "clase": "hunter",
+      "raider": false,
+      "nivel": 101,
+      "max": 150,
+      "pct": 33
+    },
+    {
+      "personaje": "Breezy Reaver",
+      "clase": "shaman",
       "raider": false,
       "nivel": 97,
       "max": 150,
@@ -452,7 +468,9 @@
             30,
             31,
             32,
-            33
+            33,
+            34,
+            35
           ]
         },
         {

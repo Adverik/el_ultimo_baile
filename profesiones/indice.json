@@ -3,14 +3,14 @@
     "slug": "alquimia",
     "nombre": "Alquimia",
     "ico": "136240",
-    "artesanos": 8,
+    "artesanos": 9,
     "total": 196
   },
   {
     "slug": "cocina",
     "nombre": "Cocina",
     "ico": "133971",
-    "artesanos": 62,
+    "artesanos": 64,
     "total": 132
   },
   {
@@ -31,14 +31,14 @@
     "slug": "herboristeria",
     "nombre": "Herboristería",
     "ico": "136246",
-    "artesanos": 15,
+    "artesanos": 16,
     "total": 3
   },
   {
     "slug": "herreria",
     "nombre": "Herrería",
     "ico": "136241",
-    "artesanos": 11,
+    "artesanos": 12,
     "total": 507
   },
   {
@@ -52,7 +52,7 @@
     "slug": "mineria",
     "nombre": "Minería",
     "ico": "136248",
-    "artesanos": 23,
+    "artesanos": 24,
     "total": 17
   },
   {
@@ -66,14 +66,14 @@
     "slug": "pesca",
     "nombre": "Pesca",
     "ico": "136245",
-    "artesanos": 48,
+    "artesanos": 50,
     "total": 3
   },
   {
     "slug": "primeros-auxilios",
     "nombre": "Primeros auxilios",
     "ico": "135966",
-    "artesanos": 46,
+    "artesanos": 47,
     "total": 32
   },
   {

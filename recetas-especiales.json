@@ -51,6 +51,54 @@
       ]
     },
     {
+      "id": 54759,
+      "n": "Botas de centinela",
+      "q": "rare",
+      "ico": "457763",
+      "reac": [
+        [
+          "Lingote de acero",
+          4
+        ],
+        [
+          "Piedra de pulir pesada",
+          4
+        ],
+        [
+          "Loto morado",
+          4
+        ]
+      ],
+      "obj": {
+        "arm": "330 armadura",
+        "id": 250547,
+        "ilvl": 45,
+        "lig": "Se liga al recogerlo",
+        "n": "Botas de centinela",
+        "q": "rare",
+        "ranura": "Pies",
+        "req": 40,
+        "stats": [
+          "+7 fuerza",
+          "+13 aguante",
+          "+9 Defensa"
+        ],
+        "sub": "Placas",
+        "venta": [
+          "0",
+          "33",
+          "51"
+        ]
+      },
+      "profesion": "Herrería",
+      "personajes": [
+        {
+          "n": "Shiryoku Moonfury",
+          "clase": "warrior"
+        }
+      ]
+    },
+    {
       "id": 54692,
       "n": "Botas de cobre con gemas",
       "q": "rare",
@@ -97,6 +145,10 @@
       "personajes": [
         {
           "n": "Coloso Tempestad",
+          "clase": "warrior"
+        },
+        {
+          "n": "Shiryoku Moonfury",
           "clase": "warrior"
         },
         {
@@ -187,6 +239,10 @@
           "clase": "warrior"
         },
         {
+          "n": "Shiryoku Moonfury",
+          "clase": "warrior"
+        },
+        {
           "n": "Khyoraku Shunsui",
           "clase": "warrior"
         },
@@ -260,6 +316,10 @@
       "personajes": [
         {
           "n": "Coloso Tempestad",
+          "clase": "warrior"
+        },
+        {
+          "n": "Shiryoku Moonfury",
           "clase": "warrior"
         },
         {
@@ -529,6 +589,10 @@
       "profesion": "Herrería",
       "personajes": [
         {
+          "n": "Shiryoku Moonfury",
+          "clase": "warrior"
+        },
+        {
           "n": "Farhan Ironbeard",
           "clase": "warrior"
         }
@@ -586,6 +650,10 @@
       "personajes": [
         {
           "n": "Coloso Tempestad",
+          "clase": "warrior"
+        },
+        {
+          "n": "Shiryoku Moonfury",
           "clase": "warrior"
         },
         {
@@ -845,6 +913,10 @@
           "clase": "warrior"
         },
         {
+          "n": "Shiryoku Moonfury",
+          "clase": "warrior"
+        },
+        {
           "n": "Althez Sendagris",
           "clase": "paladin"
         },
@@ -904,6 +976,65 @@
       ]
     },
     {
+      "id": 5326,
+      "n": "Guanteletes de veraplata",
+      "q": "rare",
+      "ico": "132963",
+      "reac": [
+        [
+          "Lingote de mitril",
+          10
+        ],
+        [
+          "Lingote de veraplata",
+          8
+        ],
+        [
+          "Aguamarina",
+          3
+        ],
+        [
+          "Citrino",
+          3
+        ],
+        [
+          "Guantes de guardián",
+          1
+        ],
+        [
+          "Piedra de pulir sólida",
+          2
+        ]
+      ],
+      "obj": {
+        "arm": "300 armadura",
+        "id": 7938,
+        "ilvl": 45,
+        "lig": "Se liga al equiparlo",
+        "n": "Guanteletes de veraplata",
+        "q": "rare",
+        "ranura": "Manos",
+        "req": 40,
+        "stats": [
+          "+16 fuerza",
+          "+7 aguante"
+        ],
+        "sub": "Placas",
+        "venta": [
+          "0",
+          "40",
+          "28"
+        ]
+      },
+      "profesion": "Herrería",
+      "personajes": [
+        {
+          "n": "Shiryoku Moonfury",
+          "clase": "warrior"
+        }
+      ]
+    },
+    {
       "id": 54721,
       "n": "Guantes de guardia",
       "q": "rare",
@@ -952,6 +1083,106 @@
         {
           "n": "Hugo Forjaluz",
           "clase": "paladin"
+        }
+      ]
+    },
+    {
+      "id": 54720,
+      "n": "Guantes de veterano",
+      "q": "rare",
+      "ico": "132960",
+      "reac": [
+        [
+          "Lingote de bronce",
+          10
+        ],
+        [
+          "Piedra de pulir férrea",
+          4
+        ],
+        [
+          "Ácido sulfúrico",
+          2
+        ],
+        [
+          "Perla lustrosa pequeña",
+          3
+        ]
+      ],
+      "obj": {
+        "arm": "115 armadura",
+        "id": 250508,
+        "ilvl": 20,
+        "lig": "Se liga al recogerlo",
+        "n": "Guantes de veterano",
+        "q": "rare",
+        "ranura": "Manos",
+        "req": 15,
+        "stats": [
+          "+3 agilidad",
+          "+5 fuerza",
+          "+5 aguante"
+        ],
+        "sub": "Mallas",
+        "venta": [
+          "0",
+          "4",
+          "87"
+        ]
+      },
+      "profesion": "Herrería",
+      "personajes": [
+        {
+          "n": "Shiryoku Moonfury",
+          "clase": "warrior"
+        }
+      ]
+    },
+    {
+      "id": 54706,
+      "n": "Leotardos de anillas de guardia",
+      "q": "rare",
+      "ico": "134668",
+      "reac": [
+        [
+          "Lingote de bronce",
+          6
+        ],
+        [
+          "Piedra de pulir burda",
+          2
+        ],
+        [
+          "Gema de las Sombras",
+          4
+        ]
+      ],
+      "obj": {
+        "arm": "176 armadura",
+        "id": 250494,
+        "ilvl": 25,
+        "lig": "Se liga al recogerlo",
+        "n": "Leotardos de anillas de guardia",
+        "q": "rare",
+        "ranura": "Piernas",
+        "req": 20,
+        "stats": [
+          "+5 fuerza",
+          "+9 aguante",
+          "+7 Defensa"
+        ],
+        "sub": "Mallas",
+        "venta": [
+          "0",
+          "19",
+          "54"
+        ]
+      },
+      "profesion": "Herrería",
+      "personajes": [
+        {
+          "n": "Mosu Warryn",
+          "clase": "warrior"
         }
       ]
     },
@@ -1057,6 +1288,10 @@
           "clase": "warrior"
         },
         {
+          "n": "Shiryoku Moonfury",
+          "clase": "warrior"
+        },
+        {
           "n": "Althez Sendagris",
           "clase": "paladin"
         },
@@ -1070,6 +1305,63 @@
         },
         {
           "n": "Llamas Xx",
+          "clase": "warrior"
+        }
+      ]
+    },
+    {
+      "id": 5335,
+      "n": "Peto de veraplata",
+      "q": "rare",
+      "ico": "132739",
+      "reac": [
+        [
+          "Lingote de mitril",
+          12
+        ],
+        [
+          "Lingote de veraplata",
+          24
+        ],
+        [
+          "Rubí estrella",
+          4
+        ],
+        [
+          "Perla negra",
+          4
+        ],
+        [
+          "Piedra de pulir sólida",
+          2
+        ]
+      ],
+      "obj": {
+        "arm": "519 armadura",
+        "efectos": [
+          "Equipar: Al recibir un golpe en combate hay un 3% de probabilidad de curarte en 60 a 100."
+        ],
+        "id": 7939,
+        "ilvl": 49,
+        "lig": "Se liga al equiparlo",
+        "n": "Peto de veraplata",
+        "q": "rare",
+        "ranura": "Pecho",
+        "req": 44,
+        "stats": [
+          "+12 aguante"
+        ],
+        "sub": "Placas",
+        "venta": [
+          "1",
+          "8",
+          "99"
+        ]
+      },
+      "profesion": "Herrería",
+      "personajes": [
+        {
+          "n": "Shiryoku Moonfury",
           "clase": "warrior"
         }
       ]
@@ -1179,6 +1471,10 @@
       "profesion": "Herrería",
       "personajes": [
         {
+          "n": "Shiryoku Moonfury",
+          "clase": "warrior"
+        },
+        {
           "n": "Khyoraku Shunsui",
           "clase": "warrior"
         },
@@ -1281,6 +1577,10 @@
       },
       "profesion": "Herrería",
       "personajes": [
+        {
+          "n": "Shiryoku Moonfury",
+          "clase": "warrior"
+        },
         {
           "n": "Llamas Xx",
           "clase": "warrior"
@@ -1649,15 +1949,15 @@
           "clase": "hunter"
         },
         {
+          "n": "Runa Ruina",
+          "clase": "shaman"
+        },
+        {
           "n": "Tankesito Khrih",
           "clase": "druid"
         },
         {
           "n": "Memas Tour",
-          "clase": "shaman"
-        },
-        {
-          "n": "Runa Ruina",
           "clase": "shaman"
         },
         {
@@ -1720,15 +2020,15 @@
           "clase": "rogue"
         },
         {
+          "n": "Runa Ruina",
+          "clase": "shaman"
+        },
+        {
           "n": "Tankesito Khrih",
           "clase": "druid"
         },
         {
           "n": "Memas Tour",
-          "clase": "shaman"
-        },
-        {
-          "n": "Runa Ruina",
           "clase": "shaman"
         },
         {
@@ -2144,15 +2444,15 @@
           "clase": "rogue"
         },
         {
+          "n": "Runa Ruina",
+          "clase": "shaman"
+        },
+        {
           "n": "Tankesito Khrih",
           "clase": "druid"
         },
         {
           "n": "Memas Tour",
-          "clase": "shaman"
-        },
-        {
-          "n": "Runa Ruina",
           "clase": "shaman"
         }
       ]
@@ -2943,15 +3243,15 @@
           "clase": "rogue"
         },
         {
+          "n": "Runa Ruina",
+          "clase": "shaman"
+        },
+        {
           "n": "Tankesito Khrih",
           "clase": "druid"
         },
         {
           "n": "Memas Tour",
-          "clase": "shaman"
-        },
-        {
-          "n": "Runa Ruina",
           "clase": "shaman"
         },
         {
@@ -3063,15 +3363,15 @@
           "clase": "rogue"
         },
         {
+          "n": "Runa Ruina",
+          "clase": "shaman"
+        },
+        {
           "n": "Tankesito Khrih",
           "clase": "druid"
         },
         {
           "n": "Memas Tour",
-          "clase": "shaman"
-        },
-        {
-          "n": "Runa Ruina",
           "clase": "shaman"
         },
         {
@@ -3821,16 +4121,16 @@
           "clase": "mage"
         },
         {
+          "n": "Kadeharz Apsus",
+          "clase": "mage"
+        },
+        {
           "n": "Elfa Vorable",
           "clase": "druid"
         },
         {
           "n": "Rhyomen Sukuna",
           "clase": "warlock"
-        },
-        {
-          "n": "Kadeharz Apsus",
-          "clase": "mage"
         },
         {
           "n": "Micro Bolas",
@@ -3918,6 +4218,10 @@
           "clase": "mage"
         },
         {
+          "n": "Kadeharz Apsus",
+          "clase": "mage"
+        },
+        {
           "n": "Elfa Vorable",
           "clase": "druid"
         },
@@ -3928,10 +4232,6 @@
         {
           "n": "Rhyomen Sukuna",
           "clase": "warlock"
-        },
-        {
-          "n": "Kadeharz Apsus",
-          "clase": "mage"
         },
         {
           "n": "Archi Amnesia",

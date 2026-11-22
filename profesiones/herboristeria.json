@@ -4,6 +4,14 @@
   "total": 3,
   "artesanos": [
     {
+      "personaje": "Betadine Pervinox",
+      "clase": "paladin",
+      "raider": false,
+      "nivel": 300,
+      "max": 300,
+      "pct": 33
+    },
+    {
       "personaje": "Sugar Papy",
       "clase": "druid",
       "raider": false,
@@ -31,7 +39,7 @@
       "personaje": "Tommy Durum",
       "clase": "druid",
       "raider": false,
-      "nivel": 253,
+      "nivel": 255,
       "max": 300,
       "pct": 33
     },
@@ -47,7 +55,7 @@
       "personaje": "Don Josechu",
       "clase": "warlock",
       "raider": false,
-      "nivel": 189,
+      "nivel": 192,
       "max": 225,
       "pct": 33
     },
@@ -63,7 +71,7 @@
       "personaje": "Reaper Dead",
       "clase": "paladin",
       "raider": false,
-      "nivel": 122,
+      "nivel": 123,
       "max": 150,
       "pct": 33
     },
@@ -87,8 +95,8 @@
       "personaje": "Tanki Llo",
       "clase": "warlock",
       "raider": false,
-      "nivel": 49,
-      "max": 75,
+      "nivel": 50,
+      "max": 150,
       "pct": 33
     },
     {
@@ -166,7 +174,8 @@
             8,
             9,
             10,
-            11
+            11,
+            12
           ]
         },
         {

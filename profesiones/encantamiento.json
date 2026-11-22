@@ -36,19 +36,19 @@
       "pct": 23
     },
     {
+      "personaje": "Kadeharz Apsus",
+      "clase": "mage",
+      "raider": false,
+      "nivel": 151,
+      "max": 225,
+      "pct": 8
+    },
+    {
       "personaje": "Saint Peligroxa",
       "clase": "priest",
       "raider": false,
       "nivel": 150,
       "max": 150,
-      "pct": 8
-    },
-    {
-      "personaje": "Kadeharz Apsus",
-      "clase": "mage",
-      "raider": false,
-      "nivel": 131,
-      "max": 225,
       "pct": 8
     },
     {
@@ -76,20 +76,20 @@
       "pct": 5
     },
     {
+      "personaje": "Tio Richard",
+      "clase": "paladin",
+      "raider": false,
+      "nivel": 34,
+      "max": 75,
+      "pct": 4
+    },
+    {
       "personaje": "Rhyomen Sukuna",
       "clase": "warlock",
       "raider": false,
       "nivel": 25,
       "max": 75,
       "pct": 3
-    },
-    {
-      "personaje": "Tio Richard",
-      "clase": "paladin",
-      "raider": false,
-      "nivel": 25,
-      "max": 75,
-      "pct": 4
     },
     {
       "personaje": "Thundrik Volgrim",
@@ -185,7 +185,7 @@
             1,
             2,
             3,
-            5,
+            4,
             6,
             8
           ]
@@ -245,7 +245,7 @@
           "quien": [
             0,
             2,
-            5
+            4
           ]
         },
         {
@@ -759,7 +759,9 @@
             ]
           ],
           "desc": "Encanta de forma permanente unos brazales para aumentar hasta 16 p. la sanación y hasta 6 p. el daño.",
-          "quien": []
+          "quien": [
+            3
+          ]
         }
       ]
     },
@@ -838,7 +840,7 @@
             5,
             6,
             8,
-            10
+            9
           ]
         },
         {
@@ -1459,7 +1461,7 @@
             1,
             2,
             3,
-            5,
+            4,
             6
           ]
         },
@@ -1524,7 +1526,7 @@
             1,
             2,
             3,
-            4
+            5
           ]
         },
         {
@@ -1875,7 +1877,7 @@
             1,
             2,
             3,
-            4,
+            5,
             6
           ]
         },
@@ -2433,7 +2435,7 @@
             1,
             2,
             3,
-            4,
+            5,
             6
           ]
         },
@@ -2809,7 +2811,7 @@
             1,
             2,
             3,
-            4
+            5
           ]
         },
         {
@@ -3313,7 +3315,8 @@
           "desc": "Encanta de forma permanente unos guantes para que concedan +2 de minería.",
           "quien": [
             0,
-            1
+            1,
+            4
           ]
         },
         {
@@ -4618,8 +4621,8 @@
             1,
             2,
             3,
-            5,
-            10,
+            4,
+            9,
             11
           ]
         },

@@ -20,10 +20,18 @@
       "pct": 71
     },
     {
+      "personaje": "Shiryoku Moonfury",
+      "clase": "warrior",
+      "raider": false,
+      "nivel": 269,
+      "max": 300,
+      "pct": 65
+    },
+    {
       "personaje": "Khyoraku Shunsui",
       "clase": "warrior",
       "raider": true,
-      "nivel": 228,
+      "nivel": 233,
       "max": 300,
       "pct": 53
     },
@@ -63,7 +71,7 @@
       "personaje": "Flexita Shadowsoul",
       "clase": "hunter",
       "raider": false,
-      "nivel": 202,
+      "nivel": 209,
       "max": 225,
       "pct": 53
     },
@@ -71,7 +79,7 @@
       "personaje": "Llamas Xx",
       "clase": "warrior",
       "raider": false,
-      "nivel": 202,
+      "nivel": 206,
       "max": 300,
       "pct": 53
     },
@@ -79,7 +87,7 @@
       "personaje": "Jonaver Legends",
       "clase": "mage",
       "raider": false,
-      "nivel": 152,
+      "nivel": 154,
       "max": 225,
       "pct": 35
     },
@@ -87,7 +95,7 @@
       "personaje": "Mosu Warryn",
       "clase": "warrior",
       "raider": false,
-      "nivel": 151,
+      "nivel": 153,
       "max": 225,
       "pct": 35
     },
@@ -100,20 +108,20 @@
       "pct": 35
     },
     {
+      "personaje": "Tommy Durum",
+      "clase": "druid",
+      "raider": false,
+      "nivel": 137,
+      "max": 150,
+      "pct": 12
+    },
+    {
       "personaje": "Tharindel Magnaluz",
       "clase": "paladin",
       "raider": false,
       "nivel": 133,
       "max": 225,
       "pct": 35
-    },
-    {
-      "personaje": "Tommy Durum",
-      "clase": "druid",
-      "raider": false,
-      "nivel": 130,
-      "max": 150,
-      "pct": 12
     },
     {
       "personaje": "Armando Buya",
@@ -124,18 +132,18 @@
       "pct": 35
     },
     {
-      "personaje": "Hugo Forjaluz",
+      "personaje": "Arthas Yevon",
       "clase": "paladin",
       "raider": false,
-      "nivel": 119,
+      "nivel": 120,
       "max": 150,
       "pct": 29
     },
     {
-      "personaje": "Arthas Yevon",
+      "personaje": "Hugo Forjaluz",
       "clase": "paladin",
       "raider": false,
-      "nivel": 114,
+      "nivel": 119,
       "max": 150,
       "pct": 29
     },
@@ -234,7 +242,8 @@
             15,
             16,
             17,
-            18
+            18,
+            19
           ]
         },
         {
@@ -284,7 +293,8 @@
             15,
             16,
             17,
-            18
+            18,
+            19
           ]
         },
         {
@@ -318,7 +328,8 @@
             5,
             6,
             7,
-            8
+            8,
+            9
           ]
         },
         {
@@ -359,7 +370,8 @@
             10,
             11,
             12,
-            14
+            14,
+            15
           ]
         },
         {
@@ -404,7 +416,8 @@
             15,
             16,
             17,
-            18
+            18,
+            19
           ]
         },
         {
@@ -443,7 +456,8 @@
             5,
             6,
             7,
-            8
+            8,
+            9
           ]
         },
         {
@@ -493,7 +507,8 @@
             19,
             20,
             21,
-            22
+            22,
+            23
           ]
         },
         {
@@ -521,7 +536,8 @@
             ]
           },
           "quien": [
-            1
+            1,
+            2
           ]
         },
         {
@@ -556,7 +572,8 @@
             5,
             6,
             7,
-            8
+            8,
+            9
           ]
         },
         {
@@ -610,7 +627,8 @@
             ]
           },
           "quien": [
-            1
+            1,
+            2
           ]
         },
         {
@@ -754,7 +772,8 @@
             17,
             18,
             19,
-            20
+            20,
+            21
           ]
         },
         {
@@ -788,7 +807,7 @@
             "sub": "Otros"
           },
           "quien": [
-            4
+            5
           ]
         },
         {

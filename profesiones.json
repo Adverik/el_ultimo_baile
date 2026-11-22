@@ -89,12 +89,12 @@
       "profesiones": [
         {
           "nombre": "Desuello",
-          "nivel": 146,
+          "nivel": 158,
           "max": 225
         },
         {
           "nombre": "Minería",
-          "nivel": 114,
+          "nivel": 120,
           "max": 150
         },
         {
@@ -169,6 +169,33 @@
       ]
     },
     {
+      "personaje": "Betadine Pervinox",
+      "clase": "paladin",
+      "raider": false,
+      "profesiones": [
+        {
+          "nombre": "Alquimia",
+          "nivel": 277,
+          "max": 300
+        },
+        {
+          "nombre": "Herboristería",
+          "nivel": 300,
+          "max": 300
+        },
+        {
+          "nombre": "Cocina",
+          "nivel": 225,
+          "max": 225
+        },
+        {
+          "nombre": "Pesca",
+          "nivel": 156,
+          "max": 225
+        }
+      ]
+    },
+    {
       "personaje": "Black Phanter",
       "clase": "druid",
       "raider": false,
@@ -234,7 +261,7 @@
         },
         {
           "nombre": "Cocina",
-          "nivel": 97,
+          "nivel": 107,
           "max": 150
         },
         {
@@ -244,7 +271,7 @@
         },
         {
           "nombre": "Primeros auxilios",
-          "nivel": 117,
+          "nivel": 124,
           "max": 150
         }
       ]
@@ -421,7 +448,7 @@
         },
         {
           "nombre": "Herboristería",
-          "nivel": 189,
+          "nivel": 192,
           "max": 225
         },
         {
@@ -723,27 +750,27 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 202,
+          "nivel": 209,
           "max": 225
         },
         {
           "nombre": "Ingeniería",
-          "nivel": 219,
+          "nivel": 235,
           "max": 300
         },
         {
           "nombre": "Cocina",
-          "nivel": 226,
+          "nivel": 230,
           "max": 300
         },
         {
           "nombre": "Pesca",
-          "nivel": 97,
+          "nivel": 101,
           "max": 150
         },
         {
           "nombre": "Primeros auxilios",
-          "nivel": 270,
+          "nivel": 272,
           "max": 300
         }
       ]
@@ -873,12 +900,12 @@
       "profesiones": [
         {
           "nombre": "Peletería",
-          "nivel": 148,
+          "nivel": 150,
           "max": 150
         },
         {
           "nombre": "Desuello",
-          "nivel": 229,
+          "nivel": 235,
           "max": 300
         },
         {
@@ -927,7 +954,7 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 152,
+          "nivel": 154,
           "max": 225
         },
         {
@@ -959,12 +986,12 @@
       "profesiones": [
         {
           "nombre": "Sastrería",
-          "nivel": 146,
+          "nivel": 162,
           "max": 225
         },
         {
           "nombre": "Encantamiento",
-          "nivel": 131,
+          "nivel": 151,
           "max": 225
         },
         {
@@ -981,7 +1008,7 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 228,
+          "nivel": 233,
           "max": 300
         },
         {
@@ -1077,7 +1104,7 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 202,
+          "nivel": 206,
           "max": 300
         },
         {
@@ -1109,12 +1136,12 @@
       "profesiones": [
         {
           "nombre": "Peletería",
-          "nivel": 193,
+          "nivel": 195,
           "max": 225
         },
         {
           "nombre": "Desuello",
-          "nivel": 272,
+          "nivel": 274,
           "max": 300
         },
         {
@@ -1146,7 +1173,7 @@
         },
         {
           "nombre": "Desuello",
-          "nivel": 240,
+          "nivel": 246,
           "max": 300
         },
         {
@@ -1205,13 +1232,13 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 151,
+          "nivel": 153,
           "max": 225
         },
         {
           "nombre": "Herrería",
-          "nivel": 145,
-          "max": 150
+          "nivel": 146,
+          "max": 225
         },
         {
           "nombre": "Cocina",
@@ -1237,7 +1264,7 @@
       "profesiones": [
         {
           "nombre": "Sastrería",
-          "nivel": 150,
+          "nivel": 153,
           "max": 225
         },
         {
@@ -1311,7 +1338,7 @@
         },
         {
           "nombre": "Pesca",
-          "nivel": 150,
+          "nivel": 165,
           "max": 225
         },
         {
@@ -1328,12 +1355,12 @@
       "profesiones": [
         {
           "nombre": "Desuello",
-          "nivel": 250,
+          "nivel": 251,
           "max": 300
         },
         {
           "nombre": "Herboristería",
-          "nivel": 122,
+          "nivel": 123,
           "max": 150
         },
         {
@@ -1377,12 +1404,12 @@
       "profesiones": [
         {
           "nombre": "Peletería",
-          "nivel": 161,
+          "nivel": 178,
           "max": 225
         },
         {
           "nombre": "Desuello",
-          "nivel": 262,
+          "nivel": 263,
           "max": 300
         },
         {
@@ -1494,6 +1521,38 @@
       ]
     },
     {
+      "personaje": "Shiryoku Moonfury",
+      "clase": "warrior",
+      "raider": false,
+      "profesiones": [
+        {
+          "nombre": "Minería",
+          "nivel": 269,
+          "max": 300
+        },
+        {
+          "nombre": "Herrería",
+          "nivel": 236,
+          "max": 300
+        },
+        {
+          "nombre": "Cocina",
+          "nivel": 297,
+          "max": 300
+        },
+        {
+          "nombre": "Pesca",
+          "nivel": 197,
+          "max": 225
+        },
+        {
+          "nombre": "Primeros auxilios",
+          "nivel": 270,
+          "max": 300
+        }
+      ]
+    },
+    {
       "personaje": "Sr Byron",
       "clase": "warlock",
       "raider": false,
@@ -1515,7 +1574,7 @@
         },
         {
           "nombre": "Pesca",
-          "nivel": 100,
+          "nivel": 106,
           "max": 150
         },
         {
@@ -1628,8 +1687,8 @@
         },
         {
           "nombre": "Herboristería",
-          "nivel": 49,
-          "max": 75
+          "nivel": 50,
+          "max": 150
         },
         {
           "nombre": "Cocina",
@@ -1714,7 +1773,7 @@
       "profesiones": [
         {
           "nombre": "Encantamiento",
-          "nivel": 25,
+          "nivel": 34,
           "max": 75
         },
         {
@@ -1734,7 +1793,7 @@
         },
         {
           "nombre": "Primeros auxilios",
-          "nivel": 131,
+          "nivel": 150,
           "max": 150
         }
       ]
@@ -1773,12 +1832,12 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 130,
+          "nivel": 137,
           "max": 150
         },
         {
           "nombre": "Herboristería",
-          "nivel": 253,
+          "nivel": 255,
           "max": 300
         },
         {
@@ -1827,6 +1886,7 @@
       "profesion": "Alquimia",
       "calidad": "common",
       "personajes": [
+        "Betadine Pervinox",
         "Fran Furion",
         "Sugar Papy"
       ]
@@ -1836,6 +1896,7 @@
       "profesion": "Alquimia",
       "calidad": "common",
       "personajes": [
+        "Betadine Pervinox",
         "Dio Hotmetal",
         "Don Josechu",
         "Fran Furion",
@@ -1849,6 +1910,7 @@
       "profesion": "Alquimia",
       "calidad": "common",
       "personajes": [
+        "Betadine Pervinox",
         "Dio Hotmetal",
         "Fran Furion",
         "Layrela Rondanit",
@@ -1860,6 +1922,7 @@
       "profesion": "Alquimia",
       "calidad": "uncommon",
       "personajes": [
+        "Betadine Pervinox",
         "Dio Hotmetal",
         "Don Josechu",
         "Fran Furion",
@@ -1883,6 +1946,7 @@
       "profesion": "Alquimia",
       "calidad": "common",
       "personajes": [
+        "Betadine Pervinox",
         "Fran Furion",
         "Sugar Papy"
       ]
@@ -1892,6 +1956,7 @@
       "profesion": "Alquimia",
       "calidad": "common",
       "personajes": [
+        "Betadine Pervinox",
         "Dio Hotmetal",
         "Sugar Papy"
       ]
@@ -1901,6 +1966,7 @@
       "profesion": "Alquimia",
       "calidad": "common",
       "personajes": [
+        "Betadine Pervinox",
         "Fran Furion",
         "Sugar Papy"
       ]
@@ -1910,6 +1976,7 @@
       "profesion": "Alquimia",
       "calidad": "common",
       "personajes": [
+        "Betadine Pervinox",
         "Dio Hotmetal",
         "Fran Furion",
         "Sugar Papy"
@@ -1920,6 +1987,7 @@
       "profesion": "Alquimia",
       "calidad": "common",
       "personajes": [
+        "Betadine Pervinox",
         "Dio Hotmetal",
         "Don Josechu",
         "Fran Furion",
@@ -1941,6 +2009,7 @@
       "profesion": "Alquimia",
       "calidad": "common",
       "personajes": [
+        "Betadine Pervinox",
         "Fran Furion",
         "Sugar Papy"
       ]
@@ -1950,6 +2019,7 @@
       "profesion": "Alquimia",
       "calidad": "common",
       "personajes": [
+        "Betadine Pervinox",
         "Dio Hotmetal",
         "Don Josechu",
         "Fran Furion",
@@ -1962,6 +2032,7 @@
       "profesion": "Alquimia",
       "calidad": "common",
       "personajes": [
+        "Betadine Pervinox",
         "Dio Hotmetal",
         "Fran Furion",
         "Layrela Rondanit",
@@ -1973,6 +2044,7 @@
       "profesion": "Alquimia",
       "calidad": "common",
       "personajes": [
+        "Betadine Pervinox",
         "Dio Hotmetal",
         "Don Josechu",
         "Fran Furion",
@@ -1982,10 +2054,19 @@
       ]
     },
     {
+      "nombre": "Elixir of Fortitude",
+      "profesion": "Alquimia",
+      "calidad": "common",
+      "personajes": [
+        "Betadine Pervinox"
+      ]
+    },
+    {
       "nombre": "Elixir of Greater Agility",
       "profesion": "Alquimia",
       "calidad": "common",
       "personajes": [
+        "Betadine Pervinox",
         "Fran Furion",
         "Sugar Papy"
       ]
@@ -1995,6 +2076,7 @@
       "profesion": "Alquimia",
       "calidad": "common",
       "personajes": [
+        "Betadine Pervinox",
         "Fran Furion",
         "Sugar Papy"
       ]
@@ -2012,6 +2094,7 @@
       "profesion": "Alquimia",
       "calidad": "common",
       "personajes": [
+        "Betadine Pervinox",
         "Dio Hotmetal",
         "Don Josechu",
         "Fran Furion",
@@ -2025,6 +2108,7 @@
       "profesion": "Alquimia",
       "calidad": "common",
       "personajes": [
+        "Betadine Pervinox",
         "Dio Hotmetal",
         "Don Josechu",
         "Fran Furion",
@@ -2046,6 +2130,7 @@
       "profesion": "Alquimia",
       "calidad": "common",
       "personajes": [
+        "Betadine Pervinox",
         "Dio Hotmetal",
         "Don Josechu",
         "Fran Furion",
@@ -2061,6 +2146,7 @@
       "profesion": "Alquimia",
       "calidad": "common",
       "personajes": [
+        "Betadine Pervinox",
         "Dio Hotmetal",
         "Don Josechu",
         "Fran Furion",
@@ -2076,6 +2162,7 @@
       "profesion": "Alquimia",
       "calidad": "common",
       "personajes": [
+        "Betadine Pervinox",
         "Dio Hotmetal",
         "Don Josechu",
         "Fran Furion",
@@ -2091,6 +2178,7 @@
       "profesion": "Alquimia",
       "calidad": "common",
       "personajes": [
+        "Betadine Pervinox",
         "Dio Hotmetal",
         "Don Josechu",
         "Fran Furion",
@@ -2106,6 +2194,7 @@
       "profesion": "Alquimia",
       "calidad": "common",
       "personajes": [
+        "Betadine Pervinox",
         "Sugar Papy"
       ]
     },
@@ -2114,6 +2203,7 @@
       "profesion": "Alquimia",
       "calidad": "common",
       "personajes": [
+        "Betadine Pervinox",
         "Dio Hotmetal",
         "Don Josechu",
         "Fran Furion",
@@ -2127,6 +2217,7 @@
       "profesion": "Alquimia",
       "calidad": "common",
       "personajes": [
+        "Betadine Pervinox",
         "Dio Hotmetal",
         "Don Josechu",
         "Fran Furion",
@@ -2149,6 +2240,7 @@
       "profesion": "Alquimia",
       "calidad": "common",
       "personajes": [
+        "Betadine Pervinox",
         "Dio Hotmetal",
         "Fran Furion",
         "Genethika Brisaveloz",
@@ -2171,6 +2263,7 @@
       "profesion": "Alquimia",
       "calidad": "common",
       "personajes": [
+        "Betadine Pervinox",
         "Dio Hotmetal",
         "Fran Furion"
       ]
@@ -2180,9 +2273,18 @@
       "profesion": "Alquimia",
       "calidad": "common",
       "personajes": [
+        "Betadine Pervinox",
         "Dio Hotmetal",
         "Fran Furion",
         "Sugar Papy"
+      ]
+    },
+    {
+      "nombre": "Goblin Rocket Fuel",
+      "profesion": "Alquimia",
+      "calidad": "common",
+      "personajes": [
+        "Betadine Pervinox"
       ]
     },
     {
@@ -2210,6 +2312,7 @@
       "profesion": "Alquimia",
       "calidad": "common",
       "personajes": [
+        "Betadine Pervinox",
         "Dio Hotmetal",
         "Fran Furion",
         "Layrela Rondanit",
@@ -2224,6 +2327,14 @@
         "Dio Hotmetal",
         "Genethika Brisaveloz",
         "Sugar Papy"
+      ]
+    },
+    {
+      "nombre": "Invisibility Potion",
+      "profesion": "Alquimia",
+      "calidad": "common",
+      "personajes": [
+        "Betadine Pervinox"
       ]
     },
     {
@@ -2248,6 +2359,7 @@
       "profesion": "Alquimia",
       "calidad": "common",
       "personajes": [
+        "Betadine Pervinox",
         "Dio Hotmetal",
         "Fran Furion",
         "Genethika Brisaveloz",
@@ -2260,6 +2372,7 @@
       "profesion": "Alquimia",
       "calidad": "common",
       "personajes": [
+        "Betadine Pervinox",
         "Dio Hotmetal",
         "Don Josechu",
         "Fran Furion",
@@ -2273,6 +2386,7 @@
       "profesion": "Alquimia",
       "calidad": "common",
       "personajes": [
+        "Betadine Pervinox",
         "Sugar Papy"
       ]
     },
@@ -2281,6 +2395,7 @@
       "profesion": "Alquimia",
       "calidad": "common",
       "personajes": [
+        "Betadine Pervinox",
         "Dio Hotmetal",
         "Don Josechu",
         "Fran Furion",
@@ -2290,10 +2405,19 @@
       ]
     },
     {
+      "nombre": "Limited Invulnerability Potion",
+      "profesion": "Alquimia",
+      "calidad": "common",
+      "personajes": [
+        "Betadine Pervinox"
+      ]
+    },
+    {
       "nombre": "Magenta Dye",
       "profesion": "Alquimia",
       "calidad": "uncommon",
       "personajes": [
+        "Betadine Pervinox",
         "Dio Hotmetal",
         "Don Josechu",
         "Fran Furion",
@@ -2307,6 +2431,7 @@
       "profesion": "Alquimia",
       "calidad": "common",
       "personajes": [
+        "Betadine Pervinox",
         "Dio Hotmetal"
       ]
     },
@@ -2323,6 +2448,7 @@
       "profesion": "Alquimia",
       "calidad": "common",
       "personajes": [
+        "Betadine Pervinox",
         "Dio Hotmetal",
         "Don Josechu",
         "Fran Furion",
@@ -2336,6 +2462,7 @@
       "profesion": "Alquimia",
       "calidad": "common",
       "personajes": [
+        "Betadine Pervinox",
         "Dio Hotmetal",
         "Don Josechu",
         "Fran Furion",
@@ -2351,6 +2478,7 @@
       "profesion": "Alquimia",
       "calidad": "common",
       "personajes": [
+        "Betadine Pervinox",
         "Dio Hotmetal",
         "Don Josechu",
         "Fran Furion",
@@ -2394,6 +2522,7 @@
       "profesion": "Alquimia",
       "calidad": "common",
       "personajes": [
+        "Betadine Pervinox",
         "Fran Furion"
       ]
     },
@@ -2402,6 +2531,7 @@
       "profesion": "Alquimia",
       "calidad": "common",
       "personajes": [
+        "Betadine Pervinox",
         "Dio Hotmetal",
         "Don Josechu",
         "Fran Furion",
@@ -2425,6 +2555,7 @@
       "profesion": "Alquimia",
       "calidad": "common",
       "personajes": [
+        "Betadine Pervinox",
         "Dio Hotmetal",
         "Don Josechu",
         "Fran Furion",
@@ -2448,6 +2579,7 @@
       "profesion": "Alquimia",
       "calidad": "common",
       "personajes": [
+        "Betadine Pervinox",
         "Dio Hotmetal",
         "Don Josechu",
         "Fran Furion",
@@ -2463,6 +2595,7 @@
       "profesion": "Alquimia",
       "calidad": "common",
       "personajes": [
+        "Betadine Pervinox",
         "Dio Hotmetal",
         "Fran Furion",
         "Layrela Rondanit",
@@ -2474,6 +2607,7 @@
       "profesion": "Alquimia",
       "calidad": "common",
       "personajes": [
+        "Betadine Pervinox",
         "Dio Hotmetal",
         "Fran Furion",
         "Layrela Rondanit",
@@ -2485,6 +2619,7 @@
       "profesion": "Alquimia",
       "calidad": "common",
       "personajes": [
+        "Betadine Pervinox",
         "Dio Hotmetal",
         "Fran Furion",
         "Sugar Papy"
@@ -2495,6 +2630,7 @@
       "profesion": "Alquimia",
       "calidad": "common",
       "personajes": [
+        "Betadine Pervinox",
         "Fran Furion",
         "Genethika Brisaveloz",
         "Layrela Rondanit"
@@ -2521,6 +2657,7 @@
       "profesion": "Alquimia",
       "calidad": "common",
       "personajes": [
+        "Betadine Pervinox",
         "Fran Furion",
         "Sugar Papy"
       ]
@@ -2530,6 +2667,7 @@
       "profesion": "Alquimia",
       "calidad": "uncommon",
       "personajes": [
+        "Betadine Pervinox",
         "Dio Hotmetal",
         "Don Josechu",
         "Fran Furion",
@@ -2558,10 +2696,19 @@
       ]
     },
     {
+      "nombre": "Swiftness Potion",
+      "profesion": "Alquimia",
+      "calidad": "common",
+      "personajes": [
+        "Betadine Pervinox"
+      ]
+    },
+    {
       "nombre": "Swim Speed Potion",
       "profesion": "Alquimia",
       "calidad": "common",
       "personajes": [
+        "Betadine Pervinox",
         "Dio Hotmetal",
         "Don Josechu",
         "Fran Furion",
@@ -2575,6 +2722,7 @@
       "profesion": "Alquimia",
       "calidad": "uncommon",
       "personajes": [
+        "Betadine Pervinox",
         "Dio Hotmetal"
       ]
     },
@@ -2583,9 +2731,18 @@
       "profesion": "Alquimia",
       "calidad": "uncommon",
       "personajes": [
+        "Betadine Pervinox",
         "Dio Hotmetal",
         "Fran Furion",
         "Sugar Papy"
+      ]
+    },
+    {
+      "nombre": "Transmute: Legionite",
+      "profesion": "Alquimia",
+      "calidad": "uncommon",
+      "personajes": [
+        "Betadine Pervinox"
       ]
     },
     {
@@ -2593,6 +2750,7 @@
       "profesion": "Alquimia",
       "calidad": "uncommon",
       "personajes": [
+        "Betadine Pervinox",
         "Dio Hotmetal",
         "Fran Furion",
         "Sugar Papy"
@@ -2612,6 +2770,7 @@
       "profesion": "Alquimia",
       "calidad": "uncommon",
       "personajes": [
+        "Betadine Pervinox",
         "Dio Hotmetal",
         "Fran Furion",
         "Sugar Papy"
@@ -2622,7 +2781,9 @@
       "profesion": "Alquimia",
       "calidad": "common",
       "personajes": [
-        "Dio Hotmetal"
+        "Betadine Pervinox",
+        "Dio Hotmetal",
+        "Fran Furion"
       ]
     },
     {
@@ -2640,6 +2801,7 @@
         "Layrela Rondanit",
         "Mosu Warryn",
         "Runa Ruina",
+        "Shiryoku Moonfury",
         "Sugar Papy"
       ]
     },
@@ -2654,6 +2816,7 @@
         "Arthas Yevon",
         "Aurelio Amador",
         "Aynita Again",
+        "Betadine Pervinox",
         "Black Phanter",
         "Blind Minds",
         "Breezy Reaver",
@@ -2699,6 +2862,7 @@
         "Saint Peligroxa",
         "Samael Thallanor",
         "Señor Ollivander",
+        "Shiryoku Moonfury",
         "Sr Byron",
         "Sugar Papy",
         "Takkaao Valengri",
@@ -2744,7 +2908,8 @@
         "Espartaco Gladiador",
         "Jonaver Legends",
         "Khyoraku Shunsui",
-        "Mosu Warryn"
+        "Mosu Warryn",
+        "Shiryoku Moonfury"
       ]
     },
     {
@@ -2777,6 +2942,7 @@
         "Archi Amnesia",
         "Arthas Yevon",
         "Aurelio Amador",
+        "Betadine Pervinox",
         "Breezy Reaver",
         "Chaca Choochoo",
         "Coloso Tempestad",
@@ -2802,6 +2968,7 @@
         "Reaper Dead",
         "Runa Ruina",
         "Samael Thallanor",
+        "Shiryoku Moonfury",
         "Sr Byron",
         "Sugar Papy",
         "Tankesito Khrih",
@@ -2815,6 +2982,7 @@
       "calidad": "common",
       "personajes": [
         "Arthas Yevon",
+        "Betadine Pervinox",
         "Breezy Reaver",
         "Coloso Tempestad",
         "Diana Flechaveloz",
@@ -2822,6 +2990,7 @@
         "Elfa Vorable",
         "Flexita Shadowsoul",
         "Ildaren Belisar",
+        "Shiryoku Moonfury",
         "Sugar Papy"
       ]
     },
@@ -2831,6 +3000,7 @@
       "calidad": "common",
       "personajes": [
         "Arthas Yevon",
+        "Betadine Pervinox",
         "Breezy Reaver",
         "Coloso Tempestad",
         "Cuzcu Aker",
@@ -2853,6 +3023,7 @@
         "Nimassus Pater",
         "Nindalf Pizpireta",
         "Palmira Natblida",
+        "Shiryoku Moonfury",
         "Sr Byron",
         "Sugar Papy",
         "Tankesito Khrih",
@@ -2865,6 +3036,7 @@
       "profesion": "Cocina",
       "calidad": "common",
       "personajes": [
+        "Betadine Pervinox",
         "Chaca Choochoo",
         "Cuzcu Aker",
         "Dum Bo",
@@ -2877,6 +3049,7 @@
         "Layrela Rondanit",
         "Palmira Natblida",
         "Runa Ruina",
+        "Shiryoku Moonfury",
         "Sugar Papy"
       ]
     },
@@ -2886,6 +3059,7 @@
       "calidad": "common",
       "personajes": [
         "Archi Amnesia",
+        "Betadine Pervinox",
         "Coloso Tempestad",
         "Diana Flechaveloz",
         "Dum Bo",
@@ -2898,6 +3072,7 @@
         "Memas Tour",
         "Mosu Warryn",
         "Palmira Natblida",
+        "Shiryoku Moonfury",
         "Sugar Papy",
         "Tankesito Khrih"
       ]
@@ -2921,6 +3096,7 @@
         "Arthas Yevon",
         "Aurelio Amador",
         "Aynita Again",
+        "Betadine Pervinox",
         "Black Phanter",
         "Blind Minds",
         "Breezy Reaver",
@@ -2966,6 +3142,7 @@
         "Saint Peligroxa",
         "Samael Thallanor",
         "Señor Ollivander",
+        "Shiryoku Moonfury",
         "Sr Byron",
         "Sugar Papy",
         "Takkaao Valengri",
@@ -2984,8 +3161,10 @@
       "profesion": "Cocina",
       "calidad": "common",
       "personajes": [
+        "Betadine Pervinox",
         "Mosu Warryn",
-        "Runa Ruina"
+        "Runa Ruina",
+        "Shiryoku Moonfury"
       ]
     },
     {
@@ -3038,6 +3217,7 @@
         "Archi Amnesia",
         "Arthas Yevon",
         "Aurelio Amador",
+        "Betadine Pervinox",
         "Breezy Reaver",
         "Chaca Choochoo",
         "Coloso Tempestad",
@@ -3062,6 +3242,7 @@
         "Reaper Dead",
         "Runa Ruina",
         "Samael Thallanor",
+        "Shiryoku Moonfury",
         "Sr Byron",
         "Sugar Papy",
         "Tankesito Khrih",
@@ -3076,6 +3257,7 @@
       "personajes": [
         "Archi Amnesia",
         "Arthas Yevon",
+        "Betadine Pervinox",
         "Breezy Reaver",
         "Chaca Choochoo",
         "Coloso Tempestad",
@@ -3098,6 +3280,7 @@
         "Reaper Dead",
         "Runa Ruina",
         "Samael Thallanor",
+        "Shiryoku Moonfury",
         "Sr Byron",
         "Sugar Papy",
         "Tankesito Khrih",
@@ -3128,6 +3311,7 @@
         "Nimassus Pater",
         "Palmira Natblida",
         "Runa Ruina",
+        "Shiryoku Moonfury",
         "Sr Byron",
         "Sugar Papy"
       ]
@@ -3164,6 +3348,7 @@
         "Mosu Warryn",
         "Palmira Natblida",
         "Runa Ruina",
+        "Shiryoku Moonfury",
         "Sugar Papy"
       ]
     },
@@ -3175,6 +3360,7 @@
         "Althez Sendagris",
         "Archi Amnesia",
         "Arthas Yevon",
+        "Betadine Pervinox",
         "Breezy Reaver",
         "Chaca Choochoo",
         "Coloso Tempestad",
@@ -3197,6 +3383,7 @@
         "Reaper Dead",
         "Runa Ruina",
         "Samael Thallanor",
+        "Shiryoku Moonfury",
         "Sr Byron",
         "Sugar Papy",
         "Tankesito Khrih",
@@ -3217,11 +3404,13 @@
       "profesion": "Cocina",
       "calidad": "common",
       "personajes": [
+        "Betadine Pervinox",
         "Dio Hotmetal",
         "Edoras Duskranger",
         "Ildaren Belisar",
         "Mosu Warryn",
         "Runa Ruina",
+        "Shiryoku Moonfury",
         "Sr Byron",
         "Tom Kha"
       ]
@@ -3231,6 +3420,7 @@
       "profesion": "Cocina",
       "calidad": "common",
       "personajes": [
+        "Betadine Pervinox",
         "Espartaco Gladiador"
       ]
     },
@@ -3249,6 +3439,7 @@
       "personajes": [
         "Althez Sendagris",
         "Archi Amnesia",
+        "Betadine Pervinox",
         "Cuzcu Aker",
         "Diana Flechaveloz",
         "Dum Bo",
@@ -3256,6 +3447,7 @@
         "Elfa Vorable",
         "Espartaco Gladiador",
         "Finn Felagund",
+        "Flexita Shadowsoul",
         "Ildaren Belisar",
         "Jonaver Legends",
         "Khyoraku Shunsui",
@@ -3266,6 +3458,7 @@
         "Palmira Natblida",
         "Reaper Dead",
         "Runa Ruina",
+        "Shiryoku Moonfury",
         "Sr Byron",
         "Sugar Papy",
         "Tankesito Khrih",
@@ -3279,6 +3472,8 @@
       "personajes": [
         "Edoras Duskranger",
         "Flexita Shadowsoul",
+        "Runa Ruina",
+        "Shiryoku Moonfury",
         "Sugar Papy"
       ]
     },
@@ -3289,6 +3484,7 @@
       "personajes": [
         "Althez Sendagris",
         "Archi Amnesia",
+        "Arthas Yevon",
         "Chaca Choochoo",
         "Cuzcu Aker",
         "Diana Flechaveloz",
@@ -3341,7 +3537,8 @@
       "profesion": "Cocina",
       "calidad": "common",
       "personajes": [
-        "Edoras Duskranger"
+        "Edoras Duskranger",
+        "Shiryoku Moonfury"
       ]
     },
     {
@@ -3365,6 +3562,7 @@
         "Arthas Yevon",
         "Aurelio Amador",
         "Aynita Again",
+        "Betadine Pervinox",
         "Black Phanter",
         "Blind Minds",
         "Breezy Reaver",
@@ -3410,6 +3608,7 @@
         "Saint Peligroxa",
         "Samael Thallanor",
         "Señor Ollivander",
+        "Shiryoku Moonfury",
         "Sr Byron",
         "Sugar Papy",
         "Takkaao Valengri",
@@ -3459,7 +3658,8 @@
         "Edoras Duskranger",
         "Espartaco Gladiador",
         "Flexita Shadowsoul",
-        "Layrela Rondanit"
+        "Layrela Rondanit",
+        "Shiryoku Moonfury"
       ]
     },
     {
@@ -3472,7 +3672,8 @@
         "Finn Felagund",
         "Flexita Shadowsoul",
         "Ildaren Belisar",
-        "La Pety"
+        "La Pety",
+        "Shiryoku Moonfury"
       ]
     },
     {
@@ -3486,7 +3687,8 @@
         "Jonaver Legends",
         "Khyoraku Shunsui",
         "Mosu Warryn",
-        "Reaper Dead"
+        "Reaper Dead",
+        "Shiryoku Moonfury"
       ]
     },
     {
@@ -3538,6 +3740,7 @@
       "profesion": "Cocina",
       "calidad": "common",
       "personajes": [
+        "Betadine Pervinox",
         "Diana Flechaveloz",
         "Dum Bo",
         "Elfa Vorable",
@@ -3545,6 +3748,7 @@
         "Finn Felagund",
         "Layrela Rondanit",
         "Mosu Warryn",
+        "Shiryoku Moonfury",
         "Sugar Papy"
       ]
     },
@@ -3553,7 +3757,8 @@
       "profesion": "Cocina",
       "calidad": "common",
       "personajes": [
-        "Edoras Duskranger"
+        "Edoras Duskranger",
+        "Flexita Shadowsoul"
       ]
     },
     {
@@ -3572,6 +3777,7 @@
         "Althez Sendagris",
         "Archi Amnesia",
         "Arthas Yevon",
+        "Betadine Pervinox",
         "Breezy Reaver",
         "Chaca Choochoo",
         "Coloso Tempestad",
@@ -3589,6 +3795,7 @@
         "Manelhon Gargon",
         "Palmira Natblida",
         "Reaper Dead",
+        "Shiryoku Moonfury",
         "Sr Byron",
         "Sugar Papy"
       ]
@@ -3652,10 +3859,19 @@
       ]
     },
     {
+      "nombre": "Poached Sunscale Salmon",
+      "profesion": "Cocina",
+      "calidad": "common",
+      "personajes": [
+        "Shiryoku Moonfury"
+      ]
+    },
+    {
       "nombre": "Rainbow Fin Albacore",
       "profesion": "Cocina",
       "calidad": "common",
       "personajes": [
+        "Betadine Pervinox",
         "Coloso Tempestad",
         "Diana Flechaveloz",
         "Dio Hotmetal",
@@ -3675,6 +3891,7 @@
         "Mosu Warryn",
         "Palmira Natblida",
         "Runa Ruina",
+        "Shiryoku Moonfury",
         "Sr Byron",
         "Sugar Papy",
         "Tom Kha"
@@ -3688,6 +3905,7 @@
         "Althez Sendagris",
         "Archi Amnesia",
         "Arthas Yevon",
+        "Breezy Reaver",
         "Chaca Choochoo",
         "Diana Flechaveloz",
         "Dum Bo",
@@ -3716,7 +3934,8 @@
         "Flexita Shadowsoul",
         "Layrela Rondanit",
         "Manelhon Gargon",
-        "Mosu Warryn"
+        "Mosu Warryn",
+        "Shiryoku Moonfury"
       ]
     },
     {
@@ -3730,6 +3949,7 @@
         "Arthas Yevon",
         "Aurelio Amador",
         "Aynita Again",
+        "Betadine Pervinox",
         "Black Phanter",
         "Blind Minds",
         "Breezy Reaver",
@@ -3775,6 +3995,7 @@
         "Saint Peligroxa",
         "Samael Thallanor",
         "Señor Ollivander",
+        "Shiryoku Moonfury",
         "Sr Byron",
         "Sugar Papy",
         "Takkaao Valengri",
@@ -3793,13 +4014,15 @@
       "profesion": "Cocina",
       "calidad": "common",
       "personajes": [
+        "Betadine Pervinox",
         "Diana Flechaveloz",
         "Dum Bo",
         "Elfa Vorable",
         "Espartaco Gladiador",
         "Finn Felagund",
         "Layrela Rondanit",
-        "Mosu Warryn"
+        "Mosu Warryn",
+        "Shiryoku Moonfury"
       ]
     },
     {
@@ -3808,6 +4031,7 @@
       "calidad": "common",
       "personajes": [
         "Althez Sendagris",
+        "Betadine Pervinox",
         "Coloso Tempestad",
         "Cuzcu Aker",
         "Edoras Duskranger",
@@ -3816,6 +4040,7 @@
         "Layrela Rondanit",
         "Manelhon Gargon",
         "Memas Tour",
+        "Mosu Warryn",
         "Nimassus Pater",
         "Palmira Natblida",
         "Reaper Dead",
@@ -3835,6 +4060,7 @@
       "profesion": "Cocina",
       "calidad": "common",
       "personajes": [
+        "Betadine Pervinox",
         "Cuzcu Aker",
         "Dum Bo",
         "Edoras Duskranger",
@@ -3843,6 +4069,7 @@
         "Layrela Rondanit",
         "Manelhon Gargon",
         "Palmira Natblida",
+        "Shiryoku Moonfury",
         "Sugar Papy"
       ]
     },
@@ -3870,6 +4097,8 @@
       "personajes": [
         "Althez Sendagris",
         "Archi Amnesia",
+        "Betadine Pervinox",
+        "Breezy Reaver",
         "Chaca Choochoo",
         "Cuzcu Aker",
         "Diana Flechaveloz",
@@ -3932,6 +4161,7 @@
         "Palmira Natblida",
         "Reaper Dead",
         "Samael Thallanor",
+        "Shiryoku Moonfury",
         "Tharindel Magnaluz",
         "Tom Kha"
       ]
@@ -3952,6 +4182,7 @@
       "calidad": "common",
       "personajes": [
         "Archi Amnesia",
+        "Betadine Pervinox",
         "Coloso Tempestad",
         "Diana Flechaveloz",
         "Dum Bo",
@@ -3971,6 +4202,7 @@
         "Reaper Dead",
         "Runa Ruina",
         "Samael Thallanor",
+        "Shiryoku Moonfury",
         "Sr Byron",
         "Sugar Papy",
         "Tharindel Magnaluz"
@@ -3981,6 +4213,7 @@
       "profesion": "Cocina",
       "calidad": "common",
       "personajes": [
+        "Betadine Pervinox",
         "Chaca Choochoo",
         "Cuzcu Aker",
         "Diana Flechaveloz",
@@ -4004,6 +4237,7 @@
         "Arthas Yevon",
         "Aurelio Amador",
         "Aynita Again",
+        "Betadine Pervinox",
         "Breezy Reaver",
         "Chaca Choochoo",
         "Coloso Tempestad",
@@ -4035,6 +4269,7 @@
         "Reaper Dead",
         "Runa Ruina",
         "Samael Thallanor",
+        "Shiryoku Moonfury",
         "Sr Byron",
         "Sugar Papy",
         "Takkaao Valengri",
@@ -4052,10 +4287,12 @@
         "Edoras Duskranger",
         "Espartaco Gladiador",
         "Finn Felagund",
+        "Flexita Shadowsoul",
         "Khyoraku Shunsui",
         "La Pety",
         "Layrela Rondanit",
         "Runa Ruina",
+        "Shiryoku Moonfury",
         "Sugar Papy"
       ]
     },
@@ -4065,7 +4302,8 @@
       "calidad": "common",
       "personajes": [
         "Edoras Duskranger",
-        "Finn Felagund"
+        "Finn Felagund",
+        "Shiryoku Moonfury"
       ]
     },
     {
@@ -4078,6 +4316,7 @@
         "Ildaren Belisar",
         "Kadeharz Apsus",
         "Layrela Rondanit",
+        "Shiryoku Moonfury",
         "Tom Kha"
       ]
     },
@@ -4098,6 +4337,7 @@
       "personajes": [
         "Althez Sendagris",
         "Archi Amnesia",
+        "Betadine Pervinox",
         "Chaca Choochoo",
         "Cuzcu Aker",
         "Diana Flechaveloz",
@@ -4135,6 +4375,7 @@
         "Mosu Warryn",
         "Palmira Natblida",
         "Runa Ruina",
+        "Shiryoku Moonfury",
         "Tommy Durum"
       ]
     },
@@ -4512,6 +4753,14 @@
       "personajes": [
         "Finn Felagund",
         "Sr Byron"
+      ]
+    },
+    {
+      "nombre": "Enchant Bracer - Lesser Healing Power",
+      "profesion": "Encantamiento",
+      "calidad": "common",
+      "personajes": [
+        "Elfa Vorable"
       ]
     },
     {
@@ -4955,6 +5204,7 @@
       "calidad": "common",
       "personajes": [
         "Finn Felagund",
+        "Kadeharz Apsus",
         "Sr Byron"
       ]
     },
@@ -5348,6 +5598,7 @@
       "profesion": "Herboristería",
       "calidad": "common",
       "personajes": [
+        "Betadine Pervinox",
         "Dio Hotmetal",
         "Fran Furion",
         "Layrela Rondanit",
@@ -5360,6 +5611,7 @@
       "profesion": "Herboristería",
       "calidad": "common",
       "personajes": [
+        "Betadine Pervinox",
         "Dio Hotmetal",
         "Don Josechu",
         "Fran Furion",
@@ -5369,6 +5621,7 @@
         "Reaper Dead",
         "Sugar Papy",
         "Takkaao Valengri",
+        "Tanki Llo",
         "Tommy Durum"
       ]
     },
@@ -5377,6 +5630,7 @@
       "profesion": "Herboristería",
       "calidad": "common",
       "personajes": [
+        "Betadine Pervinox",
         "Dio Hotmetal",
         "Fran Furion",
         "Layrela Rondanit",
@@ -5391,18 +5645,7 @@
       "personajes": [
         "Grimmjow Jaegerjakez",
         "Reaper Dead",
-        "Takkaao Valengri"
-      ]
-    },
-    {
-      "nombre": "Herbalism",
-      "profesion": "Herboristería",
-      "calidad": "common",
-      "personajes": [
-        "Aynita Again",
-        "Black Phanter",
-        "Blind Minds",
-        "Fitipaldi Sendaumbria",
+        "Takkaao Valengri",
         "Tanki Llo"
       ]
     },
@@ -5414,8 +5657,18 @@
         "Aynita Again",
         "Black Phanter",
         "Blind Minds",
-        "Fitipaldi Sendaumbria",
-        "Tanki Llo"
+        "Fitipaldi Sendaumbria"
+      ]
+    },
+    {
+      "nombre": "Herbalism",
+      "profesion": "Herboristería",
+      "calidad": "common",
+      "personajes": [
+        "Aynita Again",
+        "Black Phanter",
+        "Blind Minds",
+        "Fitipaldi Sendaumbria"
       ]
     },
     {
@@ -5442,6 +5695,7 @@
       "calidad": "common",
       "personajes": [
         "Aynita Again",
+        "Betadine Pervinox",
         "Dio Hotmetal",
         "Don Josechu",
         "Fran Furion",
@@ -5476,7 +5730,8 @@
       "profesion": "Herrería",
       "calidad": "uncommon",
       "personajes": [
-        "Coloso Tempestad"
+        "Coloso Tempestad",
+        "Shiryoku Moonfury"
       ]
     },
     {
@@ -5492,6 +5747,7 @@
         "Khyoraku Shunsui",
         "Llamas Xx",
         "Mosu Warryn",
+        "Shiryoku Moonfury",
         "Tharindel Magnaluz"
       ]
     },
@@ -5500,7 +5756,8 @@
       "profesion": "Herrería",
       "calidad": "uncommon",
       "personajes": [
-        "Coloso Tempestad"
+        "Coloso Tempestad",
+        "Shiryoku Moonfury"
       ]
     },
     {
@@ -5515,6 +5772,7 @@
         "Hugo Forjaluz",
         "Khyoraku Shunsui",
         "Llamas Xx",
+        "Shiryoku Moonfury",
         "Tharindel Magnaluz"
       ]
     },
@@ -5527,6 +5785,7 @@
         "Hugo Forjaluz",
         "Khyoraku Shunsui",
         "Llamas Xx",
+        "Shiryoku Moonfury",
         "Tharindel Magnaluz"
       ]
     },
@@ -5539,6 +5798,7 @@
         "Hugo Forjaluz",
         "Khyoraku Shunsui",
         "Llamas Xx",
+        "Shiryoku Moonfury",
         "Tharindel Magnaluz"
       ]
     },
@@ -5554,6 +5814,7 @@
         "Khyoraku Shunsui",
         "Llamas Xx",
         "Mosu Warryn",
+        "Shiryoku Moonfury",
         "Tharindel Magnaluz"
       ]
     },
@@ -5568,6 +5829,7 @@
         "Hugo Forjaluz",
         "Khyoraku Shunsui",
         "Llamas Xx",
+        "Shiryoku Moonfury",
         "Tharindel Magnaluz"
       ]
     },
@@ -5582,6 +5844,7 @@
         "Hugo Forjaluz",
         "Khyoraku Shunsui",
         "Llamas Xx",
+        "Shiryoku Moonfury",
         "Tharindel Magnaluz"
       ]
     },
@@ -5600,6 +5863,7 @@
         "Khyoraku Shunsui",
         "Llamas Xx",
         "Mosu Warryn",
+        "Shiryoku Moonfury",
         "Tharindel Magnaluz"
       ]
     },
@@ -5617,6 +5881,7 @@
         "Khyoraku Shunsui",
         "Llamas Xx",
         "Mosu Warryn",
+        "Shiryoku Moonfury",
         "Tharindel Magnaluz"
       ]
     },
@@ -5635,6 +5900,7 @@
         "Khyoraku Shunsui",
         "Llamas Xx",
         "Mosu Warryn",
+        "Shiryoku Moonfury",
         "Tharindel Magnaluz"
       ]
     },
@@ -5652,6 +5918,7 @@
         "Hugo Forjaluz",
         "Khyoraku Shunsui",
         "Llamas Xx",
+        "Shiryoku Moonfury",
         "Tharindel Magnaluz"
       ]
     },
@@ -5667,6 +5934,7 @@
         "Hugo Forjaluz",
         "Khyoraku Shunsui",
         "Llamas Xx",
+        "Shiryoku Moonfury",
         "Tharindel Magnaluz"
       ]
     },
@@ -5685,6 +5953,7 @@
         "Khyoraku Shunsui",
         "Llamas Xx",
         "Mosu Warryn",
+        "Shiryoku Moonfury",
         "Tharindel Magnaluz"
       ]
     },
@@ -5703,6 +5972,7 @@
         "Khyoraku Shunsui",
         "Llamas Xx",
         "Mosu Warryn",
+        "Shiryoku Moonfury",
         "Tharindel Magnaluz"
       ]
     },
@@ -5720,6 +5990,7 @@
         "Khyoraku Shunsui",
         "Llamas Xx",
         "Mosu Warryn",
+        "Shiryoku Moonfury",
         "Tharindel Magnaluz"
       ]
     },
@@ -5738,6 +6009,7 @@
         "Khyoraku Shunsui",
         "Llamas Xx",
         "Mosu Warryn",
+        "Shiryoku Moonfury",
         "Tharindel Magnaluz"
       ]
     },
@@ -5765,6 +6037,7 @@
         "Hugo Forjaluz",
         "Khyoraku Shunsui",
         "Llamas Xx",
+        "Shiryoku Moonfury",
         "Tharindel Magnaluz"
       ]
     },
@@ -5781,6 +6054,7 @@
         "Hugo Forjaluz",
         "Khyoraku Shunsui",
         "Llamas Xx",
+        "Shiryoku Moonfury",
         "Tharindel Magnaluz"
       ]
     },
@@ -5799,6 +6073,7 @@
         "Khyoraku Shunsui",
         "Llamas Xx",
         "Mosu Warryn",
+        "Shiryoku Moonfury",
         "Tharindel Magnaluz"
       ]
     },
@@ -5817,6 +6092,7 @@
         "Khyoraku Shunsui",
         "Llamas Xx",
         "Mosu Warryn",
+        "Shiryoku Moonfury",
         "Tharindel Magnaluz"
       ]
     },
@@ -5834,6 +6110,7 @@
         "Khyoraku Shunsui",
         "Llamas Xx",
         "Mosu Warryn",
+        "Shiryoku Moonfury",
         "Tharindel Magnaluz"
       ]
     },
@@ -5858,7 +6135,8 @@
       "profesion": "Herrería",
       "calidad": "common",
       "personajes": [
-        "Coloso Tempestad"
+        "Coloso Tempestad",
+        "Shiryoku Moonfury"
       ]
     },
     {
@@ -5866,7 +6144,8 @@
       "profesion": "Herrería",
       "calidad": "common",
       "personajes": [
-        "Coloso Tempestad"
+        "Coloso Tempestad",
+        "Shiryoku Moonfury"
       ]
     },
     {
@@ -5874,7 +6153,16 @@
       "profesion": "Herrería",
       "calidad": "common",
       "personajes": [
-        "Coloso Tempestad"
+        "Coloso Tempestad",
+        "Shiryoku Moonfury"
+      ]
+    },
+    {
+      "nombre": "Frost Tiger Blade",
+      "profesion": "Herrería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Shiryoku Moonfury"
       ]
     },
     {
@@ -5892,6 +6180,7 @@
         "Khyoraku Shunsui",
         "Llamas Xx",
         "Mosu Warryn",
+        "Shiryoku Moonfury",
         "Tharindel Magnaluz"
       ]
     },
@@ -5901,7 +6190,8 @@
       "calidad": "uncommon",
       "personajes": [
         "Althez Sendagris",
-        "Armando Buya"
+        "Armando Buya",
+        "Shiryoku Moonfury"
       ]
     },
     {
@@ -5925,6 +6215,7 @@
         "Hugo Forjaluz",
         "Khyoraku Shunsui",
         "Llamas Xx",
+        "Shiryoku Moonfury",
         "Tharindel Magnaluz"
       ]
     },
@@ -5937,6 +6228,7 @@
         "Espartaco Gladiador",
         "Khyoraku Shunsui",
         "Mosu Warryn",
+        "Shiryoku Moonfury",
         "Tharindel Magnaluz"
       ]
     },
@@ -5948,7 +6240,8 @@
         "Althez Sendagris",
         "Coloso Tempestad",
         "Espartaco Gladiador",
-        "Khyoraku Shunsui"
+        "Khyoraku Shunsui",
+        "Shiryoku Moonfury"
       ]
     },
     {
@@ -5961,11 +6254,20 @@
       ]
     },
     {
+      "nombre": "Golden Scale Cuirass",
+      "profesion": "Herrería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Shiryoku Moonfury"
+      ]
+    },
+    {
       "nombre": "Golden Scale Gauntlets",
       "profesion": "Herrería",
       "calidad": "uncommon",
       "personajes": [
-        "Coloso Tempestad"
+        "Coloso Tempestad",
+        "Shiryoku Moonfury"
       ]
     },
     {
@@ -5978,6 +6280,7 @@
         "Khyoraku Shunsui",
         "Llamas Xx",
         "Mosu Warryn",
+        "Shiryoku Moonfury",
         "Tharindel Magnaluz"
       ]
     },
@@ -5989,7 +6292,9 @@
         "Althez Sendagris",
         "Coloso Tempestad",
         "Espartaco Gladiador",
-        "Khyoraku Shunsui"
+        "Khyoraku Shunsui",
+        "Mosu Warryn",
+        "Shiryoku Moonfury"
       ]
     },
     {
@@ -6007,7 +6312,8 @@
       "personajes": [
         "Coloso Tempestad",
         "Espartaco Gladiador",
-        "Khyoraku Shunsui"
+        "Khyoraku Shunsui",
+        "Shiryoku Moonfury"
       ]
     },
     {
@@ -6018,7 +6324,8 @@
         "Althez Sendagris",
         "Coloso Tempestad",
         "Espartaco Gladiador",
-        "Khyoraku Shunsui"
+        "Khyoraku Shunsui",
+        "Shiryoku Moonfury"
       ]
     },
     {
@@ -6029,7 +6336,8 @@
         "Althez Sendagris",
         "Coloso Tempestad",
         "Espartaco Gladiador",
-        "Khyoraku Shunsui"
+        "Khyoraku Shunsui",
+        "Shiryoku Moonfury"
       ]
     },
     {
@@ -6045,7 +6353,16 @@
       "profesion": "Herrería",
       "calidad": "rare",
       "personajes": [
-        "Llamas Xx"
+        "Llamas Xx",
+        "Shiryoku Moonfury"
+      ]
+    },
+    {
+      "nombre": "Guard's Chain Leggings",
+      "profesion": "Herrería",
+      "calidad": "rare",
+      "personajes": [
+        "Mosu Warryn"
       ]
     },
     {
@@ -6087,7 +6404,8 @@
       "calidad": "uncommon",
       "personajes": [
         "Coloso Tempestad",
-        "Khyoraku Shunsui"
+        "Khyoraku Shunsui",
+        "Shiryoku Moonfury"
       ]
     },
     {
@@ -6098,6 +6416,7 @@
         "Coloso Tempestad",
         "Hugo Forjaluz",
         "Khyoraku Shunsui",
+        "Shiryoku Moonfury",
         "Tharindel Magnaluz"
       ]
     },
@@ -6112,6 +6431,7 @@
         "Farhan Ironbeard",
         "Hugo Forjaluz",
         "Khyoraku Shunsui",
+        "Shiryoku Moonfury",
         "Tharindel Magnaluz"
       ]
     },
@@ -6129,6 +6449,7 @@
         "Hugo Forjaluz",
         "Khyoraku Shunsui",
         "Llamas Xx",
+        "Shiryoku Moonfury",
         "Tharindel Magnaluz"
       ]
     },
@@ -6145,6 +6466,7 @@
         "Khyoraku Shunsui",
         "Llamas Xx",
         "Mosu Warryn",
+        "Shiryoku Moonfury",
         "Tharindel Magnaluz"
       ]
     },
@@ -6153,7 +6475,8 @@
       "profesion": "Herrería",
       "calidad": "uncommon",
       "personajes": [
-        "Coloso Tempestad"
+        "Coloso Tempestad",
+        "Shiryoku Moonfury"
       ]
     },
     {
@@ -6161,7 +6484,8 @@
       "profesion": "Herrería",
       "calidad": "uncommon",
       "personajes": [
-        "Coloso Tempestad"
+        "Coloso Tempestad",
+        "Shiryoku Moonfury"
       ]
     },
     {
@@ -6169,7 +6493,8 @@
       "profesion": "Herrería",
       "calidad": "uncommon",
       "personajes": [
-        "Coloso Tempestad"
+        "Coloso Tempestad",
+        "Shiryoku Moonfury"
       ]
     },
     {
@@ -6178,7 +6503,8 @@
       "calidad": "uncommon",
       "personajes": [
         "Coloso Tempestad",
-        "Espartaco Gladiador"
+        "Espartaco Gladiador",
+        "Shiryoku Moonfury"
       ]
     },
     {
@@ -6186,7 +6512,8 @@
       "profesion": "Herrería",
       "calidad": "uncommon",
       "personajes": [
-        "Espartaco Gladiador"
+        "Espartaco Gladiador",
+        "Shiryoku Moonfury"
       ]
     },
     {
@@ -6195,7 +6522,8 @@
       "calidad": "uncommon",
       "personajes": [
         "Coloso Tempestad",
-        "Espartaco Gladiador"
+        "Espartaco Gladiador",
+        "Shiryoku Moonfury"
       ]
     },
     {
@@ -6211,6 +6539,7 @@
         "Khyoraku Shunsui",
         "Llamas Xx",
         "Mosu Warryn",
+        "Shiryoku Moonfury",
         "Tharindel Magnaluz"
       ]
     },
@@ -6227,6 +6556,7 @@
         "Khyoraku Shunsui",
         "Llamas Xx",
         "Mosu Warryn",
+        "Shiryoku Moonfury",
         "Tharindel Magnaluz"
       ]
     },
@@ -6265,6 +6595,7 @@
         "Khyoraku Shunsui",
         "Llamas Xx",
         "Mosu Warryn",
+        "Shiryoku Moonfury",
         "Tharindel Magnaluz"
       ]
     },
@@ -6273,7 +6604,9 @@
       "profesion": "Herrería",
       "calidad": "common",
       "personajes": [
-        "Mosu Warryn"
+        "Althez Sendagris",
+        "Mosu Warryn",
+        "Shiryoku Moonfury"
       ]
     },
     {
@@ -6340,7 +6673,8 @@
       "profesion": "Herrería",
       "calidad": "uncommon",
       "personajes": [
-        "Coloso Tempestad"
+        "Coloso Tempestad",
+        "Shiryoku Moonfury"
       ]
     },
     {
@@ -6357,7 +6691,8 @@
       "calidad": "uncommon",
       "personajes": [
         "Coloso Tempestad",
-        "Espartaco Gladiador"
+        "Espartaco Gladiador",
+        "Shiryoku Moonfury"
       ]
     },
     {
@@ -6383,7 +6718,24 @@
       "personajes": [
         "Althez Sendagris",
         "Coloso Tempestad",
-        "Khyoraku Shunsui"
+        "Khyoraku Shunsui",
+        "Shiryoku Moonfury"
+      ]
+    },
+    {
+      "nombre": "Ornate Mithril Boots",
+      "profesion": "Herrería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Shiryoku Moonfury"
+      ]
+    },
+    {
+      "nombre": "Ornate Mithril Breastplate",
+      "profesion": "Herrería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Shiryoku Moonfury"
       ]
     },
     {
@@ -6391,7 +6743,16 @@
       "profesion": "Herrería",
       "calidad": "uncommon",
       "personajes": [
-        "Coloso Tempestad"
+        "Coloso Tempestad",
+        "Shiryoku Moonfury"
+      ]
+    },
+    {
+      "nombre": "Ornate Mithril Helm",
+      "profesion": "Herrería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Shiryoku Moonfury"
       ]
     },
     {
@@ -6399,7 +6760,8 @@
       "profesion": "Herrería",
       "calidad": "uncommon",
       "personajes": [
-        "Coloso Tempestad"
+        "Coloso Tempestad",
+        "Shiryoku Moonfury"
       ]
     },
     {
@@ -6407,7 +6769,8 @@
       "profesion": "Herrería",
       "calidad": "uncommon",
       "personajes": [
-        "Coloso Tempestad"
+        "Coloso Tempestad",
+        "Shiryoku Moonfury"
       ]
     },
     {
@@ -6424,6 +6787,7 @@
         "Khyoraku Shunsui",
         "Llamas Xx",
         "Mosu Warryn",
+        "Shiryoku Moonfury",
         "Tharindel Magnaluz"
       ]
     },
@@ -6438,6 +6802,7 @@
         "Hugo Forjaluz",
         "Khyoraku Shunsui",
         "Llamas Xx",
+        "Shiryoku Moonfury",
         "Tharindel Magnaluz"
       ]
     },
@@ -6446,7 +6811,8 @@
       "profesion": "Herrería",
       "calidad": "uncommon",
       "personajes": [
-        "Espartaco Gladiador"
+        "Espartaco Gladiador",
+        "Shiryoku Moonfury"
       ]
     },
     {
@@ -6494,6 +6860,7 @@
         "Hugo Forjaluz",
         "Khyoraku Shunsui",
         "Mosu Warryn",
+        "Shiryoku Moonfury",
         "Tharindel Magnaluz"
       ]
     },
@@ -6511,6 +6878,7 @@
         "Khyoraku Shunsui",
         "Llamas Xx",
         "Mosu Warryn",
+        "Shiryoku Moonfury",
         "Tharindel Magnaluz"
       ]
     },
@@ -6528,6 +6896,7 @@
         "Khyoraku Shunsui",
         "Llamas Xx",
         "Mosu Warryn",
+        "Shiryoku Moonfury",
         "Tharindel Magnaluz"
       ]
     },
@@ -6545,6 +6914,7 @@
         "Khyoraku Shunsui",
         "Llamas Xx",
         "Mosu Warryn",
+        "Shiryoku Moonfury",
         "Tharindel Magnaluz"
       ]
     },
@@ -6573,6 +6943,7 @@
         "Khyoraku Shunsui",
         "Llamas Xx",
         "Mosu Warryn",
+        "Shiryoku Moonfury",
         "Tharindel Magnaluz"
       ]
     },
@@ -6591,6 +6962,7 @@
         "Khyoraku Shunsui",
         "Llamas Xx",
         "Mosu Warryn",
+        "Shiryoku Moonfury",
         "Tharindel Magnaluz"
       ]
     },
@@ -6609,6 +6981,7 @@
         "Khyoraku Shunsui",
         "Llamas Xx",
         "Mosu Warryn",
+        "Shiryoku Moonfury",
         "Tharindel Magnaluz"
       ]
     },
@@ -6627,6 +7000,7 @@
         "Khyoraku Shunsui",
         "Llamas Xx",
         "Mosu Warryn",
+        "Shiryoku Moonfury",
         "Tharindel Magnaluz"
       ]
     },
@@ -6645,6 +7019,7 @@
         "Khyoraku Shunsui",
         "Llamas Xx",
         "Mosu Warryn",
+        "Shiryoku Moonfury",
         "Tharindel Magnaluz"
       ]
     },
@@ -6663,6 +7038,7 @@
         "Khyoraku Shunsui",
         "Llamas Xx",
         "Mosu Warryn",
+        "Shiryoku Moonfury",
         "Tharindel Magnaluz"
       ]
     },
@@ -6671,7 +7047,8 @@
       "profesion": "Herrería",
       "calidad": "uncommon",
       "personajes": [
-        "Coloso Tempestad"
+        "Coloso Tempestad",
+        "Shiryoku Moonfury"
       ]
     },
     {
@@ -6689,6 +7066,7 @@
         "Khyoraku Shunsui",
         "Llamas Xx",
         "Mosu Warryn",
+        "Shiryoku Moonfury",
         "Tharindel Magnaluz"
       ]
     },
@@ -6707,6 +7085,7 @@
         "Khyoraku Shunsui",
         "Llamas Xx",
         "Mosu Warryn",
+        "Shiryoku Moonfury",
         "Tharindel Magnaluz"
       ]
     },
@@ -6717,6 +7096,14 @@
       "personajes": [
         "Coloso Tempestad",
         "Espartaco Gladiador"
+      ]
+    },
+    {
+      "nombre": "Sentinel's Boots",
+      "profesion": "Herrería",
+      "calidad": "rare",
+      "personajes": [
+        "Shiryoku Moonfury"
       ]
     },
     {
@@ -6742,6 +7129,7 @@
         "Khyoraku Shunsui",
         "Llamas Xx",
         "Mosu Warryn",
+        "Shiryoku Moonfury",
         "Tharindel Magnaluz"
       ]
     },
@@ -6751,6 +7139,14 @@
       "calidad": "uncommon",
       "personajes": [
         "Coloso Tempestad"
+      ]
+    },
+    {
+      "nombre": "Shining Mithril Breastplate",
+      "profesion": "Herrería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Shiryoku Moonfury"
       ]
     },
     {
@@ -6770,6 +7166,7 @@
         "Coloso Tempestad",
         "Khyoraku Shunsui",
         "Llamas Xx",
+        "Shiryoku Moonfury",
         "Tharindel Magnaluz"
       ]
     },
@@ -6787,6 +7184,7 @@
         "Khyoraku Shunsui",
         "Llamas Xx",
         "Mosu Warryn",
+        "Shiryoku Moonfury",
         "Tharindel Magnaluz"
       ]
     },
@@ -6804,6 +7202,7 @@
         "Khyoraku Shunsui",
         "Llamas Xx",
         "Mosu Warryn",
+        "Shiryoku Moonfury",
         "Tharindel Magnaluz"
       ]
     },
@@ -6819,6 +7218,7 @@
         "Khyoraku Shunsui",
         "Llamas Xx",
         "Mosu Warryn",
+        "Shiryoku Moonfury",
         "Tharindel Magnaluz"
       ]
     },
@@ -6834,6 +7234,7 @@
         "Khyoraku Shunsui",
         "Llamas Xx",
         "Mosu Warryn",
+        "Shiryoku Moonfury",
         "Tharindel Magnaluz"
       ]
     },
@@ -6853,7 +7254,8 @@
         "Althez Sendagris",
         "Coloso Tempestad",
         "Espartaco Gladiador",
-        "Khyoraku Shunsui"
+        "Khyoraku Shunsui",
+        "Shiryoku Moonfury"
       ]
     },
     {
@@ -6873,7 +7275,8 @@
         "Althez Sendagris",
         "Coloso Tempestad",
         "Espartaco Gladiador",
-        "Khyoraku Shunsui"
+        "Khyoraku Shunsui",
+        "Shiryoku Moonfury"
       ]
     },
     {
@@ -6883,7 +7286,8 @@
       "personajes": [
         "Coloso Tempestad",
         "Espartaco Gladiador",
-        "Khyoraku Shunsui"
+        "Khyoraku Shunsui",
+        "Shiryoku Moonfury"
       ]
     },
     {
@@ -6892,7 +7296,8 @@
       "calidad": "uncommon",
       "personajes": [
         "Coloso Tempestad",
-        "Khyoraku Shunsui"
+        "Khyoraku Shunsui",
+        "Shiryoku Moonfury"
       ]
     },
     {
@@ -6901,7 +7306,8 @@
       "calidad": "uncommon",
       "personajes": [
         "Coloso Tempestad",
-        "Espartaco Gladiador"
+        "Espartaco Gladiador",
+        "Shiryoku Moonfury"
       ]
     },
     {
@@ -6940,6 +7346,7 @@
         "Hugo Forjaluz",
         "Khyoraku Shunsui",
         "Llamas Xx",
+        "Shiryoku Moonfury",
         "Tharindel Magnaluz"
       ]
     },
@@ -6956,7 +7363,24 @@
         "Hugo Forjaluz",
         "Khyoraku Shunsui",
         "Llamas Xx",
+        "Shiryoku Moonfury",
         "Tharindel Magnaluz"
+      ]
+    },
+    {
+      "nombre": "Truesilver Breastplate",
+      "profesion": "Herrería",
+      "calidad": "rare",
+      "personajes": [
+        "Shiryoku Moonfury"
+      ]
+    },
+    {
+      "nombre": "Truesilver Gauntlets",
+      "profesion": "Herrería",
+      "calidad": "rare",
+      "personajes": [
+        "Shiryoku Moonfury"
       ]
     },
     {
@@ -6966,7 +7390,8 @@
       "personajes": [
         "Coloso Tempestad",
         "Espartaco Gladiador",
-        "Khyoraku Shunsui"
+        "Khyoraku Shunsui",
+        "Shiryoku Moonfury"
       ]
     },
     {
@@ -6976,7 +7401,8 @@
       "personajes": [
         "Coloso Tempestad",
         "Espartaco Gladiador",
-        "Khyoraku Shunsui"
+        "Khyoraku Shunsui",
+        "Shiryoku Moonfury"
       ]
     },
     {
@@ -6992,7 +7418,16 @@
       "profesion": "Herrería",
       "calidad": "rare",
       "personajes": [
-        "Farhan Ironbeard"
+        "Farhan Ironbeard",
+        "Shiryoku Moonfury"
+      ]
+    },
+    {
+      "nombre": "Veteran's Gloves",
+      "profesion": "Herrería",
+      "calidad": "rare",
+      "personajes": [
+        "Shiryoku Moonfury"
       ]
     },
     {
@@ -7002,7 +7437,8 @@
       "personajes": [
         "Hugo Forjaluz",
         "Khyoraku Shunsui",
-        "Llamas Xx"
+        "Llamas Xx",
+        "Shiryoku Moonfury"
       ]
     },
     {
@@ -7385,6 +7821,14 @@
       ]
     },
     {
+      "nombre": "Hi-Explosive Bomb",
+      "profesion": "Ingeniería",
+      "calidad": "common",
+      "personajes": [
+        "Flexita Shadowsoul"
+      ]
+    },
+    {
       "nombre": "Hi-Impact Mithril Slugs",
       "profesion": "Ingeniería",
       "calidad": "uncommon",
@@ -7553,6 +7997,14 @@
         "Flexita Shadowsoul",
         "Jonaver Legends",
         "La Pety"
+      ]
+    },
+    {
+      "nombre": "Rose Colored Goggles",
+      "profesion": "Ingeniería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Flexita Shadowsoul"
       ]
     },
     {
@@ -7745,6 +8197,7 @@
         "Llamas Xx",
         "Mosu Warryn",
         "Samael Thallanor",
+        "Shiryoku Moonfury",
         "Tharindel Magnaluz",
         "Tio Richard",
         "Tommy Durum"
@@ -7772,6 +8225,7 @@
         "Llamas Xx",
         "Mosu Warryn",
         "Samael Thallanor",
+        "Shiryoku Moonfury",
         "Tharindel Magnaluz",
         "Tommy Durum"
       ]
@@ -7787,7 +8241,8 @@
         "Espartaco Gladiador",
         "Khyoraku Shunsui",
         "La Pety",
-        "Llamas Xx"
+        "Llamas Xx",
+        "Shiryoku Moonfury"
       ]
     },
     {
@@ -7853,6 +8308,7 @@
         "Llamas Xx",
         "Mosu Warryn",
         "Samael Thallanor",
+        "Shiryoku Moonfury",
         "Tharindel Magnaluz"
       ]
     },
@@ -7880,6 +8336,7 @@
         "Llamas Xx",
         "Mosu Warryn",
         "Samael Thallanor",
+        "Shiryoku Moonfury",
         "Tanki Llo",
         "Tharindel Magnaluz",
         "Tio Richard",
@@ -7898,7 +8355,8 @@
         "Flexita Shadowsoul",
         "Khyoraku Shunsui",
         "La Pety",
-        "Llamas Xx"
+        "Llamas Xx",
+        "Shiryoku Moonfury"
       ]
     },
     {
@@ -7919,6 +8377,7 @@
         "La Pety",
         "Llamas Xx",
         "Mosu Warryn",
+        "Shiryoku Moonfury",
         "Tharindel Magnaluz"
       ]
     },
@@ -7934,7 +8393,8 @@
         "Flexita Shadowsoul",
         "Khyoraku Shunsui",
         "La Pety",
-        "Llamas Xx"
+        "Llamas Xx",
+        "Shiryoku Moonfury"
       ]
     },
     {
@@ -7959,6 +8419,7 @@
         "Llamas Xx",
         "Mosu Warryn",
         "Samael Thallanor",
+        "Shiryoku Moonfury",
         "Tharindel Magnaluz"
       ]
     },
@@ -7974,7 +8435,8 @@
         "Flexita Shadowsoul",
         "Khyoraku Shunsui",
         "La Pety",
-        "Llamas Xx"
+        "Llamas Xx",
+        "Shiryoku Moonfury"
       ]
     },
     {
@@ -7982,7 +8444,8 @@
       "profesion": "Minería",
       "calidad": "common",
       "personajes": [
-        "Coloso Tempestad"
+        "Coloso Tempestad",
+        "Shiryoku Moonfury"
       ]
     },
     {
@@ -8007,6 +8470,7 @@
         "Llamas Xx",
         "Mosu Warryn",
         "Samael Thallanor",
+        "Shiryoku Moonfury",
         "Tharindel Magnaluz"
       ]
     },
@@ -8015,7 +8479,8 @@
       "profesion": "Minería",
       "calidad": "uncommon",
       "personajes": [
-        "Coloso Tempestad"
+        "Coloso Tempestad",
+        "Shiryoku Moonfury"
       ]
     },
     {
@@ -8589,6 +9054,7 @@
         "Edoras Duskranger",
         "Memas Tour",
         "Palmira Natblida",
+        "Runa Ruina",
         "Tankesito Khrih"
       ]
     },
@@ -8685,6 +9151,7 @@
         "Edoras Duskranger",
         "Manelhon Gargon",
         "Palmira Natblida",
+        "Runa Ruina",
         "Tankesito Khrih"
       ]
     },
@@ -9382,6 +9849,14 @@
       ]
     },
     {
+      "nombre": "Swift Boots",
+      "profesion": "Peletería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Runa Ruina"
+      ]
+    },
+    {
       "nombre": "Thick Armor Kit",
       "profesion": "Peletería",
       "calidad": "common",
@@ -9449,7 +9924,16 @@
       "profesion": "Peletería",
       "calidad": "uncommon",
       "personajes": [
-        "Edoras Duskranger"
+        "Edoras Duskranger",
+        "Palmira Natblida"
+      ]
+    },
+    {
+      "nombre": "Tough Scorpid Breastplate",
+      "profesion": "Peletería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Palmira Natblida"
       ]
     },
     {
@@ -9549,6 +10033,7 @@
         "Archi Amnesia",
         "Arthas Yevon",
         "Aynita Again",
+        "Betadine Pervinox",
         "Breezy Reaver",
         "Coloso Tempestad",
         "Cuzcu Aker",
@@ -9574,6 +10059,7 @@
         "Palmira Natblida",
         "Saint Peligroxa",
         "Samael Thallanor",
+        "Shiryoku Moonfury",
         "Sr Byron",
         "Sugar Papy",
         "Tankesito Khrih",
@@ -9587,6 +10073,7 @@
       "profesion": "Pesca",
       "calidad": "common",
       "personajes": [
+        "Betadine Pervinox",
         "Coloso Tempestad",
         "Elfa Vorable",
         "Espartaco Gladiador",
@@ -9594,7 +10081,8 @@
         "Jonaver Legends",
         "Memas Tour",
         "Mosu Warryn",
-        "Palmira Natblida"
+        "Palmira Natblida",
+        "Shiryoku Moonfury"
       ]
     },
     {
@@ -9690,6 +10178,7 @@
         "Palmira Natblida",
         "Runa Ruina",
         "Señor Ollivander",
+        "Shiryoku Moonfury",
         "Sugar Papy",
         "Tankesito Khrih",
         "Tharindel Magnaluz",
@@ -9744,6 +10233,7 @@
         "Runa Ruina",
         "Samael Thallanor",
         "Señor Ollivander",
+        "Shiryoku Moonfury",
         "Sr Byron",
         "Sugar Papy",
         "Takkaao Valengri",
@@ -9786,6 +10276,7 @@
         "Palmira Natblida",
         "Runa Ruina",
         "Señor Ollivander",
+        "Shiryoku Moonfury",
         "Sugar Papy",
         "Tankesito Khrih",
         "Tio Richard"
@@ -9827,6 +10318,7 @@
         "Palmira Natblida",
         "Runa Ruina",
         "Señor Ollivander",
+        "Shiryoku Moonfury",
         "Sugar Papy",
         "Tankesito Khrih",
         "Tharindel Magnaluz",
@@ -9841,7 +10333,8 @@
         "Coloso Tempestad",
         "Edoras Duskranger",
         "Flexita Shadowsoul",
-        "La Pety"
+        "La Pety",
+        "Shiryoku Moonfury"
       ]
     },
     {
@@ -9867,6 +10360,7 @@
         "La Pety",
         "Palmira Natblida",
         "Runa Ruina",
+        "Shiryoku Moonfury",
         "Tankesito Khrih"
       ]
     },
@@ -9893,6 +10387,7 @@
         "Mosu Warryn",
         "Palmira Natblida",
         "Runa Ruina",
+        "Shiryoku Moonfury",
         "Sugar Papy",
         "Tankesito Khrih",
         "Tharindel Magnaluz",
@@ -9942,6 +10437,7 @@
         "Runa Ruina",
         "Samael Thallanor",
         "Señor Ollivander",
+        "Shiryoku Moonfury",
         "Sugar Papy",
         "Tankesito Khrih",
         "Tharindel Magnaluz",
@@ -9991,6 +10487,7 @@
         "Saint Peligroxa",
         "Samael Thallanor",
         "Señor Ollivander",
+        "Shiryoku Moonfury",
         "Sr Byron",
         "Sugar Papy",
         "Takkaao Valengri",
@@ -10016,6 +10513,7 @@
         "La Pety",
         "Palmira Natblida",
         "Runa Ruina",
+        "Shiryoku Moonfury",
         "Tankesito Khrih"
       ]
     },
@@ -10058,6 +10556,7 @@
         "Runa Ruina",
         "Samael Thallanor",
         "Señor Ollivander",
+        "Shiryoku Moonfury",
         "Sr Byron",
         "Sugar Papy",
         "Takkaao Valengri",
@@ -10081,7 +10580,9 @@
       "calidad": "common",
       "personajes": [
         "Coloso Tempestad",
-        "La Pety"
+        "Flexita Shadowsoul",
+        "La Pety",
+        "Shiryoku Moonfury"
       ]
     },
     {
@@ -10104,8 +10605,10 @@
         "Mosu Warryn",
         "Palmira Natblida",
         "Runa Ruina",
+        "Shiryoku Moonfury",
         "Sugar Papy",
-        "Tankesito Khrih"
+        "Tankesito Khrih",
+        "Tio Richard"
       ]
     },
     {
@@ -10131,6 +10634,7 @@
         "Palmira Natblida",
         "Runa Ruina",
         "Señor Ollivander",
+        "Shiryoku Moonfury",
         "Sugar Papy",
         "Tankesito Khrih",
         "Tharindel Magnaluz",
@@ -10143,7 +10647,8 @@
       "calidad": "common",
       "personajes": [
         "Españoleitor Españoleitor",
-        "Runa Ruina"
+        "Runa Ruina",
+        "Shiryoku Moonfury"
       ]
     },
     {
@@ -10197,6 +10702,7 @@
         "Palmira Natblida",
         "Runa Ruina",
         "Señor Ollivander",
+        "Shiryoku Moonfury",
         "Sugar Papy",
         "Tankesito Khrih",
         "Tharindel Magnaluz",
@@ -10222,6 +10728,7 @@
         "Mosu Warryn",
         "Palmira Natblida",
         "Runa Ruina",
+        "Shiryoku Moonfury",
         "Sugar Papy",
         "Tankesito Khrih",
         "Tio Richard"
@@ -10233,6 +10740,14 @@
       "calidad": "uncommon",
       "personajes": [
         "Sr Byron"
+      ]
+    },
+    {
+      "nombre": "Azure Shoulders",
+      "profesion": "Sastrería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Kadeharz Apsus"
       ]
     },
     {
@@ -10722,6 +11237,7 @@
         "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
+        "Kadeharz Apsus",
         "Señor Ollivander",
         "Sr Byron"
       ]
@@ -11264,6 +11780,7 @@
       "profesion": "Sastrería",
       "calidad": "uncommon",
       "personajes": [
+        "Kadeharz Apsus",
         "Nimassus Pater"
       ]
     },
@@ -11602,6 +12119,14 @@
       ]
     },
     {
+      "nombre": "Red Mageweave Pants",
+      "profesion": "Sastrería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Dum Bo"
+      ]
+    },
+    {
       "nombre": "Red Mageweave Shoulders",
       "profesion": "Sastrería",
       "calidad": "uncommon",
@@ -11927,7 +12452,8 @@
       "profesion": "Sastrería",
       "calidad": "common",
       "personajes": [
-        "Dum Bo"
+        "Dum Bo",
+        "Kadeharz Apsus"
       ]
     },
     {
