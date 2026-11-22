@@ -12,18 +12,18 @@
       "pct": 67
     },
     {
-      "personaje": "Mosu Warryn",
-      "clase": "warrior",
+      "personaje": "Finn Felagund",
+      "clase": "priest",
       "raider": false,
       "nivel": 225,
       "max": 225,
       "pct": 33
     },
     {
-      "personaje": "Finn Felagund",
-      "clase": "priest",
+      "personaje": "Mosu Warryn",
+      "clase": "warrior",
       "raider": false,
-      "nivel": 209,
+      "nivel": 225,
       "max": 225,
       "pct": 33
     },
@@ -127,7 +127,7 @@
       "personaje": "Layrela Rondanit",
       "clase": "druid",
       "raider": true,
-      "nivel": 103,
+      "nivel": 107,
       "max": 150,
       "pct": 33
     },

@@ -23,7 +23,15 @@
       "personaje": "Dum Bo",
       "clase": "mage",
       "raider": false,
-      "nivel": 256,
+      "nivel": 261,
+      "max": 300,
+      "pct": 50
+    },
+    {
+      "personaje": "Edoras Duskranger",
+      "clase": "hunter",
+      "raider": true,
+      "nivel": 259,
       "max": 300,
       "pct": 47
     },
@@ -34,14 +42,6 @@
       "nivel": 255,
       "max": 300,
       "pct": 56
-    },
-    {
-      "personaje": "Edoras Duskranger",
-      "clase": "hunter",
-      "raider": true,
-      "nivel": 248,
-      "max": 300,
-      "pct": 47
     },
     {
       "personaje": "Jonaver Legends",
@@ -167,7 +167,7 @@
       "personaje": "Arthas Yevon",
       "clase": "paladin",
       "raider": false,
-      "nivel": 130,
+      "nivel": 143,
       "max": 150,
       "pct": 28
     },
@@ -1087,7 +1087,7 @@
             ]
           },
           "quien": [
-            3,
+            4,
             9,
             10
           ]
@@ -1215,7 +1215,7 @@
             ]
           },
           "quien": [
-            3
+            4
           ]
         },
         {
@@ -1254,7 +1254,7 @@
             ]
           },
           "quien": [
-            3,
+            4,
             13
           ]
         },
@@ -1775,7 +1775,8 @@
             ]
           },
           "quien": [
-            0
+            0,
+            2
           ]
         },
         {

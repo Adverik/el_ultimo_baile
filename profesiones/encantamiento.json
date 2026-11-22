@@ -7,7 +7,7 @@
       "personaje": "Finn Felagund",
       "clase": "priest",
       "raider": false,
-      "nivel": 256,
+      "nivel": 257,
       "max": 300,
       "pct": 30
     },
@@ -7231,7 +7231,9 @@
             ]
           ],
           "desc": "Encanta de forma permanente un collar para aumentar hasta 11 p. la sanación y hasta 4 p. el daño con hechizos.",
-          "quien": []
+          "quien": [
+            0
+          ]
         },
         {
           "id": 54422,

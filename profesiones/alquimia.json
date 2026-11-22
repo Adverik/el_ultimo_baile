@@ -9,7 +9,7 @@
       "raider": false,
       "nivel": 293,
       "max": 300,
-      "pct": 25
+      "pct": 26
     },
     {
       "personaje": "Sugar Papy",
@@ -1383,7 +1383,9 @@
               "35"
             ]
           },
-          "quien": []
+          "quien": [
+            0
+          ]
         },
         {
           "id": 54190,

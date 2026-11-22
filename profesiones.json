@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-21",
+  "actualizado": "2026-11-22",
   "artesanos": [
     {
       "personaje": "Althez Sendagris",
@@ -89,17 +89,17 @@
       "profesiones": [
         {
           "nombre": "Desuello",
-          "nivel": 142,
+          "nivel": 146,
           "max": 225
         },
         {
           "nombre": "Minería",
-          "nivel": 112,
+          "nivel": 114,
           "max": 150
         },
         {
           "nombre": "Cocina",
-          "nivel": 107,
+          "nivel": 116,
           "max": 150
         },
         {
@@ -109,7 +109,7 @@
         },
         {
           "nombre": "Primeros auxilios",
-          "nivel": 130,
+          "nivel": 143,
           "max": 150
         }
       ]
@@ -266,7 +266,7 @@
         },
         {
           "nombre": "Cocina",
-          "nivel": 285,
+          "nivel": 292,
           "max": 300
         },
         {
@@ -438,8 +438,8 @@
       "profesiones": [
         {
           "nombre": "Sastrería",
-          "nivel": 225,
-          "max": 225
+          "nivel": 233,
+          "max": 300
         },
         {
           "nombre": "Encantamiento",
@@ -458,7 +458,7 @@
         },
         {
           "nombre": "Primeros auxilios",
-          "nivel": 256,
+          "nivel": 261,
           "max": 300
         }
       ]
@@ -480,7 +480,7 @@
         },
         {
           "nombre": "Cocina",
-          "nivel": 225,
+          "nivel": 228,
           "max": 300
         },
         {
@@ -490,7 +490,7 @@
         },
         {
           "nombre": "Primeros auxilios",
-          "nivel": 248,
+          "nivel": 259,
           "max": 300
         }
       ]
@@ -529,13 +529,13 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 196,
-          "max": 225
+          "nivel": 225,
+          "max": 300
         },
         {
           "nombre": "Herrería",
-          "nivel": 175,
-          "max": 225
+          "nivel": 204,
+          "max": 300
         },
         {
           "nombre": "Cocina",
@@ -669,12 +669,12 @@
       "profesiones": [
         {
           "nombre": "Sastrería",
-          "nivel": 231,
+          "nivel": 235,
           "max": 300
         },
         {
           "nombre": "Encantamiento",
-          "nivel": 256,
+          "nivel": 257,
           "max": 300
         },
         {
@@ -684,7 +684,7 @@
         },
         {
           "nombre": "Pesca",
-          "nivel": 209,
+          "nivel": 225,
           "max": 225
         }
       ]
@@ -760,7 +760,7 @@
         },
         {
           "nombre": "Herboristería",
-          "nivel": 258,
+          "nivel": 260,
           "max": 300
         },
         {
@@ -927,7 +927,7 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 141,
+          "nivel": 149,
           "max": 225
         },
         {
@@ -981,12 +981,12 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 226,
+          "nivel": 227,
           "max": 300
         },
         {
           "nombre": "Herrería",
-          "nivel": 156,
+          "nivel": 175,
           "max": 225
         },
         {
@@ -1050,7 +1050,7 @@
         },
         {
           "nombre": "Herboristería",
-          "nivel": 229,
+          "nivel": 230,
           "max": 300
         },
         {
@@ -1060,7 +1060,7 @@
         },
         {
           "nombre": "Pesca",
-          "nivel": 103,
+          "nivel": 107,
           "max": 150
         },
         {
@@ -1328,18 +1328,18 @@
       "profesiones": [
         {
           "nombre": "Desuello",
-          "nivel": 225,
-          "max": 225
+          "nivel": 236,
+          "max": 300
         },
         {
           "nombre": "Herboristería",
-          "nivel": 93,
+          "nivel": 121,
           "max": 150
         },
         {
           "nombre": "Cocina",
-          "nivel": 150,
-          "max": 150
+          "nivel": 168,
+          "max": 225
         },
         {
           "nombre": "Pesca",
@@ -1623,7 +1623,7 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 48,
+          "nivel": 49,
           "max": 75
         },
         {
@@ -1989,6 +1989,14 @@
       "personajes": [
         "Fran Furion",
         "Sugar Papy"
+      ]
+    },
+    {
+      "nombre": "Elixir of Holy Power",
+      "profesion": "Alquimia",
+      "calidad": "common",
+      "personajes": [
+        "Dio Hotmetal"
       ]
     },
     {
@@ -3397,7 +3405,8 @@
       "profesion": "Cocina",
       "calidad": "common",
       "personajes": [
-        "Edoras Duskranger"
+        "Edoras Duskranger",
+        "Reaper Dead"
       ]
     },
     {
@@ -3452,7 +3461,8 @@
         "Espartaco Gladiador",
         "Jonaver Legends",
         "Khyoraku Shunsui",
-        "Mosu Warryn"
+        "Mosu Warryn",
+        "Reaper Dead"
       ]
     },
     {
@@ -3927,6 +3937,7 @@
         "Memas Tour",
         "Mosu Warryn",
         "Palmira Natblida",
+        "Reaper Dead",
         "Runa Ruina",
         "Samael Thallanor",
         "Sr Byron",
@@ -4209,7 +4220,6 @@
         "Breezy Reaver",
         "Diana Flechaveloz",
         "Palmira Natblida",
-        "Reaper Dead",
         "Samael Thallanor",
         "Tom Kha"
       ]
@@ -4224,6 +4234,7 @@
         "Ildaren Belisar",
         "Manelhon Gargon",
         "Memas Tour",
+        "Reaper Dead",
         "Runa Ruina",
         "Tankesito Khrih"
       ]
@@ -4926,6 +4937,14 @@
       "personajes": [
         "Finn Felagund",
         "Sr Byron"
+      ]
+    },
+    {
+      "nombre": "Enchant Necklace - Healing Power",
+      "profesion": "Encantamiento",
+      "calidad": "common",
+      "personajes": [
+        "Finn Felagund"
       ]
     },
     {
@@ -5848,7 +5867,8 @@
       "profesion": "Herrería",
       "calidad": "uncommon",
       "personajes": [
-        "Coloso Tempestad"
+        "Coloso Tempestad",
+        "Khyoraku Shunsui"
       ]
     },
     {
@@ -5885,7 +5905,8 @@
       "personajes": [
         "Althez Sendagris",
         "Coloso Tempestad",
-        "Espartaco Gladiador"
+        "Espartaco Gladiador",
+        "Khyoraku Shunsui"
       ]
     },
     {
@@ -5934,7 +5955,8 @@
       "calidad": "rare",
       "personajes": [
         "Coloso Tempestad",
-        "Espartaco Gladiador"
+        "Espartaco Gladiador",
+        "Khyoraku Shunsui"
       ]
     },
     {
@@ -6103,7 +6125,16 @@
       "profesion": "Herrería",
       "calidad": "uncommon",
       "personajes": [
-        "Coloso Tempestad"
+        "Coloso Tempestad",
+        "Espartaco Gladiador"
+      ]
+    },
+    {
+      "nombre": "Heavy Mithril Pants",
+      "profesion": "Herrería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Espartaco Gladiador"
       ]
     },
     {
@@ -6111,7 +6142,8 @@
       "profesion": "Herrería",
       "calidad": "uncommon",
       "personajes": [
-        "Coloso Tempestad"
+        "Coloso Tempestad",
+        "Espartaco Gladiador"
       ]
     },
     {
@@ -6256,7 +6288,8 @@
       "profesion": "Herrería",
       "calidad": "uncommon",
       "personajes": [
-        "Coloso Tempestad"
+        "Coloso Tempestad",
+        "Espartaco Gladiador"
       ]
     },
     {
@@ -6727,7 +6760,8 @@
       "personajes": [
         "Althez Sendagris",
         "Coloso Tempestad",
-        "Espartaco Gladiador"
+        "Espartaco Gladiador",
+        "Khyoraku Shunsui"
       ]
     },
     {
@@ -6746,7 +6780,8 @@
       "personajes": [
         "Althez Sendagris",
         "Coloso Tempestad",
-        "Espartaco Gladiador"
+        "Espartaco Gladiador",
+        "Khyoraku Shunsui"
       ]
     },
     {
@@ -6755,7 +6790,8 @@
       "calidad": "common",
       "personajes": [
         "Coloso Tempestad",
-        "Espartaco Gladiador"
+        "Espartaco Gladiador",
+        "Khyoraku Shunsui"
       ]
     },
     {
@@ -6763,7 +6799,8 @@
       "profesion": "Herrería",
       "calidad": "uncommon",
       "personajes": [
-        "Coloso Tempestad"
+        "Coloso Tempestad",
+        "Khyoraku Shunsui"
       ]
     },
     {
@@ -6771,7 +6808,8 @@
       "profesion": "Herrería",
       "calidad": "uncommon",
       "personajes": [
-        "Coloso Tempestad"
+        "Coloso Tempestad",
+        "Espartaco Gladiador"
       ]
     },
     {
@@ -6835,7 +6873,8 @@
       "calidad": "common",
       "personajes": [
         "Coloso Tempestad",
-        "Espartaco Gladiador"
+        "Espartaco Gladiador",
+        "Khyoraku Shunsui"
       ]
     },
     {
@@ -6844,7 +6883,8 @@
       "calidad": "uncommon",
       "personajes": [
         "Coloso Tempestad",
-        "Espartaco Gladiador"
+        "Espartaco Gladiador",
+        "Khyoraku Shunsui"
       ]
     },
     {
@@ -7643,6 +7683,7 @@
         "Chaca Choochoo",
         "Coloso Tempestad",
         "Cuzcu Aker",
+        "Espartaco Gladiador",
         "Khyoraku Shunsui",
         "La Pety",
         "Llamas Xx"
@@ -7666,7 +7707,6 @@
       "personajes": [
         "Althez Sendagris",
         "Armando Buya",
-        "Espartaco Gladiador",
         "Españoleitor Españoleitor",
         "Flexita Shadowsoul",
         "Jonaver Legends",
@@ -9908,7 +9948,8 @@
       "profesion": "Primeros auxilios",
       "calidad": "common",
       "personajes": [
-        "Coloso Tempestad"
+        "Coloso Tempestad",
+        "Dum Bo"
       ]
     },
     {
@@ -10081,6 +10122,7 @@
       "profesion": "Sastrería",
       "calidad": "uncommon",
       "personajes": [
+        "Dum Bo",
         "Finn Felagund",
         "Sr Byron"
       ]
@@ -10100,6 +10142,7 @@
       "profesion": "Sastrería",
       "calidad": "uncommon",
       "personajes": [
+        "Dum Bo",
         "Finn Felagund",
         "Sr Byron"
       ]
@@ -10129,6 +10172,7 @@
       "profesion": "Sastrería",
       "calidad": "uncommon",
       "personajes": [
+        "Dum Bo",
         "Finn Felagund",
         "Sr Byron"
       ]
@@ -10386,6 +10430,7 @@
       "profesion": "Sastrería",
       "calidad": "uncommon",
       "personajes": [
+        "Dum Bo",
         "Finn Felagund",
         "Sr Byron"
       ]
@@ -10437,7 +10482,8 @@
       "profesion": "Sastrería",
       "calidad": "uncommon",
       "personajes": [
-        "Dum Bo"
+        "Dum Bo",
+        "Finn Felagund"
       ]
     },
     {
@@ -10511,6 +10557,7 @@
       "profesion": "Sastrería",
       "calidad": "rare",
       "personajes": [
+        "Dum Bo",
         "Finn Felagund",
         "Sr Byron"
       ]
@@ -10577,7 +10624,8 @@
       "profesion": "Sastrería",
       "calidad": "uncommon",
       "personajes": [
-        "Dum Bo"
+        "Dum Bo",
+        "Finn Felagund"
       ]
     },
     {
@@ -10598,6 +10646,14 @@
         "Señor Ollivander",
         "Sr Byron",
         "Vaporeta Pizpireta"
+      ]
+    },
+    {
+      "nombre": "Fiery Gloves",
+      "profesion": "Sastrería",
+      "calidad": "rare",
+      "personajes": [
+        "Finn Felagund"
       ]
     },
     {
@@ -10717,6 +10773,14 @@
       "personajes": [
         "Finn Felagund",
         "Sr Byron"
+      ]
+    },
+    {
+      "nombre": "Frothing Gloves",
+      "profesion": "Sastrería",
+      "calidad": "rare",
+      "personajes": [
+        "Finn Felagund"
       ]
     },
     {
@@ -11200,6 +11264,7 @@
       "profesion": "Sastrería",
       "calidad": "common",
       "personajes": [
+        "Dum Bo",
         "Finn Felagund",
         "Sr Byron"
       ]
@@ -11319,6 +11384,7 @@
       "profesion": "Sastrería",
       "calidad": "common",
       "personajes": [
+        "Dum Bo",
         "Finn Felagund",
         "Sr Byron"
       ]
@@ -11451,6 +11517,14 @@
       ]
     },
     {
+      "nombre": "Runecloth Reagent Bag",
+      "profesion": "Sastrería",
+      "calidad": "common",
+      "personajes": [
+        "Finn Felagund"
+      ]
+    },
+    {
       "nombre": "Shadow Circlet",
       "profesion": "Sastrería",
       "calidad": "rare",
@@ -11492,6 +11566,7 @@
       "profesion": "Sastrería",
       "calidad": "common",
       "personajes": [
+        "Dum Bo",
         "Finn Felagund",
         "Sr Byron"
       ]

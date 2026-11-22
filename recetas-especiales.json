@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-21",
+  "actualizado": "2026-11-22",
   "recetas": [
     {
       "id": 54403,
@@ -100,12 +100,12 @@
           "clase": "warrior"
         },
         {
-          "n": "Althez Sendagris",
-          "clase": "paladin"
-        },
-        {
           "n": "Espartaco Gladiador",
           "clase": "warrior"
+        },
+        {
+          "n": "Althez Sendagris",
+          "clase": "paladin"
         },
         {
           "n": "Khyoraku Shunsui",
@@ -590,6 +590,10 @@
         },
         {
           "n": "Espartaco Gladiador",
+          "clase": "warrior"
+        },
+        {
+          "n": "Khyoraku Shunsui",
           "clase": "warrior"
         }
       ]
@@ -3094,6 +3098,10 @@
           "clase": "priest"
         },
         {
+          "n": "Dum Bo",
+          "clase": "mage"
+        },
+        {
           "n": "Sr Byron",
           "clase": "warlock"
         }
@@ -4188,6 +4196,120 @@
         {
           "n": "Sr Byron",
           "clase": "warlock"
+        }
+      ]
+    },
+    {
+      "id": 55529,
+      "n": "Guantes rabiosos",
+      "q": "rare",
+      "ico": "132951",
+      "reac": [
+        [
+          "Madeja de paño rúnico",
+          8
+        ],
+        [
+          "Hilo de seda pesada",
+          4
+        ],
+        [
+          "Tinte magenta",
+          4
+        ],
+        [
+          "Tinte cerúleo",
+          4
+        ],
+        [
+          "Globo de agua",
+          4
+        ]
+      ],
+      "obj": {
+        "arm": "49 armadura",
+        "id": 254097,
+        "ilvl": 55,
+        "lig": "Se liga al recogerlo",
+        "n": "Guantes rabiosos",
+        "q": "rare",
+        "ranura": "Manos",
+        "req": 50,
+        "stats": [
+          "+10 intelecto",
+          "+9 aguante",
+          "+8 espíritu",
+          "+19 Daño de Escarcha"
+        ],
+        "sub": "Tela",
+        "venta": [
+          "0",
+          "72",
+          "11"
+        ]
+      },
+      "profesion": "Sastrería",
+      "personajes": [
+        {
+          "n": "Finn Felagund",
+          "clase": "priest"
+        }
+      ]
+    },
+    {
+      "id": 55530,
+      "n": "Guantes ígneos",
+      "q": "rare",
+      "ico": "132149",
+      "reac": [
+        [
+          "Madeja de paño rúnico",
+          8
+        ],
+        [
+          "Hilo de seda pesada",
+          4
+        ],
+        [
+          "Tinte magenta",
+          4
+        ],
+        [
+          "Tinte cerúleo",
+          4
+        ],
+        [
+          "Corazón de fuego",
+          4
+        ]
+      ],
+      "obj": {
+        "arm": "49 armadura",
+        "id": 254099,
+        "ilvl": 55,
+        "lig": "Se liga al recogerlo",
+        "n": "Guantes ígneos",
+        "q": "rare",
+        "ranura": "Manos",
+        "req": 50,
+        "stats": [
+          "+10 intelecto",
+          "+9 aguante",
+          "+8 espíritu",
+          "+19 Daño de Fuego"
+        ],
+        "sub": "Tela",
+        "venta": [
+          "0",
+          "72",
+          "67"
+        ]
+      },
+      "profesion": "Sastrería",
+      "personajes": [
+        {
+          "n": "Finn Felagund",
+          "clase": "priest"
         }
       ]
     },

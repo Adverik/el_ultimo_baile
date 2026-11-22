@@ -36,6 +36,14 @@
       "pct": 33
     },
     {
+      "personaje": "Reaper Dead",
+      "clase": "paladin",
+      "raider": false,
+      "nivel": 236,
+      "max": 300,
+      "pct": 33
+    },
+    {
       "personaje": "Memas Tour",
       "clase": "shaman",
       "raider": false,
@@ -76,14 +84,6 @@
       "pct": 33
     },
     {
-      "personaje": "Reaper Dead",
-      "clase": "paladin",
-      "raider": false,
-      "nivel": 225,
-      "max": 225,
-      "pct": 33
-    },
-    {
       "personaje": "Breezy Reaver",
       "clase": "shaman",
       "raider": false,
@@ -103,7 +103,7 @@
       "personaje": "Arthas Yevon",
       "clase": "paladin",
       "raider": false,
-      "nivel": 142,
+      "nivel": 146,
       "max": 225,
       "pct": 33
     },
