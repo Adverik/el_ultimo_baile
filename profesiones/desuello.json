@@ -15,7 +15,7 @@
       "personaje": "Manelhon Gargon",
       "clase": "shaman",
       "raider": true,
-      "nivel": 274,
+      "nivel": 275,
       "max": 300,
       "pct": 67
     },
@@ -24,6 +24,14 @@
       "clase": "shaman",
       "raider": true,
       "nivel": 263,
+      "max": 300,
+      "pct": 33
+    },
+    {
+      "personaje": "Memas Tour",
+      "clase": "shaman",
+      "raider": false,
+      "nivel": 254,
       "max": 300,
       "pct": 33
     },
@@ -44,10 +52,10 @@
       "pct": 33
     },
     {
-      "personaje": "Memas Tour",
-      "clase": "shaman",
+      "personaje": "Ildaren Belisar",
+      "clase": "rogue",
       "raider": false,
-      "nivel": 246,
+      "nivel": 247,
       "max": 300,
       "pct": 33
     },
@@ -56,14 +64,6 @@
       "clase": "rogue",
       "raider": false,
       "nivel": 237,
-      "max": 300,
-      "pct": 33
-    },
-    {
-      "personaje": "Ildaren Belisar",
-      "clase": "rogue",
-      "raider": false,
-      "nivel": 235,
       "max": 300,
       "pct": 33
     },

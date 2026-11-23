@@ -23,7 +23,7 @@
       "personaje": "Shiryoku Moonfury",
       "clase": "warrior",
       "raider": false,
-      "nivel": 269,
+      "nivel": 291,
       "max": 300,
       "pct": 65
     },
@@ -55,7 +55,7 @@
       "personaje": "Cuzcu Aker",
       "clase": "paladin",
       "raider": true,
-      "nivel": 220,
+      "nivel": 222,
       "max": 300,
       "pct": 53
     },
@@ -87,7 +87,7 @@
       "personaje": "Jonaver Legends",
       "clase": "mage",
       "raider": false,
-      "nivel": 154,
+      "nivel": 156,
       "max": 225,
       "pct": 35
     },
@@ -103,7 +103,7 @@
       "personaje": "Españoleitor Españoleitor",
       "clase": "warrior",
       "raider": false,
-      "nivel": 138,
+      "nivel": 139,
       "max": 225,
       "pct": 35
     },

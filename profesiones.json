@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-22",
+  "actualizado": "2026-11-23",
   "artesanos": [
     {
       "personaje": "Althez Sendagris",
@@ -252,7 +252,7 @@
         {
           "nombre": "Peletería",
           "nivel": 52,
-          "max": 75
+          "max": 150
         },
         {
           "nombre": "Desuello",
@@ -261,7 +261,7 @@
         },
         {
           "nombre": "Cocina",
-          "nivel": 107,
+          "nivel": 142,
           "max": 150
         },
         {
@@ -309,6 +309,38 @@
       ]
     },
     {
+      "personaje": "Christoph Crestanegra",
+      "clase": "mage",
+      "raider": false,
+      "profesiones": [
+        {
+          "nombre": "Sastrería",
+          "nivel": 196,
+          "max": 225
+        },
+        {
+          "nombre": "Encantamiento",
+          "nivel": 151,
+          "max": 225
+        },
+        {
+          "nombre": "Cocina",
+          "nivel": 43,
+          "max": 75
+        },
+        {
+          "nombre": "Pesca",
+          "nivel": 225,
+          "max": 225
+        },
+        {
+          "nombre": "Primeros auxilios",
+          "nivel": 34,
+          "max": 75
+        }
+      ]
+    },
+    {
       "personaje": "Coloso Tempestad",
       "clase": "warrior",
       "raider": false,
@@ -347,7 +379,7 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 220,
+          "nivel": 222,
           "max": 300
         },
         {
@@ -362,7 +394,7 @@
         },
         {
           "nombre": "Pesca",
-          "nivel": 128,
+          "nivel": 130,
           "max": 150
         },
         {
@@ -448,7 +480,7 @@
         },
         {
           "nombre": "Herboristería",
-          "nivel": 192,
+          "nivel": 197,
           "max": 225
         },
         {
@@ -588,7 +620,7 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 138,
+          "nivel": 139,
           "max": 225
         },
         {
@@ -787,7 +819,7 @@
         },
         {
           "nombre": "Herboristería",
-          "nivel": 261,
+          "nivel": 267,
           "max": 300
         },
         {
@@ -814,7 +846,7 @@
         },
         {
           "nombre": "Herboristería",
-          "nivel": 156,
+          "nivel": 164,
           "max": 225
         },
         {
@@ -824,7 +856,7 @@
         },
         {
           "nombre": "Primeros auxilios",
-          "nivel": 225,
+          "nivel": 235,
           "max": 300
         }
       ]
@@ -901,17 +933,17 @@
         {
           "nombre": "Peletería",
           "nivel": 150,
-          "max": 150
+          "max": 225
         },
         {
           "nombre": "Desuello",
-          "nivel": 235,
+          "nivel": 247,
           "max": 300
         },
         {
           "nombre": "Cocina",
-          "nivel": 126,
-          "max": 150
+          "nivel": 149,
+          "max": 225
         },
         {
           "nombre": "Pesca",
@@ -954,7 +986,7 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 154,
+          "nivel": 156,
           "max": 225
         },
         {
@@ -1077,7 +1109,7 @@
         },
         {
           "nombre": "Herboristería",
-          "nivel": 234,
+          "nivel": 238,
           "max": 300
         },
         {
@@ -1092,7 +1124,7 @@
         },
         {
           "nombre": "Primeros auxilios",
-          "nivel": 175,
+          "nivel": 179,
           "max": 225
         }
       ]
@@ -1141,12 +1173,12 @@
         },
         {
           "nombre": "Desuello",
-          "nivel": 274,
+          "nivel": 275,
           "max": 300
         },
         {
           "nombre": "Cocina",
-          "nivel": 187,
+          "nivel": 212,
           "max": 225
         },
         {
@@ -1168,12 +1200,12 @@
       "profesiones": [
         {
           "nombre": "Peletería",
-          "nivel": 170,
+          "nivel": 215,
           "max": 225
         },
         {
           "nombre": "Desuello",
-          "nivel": 246,
+          "nivel": 254,
           "max": 300
         },
         {
@@ -1338,7 +1370,7 @@
         },
         {
           "nombre": "Pesca",
-          "nivel": 165,
+          "nivel": 199,
           "max": 225
         },
         {
@@ -1527,7 +1559,7 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 269,
+          "nivel": 291,
           "max": 300
         },
         {
@@ -1547,7 +1579,7 @@
         },
         {
           "nombre": "Primeros auxilios",
-          "nivel": 270,
+          "nivel": 277,
           "max": 300
         }
       ]
@@ -1687,7 +1719,7 @@
         },
         {
           "nombre": "Herboristería",
-          "nivel": 50,
+          "nivel": 53,
           "max": 150
         },
         {
@@ -2821,6 +2853,7 @@
         "Blind Minds",
         "Breezy Reaver",
         "Chaca Choochoo",
+        "Christoph Crestanegra",
         "Coloso Tempestad",
         "Cuzcu Aker",
         "Diana Flechaveloz",
@@ -3047,6 +3080,7 @@
         "Khyoraku Shunsui",
         "La Pety",
         "Layrela Rondanit",
+        "Manelhon Gargon",
         "Palmira Natblida",
         "Runa Ruina",
         "Shiryoku Moonfury",
@@ -3069,6 +3103,7 @@
         "Ildaren Belisar",
         "Jonaver Legends",
         "Layrela Rondanit",
+        "Manelhon Gargon",
         "Memas Tour",
         "Mosu Warryn",
         "Palmira Natblida",
@@ -3101,6 +3136,7 @@
         "Blind Minds",
         "Breezy Reaver",
         "Chaca Choochoo",
+        "Christoph Crestanegra",
         "Coloso Tempestad",
         "Cuzcu Aker",
         "Diana Flechaveloz",
@@ -3440,6 +3476,7 @@
         "Althez Sendagris",
         "Archi Amnesia",
         "Betadine Pervinox",
+        "Breezy Reaver",
         "Cuzcu Aker",
         "Diana Flechaveloz",
         "Dum Bo",
@@ -3485,6 +3522,7 @@
         "Althez Sendagris",
         "Archi Amnesia",
         "Arthas Yevon",
+        "Breezy Reaver",
         "Chaca Choochoo",
         "Cuzcu Aker",
         "Diana Flechaveloz",
@@ -3514,6 +3552,7 @@
         "Althez Sendagris",
         "Archi Amnesia",
         "Arthas Yevon",
+        "Breezy Reaver",
         "Coloso Tempestad",
         "Dum Bo",
         "Edoras Duskranger",
@@ -3567,6 +3606,7 @@
         "Blind Minds",
         "Breezy Reaver",
         "Chaca Choochoo",
+        "Christoph Crestanegra",
         "Coloso Tempestad",
         "Cuzcu Aker",
         "Diana Flechaveloz",
@@ -3847,6 +3887,7 @@
       "profesion": "Cocina",
       "calidad": "common",
       "personajes": [
+        "Dum Bo",
         "Layrela Rondanit"
       ]
     },
@@ -3954,6 +3995,7 @@
         "Blind Minds",
         "Breezy Reaver",
         "Chaca Choochoo",
+        "Christoph Crestanegra",
         "Coloso Tempestad",
         "Cuzcu Aker",
         "Diana Flechaveloz",
@@ -4183,6 +4225,7 @@
       "personajes": [
         "Archi Amnesia",
         "Betadine Pervinox",
+        "Breezy Reaver",
         "Coloso Tempestad",
         "Diana Flechaveloz",
         "Dum Bo",
@@ -4430,6 +4473,7 @@
         "Althez Sendagris",
         "Archi Amnesia",
         "Arthas Yevon",
+        "Breezy Reaver",
         "Coloso Tempestad",
         "Cuzcu Aker",
         "Dum Bo",
@@ -4543,6 +4587,7 @@
       "calidad": "common",
       "personajes": [
         "Archi Amnesia",
+        "Christoph Crestanegra",
         "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
@@ -4563,6 +4608,7 @@
       "calidad": "common",
       "personajes": [
         "Archi Amnesia",
+        "Christoph Crestanegra",
         "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
@@ -4701,6 +4747,7 @@
       "profesion": "Encantamiento",
       "calidad": "common",
       "personajes": [
+        "Christoph Crestanegra",
         "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
@@ -4732,6 +4779,7 @@
       "calidad": "common",
       "personajes": [
         "Archi Amnesia",
+        "Christoph Crestanegra",
         "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
@@ -4768,6 +4816,7 @@
       "profesion": "Encantamiento",
       "calidad": "common",
       "personajes": [
+        "Christoph Crestanegra",
         "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
@@ -4788,6 +4837,7 @@
       "profesion": "Encantamiento",
       "calidad": "common",
       "personajes": [
+        "Christoph Crestanegra",
         "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
@@ -4822,6 +4872,7 @@
       "calidad": "common",
       "personajes": [
         "Archi Amnesia",
+        "Christoph Crestanegra",
         "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
@@ -4841,6 +4892,7 @@
       "profesion": "Encantamiento",
       "calidad": "common",
       "personajes": [
+        "Christoph Crestanegra",
         "Dum Bo"
       ]
     },
@@ -4849,6 +4901,7 @@
       "profesion": "Encantamiento",
       "calidad": "common",
       "personajes": [
+        "Christoph Crestanegra",
         "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
@@ -4945,6 +4998,7 @@
       "profesion": "Encantamiento",
       "calidad": "common",
       "personajes": [
+        "Christoph Crestanegra",
         "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
@@ -4967,6 +5021,7 @@
       "profesion": "Encantamiento",
       "calidad": "common",
       "personajes": [
+        "Christoph Crestanegra",
         "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
@@ -5034,6 +5089,7 @@
       "profesion": "Encantamiento",
       "calidad": "common",
       "personajes": [
+        "Christoph Crestanegra",
         "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
@@ -5106,6 +5162,7 @@
       "profesion": "Encantamiento",
       "calidad": "common",
       "personajes": [
+        "Christoph Crestanegra",
         "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
@@ -5117,6 +5174,7 @@
       "profesion": "Encantamiento",
       "calidad": "common",
       "personajes": [
+        "Christoph Crestanegra",
         "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
@@ -5194,6 +5252,7 @@
       "profesion": "Encantamiento",
       "calidad": "common",
       "personajes": [
+        "Christoph Crestanegra",
         "Dum Bo",
         "Finn Felagund"
       ]
@@ -5257,6 +5316,7 @@
       "profesion": "Encantamiento",
       "calidad": "common",
       "personajes": [
+        "Christoph Crestanegra",
         "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
@@ -5397,6 +5457,7 @@
       "profesion": "Encantamiento",
       "calidad": "common",
       "personajes": [
+        "Christoph Crestanegra",
         "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
@@ -5420,10 +5481,19 @@
       ]
     },
     {
+      "nombre": "Glimmering Staff",
+      "profesion": "Encantamiento",
+      "calidad": "rare",
+      "personajes": [
+        "Christoph Crestanegra"
+      ]
+    },
+    {
       "nombre": "Greater Magic Wand",
       "profesion": "Encantamiento",
       "calidad": "uncommon",
       "personajes": [
+        "Christoph Crestanegra",
         "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
@@ -5450,6 +5520,7 @@
       "profesion": "Encantamiento",
       "calidad": "uncommon",
       "personajes": [
+        "Christoph Crestanegra",
         "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
@@ -5523,6 +5594,7 @@
       "calidad": "common",
       "personajes": [
         "Archi Amnesia",
+        "Christoph Crestanegra",
         "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
@@ -5543,6 +5615,7 @@
       "calidad": "common",
       "personajes": [
         "Archi Amnesia",
+        "Christoph Crestanegra",
         "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
@@ -5573,6 +5646,7 @@
       "profesion": "Encantamiento",
       "calidad": "common",
       "personajes": [
+        "Christoph Crestanegra",
         "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
@@ -7543,6 +7617,14 @@
       ]
     },
     {
+      "nombre": "Catseye Ultra Goggles",
+      "profesion": "Ingeniería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Cuzcu Aker"
+      ]
+    },
+    {
       "nombre": "Coarse Blasting Powder",
       "profesion": "Ingeniería",
       "calidad": "common",
@@ -8506,6 +8588,7 @@
       "calidad": "uncommon",
       "personajes": [
         "Edoras Duskranger",
+        "Memas Tour",
         "Palmira Natblida",
         "Tankesito Khrih"
       ]
@@ -8530,11 +8613,28 @@
         "Aurelio Amador",
         "Diana Flechaveloz",
         "Edoras Duskranger",
+        "Ildaren Belisar",
         "Manelhon Gargon",
         "Memas Tour",
         "Palmira Natblida",
         "Runa Ruina",
         "Tankesito Khrih"
+      ]
+    },
+    {
+      "nombre": "Big Voodoo Mask",
+      "profesion": "Peletería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Memas Tour"
+      ]
+    },
+    {
+      "nombre": "Big Voodoo Pants",
+      "profesion": "Peletería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Memas Tour"
       ]
     },
     {
@@ -8711,6 +8811,7 @@
         "Diana Flechaveloz",
         "Edoras Duskranger",
         "Manelhon Gargon",
+        "Memas Tour",
         "Palmira Natblida",
         "Tankesito Khrih"
       ]
@@ -8848,6 +8949,7 @@
       "calidad": "uncommon",
       "personajes": [
         "Edoras Duskranger",
+        "Memas Tour",
         "Palmira Natblida",
         "Tankesito Khrih"
       ]
@@ -8859,6 +8961,7 @@
       "personajes": [
         "Diana Flechaveloz",
         "Edoras Duskranger",
+        "Memas Tour",
         "Palmira Natblida",
         "Tankesito Khrih"
       ]
@@ -8889,6 +8992,7 @@
       "profesion": "Peletería",
       "calidad": "uncommon",
       "personajes": [
+        "Breezy Reaver",
         "Diana Flechaveloz",
         "Edoras Duskranger",
         "Ildaren Belisar",
@@ -8942,6 +9046,7 @@
       "profesion": "Peletería",
       "calidad": "uncommon",
       "personajes": [
+        "Breezy Reaver",
         "Diana Flechaveloz",
         "Edoras Duskranger",
         "Ildaren Belisar",
@@ -9001,6 +9106,7 @@
       "profesion": "Peletería",
       "calidad": "uncommon",
       "personajes": [
+        "Breezy Reaver",
         "Diana Flechaveloz",
         "Edoras Duskranger",
         "Ildaren Belisar",
@@ -9150,6 +9256,7 @@
         "Diana Flechaveloz",
         "Edoras Duskranger",
         "Manelhon Gargon",
+        "Memas Tour",
         "Palmira Natblida",
         "Runa Ruina",
         "Tankesito Khrih"
@@ -9671,6 +9778,7 @@
         "Diana Flechaveloz",
         "Edoras Duskranger",
         "Manelhon Gargon",
+        "Memas Tour",
         "Palmira Natblida"
       ]
     },
@@ -9690,6 +9798,7 @@
         "Aurelio Amador",
         "Diana Flechaveloz",
         "Edoras Duskranger",
+        "Memas Tour",
         "Palmira Natblida"
       ]
     },
@@ -9732,6 +9841,7 @@
       "calidad": "uncommon",
       "personajes": [
         "Edoras Duskranger",
+        "Memas Tour",
         "Palmira Natblida"
       ]
     },
@@ -9779,6 +9889,7 @@
         "Aurelio Amador",
         "Diana Flechaveloz",
         "Edoras Duskranger",
+        "Ildaren Belisar",
         "Memas Tour",
         "Palmira Natblida",
         "Tankesito Khrih"
@@ -9800,6 +9911,14 @@
       "calidad": "rare",
       "personajes": [
         "Aurelio Amador"
+      ]
+    },
+    {
+      "nombre": "Skycaller's Mail Boots",
+      "profesion": "Peletería",
+      "calidad": "rare",
+      "personajes": [
+        "Memas Tour"
       ]
     },
     {
@@ -9865,6 +9984,7 @@
         "Diana Flechaveloz",
         "Edoras Duskranger",
         "Manelhon Gargon",
+        "Memas Tour",
         "Palmira Natblida",
         "Tankesito Khrih"
       ]
@@ -9878,6 +9998,7 @@
         "Diana Flechaveloz",
         "Edoras Duskranger",
         "Manelhon Gargon",
+        "Memas Tour",
         "Palmira Natblida",
         "Tankesito Khrih"
       ]
@@ -9888,6 +10009,7 @@
       "calidad": "uncommon",
       "personajes": [
         "Edoras Duskranger",
+        "Memas Tour",
         "Palmira Natblida"
       ]
     },
@@ -9987,6 +10109,7 @@
       "calidad": "uncommon",
       "personajes": [
         "Edoras Duskranger",
+        "Memas Tour",
         "Palmira Natblida"
       ]
     },
@@ -9996,6 +10119,7 @@
       "calidad": "uncommon",
       "personajes": [
         "Edoras Duskranger",
+        "Memas Tour",
         "Palmira Natblida"
       ]
     },
@@ -10035,6 +10159,7 @@
         "Aynita Again",
         "Betadine Pervinox",
         "Breezy Reaver",
+        "Christoph Crestanegra",
         "Coloso Tempestad",
         "Cuzcu Aker",
         "Diana Flechaveloz",
@@ -10074,6 +10199,7 @@
       "calidad": "common",
       "personajes": [
         "Betadine Pervinox",
+        "Christoph Crestanegra",
         "Coloso Tempestad",
         "Elfa Vorable",
         "Espartaco Gladiador",
@@ -10455,6 +10581,7 @@
         "Blind Minds",
         "Breezy Reaver",
         "Chaca Choochoo",
+        "Christoph Crestanegra",
         "Coloso Tempestad",
         "Cuzcu Aker",
         "Diana Flechaveloz",
@@ -10776,6 +10903,7 @@
       "calidad": "uncommon",
       "personajes": [
         "Archi Amnesia",
+        "Christoph Crestanegra",
         "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
@@ -10793,6 +10921,7 @@
       "calidad": "uncommon",
       "personajes": [
         "Archi Amnesia",
+        "Christoph Crestanegra",
         "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
@@ -10808,6 +10937,7 @@
       "calidad": "uncommon",
       "personajes": [
         "Archi Amnesia",
+        "Christoph Crestanegra",
         "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
@@ -10824,6 +10954,7 @@
       "personajes": [
         "Archi Amnesia",
         "Blind Minds",
+        "Christoph Crestanegra",
         "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
@@ -10850,6 +10981,7 @@
       "profesion": "Sastrería",
       "calidad": "uncommon",
       "personajes": [
+        "Christoph Crestanegra",
         "Dum Bo",
         "Finn Felagund",
         "Sr Byron"
@@ -10970,6 +11102,7 @@
         "Archi Amnesia",
         "Aynita Again",
         "Blind Minds",
+        "Christoph Crestanegra",
         "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
@@ -10990,6 +11123,7 @@
       "profesion": "Sastrería",
       "calidad": "common",
       "personajes": [
+        "Christoph Crestanegra",
         "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
@@ -11016,6 +11150,7 @@
       "calidad": "common",
       "personajes": [
         "Archi Amnesia",
+        "Christoph Crestanegra",
         "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
@@ -11034,6 +11169,7 @@
       "calidad": "common",
       "personajes": [
         "Archi Amnesia",
+        "Christoph Crestanegra",
         "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
@@ -11107,6 +11243,7 @@
         "Archi Amnesia",
         "Aynita Again",
         "Blind Minds",
+        "Christoph Crestanegra",
         "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
@@ -11172,6 +11309,7 @@
       "profesion": "Sastrería",
       "calidad": "uncommon",
       "personajes": [
+        "Christoph Crestanegra",
         "Dum Bo",
         "Finn Felagund",
         "Nimassus Pater",
@@ -11234,6 +11372,7 @@
       "profesion": "Sastrería",
       "calidad": "uncommon",
       "personajes": [
+        "Christoph Crestanegra",
         "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
@@ -11306,6 +11445,14 @@
       ]
     },
     {
+      "nombre": "Earthen Silk Slippers",
+      "profesion": "Sastrería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Christoph Crestanegra"
+      ]
+    },
+    {
       "nombre": "Earthen Vest",
       "profesion": "Sastrería",
       "calidad": "uncommon",
@@ -11350,6 +11497,7 @@
       "personajes": [
         "Archi Amnesia",
         "Blind Minds",
+        "Christoph Crestanegra",
         "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
@@ -11386,6 +11534,7 @@
       "profesion": "Sastrería",
       "calidad": "rare",
       "personajes": [
+        "Christoph Crestanegra",
         "Dum Bo",
         "Kadeharz Apsus",
         "Sr Byron"
@@ -11396,8 +11545,17 @@
       "profesion": "Sastrería",
       "calidad": "rare",
       "personajes": [
+        "Christoph Crestanegra",
         "Dum Bo",
         "Finn Felagund"
+      ]
+    },
+    {
+      "nombre": "Filigreed Flame Leggings",
+      "profesion": "Sastrería",
+      "calidad": "rare",
+      "personajes": [
+        "Christoph Crestanegra"
       ]
     },
     {
@@ -11406,6 +11564,14 @@
       "calidad": "rare",
       "personajes": [
         "Dum Bo"
+      ]
+    },
+    {
+      "nombre": "Filigreed Pearly Gown",
+      "profesion": "Sastrería",
+      "calidad": "rare",
+      "personajes": [
+        "Christoph Crestanegra"
       ]
     },
     {
@@ -11452,6 +11618,14 @@
       ]
     },
     {
+      "nombre": "Filigreed Shining Gown",
+      "profesion": "Sastrería",
+      "calidad": "rare",
+      "personajes": [
+        "Christoph Crestanegra"
+      ]
+    },
+    {
       "nombre": "Filigreed Shining Leggings",
       "profesion": "Sastrería",
       "calidad": "rare",
@@ -11460,12 +11634,29 @@
       ]
     },
     {
+      "nombre": "Filigreed Silky Circlet",
+      "profesion": "Sastrería",
+      "calidad": "rare",
+      "personajes": [
+        "Christoph Crestanegra"
+      ]
+    },
+    {
       "nombre": "Filigreed Silky Gown",
       "profesion": "Sastrería",
       "calidad": "rare",
       "personajes": [
+        "Christoph Crestanegra",
         "Finn Felagund",
         "Micro Bolas"
+      ]
+    },
+    {
+      "nombre": "Filigreed Silky Leggings",
+      "profesion": "Sastrería",
+      "calidad": "rare",
+      "personajes": [
+        "Christoph Crestanegra"
       ]
     },
     {
@@ -11503,6 +11694,7 @@
       "profesion": "Sastrería",
       "calidad": "rare",
       "personajes": [
+        "Christoph Crestanegra",
         "Dum Bo",
         "Elfa Vorable",
         "Sr Byron"
@@ -11559,6 +11751,7 @@
       "profesion": "Sastrería",
       "calidad": "uncommon",
       "personajes": [
+        "Christoph Crestanegra",
         "Dum Bo"
       ]
     },
@@ -11583,6 +11776,7 @@
       "calidad": "uncommon",
       "personajes": [
         "Archi Amnesia",
+        "Christoph Crestanegra",
         "Dum Bo",
         "Finn Felagund",
         "Kadeharz Apsus"
@@ -11613,6 +11807,7 @@
       "calidad": "common",
       "personajes": [
         "Archi Amnesia",
+        "Christoph Crestanegra",
         "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
@@ -11636,6 +11831,7 @@
       "profesion": "Sastrería",
       "calidad": "common",
       "personajes": [
+        "Christoph Crestanegra",
         "Dum Bo"
       ]
     },
@@ -11683,6 +11879,7 @@
       "profesion": "Sastrería",
       "calidad": "uncommon",
       "personajes": [
+        "Christoph Crestanegra",
         "Dum Bo"
       ]
     },
@@ -11692,6 +11889,7 @@
       "calidad": "uncommon",
       "personajes": [
         "Archi Amnesia",
+        "Christoph Crestanegra",
         "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
@@ -11711,6 +11909,7 @@
       "personajes": [
         "Archi Amnesia",
         "Blind Minds",
+        "Christoph Crestanegra",
         "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
@@ -11772,6 +11971,7 @@
       "profesion": "Sastrería",
       "calidad": "uncommon",
       "personajes": [
+        "Christoph Crestanegra",
         "Señor Ollivander"
       ]
     },
@@ -11810,6 +12010,7 @@
         "Archi Amnesia",
         "Aynita Again",
         "Blind Minds",
+        "Christoph Crestanegra",
         "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
@@ -11851,6 +12052,7 @@
       "personajes": [
         "Archi Amnesia",
         "Blind Minds",
+        "Christoph Crestanegra",
         "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
@@ -11870,6 +12072,7 @@
         "Archi Amnesia",
         "Aynita Again",
         "Blind Minds",
+        "Christoph Crestanegra",
         "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
@@ -11892,6 +12095,7 @@
       "personajes": [
         "Archi Amnesia",
         "Blind Minds",
+        "Christoph Crestanegra",
         "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
@@ -11938,6 +12142,7 @@
       "personajes": [
         "Archi Amnesia",
         "Blind Minds",
+        "Christoph Crestanegra",
         "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
@@ -12011,6 +12216,7 @@
       "calidad": "uncommon",
       "personajes": [
         "Archi Amnesia",
+        "Christoph Crestanegra",
         "Dum Bo",
         "Nimassus Pater",
         "Sr Byron"
@@ -12021,6 +12227,7 @@
       "profesion": "Sastrería",
       "calidad": "uncommon",
       "personajes": [
+        "Christoph Crestanegra",
         "Dum Bo"
       ]
     },
@@ -12058,6 +12265,7 @@
       "calidad": "common",
       "personajes": [
         "Archi Amnesia",
+        "Christoph Crestanegra",
         "Dum Bo",
         "Elfa Vorable",
         "Kadeharz Apsus",
@@ -12096,6 +12304,7 @@
       "profesion": "Sastrería",
       "calidad": "uncommon",
       "personajes": [
+        "Christoph Crestanegra",
         "Dum Bo",
         "Vaporeta Pizpireta"
       ]
@@ -12152,6 +12361,7 @@
       "calidad": "common",
       "personajes": [
         "Archi Amnesia",
+        "Christoph Crestanegra",
         "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
@@ -12165,6 +12375,7 @@
       "profesion": "Sastrería",
       "calidad": "uncommon",
       "personajes": [
+        "Christoph Crestanegra",
         "Dum Bo",
         "Micro Bolas",
         "Sr Byron"
@@ -12195,6 +12406,7 @@
       "profesion": "Sastrería",
       "calidad": "uncommon",
       "personajes": [
+        "Christoph Crestanegra",
         "Dum Bo",
         "Saint Peligroxa",
         "Señor Ollivander"
@@ -12323,6 +12535,7 @@
       "calidad": "uncommon",
       "personajes": [
         "Archi Amnesia",
+        "Christoph Crestanegra",
         "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
@@ -12359,6 +12572,7 @@
         "Archi Amnesia",
         "Aynita Again",
         "Blind Minds",
+        "Christoph Crestanegra",
         "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
@@ -12380,6 +12594,7 @@
       "calidad": "common",
       "personajes": [
         "Archi Amnesia",
+        "Christoph Crestanegra",
         "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
@@ -12426,6 +12641,7 @@
       "profesion": "Sastrería",
       "calidad": "uncommon",
       "personajes": [
+        "Christoph Crestanegra",
         "Dum Bo",
         "Sr Byron"
       ]
@@ -12495,6 +12711,7 @@
       "profesion": "Sastrería",
       "calidad": "uncommon",
       "personajes": [
+        "Christoph Crestanegra",
         "Dum Bo",
         "Kadeharz Apsus"
       ]
@@ -12594,6 +12811,7 @@
       "calidad": "common",
       "personajes": [
         "Archi Amnesia",
+        "Christoph Crestanegra",
         "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
@@ -12610,6 +12828,7 @@
       "calidad": "uncommon",
       "personajes": [
         "Archi Amnesia",
+        "Christoph Crestanegra",
         "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
@@ -12646,6 +12865,7 @@
       "calidad": "common",
       "personajes": [
         "Archi Amnesia",
+        "Christoph Crestanegra",
         "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",

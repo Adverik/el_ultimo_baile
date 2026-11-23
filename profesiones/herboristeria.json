@@ -31,7 +31,7 @@
       "personaje": "Fran Furion",
       "clase": "druid",
       "raider": true,
-      "nivel": 261,
+      "nivel": 267,
       "max": 300,
       "pct": 33
     },
@@ -47,7 +47,7 @@
       "personaje": "Layrela Rondanit",
       "clase": "druid",
       "raider": true,
-      "nivel": 234,
+      "nivel": 238,
       "max": 300,
       "pct": 33
     },
@@ -55,7 +55,7 @@
       "personaje": "Don Josechu",
       "clase": "warlock",
       "raider": false,
-      "nivel": 192,
+      "nivel": 197,
       "max": 225,
       "pct": 33
     },
@@ -63,7 +63,7 @@
       "personaje": "Genethika Brisaveloz",
       "clase": "hunter",
       "raider": false,
-      "nivel": 156,
+      "nivel": 164,
       "max": 225,
       "pct": 33
     },
@@ -95,7 +95,7 @@
       "personaje": "Tanki Llo",
       "clase": "warlock",
       "raider": false,
-      "nivel": 50,
+      "nivel": 53,
       "max": 150,
       "pct": 33
     },

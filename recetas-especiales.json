@@ -1,6 +1,68 @@
 {
-  "actualizado": "2026-11-22",
+  "actualizado": "2026-11-23",
   "recetas": [
+    {
+      "id": 54409,
+      "n": "Bastón de luz trémula",
+      "q": "rare",
+      "ico": "135156",
+      "reac": [
+        [
+          "Fragmento con luz trémula grande",
+          4
+        ],
+        [
+          "Fragmento de luz trémula pequeño",
+          2
+        ],
+        [
+          "Madera de estrella",
+          4
+        ],
+        [
+          "Esencia astral superior",
+          1
+        ],
+        [
+          "Polvo extraño",
+          5
+        ],
+        [
+          "Pirita",
+          3
+        ]
+      ],
+      "desc": "Crea un bastón de luz trémula.",
+      "obj": {
+        "dano": "32 - 49 Daño",
+        "dps": "(18,4 daño por segundo)",
+        "id": 249392,
+        "ilvl": 30,
+        "lig": "Se liga al recogerlo",
+        "n": "Bastón de luz trémula",
+        "q": "rare",
+        "ranura": "Dos manos",
+        "req": 25,
+        "stats": [
+          "+11 intelecto",
+          "+11 aguante"
+        ],
+        "sub": "Bastón",
+        "vel": "Velocidad 2,20",
+        "venta": [
+          "0",
+          "6",
+          "1"
+        ]
+      },
+      "profesion": "Encantamiento",
+      "personajes": [
+        {
+          "n": "Christoph Crestanegra",
+          "clase": "mage"
+        }
+      ]
+    },
     {
       "id": 54403,
       "n": "Champiñón místico",
@@ -1678,11 +1740,11 @@
       "profesion": "Peletería",
       "personajes": [
         {
-          "n": "Manelhon Gargon",
+          "n": "Memas Tour",
           "clase": "shaman"
         },
         {
-          "n": "Memas Tour",
+          "n": "Manelhon Gargon",
           "clase": "shaman"
         }
       ]
@@ -1933,6 +1995,10 @@
           "clase": "rogue"
         },
         {
+          "n": "Memas Tour",
+          "clase": "shaman"
+        },
+        {
           "n": "Palmira Natblida",
           "clase": "rogue"
         },
@@ -1957,10 +2023,6 @@
           "clase": "druid"
         },
         {
-          "n": "Memas Tour",
-          "clase": "shaman"
-        },
-        {
           "n": "Ildaren Belisar",
           "clase": "rogue"
         },
@@ -1970,6 +2032,55 @@
         },
         {
           "n": "Breezy Reaver",
+          "clase": "shaman"
+        }
+      ]
+    },
+    {
+      "id": 55071,
+      "n": "Botas de malla de clamacielos",
+      "q": "rare",
+      "ico": "457758",
+      "reac": [
+        [
+          "Cuero pesado",
+          8
+        ],
+        [
+          "Pellejo medio curado",
+          2
+        ],
+        [
+          "Elemental de agua",
+          2
+        ]
+      ],
+      "obj": {
+        "arm": "188 armadura",
+        "id": 252563,
+        "ilvl": 45,
+        "lig": "Se liga al recogerlo",
+        "n": "Botas de malla de clamacielos",
+        "q": "rare",
+        "ranura": "Pies",
+        "req": 40,
+        "stats": [
+          "+7 intelecto",
+          "+7 aguante",
+          "+13 poder con hechizos",
+          "+5 espíritu"
+        ],
+        "sub": "Mallas",
+        "venta": [
+          "0",
+          "86",
+          "22"
+        ]
+      },
+      "profesion": "Peletería",
+      "personajes": [
+        {
+          "n": "Memas Tour",
           "clase": "shaman"
         }
       ]
@@ -2016,6 +2127,10 @@
       "profesion": "Peletería",
       "personajes": [
         {
+          "n": "Memas Tour",
+          "clase": "shaman"
+        },
+        {
           "n": "Palmira Natblida",
           "clase": "rogue"
         },
@@ -2026,10 +2141,6 @@
         {
           "n": "Tankesito Khrih",
           "clase": "druid"
-        },
-        {
-          "n": "Memas Tour",
-          "clase": "shaman"
         },
         {
           "n": "Ildaren Belisar",
@@ -2204,6 +2315,10 @@
       "profesion": "Peletería",
       "personajes": [
         {
+          "n": "Memas Tour",
+          "clase": "shaman"
+        },
+        {
           "n": "Palmira Natblida",
           "clase": "rogue"
         },
@@ -2214,10 +2329,6 @@
         {
           "n": "Tankesito Khrih",
           "clase": "druid"
-        },
-        {
-          "n": "Memas Tour",
-          "clase": "shaman"
         }
       ]
     },
@@ -2325,16 +2436,16 @@
       "profesion": "Peletería",
       "personajes": [
         {
+          "n": "Memas Tour",
+          "clase": "shaman"
+        },
+        {
           "n": "Palmira Natblida",
           "clase": "rogue"
         },
         {
           "n": "Tankesito Khrih",
           "clase": "druid"
-        },
-        {
-          "n": "Memas Tour",
-          "clase": "shaman"
         }
       ]
     },
@@ -2382,16 +2493,16 @@
       "profesion": "Peletería",
       "personajes": [
         {
+          "n": "Memas Tour",
+          "clase": "shaman"
+        },
+        {
           "n": "Palmira Natblida",
           "clase": "rogue"
         },
         {
           "n": "Tankesito Khrih",
           "clase": "druid"
-        },
-        {
-          "n": "Memas Tour",
-          "clase": "shaman"
         }
       ]
     },
@@ -2440,6 +2551,10 @@
       "profesion": "Peletería",
       "personajes": [
         {
+          "n": "Memas Tour",
+          "clase": "shaman"
+        },
+        {
           "n": "Palmira Natblida",
           "clase": "rogue"
         },
@@ -2450,10 +2565,6 @@
         {
           "n": "Tankesito Khrih",
           "clase": "druid"
-        },
-        {
-          "n": "Memas Tour",
-          "clase": "shaman"
         }
       ]
     },
@@ -2501,6 +2612,10 @@
       "profesion": "Peletería",
       "personajes": [
         {
+          "n": "Memas Tour",
+          "clase": "shaman"
+        },
+        {
           "n": "Palmira Natblida",
           "clase": "rogue"
         },
@@ -2511,10 +2626,6 @@
         {
           "n": "Tankesito Khrih",
           "clase": "druid"
-        },
-        {
-          "n": "Memas Tour",
-          "clase": "shaman"
         }
       ]
     },
@@ -2562,6 +2673,10 @@
       "profesion": "Peletería",
       "personajes": [
         {
+          "n": "Memas Tour",
+          "clase": "shaman"
+        },
+        {
           "n": "Palmira Natblida",
           "clase": "rogue"
         },
@@ -2572,10 +2687,6 @@
         {
           "n": "Tankesito Khrih",
           "clase": "druid"
-        },
-        {
-          "n": "Memas Tour",
-          "clase": "shaman"
         }
       ]
     },
@@ -2627,6 +2738,10 @@
           "clase": "rogue"
         },
         {
+          "n": "Memas Tour",
+          "clase": "shaman"
+        },
+        {
           "n": "Palmira Natblida",
           "clase": "rogue"
         },
@@ -2643,8 +2758,8 @@
           "clase": "druid"
         },
         {
-          "n": "Memas Tour",
-          "clase": "shaman"
+          "n": "Ildaren Belisar",
+          "clase": "rogue"
         }
       ]
     },
@@ -2691,16 +2806,16 @@
       "profesion": "Peletería",
       "personajes": [
         {
+          "n": "Memas Tour",
+          "clase": "shaman"
+        },
+        {
           "n": "Palmira Natblida",
           "clase": "rogue"
         },
         {
           "n": "Edoras Duskranger",
           "clase": "hunter"
-        },
-        {
-          "n": "Memas Tour",
-          "clase": "shaman"
         },
         {
           "n": "Tom Kha",
@@ -2823,6 +2938,10 @@
           "clase": "rogue"
         },
         {
+          "n": "Memas Tour",
+          "clase": "shaman"
+        },
+        {
           "n": "Palmira Natblida",
           "clase": "rogue"
         },
@@ -2841,10 +2960,6 @@
         {
           "n": "Tankesito Khrih",
           "clase": "druid"
-        },
-        {
-          "n": "Memas Tour",
-          "clase": "shaman"
         }
       ]
     },
@@ -3187,11 +3302,11 @@
       "profesion": "Peletería",
       "personajes": [
         {
-          "n": "Manelhon Gargon",
+          "n": "Memas Tour",
           "clase": "shaman"
         },
         {
-          "n": "Memas Tour",
+          "n": "Manelhon Gargon",
           "clase": "shaman"
         }
       ]
@@ -3239,6 +3354,10 @@
       "profesion": "Peletería",
       "personajes": [
         {
+          "n": "Memas Tour",
+          "clase": "shaman"
+        },
+        {
           "n": "Palmira Natblida",
           "clase": "rogue"
         },
@@ -3249,10 +3368,6 @@
         {
           "n": "Tankesito Khrih",
           "clase": "druid"
-        },
-        {
-          "n": "Memas Tour",
-          "clase": "shaman"
         },
         {
           "n": "Ildaren Belisar",
@@ -3359,6 +3474,10 @@
       "profesion": "Peletería",
       "personajes": [
         {
+          "n": "Memas Tour",
+          "clase": "shaman"
+        },
+        {
           "n": "Palmira Natblida",
           "clase": "rogue"
         },
@@ -3369,10 +3488,6 @@
         {
           "n": "Tankesito Khrih",
           "clase": "druid"
-        },
-        {
-          "n": "Memas Tour",
-          "clase": "shaman"
         },
         {
           "n": "Ildaren Belisar",
@@ -3882,6 +3997,10 @@
           "clase": "warlock"
         },
         {
+          "n": "Christoph Crestanegra",
+          "clase": "mage"
+        },
+        {
           "n": "Kadeharz Apsus",
           "clase": "mage"
         }
@@ -4063,6 +4182,57 @@
       ]
     },
     {
+      "id": 55469,
+      "n": "Diadema sedosa de filigrana",
+      "q": "rare",
+      "ico": "132767",
+      "reac": [
+        [
+          "Madeja de paño de seda",
+          8
+        ],
+        [
+          "Hilo refinado",
+          4
+        ],
+        [
+          "Tinte cerúleo",
+          2
+        ],
+        [
+          "Seda de araña",
+          6
+        ]
+      ],
+      "obj": {
+        "arm": "38 armadura",
+        "id": 253977,
+        "ilvl": 30,
+        "lig": "Se liga al recogerlo",
+        "n": "Diadema sedosa de filigrana",
+        "q": "rare",
+        "ranura": "Cabeza",
+        "req": 25,
+        "stats": [
+          "+12 aguante",
+          "+14 Daño de Escarcha"
+        ],
+        "sub": "Tela",
+        "venta": [
+          "0",
+          "16",
+          "16"
+        ]
+      },
+      "profesion": "Sastrería",
+      "personajes": [
+        {
+          "n": "Christoph Crestanegra",
+          "clase": "mage"
+        }
+      ]
+    },
+    {
       "id": 55423,
       "n": "Fajín de arcanista novicio",
       "q": "rare",
@@ -4115,6 +4285,10 @@
         {
           "n": "Sr Byron",
           "clase": "warlock"
+        },
+        {
+          "n": "Christoph Crestanegra",
+          "clase": "mage"
         },
         {
           "n": "Señor Ollivander",
@@ -4252,6 +4426,59 @@
       ]
     },
     {
+      "id": 55436,
+      "n": "Gonela brillante de filigrana",
+      "q": "rare",
+      "ico": "132667",
+      "reac": [
+        [
+          "Madeja de paño de lana",
+          8
+        ],
+        [
+          "Hilo refinado",
+          4
+        ],
+        [
+          "Tinte cerúleo",
+          2
+        ],
+        [
+          "Pirita",
+          2
+        ]
+      ],
+      "obj": {
+        "arm": "37 armadura",
+        "id": 253911,
+        "ilvl": 20,
+        "lig": "Se liga al recogerlo",
+        "n": "Gonela brillante de filigrana",
+        "q": "rare",
+        "ranura": "Pecho",
+        "req": 15,
+        "stats": [
+          "+5 intelecto",
+          "+4 aguante",
+          "+3 espíritu",
+          "+9 Daño Sagrado"
+        ],
+        "sub": "Tela",
+        "venta": [
+          "0",
+          "6",
+          "50"
+        ]
+      },
+      "profesion": "Sastrería",
+      "personajes": [
+        {
+          "n": "Christoph Crestanegra",
+          "clase": "mage"
+        }
+      ]
+    },
+    {
       "id": 55464,
       "n": "Gonela de las Sombras",
       "q": "rare",
@@ -4365,6 +4592,63 @@
         },
         {
           "n": "Dum Bo",
+          "clase": "mage"
+        },
+        {
+          "n": "Christoph Crestanegra",
+          "clase": "mage"
+        }
+      ]
+    },
+    {
+      "id": 55435,
+      "n": "Gonela nacarada de filigrana",
+      "q": "rare",
+      "ico": "132692",
+      "reac": [
+        [
+          "Madeja de paño de lana",
+          8
+        ],
+        [
+          "Hilo refinado",
+          4
+        ],
+        [
+          "Tinte cerúleo",
+          2
+        ],
+        [
+          "Perla lustrosa pequeña",
+          2
+        ]
+      ],
+      "obj": {
+        "arm": "37 armadura",
+        "id": 253909,
+        "ilvl": 20,
+        "lig": "Se liga al recogerlo",
+        "n": "Gonela nacarada de filigrana",
+        "q": "rare",
+        "ranura": "Pecho",
+        "req": 15,
+        "stats": [
+          "+5 intelecto",
+          "+4 aguante",
+          "+3 espíritu",
+          "+9 Daño Arcano"
+        ],
+        "sub": "Tela",
+        "venta": [
+          "0",
+          "7",
+          "13"
+        ]
+      },
+      "profesion": "Sastrería",
+      "personajes": [
+        {
+          "n": "Christoph Crestanegra",
           "clase": "mage"
         }
       ]
@@ -4481,6 +4765,10 @@
         {
           "n": "Finn Felagund",
           "clase": "priest"
+        },
+        {
+          "n": "Christoph Crestanegra",
+          "clase": "mage"
         },
         {
           "n": "Micro Bolas",
@@ -4837,6 +5125,59 @@
       ]
     },
     {
+      "id": 55451,
+      "n": "Leotardos de llamas de filigrana",
+      "q": "rare",
+      "ico": "134586",
+      "reac": [
+        [
+          "Madeja de paño de seda",
+          8
+        ],
+        [
+          "Hilo refinado",
+          4
+        ],
+        [
+          "Tinte cerúleo",
+          2
+        ],
+        [
+          "Aceite de fuego",
+          4
+        ]
+      ],
+      "obj": {
+        "arm": "37 armadura",
+        "id": 253941,
+        "ilvl": 25,
+        "lig": "Se liga al recogerlo",
+        "n": "Leotardos de llamas de filigrana",
+        "q": "rare",
+        "ranura": "Piernas",
+        "req": 20,
+        "stats": [
+          "+6 intelecto",
+          "+5 aguante",
+          "+4 espíritu",
+          "+11 Daño de Fuego"
+        ],
+        "sub": "Tela",
+        "venta": [
+          "0",
+          "13",
+          "22"
+        ]
+      },
+      "profesion": "Sastrería",
+      "personajes": [
+        {
+          "n": "Christoph Crestanegra",
+          "clase": "mage"
+        }
+      ]
+    },
+    {
       "id": 55453,
       "n": "Leotardos nacarados de filigrana",
       "q": "rare",
@@ -4940,6 +5281,59 @@
         {
           "n": "Nimassus Pater",
           "clase": "priest"
+        }
+      ]
+    },
+    {
+      "id": 55450,
+      "n": "Leotardos sedosos de filigrana",
+      "q": "rare",
+      "ico": "134588",
+      "reac": [
+        [
+          "Madeja de paño de seda",
+          8
+        ],
+        [
+          "Hilo refinado",
+          4
+        ],
+        [
+          "Tinte cerúleo",
+          2
+        ],
+        [
+          "Seda de araña",
+          4
+        ]
+      ],
+      "obj": {
+        "arm": "37 armadura",
+        "id": 253939,
+        "ilvl": 25,
+        "lig": "Se liga al recogerlo",
+        "n": "Leotardos sedosos de filigrana",
+        "q": "rare",
+        "ranura": "Piernas",
+        "req": 20,
+        "stats": [
+          "+6 intelecto",
+          "+5 aguante",
+          "+4 espíritu",
+          "+11 Daño de Escarcha"
+        ],
+        "sub": "Tela",
+        "venta": [
+          "0",
+          "13",
+          "12"
+        ]
+      },
+      "profesion": "Sastrería",
+      "personajes": [
+        {
+          "n": "Christoph Crestanegra",
+          "clase": "mage"
         }
       ]
     },
@@ -5207,6 +5601,10 @@
         {
           "n": "Sr Byron",
           "clase": "warlock"
+        },
+        {
+          "n": "Christoph Crestanegra",
+          "clase": "mage"
         },
         {
           "n": "Elfa Vorable",

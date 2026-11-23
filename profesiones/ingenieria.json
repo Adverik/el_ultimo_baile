@@ -17,7 +17,7 @@
       "raider": true,
       "nivel": 229,
       "max": 300,
-      "pct": 17
+      "pct": 18
     },
     {
       "personaje": "Jonaver Legends",
@@ -5256,7 +5256,9 @@
               "98"
             ]
           },
-          "quien": []
+          "quien": [
+            1
+          ]
         },
         {
           "id": 6872,

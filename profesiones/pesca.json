@@ -12,6 +12,14 @@
       "pct": 67
     },
     {
+      "personaje": "Christoph Crestanegra",
+      "clase": "mage",
+      "raider": false,
+      "nivel": 225,
+      "max": 225,
+      "pct": 33
+    },
+    {
       "personaje": "Finn Felagund",
       "clase": "priest",
       "raider": false,
@@ -32,6 +40,14 @@
       "clase": "warrior",
       "raider": true,
       "nivel": 211,
+      "max": 225,
+      "pct": 33
+    },
+    {
+      "personaje": "Palmira Natblida",
+      "clase": "rogue",
+      "raider": true,
+      "nivel": 199,
       "max": 225,
       "pct": 33
     },
@@ -64,14 +80,6 @@
       "clase": "druid",
       "raider": false,
       "nivel": 175,
-      "max": 225,
-      "pct": 33
-    },
-    {
-      "personaje": "Palmira Natblida",
-      "clase": "rogue",
-      "raider": true,
-      "nivel": 165,
       "max": 225,
       "pct": 33
     },
@@ -116,18 +124,18 @@
       "pct": 33
     },
     {
-      "personaje": "Tankesito Khrih",
-      "clase": "druid",
-      "raider": false,
+      "personaje": "Cuzcu Aker",
+      "clase": "paladin",
+      "raider": true,
       "nivel": 130,
       "max": 150,
       "pct": 33
     },
     {
-      "personaje": "Cuzcu Aker",
-      "clase": "paladin",
-      "raider": true,
-      "nivel": 128,
+      "personaje": "Tankesito Khrih",
+      "clase": "druid",
+      "raider": false,
+      "nivel": 130,
       "max": 150,
       "pct": 33
     },
@@ -470,7 +478,8 @@
             32,
             33,
             34,
-            35
+            35,
+            36
           ]
         },
         {
