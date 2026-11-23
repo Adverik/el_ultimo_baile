@@ -31,7 +31,7 @@
       "personaje": "Khyoraku Shunsui",
       "clase": "warrior",
       "raider": true,
-      "nivel": 233,
+      "nivel": 236,
       "max": 300,
       "pct": 53
     },
@@ -46,7 +46,7 @@
     {
       "personaje": "Espartaco Gladiador",
       "clase": "warrior",
-      "raider": true,
+      "raider": false,
       "nivel": 225,
       "max": 300,
       "pct": 59
@@ -55,7 +55,7 @@
       "personaje": "Cuzcu Aker",
       "clase": "paladin",
       "raider": true,
-      "nivel": 222,
+      "nivel": 224,
       "max": 300,
       "pct": 53
     },
@@ -79,7 +79,7 @@
       "personaje": "Llamas Xx",
       "clase": "warrior",
       "raider": false,
-      "nivel": 206,
+      "nivel": 208,
       "max": 300,
       "pct": 53
     },
@@ -135,7 +135,7 @@
       "personaje": "Arthas Yevon",
       "clase": "paladin",
       "raider": false,
-      "nivel": 120,
+      "nivel": 126,
       "max": 150,
       "pct": 29
     },
@@ -151,7 +151,7 @@
       "personaje": "Samael Thallanor",
       "clase": "hunter",
       "raider": false,
-      "nivel": 102,
+      "nivel": 115,
       "max": 150,
       "pct": 29
     },
@@ -183,7 +183,7 @@
       "personaje": "Tanki Llo",
       "clase": "warlock",
       "raider": false,
-      "nivel": 49,
+      "nivel": 51,
       "max": 75,
       "pct": 6
     },

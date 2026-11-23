@@ -54,7 +54,7 @@
     {
       "personaje": "Runa Ruina",
       "clase": "shaman",
-      "raider": true,
+      "raider": false,
       "nivel": 178,
       "max": 225,
       "pct": 7

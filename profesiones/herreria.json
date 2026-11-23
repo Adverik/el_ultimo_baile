@@ -22,7 +22,7 @@
     {
       "personaje": "Espartaco Gladiador",
       "clase": "warrior",
-      "raider": true,
+      "raider": false,
       "nivel": 204,
       "max": 300,
       "pct": 13
@@ -71,7 +71,7 @@
       "personaje": "Hugo Forjaluz",
       "clase": "paladin",
       "raider": false,
-      "nivel": 110,
+      "nivel": 112,
       "max": 150,
       "pct": 10
     },

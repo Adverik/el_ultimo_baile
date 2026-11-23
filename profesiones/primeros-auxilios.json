@@ -39,7 +39,7 @@
       "personaje": "Edoras Duskranger",
       "clase": "hunter",
       "raider": true,
-      "nivel": 269,
+      "nivel": 270,
       "max": 300,
       "pct": 47
     },
@@ -62,7 +62,7 @@
     {
       "personaje": "Runa Ruina",
       "clase": "shaman",
-      "raider": true,
+      "raider": false,
       "nivel": 235,
       "max": 300,
       "pct": 47
@@ -78,7 +78,7 @@
     {
       "personaje": "Espartaco Gladiador",
       "clase": "warrior",
-      "raider": true,
+      "raider": false,
       "nivel": 222,
       "max": 225,
       "pct": 25
@@ -103,7 +103,7 @@
       "personaje": "Llamas Xx",
       "clase": "warrior",
       "raider": false,
-      "nivel": 195,
+      "nivel": 196,
       "max": 225,
       "pct": 38
     },
@@ -183,17 +183,17 @@
       "personaje": "Arthas Yevon",
       "clase": "paladin",
       "raider": false,
-      "nivel": 143,
+      "nivel": 144,
       "max": 150,
-      "pct": 28
+      "pct": 34
     },
     {
       "personaje": "Breezy Reaver",
       "clase": "shaman",
       "raider": false,
-      "nivel": 124,
+      "nivel": 130,
       "max": 150,
-      "pct": 28
+      "pct": 34
     },
     {
       "personaje": "Hugo Forjaluz",
@@ -201,7 +201,7 @@
       "raider": false,
       "nivel": 124,
       "max": 150,
-      "pct": 31
+      "pct": 34
     },
     {
       "personaje": "Tharindel Magnaluz",
@@ -212,20 +212,20 @@
       "pct": 28
     },
     {
+      "personaje": "Samael Thallanor",
+      "clase": "hunter",
+      "raider": false,
+      "nivel": 116,
+      "max": 150,
+      "pct": 25
+    },
+    {
       "personaje": "Dio Hotmetal",
       "clase": "hunter",
       "raider": false,
       "nivel": 95,
       "max": 150,
       "pct": 16
-    },
-    {
-      "personaje": "Samael Thallanor",
-      "clase": "hunter",
-      "raider": false,
-      "nivel": 84,
-      "max": 150,
-      "pct": 12
     },
     {
       "personaje": "Filps Pachamamamon",
@@ -238,7 +238,7 @@
     {
       "personaje": "Fitipaldi Sendaumbria",
       "clase": "rogue",
-      "raider": true,
+      "raider": false,
       "nivel": 78,
       "max": 150,
       "pct": 16
@@ -310,7 +310,7 @@
     {
       "personaje": "Vaporeta Pizpireta",
       "clase": "mage",
-      "raider": true,
+      "raider": false,
       "nivel": 41,
       "max": 75,
       "pct": 6
@@ -366,7 +366,7 @@
     {
       "personaje": "Blind Minds",
       "clase": "priest",
-      "raider": true,
+      "raider": false,
       "nivel": 1,
       "max": 75,
       "pct": 3
@@ -523,6 +523,7 @@
             24,
             25,
             26,
+            27,
             28,
             29,
             30,
@@ -586,7 +587,8 @@
             22,
             23,
             24,
-            25
+            25,
+            26
           ]
         },
         {
@@ -637,6 +639,8 @@
             18,
             20,
             21,
+            22,
+            23,
             24,
             25
           ]
@@ -984,7 +988,8 @@
             22,
             23,
             24,
-            25
+            25,
+            26
           ]
         },
         {
@@ -1173,7 +1178,10 @@
             16,
             17,
             20,
-            21
+            21,
+            22,
+            23,
+            24
           ]
         },
         {
@@ -1350,7 +1358,8 @@
             22,
             23,
             24,
-            25
+            25,
+            26
           ]
         },
         {

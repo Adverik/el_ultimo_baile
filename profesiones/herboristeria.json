@@ -55,7 +55,7 @@
       "personaje": "Don Josechu",
       "clase": "warlock",
       "raider": false,
-      "nivel": 197,
+      "nivel": 198,
       "max": 225,
       "pct": 33
     },
@@ -95,7 +95,7 @@
       "personaje": "Tanki Llo",
       "clase": "warlock",
       "raider": false,
-      "nivel": 53,
+      "nivel": 55,
       "max": 150,
       "pct": 33
     },
@@ -110,7 +110,7 @@
     {
       "personaje": "Blind Minds",
       "clase": "priest",
-      "raider": true,
+      "raider": false,
       "nivel": 25,
       "max": 75,
       "pct": 0
@@ -118,7 +118,7 @@
     {
       "personaje": "Fitipaldi Sendaumbria",
       "clase": "rogue",
-      "raider": true,
+      "raider": false,
       "nivel": 16,
       "max": 75,
       "pct": 0

@@ -7,7 +7,7 @@
       "personaje": "Finn Felagund",
       "clase": "priest",
       "raider": false,
-      "nivel": 257,
+      "nivel": 258,
       "max": 300,
       "pct": 30
     },
@@ -78,7 +78,7 @@
     {
       "personaje": "Vaporeta Pizpireta",
       "clase": "mage",
-      "raider": true,
+      "raider": false,
       "nivel": 54,
       "max": 75,
       "pct": 5

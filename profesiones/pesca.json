@@ -12,6 +12,14 @@
       "pct": 67
     },
     {
+      "personaje": "Finn Felagund",
+      "clase": "priest",
+      "raider": false,
+      "nivel": 226,
+      "max": 300,
+      "pct": 33
+    },
+    {
       "personaje": "Christoph Crestanegra",
       "clase": "mage",
       "raider": false,
@@ -20,11 +28,11 @@
       "pct": 33
     },
     {
-      "personaje": "Finn Felagund",
-      "clase": "priest",
+      "personaje": "Coloso Tempestad",
+      "clase": "warrior",
       "raider": false,
       "nivel": 225,
-      "max": 225,
+      "max": 300,
       "pct": 33
     },
     {
@@ -38,7 +46,7 @@
     {
       "personaje": "Espartaco Gladiador",
       "clase": "warrior",
-      "raider": true,
+      "raider": false,
       "nivel": 211,
       "max": 225,
       "pct": 33
@@ -88,14 +96,6 @@
       "clase": "paladin",
       "raider": false,
       "nivel": 156,
-      "max": 225,
-      "pct": 33
-    },
-    {
-      "personaje": "Coloso Tempestad",
-      "clase": "warrior",
-      "raider": false,
-      "nivel": 150,
       "max": 225,
       "pct": 33
     },
@@ -156,18 +156,18 @@
       "pct": 33
     },
     {
-      "personaje": "Layrela Rondanit",
-      "clase": "druid",
-      "raider": true,
-      "nivel": 107,
+      "personaje": "Sr Byron",
+      "clase": "warlock",
+      "raider": false,
+      "nivel": 110,
       "max": 150,
       "pct": 33
     },
     {
-      "personaje": "Sr Byron",
-      "clase": "warlock",
-      "raider": false,
-      "nivel": 106,
+      "personaje": "Layrela Rondanit",
+      "clase": "druid",
+      "raider": true,
+      "nivel": 107,
       "max": 150,
       "pct": 33
     },
@@ -247,7 +247,7 @@
       "personaje": "Hugo Forjaluz",
       "clase": "paladin",
       "raider": false,
-      "nivel": 35,
+      "nivel": 38,
       "max": 75,
       "pct": 33
     },
@@ -278,7 +278,7 @@
     {
       "personaje": "Vaporeta Pizpireta",
       "clase": "mage",
-      "raider": true,
+      "raider": false,
       "nivel": 22,
       "max": 75,
       "pct": 33
@@ -302,7 +302,7 @@
     {
       "personaje": "Blind Minds",
       "clase": "priest",
-      "raider": true,
+      "raider": false,
       "nivel": 13,
       "max": 75,
       "pct": 0

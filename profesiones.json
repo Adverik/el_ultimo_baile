@@ -89,17 +89,17 @@
       "profesiones": [
         {
           "nombre": "Desuello",
-          "nivel": 158,
+          "nivel": 169,
           "max": 225
         },
         {
           "nombre": "Minería",
-          "nivel": 120,
+          "nivel": 126,
           "max": 150
         },
         {
           "nombre": "Cocina",
-          "nivel": 116,
+          "nivel": 126,
           "max": 150
         },
         {
@@ -109,7 +109,7 @@
         },
         {
           "nombre": "Primeros auxilios",
-          "nivel": 143,
+          "nivel": 144,
           "max": 150
         }
       ]
@@ -215,7 +215,7 @@
     {
       "personaje": "Blind Minds",
       "clase": "priest",
-      "raider": true,
+      "raider": false,
       "profesiones": [
         {
           "nombre": "Sastrería",
@@ -271,7 +271,7 @@
         },
         {
           "nombre": "Primeros auxilios",
-          "nivel": 124,
+          "nivel": 130,
           "max": 150
         }
       ]
@@ -357,13 +357,13 @@
         },
         {
           "nombre": "Cocina",
-          "nivel": 169,
-          "max": 225
+          "nivel": 284,
+          "max": 300
         },
         {
           "nombre": "Pesca",
-          "nivel": 150,
-          "max": 225
+          "nivel": 225,
+          "max": 300
         },
         {
           "nombre": "Primeros auxilios",
@@ -379,7 +379,7 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 222,
+          "nivel": 224,
           "max": 300
         },
         {
@@ -480,7 +480,7 @@
         },
         {
           "nombre": "Herboristería",
-          "nivel": 197,
+          "nivel": 198,
           "max": 225
         },
         {
@@ -539,7 +539,7 @@
         },
         {
           "nombre": "Cocina",
-          "nivel": 242,
+          "nivel": 250,
           "max": 300
         },
         {
@@ -549,7 +549,7 @@
         },
         {
           "nombre": "Primeros auxilios",
-          "nivel": 269,
+          "nivel": 270,
           "max": 300
         }
       ]
@@ -584,7 +584,7 @@
     {
       "personaje": "Espartaco Gladiador",
       "clase": "warrior",
-      "raider": true,
+      "raider": false,
       "profesiones": [
         {
           "nombre": "Minería",
@@ -728,30 +728,30 @@
       "profesiones": [
         {
           "nombre": "Sastrería",
-          "nivel": 235,
+          "nivel": 241,
           "max": 300
         },
         {
           "nombre": "Encantamiento",
-          "nivel": 257,
+          "nivel": 258,
           "max": 300
         },
         {
           "nombre": "Cocina",
-          "nivel": 225,
+          "nivel": 249,
           "max": 300
         },
         {
           "nombre": "Pesca",
-          "nivel": 225,
-          "max": 225
+          "nivel": 226,
+          "max": 300
         }
       ]
     },
     {
       "personaje": "Fitipaldi Sendaumbria",
       "clase": "rogue",
-      "raider": true,
+      "raider": false,
       "profesiones": [
         {
           "nombre": "Desuello",
@@ -905,7 +905,7 @@
         },
         {
           "nombre": "Herrería",
-          "nivel": 110,
+          "nivel": 112,
           "max": 150
         },
         {
@@ -915,7 +915,7 @@
         },
         {
           "nombre": "Pesca",
-          "nivel": 35,
+          "nivel": 38,
           "max": 75
         },
         {
@@ -937,7 +937,7 @@
         },
         {
           "nombre": "Desuello",
-          "nivel": 247,
+          "nivel": 248,
           "max": 300
         },
         {
@@ -1040,7 +1040,7 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 233,
+          "nivel": 236,
           "max": 300
         },
         {
@@ -1136,7 +1136,7 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 206,
+          "nivel": 208,
           "max": 300
         },
         {
@@ -1156,7 +1156,7 @@
         },
         {
           "nombre": "Primeros auxilios",
-          "nivel": 195,
+          "nivel": 196,
           "max": 225
         }
       ]
@@ -1432,7 +1432,7 @@
     {
       "personaje": "Runa Ruina",
       "clase": "shaman",
-      "raider": true,
+      "raider": false,
       "profesiones": [
         {
           "nombre": "Peletería",
@@ -1500,12 +1500,12 @@
         },
         {
           "nombre": "Minería",
-          "nivel": 102,
+          "nivel": 115,
           "max": 150
         },
         {
           "nombre": "Cocina",
-          "nivel": 89,
+          "nivel": 91,
           "max": 150
         },
         {
@@ -1515,7 +1515,7 @@
         },
         {
           "nombre": "Primeros auxilios",
-          "nivel": 84,
+          "nivel": 116,
           "max": 150
         }
       ]
@@ -1591,7 +1591,7 @@
       "profesiones": [
         {
           "nombre": "Sastrería",
-          "nivel": 225,
+          "nivel": 226,
           "max": 300
         },
         {
@@ -1606,7 +1606,7 @@
         },
         {
           "nombre": "Pesca",
-          "nivel": 106,
+          "nivel": 110,
           "max": 150
         },
         {
@@ -1714,12 +1714,12 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 49,
+          "nivel": 51,
           "max": 75
         },
         {
           "nombre": "Herboristería",
-          "nivel": 53,
+          "nivel": 55,
           "max": 150
         },
         {
@@ -1882,7 +1882,7 @@
     {
       "personaje": "Vaporeta Pizpireta",
       "clase": "mage",
-      "raider": true,
+      "raider": false,
       "profesiones": [
         {
           "nombre": "Sastrería",
@@ -2910,6 +2910,14 @@
       ]
     },
     {
+      "nombre": "Bear Brisket",
+      "profesion": "Cocina",
+      "calidad": "common",
+      "personajes": [
+        "Coloso Tempestad"
+      ]
+    },
+    {
       "nombre": "Beer Basted Boar Ribs",
       "profesion": "Cocina",
       "calidad": "common",
@@ -2926,6 +2934,7 @@
         "Mosu Warryn",
         "Nindalf Pizpireta",
         "Runa Ruina",
+        "Samael Thallanor",
         "Sr Byron",
         "Tharindel Magnaluz",
         "Tom Kha"
@@ -2961,6 +2970,7 @@
         "Micro Bolas",
         "Mosu Warryn",
         "Runa Ruina",
+        "Samael Thallanor",
         "Sr Byron",
         "Tharindel Magnaluz",
         "Tom Kha"
@@ -3200,6 +3210,7 @@
         "Betadine Pervinox",
         "Mosu Warryn",
         "Runa Ruina",
+        "Samael Thallanor",
         "Shiryoku Moonfury"
       ]
     },
@@ -3208,7 +3219,8 @@
       "profesion": "Cocina",
       "calidad": "common",
       "personajes": [
-        "Chaca Choochoo"
+        "Chaca Choochoo",
+        "Coloso Tempestad"
       ]
     },
     {
@@ -3364,6 +3376,7 @@
         "Dum Bo",
         "Manelhon Gargon",
         "Memas Tour",
+        "Samael Thallanor",
         "Tharindel Magnaluz"
       ]
     },
@@ -3477,6 +3490,7 @@
         "Archi Amnesia",
         "Betadine Pervinox",
         "Breezy Reaver",
+        "Coloso Tempestad",
         "Cuzcu Aker",
         "Diana Flechaveloz",
         "Dum Bo",
@@ -3567,6 +3581,7 @@
         "Palmira Natblida",
         "Reaper Dead",
         "Runa Ruina",
+        "Samael Thallanor",
         "Sr Byron",
         "Tharindel Magnaluz"
       ]
@@ -3576,7 +3591,9 @@
       "profesion": "Cocina",
       "calidad": "common",
       "personajes": [
+        "Coloso Tempestad",
         "Edoras Duskranger",
+        "Finn Felagund",
         "Shiryoku Moonfury"
       ]
     },
@@ -3781,6 +3798,7 @@
       "calidad": "common",
       "personajes": [
         "Betadine Pervinox",
+        "Coloso Tempestad",
         "Diana Flechaveloz",
         "Dum Bo",
         "Elfa Vorable",
@@ -3855,6 +3873,14 @@
       ]
     },
     {
+      "nombre": "Nightfin Soup",
+      "profesion": "Cocina",
+      "calidad": "common",
+      "personajes": [
+        "Coloso Tempestad"
+      ]
+    },
+    {
       "nombre": "Peace Tea",
       "profesion": "Cocina",
       "calidad": "common",
@@ -3904,6 +3930,7 @@
       "profesion": "Cocina",
       "calidad": "common",
       "personajes": [
+        "Coloso Tempestad",
         "Shiryoku Moonfury"
       ]
     },
@@ -3932,6 +3959,7 @@
         "Mosu Warryn",
         "Palmira Natblida",
         "Runa Ruina",
+        "Samael Thallanor",
         "Shiryoku Moonfury",
         "Sr Byron",
         "Sugar Papy",
@@ -4057,6 +4085,7 @@
       "calidad": "common",
       "personajes": [
         "Betadine Pervinox",
+        "Coloso Tempestad",
         "Diana Flechaveloz",
         "Dum Bo",
         "Elfa Vorable",
@@ -4103,6 +4132,7 @@
       "calidad": "common",
       "personajes": [
         "Betadine Pervinox",
+        "Coloso Tempestad",
         "Cuzcu Aker",
         "Dum Bo",
         "Edoras Duskranger",
@@ -4327,6 +4357,7 @@
       "profesion": "Cocina",
       "calidad": "common",
       "personajes": [
+        "Coloso Tempestad",
         "Edoras Duskranger",
         "Espartaco Gladiador",
         "Finn Felagund",
@@ -4344,6 +4375,7 @@
       "profesion": "Cocina",
       "calidad": "common",
       "personajes": [
+        "Coloso Tempestad",
         "Edoras Duskranger",
         "Finn Felagund",
         "Shiryoku Moonfury"
@@ -4428,6 +4460,7 @@
       "calidad": "common",
       "personajes": [
         "Chaca Choochoo",
+        "Coloso Tempestad",
         "Cuzcu Aker",
         "Edoras Duskranger",
         "Finn Felagund",
@@ -4459,6 +4492,7 @@
       "calidad": "common",
       "personajes": [
         "Chaca Choochoo",
+        "Coloso Tempestad",
         "Dum Bo",
         "Espartaco Gladiador",
         "Flexita Shadowsoul",
@@ -4490,6 +4524,7 @@
         "Palmira Natblida",
         "Reaper Dead",
         "Runa Ruina",
+        "Samael Thallanor",
         "Sr Byron",
         "Tharindel Magnaluz"
       ]
@@ -10198,12 +10233,20 @@
       "profesion": "Pesca",
       "calidad": "common",
       "personajes": [
+        "Coloso Tempestad",
+        "Dum Bo",
+        "Finn Felagund"
+      ]
+    },
+    {
+      "nombre": "Fishing",
+      "profesion": "Pesca",
+      "calidad": "common",
+      "personajes": [
         "Betadine Pervinox",
         "Christoph Crestanegra",
-        "Coloso Tempestad",
         "Elfa Vorable",
         "Espartaco Gladiador",
-        "Finn Felagund",
         "Jonaver Legends",
         "Memas Tour",
         "Mosu Warryn",
@@ -10265,14 +10308,6 @@
       ]
     },
     {
-      "nombre": "Fishing",
-      "profesion": "Pesca",
-      "calidad": "common",
-      "personajes": [
-        "Dum Bo"
-      ]
-    },
-    {
       "nombre": "Fishing Rack",
       "profesion": "Pesca",
       "calidad": "common",
@@ -10303,6 +10338,7 @@
         "Mosu Warryn",
         "Palmira Natblida",
         "Runa Ruina",
+        "Samael Thallanor",
         "Señor Ollivander",
         "Shiryoku Moonfury",
         "Sugar Papy",
@@ -10443,6 +10479,7 @@
         "Nindalf Pizpireta",
         "Palmira Natblida",
         "Runa Ruina",
+        "Samael Thallanor",
         "Señor Ollivander",
         "Shiryoku Moonfury",
         "Sugar Papy",
@@ -10495,6 +10532,8 @@
       "profesion": "Primeros auxilios",
       "calidad": "common",
       "personajes": [
+        "Arthas Yevon",
+        "Breezy Reaver",
         "Chaca Choochoo",
         "Coloso Tempestad",
         "Dum Bo",
@@ -10760,6 +10799,7 @@
         "Mosu Warryn",
         "Palmira Natblida",
         "Runa Ruina",
+        "Samael Thallanor",
         "Señor Ollivander",
         "Shiryoku Moonfury",
         "Sugar Papy",
@@ -10828,6 +10868,7 @@
         "Mosu Warryn",
         "Palmira Natblida",
         "Runa Ruina",
+        "Samael Thallanor",
         "Señor Ollivander",
         "Shiryoku Moonfury",
         "Sugar Papy",
@@ -10841,6 +10882,8 @@
       "profesion": "Primeros auxilios",
       "calidad": "common",
       "personajes": [
+        "Arthas Yevon",
+        "Breezy Reaver",
         "Chaca Choochoo",
         "Coloso Tempestad",
         "Dum Bo",
@@ -10848,6 +10891,7 @@
         "Españoleitor Españoleitor",
         "Flexita Shadowsoul",
         "Genethika Brisaveloz",
+        "Hugo Forjaluz",
         "Ildaren Belisar",
         "Jonaver Legends",
         "Layrela Rondanit",

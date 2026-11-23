@@ -1,10 +1,5 @@
 [
   {
-    "name": "Blind",
-    "class": "Priest",
-    "role": "Heal"
-  },
-  {
     "name": "Cuzcu",
     "class": "Paladin",
     "role": "Heal"
@@ -13,16 +8,6 @@
     "name": "Edoras",
     "class": "Hunter",
     "role": "Ranged"
-  },
-  {
-    "name": "Espartaco",
-    "class": "Warrior",
-    "role": "Melee"
-  },
-  {
-    "name": "Fitipaldi",
-    "class": "Rogue",
-    "role": "Melee"
   },
   {
     "name": "Fran",
@@ -53,15 +38,5 @@
     "name": "Palmira",
     "class": "Rogue",
     "role": "Melee"
-  },
-  {
-    "name": "Runa",
-    "class": "Shaman",
-    "role": "Heal"
-  },
-  {
-    "name": "Vaporeta",
-    "class": "Mage",
-    "role": "Ranged"
   }
 ]

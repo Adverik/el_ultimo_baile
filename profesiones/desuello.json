@@ -22,7 +22,7 @@
     {
       "personaje": "Runa Ruina",
       "clase": "shaman",
-      "raider": true,
+      "raider": false,
       "nivel": 263,
       "max": 300,
       "pct": 33
@@ -55,7 +55,7 @@
       "personaje": "Ildaren Belisar",
       "clase": "rogue",
       "raider": false,
-      "nivel": 247,
+      "nivel": 248,
       "max": 300,
       "pct": 33
     },
@@ -103,7 +103,7 @@
       "personaje": "Arthas Yevon",
       "clase": "paladin",
       "raider": false,
-      "nivel": 158,
+      "nivel": 169,
       "max": 225,
       "pct": 33
     },
@@ -126,7 +126,7 @@
     {
       "personaje": "Fitipaldi Sendaumbria",
       "clase": "rogue",
-      "raider": true,
+      "raider": false,
       "nivel": 121,
       "max": 150,
       "pct": 33

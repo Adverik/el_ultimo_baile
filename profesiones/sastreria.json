@@ -7,7 +7,7 @@
       "personaje": "Finn Felagund",
       "clase": "priest",
       "raider": false,
-      "nivel": 235,
+      "nivel": 241,
       "max": 300,
       "pct": 24
     },
@@ -23,7 +23,7 @@
       "personaje": "Sr Byron",
       "clase": "warlock",
       "raider": false,
-      "nivel": 225,
+      "nivel": 226,
       "max": 300,
       "pct": 23
     },
@@ -102,7 +102,7 @@
     {
       "personaje": "Vaporeta Pizpireta",
       "clase": "mage",
-      "raider": true,
+      "raider": false,
       "nivel": 67,
       "max": 75,
       "pct": 6
@@ -118,7 +118,7 @@
     {
       "personaje": "Blind Minds",
       "clase": "priest",
-      "raider": true,
+      "raider": false,
       "nivel": 44,
       "max": 75,
       "pct": 4
