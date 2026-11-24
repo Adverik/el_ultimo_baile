@@ -63,7 +63,7 @@
       "personaje": "Kroketa Torreja",
       "clase": "druid",
       "raider": false,
-      "nivel": 238,
+      "nivel": 240,
       "max": 300,
       "pct": 33
     },
@@ -116,19 +116,19 @@
       "pct": 33
     },
     {
+      "personaje": "Samael Thallanor",
+      "clase": "hunter",
+      "raider": false,
+      "nivel": 157,
+      "max": 225,
+      "pct": 33
+    },
+    {
       "personaje": "Nindalf Pizpireta",
       "clase": "rogue",
       "raider": false,
       "nivel": 138,
       "max": 150,
-      "pct": 33
-    },
-    {
-      "personaje": "Samael Thallanor",
-      "clase": "hunter",
-      "raider": false,
-      "nivel": 138,
-      "max": 225,
       "pct": 33
     },
     {

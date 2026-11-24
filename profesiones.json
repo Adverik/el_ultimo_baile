@@ -9,11 +9,11 @@
         {
           "nombre": "Minería",
           "nivel": 225,
-          "max": 225
+          "max": 300
         },
         {
           "nombre": "Herrería",
-          "nivel": 185,
+          "nivel": 203,
           "max": 225
         },
         {
@@ -620,7 +620,7 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 139,
+          "nivel": 142,
           "max": 225
         },
         {
@@ -652,12 +652,12 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 92,
+          "nivel": 95,
           "max": 150
         },
         {
           "nombre": "Herrería",
-          "nivel": 95,
+          "nivel": 102,
           "max": 150
         },
         {
@@ -733,7 +733,7 @@
       "profesiones": [
         {
           "nombre": "Sastrería",
-          "nivel": 241,
+          "nivel": 248,
           "max": 300
         },
         {
@@ -748,7 +748,7 @@
         },
         {
           "nombre": "Pesca",
-          "nivel": 226,
+          "nivel": 231,
           "max": 300
         }
       ]
@@ -991,17 +991,17 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 168,
+          "nivel": 182,
           "max": 225
         },
         {
           "nombre": "Ingeniería",
-          "nivel": 200,
+          "nivel": 210,
           "max": 225
         },
         {
           "nombre": "Cocina",
-          "nivel": 169,
+          "nivel": 188,
           "max": 225
         },
         {
@@ -1045,7 +1045,7 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 246,
+          "nivel": 247,
           "max": 300
         },
         {
@@ -1082,7 +1082,7 @@
         },
         {
           "nombre": "Desuello",
-          "nivel": 238,
+          "nivel": 240,
           "max": 300
         },
         {
@@ -1097,7 +1097,7 @@
         },
         {
           "nombre": "Primeros auxilios",
-          "nivel": 150,
+          "nivel": 156,
           "max": 225
         }
       ]
@@ -1183,7 +1183,7 @@
         },
         {
           "nombre": "Cocina",
-          "nivel": 29,
+          "nivel": 44,
           "max": 75
         },
         {
@@ -1532,7 +1532,7 @@
       "profesiones": [
         {
           "nombre": "Desuello",
-          "nivel": 138,
+          "nivel": 157,
           "max": 225
         },
         {
@@ -1569,7 +1569,7 @@
         },
         {
           "nombre": "Alquimia",
-          "nivel": 75,
+          "nivel": 118,
           "max": 150
         },
         {
@@ -1596,7 +1596,7 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 292,
+          "nivel": 300,
           "max": 300
         },
         {
@@ -1611,8 +1611,8 @@
         },
         {
           "nombre": "Pesca",
-          "nivel": 205,
-          "max": 225
+          "nivel": 225,
+          "max": 300
         },
         {
           "nombre": "Primeros auxilios",
@@ -1734,8 +1734,8 @@
         },
         {
           "nombre": "Pesca",
-          "nivel": 130,
-          "max": 150
+          "nivel": 135,
+          "max": 225
         },
         {
           "nombre": "Primeros auxilios",
@@ -4029,6 +4029,7 @@
       "profesion": "Cocina",
       "calidad": "common",
       "personajes": [
+        "Archi Amnesia",
         "Betadine Pervinox",
         "Coloso Tempestad",
         "Diana Flechaveloz",
@@ -4234,6 +4235,7 @@
         "Edoras Duskranger",
         "Elfa Vorable",
         "Finn Felagund",
+        "Jonaver Legends",
         "Kroketa Torreja",
         "Layrela Rondanit",
         "Manelhon Gargon",
@@ -5967,6 +5969,14 @@
       ]
     },
     {
+      "nombre": "Anvil",
+      "profesion": "Herrería",
+      "calidad": "common",
+      "personajes": [
+        "Shiryoku Moonfury"
+      ]
+    },
+    {
       "nombre": "Big Black Mace",
       "profesion": "Herrería",
       "calidad": "uncommon",
@@ -6082,6 +6092,7 @@
         "Althez Sendagris",
         "Coloso Tempestad",
         "Españoleitor Españoleitor",
+        "Farhan Ironbeard",
         "Hugo Forjaluz",
         "Khyoraku Shunsui",
         "Llamas Xx",
@@ -6705,6 +6716,7 @@
         "Coloso Tempestad",
         "Espartaco Gladiador",
         "Españoleitor Españoleitor",
+        "Farhan Ironbeard",
         "Hugo Forjaluz",
         "Khyoraku Shunsui",
         "Llamas Xx",
@@ -6718,6 +6730,7 @@
       "profesion": "Herrería",
       "calidad": "uncommon",
       "personajes": [
+        "Althez Sendagris",
         "Coloso Tempestad",
         "Shiryoku Moonfury"
       ]
@@ -6778,6 +6791,7 @@
         "Coloso Tempestad",
         "Espartaco Gladiador",
         "Españoleitor Españoleitor",
+        "Farhan Ironbeard",
         "Hugo Forjaluz",
         "Khyoraku Shunsui",
         "Llamas Xx",
@@ -6795,6 +6809,7 @@
         "Coloso Tempestad",
         "Espartaco Gladiador",
         "Españoleitor Españoleitor",
+        "Farhan Ironbeard",
         "Hugo Forjaluz",
         "Khyoraku Shunsui",
         "Llamas Xx",
@@ -7557,6 +7572,14 @@
       ]
     },
     {
+      "nombre": "Steel Weapon Chain",
+      "profesion": "Herrería",
+      "calidad": "common",
+      "personajes": [
+        "Althez Sendagris"
+      ]
+    },
+    {
       "nombre": "Sterling Silver Boots",
       "profesion": "Herrería",
       "calidad": "uncommon",
@@ -7694,6 +7717,22 @@
       "personajes": [
         "Coloso Tempestad",
         "Shiryoku Moonfury"
+      ]
+    },
+    {
+      "nombre": "Warder's Boots",
+      "profesion": "Herrería",
+      "calidad": "rare",
+      "personajes": [
+        "Althez Sendagris"
+      ]
+    },
+    {
+      "nombre": "Wicked Mithril Blade",
+      "profesion": "Herrería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Althez Sendagris"
       ]
     },
     {
@@ -7935,7 +7974,8 @@
       "profesion": "Ingeniería",
       "calidad": "uncommon",
       "personajes": [
-        "Flexita Shadowsoul"
+        "Flexita Shadowsoul",
+        "Jonaver Legends"
       ]
     },
     {
@@ -8174,7 +8214,8 @@
       "profesion": "Ingeniería",
       "calidad": "common",
       "personajes": [
-        "Flexita Shadowsoul"
+        "Flexita Shadowsoul",
+        "Jonaver Legends"
       ]
     },
     {
@@ -8199,7 +8240,8 @@
       "profesion": "Ingeniería",
       "calidad": "uncommon",
       "personajes": [
-        "Flexita Shadowsoul"
+        "Flexita Shadowsoul",
+        "Jonaver Legends"
       ]
     },
     {
@@ -8426,7 +8468,8 @@
       "calidad": "common",
       "personajes": [
         "Cuzcu Aker",
-        "Flexita Shadowsoul"
+        "Flexita Shadowsoul",
+        "Jonaver Legends"
       ]
     },
     {
@@ -8502,6 +8545,7 @@
       "profesion": "Minería",
       "calidad": "common",
       "personajes": [
+        "Althez Sendagris",
         "Chaca Choochoo",
         "Coloso Tempestad",
         "Cuzcu Aker",
@@ -8526,7 +8570,6 @@
       "profesion": "Minería",
       "calidad": "common",
       "personajes": [
-        "Althez Sendagris",
         "Armando Buya",
         "Españoleitor Españoleitor",
         "Flexita Shadowsoul",
@@ -8657,6 +8700,7 @@
         "Cuzcu Aker",
         "Espartaco Gladiador",
         "Flexita Shadowsoul",
+        "Jonaver Legends",
         "Khyoraku Shunsui",
         "La Pety",
         "Llamas Xx",
@@ -8699,6 +8743,7 @@
         "Cuzcu Aker",
         "Espartaco Gladiador",
         "Flexita Shadowsoul",
+        "Jonaver Legends",
         "Khyoraku Shunsui",
         "La Pety",
         "Llamas Xx",
@@ -10521,7 +10566,8 @@
       "personajes": [
         "Coloso Tempestad",
         "Dum Bo",
-        "Finn Felagund"
+        "Finn Felagund",
+        "Shiryoku Moonfury"
       ]
     },
     {
@@ -10537,7 +10583,7 @@
         "Memas Tour",
         "Mosu Warryn",
         "Palmira Natblida",
-        "Shiryoku Moonfury"
+        "Tankesito Khrih"
       ]
     },
     {
@@ -10560,7 +10606,6 @@
         "Samael Thallanor",
         "Sr Byron",
         "Sugar Papy",
-        "Tankesito Khrih",
         "Tharindel Magnaluz",
         "Tom Kha"
       ]
@@ -10701,7 +10746,8 @@
       "personajes": [
         "Coloso Tempestad",
         "Genethika Brisaveloz",
-        "Ildaren Belisar"
+        "Ildaren Belisar",
+        "Kroketa Torreja"
       ]
     },
     {
@@ -11140,7 +11186,8 @@
       "profesion": "Primeros auxilios",
       "calidad": "common",
       "personajes": [
-        "Dum Bo"
+        "Dum Bo",
+        "Shiryoku Moonfury"
       ]
     },
     {
@@ -11383,6 +11430,14 @@
         "Dum Bo",
         "Finn Felagund",
         "Sr Byron"
+      ]
+    },
+    {
+      "nombre": "Black Silk Pack",
+      "profesion": "Sastrería",
+      "calidad": "common",
+      "personajes": [
+        "Señor Ollivander"
       ]
     },
     {
@@ -12807,6 +12862,7 @@
       "profesion": "Sastrería",
       "calidad": "common",
       "personajes": [
+        "Finn Felagund",
         "Sr Byron"
       ]
     },

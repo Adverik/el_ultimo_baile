@@ -23,9 +23,9 @@
       "personaje": "Jonaver Legends",
       "clase": "mage",
       "raider": false,
-      "nivel": 200,
+      "nivel": 210,
       "max": 225,
-      "pct": 17
+      "pct": 19
     },
     {
       "personaje": "Chaca Choochoo",
@@ -629,7 +629,8 @@
           },
           "quien": [
             0,
-            1
+            1,
+            2
           ]
         },
         {
@@ -3589,7 +3590,8 @@
             ]
           },
           "quien": [
-            0
+            0,
+            2
           ]
         },
         {
@@ -5226,7 +5228,8 @@
             ]
           },
           "quien": [
-            0
+            0,
+            2
           ]
         },
         {
@@ -7146,7 +7149,8 @@
             ]
           },
           "quien": [
-            0
+            0,
+            2
           ]
         },
         {

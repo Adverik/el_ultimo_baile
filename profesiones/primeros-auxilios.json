@@ -17,7 +17,7 @@
       "raider": false,
       "nivel": 296,
       "max": 300,
-      "pct": 56
+      "pct": 59
     },
     {
       "personaje": "La Pety",
@@ -140,20 +140,20 @@
       "pct": 38
     },
     {
+      "personaje": "Kroketa Torreja",
+      "clase": "druid",
+      "raider": false,
+      "nivel": 156,
+      "max": 225,
+      "pct": 41
+    },
+    {
       "personaje": "Chaca Choochoo",
       "clase": "druid",
       "raider": false,
       "nivel": 150,
       "max": 150,
       "pct": 28
-    },
-    {
-      "personaje": "Kroketa Torreja",
-      "clase": "druid",
-      "raider": false,
-      "nivel": 150,
-      "max": 225,
-      "pct": 38
     },
     {
       "personaje": "Manelhon Gargon",
@@ -701,7 +701,7 @@
             14,
             15,
             16,
-            18,
+            17,
             21,
             22
           ]
@@ -1369,7 +1369,7 @@
             14,
             15,
             16,
-            18,
+            17,
             19,
             20,
             21,
@@ -1519,6 +1519,7 @@
             "sub": "Otros"
           },
           "quien": [
+            1,
             5
           ]
         },
@@ -1762,7 +1763,7 @@
             14,
             15,
             16,
-            18,
+            17,
             19,
             20,
             21,
@@ -1811,7 +1812,8 @@
           "quien": [
             0,
             6,
-            13
+            13,
+            17
           ]
         },
         {

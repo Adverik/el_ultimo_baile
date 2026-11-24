@@ -7,7 +7,7 @@
       "personaje": "Finn Felagund",
       "clase": "priest",
       "raider": false,
-      "nivel": 241,
+      "nivel": 248,
       "max": 300,
       "pct": 24
     },
@@ -17663,7 +17663,9 @@
               "0"
             ]
           },
-          "quien": []
+          "quien": [
+            4
+          ]
         },
         {
           "id": 6596,
@@ -17781,6 +17783,7 @@
             ]
           },
           "quien": [
+            0,
             2
           ]
         },

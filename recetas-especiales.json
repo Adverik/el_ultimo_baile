@@ -242,11 +242,11 @@
           "clase": "paladin"
         },
         {
-          "n": "Españoleitor Españoleitor",
+          "n": "Farhan Ironbeard",
           "clase": "warrior"
         },
         {
-          "n": "Farhan Ironbeard",
+          "n": "Españoleitor Españoleitor",
           "clase": "warrior"
         },
         {
@@ -321,11 +321,11 @@
           "clase": "paladin"
         },
         {
-          "n": "Españoleitor Españoleitor",
+          "n": "Farhan Ironbeard",
           "clase": "warrior"
         },
         {
-          "n": "Farhan Ironbeard",
+          "n": "Españoleitor Españoleitor",
           "clase": "warrior"
         },
         {
@@ -401,15 +401,63 @@
           "clase": "paladin"
         },
         {
-          "n": "Españoleitor Españoleitor",
-          "clase": "warrior"
-        },
-        {
           "n": "Farhan Ironbeard",
           "clase": "warrior"
         },
         {
+          "n": "Españoleitor Españoleitor",
+          "clase": "warrior"
+        },
+        {
           "n": "Armando Buya",
+          "clase": "paladin"
+        }
+      ]
+    },
+    {
+      "id": 54760,
+      "n": "Botas de guardián",
+      "q": "rare",
+      "ico": "457760",
+      "reac": [
+        [
+          "Lingote de acero",
+          4
+        ],
+        [
+          "Piedra de pulir pesada",
+          4
+        ],
+        [
+          "Perla negra",
+          4
+        ]
+      ],
+      "obj": {
+        "arm": "330 armadura",
+        "id": 250548,
+        "ilvl": 45,
+        "lig": "Se liga al recogerlo",
+        "n": "Botas de guardián",
+        "q": "rare",
+        "ranura": "Pies",
+        "req": 40,
+        "stats": [
+          "+13 aguante",
+          "+9 Defensa",
+          "+9 poder con hechizos"
+        ],
+        "sub": "Placas",
+        "venta": [
+          "0",
+          "33",
+          "57"
+        ]
+      },
+      "profesion": "Herrería",
+      "personajes": [
+        {
+          "n": "Althez Sendagris",
           "clase": "paladin"
         }
       ]

@@ -23,7 +23,7 @@
       "personaje": "Shiryoku Moonfury",
       "clase": "warrior",
       "raider": false,
-      "nivel": 292,
+      "nivel": 300,
       "max": 300,
       "pct": 71
     },
@@ -31,7 +31,7 @@
       "personaje": "Khyoraku Shunsui",
       "clase": "warrior",
       "raider": true,
-      "nivel": 246,
+      "nivel": 247,
       "max": 300,
       "pct": 53
     },
@@ -64,7 +64,7 @@
       "clase": "paladin",
       "raider": false,
       "nivel": 225,
-      "max": 225,
+      "max": 300,
       "pct": 53
     },
     {
@@ -87,9 +87,9 @@
       "personaje": "Jonaver Legends",
       "clase": "mage",
       "raider": false,
-      "nivel": 168,
+      "nivel": 182,
       "max": 225,
-      "pct": 41
+      "pct": 53
     },
     {
       "personaje": "Mosu Warryn",
@@ -103,7 +103,7 @@
       "personaje": "Españoleitor Españoleitor",
       "clase": "warrior",
       "raider": false,
-      "nivel": 139,
+      "nivel": 142,
       "max": 225,
       "pct": 35
     },
@@ -159,7 +159,7 @@
       "personaje": "Farhan Ironbeard",
       "clase": "warrior",
       "raider": false,
-      "nivel": 92,
+      "nivel": 95,
       "max": 150,
       "pct": 29
     },
@@ -450,7 +450,8 @@
             6,
             7,
             8,
-            9
+            9,
+            10
           ]
         },
         {
@@ -565,7 +566,8 @@
             6,
             7,
             8,
-            9
+            9,
+            10
           ]
         },
         {

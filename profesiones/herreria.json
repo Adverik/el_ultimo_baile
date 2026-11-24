@@ -31,9 +31,9 @@
       "personaje": "Althez Sendagris",
       "clase": "paladin",
       "raider": false,
-      "nivel": 185,
+      "nivel": 203,
       "max": 225,
-      "pct": 8
+      "pct": 9
     },
     {
       "personaje": "Khyoraku Shunsui",
@@ -76,20 +76,20 @@
       "pct": 10
     },
     {
+      "personaje": "Farhan Ironbeard",
+      "clase": "warrior",
+      "raider": false,
+      "nivel": 102,
+      "max": 150,
+      "pct": 9
+    },
+    {
       "personaje": "Españoleitor Españoleitor",
       "clase": "warrior",
       "raider": false,
       "nivel": 100,
       "max": 150,
       "pct": 9
-    },
-    {
-      "personaje": "Farhan Ironbeard",
-      "clase": "warrior",
-      "raider": false,
-      "nivel": 95,
-      "max": 150,
-      "pct": 8
     },
     {
       "personaje": "Armando Buya",
@@ -224,7 +224,8 @@
             6,
             7,
             8,
-            9
+            9,
+            10
           ]
         },
         {
@@ -306,7 +307,8 @@
             6,
             7,
             8,
-            9
+            9,
+            10
           ]
         },
         {
@@ -3489,7 +3491,7 @@
           },
           "quien": [
             1,
-            10
+            9
           ]
         },
         {
@@ -3533,7 +3535,7 @@
             ]
           },
           "quien": [
-            9
+            10
           ]
         },
         {
@@ -3620,7 +3622,7 @@
             ]
           },
           "quien": [
-            10
+            9
           ]
         },
         {
@@ -5032,7 +5034,8 @@
           },
           "quien": [
             0,
-            1
+            1,
+            3
           ]
         },
         {
@@ -5624,7 +5627,9 @@
               "91"
             ]
           },
-          "quien": []
+          "quien": [
+            3
+          ]
         },
         {
           "id": 5347,
@@ -8821,7 +8826,8 @@
             6,
             7,
             8,
-            9
+            9,
+            10
           ]
         },
         {
@@ -10825,7 +10831,8 @@
             6,
             7,
             8,
-            9
+            9,
+            10
           ]
         },
         {
@@ -12020,7 +12027,9 @@
               "0"
             ]
           },
-          "quien": []
+          "quien": [
+            3
+          ]
         },
         {
           "id": 4207,
@@ -17077,7 +17086,9 @@
               "57"
             ]
           },
-          "quien": []
+          "quien": [
+            3
+          ]
         },
         {
           "id": 54761,
@@ -21290,7 +21301,9 @@
             "q": "common",
             "sub": "Otros"
           },
-          "quien": []
+          "quien": [
+            1
+          ]
         },
         {
           "id": 57032,

@@ -15,7 +15,7 @@
       "personaje": "Finn Felagund",
       "clase": "priest",
       "raider": false,
-      "nivel": 226,
+      "nivel": 231,
       "max": 300,
       "pct": 33
     },
@@ -44,6 +44,14 @@
       "pct": 33
     },
     {
+      "personaje": "Shiryoku Moonfury",
+      "clase": "warrior",
+      "raider": false,
+      "nivel": 225,
+      "max": 300,
+      "pct": 33
+    },
+    {
       "personaje": "Palmira Natblida",
       "clase": "rogue",
       "raider": true,
@@ -56,14 +64,6 @@
       "clase": "warrior",
       "raider": false,
       "nivel": 212,
-      "max": 225,
-      "pct": 33
-    },
-    {
-      "personaje": "Shiryoku Moonfury",
-      "clase": "warrior",
-      "raider": false,
-      "nivel": 205,
       "max": 225,
       "pct": 33
     },
@@ -124,6 +124,14 @@
       "pct": 33
     },
     {
+      "personaje": "Tankesito Khrih",
+      "clase": "druid",
+      "raider": false,
+      "nivel": 135,
+      "max": 225,
+      "pct": 33
+    },
+    {
       "personaje": "Tharindel Magnaluz",
       "clase": "paladin",
       "raider": false,
@@ -144,14 +152,6 @@
       "clase": "druid",
       "raider": false,
       "nivel": 131,
-      "max": 150,
-      "pct": 33
-    },
-    {
-      "personaje": "Tankesito Khrih",
-      "clase": "druid",
-      "raider": false,
-      "nivel": 130,
       "max": 150,
       "pct": 33
     },
