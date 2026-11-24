@@ -12,6 +12,14 @@
       "pct": 67
     },
     {
+      "personaje": "Coloso Tempestad",
+      "clase": "warrior",
+      "raider": false,
+      "nivel": 235,
+      "max": 300,
+      "pct": 33
+    },
+    {
       "personaje": "Finn Felagund",
       "clase": "priest",
       "raider": false,
@@ -25,14 +33,6 @@
       "raider": false,
       "nivel": 225,
       "max": 225,
-      "pct": 33
-    },
-    {
-      "personaje": "Coloso Tempestad",
-      "clase": "warrior",
-      "raider": false,
-      "nivel": 225,
-      "max": 300,
       "pct": 33
     },
     {
@@ -95,7 +95,7 @@
       "personaje": "Betadine Pervinox",
       "clase": "paladin",
       "raider": false,
-      "nivel": 156,
+      "nivel": 158,
       "max": 225,
       "pct": 33
     },
@@ -103,20 +103,20 @@
       "personaje": "Edoras Duskranger",
       "clase": "hunter",
       "raider": true,
-      "nivel": 150,
+      "nivel": 154,
+      "max": 225,
+      "pct": 33
+    },
+    {
+      "personaje": "Samael Thallanor",
+      "clase": "hunter",
+      "raider": false,
+      "nivel": 145,
       "max": 150,
       "pct": 33
     },
     {
       "personaje": "Diana Flechaveloz",
-      "clase": "hunter",
-      "raider": false,
-      "nivel": 137,
-      "max": 150,
-      "pct": 33
-    },
-    {
-      "personaje": "Samael Thallanor",
       "clase": "hunter",
       "raider": false,
       "nivel": 137,
@@ -191,7 +191,7 @@
       "personaje": "Flexita Shadowsoul",
       "clase": "hunter",
       "raider": false,
-      "nivel": 101,
+      "nivel": 104,
       "max": 150,
       "pct": 33
     },
@@ -244,6 +244,14 @@
       "pct": 33
     },
     {
+      "personaje": "Tanki Llo",
+      "clase": "warlock",
+      "raider": false,
+      "nivel": 75,
+      "max": 75,
+      "pct": 0
+    },
+    {
       "personaje": "Aynita Again",
       "clase": "hunter",
       "raider": false,
@@ -258,14 +266,6 @@
       "nivel": 38,
       "max": 75,
       "pct": 33
-    },
-    {
-      "personaje": "Tanki Llo",
-      "clase": "warlock",
-      "raider": false,
-      "nivel": 32,
-      "max": 75,
-      "pct": 0
     },
     {
       "personaje": "Saint Peligroxa",
@@ -481,8 +481,8 @@
             27,
             28,
             29,
-            30,
             31,
+            32,
             33,
             34,
             35,

@@ -7,7 +7,7 @@
       "personaje": "Finn Felagund",
       "clase": "priest",
       "raider": false,
-      "nivel": 248,
+      "nivel": 254,
       "max": 300,
       "pct": 24
     },
@@ -15,7 +15,7 @@
       "personaje": "Dum Bo",
       "clase": "mage",
       "raider": false,
-      "nivel": 237,
+      "nivel": 241,
       "max": 300,
       "pct": 27
     },
@@ -2185,7 +2185,8 @@
             ]
           },
           "quien": [
-            0
+            0,
+            1
           ]
         },
         {
@@ -4919,7 +4920,9 @@
               "53"
             ]
           },
-          "quien": []
+          "quien": [
+            1
+          ]
         },
         {
           "id": 10424,
@@ -18329,6 +18332,7 @@
             ]
           },
           "quien": [
+            1,
             2
           ]
         },

@@ -9,7 +9,7 @@
       "raider": false,
       "nivel": 300,
       "max": 300,
-      "pct": 31
+      "pct": 32
     },
     {
       "personaje": "Dio Hotmetal",
@@ -39,7 +39,7 @@
       "personaje": "Layrela Rondanit",
       "clase": "druid",
       "raider": true,
-      "nivel": 206,
+      "nivel": 207,
       "max": 300,
       "pct": 21
     },
@@ -47,7 +47,7 @@
       "personaje": "Don Josechu",
       "clase": "warlock",
       "raider": false,
-      "nivel": 200,
+      "nivel": 203,
       "max": 225,
       "pct": 12
     },
@@ -592,7 +592,8 @@
           "quien": [
             0,
             1,
-            3
+            3,
+            4
           ]
         },
         {
@@ -1115,7 +1116,9 @@
               "0"
             ]
           },
-          "quien": []
+          "quien": [
+            0
+          ]
         },
         {
           "id": 9940,
@@ -1225,7 +1228,9 @@
               "50"
             ]
           },
-          "quien": []
+          "quien": [
+            0
+          ]
         },
         {
           "id": 9954,
@@ -6459,6 +6464,7 @@
             ]
           },
           "quien": [
+            0,
             1,
             2
           ]

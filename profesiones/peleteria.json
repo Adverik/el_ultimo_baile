@@ -7,7 +7,7 @@
       "personaje": "Aurelio Amador",
       "clase": "rogue",
       "raider": false,
-      "nivel": 250,
+      "nivel": 251,
       "max": 300,
       "pct": 8
     },
@@ -65,7 +65,7 @@
       "raider": false,
       "nivel": 175,
       "max": 225,
-      "pct": 13
+      "pct": 14
     },
     {
       "personaje": "Ildaren Belisar",
@@ -16844,7 +16844,9 @@
               "87"
             ]
           },
-          "quien": []
+          "quien": [
+            7
+          ]
         },
         {
           "id": 55152,

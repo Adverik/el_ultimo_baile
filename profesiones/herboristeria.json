@@ -47,7 +47,7 @@
       "personaje": "Layrela Rondanit",
       "clase": "druid",
       "raider": true,
-      "nivel": 243,
+      "nivel": 245,
       "max": 300,
       "pct": 33
     },
@@ -55,7 +55,7 @@
       "personaje": "Don Josechu",
       "clase": "warlock",
       "raider": false,
-      "nivel": 199,
+      "nivel": 202,
       "max": 225,
       "pct": 33
     },
@@ -71,7 +71,15 @@
       "personaje": "Reaper Dead",
       "clase": "paladin",
       "raider": false,
-      "nivel": 123,
+      "nivel": 151,
+      "max": 225,
+      "pct": 33
+    },
+    {
+      "personaje": "Tanki Llo",
+      "clase": "warlock",
+      "raider": false,
+      "nivel": 90,
       "max": 150,
       "pct": 33
     },
@@ -92,12 +100,12 @@
       "pct": 33
     },
     {
-      "personaje": "Tanki Llo",
-      "clase": "warlock",
+      "personaje": "Ibu Profenus",
+      "clase": "shaman",
       "raider": false,
-      "nivel": 58,
-      "max": 150,
-      "pct": 33
+      "nivel": 75,
+      "max": 75,
+      "pct": 0
     },
     {
       "personaje": "Aynita Again",
@@ -175,7 +183,7 @@
             9,
             10,
             11,
-            12
+            13
           ]
         },
         {

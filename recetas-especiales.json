@@ -113,6 +113,57 @@
       ]
     },
     {
+      "id": 54437,
+      "n": "Corazón de la montaña durmiente",
+      "q": "rare",
+      "ico": "134094",
+      "reac": [
+        [
+          "Sangre de la Montaña",
+          1
+        ],
+        [
+          "Esencia de agua",
+          1
+        ],
+        [
+          "Fragmento luminoso pequeño",
+          3
+        ]
+      ],
+      "obj": {
+        "efectos": [
+          "Equipar: Tus lanzamientos de Sanación superior, Toque de sanación, Ola de sanación o Luz Sagrada en combate otorgan hasta 40 p. más de sanación y hasta 13 p. más de daño durante 15 s."
+        ],
+        "id": 249473,
+        "ilvl": 55,
+        "lig": "Se liga al recogerlo",
+        "n": "Corazón de la montaña durmiente",
+        "q": "rare",
+        "ranura": "Alhaja",
+        "req": 50,
+        "stats": [
+          "+7 resistencia a Fuego",
+          "+7 resistencia a Escarcha",
+          "+7 resistencia a Sombras",
+          "+7 resistencia a Naturaleza"
+        ],
+        "sub": "Misceláneo",
+        "venta": [
+          "0",
+          "15",
+          "0"
+        ]
+      },
+      "profesion": "Encantamiento",
+      "personajes": [
+        {
+          "n": "Finn Felagund",
+          "clase": "priest"
+        }
+      ]
+    },
+    {
       "id": 54759,
       "n": "Botas de centinela",
       "q": "rare",
@@ -242,11 +293,11 @@
           "clase": "paladin"
         },
         {
-          "n": "Farhan Ironbeard",
+          "n": "Españoleitor Españoleitor",
           "clase": "warrior"
         },
         {
-          "n": "Españoleitor Españoleitor",
+          "n": "Farhan Ironbeard",
           "clase": "warrior"
         },
         {
@@ -321,11 +372,11 @@
           "clase": "paladin"
         },
         {
-          "n": "Farhan Ironbeard",
+          "n": "Españoleitor Españoleitor",
           "clase": "warrior"
         },
         {
-          "n": "Españoleitor Españoleitor",
+          "n": "Farhan Ironbeard",
           "clase": "warrior"
         },
         {
@@ -401,11 +452,11 @@
           "clase": "paladin"
         },
         {
-          "n": "Farhan Ironbeard",
+          "n": "Españoleitor Españoleitor",
           "clase": "warrior"
         },
         {
-          "n": "Españoleitor Españoleitor",
+          "n": "Farhan Ironbeard",
           "clase": "warrior"
         },
         {
@@ -1757,6 +1808,59 @@
         {
           "n": "Coloso Tempestad",
           "clase": "warrior"
+        }
+      ]
+    },
+    {
+      "id": 6879,
+      "n": "Lentes verdes",
+      "q": "rare",
+      "ico": "133146",
+      "reac": [
+        [
+          "Cuero grueso",
+          8
+        ],
+        [
+          "Jade",
+          3
+        ],
+        [
+          "Aguamarina",
+          3
+        ],
+        [
+          "Corazón del Salvaje",
+          2
+        ],
+        [
+          "Atriplex salvaje",
+          2
+        ]
+      ],
+      "obj": {
+        "arm": "57 armadura",
+        "id": 10504,
+        "ilvl": 49,
+        "lig": "Se liga al equiparlo",
+        "n": "Lentes verdes",
+        "q": "rare",
+        "ranura": "Cabeza",
+        "stats": [
+          "+10 aguante"
+        ],
+        "sub": "Tela",
+        "venta": [
+          "0",
+          "77",
+          "70"
+        ]
+      },
+      "profesion": "Ingeniería",
+      "personajes": [
+        {
+          "n": "Flexita Shadowsoul",
+          "clase": "hunter"
         }
       ]
     },
@@ -3532,6 +3636,53 @@
         {
           "n": "Manelhon Gargon",
           "clase": "shaman"
+        }
+      ]
+    },
+    {
+      "id": 55151,
+      "n": "Yelmo de cuero totémico",
+      "q": "rare",
+      "ico": "133126",
+      "reac": [
+        [
+          "Cuero medio",
+          12
+        ],
+        [
+          "Pellejo medio curado",
+          2
+        ],
+        [
+          "Ácido sulfúrico",
+          3
+        ]
+      ],
+      "obj": {
+        "arm": "84 armadura",
+        "id": 252456,
+        "ilvl": 30,
+        "lig": "Se liga al recogerlo",
+        "n": "Yelmo de cuero totémico",
+        "q": "rare",
+        "ranura": "Cabeza",
+        "req": 25,
+        "stats": [
+          "+13 aguante",
+          "+12 poder con hechizos"
+        ],
+        "sub": "Cuero",
+        "venta": [
+          "0",
+          "20",
+          "87"
+        ]
+      },
+      "profesion": "Peletería",
+      "personajes": [
+        {
+          "n": "Tankesito Khrih",
+          "clase": "druid"
         }
       ]
     },

@@ -7,9 +7,9 @@
       "personaje": "Flexita Shadowsoul",
       "clase": "hunter",
       "raider": false,
-      "nivel": 235,
+      "nivel": 250,
       "max": 300,
-      "pct": 24
+      "pct": 26
     },
     {
       "personaje": "Cuzcu Aker",
@@ -745,7 +745,9 @@
               "50"
             ]
           },
-          "quien": []
+          "quien": [
+            0
+          ]
         },
         {
           "id": 11231,
@@ -2326,7 +2328,9 @@
               "0"
             ]
           },
-          "quien": []
+          "quien": [
+            0
+          ]
         },
         {
           "id": 12429,
@@ -3167,7 +3171,9 @@
               "5"
             ]
           },
-          "quien": []
+          "quien": [
+            0
+          ]
         },
         {
           "id": 6945,
@@ -5441,7 +5447,9 @@
               "70"
             ]
           },
-          "quien": []
+          "quien": [
+            0
+          ]
         },
         {
           "id": 6940,
@@ -7707,7 +7715,9 @@
               "0"
             ]
           },
-          "quien": []
+          "quien": [
+            0
+          ]
         },
         {
           "id": 11240,

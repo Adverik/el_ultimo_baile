@@ -15,7 +15,7 @@
       "personaje": "Manelhon Gargon",
       "clase": "shaman",
       "raider": true,
-      "nivel": 275,
+      "nivel": 277,
       "max": 300,
       "pct": 67
     },
@@ -23,7 +23,7 @@
       "personaje": "Runa Ruina",
       "clase": "shaman",
       "raider": false,
-      "nivel": 267,
+      "nivel": 270,
       "max": 300,
       "pct": 33
     },
@@ -55,7 +55,7 @@
       "personaje": "Reaper Dead",
       "clase": "paladin",
       "raider": false,
-      "nivel": 251,
+      "nivel": 252,
       "max": 300,
       "pct": 33
     },
@@ -63,7 +63,7 @@
       "personaje": "Kroketa Torreja",
       "clase": "druid",
       "raider": false,
-      "nivel": 240,
+      "nivel": 242,
       "max": 300,
       "pct": 33
     },
@@ -71,7 +71,7 @@
       "personaje": "Aurelio Amador",
       "clase": "rogue",
       "raider": false,
-      "nivel": 237,
+      "nivel": 240,
       "max": 300,
       "pct": 33
     },
@@ -111,7 +111,7 @@
       "personaje": "Arthas Yevon",
       "clase": "paladin",
       "raider": false,
-      "nivel": 169,
+      "nivel": 173,
       "max": 225,
       "pct": 33
     },
@@ -119,7 +119,7 @@
       "personaje": "Samael Thallanor",
       "clase": "hunter",
       "raider": false,
-      "nivel": 157,
+      "nivel": 163,
       "max": 225,
       "pct": 33
     },

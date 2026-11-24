@@ -7,9 +7,9 @@
       "personaje": "Coloso Tempestad",
       "clase": "warrior",
       "raider": false,
-      "nivel": 240,
+      "nivel": 241,
       "max": 300,
-      "pct": 21
+      "pct": 22
     },
     {
       "personaje": "Shiryoku Moonfury",
@@ -41,7 +41,7 @@
       "raider": true,
       "nivel": 185,
       "max": 225,
-      "pct": 14
+      "pct": 15
     },
     {
       "personaje": "Mosu Warryn",
@@ -76,18 +76,18 @@
       "pct": 10
     },
     {
-      "personaje": "Farhan Ironbeard",
+      "personaje": "Españoleitor Españoleitor",
       "clase": "warrior",
       "raider": false,
-      "nivel": 102,
+      "nivel": 103,
       "max": 150,
       "pct": 9
     },
     {
-      "personaje": "Españoleitor Españoleitor",
+      "personaje": "Farhan Ironbeard",
       "clase": "warrior",
       "raider": false,
-      "nivel": 100,
+      "nivel": 102,
       "max": 150,
       "pct": 9
     },
@@ -3491,7 +3491,7 @@
           },
           "quien": [
             1,
-            9
+            10
           ]
         },
         {
@@ -3535,7 +3535,7 @@
             ]
           },
           "quien": [
-            10
+            9
           ]
         },
         {
@@ -3622,7 +3622,7 @@
             ]
           },
           "quien": [
-            9
+            10
           ]
         },
         {
@@ -14416,7 +14416,8 @@
           },
           "quien": [
             1,
-            2
+            2,
+            4
           ]
         },
         {
@@ -15277,6 +15278,7 @@
             ]
           },
           "quien": [
+            0,
             1
           ]
         },

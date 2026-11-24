@@ -31,7 +31,15 @@
       "personaje": "Khyoraku Shunsui",
       "clase": "warrior",
       "raider": true,
-      "nivel": 247,
+      "nivel": 253,
+      "max": 300,
+      "pct": 53
+    },
+    {
+      "personaje": "Althez Sendagris",
+      "clase": "paladin",
+      "raider": false,
+      "nivel": 232,
       "max": 300,
       "pct": 53
     },
@@ -60,10 +68,10 @@
       "pct": 53
     },
     {
-      "personaje": "Althez Sendagris",
-      "clase": "paladin",
+      "personaje": "Flexita Shadowsoul",
+      "clase": "hunter",
       "raider": false,
-      "nivel": 225,
+      "nivel": 221,
       "max": 300,
       "pct": 53
     },
@@ -73,14 +81,6 @@
       "raider": false,
       "nivel": 213,
       "max": 300,
-      "pct": 53
-    },
-    {
-      "personaje": "Flexita Shadowsoul",
-      "clase": "hunter",
-      "raider": false,
-      "nivel": 212,
-      "max": 225,
       "pct": 53
     },
     {
@@ -103,7 +103,7 @@
       "personaje": "Españoleitor Españoleitor",
       "clase": "warrior",
       "raider": false,
-      "nivel": 142,
+      "nivel": 143,
       "max": 225,
       "pct": 35
     },
@@ -111,7 +111,7 @@
       "personaje": "Tommy Durum",
       "clase": "druid",
       "raider": false,
-      "nivel": 137,
+      "nivel": 141,
       "max": 150,
       "pct": 12
     },
@@ -140,16 +140,16 @@
       "pct": 29
     },
     {
-      "personaje": "Hugo Forjaluz",
-      "clase": "paladin",
+      "personaje": "Samael Thallanor",
+      "clase": "hunter",
       "raider": false,
-      "nivel": 119,
+      "nivel": 120,
       "max": 150,
       "pct": 29
     },
     {
-      "personaje": "Samael Thallanor",
-      "clase": "hunter",
+      "personaje": "Hugo Forjaluz",
+      "clase": "paladin",
       "raider": false,
       "nivel": 119,
       "max": 150,
@@ -172,20 +172,20 @@
       "pct": 12
     },
     {
+      "personaje": "Tanki Llo",
+      "clase": "warlock",
+      "raider": false,
+      "nivel": 65,
+      "max": 150,
+      "pct": 6
+    },
+    {
       "personaje": "Grimmjow Jaegerjakez",
       "clase": "druid",
       "raider": false,
       "nivel": 54,
       "max": 75,
       "pct": 12
-    },
-    {
-      "personaje": "Tanki Llo",
-      "clase": "warlock",
-      "raider": false,
-      "nivel": 52,
-      "max": 150,
-      "pct": 6
     }
   ],
   "categorias": [
@@ -768,7 +768,7 @@
             18,
             19,
             20,
-            21
+            22
           ]
         },
         {
@@ -802,7 +802,7 @@
             "sub": "Otros"
           },
           "quien": [
-            5
+            6
           ]
         },
         {
