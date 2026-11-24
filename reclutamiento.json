@@ -1,14 +1,14 @@
 {
-  "actualizado": "2026-11-04",
+  "actualizado": "2026-11-24",
   "clases": [
-    { "clase": "druid",   "specs": ["Tank", "Feral", "Balance", "Restoration"], "cerradas": [] },
-    { "clase": "paladin", "specs": ["Holy", "Protection", "Retribution"], "cerradas": [] },
-    { "clase": "shaman",  "specs": ["Restoration", "Elemental", "Enhancement"], "cerradas": [] },
-    { "clase": "priest",  "specs": ["Holy", "Discipline", "Shadow"], "cerradas": [] },
-    { "clase": "warrior", "specs": ["Protection", "Arms", "Fury"], "cerradas": [] },
-    { "clase": "hunter",  "specs": ["Beast Mastery", "Marksmanship", "Survival"], "cerradas": ["Beast Mastery", "Marksmanship", "Survival"] },
-    { "clase": "mage",    "specs": ["Arcane", "Fire", "Frost"], "cerradas": [] },
-    { "clase": "warlock", "specs": ["Affliction", "Demonology", "Destruction"], "cerradas": [] },
-    { "clase": "rogue",   "specs": ["Assassination", "Combat", "Subtlety"], "cerradas": ["Assassination", "Combat", "Subtlety"] }
+    { "clase": "druid"   , "specs": ["Tank", "Feral", "Balance", "Restoration"], "cerradas": ["Tank", "Restoration"] },
+    { "clase": "paladin" , "specs": ["Holy", "Protection", "Retribution"], "cerradas": ["Protection", "Retribution"] },
+    { "clase": "shaman"  , "specs": ["Restoration", "Elemental", "Enhancement"], "cerradas": [] },
+    { "clase": "priest"  , "specs": ["Holy", "Discipline", "Shadow"], "cerradas": ["Holy", "Discipline"] },
+    { "clase": "warrior" , "specs": ["Protection", "Arms", "Fury"], "cerradas": ["Protection", "Arms", "Fury"] },
+    { "clase": "hunter"  , "specs": ["Beast Mastery", "Marksmanship", "Survival"], "cerradas": ["Beast Mastery", "Marksmanship", "Survival"] },
+    { "clase": "mage"    , "specs": ["Arcane", "Fire", "Frost"], "cerradas": ["Arcane", "Fire", "Frost"] },
+    { "clase": "warlock" , "specs": ["Affliction", "Demonology", "Destruction"], "cerradas": ["Affliction", "Demonology", "Destruction"] },
+    { "clase": "rogue"   , "specs": ["Assassination", "Combat", "Subtlety"], "cerradas": ["Assassination", "Combat", "Subtlety"] }
   ]
 }
