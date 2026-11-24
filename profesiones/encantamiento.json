@@ -23,9 +23,9 @@
       "personaje": "Dum Bo",
       "clase": "mage",
       "raider": false,
-      "nivel": 225,
-      "max": 225,
-      "pct": 23
+      "nivel": 229,
+      "max": 300,
+      "pct": 28
     },
     {
       "personaje": "Elfa Vorable",
@@ -424,7 +424,8 @@
           "desc": "Encanta de forma permanente unos brazales para que proporcionen +5 p. de intelecto.",
           "quien": [
             0,
-            1
+            1,
+            2
           ]
         },
         {
@@ -1032,6 +1033,7 @@
           "quien": [
             0,
             1,
+            2,
             3
           ]
         },
@@ -1058,6 +1060,7 @@
           "quien": [
             0,
             1,
+            2,
             3
           ]
         },
@@ -1075,7 +1078,8 @@
           "desc": "Encanta de forma permanente una armadura de torso para que proporcione +8 de aguante.",
           "quien": [
             0,
-            1
+            1,
+            2
           ]
         },
         {
@@ -1382,6 +1386,7 @@
           "quien": [
             0,
             1,
+            2,
             3
           ]
         },
@@ -1632,6 +1637,7 @@
           "quien": [
             0,
             1,
+            2,
             3
           ]
         },
@@ -1650,6 +1656,7 @@
           "quien": [
             0,
             1,
+            2,
             3
           ]
         },
@@ -1980,6 +1987,7 @@
           "quien": [
             0,
             1,
+            2,
             3
           ]
         },
@@ -2541,6 +2549,7 @@
           "quien": [
             0,
             1,
+            2,
             3
           ]
         },
@@ -2925,7 +2934,8 @@
           "desc": "Encanta de forma permanente unas botas para que proporcionen +5 p. de aguante.",
           "quien": [
             0,
-            1
+            1,
+            2
           ]
         },
         {
@@ -2950,7 +2960,8 @@
           "desc": "Encanta de forma permanente unas botas para aumentar un 4% la velocidad de movimiento.",
           "quien": [
             0,
-            1
+            1,
+            2
           ]
         },
         {
@@ -3414,7 +3425,8 @@
           "desc": "Encanta de forma permanente unos guantes para que proporcionen +7 p. de agilidad.",
           "quien": [
             0,
-            1
+            1,
+            2
           ]
         },
         {
@@ -3471,7 +3483,8 @@
           "desc": "Encanta de forma permanente unos guantes para que proporcionen +7 p. de fuerza.",
           "quien": [
             0,
-            1
+            1,
+            2
           ]
         },
         {

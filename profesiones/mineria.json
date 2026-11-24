@@ -23,17 +23,33 @@
       "personaje": "Shiryoku Moonfury",
       "clase": "warrior",
       "raider": false,
-      "nivel": 291,
+      "nivel": 292,
       "max": 300,
-      "pct": 65
+      "pct": 71
     },
     {
       "personaje": "Khyoraku Shunsui",
       "clase": "warrior",
       "raider": true,
-      "nivel": 236,
+      "nivel": 246,
       "max": 300,
       "pct": 53
+    },
+    {
+      "personaje": "Cuzcu Aker",
+      "clase": "paladin",
+      "raider": true,
+      "nivel": 229,
+      "max": 300,
+      "pct": 53
+    },
+    {
+      "personaje": "Espartaco Gladiador",
+      "clase": "warrior",
+      "raider": false,
+      "nivel": 227,
+      "max": 300,
+      "pct": 59
     },
     {
       "personaje": "La Pety",
@@ -44,34 +60,10 @@
       "pct": 53
     },
     {
-      "personaje": "Espartaco Gladiador",
-      "clase": "warrior",
-      "raider": false,
-      "nivel": 225,
-      "max": 300,
-      "pct": 59
-    },
-    {
-      "personaje": "Cuzcu Aker",
-      "clase": "paladin",
-      "raider": true,
-      "nivel": 224,
-      "max": 300,
-      "pct": 53
-    },
-    {
       "personaje": "Althez Sendagris",
       "clase": "paladin",
       "raider": false,
-      "nivel": 217,
-      "max": 225,
-      "pct": 53
-    },
-    {
-      "personaje": "Flexita Shadowsoul",
-      "clase": "hunter",
-      "raider": false,
-      "nivel": 209,
+      "nivel": 225,
       "max": 225,
       "pct": 53
     },
@@ -79,17 +71,25 @@
       "personaje": "Llamas Xx",
       "clase": "warrior",
       "raider": false,
-      "nivel": 208,
+      "nivel": 213,
       "max": 300,
+      "pct": 53
+    },
+    {
+      "personaje": "Flexita Shadowsoul",
+      "clase": "hunter",
+      "raider": false,
+      "nivel": 212,
+      "max": 225,
       "pct": 53
     },
     {
       "personaje": "Jonaver Legends",
       "clase": "mage",
       "raider": false,
-      "nivel": 156,
+      "nivel": 168,
       "max": 225,
-      "pct": 35
+      "pct": 41
     },
     {
       "personaje": "Mosu Warryn",
@@ -151,7 +151,7 @@
       "personaje": "Samael Thallanor",
       "clase": "hunter",
       "raider": false,
-      "nivel": 115,
+      "nivel": 119,
       "max": 150,
       "pct": 29
     },
@@ -183,16 +183,8 @@
       "personaje": "Tanki Llo",
       "clase": "warlock",
       "raider": false,
-      "nivel": 51,
-      "max": 75,
-      "pct": 6
-    },
-    {
-      "personaje": "Fifi Fififran",
-      "clase": "hunter",
-      "raider": false,
-      "nivel": 3,
-      "max": 75,
+      "nivel": 52,
+      "max": 150,
       "pct": 6
     }
   ],
@@ -329,7 +321,8 @@
             6,
             7,
             8,
-            9
+            9,
+            10
           ]
         },
         {
@@ -507,8 +500,7 @@
             19,
             20,
             21,
-            22,
-            23
+            22
           ]
         },
         {
@@ -717,7 +709,8 @@
             ]
           },
           "quien": [
-            1
+            1,
+            2
           ]
         }
       ]

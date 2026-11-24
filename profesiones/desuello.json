@@ -23,7 +23,7 @@
       "personaje": "Runa Ruina",
       "clase": "shaman",
       "raider": false,
-      "nivel": 263,
+      "nivel": 267,
       "max": 300,
       "pct": 33
     },
@@ -31,7 +31,15 @@
       "personaje": "Memas Tour",
       "clase": "shaman",
       "raider": false,
-      "nivel": 254,
+      "nivel": 264,
+      "max": 300,
+      "pct": 33
+    },
+    {
+      "personaje": "Ildaren Belisar",
+      "clase": "rogue",
+      "raider": false,
+      "nivel": 255,
       "max": 300,
       "pct": 33
     },
@@ -52,10 +60,10 @@
       "pct": 33
     },
     {
-      "personaje": "Ildaren Belisar",
-      "clase": "rogue",
+      "personaje": "Kroketa Torreja",
+      "clase": "druid",
       "raider": false,
-      "nivel": 248,
+      "nivel": 238,
       "max": 300,
       "pct": 33
     },
@@ -68,19 +76,19 @@
       "pct": 33
     },
     {
+      "personaje": "Palmira Natblida",
+      "clase": "rogue",
+      "raider": true,
+      "nivel": 227,
+      "max": 300,
+      "pct": 33
+    },
+    {
       "personaje": "Diana Flechaveloz",
       "clase": "hunter",
       "raider": false,
       "nivel": 225,
       "max": 225,
-      "pct": 33
-    },
-    {
-      "personaje": "Palmira Natblida",
-      "clase": "rogue",
-      "raider": true,
-      "nivel": 225,
-      "max": 300,
       "pct": 33
     },
     {
@@ -127,9 +135,17 @@
       "personaje": "Fitipaldi Sendaumbria",
       "clase": "rogue",
       "raider": false,
-      "nivel": 121,
+      "nivel": 135,
       "max": 150,
       "pct": 33
+    },
+    {
+      "personaje": "Fifi Fififran",
+      "clase": "hunter",
+      "raider": false,
+      "nivel": 110,
+      "max": 150,
+      "pct": 0
     },
     {
       "personaje": "Filps Pachamamamon",
@@ -187,7 +203,8 @@
             13,
             14,
             15,
-            16
+            16,
+            18
           ]
         },
         {

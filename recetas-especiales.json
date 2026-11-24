@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-23",
+  "actualizado": "2026-11-24",
   "recetas": [
     {
       "id": 54409,
@@ -827,6 +827,10 @@
           "clase": "warrior"
         },
         {
+          "n": "Shiryoku Moonfury",
+          "clase": "warrior"
+        },
+        {
           "n": "Espartaco Gladiador",
           "clase": "warrior"
         }
@@ -877,6 +881,10 @@
         {
           "n": "Coloso Tempestad",
           "clase": "warrior"
+        },
+        {
+          "n": "Shiryoku Moonfury",
+          "clase": "warrior"
         }
       ]
     },
@@ -924,6 +932,10 @@
       "personajes": [
         {
           "n": "Coloso Tempestad",
+          "clase": "warrior"
+        },
+        {
+          "n": "Shiryoku Moonfury",
           "clase": "warrior"
         }
       ]
@@ -1033,6 +1045,10 @@
       "personajes": [
         {
           "n": "Coloso Tempestad",
+          "clase": "warrior"
+        },
+        {
+          "n": "Shiryoku Moonfury",
           "clase": "warrior"
         }
       ]
@@ -2027,6 +2043,10 @@
           "clase": "rogue"
         },
         {
+          "n": "Kroketa Torreja",
+          "clase": "druid"
+        },
+        {
           "n": "Tom Kha",
           "clase": "shaman"
         },
@@ -2145,6 +2165,10 @@
         {
           "n": "Ildaren Belisar",
           "clase": "rogue"
+        },
+        {
+          "n": "Kroketa Torreja",
+          "clase": "druid"
         },
         {
           "n": "Tom Kha",
@@ -2329,6 +2353,10 @@
         {
           "n": "Tankesito Khrih",
           "clase": "druid"
+        },
+        {
+          "n": "Kroketa Torreja",
+          "clase": "druid"
         }
       ]
     },
@@ -2446,6 +2474,10 @@
         {
           "n": "Tankesito Khrih",
           "clase": "druid"
+        },
+        {
+          "n": "Kroketa Torreja",
+          "clase": "druid"
         }
       ]
     },
@@ -2502,6 +2534,10 @@
         },
         {
           "n": "Tankesito Khrih",
+          "clase": "druid"
+        },
+        {
+          "n": "Kroketa Torreja",
           "clase": "druid"
         }
       ]
@@ -2565,6 +2601,10 @@
         {
           "n": "Tankesito Khrih",
           "clase": "druid"
+        },
+        {
+          "n": "Kroketa Torreja",
+          "clase": "druid"
         }
       ]
     },
@@ -2626,6 +2666,10 @@
         {
           "n": "Tankesito Khrih",
           "clase": "druid"
+        },
+        {
+          "n": "Kroketa Torreja",
+          "clase": "druid"
         }
       ]
     },
@@ -2686,6 +2730,10 @@
         },
         {
           "n": "Tankesito Khrih",
+          "clase": "druid"
+        },
+        {
+          "n": "Kroketa Torreja",
           "clase": "druid"
         }
       ]
@@ -2760,6 +2808,10 @@
         {
           "n": "Ildaren Belisar",
           "clase": "rogue"
+        },
+        {
+          "n": "Kroketa Torreja",
+          "clase": "druid"
         }
       ]
     },
@@ -2960,6 +3012,71 @@
         {
           "n": "Tankesito Khrih",
           "clase": "druid"
+        },
+        {
+          "n": "Kroketa Torreja",
+          "clase": "druid"
+        }
+      ]
+    },
+    {
+      "id": 55119,
+      "n": "Hombreras de cuero de vagador",
+      "q": "rare",
+      "ico": "2357691",
+      "reac": [
+        [
+          "Cuero grueso",
+          10
+        ],
+        [
+          "Pellejo pesado curado",
+          3
+        ],
+        [
+          "Pellejo prístino",
+          4
+        ],
+        [
+          "Hilo de seda",
+          2
+        ],
+        [
+          "Seda de araña",
+          3
+        ],
+        [
+          "Cuero prístino",
+          2
+        ]
+      ],
+      "obj": {
+        "arm": "104 armadura",
+        "id": 252535,
+        "ilvl": 47,
+        "lig": "Se liga al recogerlo",
+        "n": "Hombreras de cuero de vagador",
+        "q": "rare",
+        "ranura": "Hombro",
+        "req": 42,
+        "stats": [
+          "+11 agilidad",
+          "+9 fuerza",
+          "+7 aguante",
+          "+6 espíritu"
+        ],
+        "sub": "Cuero",
+        "venta": [
+          "0",
+          "81",
+          "16"
+        ]
+      },
+      "profesion": "Peletería",
+      "personajes": [
+        {
+          "n": "Aurelio Amador",
+          "clase": "rogue"
         }
       ]
     },
@@ -3112,6 +3229,65 @@
         {
           "n": "Edoras Duskranger",
           "clase": "hunter"
+        }
+      ]
+    },
+    {
+      "id": 5700,
+      "n": "Yelmo de Fuego",
+      "q": "rare",
+      "ico": "133076",
+      "reac": [
+        [
+          "Cuero grueso",
+          40
+        ],
+        [
+          "Corazón de fuego",
+          8
+        ],
+        [
+          "Núcleo de tierra",
+          4
+        ],
+        [
+          "Pellejo grueso curado",
+          2
+        ],
+        [
+          "Hilo de seda pesada",
+          4
+        ]
+      ],
+      "obj": {
+        "arm": "118 armadura",
+        "efectos": [
+          "Usar: Lanza una bola abrasadora que causa 286 a 376 p. de daño de Fuego y 132 p. de daño de Fuego extra durante 8 s. (5 min de tiempo de reutilización)."
+        ],
+        "id": 8348,
+        "ilvl": 50,
+        "lig": "Se liga al equiparlo",
+        "n": "Yelmo de Fuego",
+        "q": "rare",
+        "ranura": "Cabeza",
+        "req": 45,
+        "stats": [
+          "+17 agilidad",
+          "+10 aguante",
+          "+5 resistencia a Fuego"
+        ],
+        "sub": "Cuero",
+        "venta": [
+          "1",
+          "8",
+          "19"
+        ]
+      },
+      "profesion": "Peletería",
+      "personajes": [
+        {
+          "n": "Aurelio Amador",
+          "clase": "rogue"
         }
       ]
     },
@@ -3374,6 +3550,10 @@
           "clase": "rogue"
         },
         {
+          "n": "Kroketa Torreja",
+          "clase": "druid"
+        },
+        {
           "n": "Tom Kha",
           "clase": "shaman"
         },
@@ -3492,6 +3672,10 @@
         {
           "n": "Ildaren Belisar",
           "clase": "rogue"
+        },
+        {
+          "n": "Kroketa Torreja",
+          "clase": "druid"
         },
         {
           "n": "Tom Kha",
@@ -3642,16 +3826,16 @@
           "clase": "priest"
         },
         {
+          "n": "Archi Amnesia",
+          "clase": "priest"
+        },
+        {
           "n": "Rhyomen Sukuna",
           "clase": "warlock"
         },
         {
           "n": "Micro Bolas",
           "clase": "warlock"
-        },
-        {
-          "n": "Archi Amnesia",
-          "clase": "priest"
         },
         {
           "n": "Saint Peligroxa",
@@ -4303,16 +4487,16 @@
           "clase": "druid"
         },
         {
+          "n": "Archi Amnesia",
+          "clase": "priest"
+        },
+        {
           "n": "Rhyomen Sukuna",
           "clase": "warlock"
         },
         {
           "n": "Micro Bolas",
           "clase": "warlock"
-        },
-        {
-          "n": "Archi Amnesia",
-          "clase": "priest"
         },
         {
           "n": "Saint Peligroxa",
@@ -4404,12 +4588,12 @@
           "clase": "priest"
         },
         {
-          "n": "Rhyomen Sukuna",
-          "clase": "warlock"
-        },
-        {
           "n": "Archi Amnesia",
           "clase": "priest"
+        },
+        {
+          "n": "Rhyomen Sukuna",
+          "clase": "warlock"
         },
         {
           "n": "Saint Peligroxa",
@@ -5471,6 +5655,10 @@
         {
           "n": "Elfa Vorable",
           "clase": "druid"
+        },
+        {
+          "n": "Archi Amnesia",
+          "clase": "priest"
         }
       ]
     },
@@ -5540,6 +5728,10 @@
         {
           "n": "Elfa Vorable",
           "clase": "druid"
+        },
+        {
+          "n": "Archi Amnesia",
+          "clase": "priest"
         }
       ]
     },
@@ -5609,6 +5801,10 @@
         {
           "n": "Elfa Vorable",
           "clase": "druid"
+        },
+        {
+          "n": "Archi Amnesia",
+          "clase": "priest"
         }
       ]
     },
@@ -5678,6 +5874,10 @@
         {
           "n": "Elfa Vorable",
           "clase": "druid"
+        },
+        {
+          "n": "Archi Amnesia",
+          "clase": "priest"
         }
       ]
     },
@@ -5748,6 +5948,10 @@
         {
           "n": "Elfa Vorable",
           "clase": "druid"
+        },
+        {
+          "n": "Archi Amnesia",
+          "clase": "priest"
         }
       ]
     },
@@ -5813,6 +6017,10 @@
         {
           "n": "Elfa Vorable",
           "clase": "druid"
+        },
+        {
+          "n": "Archi Amnesia",
+          "clase": "priest"
         }
       ]
     }
