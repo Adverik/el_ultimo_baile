@@ -15,7 +15,7 @@
       "personaje": "Manelhon Gargon",
       "clase": "shaman",
       "raider": true,
-      "nivel": 277,
+      "nivel": 286,
       "max": 300,
       "pct": 67
     },
@@ -39,7 +39,7 @@
       "personaje": "Ildaren Belisar",
       "clase": "rogue",
       "raider": false,
-      "nivel": 255,
+      "nivel": 256,
       "max": 300,
       "pct": 33
     },
@@ -71,7 +71,7 @@
       "personaje": "Aurelio Amador",
       "clase": "rogue",
       "raider": false,
-      "nivel": 240,
+      "nivel": 241,
       "max": 300,
       "pct": 33
     },
@@ -79,7 +79,7 @@
       "personaje": "Palmira Natblida",
       "clase": "rogue",
       "raider": true,
-      "nivel": 227,
+      "nivel": 235,
       "max": 300,
       "pct": 33
     },

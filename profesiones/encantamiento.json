@@ -3110,7 +3110,8 @@
           "desc": "Encanta de forma permanente un escudo para aumentar su armadura en 30 p.",
           "quien": [
             0,
-            1
+            1,
+            7
           ]
         },
         {

@@ -33,7 +33,7 @@
       "raider": true,
       "nivel": 250,
       "max": 300,
-      "pct": 27
+      "pct": 28
     },
     {
       "personaje": "Layrela Rondanit",
@@ -47,7 +47,7 @@
       "personaje": "Don Josechu",
       "clase": "warlock",
       "raider": false,
-      "nivel": 203,
+      "nivel": 204,
       "max": 225,
       "pct": 12
     },
@@ -1079,7 +1079,9 @@
               "0"
             ]
           },
-          "quien": []
+          "quien": [
+            3
+          ]
         },
         {
           "id": 9939,

@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-24",
+  "actualizado": "2026-11-25",
   "recetas": [
     {
       "id": 54409,
@@ -1408,6 +1408,10 @@
         {
           "n": "Espartaco Gladiador",
           "clase": "warrior"
+        },
+        {
+          "n": "Españoleitor Españoleitor",
+          "clase": "warrior"
         }
       ]
     },
@@ -2171,12 +2175,12 @@
           "clase": "rogue"
         },
         {
-          "n": "Edoras Duskranger",
-          "clase": "hunter"
-        },
-        {
           "n": "Manelhon Gargon",
           "clase": "shaman"
+        },
+        {
+          "n": "Edoras Duskranger",
+          "clase": "hunter"
         },
         {
           "n": "Diana Flechaveloz",
@@ -2305,6 +2309,10 @@
         {
           "n": "Palmira Natblida",
           "clase": "rogue"
+        },
+        {
+          "n": "Manelhon Gargon",
+          "clase": "shaman"
         },
         {
           "n": "Runa Ruina",
@@ -3150,12 +3158,12 @@
           "clase": "rogue"
         },
         {
-          "n": "Edoras Duskranger",
-          "clase": "hunter"
-        },
-        {
           "n": "Manelhon Gargon",
           "clase": "shaman"
+        },
+        {
+          "n": "Edoras Duskranger",
+          "clase": "hunter"
         },
         {
           "n": "Diana Flechaveloz",
@@ -3737,6 +3745,10 @@
           "clase": "rogue"
         },
         {
+          "n": "Manelhon Gargon",
+          "clase": "shaman"
+        },
+        {
           "n": "Runa Ruina",
           "clase": "shaman"
         },
@@ -3859,6 +3871,10 @@
         {
           "n": "Palmira Natblida",
           "clase": "rogue"
+        },
+        {
+          "n": "Manelhon Gargon",
+          "clase": "shaman"
         },
         {
           "n": "Runa Ruina",

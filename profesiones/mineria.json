@@ -31,7 +31,7 @@
       "personaje": "Khyoraku Shunsui",
       "clase": "warrior",
       "raider": true,
-      "nivel": 253,
+      "nivel": 258,
       "max": 300,
       "pct": 53
     },
@@ -47,7 +47,7 @@
       "personaje": "Cuzcu Aker",
       "clase": "paladin",
       "raider": true,
-      "nivel": 229,
+      "nivel": 231,
       "max": 300,
       "pct": 53
     },
@@ -79,7 +79,7 @@
       "personaje": "Llamas Xx",
       "clase": "warrior",
       "raider": false,
-      "nivel": 213,
+      "nivel": 215,
       "max": 300,
       "pct": 53
     },
@@ -87,7 +87,7 @@
       "personaje": "Jonaver Legends",
       "clase": "mage",
       "raider": false,
-      "nivel": 182,
+      "nivel": 185,
       "max": 225,
       "pct": 53
     },
@@ -111,7 +111,7 @@
       "personaje": "Tommy Durum",
       "clase": "druid",
       "raider": false,
-      "nivel": 141,
+      "nivel": 142,
       "max": 150,
       "pct": 12
     },
