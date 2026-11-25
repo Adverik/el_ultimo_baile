@@ -281,20 +281,20 @@
           "clase": "warrior"
         },
         {
-          "n": "Tharindel Magnaluz",
-          "clase": "paladin"
-        },
-        {
           "n": "Llamas Xx",
           "clase": "warrior"
         },
         {
-          "n": "Hugo Forjaluz",
+          "n": "Tharindel Magnaluz",
           "clase": "paladin"
         },
         {
           "n": "Españoleitor Españoleitor",
           "clase": "warrior"
+        },
+        {
+          "n": "Hugo Forjaluz",
+          "clase": "paladin"
         },
         {
           "n": "Farhan Ironbeard",
@@ -360,20 +360,20 @@
           "clase": "warrior"
         },
         {
-          "n": "Tharindel Magnaluz",
-          "clase": "paladin"
-        },
-        {
           "n": "Llamas Xx",
           "clase": "warrior"
         },
         {
-          "n": "Hugo Forjaluz",
+          "n": "Tharindel Magnaluz",
           "clase": "paladin"
         },
         {
           "n": "Españoleitor Españoleitor",
           "clase": "warrior"
+        },
+        {
+          "n": "Hugo Forjaluz",
+          "clase": "paladin"
         },
         {
           "n": "Farhan Ironbeard",
@@ -440,20 +440,20 @@
           "clase": "warrior"
         },
         {
-          "n": "Tharindel Magnaluz",
-          "clase": "paladin"
-        },
-        {
           "n": "Llamas Xx",
           "clase": "warrior"
         },
         {
-          "n": "Hugo Forjaluz",
+          "n": "Tharindel Magnaluz",
           "clase": "paladin"
         },
         {
           "n": "Españoleitor Españoleitor",
           "clase": "warrior"
+        },
+        {
+          "n": "Hugo Forjaluz",
+          "clase": "paladin"
         },
         {
           "n": "Farhan Ironbeard",
@@ -1481,12 +1481,12 @@
           "clase": "warrior"
         },
         {
-          "n": "Tharindel Magnaluz",
-          "clase": "paladin"
-        },
-        {
           "n": "Llamas Xx",
           "clase": "warrior"
+        },
+        {
+          "n": "Tharindel Magnaluz",
+          "clase": "paladin"
         }
       ]
     },
@@ -2183,16 +2183,16 @@
           "clase": "hunter"
         },
         {
+          "n": "Tankesito Khrih",
+          "clase": "druid"
+        },
+        {
           "n": "Diana Flechaveloz",
           "clase": "hunter"
         },
         {
           "n": "Runa Ruina",
           "clase": "shaman"
-        },
-        {
-          "n": "Tankesito Khrih",
-          "clase": "druid"
         },
         {
           "n": "Ildaren Belisar",
@@ -2315,12 +2315,12 @@
           "clase": "shaman"
         },
         {
-          "n": "Runa Ruina",
-          "clase": "shaman"
-        },
-        {
           "n": "Tankesito Khrih",
           "clase": "druid"
+        },
+        {
+          "n": "Runa Ruina",
+          "clase": "shaman"
         },
         {
           "n": "Ildaren Belisar",
@@ -2755,12 +2755,12 @@
           "clase": "rogue"
         },
         {
-          "n": "Runa Ruina",
-          "clase": "shaman"
-        },
-        {
           "n": "Tankesito Khrih",
           "clase": "druid"
+        },
+        {
+          "n": "Runa Ruina",
+          "clase": "shaman"
         },
         {
           "n": "Kroketa Torreja",
@@ -2958,12 +2958,12 @@
           "clase": "hunter"
         },
         {
-          "n": "Diana Flechaveloz",
-          "clase": "hunter"
-        },
-        {
           "n": "Tankesito Khrih",
           "clase": "druid"
+        },
+        {
+          "n": "Diana Flechaveloz",
+          "clase": "hunter"
         },
         {
           "n": "Ildaren Belisar",
@@ -3166,12 +3166,12 @@
           "clase": "hunter"
         },
         {
-          "n": "Diana Flechaveloz",
-          "clase": "hunter"
-        },
-        {
           "n": "Tankesito Khrih",
           "clase": "druid"
+        },
+        {
+          "n": "Diana Flechaveloz",
+          "clase": "hunter"
         },
         {
           "n": "Kroketa Torreja",
@@ -3749,12 +3749,12 @@
           "clase": "shaman"
         },
         {
-          "n": "Runa Ruina",
-          "clase": "shaman"
-        },
-        {
           "n": "Tankesito Khrih",
           "clase": "druid"
+        },
+        {
+          "n": "Runa Ruina",
+          "clase": "shaman"
         },
         {
           "n": "Ildaren Belisar",
@@ -3877,12 +3877,12 @@
           "clase": "shaman"
         },
         {
-          "n": "Runa Ruina",
-          "clase": "shaman"
-        },
-        {
           "n": "Tankesito Khrih",
           "clase": "druid"
+        },
+        {
+          "n": "Runa Ruina",
+          "clase": "shaman"
         },
         {
           "n": "Ildaren Belisar",
@@ -4037,11 +4037,11 @@
           "clase": "druid"
         },
         {
-          "n": "Nimassus Pater",
+          "n": "Archi Amnesia",
           "clase": "priest"
         },
         {
-          "n": "Archi Amnesia",
+          "n": "Nimassus Pater",
           "clase": "priest"
         },
         {
@@ -4116,6 +4116,10 @@
         {
           "n": "Sr Byron",
           "clase": "warlock"
+        },
+        {
+          "n": "Señor Ollivander",
+          "clase": "mage"
         }
       ]
     },
@@ -4799,11 +4803,11 @@
           "clase": "druid"
         },
         {
-          "n": "Nimassus Pater",
+          "n": "Archi Amnesia",
           "clase": "priest"
         },
         {
-          "n": "Archi Amnesia",
+          "n": "Nimassus Pater",
           "clase": "priest"
         },
         {

@@ -140,6 +140,14 @@
       "pct": 33
     },
     {
+      "personaje": "Nimassus Pater",
+      "clase": "priest",
+      "raider": true,
+      "nivel": 134,
+      "max": 150,
+      "pct": 33
+    },
+    {
       "personaje": "Cuzcu Aker",
       "clase": "paladin",
       "raider": true,
@@ -164,26 +172,18 @@
       "pct": 33
     },
     {
-      "personaje": "Nimassus Pater",
-      "clase": "priest",
-      "raider": true,
-      "nivel": 128,
-      "max": 150,
-      "pct": 33
-    },
-    {
       "personaje": "Tanki Llo",
       "clase": "warlock",
       "raider": false,
-      "nivel": 112,
-      "max": 150,
+      "nivel": 127,
+      "max": 225,
       "pct": 0
     },
     {
       "personaje": "Sr Byron",
       "clase": "warlock",
       "raider": false,
-      "nivel": 110,
+      "nivel": 111,
       "max": 150,
       "pct": 33
     },

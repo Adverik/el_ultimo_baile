@@ -9,7 +9,7 @@
       "raider": false,
       "nivel": 270,
       "max": 300,
-      "pct": 31
+      "pct": 32
     },
     {
       "personaje": "Dum Bo",
@@ -95,7 +95,7 @@
       "personaje": "Rhyomen Sukuna",
       "clase": "warlock",
       "raider": false,
-      "nivel": 25,
+      "nivel": 30,
       "max": 75,
       "pct": 3
     },
@@ -2867,6 +2867,7 @@
           ],
           "desc": "Encanta de forma permanente un par de botas para que aumenten 3 p. la agilidad del portador.",
           "quien": [
+            0,
             1,
             3
           ]
