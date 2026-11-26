@@ -8,7 +8,7 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 248,
+          "nivel": 250,
           "max": 300
         },
         {
@@ -35,7 +35,7 @@
       "profesiones": [
         {
           "nombre": "Sastrería",
-          "nivel": 153,
+          "nivel": 158,
           "max": 225
         },
         {
@@ -45,7 +45,7 @@
         },
         {
           "nombre": "Cocina",
-          "nivel": 187,
+          "nivel": 195,
           "max": 225
         },
         {
@@ -55,7 +55,7 @@
         },
         {
           "nombre": "Primeros auxilios",
-          "nivel": 93,
+          "nivel": 111,
           "max": 150
         }
       ]
@@ -89,17 +89,17 @@
       "profesiones": [
         {
           "nombre": "Desuello",
-          "nivel": 195,
+          "nivel": 209,
           "max": 225
         },
         {
           "nombre": "Minería",
-          "nivel": 132,
+          "nivel": 137,
           "max": 225
         },
         {
           "nombre": "Cocina",
-          "nivel": 126,
+          "nivel": 150,
           "max": 150
         },
         {
@@ -126,7 +126,7 @@
         },
         {
           "nombre": "Desuello",
-          "nivel": 250,
+          "nivel": 257,
           "max": 300
         },
         {
@@ -207,7 +207,7 @@
       "profesiones": [
         {
           "nombre": "Alquimia",
-          "nivel": 278,
+          "nivel": 279,
           "max": 300
         },
         {
@@ -283,7 +283,7 @@
       "profesiones": [
         {
           "nombre": "Peletería",
-          "nivel": 52,
+          "nivel": 53,
           "max": 150
         },
         {
@@ -411,7 +411,7 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 240,
+          "nivel": 242,
           "max": 300
         },
         {
@@ -652,7 +652,7 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 152,
+          "nivel": 154,
           "max": 225
         },
         {
@@ -672,7 +672,7 @@
         },
         {
           "nombre": "Primeros auxilios",
-          "nivel": 187,
+          "nivel": 192,
           "max": 225
         }
       ]
@@ -765,7 +765,7 @@
       "profesiones": [
         {
           "nombre": "Sastrería",
-          "nivel": 261,
+          "nivel": 265,
           "max": 300
         },
         {
@@ -792,7 +792,7 @@
       "profesiones": [
         {
           "nombre": "Desuello",
-          "nivel": 141,
+          "nivel": 150,
           "max": 150
         },
         {
@@ -819,7 +819,7 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 226,
+          "nivel": 229,
           "max": 300
         },
         {
@@ -856,7 +856,7 @@
         },
         {
           "nombre": "Herboristería",
-          "nivel": 286,
+          "nivel": 287,
           "max": 300
         },
         {
@@ -883,7 +883,7 @@
         },
         {
           "nombre": "Herboristería",
-          "nivel": 189,
+          "nivel": 191,
           "max": 225
         },
         {
@@ -905,12 +905,12 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 56,
+          "nivel": 59,
           "max": 75
         },
         {
           "nombre": "Herboristería",
-          "nivel": 81,
+          "nivel": 102,
           "max": 150
         },
         {
@@ -920,7 +920,7 @@
         },
         {
           "nombre": "Pesca",
-          "nivel": 1,
+          "nivel": 8,
           "max": 75
         },
         {
@@ -937,27 +937,27 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 121,
+          "nivel": 124,
           "max": 150
         },
         {
           "nombre": "Herrería",
-          "nivel": 116,
+          "nivel": 117,
           "max": 150
         },
         {
           "nombre": "Cocina",
-          "nivel": 26,
-          "max": 75
+          "nivel": 71,
+          "max": 150
         },
         {
           "nombre": "Pesca",
-          "nivel": 38,
-          "max": 75
+          "nivel": 70,
+          "max": 150
         },
         {
           "nombre": "Primeros auxilios",
-          "nivel": 124,
+          "nivel": 132,
           "max": 150
         }
       ]
@@ -1210,17 +1210,17 @@
         },
         {
           "nombre": "Cocina",
-          "nivel": 244,
+          "nivel": 246,
           "max": 300
         },
         {
           "nombre": "Pesca",
-          "nivel": 107,
+          "nivel": 111,
           "max": 150
         },
         {
           "nombre": "Primeros auxilios",
-          "nivel": 233,
+          "nivel": 234,
           "max": 300
         }
       ]
@@ -1232,7 +1232,7 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 219,
+          "nivel": 222,
           "max": 300
         },
         {
@@ -1252,8 +1252,8 @@
         },
         {
           "nombre": "Primeros auxilios",
-          "nivel": 196,
-          "max": 225
+          "nivel": 243,
+          "max": 300
         }
       ]
     },
@@ -1307,7 +1307,7 @@
         {
           "nombre": "Cocina",
           "nivel": 150,
-          "max": 150
+          "max": 225
         },
         {
           "nombre": "Pesca",
@@ -1397,7 +1397,7 @@
         },
         {
           "nombre": "Encantamiento",
-          "nivel": 119,
+          "nivel": 128,
           "max": 150
         },
         {
@@ -1532,12 +1532,12 @@
       "profesiones": [
         {
           "nombre": "Peletería",
-          "nivel": 178,
+          "nivel": 202,
           "max": 225
         },
         {
           "nombre": "Desuello",
-          "nivel": 272,
+          "nivel": 276,
           "max": 300
         },
         {
@@ -1670,7 +1670,7 @@
         },
         {
           "nombre": "Pesca",
-          "nivel": 226,
+          "nivel": 250,
           "max": 300
         },
         {
@@ -1810,12 +1810,12 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 90,
+          "nivel": 110,
           "max": 150
         },
         {
           "nombre": "Herboristería",
-          "nivel": 90,
+          "nivel": 91,
           "max": 150
         },
         {
@@ -1825,7 +1825,7 @@
         },
         {
           "nombre": "Pesca",
-          "nivel": 161,
+          "nivel": 190,
           "max": 225
         }
       ]
@@ -1921,8 +1921,8 @@
         },
         {
           "nombre": "Primeros auxilios",
-          "nivel": 150,
-          "max": 150
+          "nivel": 188,
+          "max": 225
         }
       ]
     },
@@ -1938,7 +1938,7 @@
         },
         {
           "nombre": "Desuello",
-          "nivel": 185,
+          "nivel": 186,
           "max": 225
         },
         {
@@ -2110,6 +2110,7 @@
         "Betadine Pervinox",
         "Dio Hotmetal",
         "Fran Furion",
+        "Layrela Rondanit",
         "Sugar Papy"
       ]
     },
@@ -3020,6 +3021,7 @@
         "Betadine Pervinox",
         "Dio Hotmetal",
         "Fran Furion",
+        "Layrela Rondanit",
         "Sugar Papy"
       ]
     },
@@ -3224,6 +3226,7 @@
         "Flexita Shadowsoul",
         "Fran Furion",
         "Grimmjow Jaegerjakez",
+        "Hugo Forjaluz",
         "Ildaren Belisar",
         "Jonaver Legends",
         "Kadeharz Apsus",
@@ -3359,7 +3362,8 @@
       "profesion": "Cocina",
       "calidad": "common",
       "personajes": [
-        "Edoras Duskranger"
+        "Edoras Duskranger",
+        "Manelhon Gargon"
       ]
     },
     {
@@ -3517,6 +3521,7 @@
         "Flexita Shadowsoul",
         "Fran Furion",
         "Grimmjow Jaegerjakez",
+        "Hugo Forjaluz",
         "Ildaren Belisar",
         "Jonaver Legends",
         "Kadeharz Apsus",
@@ -3589,6 +3594,7 @@
       "personajes": [
         "Althez Sendagris",
         "Archi Amnesia",
+        "Arthas Yevon",
         "Chaca Choochoo",
         "Diana Flechaveloz",
         "Dum Bo",
@@ -3636,6 +3642,7 @@
       "calidad": "common",
       "personajes": [
         "Althez Sendagris",
+        "Arthas Yevon",
         "Breezy Reaver",
         "Chaca Choochoo",
         "Diana Flechaveloz",
@@ -3876,7 +3883,8 @@
       "personajes": [
         "Edoras Duskranger",
         "Flexita Shadowsoul",
-        "Layrela Rondanit"
+        "Layrela Rondanit",
+        "Manelhon Gargon"
       ]
     },
     {
@@ -3960,6 +3968,7 @@
       "calidad": "common",
       "personajes": [
         "Edoras Duskranger",
+        "Manelhon Gargon",
         "Reaper Dead"
       ]
     },
@@ -3991,6 +4000,7 @@
         "Espartaco Gladiador",
         "Flexita Shadowsoul",
         "Layrela Rondanit",
+        "Manelhon Gargon",
         "Shiryoku Moonfury"
       ]
     },
@@ -4021,6 +4031,7 @@
         "Jonaver Legends",
         "Khyoraku Shunsui",
         "Kroketa Torreja",
+        "Manelhon Gargon",
         "Mosu Warryn",
         "Reaper Dead",
         "Shiryoku Moonfury"
@@ -4064,6 +4075,7 @@
         "Flexita Shadowsoul",
         "Jonaver Legends",
         "Kroketa Torreja",
+        "Layrela Rondanit",
         "Manelhon Gargon",
         "Memas Tour",
         "Mosu Warryn",
@@ -4097,7 +4109,8 @@
       "calidad": "common",
       "personajes": [
         "Edoras Duskranger",
-        "Flexita Shadowsoul"
+        "Flexita Shadowsoul",
+        "Sugar Papy"
       ]
     },
     {
@@ -4848,6 +4861,7 @@
         "Chaca Choochoo",
         "Coloso Tempestad",
         "Dum Bo",
+        "Elfa Vorable",
         "Espartaco Gladiador",
         "Flexita Shadowsoul",
         "Layrela Rondanit",
@@ -5153,7 +5167,8 @@
       "personajes": [
         "Dum Bo",
         "Elfa Vorable",
-        "Finn Felagund"
+        "Finn Felagund",
+        "Nimassus Pater"
       ]
     },
     {
@@ -5176,6 +5191,7 @@
         "Elfa Vorable",
         "Finn Felagund",
         "Kadeharz Apsus",
+        "Nimassus Pater",
         "Saint Peligroxa",
         "Sr Byron"
       ]
@@ -5259,7 +5275,8 @@
       "calidad": "common",
       "personajes": [
         "Dum Bo",
-        "Elfa Vorable"
+        "Elfa Vorable",
+        "Nimassus Pater"
       ]
     },
     {
@@ -5538,6 +5555,7 @@
         "Elfa Vorable",
         "Finn Felagund",
         "Kadeharz Apsus",
+        "Nimassus Pater",
         "Saint Peligroxa",
         "Sr Byron"
       ]
@@ -5615,6 +5633,7 @@
         "Elfa Vorable",
         "Finn Felagund",
         "Kadeharz Apsus",
+        "Nimassus Pater",
         "Sr Byron"
       ]
     },
@@ -5629,6 +5648,7 @@
         "Elfa Vorable",
         "Finn Felagund",
         "Kadeharz Apsus",
+        "Nimassus Pater",
         "Saint Peligroxa",
         "Sr Byron"
       ]
@@ -7248,7 +7268,8 @@
       "profesion": "Herrería",
       "calidad": "uncommon",
       "personajes": [
-        "Coloso Tempestad"
+        "Coloso Tempestad",
+        "Españoleitor Españoleitor"
       ]
     },
     {
@@ -9249,6 +9270,7 @@
         "Ildaren Belisar",
         "Kroketa Torreja",
         "Manelhon Gargon",
+        "Memas Tour",
         "Palmira Natblida",
         "Runa Ruina"
       ]
@@ -9471,6 +9493,7 @@
         "Manelhon Gargon",
         "Memas Tour",
         "Palmira Natblida",
+        "Runa Ruina",
         "Tankesito Khrih"
       ]
     },
@@ -9887,7 +9910,8 @@
       "profesion": "Peletería",
       "calidad": "uncommon",
       "personajes": [
-        "Edoras Duskranger"
+        "Edoras Duskranger",
+        "Manelhon Gargon"
       ]
     },
     {
@@ -9922,6 +9946,7 @@
       "calidad": "uncommon",
       "personajes": [
         "Edoras Duskranger",
+        "Manelhon Gargon",
         "Palmira Natblida"
       ]
     },
@@ -10516,7 +10541,8 @@
         "Edoras Duskranger",
         "Manelhon Gargon",
         "Memas Tour",
-        "Palmira Natblida"
+        "Palmira Natblida",
+        "Runa Ruina"
       ]
     },
     {
@@ -10544,7 +10570,8 @@
         "Diana Flechaveloz",
         "Edoras Duskranger",
         "Memas Tour",
-        "Palmira Natblida"
+        "Palmira Natblida",
+        "Runa Ruina"
       ]
     },
     {
@@ -10756,6 +10783,7 @@
         "Manelhon Gargon",
         "Memas Tour",
         "Palmira Natblida",
+        "Runa Ruina",
         "Tankesito Khrih"
       ]
     },
@@ -10770,6 +10798,7 @@
         "Manelhon Gargon",
         "Memas Tour",
         "Palmira Natblida",
+        "Runa Ruina",
         "Tankesito Khrih"
       ]
     },
@@ -10917,7 +10946,8 @@
       "profesion": "Peletería",
       "calidad": "uncommon",
       "personajes": [
-        "Manelhon Gargon"
+        "Manelhon Gargon",
+        "Runa Ruina"
       ]
     },
     {
@@ -10945,6 +10975,22 @@
       "calidad": "uncommon",
       "personajes": [
         "Aurelio Amador"
+      ]
+    },
+    {
+      "nombre": "Wild Leather Helmet",
+      "profesion": "Peletería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Runa Ruina"
+      ]
+    },
+    {
+      "nombre": "Wild Leather Shoulders",
+      "profesion": "Peletería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Runa Ruina"
       ]
     },
     {
@@ -11049,6 +11095,7 @@
         "Diana Flechaveloz",
         "Dio Hotmetal",
         "Flexita Shadowsoul",
+        "Hugo Forjaluz",
         "Kroketa Torreja",
         "Layrela Rondanit",
         "Manelhon Gargon",
@@ -11075,7 +11122,6 @@
         "Españoleitor Españoleitor",
         "Farhan Ironbeard",
         "Grimmjow Jaegerjakez",
-        "Hugo Forjaluz",
         "Ibu Profenus",
         "Ildaren Belisar",
         "Joaquin Bollos",
@@ -11201,7 +11247,8 @@
         "Coloso Tempestad",
         "Genethika Brisaveloz",
         "Ildaren Belisar",
-        "Kroketa Torreja"
+        "Kroketa Torreja",
+        "Tio Richard"
       ]
     },
     {
@@ -11209,6 +11256,7 @@
       "profesion": "Primeros auxilios",
       "calidad": "common",
       "personajes": [
+        "Archi Amnesia",
         "Arthas Yevon",
         "Aurelio Amador",
         "Breezy Reaver",
@@ -11321,10 +11369,12 @@
         "Jonaver Legends",
         "La Pety",
         "Layrela Rondanit",
+        "Llamas Xx",
         "Palmira Natblida",
         "Runa Ruina",
         "Shiryoku Moonfury",
-        "Tankesito Khrih"
+        "Tankesito Khrih",
+        "Tio Richard"
       ]
     },
     {
@@ -11488,6 +11538,7 @@
         "Jonaver Legends",
         "La Pety",
         "Layrela Rondanit",
+        "Llamas Xx",
         "Palmira Natblida",
         "Runa Ruina",
         "Shiryoku Moonfury",
@@ -11600,6 +11651,7 @@
       "profesion": "Primeros auxilios",
       "calidad": "common",
       "personajes": [
+        "Archi Amnesia",
         "Arthas Yevon",
         "Breezy Reaver",
         "Coloso Tempestad",
@@ -11642,6 +11694,7 @@
       "profesion": "Primeros auxilios",
       "calidad": "common",
       "personajes": [
+        "Aurelio Amador",
         "Coloso Tempestad",
         "Dum Bo",
         "Layrela Rondanit"
@@ -13401,6 +13454,7 @@
       "profesion": "Sastrería",
       "calidad": "rare",
       "personajes": [
+        "Archi Amnesia",
         "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",

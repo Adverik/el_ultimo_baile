@@ -23,7 +23,7 @@
       "personaje": "Runa Ruina",
       "clase": "shaman",
       "raider": false,
-      "nivel": 272,
+      "nivel": 276,
       "max": 300,
       "pct": 33
     },
@@ -40,6 +40,14 @@
       "clase": "rogue",
       "raider": false,
       "nivel": 258,
+      "max": 300,
+      "pct": 33
+    },
+    {
+      "personaje": "Aurelio Amador",
+      "clase": "rogue",
+      "raider": false,
+      "nivel": 257,
       "max": 300,
       "pct": 33
     },
@@ -64,14 +72,6 @@
       "clase": "druid",
       "raider": false,
       "nivel": 252,
-      "max": 300,
-      "pct": 33
-    },
-    {
-      "personaje": "Aurelio Amador",
-      "clase": "rogue",
-      "raider": false,
-      "nivel": 250,
       "max": 300,
       "pct": 33
     },
@@ -103,7 +103,7 @@
       "personaje": "Arthas Yevon",
       "clase": "paladin",
       "raider": false,
-      "nivel": 195,
+      "nivel": 209,
       "max": 225,
       "pct": 33
     },
@@ -111,7 +111,7 @@
       "personaje": "Tom Kha",
       "clase": "shaman",
       "raider": false,
-      "nivel": 185,
+      "nivel": 186,
       "max": 225,
       "pct": 33
     },
@@ -127,7 +127,7 @@
       "personaje": "Fitipaldi Sendaumbria",
       "clase": "rogue",
       "raider": false,
-      "nivel": 141,
+      "nivel": 150,
       "max": 150,
       "pct": 33
     },

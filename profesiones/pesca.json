@@ -12,6 +12,14 @@
       "pct": 67
     },
     {
+      "personaje": "Shiryoku Moonfury",
+      "clase": "warrior",
+      "raider": false,
+      "nivel": 250,
+      "max": 300,
+      "pct": 33
+    },
+    {
       "personaje": "Finn Felagund",
       "clase": "priest",
       "raider": false,
@@ -24,14 +32,6 @@
       "clase": "warrior",
       "raider": false,
       "nivel": 235,
-      "max": 300,
-      "pct": 33
-    },
-    {
-      "personaje": "Shiryoku Moonfury",
-      "clase": "warrior",
-      "raider": false,
-      "nivel": 226,
       "max": 300,
       "pct": 33
     },
@@ -76,6 +76,14 @@
       "pct": 33
     },
     {
+      "personaje": "Tanki Llo",
+      "clase": "warlock",
+      "raider": false,
+      "nivel": 190,
+      "max": 225,
+      "pct": 0
+    },
+    {
       "personaje": "Memas Tour",
       "clase": "shaman",
       "raider": false,
@@ -90,14 +98,6 @@
       "nivel": 175,
       "max": 225,
       "pct": 33
-    },
-    {
-      "personaje": "Tanki Llo",
-      "clase": "warlock",
-      "raider": false,
-      "nivel": 161,
-      "max": 225,
-      "pct": 0
     },
     {
       "personaje": "Betadine Pervinox",
@@ -188,18 +188,18 @@
       "pct": 33
     },
     {
-      "personaje": "Sr Byron",
-      "clase": "warlock",
-      "raider": false,
+      "personaje": "Layrela Rondanit",
+      "clase": "druid",
+      "raider": true,
       "nivel": 111,
       "max": 150,
       "pct": 33
     },
     {
-      "personaje": "Layrela Rondanit",
-      "clase": "druid",
-      "raider": true,
-      "nivel": 107,
+      "personaje": "Sr Byron",
+      "clase": "warlock",
+      "raider": false,
+      "nivel": 111,
       "max": 150,
       "pct": 33
     },
@@ -252,18 +252,18 @@
       "pct": 33
     },
     {
+      "personaje": "Hugo Forjaluz",
+      "clase": "paladin",
+      "raider": false,
+      "nivel": 70,
+      "max": 150,
+      "pct": 33
+    },
+    {
       "personaje": "Aynita Again",
       "clase": "hunter",
       "raider": false,
       "nivel": 40,
-      "max": 75,
-      "pct": 33
-    },
-    {
-      "personaje": "Hugo Forjaluz",
-      "clase": "paladin",
-      "raider": false,
-      "nivel": 38,
       "max": 75,
       "pct": 33
     },
@@ -340,6 +340,14 @@
       "pct": 0
     },
     {
+      "personaje": "Grimmjow Jaegerjakez",
+      "clase": "druid",
+      "raider": false,
+      "nivel": 8,
+      "max": 75,
+      "pct": 0
+    },
+    {
       "personaje": "Althez Sendagris",
       "clase": "paladin",
       "raider": false,
@@ -374,14 +382,6 @@
     {
       "personaje": "Farhan Ironbeard",
       "clase": "warrior",
-      "raider": false,
-      "nivel": 1,
-      "max": 75,
-      "pct": 0
-    },
-    {
-      "personaje": "Grimmjow Jaegerjakez",
-      "clase": "druid",
       "raider": false,
       "nivel": 1,
       "max": 75,
@@ -476,8 +476,8 @@
             6,
             7,
             8,
-            9,
             10,
+            11,
             12,
             13,
             14,

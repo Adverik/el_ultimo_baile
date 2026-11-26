@@ -31,7 +31,7 @@
       "personaje": "Fran Furion",
       "clase": "druid",
       "raider": true,
-      "nivel": 286,
+      "nivel": 287,
       "max": 300,
       "pct": 33
     },
@@ -63,7 +63,7 @@
       "personaje": "Genethika Brisaveloz",
       "clase": "hunter",
       "raider": false,
-      "nivel": 189,
+      "nivel": 191,
       "max": 225,
       "pct": 33
     },
@@ -76,10 +76,18 @@
       "pct": 33
     },
     {
+      "personaje": "Grimmjow Jaegerjakez",
+      "clase": "druid",
+      "raider": false,
+      "nivel": 102,
+      "max": 150,
+      "pct": 33
+    },
+    {
       "personaje": "Tanki Llo",
       "clase": "warlock",
       "raider": false,
-      "nivel": 90,
+      "nivel": 91,
       "max": 150,
       "pct": 33
     },
@@ -88,14 +96,6 @@
       "clase": "warlock",
       "raider": false,
       "nivel": 82,
-      "max": 150,
-      "pct": 33
-    },
-    {
-      "personaje": "Grimmjow Jaegerjakez",
-      "clase": "druid",
-      "raider": false,
-      "nivel": 81,
       "max": 150,
       "pct": 33
     },

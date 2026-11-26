@@ -23,7 +23,7 @@
       "personaje": "Betadine Pervinox",
       "clase": "paladin",
       "raider": false,
-      "nivel": 278,
+      "nivel": 279,
       "max": 300,
       "pct": 31
     },
@@ -41,7 +41,7 @@
       "raider": true,
       "nivel": 228,
       "max": 300,
-      "pct": 22
+      "pct": 23
     },
     {
       "personaje": "Don Josechu",
@@ -5529,7 +5529,8 @@
             0,
             1,
             2,
-            3
+            3,
+            4
           ]
         },
         {
@@ -5993,7 +5994,8 @@
             0,
             1,
             2,
-            3
+            3,
+            4
           ]
         },
         {

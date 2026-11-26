@@ -2183,6 +2183,10 @@
           "clase": "shaman"
         },
         {
+          "n": "Runa Ruina",
+          "clase": "shaman"
+        },
+        {
           "n": "Edoras Duskranger",
           "clase": "hunter"
         },
@@ -2193,10 +2197,6 @@
         {
           "n": "Diana Flechaveloz",
           "clase": "hunter"
-        },
-        {
-          "n": "Runa Ruina",
-          "clase": "shaman"
         },
         {
           "n": "Ildaren Belisar",
@@ -2368,12 +2368,12 @@
           "clase": "shaman"
         },
         {
-          "n": "Tankesito Khrih",
-          "clase": "druid"
-        },
-        {
           "n": "Runa Ruina",
           "clase": "shaman"
+        },
+        {
+          "n": "Tankesito Khrih",
+          "clase": "druid"
         },
         {
           "n": "Ildaren Belisar",
@@ -2808,12 +2808,12 @@
           "clase": "rogue"
         },
         {
-          "n": "Tankesito Khrih",
-          "clase": "druid"
-        },
-        {
           "n": "Runa Ruina",
           "clase": "shaman"
+        },
+        {
+          "n": "Tankesito Khrih",
+          "clase": "druid"
         },
         {
           "n": "Kroketa Torreja",
@@ -3802,12 +3802,12 @@
           "clase": "shaman"
         },
         {
-          "n": "Tankesito Khrih",
-          "clase": "druid"
-        },
-        {
           "n": "Runa Ruina",
           "clase": "shaman"
+        },
+        {
+          "n": "Tankesito Khrih",
+          "clase": "druid"
         },
         {
           "n": "Ildaren Belisar",
@@ -3930,12 +3930,12 @@
           "clase": "shaman"
         },
         {
-          "n": "Tankesito Khrih",
-          "clase": "druid"
-        },
-        {
           "n": "Runa Ruina",
           "clase": "shaman"
+        },
+        {
+          "n": "Tankesito Khrih",
+          "clase": "druid"
         },
         {
           "n": "Ildaren Belisar",
@@ -5874,6 +5874,10 @@
         {
           "n": "Elfa Vorable",
           "clase": "druid"
+        },
+        {
+          "n": "Archi Amnesia",
+          "clase": "priest"
         }
       ]
     },
