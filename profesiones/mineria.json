@@ -39,7 +39,7 @@
       "personaje": "Althez Sendagris",
       "clase": "paladin",
       "raider": false,
-      "nivel": 235,
+      "nivel": 248,
       "max": 300,
       "pct": 53
     },
@@ -47,7 +47,15 @@
       "personaje": "Cuzcu Aker",
       "clase": "paladin",
       "raider": true,
-      "nivel": 234,
+      "nivel": 240,
+      "max": 300,
+      "pct": 53
+    },
+    {
+      "personaje": "La Pety",
+      "clase": "rogue",
+      "raider": false,
+      "nivel": 228,
       "max": 300,
       "pct": 53
     },
@@ -60,18 +68,10 @@
       "pct": 59
     },
     {
-      "personaje": "La Pety",
-      "clase": "rogue",
-      "raider": false,
-      "nivel": 227,
-      "max": 300,
-      "pct": 53
-    },
-    {
       "personaje": "Flexita Shadowsoul",
       "clase": "hunter",
       "raider": false,
-      "nivel": 221,
+      "nivel": 226,
       "max": 300,
       "pct": 53
     },
@@ -79,7 +79,7 @@
       "personaje": "Llamas Xx",
       "clase": "warrior",
       "raider": false,
-      "nivel": 217,
+      "nivel": 219,
       "max": 300,
       "pct": 53
     },
@@ -103,15 +103,15 @@
       "personaje": "Tommy Durum",
       "clase": "druid",
       "raider": false,
-      "nivel": 147,
-      "max": 150,
+      "nivel": 153,
+      "max": 225,
       "pct": 12
     },
     {
       "personaje": "Españoleitor Españoleitor",
       "clase": "warrior",
       "raider": false,
-      "nivel": 145,
+      "nivel": 152,
       "max": 225,
       "pct": 35
     },
@@ -124,6 +124,14 @@
       "pct": 35
     },
     {
+      "personaje": "Arthas Yevon",
+      "clase": "paladin",
+      "raider": false,
+      "nivel": 132,
+      "max": 225,
+      "pct": 35
+    },
+    {
       "personaje": "Armando Buya",
       "clase": "paladin",
       "raider": false,
@@ -132,10 +140,10 @@
       "pct": 35
     },
     {
-      "personaje": "Arthas Yevon",
+      "personaje": "Hugo Forjaluz",
       "clase": "paladin",
       "raider": false,
-      "nivel": 129,
+      "nivel": 121,
       "max": 150,
       "pct": 29
     },
@@ -144,14 +152,6 @@
       "clase": "hunter",
       "raider": false,
       "nivel": 121,
-      "max": 150,
-      "pct": 29
-    },
-    {
-      "personaje": "Hugo Forjaluz",
-      "clase": "paladin",
-      "raider": false,
-      "nivel": 119,
       "max": 150,
       "pct": 29
     },
@@ -167,7 +167,7 @@
       "personaje": "Tanki Llo",
       "clase": "warlock",
       "raider": false,
-      "nivel": 79,
+      "nivel": 90,
       "max": 150,
       "pct": 18
     },
@@ -183,7 +183,7 @@
       "personaje": "Grimmjow Jaegerjakez",
       "clase": "druid",
       "raider": false,
-      "nivel": 54,
+      "nivel": 56,
       "max": 75,
       "pct": 12
     }
@@ -365,7 +365,8 @@
             11,
             13,
             14,
-            15
+            15,
+            16
           ]
         },
         {
@@ -804,7 +805,7 @@
             "sub": "Otros"
           },
           "quien": [
-            6
+            7
           ]
         },
         {

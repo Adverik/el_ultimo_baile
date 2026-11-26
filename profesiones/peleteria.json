@@ -33,7 +33,7 @@
       "raider": true,
       "nivel": 202,
       "max": 225,
-      "pct": 11
+      "pct": 12
     },
     {
       "personaje": "Edoras Duskranger",
@@ -47,7 +47,7 @@
       "personaje": "Tankesito Khrih",
       "clase": "druid",
       "raider": false,
-      "nivel": 193,
+      "nivel": 198,
       "max": 225,
       "pct": 14
     },
@@ -73,7 +73,7 @@
       "raider": false,
       "nivel": 165,
       "max": 225,
-      "pct": 7
+      "pct": 8
     },
     {
       "personaje": "Kroketa Torreja",
@@ -2657,6 +2657,7 @@
             4,
             6,
             7,
+            8,
             9
           ]
         },
@@ -20975,7 +20976,9 @@
               "89"
             ]
           },
-          "quien": []
+          "quien": [
+            3
+          ]
         },
         {
           "id": 55348,

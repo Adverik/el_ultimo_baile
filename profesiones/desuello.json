@@ -15,7 +15,7 @@
       "personaje": "Manelhon Gargon",
       "clase": "shaman",
       "raider": true,
-      "nivel": 286,
+      "nivel": 288,
       "max": 300,
       "pct": 67
     },
@@ -23,7 +23,7 @@
       "personaje": "Runa Ruina",
       "clase": "shaman",
       "raider": false,
-      "nivel": 270,
+      "nivel": 272,
       "max": 300,
       "pct": 33
     },
@@ -31,7 +31,7 @@
       "personaje": "Memas Tour",
       "clase": "shaman",
       "raider": false,
-      "nivel": 264,
+      "nivel": 266,
       "max": 300,
       "pct": 33
     },
@@ -44,6 +44,14 @@
       "pct": 33
     },
     {
+      "personaje": "Reaper Dead",
+      "clase": "paladin",
+      "raider": false,
+      "nivel": 253,
+      "max": 300,
+      "pct": 33
+    },
+    {
       "personaje": "Tankesito Khrih",
       "clase": "druid",
       "raider": false,
@@ -52,8 +60,8 @@
       "pct": 33
     },
     {
-      "personaje": "Reaper Dead",
-      "clase": "paladin",
+      "personaje": "Kroketa Torreja",
+      "clase": "druid",
       "raider": false,
       "nivel": 252,
       "max": 300,
@@ -63,15 +71,7 @@
       "personaje": "Aurelio Amador",
       "clase": "rogue",
       "raider": false,
-      "nivel": 243,
-      "max": 300,
-      "pct": 33
-    },
-    {
-      "personaje": "Kroketa Torreja",
-      "clase": "druid",
-      "raider": false,
-      "nivel": 242,
+      "nivel": 250,
       "max": 300,
       "pct": 33
     },
@@ -95,7 +95,7 @@
       "personaje": "Breezy Reaver",
       "clase": "shaman",
       "raider": false,
-      "nivel": 213,
+      "nivel": 215,
       "max": 225,
       "pct": 33
     },
@@ -111,7 +111,7 @@
       "personaje": "Arthas Yevon",
       "clase": "paladin",
       "raider": false,
-      "nivel": 174,
+      "nivel": 179,
       "max": 225,
       "pct": 33
     },
@@ -124,18 +124,18 @@
       "pct": 33
     },
     {
-      "personaje": "Nindalf Pizpireta",
+      "personaje": "Fitipaldi Sendaumbria",
       "clase": "rogue",
       "raider": false,
-      "nivel": 138,
+      "nivel": 141,
       "max": 150,
       "pct": 33
     },
     {
-      "personaje": "Fitipaldi Sendaumbria",
+      "personaje": "Nindalf Pizpireta",
       "clase": "rogue",
       "raider": false,
-      "nivel": 135,
+      "nivel": 138,
       "max": 150,
       "pct": 33
     },

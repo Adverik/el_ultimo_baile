@@ -15,9 +15,9 @@
       "personaje": "Cuzcu Aker",
       "clase": "paladin",
       "raider": true,
-      "nivel": 231,
+      "nivel": 242,
       "max": 300,
-      "pct": 18
+      "pct": 19
     },
     {
       "personaje": "Jonaver Legends",
@@ -4291,7 +4291,9 @@
               "0"
             ]
           },
-          "quien": []
+          "quien": [
+            1
+          ]
         },
         {
           "id": 6877,
@@ -6568,7 +6570,9 @@
               "0"
             ]
           },
-          "quien": []
+          "quien": [
+            1
+          ]
         },
         {
           "id": 7073,

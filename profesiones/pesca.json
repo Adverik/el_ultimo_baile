@@ -28,6 +28,14 @@
       "pct": 33
     },
     {
+      "personaje": "Shiryoku Moonfury",
+      "clase": "warrior",
+      "raider": false,
+      "nivel": 226,
+      "max": 300,
+      "pct": 33
+    },
+    {
       "personaje": "Christoph Crestanegra",
       "clase": "mage",
       "raider": false,
@@ -41,14 +49,6 @@
       "raider": false,
       "nivel": 225,
       "max": 225,
-      "pct": 33
-    },
-    {
-      "personaje": "Shiryoku Moonfury",
-      "clase": "warrior",
-      "raider": false,
-      "nivel": 225,
-      "max": 300,
       "pct": 33
     },
     {
@@ -79,7 +79,7 @@
       "personaje": "Memas Tour",
       "clase": "shaman",
       "raider": false,
-      "nivel": 179,
+      "nivel": 180,
       "max": 225,
       "pct": 33
     },
@@ -90,6 +90,14 @@
       "nivel": 175,
       "max": 225,
       "pct": 33
+    },
+    {
+      "personaje": "Tanki Llo",
+      "clase": "warlock",
+      "raider": false,
+      "nivel": 161,
+      "max": 225,
+      "pct": 0
     },
     {
       "personaje": "Betadine Pervinox",
@@ -172,12 +180,12 @@
       "pct": 33
     },
     {
-      "personaje": "Tanki Llo",
-      "clase": "warlock",
+      "personaje": "Flexita Shadowsoul",
+      "clase": "hunter",
       "raider": false,
-      "nivel": 127,
-      "max": 225,
-      "pct": 0
+      "nivel": 114,
+      "max": 150,
+      "pct": 33
     },
     {
       "personaje": "Sr Byron",
@@ -200,14 +208,6 @@
       "clase": "shaman",
       "raider": false,
       "nivel": 105,
-      "max": 150,
-      "pct": 33
-    },
-    {
-      "personaje": "Flexita Shadowsoul",
-      "clase": "hunter",
-      "raider": false,
-      "nivel": 104,
       "max": 150,
       "pct": 33
     },
@@ -348,6 +348,14 @@
       "pct": 0
     },
     {
+      "personaje": "Bartolo Tololo",
+      "clase": "priest",
+      "raider": false,
+      "nivel": 1,
+      "max": 75,
+      "pct": 0
+    },
+    {
       "personaje": "Chaca Choochoo",
       "clase": "druid",
       "raider": false,
@@ -374,6 +382,14 @@
     {
       "personaje": "Grimmjow Jaegerjakez",
       "clase": "druid",
+      "raider": false,
+      "nivel": 1,
+      "max": 75,
+      "pct": 0
+    },
+    {
+      "personaje": "Ibu Profenus",
+      "clase": "shaman",
       "raider": false,
       "nivel": 1,
       "max": 75,
@@ -462,7 +478,6 @@
             8,
             9,
             10,
-            11,
             12,
             13,
             14,
@@ -472,6 +487,7 @@
             18,
             19,
             20,
+            21,
             22,
             23,
             24,

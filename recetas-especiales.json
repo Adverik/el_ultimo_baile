@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-25",
+  "actualizado": "2026-11-26",
   "recetas": [
     {
       "id": 54409,
@@ -1487,6 +1487,10 @@
         {
           "n": "Tharindel Magnaluz",
           "clase": "paladin"
+        },
+        {
+          "n": "Españoleitor Españoleitor",
+          "clase": "warrior"
         }
       ]
     },
@@ -2208,6 +2212,55 @@
         },
         {
           "n": "Breezy Reaver",
+          "clase": "shaman"
+        }
+      ]
+    },
+    {
+      "id": 55072,
+      "n": "Botas de malla de acechador",
+      "q": "rare",
+      "ico": "457758",
+      "reac": [
+        [
+          "Cuero pesado",
+          8
+        ],
+        [
+          "Pellejo medio curado",
+          2
+        ],
+        [
+          "Elemental de aire",
+          2
+        ]
+      ],
+      "obj": {
+        "arm": "188 armadura",
+        "id": 252562,
+        "ilvl": 45,
+        "lig": "Se liga al recogerlo",
+        "n": "Botas de malla de acechador",
+        "q": "rare",
+        "ranura": "Pies",
+        "req": 40,
+        "stats": [
+          "+7 intelecto",
+          "+11 agilidad",
+          "+7 aguante",
+          "+5 espíritu"
+        ],
+        "sub": "Mallas",
+        "venta": [
+          "0",
+          "85",
+          "89"
+        ]
+      },
+      "profesion": "Peletería",
+      "personajes": [
+        {
+          "n": "Manelhon Gargon",
           "clase": "shaman"
         }
       ]
@@ -4029,6 +4082,10 @@
           "clase": "warlock"
         },
         {
+          "n": "Rhyomen Sukuna",
+          "clase": "warlock"
+        },
+        {
           "n": "Señor Ollivander",
           "clase": "mage"
         },
@@ -4045,12 +4102,12 @@
           "clase": "priest"
         },
         {
-          "n": "Rhyomen Sukuna",
+          "n": "Micro Bolas",
           "clase": "warlock"
         },
         {
-          "n": "Micro Bolas",
-          "clase": "warlock"
+          "n": "Bartolo Tololo",
+          "clase": "priest"
         },
         {
           "n": "Saint Peligroxa",
@@ -4694,6 +4751,10 @@
           "clase": "mage"
         },
         {
+          "n": "Rhyomen Sukuna",
+          "clase": "warlock"
+        },
+        {
           "n": "Señor Ollivander",
           "clase": "mage"
         },
@@ -4710,12 +4771,12 @@
           "clase": "priest"
         },
         {
-          "n": "Rhyomen Sukuna",
+          "n": "Micro Bolas",
           "clase": "warlock"
         },
         {
-          "n": "Micro Bolas",
-          "clase": "warlock"
+          "n": "Bartolo Tololo",
+          "clase": "priest"
         },
         {
           "n": "Saint Peligroxa",
@@ -4791,6 +4852,10 @@
           "clase": "warlock"
         },
         {
+          "n": "Rhyomen Sukuna",
+          "clase": "warlock"
+        },
+        {
           "n": "Señor Ollivander",
           "clase": "mage"
         },
@@ -4811,8 +4876,8 @@
           "clase": "priest"
         },
         {
-          "n": "Rhyomen Sukuna",
-          "clase": "warlock"
+          "n": "Bartolo Tololo",
+          "clase": "priest"
         },
         {
           "n": "Saint Peligroxa",

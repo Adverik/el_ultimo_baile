@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-25",
+  "actualizado": "2026-11-26",
   "artesanos": [
     {
       "personaje": "Althez Sendagris",
@@ -8,7 +8,7 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 235,
+          "nivel": 248,
           "max": 300
         },
         {
@@ -55,7 +55,7 @@
         },
         {
           "nombre": "Primeros auxilios",
-          "nivel": 87,
+          "nivel": 93,
           "max": 150
         }
       ]
@@ -89,13 +89,13 @@
       "profesiones": [
         {
           "nombre": "Desuello",
-          "nivel": 174,
+          "nivel": 179,
           "max": 225
         },
         {
           "nombre": "Minería",
-          "nivel": 129,
-          "max": 150
+          "nivel": 132,
+          "max": 225
         },
         {
           "nombre": "Cocina",
@@ -109,7 +109,7 @@
         },
         {
           "nombre": "Primeros auxilios",
-          "nivel": 144,
+          "nivel": 150,
           "max": 150
         }
       ]
@@ -126,7 +126,7 @@
         },
         {
           "nombre": "Desuello",
-          "nivel": 243,
+          "nivel": 250,
           "max": 300
         },
         {
@@ -136,7 +136,7 @@
         },
         {
           "nombre": "Primeros auxilios",
-          "nivel": 235,
+          "nivel": 293,
           "max": 300
         }
       ]
@@ -163,6 +163,38 @@
         },
         {
           "nombre": "Pesca",
+          "nivel": 40,
+          "max": 75
+        }
+      ]
+    },
+    {
+      "personaje": "Bartolo Tololo",
+      "clase": "priest",
+      "raider": false,
+      "profesiones": [
+        {
+          "nombre": "Sastrería",
+          "nivel": 133,
+          "max": 150
+        },
+        {
+          "nombre": "Encantamiento",
+          "nivel": 123,
+          "max": 150
+        },
+        {
+          "nombre": "Cocina",
+          "nivel": 141,
+          "max": 150
+        },
+        {
+          "nombre": "Pesca",
+          "nivel": 1,
+          "max": 75
+        },
+        {
+          "nombre": "Primeros auxilios",
           "nivel": 40,
           "max": 75
         }
@@ -256,7 +288,7 @@
         },
         {
           "nombre": "Desuello",
-          "nivel": 213,
+          "nivel": 215,
           "max": 225
         },
         {
@@ -379,12 +411,12 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 234,
+          "nivel": 240,
           "max": 300
         },
         {
           "nombre": "Ingeniería",
-          "nivel": 231,
+          "nivel": 242,
           "max": 300
         },
         {
@@ -480,7 +512,7 @@
         },
         {
           "nombre": "Herboristería",
-          "nivel": 204,
+          "nivel": 206,
           "max": 300
         },
         {
@@ -571,7 +603,7 @@
         },
         {
           "nombre": "Cocina",
-          "nivel": 213,
+          "nivel": 225,
           "max": 225
         },
         {
@@ -620,12 +652,12 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 145,
+          "nivel": 152,
           "max": 225
         },
         {
           "nombre": "Herrería",
-          "nivel": 115,
+          "nivel": 132,
           "max": 150
         },
         {
@@ -640,7 +672,7 @@
         },
         {
           "nombre": "Primeros auxilios",
-          "nivel": 179,
+          "nivel": 187,
           "max": 225
         }
       ]
@@ -733,12 +765,12 @@
       "profesiones": [
         {
           "nombre": "Sastrería",
-          "nivel": 254,
+          "nivel": 261,
           "max": 300
         },
         {
           "nombre": "Encantamiento",
-          "nivel": 270,
+          "nivel": 282,
           "max": 300
         },
         {
@@ -760,7 +792,7 @@
       "profesiones": [
         {
           "nombre": "Desuello",
-          "nivel": 135,
+          "nivel": 141,
           "max": 150
         },
         {
@@ -787,7 +819,7 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 221,
+          "nivel": 226,
           "max": 300
         },
         {
@@ -797,17 +829,17 @@
         },
         {
           "nombre": "Cocina",
-          "nivel": 250,
+          "nivel": 273,
           "max": 300
         },
         {
           "nombre": "Pesca",
-          "nivel": 104,
+          "nivel": 114,
           "max": 150
         },
         {
           "nombre": "Primeros auxilios",
-          "nivel": 286,
+          "nivel": 300,
           "max": 300
         }
       ]
@@ -851,7 +883,7 @@
         },
         {
           "nombre": "Herboristería",
-          "nivel": 181,
+          "nivel": 189,
           "max": 225
         },
         {
@@ -873,12 +905,12 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 54,
+          "nivel": 56,
           "max": 75
         },
         {
           "nombre": "Herboristería",
-          "nivel": 75,
+          "nivel": 81,
           "max": 150
         },
         {
@@ -905,12 +937,12 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 119,
+          "nivel": 121,
           "max": 150
         },
         {
           "nombre": "Herrería",
-          "nivel": 112,
+          "nivel": 116,
           "max": 150
         },
         {
@@ -936,13 +968,23 @@
       "raider": false,
       "profesiones": [
         {
+          "nombre": "Alquimia",
+          "nivel": 95,
+          "max": 150
+        },
+        {
           "nombre": "Herboristería",
-          "nivel": 75,
-          "max": 75
+          "nivel": 77,
+          "max": 150
         },
         {
           "nombre": "Cocina",
           "nivel": 5,
+          "max": 75
+        },
+        {
+          "nombre": "Pesca",
+          "nivel": 1,
           "max": 75
         }
       ]
@@ -974,7 +1016,7 @@
         },
         {
           "nombre": "Primeros auxilios",
-          "nivel": 179,
+          "nivel": 187,
           "max": 225
         }
       ]
@@ -1045,7 +1087,7 @@
         },
         {
           "nombre": "Encantamiento",
-          "nivel": 151,
+          "nivel": 190,
           "max": 225
         },
         {
@@ -1099,7 +1141,7 @@
         },
         {
           "nombre": "Desuello",
-          "nivel": 242,
+          "nivel": 252,
           "max": 300
         },
         {
@@ -1126,7 +1168,7 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 227,
+          "nivel": 228,
           "max": 300
         },
         {
@@ -1158,12 +1200,12 @@
       "profesiones": [
         {
           "nombre": "Alquimia",
-          "nivel": 220,
+          "nivel": 228,
           "max": 300
         },
         {
           "nombre": "Herboristería",
-          "nivel": 249,
+          "nivel": 252,
           "max": 300
         },
         {
@@ -1178,8 +1220,8 @@
         },
         {
           "nombre": "Primeros auxilios",
-          "nivel": 225,
-          "max": 225
+          "nivel": 233,
+          "max": 300
         }
       ]
     },
@@ -1190,7 +1232,7 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 217,
+          "nivel": 219,
           "max": 300
         },
         {
@@ -1227,12 +1269,12 @@
         },
         {
           "nombre": "Desuello",
-          "nivel": 286,
+          "nivel": 288,
           "max": 300
         },
         {
           "nombre": "Cocina",
-          "nivel": 222,
+          "nivel": 225,
           "max": 225
         },
         {
@@ -1259,7 +1301,7 @@
         },
         {
           "nombre": "Desuello",
-          "nivel": 264,
+          "nivel": 266,
           "max": 300
         },
         {
@@ -1269,7 +1311,7 @@
         },
         {
           "nombre": "Pesca",
-          "nivel": 179,
+          "nivel": 180,
           "max": 225
         },
         {
@@ -1429,7 +1471,7 @@
         },
         {
           "nombre": "Primeros auxilios",
-          "nivel": 216,
+          "nivel": 220,
           "max": 225
         }
       ]
@@ -1441,12 +1483,12 @@
       "profesiones": [
         {
           "nombre": "Desuello",
-          "nivel": 252,
+          "nivel": 253,
           "max": 300
         },
         {
           "nombre": "Herboristería",
-          "nivel": 151,
+          "nivel": 152,
           "max": 225
         },
         {
@@ -1468,18 +1510,18 @@
       "profesiones": [
         {
           "nombre": "Sastrería",
-          "nivel": 150,
-          "max": 150
+          "nivel": 192,
+          "max": 225
         },
         {
           "nombre": "Encantamiento",
-          "nivel": 30,
+          "nivel": 46,
           "max": 75
         },
         {
           "nombre": "Cocina",
-          "nivel": 25,
-          "max": 75
+          "nivel": 110,
+          "max": 150
         }
       ]
     },
@@ -1495,7 +1537,7 @@
         },
         {
           "nombre": "Desuello",
-          "nivel": 270,
+          "nivel": 272,
           "max": 300
         },
         {
@@ -1628,7 +1670,7 @@
         },
         {
           "nombre": "Pesca",
-          "nivel": 225,
+          "nivel": 226,
           "max": 300
         },
         {
@@ -1736,7 +1778,7 @@
       "profesiones": [
         {
           "nombre": "Peletería",
-          "nivel": 193,
+          "nivel": 198,
           "max": 225
         },
         {
@@ -1768,7 +1810,7 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 79,
+          "nivel": 90,
           "max": 150
         },
         {
@@ -1783,7 +1825,7 @@
         },
         {
           "nombre": "Pesca",
-          "nivel": 127,
+          "nivel": 161,
           "max": 225
         }
       ]
@@ -1918,12 +1960,12 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 147,
-          "max": 150
+          "nivel": 153,
+          "max": 225
         },
         {
           "nombre": "Herboristería",
-          "nivel": 256,
+          "nivel": 259,
           "max": 300
         },
         {
@@ -1987,6 +2029,7 @@
         "Don Josechu",
         "Fran Furion",
         "Genethika Brisaveloz",
+        "Ibu Profenus",
         "Layrela Rondanit",
         "Sugar Papy"
       ]
@@ -2014,6 +2057,7 @@
         "Don Josechu",
         "Fran Furion",
         "Genethika Brisaveloz",
+        "Ibu Profenus",
         "Layrela Rondanit",
         "Señor Ollivander",
         "Sugar Papy",
@@ -2079,6 +2123,7 @@
         "Don Josechu",
         "Fran Furion",
         "Genethika Brisaveloz",
+        "Ibu Profenus",
         "Layrela Rondanit",
         "Sugar Papy"
       ]
@@ -2248,6 +2293,7 @@
         "Don Josechu",
         "Fran Furion",
         "Genethika Brisaveloz",
+        "Ibu Profenus",
         "Layrela Rondanit",
         "Señor Ollivander",
         "Sugar Papy",
@@ -2264,6 +2310,7 @@
         "Don Josechu",
         "Fran Furion",
         "Genethika Brisaveloz",
+        "Ibu Profenus",
         "Layrela Rondanit",
         "Señor Ollivander",
         "Sugar Papy",
@@ -2280,6 +2327,7 @@
         "Don Josechu",
         "Fran Furion",
         "Genethika Brisaveloz",
+        "Ibu Profenus",
         "Layrela Rondanit",
         "Señor Ollivander",
         "Sugar Papy",
@@ -2296,6 +2344,7 @@
         "Don Josechu",
         "Fran Furion",
         "Genethika Brisaveloz",
+        "Ibu Profenus",
         "Layrela Rondanit",
         "Señor Ollivander",
         "Sugar Papy",
@@ -2321,6 +2370,7 @@
         "Don Josechu",
         "Fran Furion",
         "Genethika Brisaveloz",
+        "Ibu Profenus",
         "Layrela Rondanit",
         "Sugar Papy"
       ]
@@ -2630,6 +2680,7 @@
         "Don Josechu",
         "Fran Furion",
         "Genethika Brisaveloz",
+        "Ibu Profenus",
         "Layrela Rondanit",
         "Señor Ollivander",
         "Sugar Papy",
@@ -2646,6 +2697,7 @@
         "Don Josechu",
         "Fran Furion",
         "Genethika Brisaveloz",
+        "Ibu Profenus",
         "Layrela Rondanit",
         "Señor Ollivander",
         "Sugar Papy",
@@ -2699,6 +2751,7 @@
         "Don Josechu",
         "Fran Furion",
         "Genethika Brisaveloz",
+        "Ibu Profenus",
         "Layrela Rondanit",
         "Señor Ollivander",
         "Sugar Papy",
@@ -2723,6 +2776,7 @@
         "Don Josechu",
         "Fran Furion",
         "Genethika Brisaveloz",
+        "Ibu Profenus",
         "Layrela Rondanit",
         "Señor Ollivander",
         "Sugar Papy",
@@ -2747,6 +2801,7 @@
         "Don Josechu",
         "Fran Furion",
         "Genethika Brisaveloz",
+        "Ibu Profenus",
         "Layrela Rondanit",
         "Señor Ollivander",
         "Sugar Papy",
@@ -2851,6 +2906,7 @@
         "Don Josechu",
         "Fran Furion",
         "Genethika Brisaveloz",
+        "Ibu Profenus",
         "Layrela Rondanit",
         "Señor Ollivander",
         "Sugar Papy",
@@ -3000,6 +3056,7 @@
         "Arthas Yevon",
         "Aurelio Amador",
         "Aynita Again",
+        "Bartolo Tololo",
         "Betadine Pervinox",
         "Black Phanter",
         "Blind Minds",
@@ -3123,6 +3180,7 @@
         "Espartaco Gladiador",
         "Khyoraku Shunsui",
         "Kroketa Torreja",
+        "Layrela Rondanit",
         "Manelhon Gargon",
         "Memas Tour",
         "Micro Bolas",
@@ -3143,6 +3201,7 @@
         "Archi Amnesia",
         "Arthas Yevon",
         "Aurelio Amador",
+        "Bartolo Tololo",
         "Betadine Pervinox",
         "Breezy Reaver",
         "Chaca Choochoo",
@@ -3169,6 +3228,7 @@
         "Nimassus Pater",
         "Palmira Natblida",
         "Reaper Dead",
+        "Rhyomen Sukuna",
         "Runa Ruina",
         "Samael Thallanor",
         "Shiryoku Moonfury",
@@ -3194,6 +3254,7 @@
         "Flexita Shadowsoul",
         "Ildaren Belisar",
         "Kroketa Torreja",
+        "Rhyomen Sukuna",
         "Shiryoku Moonfury",
         "Sugar Papy"
       ]
@@ -3304,6 +3365,7 @@
         "Arthas Yevon",
         "Aurelio Amador",
         "Aynita Again",
+        "Bartolo Tololo",
         "Betadine Pervinox",
         "Black Phanter",
         "Blind Minds",
@@ -3432,6 +3494,7 @@
         "Archi Amnesia",
         "Arthas Yevon",
         "Aurelio Amador",
+        "Bartolo Tololo",
         "Betadine Pervinox",
         "Breezy Reaver",
         "Chaca Choochoo",
@@ -3457,6 +3520,7 @@
         "Nimassus Pater",
         "Palmira Natblida",
         "Reaper Dead",
+        "Rhyomen Sukuna",
         "Runa Ruina",
         "Samael Thallanor",
         "Shiryoku Moonfury",
@@ -3475,6 +3539,7 @@
       "personajes": [
         "Archi Amnesia",
         "Arthas Yevon",
+        "Bartolo Tololo",
         "Betadine Pervinox",
         "Breezy Reaver",
         "Chaca Choochoo",
@@ -3498,6 +3563,7 @@
         "Memas Tour",
         "Palmira Natblida",
         "Reaper Dead",
+        "Rhyomen Sukuna",
         "Runa Ruina",
         "Samael Thallanor",
         "Shiryoku Moonfury",
@@ -3587,6 +3653,7 @@
         "Althez Sendagris",
         "Archi Amnesia",
         "Arthas Yevon",
+        "Bartolo Tololo",
         "Betadine Pervinox",
         "Breezy Reaver",
         "Chaca Choochoo",
@@ -3670,6 +3737,7 @@
       "personajes": [
         "Althez Sendagris",
         "Archi Amnesia",
+        "Bartolo Tololo",
         "Betadine Pervinox",
         "Breezy Reaver",
         "Coloso Tempestad",
@@ -3725,6 +3793,7 @@
         "Althez Sendagris",
         "Archi Amnesia",
         "Arthas Yevon",
+        "Bartolo Tololo",
         "Breezy Reaver",
         "Chaca Choochoo",
         "Cuzcu Aker",
@@ -3756,6 +3825,7 @@
         "Althez Sendagris",
         "Archi Amnesia",
         "Arthas Yevon",
+        "Bartolo Tololo",
         "Breezy Reaver",
         "Coloso Tempestad",
         "Dum Bo",
@@ -3811,6 +3881,7 @@
         "Arthas Yevon",
         "Aurelio Amador",
         "Aynita Again",
+        "Bartolo Tololo",
         "Betadine Pervinox",
         "Black Phanter",
         "Blind Minds",
@@ -4035,6 +4106,7 @@
         "Althez Sendagris",
         "Archi Amnesia",
         "Arthas Yevon",
+        "Bartolo Tololo",
         "Betadine Pervinox",
         "Breezy Reaver",
         "Chaca Choochoo",
@@ -4054,6 +4126,7 @@
         "Manelhon Gargon",
         "Palmira Natblida",
         "Reaper Dead",
+        "Rhyomen Sukuna",
         "Samael Thallanor",
         "Shiryoku Moonfury",
         "Sr Byron",
@@ -4150,6 +4223,7 @@
       "calidad": "common",
       "personajes": [
         "Archi Amnesia",
+        "Bartolo Tololo",
         "Betadine Pervinox",
         "Breezy Reaver",
         "Coloso Tempestad",
@@ -4187,6 +4261,7 @@
         "Althez Sendagris",
         "Archi Amnesia",
         "Arthas Yevon",
+        "Bartolo Tololo",
         "Breezy Reaver",
         "Chaca Choochoo",
         "Coloso Tempestad",
@@ -4200,6 +4275,7 @@
         "La Pety",
         "Manelhon Gargon",
         "Reaper Dead",
+        "Rhyomen Sukuna",
         "Runa Ruina",
         "Sr Byron",
         "Sugar Papy",
@@ -4235,6 +4311,7 @@
         "Arthas Yevon",
         "Aurelio Amador",
         "Aynita Again",
+        "Bartolo Tololo",
         "Betadine Pervinox",
         "Black Phanter",
         "Blind Minds",
@@ -4395,6 +4472,7 @@
         "Althez Sendagris",
         "Archi Amnesia",
         "Arthas Yevon",
+        "Bartolo Tololo",
         "Betadine Pervinox",
         "Breezy Reaver",
         "Chaca Choochoo",
@@ -4442,6 +4520,7 @@
       "profesion": "Cocina",
       "calidad": "common",
       "personajes": [
+        "Bartolo Tololo",
         "Blind Minds",
         "Coloso Tempestad",
         "Diana Flechaveloz",
@@ -4453,6 +4532,7 @@
         "Flexita Shadowsoul",
         "Fran Furion",
         "Grimmjow Jaegerjakez",
+        "Ibu Profenus",
         "Ildaren Belisar",
         "Jonaver Legends",
         "Kroketa Torreja",
@@ -4493,6 +4573,7 @@
       "calidad": "common",
       "personajes": [
         "Archi Amnesia",
+        "Bartolo Tololo",
         "Betadine Pervinox",
         "Breezy Reaver",
         "Coloso Tempestad",
@@ -4553,6 +4634,7 @@
         "Arthas Yevon",
         "Aurelio Amador",
         "Aynita Again",
+        "Bartolo Tololo",
         "Betadine Pervinox",
         "Breezy Reaver",
         "Chaca Choochoo",
@@ -4677,6 +4759,7 @@
         "Espartaco Gladiador",
         "Finn Felagund",
         "Flexita Shadowsoul",
+        "Ildaren Belisar",
         "Jonaver Legends",
         "Khyoraku Shunsui",
         "Kroketa Torreja",
@@ -4725,6 +4808,7 @@
         "Finn Felagund",
         "Flexita Shadowsoul",
         "Layrela Rondanit",
+        "Manelhon Gargon",
         "Sugar Papy"
       ]
     },
@@ -4757,6 +4841,7 @@
         "Espartaco Gladiador",
         "Flexita Shadowsoul",
         "Layrela Rondanit",
+        "Manelhon Gargon",
         "Sugar Papy"
       ]
     },
@@ -4768,6 +4853,7 @@
         "Althez Sendagris",
         "Archi Amnesia",
         "Arthas Yevon",
+        "Bartolo Tololo",
         "Breezy Reaver",
         "Coloso Tempestad",
         "Cuzcu Aker",
@@ -4888,6 +4974,7 @@
       "calidad": "common",
       "personajes": [
         "Archi Amnesia",
+        "Bartolo Tololo",
         "Christoph Crestanegra",
         "Dum Bo",
         "Elfa Vorable",
@@ -4917,6 +5004,7 @@
       "calidad": "common",
       "personajes": [
         "Archi Amnesia",
+        "Bartolo Tololo",
         "Christoph Crestanegra",
         "Dum Bo",
         "Elfa Vorable",
@@ -4961,6 +5049,7 @@
         "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
+        "Kadeharz Apsus",
         "Sr Byron"
       ]
     },
@@ -4978,6 +5067,7 @@
       "profesion": "Encantamiento",
       "calidad": "common",
       "personajes": [
+        "Bartolo Tololo",
         "Dum Bo",
         "Finn Felagund",
         "Nimassus Pater"
@@ -4988,9 +5078,11 @@
       "profesion": "Encantamiento",
       "calidad": "common",
       "personajes": [
+        "Bartolo Tololo",
         "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
+        "Kadeharz Apsus",
         "Nimassus Pater",
         "Saint Peligroxa",
         "Sr Byron"
@@ -5073,6 +5165,7 @@
         "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
+        "Kadeharz Apsus",
         "Saint Peligroxa",
         "Sr Byron"
       ]
@@ -5103,6 +5196,7 @@
       "calidad": "common",
       "personajes": [
         "Archi Amnesia",
+        "Bartolo Tololo",
         "Christoph Crestanegra",
         "Dum Bo",
         "Elfa Vorable",
@@ -5145,6 +5239,7 @@
         "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
+        "Kadeharz Apsus",
         "Sr Byron"
       ]
     },
@@ -5184,9 +5279,11 @@
       "profesion": "Encantamiento",
       "calidad": "common",
       "personajes": [
+        "Bartolo Tololo",
         "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
+        "Kadeharz Apsus",
         "Nimassus Pater",
         "Sr Byron"
       ]
@@ -5197,6 +5294,7 @@
       "calidad": "common",
       "personajes": [
         "Archi Amnesia",
+        "Bartolo Tololo",
         "Christoph Crestanegra",
         "Dum Bo",
         "Elfa Vorable",
@@ -5226,6 +5324,7 @@
       "profesion": "Encantamiento",
       "calidad": "common",
       "personajes": [
+        "Bartolo Tololo",
         "Christoph Crestanegra",
         "Dum Bo",
         "Elfa Vorable",
@@ -5306,6 +5405,7 @@
       "profesion": "Encantamiento",
       "calidad": "common",
       "personajes": [
+        "Bartolo Tololo",
         "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
@@ -5328,6 +5428,7 @@
         "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
+        "Kadeharz Apsus",
         "Sr Byron"
       ]
     },
@@ -5339,6 +5440,7 @@
         "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
+        "Kadeharz Apsus",
         "Sr Byron"
       ]
     },
@@ -5347,6 +5449,7 @@
       "profesion": "Encantamiento",
       "calidad": "common",
       "personajes": [
+        "Bartolo Tololo",
         "Christoph Crestanegra",
         "Dum Bo",
         "Elfa Vorable",
@@ -5373,6 +5476,7 @@
       "profesion": "Encantamiento",
       "calidad": "common",
       "personajes": [
+        "Bartolo Tololo",
         "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
@@ -5389,6 +5493,7 @@
       "profesion": "Encantamiento",
       "calidad": "common",
       "personajes": [
+        "Bartolo Tololo",
         "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
@@ -5408,6 +5513,7 @@
         "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
+        "Kadeharz Apsus",
         "Sr Byron"
       ]
     },
@@ -5416,6 +5522,7 @@
       "profesion": "Encantamiento",
       "calidad": "common",
       "personajes": [
+        "Bartolo Tololo",
         "Christoph Crestanegra",
         "Dum Bo",
         "Elfa Vorable",
@@ -5497,6 +5604,7 @@
         "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
+        "Kadeharz Apsus",
         "Sr Byron"
       ]
     },
@@ -5505,10 +5613,12 @@
       "profesion": "Encantamiento",
       "calidad": "common",
       "personajes": [
+        "Bartolo Tololo",
         "Christoph Crestanegra",
         "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
+        "Kadeharz Apsus",
         "Saint Peligroxa",
         "Sr Byron"
       ]
@@ -5536,6 +5646,7 @@
       "profesion": "Encantamiento",
       "calidad": "common",
       "personajes": [
+        "Bartolo Tololo",
         "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
@@ -5549,6 +5660,7 @@
       "profesion": "Encantamiento",
       "calidad": "common",
       "personajes": [
+        "Bartolo Tololo",
         "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
@@ -5657,6 +5769,7 @@
         "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
+        "Kadeharz Apsus",
         "Sr Byron"
       ]
     },
@@ -5676,6 +5789,7 @@
       "profesion": "Encantamiento",
       "calidad": "common",
       "personajes": [
+        "Bartolo Tololo",
         "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
@@ -5731,6 +5845,7 @@
         "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
+        "Kadeharz Apsus",
         "Sr Byron"
       ]
     },
@@ -5747,9 +5862,11 @@
       "profesion": "Encantamiento",
       "calidad": "common",
       "personajes": [
+        "Bartolo Tololo",
         "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
+        "Kadeharz Apsus",
         "Nimassus Pater",
         "Saint Peligroxa",
         "Sr Byron"
@@ -5797,6 +5914,7 @@
       "profesion": "Encantamiento",
       "calidad": "common",
       "personajes": [
+        "Bartolo Tololo",
         "Christoph Crestanegra",
         "Dum Bo",
         "Elfa Vorable",
@@ -5834,6 +5952,7 @@
       "profesion": "Encantamiento",
       "calidad": "uncommon",
       "personajes": [
+        "Bartolo Tololo",
         "Christoph Crestanegra",
         "Dum Bo",
         "Elfa Vorable",
@@ -5861,6 +5980,7 @@
       "profesion": "Encantamiento",
       "calidad": "uncommon",
       "personajes": [
+        "Bartolo Tololo",
         "Christoph Crestanegra",
         "Dum Bo",
         "Elfa Vorable",
@@ -5935,6 +6055,7 @@
       "calidad": "common",
       "personajes": [
         "Archi Amnesia",
+        "Bartolo Tololo",
         "Christoph Crestanegra",
         "Dum Bo",
         "Elfa Vorable",
@@ -5956,6 +6077,7 @@
       "calidad": "common",
       "personajes": [
         "Archi Amnesia",
+        "Bartolo Tololo",
         "Christoph Crestanegra",
         "Dum Bo",
         "Elfa Vorable",
@@ -5979,6 +6101,7 @@
         "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
+        "Kadeharz Apsus",
         "Sr Byron"
       ]
     },
@@ -5987,6 +6110,7 @@
       "profesion": "Encantamiento",
       "calidad": "common",
       "personajes": [
+        "Bartolo Tololo",
         "Christoph Crestanegra",
         "Dum Bo",
         "Elfa Vorable",
@@ -6042,6 +6166,7 @@
         "Fran Furion",
         "Genethika Brisaveloz",
         "Grimmjow Jaegerjakez",
+        "Ibu Profenus",
         "Layrela Rondanit",
         "Reaper Dead",
         "Sugar Papy",
@@ -6070,6 +6195,7 @@
       "calidad": "common",
       "personajes": [
         "Grimmjow Jaegerjakez",
+        "Ibu Profenus",
         "Takkaao Valengri",
         "Tanki Llo"
       ]
@@ -6082,8 +6208,7 @@
         "Aynita Again",
         "Black Phanter",
         "Blind Minds",
-        "Fitipaldi Sendaumbria",
-        "Ibu Profenus"
+        "Fitipaldi Sendaumbria"
       ]
     },
     {
@@ -6094,8 +6219,7 @@
         "Aynita Again",
         "Black Phanter",
         "Blind Minds",
-        "Fitipaldi Sendaumbria",
-        "Ibu Profenus"
+        "Fitipaldi Sendaumbria"
       ]
     },
     {
@@ -6128,6 +6252,7 @@
         "Fran Furion",
         "Genethika Brisaveloz",
         "Grimmjow Jaegerjakez",
+        "Ibu Profenus",
         "Layrela Rondanit",
         "Reaper Dead",
         "Sugar Papy",
@@ -6459,6 +6584,7 @@
         "Althez Sendagris",
         "Coloso Tempestad",
         "Espartaco Gladiador",
+        "Españoleitor Españoleitor",
         "Tharindel Magnaluz"
       ]
     },
@@ -6629,6 +6755,7 @@
       "personajes": [
         "Althez Sendagris",
         "Armando Buya",
+        "Españoleitor Españoleitor",
         "Shiryoku Moonfury"
       ]
     },
@@ -6665,7 +6792,9 @@
       "personajes": [
         "Coloso Tempestad",
         "Espartaco Gladiador",
+        "Españoleitor Españoleitor",
         "Khyoraku Shunsui",
+        "Llamas Xx",
         "Mosu Warryn",
         "Shiryoku Moonfury",
         "Tharindel Magnaluz"
@@ -6718,6 +6847,7 @@
       "personajes": [
         "Coloso Tempestad",
         "Espartaco Gladiador",
+        "Españoleitor Españoleitor",
         "Khyoraku Shunsui",
         "Llamas Xx",
         "Mosu Warryn",
@@ -6858,6 +6988,7 @@
         "Españoleitor Españoleitor",
         "Hugo Forjaluz",
         "Khyoraku Shunsui",
+        "Llamas Xx",
         "Shiryoku Moonfury",
         "Tharindel Magnaluz"
       ]
@@ -7040,6 +7171,7 @@
         "Althez Sendagris",
         "Coloso Tempestad",
         "Espartaco Gladiador",
+        "Españoleitor Españoleitor",
         "Khyoraku Shunsui",
         "Llamas Xx",
         "Mosu Warryn",
@@ -7501,6 +7633,7 @@
       "calidad": "uncommon",
       "personajes": [
         "Coloso Tempestad",
+        "Españoleitor Españoleitor",
         "Shiryoku Moonfury"
       ]
     },
@@ -7618,6 +7751,7 @@
       "personajes": [
         "Althez Sendagris",
         "Coloso Tempestad",
+        "Españoleitor Españoleitor",
         "Khyoraku Shunsui",
         "Llamas Xx",
         "Shiryoku Moonfury",
@@ -7678,6 +7812,14 @@
       ]
     },
     {
+      "nombre": "Silvered Bronze Breastplate",
+      "profesion": "Herrería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Españoleitor Españoleitor"
+      ]
+    },
+    {
       "nombre": "Silvered Bronze Gauntlets",
       "profesion": "Herrería",
       "calidad": "uncommon",
@@ -7699,7 +7841,16 @@
       "profesion": "Herrería",
       "calidad": "uncommon",
       "personajes": [
+        "Españoleitor Españoleitor",
         "Mosu Warryn"
+      ]
+    },
+    {
+      "nombre": "Silvered Bronze Shoulders",
+      "profesion": "Herrería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Españoleitor Españoleitor"
       ]
     },
     {
@@ -8144,6 +8295,14 @@
       ]
     },
     {
+      "nombre": "Deadly Scope",
+      "profesion": "Ingeniería",
+      "calidad": "common",
+      "personajes": [
+        "Cuzcu Aker"
+      ]
+    },
+    {
       "nombre": "Dense Blasting Powder",
       "profesion": "Ingeniería",
       "calidad": "common",
@@ -8199,6 +8358,14 @@
         "Flexita Shadowsoul",
         "Jonaver Legends",
         "La Pety"
+      ]
+    },
+    {
+      "nombre": "Gnomish Battle Chicken",
+      "profesion": "Ingeniería",
+      "calidad": "common",
+      "personajes": [
+        "Cuzcu Aker"
       ]
     },
     {
@@ -8807,10 +8974,12 @@
       "calidad": "common",
       "personajes": [
         "Armando Buya",
+        "Arthas Yevon",
         "Españoleitor Españoleitor",
         "Jonaver Legends",
         "Mosu Warryn",
-        "Tharindel Magnaluz"
+        "Tharindel Magnaluz",
+        "Tommy Durum"
       ]
     },
     {
@@ -8911,6 +9080,7 @@
       "personajes": [
         "Althez Sendagris",
         "Armando Buya",
+        "Arthas Yevon",
         "Chaca Choochoo",
         "Coloso Tempestad",
         "Cuzcu Aker",
@@ -9066,6 +9236,7 @@
       "personajes": [
         "Diana Flechaveloz",
         "Edoras Duskranger",
+        "Ildaren Belisar",
         "Kroketa Torreja",
         "Manelhon Gargon",
         "Palmira Natblida",
@@ -10532,6 +10703,14 @@
       ]
     },
     {
+      "nombre": "Stalker's Mail Boots",
+      "profesion": "Peletería",
+      "calidad": "rare",
+      "personajes": [
+        "Manelhon Gargon"
+      ]
+    },
+    {
       "nombre": "Stormrider's Leather Armor",
       "profesion": "Peletería",
       "calidad": "rare",
@@ -10880,12 +11059,14 @@
         "Althez Sendagris",
         "Archi Amnesia",
         "Aynita Again",
+        "Bartolo Tololo",
         "Blind Minds",
         "Chaca Choochoo",
         "Españoleitor Españoleitor",
         "Farhan Ironbeard",
         "Grimmjow Jaegerjakez",
         "Hugo Forjaluz",
+        "Ibu Profenus",
         "Ildaren Belisar",
         "Joaquin Bollos",
         "Khyoraku Shunsui",
@@ -10959,6 +11140,7 @@
         "Archi Amnesia",
         "Arthas Yevon",
         "Aurelio Amador",
+        "Bartolo Tololo",
         "Breezy Reaver",
         "Chaca Choochoo",
         "Coloso Tempestad",
@@ -11052,6 +11234,7 @@
         "Archi Amnesia",
         "Arthas Yevon",
         "Aurelio Amador",
+        "Bartolo Tololo",
         "Breezy Reaver",
         "Chaca Choochoo",
         "Coloso Tempestad",
@@ -11094,6 +11277,7 @@
       "profesion": "Primeros auxilios",
       "calidad": "common",
       "personajes": [
+        "Aurelio Amador",
         "Coloso Tempestad",
         "Edoras Duskranger",
         "Flexita Shadowsoul",
@@ -11108,6 +11292,7 @@
       "personajes": [
         "Coloso Tempestad",
         "Edoras Duskranger",
+        "Flexita Shadowsoul",
         "Shiryoku Moonfury"
       ]
     },
@@ -11229,6 +11414,7 @@
         "Archi Amnesia",
         "Arthas Yevon",
         "Aurelio Amador",
+        "Bartolo Tololo",
         "Blind Minds",
         "Breezy Reaver",
         "Chaca Choochoo",
@@ -11306,6 +11492,7 @@
         "Archi Amnesia",
         "Arthas Yevon",
         "Aurelio Amador",
+        "Bartolo Tololo",
         "Breezy Reaver",
         "Chaca Choochoo",
         "Coloso Tempestad",
@@ -11361,6 +11548,7 @@
       "profesion": "Primeros auxilios",
       "calidad": "common",
       "personajes": [
+        "Aurelio Amador",
         "Coloso Tempestad",
         "Edoras Duskranger",
         "Flexita Shadowsoul",
@@ -11373,6 +11561,7 @@
       "profesion": "Primeros auxilios",
       "calidad": "common",
       "personajes": [
+        "Arthas Yevon",
         "Aurelio Amador",
         "Coloso Tempestad",
         "Dum Bo",
@@ -11577,6 +11766,7 @@
       "calidad": "uncommon",
       "personajes": [
         "Archi Amnesia",
+        "Bartolo Tololo",
         "Christoph Crestanegra",
         "Dum Bo",
         "Elfa Vorable",
@@ -11595,6 +11785,7 @@
       "calidad": "uncommon",
       "personajes": [
         "Archi Amnesia",
+        "Bartolo Tololo",
         "Christoph Crestanegra",
         "Dum Bo",
         "Elfa Vorable",
@@ -11611,6 +11802,7 @@
       "calidad": "uncommon",
       "personajes": [
         "Archi Amnesia",
+        "Bartolo Tololo",
         "Christoph Crestanegra",
         "Dum Bo",
         "Elfa Vorable",
@@ -11627,6 +11819,7 @@
       "calidad": "uncommon",
       "personajes": [
         "Archi Amnesia",
+        "Bartolo Tololo",
         "Blind Minds",
         "Christoph Crestanegra",
         "Dum Bo",
@@ -11678,6 +11871,7 @@
       "personajes": [
         "Dum Bo",
         "Finn Felagund",
+        "Rhyomen Sukuna",
         "Sr Byron"
       ]
     },
@@ -11708,6 +11902,7 @@
       "personajes": [
         "Dum Bo",
         "Finn Felagund",
+        "Rhyomen Sukuna",
         "Sr Byron"
       ]
     },
@@ -11746,6 +11941,7 @@
       "calidad": "common",
       "personajes": [
         "Archi Amnesia",
+        "Bartolo Tololo",
         "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
@@ -11772,6 +11968,7 @@
       "calidad": "uncommon",
       "personajes": [
         "Archi Amnesia",
+        "Bartolo Tololo",
         "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund"
@@ -11784,6 +11981,7 @@
       "personajes": [
         "Archi Amnesia",
         "Aynita Again",
+        "Bartolo Tololo",
         "Blind Minds",
         "Christoph Crestanegra",
         "Dum Bo",
@@ -11834,6 +12032,7 @@
       "calidad": "common",
       "personajes": [
         "Archi Amnesia",
+        "Bartolo Tololo",
         "Christoph Crestanegra",
         "Dum Bo",
         "Elfa Vorable",
@@ -11853,6 +12052,7 @@
       "calidad": "common",
       "personajes": [
         "Archi Amnesia",
+        "Bartolo Tololo",
         "Christoph Crestanegra",
         "Dum Bo",
         "Elfa Vorable",
@@ -11892,11 +12092,20 @@
       ]
     },
     {
+      "nombre": "Brightcloth Pants",
+      "profesion": "Sastrería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Finn Felagund"
+      ]
+    },
+    {
       "nombre": "Brown Linen Pants",
       "profesion": "Sastrería",
       "calidad": "uncommon",
       "personajes": [
         "Archi Amnesia",
+        "Bartolo Tololo",
         "Blind Minds",
         "Dum Bo",
         "Elfa Vorable",
@@ -11915,6 +12124,7 @@
       "calidad": "uncommon",
       "personajes": [
         "Archi Amnesia",
+        "Bartolo Tololo",
         "Blind Minds",
         "Dum Bo",
         "Elfa Vorable",
@@ -11934,6 +12144,7 @@
       "personajes": [
         "Archi Amnesia",
         "Aynita Again",
+        "Bartolo Tololo",
         "Blind Minds",
         "Christoph Crestanegra",
         "Dum Bo",
@@ -11957,6 +12168,7 @@
       "calidad": "common",
       "personajes": [
         "Archi Amnesia",
+        "Bartolo Tololo",
         "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
@@ -12001,6 +12213,7 @@
       "profesion": "Sastrería",
       "calidad": "uncommon",
       "personajes": [
+        "Bartolo Tololo",
         "Christoph Crestanegra",
         "Dum Bo",
         "Finn Felagund",
@@ -12049,6 +12262,7 @@
         "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
+        "Rhyomen Sukuna",
         "Sr Byron"
       ]
     },
@@ -12072,6 +12286,7 @@
         "Elfa Vorable",
         "Finn Felagund",
         "Kadeharz Apsus",
+        "Rhyomen Sukuna",
         "Señor Ollivander",
         "Sr Byron"
       ]
@@ -12081,7 +12296,8 @@
       "profesion": "Sastrería",
       "calidad": "common",
       "personajes": [
-        "Archi Amnesia"
+        "Archi Amnesia",
+        "Bartolo Tololo"
       ]
     },
     {
@@ -12090,6 +12306,7 @@
       "calidad": "uncommon",
       "personajes": [
         "Archi Amnesia",
+        "Bartolo Tololo",
         "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
@@ -12192,6 +12409,7 @@
       "calidad": "common",
       "personajes": [
         "Archi Amnesia",
+        "Bartolo Tololo",
         "Blind Minds",
         "Christoph Crestanegra",
         "Dum Bo",
@@ -12205,6 +12423,14 @@
         "Señor Ollivander",
         "Sr Byron",
         "Vaporeta Pizpireta"
+      ]
+    },
+    {
+      "nombre": "Felcloth Robe",
+      "profesion": "Sastrería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Finn Felagund"
       ]
     },
     {
@@ -12426,6 +12652,7 @@
       "calidad": "uncommon",
       "personajes": [
         "Archi Amnesia",
+        "Bartolo Tololo",
         "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
@@ -12463,6 +12690,7 @@
       "calidad": "common",
       "personajes": [
         "Archi Amnesia",
+        "Bartolo Tololo",
         "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
@@ -12478,6 +12706,7 @@
       "calidad": "uncommon",
       "personajes": [
         "Archi Amnesia",
+        "Bartolo Tololo",
         "Christoph Crestanegra",
         "Dum Bo",
         "Finn Felagund",
@@ -12490,6 +12719,7 @@
       "calidad": "uncommon",
       "personajes": [
         "Archi Amnesia",
+        "Bartolo Tololo",
         "Blind Minds",
         "Dum Bo",
         "Elfa Vorable",
@@ -12509,6 +12739,7 @@
       "calidad": "common",
       "personajes": [
         "Archi Amnesia",
+        "Bartolo Tololo",
         "Christoph Crestanegra",
         "Dum Bo",
         "Elfa Vorable",
@@ -12546,6 +12777,7 @@
         "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
+        "Rhyomen Sukuna",
         "Sr Byron"
       ]
     },
@@ -12567,6 +12799,7 @@
       "calidad": "uncommon",
       "personajes": [
         "Archi Amnesia",
+        "Bartolo Tololo",
         "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
@@ -12583,7 +12816,8 @@
       "calidad": "uncommon",
       "personajes": [
         "Christoph Crestanegra",
-        "Dum Bo"
+        "Dum Bo",
+        "Finn Felagund"
       ]
     },
     {
@@ -12592,6 +12826,7 @@
       "calidad": "uncommon",
       "personajes": [
         "Archi Amnesia",
+        "Bartolo Tololo",
         "Christoph Crestanegra",
         "Dum Bo",
         "Elfa Vorable",
@@ -12611,6 +12846,7 @@
       "calidad": "uncommon",
       "personajes": [
         "Archi Amnesia",
+        "Bartolo Tololo",
         "Blind Minds",
         "Christoph Crestanegra",
         "Dum Bo",
@@ -12642,6 +12878,7 @@
       "calidad": "uncommon",
       "personajes": [
         "Archi Amnesia",
+        "Bartolo Tololo",
         "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
@@ -12659,6 +12896,7 @@
       "calidad": "uncommon",
       "personajes": [
         "Archi Amnesia",
+        "Bartolo Tololo",
         "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
@@ -12693,6 +12931,7 @@
       "calidad": "uncommon",
       "personajes": [
         "Archi Amnesia",
+        "Bartolo Tololo",
         "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
@@ -12712,6 +12951,7 @@
       "personajes": [
         "Archi Amnesia",
         "Aynita Again",
+        "Bartolo Tololo",
         "Blind Minds",
         "Christoph Crestanegra",
         "Dum Bo",
@@ -12735,6 +12975,7 @@
       "calidad": "common",
       "personajes": [
         "Archi Amnesia",
+        "Bartolo Tololo",
         "Blind Minds",
         "Dum Bo",
         "Elfa Vorable",
@@ -12754,6 +12995,7 @@
       "calidad": "uncommon",
       "personajes": [
         "Archi Amnesia",
+        "Bartolo Tololo",
         "Blind Minds",
         "Christoph Crestanegra",
         "Dum Bo",
@@ -12774,6 +13016,7 @@
       "personajes": [
         "Archi Amnesia",
         "Aynita Again",
+        "Bartolo Tololo",
         "Blind Minds",
         "Christoph Crestanegra",
         "Dum Bo",
@@ -12797,6 +13040,7 @@
       "calidad": "common",
       "personajes": [
         "Archi Amnesia",
+        "Bartolo Tololo",
         "Blind Minds",
         "Christoph Crestanegra",
         "Dum Bo",
@@ -12818,6 +13062,7 @@
         "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
+        "Rhyomen Sukuna",
         "Sr Byron"
       ]
     },
@@ -12828,6 +13073,7 @@
       "personajes": [
         "Dum Bo",
         "Finn Felagund",
+        "Rhyomen Sukuna",
         "Sr Byron"
       ]
     },
@@ -12853,6 +13099,7 @@
       "calidad": "rare",
       "personajes": [
         "Archi Amnesia",
+        "Bartolo Tololo",
         "Blind Minds",
         "Christoph Crestanegra",
         "Dum Bo",
@@ -12874,6 +13121,7 @@
       "calidad": "rare",
       "personajes": [
         "Archi Amnesia",
+        "Bartolo Tololo",
         "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
@@ -12913,6 +13161,7 @@
       "calidad": "uncommon",
       "personajes": [
         "Archi Amnesia",
+        "Bartolo Tololo",
         "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
@@ -12978,6 +13227,7 @@
       "calidad": "common",
       "personajes": [
         "Archi Amnesia",
+        "Bartolo Tololo",
         "Christoph Crestanegra",
         "Dum Bo",
         "Elfa Vorable",
@@ -13001,6 +13251,7 @@
       "calidad": "common",
       "personajes": [
         "Archi Amnesia",
+        "Bartolo Tololo",
         "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
@@ -13038,6 +13289,14 @@
       "calidad": "uncommon",
       "personajes": [
         "Sr Byron"
+      ]
+    },
+    {
+      "nombre": "Red Mageweave Headband",
+      "profesion": "Sastrería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Finn Felagund"
       ]
     },
     {
@@ -13101,6 +13360,7 @@
       "calidad": "uncommon",
       "personajes": [
         "Archi Amnesia",
+        "Bartolo Tololo",
         "Blind Minds",
         "Dum Bo",
         "Elfa Vorable",
@@ -13206,6 +13466,14 @@
       ]
     },
     {
+      "nombre": "Runecloth Shoulders",
+      "profesion": "Sastrería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Finn Felagund"
+      ]
+    },
+    {
       "nombre": "Shadow Circlet",
       "profesion": "Sastrería",
       "calidad": "rare",
@@ -13259,6 +13527,7 @@
       "calidad": "common",
       "personajes": [
         "Archi Amnesia",
+        "Bartolo Tololo",
         "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
@@ -13276,6 +13545,7 @@
       "calidad": "uncommon",
       "personajes": [
         "Archi Amnesia",
+        "Bartolo Tololo",
         "Christoph Crestanegra",
         "Dum Bo",
         "Elfa Vorable",
@@ -13294,6 +13564,7 @@
       "calidad": "common",
       "personajes": [
         "Archi Amnesia",
+        "Bartolo Tololo",
         "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
@@ -13312,6 +13583,7 @@
       "personajes": [
         "Archi Amnesia",
         "Aynita Again",
+        "Bartolo Tololo",
         "Blind Minds",
         "Christoph Crestanegra",
         "Dum Bo",
@@ -13335,6 +13607,7 @@
       "calidad": "common",
       "personajes": [
         "Archi Amnesia",
+        "Bartolo Tololo",
         "Christoph Crestanegra",
         "Dum Bo",
         "Elfa Vorable",
@@ -13352,6 +13625,7 @@
       "calidad": "uncommon",
       "personajes": [
         "Archi Amnesia",
+        "Bartolo Tololo",
         "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
@@ -13394,6 +13668,7 @@
       "calidad": "rare",
       "personajes": [
         "Archi Amnesia",
+        "Bartolo Tololo",
         "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
@@ -13411,6 +13686,7 @@
       "calidad": "common",
       "personajes": [
         "Dum Bo",
+        "Finn Felagund",
         "Kadeharz Apsus"
       ]
     },
@@ -13455,6 +13731,7 @@
       "personajes": [
         "Christoph Crestanegra",
         "Dum Bo",
+        "Finn Felagund",
         "Kadeharz Apsus"
       ]
     },
@@ -13480,6 +13757,7 @@
       "calidad": "uncommon",
       "personajes": [
         "Archi Amnesia",
+        "Bartolo Tololo",
         "Blind Minds",
         "Dum Bo",
         "Elfa Vorable",
@@ -13498,6 +13776,7 @@
       "calidad": "common",
       "personajes": [
         "Archi Amnesia",
+        "Bartolo Tololo",
         "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
@@ -13541,6 +13820,7 @@
       "calidad": "uncommon",
       "personajes": [
         "Archi Amnesia",
+        "Bartolo Tololo",
         "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
@@ -13556,6 +13836,7 @@
       "calidad": "common",
       "personajes": [
         "Archi Amnesia",
+        "Bartolo Tololo",
         "Christoph Crestanegra",
         "Dum Bo",
         "Elfa Vorable",
@@ -13573,6 +13854,7 @@
       "calidad": "uncommon",
       "personajes": [
         "Archi Amnesia",
+        "Bartolo Tololo",
         "Christoph Crestanegra",
         "Dum Bo",
         "Elfa Vorable",
@@ -13591,6 +13873,7 @@
       "calidad": "uncommon",
       "personajes": [
         "Archi Amnesia",
+        "Bartolo Tololo",
         "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
@@ -13610,6 +13893,7 @@
       "calidad": "common",
       "personajes": [
         "Archi Amnesia",
+        "Bartolo Tololo",
         "Christoph Crestanegra",
         "Dum Bo",
         "Elfa Vorable",
