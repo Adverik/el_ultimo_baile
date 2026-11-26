@@ -9,7 +9,7 @@
       "raider": false,
       "nivel": 300,
       "max": 300,
-      "pct": 36
+      "pct": 37
     },
     {
       "personaje": "Dio Hotmetal",
@@ -5000,7 +5000,9 @@
               "1"
             ]
           },
-          "quien": []
+          "quien": [
+            0
+          ]
         },
         {
           "id": 54673,

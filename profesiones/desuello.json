@@ -39,7 +39,7 @@
       "personaje": "Ildaren Belisar",
       "clase": "rogue",
       "raider": false,
-      "nivel": 256,
+      "nivel": 258,
       "max": 300,
       "pct": 33
     },
@@ -100,18 +100,18 @@
       "pct": 33
     },
     {
-      "personaje": "Tom Kha",
-      "clase": "shaman",
+      "personaje": "Arthas Yevon",
+      "clase": "paladin",
       "raider": false,
-      "nivel": 185,
+      "nivel": 195,
       "max": 225,
       "pct": 33
     },
     {
-      "personaje": "Arthas Yevon",
-      "clase": "paladin",
+      "personaje": "Tom Kha",
+      "clase": "shaman",
       "raider": false,
-      "nivel": 179,
+      "nivel": 185,
       "max": 225,
       "pct": 33
     },

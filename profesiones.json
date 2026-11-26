@@ -89,7 +89,7 @@
       "profesiones": [
         {
           "nombre": "Desuello",
-          "nivel": 179,
+          "nivel": 195,
           "max": 225
         },
         {
@@ -780,7 +780,7 @@
         },
         {
           "nombre": "Pesca",
-          "nivel": 231,
+          "nivel": 243,
           "max": 300
         }
       ]
@@ -1001,7 +1001,7 @@
         },
         {
           "nombre": "Desuello",
-          "nivel": 256,
+          "nivel": 258,
           "max": 300
         },
         {
@@ -1050,7 +1050,7 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 185,
+          "nivel": 187,
           "max": 225
         },
         {
@@ -1065,7 +1065,7 @@
         },
         {
           "nombre": "Pesca",
-          "nivel": 190,
+          "nivel": 191,
           "max": 225
         },
         {
@@ -1168,7 +1168,7 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 228,
+          "nivel": 235,
           "max": 300
         },
         {
@@ -1601,17 +1601,17 @@
         },
         {
           "nombre": "Cocina",
-          "nivel": 95,
+          "nivel": 108,
           "max": 150
         },
         {
           "nombre": "Pesca",
-          "nivel": 145,
+          "nivel": 150,
           "max": 150
         },
         {
           "nombre": "Primeros auxilios",
-          "nivel": 141,
+          "nivel": 147,
           "max": 150
         }
       ]
@@ -1665,7 +1665,7 @@
         },
         {
           "nombre": "Cocina",
-          "nivel": 297,
+          "nivel": 300,
           "max": 300
         },
         {
@@ -1675,7 +1675,7 @@
         },
         {
           "nombre": "Primeros auxilios",
-          "nivel": 297,
+          "nivel": 300,
           "max": 300
         }
       ]
@@ -1687,7 +1687,7 @@
       "profesiones": [
         {
           "nombre": "Sastrería",
-          "nivel": 226,
+          "nivel": 231,
           "max": 300
         },
         {
@@ -2650,6 +2650,14 @@
     },
     {
       "nombre": "Major Frenzy Potion",
+      "profesion": "Alquimia",
+      "calidad": "common",
+      "personajes": [
+        "Sugar Papy"
+      ]
+    },
+    {
+      "nombre": "Major Mender's Potion",
       "profesion": "Alquimia",
       "calidad": "common",
       "personajes": [
@@ -3693,6 +3701,7 @@
       "calidad": "common",
       "personajes": [
         "Dum Bo",
+        "Shiryoku Moonfury",
         "Sugar Papy"
       ]
     },
@@ -3990,6 +3999,7 @@
       "profesion": "Cocina",
       "calidad": "common",
       "personajes": [
+        "Coloso Tempestad",
         "Diana Flechaveloz",
         "Dum Bo",
         "Finn Felagund",

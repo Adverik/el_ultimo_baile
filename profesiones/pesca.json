@@ -12,18 +12,18 @@
       "pct": 67
     },
     {
-      "personaje": "Coloso Tempestad",
-      "clase": "warrior",
+      "personaje": "Finn Felagund",
+      "clase": "priest",
       "raider": false,
-      "nivel": 235,
+      "nivel": 243,
       "max": 300,
       "pct": 33
     },
     {
-      "personaje": "Finn Felagund",
-      "clase": "priest",
+      "personaje": "Coloso Tempestad",
+      "clase": "warrior",
       "raider": false,
-      "nivel": 231,
+      "nivel": 235,
       "max": 300,
       "pct": 33
     },
@@ -71,7 +71,7 @@
       "personaje": "Jonaver Legends",
       "clase": "mage",
       "raider": false,
-      "nivel": 190,
+      "nivel": 191,
       "max": 225,
       "pct": 33
     },
@@ -119,7 +119,7 @@
       "personaje": "Samael Thallanor",
       "clase": "hunter",
       "raider": false,
-      "nivel": 145,
+      "nivel": 150,
       "max": 150,
       "pct": 33
     },

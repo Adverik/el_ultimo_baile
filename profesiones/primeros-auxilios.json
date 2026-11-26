@@ -31,7 +31,7 @@
       "personaje": "Shiryoku Moonfury",
       "clase": "warrior",
       "raider": false,
-      "nivel": 297,
+      "nivel": 300,
       "max": 300,
       "pct": 59
     },
@@ -204,18 +204,18 @@
       "pct": 38
     },
     {
-      "personaje": "Breezy Reaver",
-      "clase": "shaman",
+      "personaje": "Samael Thallanor",
+      "clase": "hunter",
       "raider": false,
-      "nivel": 145,
+      "nivel": 147,
       "max": 150,
       "pct": 34
     },
     {
-      "personaje": "Samael Thallanor",
-      "clase": "hunter",
+      "personaje": "Breezy Reaver",
+      "clase": "shaman",
       "raider": false,
-      "nivel": 141,
+      "nivel": 145,
       "max": 150,
       "pct": 34
     },

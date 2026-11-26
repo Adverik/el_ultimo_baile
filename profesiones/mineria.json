@@ -55,7 +55,7 @@
       "personaje": "La Pety",
       "clase": "rogue",
       "raider": false,
-      "nivel": 228,
+      "nivel": 235,
       "max": 300,
       "pct": 53
     },
@@ -87,7 +87,7 @@
       "personaje": "Jonaver Legends",
       "clase": "mage",
       "raider": false,
-      "nivel": 185,
+      "nivel": 187,
       "max": 225,
       "pct": 53
     },
