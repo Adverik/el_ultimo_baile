@@ -7,9 +7,9 @@
       "personaje": "Finn Felagund",
       "clase": "priest",
       "raider": false,
-      "nivel": 282,
+      "nivel": 283,
       "max": 300,
-      "pct": 32
+      "pct": 33
     },
     {
       "personaje": "Dum Bo",
@@ -459,7 +459,9 @@
             ]
           ],
           "desc": "Encanta de forma permanente unos brazales para que proporcionen +7 p. de espíritu.",
-          "quien": []
+          "quien": [
+            0
+          ]
         },
         {
           "id": 7676,
@@ -545,7 +547,9 @@
             ]
           ],
           "desc": "Encanta de forma permanente unos brazales para que proporcionen +9 p. de espíritu.",
-          "quien": []
+          "quien": [
+            0
+          ]
         },
         {
           "id": 11388,
@@ -1709,7 +1713,9 @@
             ]
           ],
           "desc": "Encanta de forma permanente una capa para que proporcione 3 p. de agilidad.",
-          "quien": []
+          "quien": [
+            0
+          ]
         },
         {
           "id": 11375,
@@ -3502,7 +3508,9 @@
             ]
           ],
           "desc": "Encanta de forma permanente unos guantes para que concedan +5 de minería.",
-          "quien": []
+          "quien": [
+            0
+          ]
         },
         {
           "id": 7666,

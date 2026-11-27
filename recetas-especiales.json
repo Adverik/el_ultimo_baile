@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-26",
+  "actualizado": "2026-11-27",
   "recetas": [
     {
       "id": 54409,
@@ -2179,11 +2179,11 @@
           "clase": "rogue"
         },
         {
-          "n": "Manelhon Gargon",
+          "n": "Runa Ruina",
           "clase": "shaman"
         },
         {
-          "n": "Runa Ruina",
+          "n": "Manelhon Gargon",
           "clase": "shaman"
         },
         {
@@ -2199,12 +2199,12 @@
           "clase": "hunter"
         },
         {
-          "n": "Ildaren Belisar",
-          "clase": "rogue"
-        },
-        {
           "n": "Kroketa Torreja",
           "clase": "druid"
+        },
+        {
+          "n": "Ildaren Belisar",
+          "clase": "rogue"
         },
         {
           "n": "Tom Kha",
@@ -2315,6 +2315,55 @@
       ]
     },
     {
+      "id": 55070,
+      "n": "Botas de malla de hostigador",
+      "q": "rare",
+      "ico": "132547",
+      "reac": [
+        [
+          "Cuero pesado",
+          8
+        ],
+        [
+          "Pellejo medio curado",
+          2
+        ],
+        [
+          "Citrino",
+          2
+        ]
+      ],
+      "obj": {
+        "arm": "188 armadura",
+        "id": 252564,
+        "ilvl": 45,
+        "lig": "Se liga al recogerlo",
+        "n": "Botas de malla de hostigador",
+        "q": "rare",
+        "ranura": "Pies",
+        "req": 40,
+        "stats": [
+          "+5 intelecto",
+          "+11 fuerza",
+          "+7 aguante",
+          "+9 poder con hechizos"
+        ],
+        "sub": "Mallas",
+        "venta": [
+          "0",
+          "86",
+          "54"
+        ]
+      },
+      "profesion": "Peletería",
+      "personajes": [
+        {
+          "n": "Runa Ruina",
+          "clase": "shaman"
+        }
+      ]
+    },
+    {
       "id": 55204,
       "n": "Botas de resplandor lunar",
       "q": "rare",
@@ -2364,11 +2413,11 @@
           "clase": "rogue"
         },
         {
-          "n": "Manelhon Gargon",
+          "n": "Runa Ruina",
           "clase": "shaman"
         },
         {
-          "n": "Runa Ruina",
+          "n": "Manelhon Gargon",
           "clase": "shaman"
         },
         {
@@ -2376,12 +2425,12 @@
           "clase": "druid"
         },
         {
-          "n": "Ildaren Belisar",
-          "clase": "rogue"
-        },
-        {
           "n": "Kroketa Torreja",
           "clase": "druid"
+        },
+        {
+          "n": "Ildaren Belisar",
+          "clase": "rogue"
         },
         {
           "n": "Tom Kha",
@@ -3019,12 +3068,12 @@
           "clase": "hunter"
         },
         {
-          "n": "Ildaren Belisar",
-          "clase": "rogue"
-        },
-        {
           "n": "Kroketa Torreja",
           "clase": "druid"
+        },
+        {
+          "n": "Ildaren Belisar",
+          "clase": "rogue"
         }
       ]
     },
@@ -3798,11 +3847,11 @@
           "clase": "rogue"
         },
         {
-          "n": "Manelhon Gargon",
+          "n": "Runa Ruina",
           "clase": "shaman"
         },
         {
-          "n": "Runa Ruina",
+          "n": "Manelhon Gargon",
           "clase": "shaman"
         },
         {
@@ -3810,12 +3859,12 @@
           "clase": "druid"
         },
         {
-          "n": "Ildaren Belisar",
-          "clase": "rogue"
-        },
-        {
           "n": "Kroketa Torreja",
           "clase": "druid"
+        },
+        {
+          "n": "Ildaren Belisar",
+          "clase": "rogue"
         },
         {
           "n": "Tom Kha",
@@ -3873,6 +3922,10 @@
         {
           "n": "Aurelio Amador",
           "clase": "rogue"
+        },
+        {
+          "n": "Manelhon Gargon",
+          "clase": "shaman"
         }
       ]
     },
@@ -3926,11 +3979,11 @@
           "clase": "rogue"
         },
         {
-          "n": "Manelhon Gargon",
+          "n": "Runa Ruina",
           "clase": "shaman"
         },
         {
-          "n": "Runa Ruina",
+          "n": "Manelhon Gargon",
           "clase": "shaman"
         },
         {
@@ -3938,12 +3991,12 @@
           "clase": "druid"
         },
         {
-          "n": "Ildaren Belisar",
-          "clase": "rogue"
-        },
-        {
           "n": "Kroketa Torreja",
           "clase": "druid"
+        },
+        {
+          "n": "Ildaren Belisar",
+          "clase": "rogue"
         },
         {
           "n": "Tom Kha",
@@ -4082,12 +4135,12 @@
           "clase": "warlock"
         },
         {
-          "n": "Rhyomen Sukuna",
-          "clase": "warlock"
-        },
-        {
           "n": "Señor Ollivander",
           "clase": "mage"
+        },
+        {
+          "n": "Rhyomen Sukuna",
+          "clase": "warlock"
         },
         {
           "n": "Elfa Vorable",
@@ -4751,12 +4804,12 @@
           "clase": "mage"
         },
         {
-          "n": "Rhyomen Sukuna",
-          "clase": "warlock"
-        },
-        {
           "n": "Señor Ollivander",
           "clase": "mage"
+        },
+        {
+          "n": "Rhyomen Sukuna",
+          "clase": "warlock"
         },
         {
           "n": "Kadeharz Apsus",
@@ -4852,12 +4905,12 @@
           "clase": "warlock"
         },
         {
-          "n": "Rhyomen Sukuna",
-          "clase": "warlock"
-        },
-        {
           "n": "Señor Ollivander",
           "clase": "mage"
+        },
+        {
+          "n": "Rhyomen Sukuna",
+          "clase": "warlock"
         },
         {
           "n": "Kadeharz Apsus",

@@ -15,7 +15,7 @@
       "personaje": "Manelhon Gargon",
       "clase": "shaman",
       "raider": true,
-      "nivel": 288,
+      "nivel": 291,
       "max": 300,
       "pct": 67
     },
@@ -23,7 +23,7 @@
       "personaje": "Runa Ruina",
       "clase": "shaman",
       "raider": false,
-      "nivel": 276,
+      "nivel": 291,
       "max": 300,
       "pct": 33
     },
@@ -36,18 +36,18 @@
       "pct": 33
     },
     {
-      "personaje": "Ildaren Belisar",
+      "personaje": "Aurelio Amador",
       "clase": "rogue",
       "raider": false,
-      "nivel": 258,
+      "nivel": 262,
       "max": 300,
       "pct": 33
     },
     {
-      "personaje": "Aurelio Amador",
+      "personaje": "Ildaren Belisar",
       "clase": "rogue",
       "raider": false,
-      "nivel": 257,
+      "nivel": 262,
       "max": 300,
       "pct": 33
     },
@@ -55,7 +55,15 @@
       "personaje": "Reaper Dead",
       "clase": "paladin",
       "raider": false,
-      "nivel": 253,
+      "nivel": 258,
+      "max": 300,
+      "pct": 33
+    },
+    {
+      "personaje": "Kroketa Torreja",
+      "clase": "druid",
+      "raider": false,
+      "nivel": 256,
       "max": 300,
       "pct": 33
     },
@@ -64,14 +72,6 @@
       "clase": "druid",
       "raider": false,
       "nivel": 253,
-      "max": 300,
-      "pct": 33
-    },
-    {
-      "personaje": "Kroketa Torreja",
-      "clase": "druid",
-      "raider": false,
-      "nivel": 252,
       "max": 300,
       "pct": 33
     },
@@ -119,7 +119,7 @@
       "personaje": "Samael Thallanor",
       "clase": "hunter",
       "raider": false,
-      "nivel": 169,
+      "nivel": 172,
       "max": 225,
       "pct": 33
     },

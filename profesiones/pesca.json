@@ -204,6 +204,14 @@
       "pct": 33
     },
     {
+      "personaje": "Dio Hotmetal",
+      "clase": "hunter",
+      "raider": false,
+      "nivel": 107,
+      "max": 150,
+      "pct": 33
+    },
+    {
       "personaje": "Breezy Reaver",
       "clase": "shaman",
       "raider": false,
@@ -214,14 +222,6 @@
     {
       "personaje": "Arthas Yevon",
       "clase": "paladin",
-      "raider": false,
-      "nivel": 96,
-      "max": 150,
-      "pct": 33
-    },
-    {
-      "personaje": "Dio Hotmetal",
-      "clase": "hunter",
       "raider": false,
       "nivel": 96,
       "max": 150,

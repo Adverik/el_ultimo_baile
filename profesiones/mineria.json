@@ -47,7 +47,7 @@
       "personaje": "Cuzcu Aker",
       "clase": "paladin",
       "raider": true,
-      "nivel": 242,
+      "nivel": 249,
       "max": 300,
       "pct": 53
     },
@@ -55,9 +55,9 @@
       "personaje": "La Pety",
       "clase": "rogue",
       "raider": false,
-      "nivel": 235,
+      "nivel": 245,
       "max": 300,
-      "pct": 53
+      "pct": 59
     },
     {
       "personaje": "Flexita Shadowsoul",
@@ -103,7 +103,7 @@
       "personaje": "Mosu Warryn",
       "clase": "warrior",
       "raider": false,
-      "nivel": 153,
+      "nivel": 154,
       "max": 225,
       "pct": 35
     },
@@ -140,6 +140,14 @@
       "pct": 35
     },
     {
+      "personaje": "Samael Thallanor",
+      "clase": "hunter",
+      "raider": false,
+      "nivel": 127,
+      "max": 150,
+      "pct": 29
+    },
+    {
       "personaje": "Hugo Forjaluz",
       "clase": "paladin",
       "raider": false,
@@ -148,18 +156,10 @@
       "pct": 29
     },
     {
-      "personaje": "Samael Thallanor",
-      "clase": "hunter",
-      "raider": false,
-      "nivel": 121,
-      "max": 150,
-      "pct": 29
-    },
-    {
       "personaje": "Tanki Llo",
       "clase": "warlock",
       "raider": false,
-      "nivel": 110,
+      "nivel": 114,
       "max": 150,
       "pct": 18
     },
@@ -533,7 +533,8 @@
           },
           "quien": [
             1,
-            2
+            2,
+            6
           ]
         },
         {

@@ -31,7 +31,7 @@
       "personaje": "Fran Furion",
       "clase": "druid",
       "raider": true,
-      "nivel": 287,
+      "nivel": 289,
       "max": 300,
       "pct": 33
     },
@@ -71,7 +71,7 @@
       "personaje": "Reaper Dead",
       "clase": "paladin",
       "raider": false,
-      "nivel": 152,
+      "nivel": 153,
       "max": 225,
       "pct": 33
     },

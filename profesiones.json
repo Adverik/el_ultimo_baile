@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-26",
+  "actualizado": "2026-11-27",
   "artesanos": [
     {
       "personaje": "Althez Sendagris",
@@ -55,7 +55,7 @@
         },
         {
           "nombre": "Primeros auxilios",
-          "nivel": 111,
+          "nivel": 114,
           "max": 150
         }
       ]
@@ -126,7 +126,7 @@
         },
         {
           "nombre": "Desuello",
-          "nivel": 257,
+          "nivel": 262,
           "max": 300
         },
         {
@@ -411,7 +411,7 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 242,
+          "nivel": 249,
           "max": 300
         },
         {
@@ -490,7 +490,7 @@
         },
         {
           "nombre": "Pesca",
-          "nivel": 96,
+          "nivel": 107,
           "max": 150
         },
         {
@@ -672,7 +672,7 @@
         },
         {
           "nombre": "Primeros auxilios",
-          "nivel": 192,
+          "nivel": 197,
           "max": 225
         }
       ]
@@ -770,7 +770,7 @@
         },
         {
           "nombre": "Encantamiento",
-          "nivel": 282,
+          "nivel": 283,
           "max": 300
         },
         {
@@ -856,7 +856,7 @@
         },
         {
           "nombre": "Herboristería",
-          "nivel": 287,
+          "nivel": 289,
           "max": 300
         },
         {
@@ -1001,7 +1001,7 @@
         },
         {
           "nombre": "Desuello",
-          "nivel": 258,
+          "nivel": 262,
           "max": 300
         },
         {
@@ -1136,12 +1136,12 @@
       "profesiones": [
         {
           "nombre": "Peletería",
-          "nivel": 161,
+          "nivel": 170,
           "max": 225
         },
         {
           "nombre": "Desuello",
-          "nivel": 252,
+          "nivel": 256,
           "max": 300
         },
         {
@@ -1168,7 +1168,7 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 235,
+          "nivel": 245,
           "max": 300
         },
         {
@@ -1188,7 +1188,7 @@
         },
         {
           "nombre": "Primeros auxilios",
-          "nivel": 285,
+          "nivel": 293,
           "max": 300
         }
       ]
@@ -1220,7 +1220,7 @@
         },
         {
           "nombre": "Primeros auxilios",
-          "nivel": 234,
+          "nivel": 236,
           "max": 300
         }
       ]
@@ -1269,13 +1269,13 @@
         },
         {
           "nombre": "Desuello",
-          "nivel": 288,
+          "nivel": 291,
           "max": 300
         },
         {
           "nombre": "Cocina",
           "nivel": 225,
-          "max": 225
+          "max": 300
         },
         {
           "nombre": "Pesca",
@@ -1360,7 +1360,7 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 153,
+          "nivel": 154,
           "max": 225
         },
         {
@@ -1483,12 +1483,12 @@
       "profesiones": [
         {
           "nombre": "Desuello",
-          "nivel": 253,
+          "nivel": 258,
           "max": 300
         },
         {
           "nombre": "Herboristería",
-          "nivel": 152,
+          "nivel": 153,
           "max": 225
         },
         {
@@ -1532,17 +1532,17 @@
       "profesiones": [
         {
           "nombre": "Peletería",
-          "nivel": 202,
+          "nivel": 203,
           "max": 225
         },
         {
           "nombre": "Desuello",
-          "nivel": 276,
+          "nivel": 291,
           "max": 300
         },
         {
           "nombre": "Cocina",
-          "nivel": 225,
+          "nivel": 285,
           "max": 300
         },
         {
@@ -1591,12 +1591,12 @@
       "profesiones": [
         {
           "nombre": "Desuello",
-          "nivel": 169,
+          "nivel": 172,
           "max": 225
         },
         {
           "nombre": "Minería",
-          "nivel": 121,
+          "nivel": 127,
           "max": 150
         },
         {
@@ -1611,7 +1611,7 @@
         },
         {
           "nombre": "Primeros auxilios",
-          "nivel": 147,
+          "nivel": 150,
           "max": 150
         }
       ]
@@ -1623,7 +1623,7 @@
       "profesiones": [
         {
           "nombre": "Sastrería",
-          "nivel": 191,
+          "nivel": 193,
           "max": 225
         },
         {
@@ -1660,7 +1660,7 @@
         },
         {
           "nombre": "Herrería",
-          "nivel": 236,
+          "nivel": 237,
           "max": 300
         },
         {
@@ -1810,7 +1810,7 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 110,
+          "nivel": 114,
           "max": 150
         },
         {
@@ -2464,6 +2464,14 @@
         "Betadine Pervinox",
         "Dio Hotmetal",
         "Fran Furion",
+        "Sugar Papy"
+      ]
+    },
+    {
+      "nombre": "Gift of Arthas",
+      "profesion": "Alquimia",
+      "calidad": "common",
+      "personajes": [
         "Sugar Papy"
       ]
     },
@@ -4089,6 +4097,7 @@
       "profesion": "Cocina",
       "calidad": "common",
       "personajes": [
+        "Archi Amnesia",
         "Betadine Pervinox",
         "Coloso Tempestad",
         "Diana Flechaveloz",
@@ -4403,6 +4412,7 @@
       "profesion": "Cocina",
       "calidad": "common",
       "personajes": [
+        "Archi Amnesia",
         "Betadine Pervinox",
         "Coloso Tempestad",
         "Diana Flechaveloz",
@@ -4832,6 +4842,7 @@
         "Flexita Shadowsoul",
         "Layrela Rondanit",
         "Manelhon Gargon",
+        "Runa Ruina",
         "Sugar Papy"
       ]
     },
@@ -5207,6 +5218,14 @@
       ]
     },
     {
+      "nombre": "Enchant Bracer - Greater Spirit",
+      "profesion": "Encantamiento",
+      "calidad": "common",
+      "personajes": [
+        "Finn Felagund"
+      ]
+    },
+    {
       "nombre": "Enchant Bracer - Greater Strength",
       "profesion": "Encantamiento",
       "calidad": "common",
@@ -5403,6 +5422,14 @@
         "Elfa Vorable",
         "Finn Felagund",
         "Sr Byron"
+      ]
+    },
+    {
+      "nombre": "Enchant Bracer - Superior Spirit",
+      "profesion": "Encantamiento",
+      "calidad": "common",
+      "personajes": [
+        "Finn Felagund"
       ]
     },
     {
@@ -5624,6 +5651,14 @@
       ]
     },
     {
+      "nombre": "Enchant Cloak - Lesser Agility",
+      "profesion": "Encantamiento",
+      "calidad": "common",
+      "personajes": [
+        "Finn Felagund"
+      ]
+    },
+    {
       "nombre": "Enchant Cloak - Lesser Fire Resistance",
       "profesion": "Encantamiento",
       "calidad": "common",
@@ -5710,6 +5745,14 @@
         "Elfa Vorable",
         "Finn Felagund",
         "Sr Byron"
+      ]
+    },
+    {
+      "nombre": "Enchant Gloves - Advanced Mining",
+      "profesion": "Encantamiento",
+      "calidad": "common",
+      "personajes": [
+        "Finn Felagund"
       ]
     },
     {
@@ -9229,6 +9272,7 @@
       "calidad": "uncommon",
       "personajes": [
         "Coloso Tempestad",
+        "La Pety",
         "Shiryoku Moonfury"
       ]
     },
@@ -9255,6 +9299,7 @@
       "calidad": "uncommon",
       "personajes": [
         "Edoras Duskranger",
+        "Kroketa Torreja",
         "Memas Tour",
         "Palmira Natblida",
         "Tankesito Khrih"
@@ -9284,6 +9329,7 @@
         "Diana Flechaveloz",
         "Edoras Duskranger",
         "Ildaren Belisar",
+        "Kroketa Torreja",
         "Manelhon Gargon",
         "Memas Tour",
         "Palmira Natblida",
@@ -9635,6 +9681,7 @@
       "calidad": "uncommon",
       "personajes": [
         "Edoras Duskranger",
+        "Kroketa Torreja",
         "Memas Tour",
         "Palmira Natblida",
         "Tankesito Khrih"
@@ -9647,6 +9694,7 @@
       "personajes": [
         "Diana Flechaveloz",
         "Edoras Duskranger",
+        "Kroketa Torreja",
         "Memas Tour",
         "Palmira Natblida",
         "Tankesito Khrih"
@@ -9659,6 +9707,7 @@
       "personajes": [
         "Diana Flechaveloz",
         "Edoras Duskranger",
+        "Kroketa Torreja",
         "Memas Tour",
         "Palmira Natblida",
         "Tankesito Khrih"
@@ -9855,6 +9904,7 @@
       "calidad": "uncommon",
       "personajes": [
         "Edoras Duskranger",
+        "Kroketa Torreja",
         "Manelhon Gargon",
         "Memas Tour",
         "Palmira Natblida",
@@ -9884,6 +9934,7 @@
       "calidad": "uncommon",
       "personajes": [
         "Edoras Duskranger",
+        "Kroketa Torreja",
         "Memas Tour",
         "Palmira Natblida",
         "Tankesito Khrih"
@@ -9934,6 +9985,7 @@
       "personajes": [
         "Diana Flechaveloz",
         "Edoras Duskranger",
+        "Kroketa Torreja",
         "Manelhon Gargon",
         "Memas Tour",
         "Palmira Natblida",
@@ -9966,6 +10018,7 @@
         "Aurelio Amador",
         "Diana Flechaveloz",
         "Edoras Duskranger",
+        "Kroketa Torreja",
         "Manelhon Gargon",
         "Memas Tour",
         "Palmira Natblida",
@@ -10502,6 +10555,7 @@
       "calidad": "uncommon",
       "personajes": [
         "Edoras Duskranger",
+        "Kroketa Torreja",
         "Manelhon Gargon",
         "Memas Tour",
         "Palmira Natblida",
@@ -10569,6 +10623,7 @@
         "Aurelio Amador",
         "Diana Flechaveloz",
         "Edoras Duskranger",
+        "Manelhon Gargon",
         "Memas Tour",
         "Palmira Natblida",
         "Runa Ruina"
@@ -10657,6 +10712,14 @@
       ]
     },
     {
+      "nombre": "Skirmisher's Mail Boots",
+      "profesion": "Peletería",
+      "calidad": "rare",
+      "personajes": [
+        "Runa Ruina"
+      ]
+    },
+    {
       "nombre": "Skulker's Leather Belt",
       "profesion": "Peletería",
       "calidad": "rare",
@@ -10695,7 +10758,8 @@
       "profesion": "Peletería",
       "calidad": "rare",
       "personajes": [
-        "Aurelio Amador"
+        "Aurelio Amador",
+        "Manelhon Gargon"
       ]
     },
     {
@@ -10927,6 +10991,7 @@
       "calidad": "uncommon",
       "personajes": [
         "Edoras Duskranger",
+        "Manelhon Gargon",
         "Memas Tour",
         "Palmira Natblida"
       ]
@@ -10937,6 +11002,7 @@
       "calidad": "uncommon",
       "personajes": [
         "Edoras Duskranger",
+        "Manelhon Gargon",
         "Memas Tour",
         "Palmira Natblida"
       ]
@@ -11640,6 +11706,7 @@
         "Mosu Warryn",
         "Palmira Natblida",
         "Runa Ruina",
+        "Samael Thallanor",
         "Shiryoku Moonfury",
         "Sugar Papy",
         "Tankesito Khrih",
@@ -12490,6 +12557,14 @@
     },
     {
       "nombre": "Felcloth Robe",
+      "profesion": "Sastrería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Finn Felagund"
+      ]
+    },
+    {
+      "nombre": "Felcloth Shoulders",
       "profesion": "Sastrería",
       "calidad": "uncommon",
       "personajes": [
