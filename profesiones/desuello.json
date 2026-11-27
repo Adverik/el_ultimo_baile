@@ -28,18 +28,18 @@
       "pct": 33
     },
     {
-      "personaje": "Memas Tour",
-      "clase": "shaman",
+      "personaje": "Aurelio Amador",
+      "clase": "rogue",
       "raider": false,
-      "nivel": 266,
+      "nivel": 274,
       "max": 300,
       "pct": 33
     },
     {
-      "personaje": "Aurelio Amador",
-      "clase": "rogue",
+      "personaje": "Memas Tour",
+      "clase": "shaman",
       "raider": false,
-      "nivel": 262,
+      "nivel": 266,
       "max": 300,
       "pct": 33
     },

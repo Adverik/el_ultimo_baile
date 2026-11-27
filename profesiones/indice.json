@@ -10,7 +10,7 @@
     "slug": "cocina",
     "nombre": "Cocina",
     "ico": "133971",
-    "artesanos": 68,
+    "artesanos": 69,
     "total": 132
   },
   {
@@ -24,7 +24,7 @@
     "slug": "encantamiento",
     "nombre": "Encantamiento",
     "ico": "136244",
-    "artesanos": 15,
+    "artesanos": 16,
     "total": 262
   },
   {
@@ -66,21 +66,21 @@
     "slug": "pesca",
     "nombre": "Pesca",
     "ico": "136245",
-    "artesanos": 54,
+    "artesanos": 55,
     "total": 3
   },
   {
     "slug": "primeros-auxilios",
     "nombre": "Primeros auxilios",
     "ico": "135966",
-    "artesanos": 50,
+    "artesanos": 51,
     "total": 32
   },
   {
     "slug": "sastreria",
     "nombre": "Sastrería",
     "ico": "136249",
-    "artesanos": 18,
+    "artesanos": 19,
     "total": 471
   }
 ]

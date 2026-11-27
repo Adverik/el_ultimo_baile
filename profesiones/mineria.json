@@ -31,9 +31,17 @@
       "personaje": "Khyoraku Shunsui",
       "clase": "warrior",
       "raider": true,
-      "nivel": 263,
+      "nivel": 274,
       "max": 300,
       "pct": 53
+    },
+    {
+      "personaje": "La Pety",
+      "clase": "rogue",
+      "raider": false,
+      "nivel": 263,
+      "max": 300,
+      "pct": 59
     },
     {
       "personaje": "Althez Sendagris",
@@ -52,18 +60,10 @@
       "pct": 53
     },
     {
-      "personaje": "La Pety",
-      "clase": "rogue",
-      "raider": false,
-      "nivel": 245,
-      "max": 300,
-      "pct": 59
-    },
-    {
       "personaje": "Flexita Shadowsoul",
       "clase": "hunter",
       "raider": false,
-      "nivel": 229,
+      "nivel": 237,
       "max": 300,
       "pct": 53
     },
@@ -534,7 +534,7 @@
           "quien": [
             1,
             2,
-            6
+            4
           ]
         },
         {

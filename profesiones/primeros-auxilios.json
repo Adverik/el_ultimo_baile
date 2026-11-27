@@ -28,6 +28,14 @@
       "pct": 62
     },
     {
+      "personaje": "La Pety",
+      "clase": "rogue",
+      "raider": false,
+      "nivel": 300,
+      "max": 300,
+      "pct": 38
+    },
+    {
       "personaje": "Shiryoku Moonfury",
       "clase": "warrior",
       "raider": false,
@@ -44,20 +52,12 @@
       "pct": 47
     },
     {
-      "personaje": "La Pety",
-      "clase": "rogue",
-      "raider": false,
-      "nivel": 293,
-      "max": 300,
-      "pct": 38
-    },
-    {
       "personaje": "Dum Bo",
       "clase": "mage",
       "raider": false,
-      "nivel": 261,
+      "nivel": 264,
       "max": 300,
-      "pct": 50
+      "pct": 69
     },
     {
       "personaje": "Llamas Xx",
@@ -380,6 +380,14 @@
       "pct": 6
     },
     {
+      "personaje": "Aeloria Shadowsoul",
+      "clase": "priest",
+      "raider": false,
+      "nivel": 1,
+      "max": 75,
+      "pct": 6
+    },
+    {
       "personaje": "Blind Minds",
       "clase": "priest",
       "raider": false,
@@ -484,7 +492,8 @@
             46,
             47,
             48,
-            49
+            49,
+            50
           ]
         },
         {
@@ -913,7 +922,7 @@
             0,
             1,
             2,
-            3
+            4
           ]
         },
         {
@@ -1013,7 +1022,7 @@
             0,
             1,
             2,
-            3,
+            4,
             6,
             7,
             8,
@@ -1067,7 +1076,8 @@
             ]
           },
           "quien": [
-            3,
+            4,
+            6,
             10,
             15
           ]
@@ -1172,6 +1182,7 @@
           },
           "quien": [
             2,
+            6,
             9,
             12,
             14
@@ -1212,8 +1223,8 @@
             0,
             1,
             2,
-            3,
             4,
+            5,
             6,
             7,
             8,
@@ -1308,7 +1319,8 @@
             ]
           },
           "quien": [
-            2
+            2,
+            6
           ]
         },
         {
@@ -1348,6 +1360,7 @@
           },
           "quien": [
             2,
+            6,
             9
           ]
         },
@@ -1390,7 +1403,7 @@
             0,
             1,
             2,
-            3,
+            4,
             6,
             7,
             8,
@@ -1443,7 +1456,8 @@
             ]
           },
           "quien": [
-            0
+            0,
+            6
           ]
         }
       ]
@@ -1554,7 +1568,7 @@
             "sub": "Otros"
           },
           "quien": [
-            3,
+            4,
             6
           ]
         },
@@ -1674,7 +1688,8 @@
             43,
             44,
             45,
-            46
+            46,
+            47
           ]
         },
         {
@@ -1788,8 +1803,8 @@
             0,
             1,
             2,
-            3,
             4,
+            5,
             6,
             7,
             8,
@@ -1850,6 +1865,7 @@
           },
           "quien": [
             0,
+            6,
             8,
             16,
             17,
@@ -1893,7 +1909,7 @@
           },
           "quien": [
             0,
-            4,
+            5,
             6,
             9
           ]

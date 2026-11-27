@@ -4067,12 +4067,12 @@
           "clase": "priest"
         },
         {
-          "n": "Dum Bo",
-          "clase": "mage"
-        },
-        {
           "n": "Sr Byron",
           "clase": "warlock"
+        },
+        {
+          "n": "Dum Bo",
+          "clase": "mage"
         }
       ]
     },
@@ -4127,12 +4127,12 @@
           "clase": "priest"
         },
         {
-          "n": "Dum Bo",
-          "clase": "mage"
-        },
-        {
           "n": "Sr Byron",
           "clase": "warlock"
+        },
+        {
+          "n": "Dum Bo",
+          "clase": "mage"
         },
         {
           "n": "Señor Ollivander",
@@ -4165,6 +4165,64 @@
         {
           "n": "Saint Peligroxa",
           "clase": "priest"
+        }
+      ]
+    },
+    {
+      "id": 10419,
+      "n": "Capa de Fuego",
+      "q": "rare",
+      "ico": "133770",
+      "reac": [
+        [
+          "Madeja de paño rúnico",
+          6
+        ],
+        [
+          "Esencia de Fuego",
+          4
+        ],
+        [
+          "Corazón de fuego",
+          4
+        ],
+        [
+          "Elemental de Fuego",
+          4
+        ],
+        [
+          "Hilo rúnico",
+          1
+        ]
+      ],
+      "obj": {
+        "arm": "39 armadura",
+        "efectos": [
+          "Usar: Causa 25 p. de daño de Fuego cada 5 s a todos los enemigos cercanos durante 15 s. (2 min de tiempo de reutilización)."
+        ],
+        "id": 14134,
+        "ilvl": 55,
+        "lig": "Se liga al equiparlo",
+        "n": "Capa de Fuego",
+        "q": "rare",
+        "ranura": "Espalda",
+        "req": 50,
+        "stats": [
+          "+6 resistencia a Fuego",
+          "+14 Daño de Fuego"
+        ],
+        "sub": "Tela",
+        "venta": [
+          "1",
+          "12",
+          "80"
+        ]
+      },
+      "profesion": "Sastrería",
+      "personajes": [
+        {
+          "n": "Sr Byron",
+          "clase": "warlock"
         }
       ]
     },
@@ -4502,12 +4560,12 @@
       "profesion": "Sastrería",
       "personajes": [
         {
-          "n": "Dum Bo",
-          "clase": "mage"
-        },
-        {
           "n": "Sr Byron",
           "clase": "warlock"
+        },
+        {
+          "n": "Dum Bo",
+          "clase": "mage"
         },
         {
           "n": "Christoph Crestanegra",
@@ -4792,15 +4850,11 @@
           "clase": "priest"
         },
         {
-          "n": "Dum Bo",
-          "clase": "mage"
-        },
-        {
           "n": "Sr Byron",
           "clase": "warlock"
         },
         {
-          "n": "Christoph Crestanegra",
+          "n": "Dum Bo",
           "clase": "mage"
         },
         {
@@ -4808,16 +4862,20 @@
           "clase": "mage"
         },
         {
+          "n": "Christoph Crestanegra",
+          "clase": "mage"
+        },
+        {
           "n": "Rhyomen Sukuna",
           "clase": "warlock"
         },
         {
-          "n": "Kadeharz Apsus",
-          "clase": "mage"
-        },
-        {
           "n": "Elfa Vorable",
           "clase": "druid"
+        },
+        {
+          "n": "Kadeharz Apsus",
+          "clase": "mage"
         },
         {
           "n": "Archi Amnesia",
@@ -4833,6 +4891,10 @@
         },
         {
           "n": "Saint Peligroxa",
+          "clase": "priest"
+        },
+        {
+          "n": "Aeloria Shadowsoul",
           "clase": "priest"
         },
         {
@@ -4897,12 +4959,12 @@
           "clase": "priest"
         },
         {
-          "n": "Dum Bo",
-          "clase": "mage"
-        },
-        {
           "n": "Sr Byron",
           "clase": "warlock"
+        },
+        {
+          "n": "Dum Bo",
+          "clase": "mage"
         },
         {
           "n": "Señor Ollivander",
@@ -4913,12 +4975,12 @@
           "clase": "warlock"
         },
         {
-          "n": "Kadeharz Apsus",
-          "clase": "mage"
-        },
-        {
           "n": "Elfa Vorable",
           "clase": "druid"
+        },
+        {
+          "n": "Kadeharz Apsus",
+          "clase": "mage"
         },
         {
           "n": "Archi Amnesia",
@@ -4934,6 +4996,10 @@
         },
         {
           "n": "Saint Peligroxa",
+          "clase": "priest"
+        },
+        {
+          "n": "Aeloria Shadowsoul",
           "clase": "priest"
         },
         {
@@ -5348,12 +5414,16 @@
           "clase": "priest"
         },
         {
+          "n": "Sr Byron",
+          "clase": "warlock"
+        },
+        {
           "n": "Dum Bo",
           "clase": "mage"
         },
         {
-          "n": "Sr Byron",
-          "clase": "warlock"
+          "n": "Señor Ollivander",
+          "clase": "mage"
         }
       ]
     },
@@ -5415,6 +5485,64 @@
       ]
     },
     {
+      "id": 55528,
+      "n": "Guantes áureos",
+      "q": "rare",
+      "ico": "132945",
+      "reac": [
+        [
+          "Madeja de paño rúnico",
+          8
+        ],
+        [
+          "Hilo de seda pesada",
+          4
+        ],
+        [
+          "Tinte magenta",
+          4
+        ],
+        [
+          "Tinte cerúleo",
+          4
+        ],
+        [
+          "Lingote de oro",
+          4
+        ]
+      ],
+      "obj": {
+        "arm": "49 armadura",
+        "id": 254095,
+        "ilvl": 55,
+        "lig": "Se liga al recogerlo",
+        "n": "Guantes áureos",
+        "q": "rare",
+        "ranura": "Manos",
+        "req": 50,
+        "stats": [
+          "+10 intelecto",
+          "+9 aguante",
+          "+10 Daño con hechizos",
+          "+29 Sanación con hechizos",
+          "+8 espíritu"
+        ],
+        "sub": "Tela",
+        "venta": [
+          "0",
+          "79",
+          "15"
+        ]
+      },
+      "profesion": "Sastrería",
+      "personajes": [
+        {
+          "n": "Sr Byron",
+          "clase": "warlock"
+        }
+      ]
+    },
+    {
       "id": 55530,
       "n": "Guantes ígneos",
       "q": "rare",
@@ -5468,6 +5596,10 @@
         {
           "n": "Finn Felagund",
           "clase": "priest"
+        },
+        {
+          "n": "Sr Byron",
+          "clase": "warlock"
         }
       ]
     },
@@ -5522,12 +5654,16 @@
           "clase": "priest"
         },
         {
+          "n": "Sr Byron",
+          "clase": "warlock"
+        },
+        {
           "n": "Dum Bo",
           "clase": "mage"
         },
         {
-          "n": "Sr Byron",
-          "clase": "warlock"
+          "n": "Señor Ollivander",
+          "clase": "mage"
         }
       ]
     },
@@ -5917,12 +6053,16 @@
           "clase": "priest"
         },
         {
+          "n": "Sr Byron",
+          "clase": "warlock"
+        },
+        {
           "n": "Dum Bo",
           "clase": "mage"
         },
         {
-          "n": "Sr Byron",
-          "clase": "warlock"
+          "n": "Señor Ollivander",
+          "clase": "mage"
         },
         {
           "n": "Elfa Vorable",
@@ -5986,12 +6126,16 @@
       "profesion": "Sastrería",
       "personajes": [
         {
+          "n": "Sr Byron",
+          "clase": "warlock"
+        },
+        {
           "n": "Dum Bo",
           "clase": "mage"
         },
         {
-          "n": "Sr Byron",
-          "clase": "warlock"
+          "n": "Señor Ollivander",
+          "clase": "mage"
         },
         {
           "n": "Elfa Vorable",
@@ -6059,12 +6203,16 @@
           "clase": "priest"
         },
         {
+          "n": "Sr Byron",
+          "clase": "warlock"
+        },
+        {
           "n": "Dum Bo",
           "clase": "mage"
         },
         {
-          "n": "Sr Byron",
-          "clase": "warlock"
+          "n": "Señor Ollivander",
+          "clase": "mage"
         },
         {
           "n": "Elfa Vorable",
@@ -6128,12 +6276,16 @@
       "profesion": "Sastrería",
       "personajes": [
         {
+          "n": "Sr Byron",
+          "clase": "warlock"
+        },
+        {
           "n": "Dum Bo",
           "clase": "mage"
         },
         {
-          "n": "Sr Byron",
-          "clase": "warlock"
+          "n": "Señor Ollivander",
+          "clase": "mage"
         },
         {
           "n": "Christoph Crestanegra",
@@ -6205,12 +6357,16 @@
           "clase": "priest"
         },
         {
+          "n": "Sr Byron",
+          "clase": "warlock"
+        },
+        {
           "n": "Dum Bo",
           "clase": "mage"
         },
         {
-          "n": "Sr Byron",
-          "clase": "warlock"
+          "n": "Señor Ollivander",
+          "clase": "mage"
         },
         {
           "n": "Elfa Vorable",
@@ -6279,12 +6435,16 @@
           "clase": "priest"
         },
         {
+          "n": "Sr Byron",
+          "clase": "warlock"
+        },
+        {
           "n": "Dum Bo",
           "clase": "mage"
         },
         {
-          "n": "Sr Byron",
-          "clase": "warlock"
+          "n": "Señor Ollivander",
+          "clase": "mage"
         },
         {
           "n": "Elfa Vorable",
@@ -6348,12 +6508,16 @@
       "profesion": "Sastrería",
       "personajes": [
         {
+          "n": "Sr Byron",
+          "clase": "warlock"
+        },
+        {
           "n": "Dum Bo",
           "clase": "mage"
         },
         {
-          "n": "Sr Byron",
-          "clase": "warlock"
+          "n": "Señor Ollivander",
+          "clase": "mage"
         },
         {
           "n": "Elfa Vorable",

@@ -23,7 +23,7 @@
       "personaje": "Dio Hotmetal",
       "clase": "hunter",
       "raider": false,
-      "nivel": 293,
+      "nivel": 294,
       "max": 300,
       "pct": 33
     },
@@ -103,7 +103,7 @@
       "personaje": "Ibu Profenus",
       "clase": "shaman",
       "raider": false,
-      "nivel": 77,
+      "nivel": 80,
       "max": 150,
       "pct": 33
     },

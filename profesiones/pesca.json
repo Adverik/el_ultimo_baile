@@ -111,7 +111,7 @@
       "personaje": "Edoras Duskranger",
       "clase": "hunter",
       "raider": true,
-      "nivel": 154,
+      "nivel": 158,
       "max": 225,
       "pct": 33
     },
@@ -180,6 +180,14 @@
       "pct": 33
     },
     {
+      "personaje": "Dio Hotmetal",
+      "clase": "hunter",
+      "raider": false,
+      "nivel": 120,
+      "max": 150,
+      "pct": 33
+    },
+    {
       "personaje": "Flexita Shadowsoul",
       "clase": "hunter",
       "raider": false,
@@ -200,14 +208,6 @@
       "clase": "warlock",
       "raider": false,
       "nivel": 111,
-      "max": 150,
-      "pct": 33
-    },
-    {
-      "personaje": "Dio Hotmetal",
-      "clase": "hunter",
-      "raider": false,
-      "nivel": 107,
       "max": 150,
       "pct": 33
     },
@@ -344,6 +344,14 @@
       "clase": "druid",
       "raider": false,
       "nivel": 8,
+      "max": 75,
+      "pct": 0
+    },
+    {
+      "personaje": "Aeloria Shadowsoul",
+      "clase": "priest",
+      "raider": false,
+      "nivel": 1,
       "max": 75,
       "pct": 0
     },

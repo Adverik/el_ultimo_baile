@@ -2,6 +2,38 @@
   "actualizado": "2026-11-27",
   "artesanos": [
     {
+      "personaje": "Aeloria Shadowsoul",
+      "clase": "priest",
+      "raider": false,
+      "profesiones": [
+        {
+          "nombre": "Sastrería",
+          "nivel": 104,
+          "max": 150
+        },
+        {
+          "nombre": "Encantamiento",
+          "nivel": 52,
+          "max": 75
+        },
+        {
+          "nombre": "Cocina",
+          "nivel": 1,
+          "max": 75
+        },
+        {
+          "nombre": "Pesca",
+          "nivel": 1,
+          "max": 75
+        },
+        {
+          "nombre": "Primeros auxilios",
+          "nivel": 1,
+          "max": 75
+        }
+      ]
+    },
+    {
       "personaje": "Althez Sendagris",
       "clase": "paladin",
       "raider": false,
@@ -126,7 +158,7 @@
         },
         {
           "nombre": "Desuello",
-          "nivel": 262,
+          "nivel": 274,
           "max": 300
         },
         {
@@ -480,7 +512,7 @@
         },
         {
           "nombre": "Herboristería",
-          "nivel": 293,
+          "nivel": 294,
           "max": 300
         },
         {
@@ -490,7 +522,7 @@
         },
         {
           "nombre": "Pesca",
-          "nivel": 107,
+          "nivel": 120,
           "max": 150
         },
         {
@@ -549,7 +581,7 @@
         },
         {
           "nombre": "Primeros auxilios",
-          "nivel": 261,
+          "nivel": 264,
           "max": 300
         }
       ]
@@ -571,12 +603,12 @@
         },
         {
           "nombre": "Cocina",
-          "nivel": 270,
+          "nivel": 282,
           "max": 300
         },
         {
           "nombre": "Pesca",
-          "nivel": 154,
+          "nivel": 158,
           "max": 225
         },
         {
@@ -593,7 +625,7 @@
       "profesiones": [
         {
           "nombre": "Sastrería",
-          "nivel": 160,
+          "nivel": 167,
           "max": 225
         },
         {
@@ -819,7 +851,7 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 229,
+          "nivel": 237,
           "max": 300
         },
         {
@@ -974,12 +1006,12 @@
         },
         {
           "nombre": "Herboristería",
-          "nivel": 77,
+          "nivel": 80,
           "max": 150
         },
         {
           "nombre": "Cocina",
-          "nivel": 5,
+          "nivel": 10,
           "max": 75
         },
         {
@@ -1104,7 +1136,7 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 263,
+          "nivel": 274,
           "max": 300
         },
         {
@@ -1168,7 +1200,7 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 245,
+          "nivel": 263,
           "max": 300
         },
         {
@@ -1188,7 +1220,7 @@
         },
         {
           "nombre": "Primeros auxilios",
-          "nivel": 293,
+          "nivel": 300,
           "max": 300
         }
       ]
@@ -1623,12 +1655,12 @@
       "profesiones": [
         {
           "nombre": "Sastrería",
-          "nivel": 193,
+          "nivel": 211,
           "max": 225
         },
         {
           "nombre": "Alquimia",
-          "nivel": 119,
+          "nivel": 150,
           "max": 150
         },
         {
@@ -1687,7 +1719,7 @@
       "profesiones": [
         {
           "nombre": "Sastrería",
-          "nivel": 231,
+          "nivel": 242,
           "max": 300
         },
         {
@@ -2031,6 +2063,7 @@
         "Genethika Brisaveloz",
         "Ibu Profenus",
         "Layrela Rondanit",
+        "Señor Ollivander",
         "Sugar Papy"
       ]
     },
@@ -2126,6 +2159,7 @@
         "Genethika Brisaveloz",
         "Ibu Profenus",
         "Layrela Rondanit",
+        "Señor Ollivander",
         "Sugar Papy"
       ]
     },
@@ -2192,6 +2226,7 @@
         "Fran Furion",
         "Genethika Brisaveloz",
         "Layrela Rondanit",
+        "Señor Ollivander",
         "Sugar Papy"
       ]
     },
@@ -2259,6 +2294,7 @@
         "Fran Furion",
         "Genethika Brisaveloz",
         "Layrela Rondanit",
+        "Señor Ollivander",
         "Sugar Papy"
       ]
     },
@@ -2373,6 +2409,7 @@
         "Genethika Brisaveloz",
         "Ibu Profenus",
         "Layrela Rondanit",
+        "Señor Ollivander",
         "Sugar Papy"
       ]
     },
@@ -2411,6 +2448,7 @@
         "Fran Furion",
         "Genethika Brisaveloz",
         "Layrela Rondanit",
+        "Señor Ollivander",
         "Sugar Papy"
       ]
     },
@@ -2591,6 +2629,7 @@
         "Fran Furion",
         "Genethika Brisaveloz",
         "Layrela Rondanit",
+        "Señor Ollivander",
         "Sugar Papy"
       ]
     },
@@ -2614,6 +2653,7 @@
         "Fran Furion",
         "Genethika Brisaveloz",
         "Layrela Rondanit",
+        "Señor Ollivander",
         "Sugar Papy"
       ]
     },
@@ -2636,6 +2676,7 @@
         "Fran Furion",
         "Genethika Brisaveloz",
         "Layrela Rondanit",
+        "Señor Ollivander",
         "Sugar Papy"
       ]
     },
@@ -2952,7 +2993,8 @@
       "profesion": "Alquimia",
       "calidad": "common",
       "personajes": [
-        "Betadine Pervinox"
+        "Betadine Pervinox",
+        "Ibu Profenus"
       ]
     },
     {
@@ -2966,6 +3008,7 @@
         "Fran Furion",
         "Genethika Brisaveloz",
         "Layrela Rondanit",
+        "Señor Ollivander",
         "Sugar Papy"
       ]
     },
@@ -3068,6 +3111,7 @@
       "profesion": "Cocina",
       "calidad": "common",
       "personajes": [
+        "Aeloria Shadowsoul",
         "Althez Sendagris",
         "Archi Amnesia",
         "Armando Buya",
@@ -3379,6 +3423,7 @@
       "profesion": "Cocina",
       "calidad": "common",
       "personajes": [
+        "Aeloria Shadowsoul",
         "Althez Sendagris",
         "Archi Amnesia",
         "Armando Buya",
@@ -3900,6 +3945,7 @@
       "profesion": "Cocina",
       "calidad": "common",
       "personajes": [
+        "Aeloria Shadowsoul",
         "Althez Sendagris",
         "Archi Amnesia",
         "Armando Buya",
@@ -4186,6 +4232,7 @@
       "calidad": "common",
       "personajes": [
         "Coloso Tempestad",
+        "Edoras Duskranger",
         "Finn Felagund",
         "Sugar Papy"
       ]
@@ -4244,6 +4291,7 @@
       "calidad": "common",
       "personajes": [
         "Coloso Tempestad",
+        "Edoras Duskranger",
         "Finn Felagund",
         "Shiryoku Moonfury",
         "Sugar Papy"
@@ -4337,6 +4385,7 @@
       "profesion": "Cocina",
       "calidad": "common",
       "personajes": [
+        "Aeloria Shadowsoul",
         "Althez Sendagris",
         "Archi Amnesia",
         "Armando Buya",
@@ -5008,6 +5057,7 @@
       "profesion": "Encantamiento",
       "calidad": "common",
       "personajes": [
+        "Aeloria Shadowsoul",
         "Archi Amnesia",
         "Bartolo Tololo",
         "Christoph Crestanegra",
@@ -5038,6 +5088,7 @@
       "profesion": "Encantamiento",
       "calidad": "common",
       "personajes": [
+        "Aeloria Shadowsoul",
         "Archi Amnesia",
         "Bartolo Tololo",
         "Christoph Crestanegra",
@@ -5240,6 +5291,7 @@
       "profesion": "Encantamiento",
       "calidad": "common",
       "personajes": [
+        "Aeloria Shadowsoul",
         "Archi Amnesia",
         "Bartolo Tololo",
         "Christoph Crestanegra",
@@ -5339,6 +5391,7 @@
       "profesion": "Encantamiento",
       "calidad": "common",
       "personajes": [
+        "Aeloria Shadowsoul",
         "Archi Amnesia",
         "Bartolo Tololo",
         "Christoph Crestanegra",
@@ -5459,6 +5512,7 @@
       "profesion": "Encantamiento",
       "calidad": "common",
       "personajes": [
+        "Aeloria Shadowsoul",
         "Bartolo Tololo",
         "Dum Bo",
         "Elfa Vorable",
@@ -5530,6 +5584,7 @@
       "profesion": "Encantamiento",
       "calidad": "common",
       "personajes": [
+        "Aeloria Shadowsoul",
         "Bartolo Tololo",
         "Dum Bo",
         "Elfa Vorable",
@@ -5547,6 +5602,7 @@
       "profesion": "Encantamiento",
       "calidad": "common",
       "personajes": [
+        "Aeloria Shadowsoul",
         "Bartolo Tololo",
         "Dum Bo",
         "Elfa Vorable",
@@ -5987,6 +6043,7 @@
       "profesion": "Encantamiento",
       "calidad": "common",
       "personajes": [
+        "Aeloria Shadowsoul",
         "Bartolo Tololo",
         "Christoph Crestanegra",
         "Dum Bo",
@@ -6053,6 +6110,7 @@
       "profesion": "Encantamiento",
       "calidad": "uncommon",
       "personajes": [
+        "Aeloria Shadowsoul",
         "Bartolo Tololo",
         "Christoph Crestanegra",
         "Dum Bo",
@@ -6105,6 +6163,7 @@
       "profesion": "Encantamiento",
       "calidad": "common",
       "personajes": [
+        "Aeloria Shadowsoul",
         "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
@@ -6127,6 +6186,7 @@
       "profesion": "Encantamiento",
       "calidad": "common",
       "personajes": [
+        "Aeloria Shadowsoul",
         "Archi Amnesia",
         "Bartolo Tololo",
         "Christoph Crestanegra",
@@ -6149,6 +6209,7 @@
       "profesion": "Encantamiento",
       "calidad": "common",
       "personajes": [
+        "Aeloria Shadowsoul",
         "Archi Amnesia",
         "Bartolo Tololo",
         "Christoph Crestanegra",
@@ -11179,6 +11240,7 @@
       "profesion": "Pesca",
       "calidad": "common",
       "personajes": [
+        "Aeloria Shadowsoul",
         "Althez Sendagris",
         "Archi Amnesia",
         "Aynita Again",
@@ -11250,6 +11312,7 @@
       "profesion": "Primeros auxilios",
       "calidad": "common",
       "personajes": [
+        "Dum Bo",
         "Flexita Shadowsoul",
         "Layrela Rondanit"
       ]
@@ -11311,6 +11374,7 @@
       "calidad": "common",
       "personajes": [
         "Coloso Tempestad",
+        "Dum Bo",
         "Genethika Brisaveloz",
         "Ildaren Belisar",
         "Kroketa Torreja",
@@ -11484,6 +11548,7 @@
       "profesion": "Primeros auxilios",
       "calidad": "common",
       "personajes": [
+        "Dum Bo",
         "Flexita Shadowsoul",
         "Layrela Rondanit",
         "Palmira Natblida",
@@ -11537,6 +11602,7 @@
       "profesion": "Primeros auxilios",
       "calidad": "common",
       "personajes": [
+        "Aeloria Shadowsoul",
         "Archi Amnesia",
         "Arthas Yevon",
         "Aurelio Amador",
@@ -11616,6 +11682,7 @@
       "profesion": "Primeros auxilios",
       "calidad": "common",
       "personajes": [
+        "Aeloria Shadowsoul",
         "Archi Amnesia",
         "Arthas Yevon",
         "Aurelio Amador",
@@ -11667,7 +11734,8 @@
       "profesion": "Primeros auxilios",
       "calidad": "common",
       "personajes": [
-        "Coloso Tempestad"
+        "Coloso Tempestad",
+        "Dum Bo"
       ]
     },
     {
@@ -11751,6 +11819,7 @@
       "profesion": "Primeros auxilios",
       "calidad": "common",
       "personajes": [
+        "Dum Bo",
         "Españoleitor Españoleitor",
         "Runa Ruina",
         "Shiryoku Moonfury"
@@ -11772,6 +11841,7 @@
       "profesion": "Primeros auxilios",
       "calidad": "common",
       "personajes": [
+        "Dum Bo",
         "Flexita Shadowsoul"
       ]
     },
@@ -11866,6 +11936,7 @@
       "profesion": "Sastrería",
       "calidad": "uncommon",
       "personajes": [
+        "Dum Bo",
         "Kadeharz Apsus"
       ]
     },
@@ -11879,6 +11950,7 @@
         "Elfa Vorable",
         "Finn Felagund",
         "Rhyomen Sukuna",
+        "Señor Ollivander",
         "Sr Byron"
       ]
     },
@@ -11940,6 +12012,7 @@
         "Kadeharz Apsus",
         "Nimassus Pater",
         "Rhyomen Sukuna",
+        "Señor Ollivander",
         "Sr Byron"
       ]
     },
@@ -11948,6 +12021,7 @@
       "profesion": "Sastrería",
       "calidad": "uncommon",
       "personajes": [
+        "Aeloria Shadowsoul",
         "Archi Amnesia",
         "Bartolo Tololo",
         "Blind Minds",
@@ -11981,6 +12055,7 @@
         "Christoph Crestanegra",
         "Dum Bo",
         "Finn Felagund",
+        "Señor Ollivander",
         "Sr Byron"
       ]
     },
@@ -12002,6 +12077,7 @@
         "Dum Bo",
         "Finn Felagund",
         "Rhyomen Sukuna",
+        "Señor Ollivander",
         "Sr Byron"
       ]
     },
@@ -12012,6 +12088,7 @@
       "personajes": [
         "Dum Bo",
         "Finn Felagund",
+        "Señor Ollivander",
         "Sr Byron"
       ]
     },
@@ -12033,6 +12110,7 @@
         "Dum Bo",
         "Finn Felagund",
         "Rhyomen Sukuna",
+        "Señor Ollivander",
         "Sr Byron"
       ]
     },
@@ -12053,6 +12131,7 @@
         "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
+        "Señor Ollivander",
         "Sr Byron"
       ]
     },
@@ -12070,6 +12149,7 @@
       "profesion": "Sastrería",
       "calidad": "common",
       "personajes": [
+        "Aeloria Shadowsoul",
         "Archi Amnesia",
         "Bartolo Tololo",
         "Dum Bo",
@@ -12109,6 +12189,7 @@
       "profesion": "Sastrería",
       "calidad": "common",
       "personajes": [
+        "Aeloria Shadowsoul",
         "Archi Amnesia",
         "Aynita Again",
         "Bartolo Tololo",
@@ -12181,6 +12262,7 @@
       "profesion": "Sastrería",
       "calidad": "common",
       "personajes": [
+        "Aeloria Shadowsoul",
         "Archi Amnesia",
         "Bartolo Tololo",
         "Christoph Crestanegra",
@@ -12202,6 +12284,7 @@
       "profesion": "Sastrería",
       "calidad": "uncommon",
       "personajes": [
+        "Dum Bo",
         "Señor Ollivander"
       ]
     },
@@ -12234,6 +12317,7 @@
       "profesion": "Sastrería",
       "calidad": "uncommon",
       "personajes": [
+        "Aeloria Shadowsoul",
         "Archi Amnesia",
         "Bartolo Tololo",
         "Blind Minds",
@@ -12253,6 +12337,7 @@
       "profesion": "Sastrería",
       "calidad": "uncommon",
       "personajes": [
+        "Aeloria Shadowsoul",
         "Archi Amnesia",
         "Bartolo Tololo",
         "Blind Minds",
@@ -12272,6 +12357,7 @@
       "profesion": "Sastrería",
       "calidad": "common",
       "personajes": [
+        "Aeloria Shadowsoul",
         "Archi Amnesia",
         "Aynita Again",
         "Bartolo Tololo",
@@ -12297,6 +12383,7 @@
       "profesion": "Sastrería",
       "calidad": "common",
       "personajes": [
+        "Aeloria Shadowsoul",
         "Archi Amnesia",
         "Bartolo Tololo",
         "Dum Bo",
@@ -12327,6 +12414,7 @@
       "personajes": [
         "Dum Bo",
         "Finn Felagund",
+        "Señor Ollivander",
         "Sr Byron"
       ]
     },
@@ -12334,6 +12422,14 @@
       "nombre": "Cindercloth Vest",
       "profesion": "Sastrería",
       "calidad": "uncommon",
+      "personajes": [
+        "Sr Byron"
+      ]
+    },
+    {
+      "nombre": "Cloak of Fire",
+      "profesion": "Sastrería",
+      "calidad": "rare",
       "personajes": [
         "Sr Byron"
       ]
@@ -12362,6 +12458,7 @@
         "Finn Felagund",
         "Micro Bolas",
         "Rhyomen Sukuna",
+        "Señor Ollivander",
         "Sr Byron"
       ]
     },
@@ -12381,6 +12478,7 @@
       "personajes": [
         "Dum Bo",
         "Finn Felagund",
+        "Señor Ollivander",
         "Sr Byron"
       ]
     },
@@ -12393,6 +12491,7 @@
         "Elfa Vorable",
         "Finn Felagund",
         "Rhyomen Sukuna",
+        "Señor Ollivander",
         "Sr Byron"
       ]
     },
@@ -12403,6 +12502,14 @@
       "personajes": [
         "Dum Bo",
         "Finn Felagund"
+      ]
+    },
+    {
+      "nombre": "Crimson Silk Shoulders",
+      "profesion": "Sastrería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Dum Bo"
       ]
     },
     {
@@ -12435,6 +12542,7 @@
       "profesion": "Sastrería",
       "calidad": "uncommon",
       "personajes": [
+        "Aeloria Shadowsoul",
         "Archi Amnesia",
         "Bartolo Tololo",
         "Dum Bo",
@@ -12465,6 +12573,7 @@
       "personajes": [
         "Dum Bo",
         "Finn Felagund",
+        "Señor Ollivander",
         "Sr Byron"
       ]
     },
@@ -12475,11 +12584,20 @@
       "personajes": [
         "Dum Bo",
         "Finn Felagund",
+        "Señor Ollivander",
         "Sr Byron"
       ]
     },
     {
       "nombre": "Earthen Silk Belt",
+      "profesion": "Sastrería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Dum Bo"
+      ]
+    },
+    {
+      "nombre": "Earthen Silk Gloves",
       "profesion": "Sastrería",
       "calidad": "uncommon",
       "personajes": [
@@ -12538,6 +12656,7 @@
       "profesion": "Sastrería",
       "calidad": "common",
       "personajes": [
+        "Aeloria Shadowsoul",
         "Archi Amnesia",
         "Bartolo Tololo",
         "Blind Minds",
@@ -12576,7 +12695,8 @@
       "profesion": "Sastrería",
       "calidad": "rare",
       "personajes": [
-        "Finn Felagund"
+        "Finn Felagund",
+        "Sr Byron"
       ]
     },
     {
@@ -12587,6 +12707,7 @@
         "Archi Amnesia",
         "Dum Bo",
         "Elfa Vorable",
+        "Señor Ollivander",
         "Sr Byron"
       ]
     },
@@ -12731,6 +12852,7 @@
         "Finn Felagund",
         "Micro Bolas",
         "Rhyomen Sukuna",
+        "Señor Ollivander",
         "Sr Byron"
       ]
     },
@@ -12761,11 +12883,20 @@
         "Christoph Crestanegra",
         "Dum Bo",
         "Elfa Vorable",
+        "Señor Ollivander",
         "Sr Byron"
       ]
     },
     {
       "nombre": "Gilded Cord",
+      "profesion": "Sastrería",
+      "calidad": "rare",
+      "personajes": [
+        "Sr Byron"
+      ]
+    },
+    {
+      "nombre": "Gilded Gloves",
       "profesion": "Sastrería",
       "calidad": "rare",
       "personajes": [
@@ -12781,6 +12912,7 @@
         "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
+        "Señor Ollivander",
         "Sr Byron"
       ]
     },
@@ -12810,6 +12942,7 @@
         "Archi Amnesia",
         "Dum Bo",
         "Elfa Vorable",
+        "Señor Ollivander",
         "Sr Byron"
       ]
     },
@@ -12827,6 +12960,7 @@
       "profesion": "Sastrería",
       "calidad": "common",
       "personajes": [
+        "Aeloria Shadowsoul",
         "Archi Amnesia",
         "Bartolo Tololo",
         "Dum Bo",
@@ -12856,6 +12990,7 @@
       "profesion": "Sastrería",
       "calidad": "uncommon",
       "personajes": [
+        "Aeloria Shadowsoul",
         "Archi Amnesia",
         "Bartolo Tololo",
         "Blind Minds",
@@ -12876,6 +13011,7 @@
       "profesion": "Sastrería",
       "calidad": "common",
       "personajes": [
+        "Aeloria Shadowsoul",
         "Archi Amnesia",
         "Bartolo Tololo",
         "Christoph Crestanegra",
@@ -12916,6 +13052,7 @@
         "Elfa Vorable",
         "Finn Felagund",
         "Rhyomen Sukuna",
+        "Señor Ollivander",
         "Sr Byron"
       ]
     },
@@ -12936,6 +13073,7 @@
       "profesion": "Sastrería",
       "calidad": "uncommon",
       "personajes": [
+        "Aeloria Shadowsoul",
         "Archi Amnesia",
         "Bartolo Tololo",
         "Dum Bo",
@@ -12963,6 +13101,7 @@
       "profesion": "Sastrería",
       "calidad": "uncommon",
       "personajes": [
+        "Aeloria Shadowsoul",
         "Archi Amnesia",
         "Bartolo Tololo",
         "Christoph Crestanegra",
@@ -12983,6 +13122,7 @@
       "profesion": "Sastrería",
       "calidad": "uncommon",
       "personajes": [
+        "Aeloria Shadowsoul",
         "Archi Amnesia",
         "Bartolo Tololo",
         "Blind Minds",
@@ -13015,6 +13155,7 @@
       "profesion": "Sastrería",
       "calidad": "uncommon",
       "personajes": [
+        "Aeloria Shadowsoul",
         "Archi Amnesia",
         "Bartolo Tololo",
         "Dum Bo",
@@ -13033,6 +13174,7 @@
       "profesion": "Sastrería",
       "calidad": "uncommon",
       "personajes": [
+        "Aeloria Shadowsoul",
         "Archi Amnesia",
         "Bartolo Tololo",
         "Dum Bo",
@@ -13051,6 +13193,7 @@
       "calidad": "uncommon",
       "personajes": [
         "Christoph Crestanegra",
+        "Dum Bo",
         "Señor Ollivander"
       ]
     },
@@ -13087,6 +13230,7 @@
       "profesion": "Sastrería",
       "calidad": "common",
       "personajes": [
+        "Aeloria Shadowsoul",
         "Archi Amnesia",
         "Aynita Again",
         "Bartolo Tololo",
@@ -13112,6 +13256,7 @@
       "profesion": "Sastrería",
       "calidad": "common",
       "personajes": [
+        "Aeloria Shadowsoul",
         "Archi Amnesia",
         "Bartolo Tololo",
         "Blind Minds",
@@ -13132,6 +13277,7 @@
       "profesion": "Sastrería",
       "calidad": "uncommon",
       "personajes": [
+        "Aeloria Shadowsoul",
         "Archi Amnesia",
         "Bartolo Tololo",
         "Blind Minds",
@@ -13152,6 +13298,7 @@
       "profesion": "Sastrería",
       "calidad": "common",
       "personajes": [
+        "Aeloria Shadowsoul",
         "Archi Amnesia",
         "Aynita Again",
         "Bartolo Tololo",
@@ -13177,6 +13324,7 @@
       "profesion": "Sastrería",
       "calidad": "common",
       "personajes": [
+        "Aeloria Shadowsoul",
         "Archi Amnesia",
         "Bartolo Tololo",
         "Blind Minds",
@@ -13201,6 +13349,7 @@
         "Elfa Vorable",
         "Finn Felagund",
         "Rhyomen Sukuna",
+        "Señor Ollivander",
         "Sr Byron"
       ]
     },
@@ -13212,6 +13361,7 @@
         "Dum Bo",
         "Finn Felagund",
         "Rhyomen Sukuna",
+        "Señor Ollivander",
         "Sr Byron"
       ]
     },
@@ -13236,6 +13386,7 @@
       "profesion": "Sastrería",
       "calidad": "rare",
       "personajes": [
+        "Aeloria Shadowsoul",
         "Archi Amnesia",
         "Bartolo Tololo",
         "Blind Minds",
@@ -13258,6 +13409,7 @@
       "profesion": "Sastrería",
       "calidad": "rare",
       "personajes": [
+        "Aeloria Shadowsoul",
         "Archi Amnesia",
         "Bartolo Tololo",
         "Dum Bo",
@@ -13280,6 +13432,7 @@
       "personajes": [
         "Dum Bo",
         "Finn Felagund",
+        "Señor Ollivander",
         "Sr Byron"
       ]
     },
@@ -13298,6 +13451,7 @@
       "profesion": "Sastrería",
       "calidad": "uncommon",
       "personajes": [
+        "Aeloria Shadowsoul",
         "Archi Amnesia",
         "Bartolo Tololo",
         "Dum Bo",
@@ -13356,6 +13510,7 @@
         "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
+        "Señor Ollivander",
         "Sr Byron"
       ]
     },
@@ -13388,6 +13543,7 @@
       "profesion": "Sastrería",
       "calidad": "common",
       "personajes": [
+        "Aeloria Shadowsoul",
         "Archi Amnesia",
         "Bartolo Tololo",
         "Dum Bo",
@@ -13463,6 +13619,7 @@
         "Elfa Vorable",
         "Finn Felagund",
         "Rhyomen Sukuna",
+        "Señor Ollivander",
         "Sr Byron"
       ]
     },
@@ -13497,6 +13654,7 @@
       "profesion": "Sastrería",
       "calidad": "uncommon",
       "personajes": [
+        "Aeloria Shadowsoul",
         "Archi Amnesia",
         "Bartolo Tololo",
         "Blind Minds",
@@ -13533,6 +13691,7 @@
         "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
+        "Señor Ollivander",
         "Sr Byron"
       ]
     },
@@ -13647,6 +13806,7 @@
         "Finn Felagund",
         "Kadeharz Apsus",
         "Rhyomen Sukuna",
+        "Señor Ollivander",
         "Sr Byron"
       ]
     },
@@ -13665,6 +13825,7 @@
       "profesion": "Sastrería",
       "calidad": "common",
       "personajes": [
+        "Aeloria Shadowsoul",
         "Archi Amnesia",
         "Bartolo Tololo",
         "Dum Bo",
@@ -13683,6 +13844,7 @@
       "profesion": "Sastrería",
       "calidad": "uncommon",
       "personajes": [
+        "Aeloria Shadowsoul",
         "Archi Amnesia",
         "Bartolo Tololo",
         "Christoph Crestanegra",
@@ -13702,6 +13864,7 @@
       "profesion": "Sastrería",
       "calidad": "common",
       "personajes": [
+        "Aeloria Shadowsoul",
         "Archi Amnesia",
         "Bartolo Tololo",
         "Dum Bo",
@@ -13720,6 +13883,7 @@
       "profesion": "Sastrería",
       "calidad": "common",
       "personajes": [
+        "Aeloria Shadowsoul",
         "Archi Amnesia",
         "Aynita Again",
         "Bartolo Tololo",
@@ -13763,6 +13927,7 @@
       "profesion": "Sastrería",
       "calidad": "uncommon",
       "personajes": [
+        "Aeloria Shadowsoul",
         "Archi Amnesia",
         "Bartolo Tololo",
         "Dum Bo",
@@ -13854,6 +14019,7 @@
       "profesion": "Sastrería",
       "calidad": "common",
       "personajes": [
+        "Aeloria Shadowsoul",
         "Archi Amnesia",
         "Dum Bo",
         "Elfa Vorable",
@@ -13895,6 +14061,7 @@
       "profesion": "Sastrería",
       "calidad": "uncommon",
       "personajes": [
+        "Aeloria Shadowsoul",
         "Archi Amnesia",
         "Bartolo Tololo",
         "Blind Minds",
@@ -13914,6 +14081,7 @@
       "profesion": "Sastrería",
       "calidad": "common",
       "personajes": [
+        "Aeloria Shadowsoul",
         "Archi Amnesia",
         "Bartolo Tololo",
         "Dum Bo",
@@ -13939,6 +14107,7 @@
         "Finn Felagund",
         "Kadeharz Apsus",
         "Rhyomen Sukuna",
+        "Señor Ollivander",
         "Sr Byron"
       ]
     },
@@ -13958,6 +14127,7 @@
       "profesion": "Sastrería",
       "calidad": "uncommon",
       "personajes": [
+        "Aeloria Shadowsoul",
         "Archi Amnesia",
         "Bartolo Tololo",
         "Dum Bo",
@@ -13974,6 +14144,7 @@
       "profesion": "Sastrería",
       "calidad": "common",
       "personajes": [
+        "Aeloria Shadowsoul",
         "Archi Amnesia",
         "Bartolo Tololo",
         "Christoph Crestanegra",
@@ -13992,6 +14163,7 @@
       "profesion": "Sastrería",
       "calidad": "uncommon",
       "personajes": [
+        "Aeloria Shadowsoul",
         "Archi Amnesia",
         "Bartolo Tololo",
         "Christoph Crestanegra",
@@ -14011,6 +14183,7 @@
       "profesion": "Sastrería",
       "calidad": "uncommon",
       "personajes": [
+        "Aeloria Shadowsoul",
         "Archi Amnesia",
         "Bartolo Tololo",
         "Dum Bo",
@@ -14031,6 +14204,7 @@
       "profesion": "Sastrería",
       "calidad": "common",
       "personajes": [
+        "Aeloria Shadowsoul",
         "Archi Amnesia",
         "Bartolo Tololo",
         "Christoph Crestanegra",

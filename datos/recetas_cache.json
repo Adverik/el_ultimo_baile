@@ -1503,6 +1503,10 @@
     "calidad": "uncommon",
     "objeto": true
   },
+  "4873": {
+    "calidad": "uncommon",
+    "objeto": true
+  },
   "4874": {
     "calidad": "uncommon",
     "objeto": true
@@ -2575,6 +2579,10 @@
     "calidad": "uncommon",
     "objeto": true
   },
+  "10419": {
+    "calidad": "rare",
+    "objeto": true
+  },
   "10420": {
     "calidad": "uncommon",
     "objeto": true
@@ -3447,6 +3455,10 @@
     "calidad": "uncommon",
     "objeto": true
   },
+  "55489": {
+    "calidad": "uncommon",
+    "objeto": true
+  },
   "55498": {
     "calidad": "common",
     "objeto": true
@@ -3465,6 +3477,10 @@
   },
   "55520": {
     "calidad": "common",
+    "objeto": true
+  },
+  "55528": {
+    "calidad": "rare",
     "objeto": true
   },
   "55529": {
