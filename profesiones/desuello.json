@@ -15,7 +15,7 @@
       "personaje": "Manelhon Gargon",
       "clase": "shaman",
       "raider": true,
-      "nivel": 291,
+      "nivel": 292,
       "max": 300,
       "pct": 67
     },
@@ -31,7 +31,15 @@
       "personaje": "Aurelio Amador",
       "clase": "rogue",
       "raider": false,
-      "nivel": 274,
+      "nivel": 289,
+      "max": 300,
+      "pct": 33
+    },
+    {
+      "personaje": "Ildaren Belisar",
+      "clase": "rogue",
+      "raider": false,
+      "nivel": 266,
       "max": 300,
       "pct": 33
     },
@@ -44,10 +52,10 @@
       "pct": 33
     },
     {
-      "personaje": "Ildaren Belisar",
-      "clase": "rogue",
+      "personaje": "Kroketa Torreja",
+      "clase": "druid",
       "raider": false,
-      "nivel": 262,
+      "nivel": 261,
       "max": 300,
       "pct": 33
     },
@@ -56,14 +64,6 @@
       "clase": "paladin",
       "raider": false,
       "nivel": 258,
-      "max": 300,
-      "pct": 33
-    },
-    {
-      "personaje": "Kroketa Torreja",
-      "clase": "druid",
-      "raider": false,
-      "nivel": 256,
       "max": 300,
       "pct": 33
     },

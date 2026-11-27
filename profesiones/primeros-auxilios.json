@@ -52,20 +52,20 @@
       "pct": 47
     },
     {
-      "personaje": "Dum Bo",
-      "clase": "mage",
-      "raider": false,
-      "nivel": 264,
-      "max": 300,
-      "pct": 69
-    },
-    {
       "personaje": "Llamas Xx",
       "clase": "warrior",
       "raider": false,
-      "nivel": 243,
+      "nivel": 266,
       "max": 300,
-      "pct": 44
+      "pct": 47
+    },
+    {
+      "personaje": "Dum Bo",
+      "clase": "mage",
+      "raider": false,
+      "nivel": 265,
+      "max": 300,
+      "pct": 69
     },
     {
       "personaje": "Genethika Brisaveloz",
@@ -79,7 +79,7 @@
       "personaje": "Layrela Rondanit",
       "clase": "druid",
       "raider": true,
-      "nivel": 236,
+      "nivel": 238,
       "max": 300,
       "pct": 53
     },
@@ -220,20 +220,20 @@
       "pct": 34
     },
     {
+      "personaje": "Hugo Forjaluz",
+      "clase": "paladin",
+      "raider": false,
+      "nivel": 138,
+      "max": 150,
+      "pct": 34
+    },
+    {
       "personaje": "Fitipaldi Sendaumbria",
       "clase": "rogue",
       "raider": false,
       "nivel": 137,
       "max": 150,
       "pct": 22
-    },
-    {
-      "personaje": "Hugo Forjaluz",
-      "clase": "paladin",
-      "raider": false,
-      "nivel": 132,
-      "max": 150,
-      "pct": 34
     },
     {
       "personaje": "Tharindel Magnaluz",
@@ -854,7 +854,8 @@
             2,
             3,
             4,
-            5
+            5,
+            6
           ]
         },
         {
@@ -1043,7 +1044,7 @@
             24,
             25,
             26,
-            28,
+            27,
             29,
             30
           ]
@@ -1077,7 +1078,7 @@
           },
           "quien": [
             4,
-            6,
+            7,
             10,
             15
           ]
@@ -1182,7 +1183,7 @@
           },
           "quien": [
             2,
-            6,
+            7,
             9,
             12,
             14
@@ -1243,7 +1244,7 @@
             23,
             25,
             26,
-            28
+            27
           ]
         },
         {
@@ -1320,7 +1321,7 @@
           },
           "quien": [
             2,
-            6
+            7
           ]
         },
         {
@@ -1360,7 +1361,7 @@
           },
           "quien": [
             2,
-            6,
+            7,
             9
           ]
         },
@@ -1423,7 +1424,7 @@
             24,
             25,
             26,
-            28,
+            27,
             29,
             30
           ]
@@ -1457,7 +1458,7 @@
           },
           "quien": [
             0,
-            6
+            7
           ]
         }
       ]
@@ -1569,7 +1570,7 @@
           },
           "quien": [
             4,
-            6
+            7
           ]
         },
         {
@@ -1824,7 +1825,7 @@
             24,
             25,
             26,
-            28,
+            27,
             30
           ]
         },
@@ -1865,7 +1866,7 @@
           },
           "quien": [
             0,
-            6,
+            7,
             8,
             16,
             17,
@@ -1910,7 +1911,7 @@
           "quien": [
             0,
             5,
-            6,
+            7,
             9
           ]
         },

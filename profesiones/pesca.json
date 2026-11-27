@@ -87,7 +87,7 @@
       "personaje": "Memas Tour",
       "clase": "shaman",
       "raider": false,
-      "nivel": 180,
+      "nivel": 183,
       "max": 225,
       "pct": 33
     },
@@ -191,7 +191,7 @@
       "personaje": "Flexita Shadowsoul",
       "clase": "hunter",
       "raider": false,
-      "nivel": 114,
+      "nivel": 115,
       "max": 150,
       "pct": 33
     },
@@ -199,7 +199,7 @@
       "personaje": "Layrela Rondanit",
       "clase": "druid",
       "raider": true,
-      "nivel": 111,
+      "nivel": 112,
       "max": 150,
       "pct": 33
     },
@@ -208,6 +208,14 @@
       "clase": "warlock",
       "raider": false,
       "nivel": 111,
+      "max": 150,
+      "pct": 33
+    },
+    {
+      "personaje": "Hugo Forjaluz",
+      "clase": "paladin",
+      "raider": false,
+      "nivel": 106,
       "max": 150,
       "pct": 33
     },
@@ -248,14 +256,6 @@
       "clase": "warlock",
       "raider": false,
       "nivel": 75,
-      "max": 150,
-      "pct": 33
-    },
-    {
-      "personaje": "Hugo Forjaluz",
-      "clase": "paladin",
-      "raider": false,
-      "nivel": 70,
       "max": 150,
       "pct": 33
     },
@@ -348,6 +348,14 @@
       "pct": 0
     },
     {
+      "personaje": "Khyoraku Shunsui",
+      "clase": "warrior",
+      "raider": true,
+      "nivel": 3,
+      "max": 75,
+      "pct": 0
+    },
+    {
       "personaje": "Aeloria Shadowsoul",
       "clase": "priest",
       "raider": false,
@@ -407,14 +415,6 @@
       "personaje": "Joaquin Bollos",
       "clase": "warlock",
       "raider": false,
-      "nivel": 1,
-      "max": 75,
-      "pct": 0
-    },
-    {
-      "personaje": "Khyoraku Shunsui",
-      "clase": "warrior",
-      "raider": true,
       "nivel": 1,
       "max": 75,
       "pct": 0

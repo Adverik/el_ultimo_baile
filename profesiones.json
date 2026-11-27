@@ -8,13 +8,13 @@
       "profesiones": [
         {
           "nombre": "Sastrería",
-          "nivel": 104,
+          "nivel": 150,
           "max": 150
         },
         {
           "nombre": "Encantamiento",
-          "nivel": 52,
-          "max": 75
+          "nivel": 87,
+          "max": 150
         },
         {
           "nombre": "Cocina",
@@ -40,12 +40,12 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 250,
+          "nivel": 251,
           "max": 300
         },
         {
           "nombre": "Herrería",
-          "nivel": 203,
+          "nivel": 209,
           "max": 225
         },
         {
@@ -158,7 +158,7 @@
         },
         {
           "nombre": "Desuello",
-          "nivel": 274,
+          "nivel": 289,
           "max": 300
         },
         {
@@ -207,12 +207,12 @@
       "profesiones": [
         {
           "nombre": "Sastrería",
-          "nivel": 133,
+          "nivel": 142,
           "max": 150
         },
         {
           "nombre": "Encantamiento",
-          "nivel": 123,
+          "nivel": 150,
           "max": 150
         },
         {
@@ -581,7 +581,7 @@
         },
         {
           "nombre": "Primeros auxilios",
-          "nivel": 264,
+          "nivel": 265,
           "max": 300
         }
       ]
@@ -851,7 +851,7 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 237,
+          "nivel": 248,
           "max": 300
         },
         {
@@ -866,7 +866,7 @@
         },
         {
           "nombre": "Pesca",
-          "nivel": 114,
+          "nivel": 115,
           "max": 150
         },
         {
@@ -969,27 +969,27 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 124,
+          "nivel": 136,
           "max": 150
         },
         {
           "nombre": "Herrería",
-          "nivel": 117,
+          "nivel": 120,
           "max": 150
         },
         {
           "nombre": "Cocina",
-          "nivel": 71,
+          "nivel": 74,
           "max": 150
         },
         {
           "nombre": "Pesca",
-          "nivel": 70,
+          "nivel": 106,
           "max": 150
         },
         {
           "nombre": "Primeros auxilios",
-          "nivel": 132,
+          "nivel": 138,
           "max": 150
         }
       ]
@@ -1011,7 +1011,7 @@
         },
         {
           "nombre": "Cocina",
-          "nivel": 10,
+          "nivel": 12,
           "max": 75
         },
         {
@@ -1033,7 +1033,7 @@
         },
         {
           "nombre": "Desuello",
-          "nivel": 262,
+          "nivel": 266,
           "max": 300
         },
         {
@@ -1082,7 +1082,7 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 187,
+          "nivel": 189,
           "max": 225
         },
         {
@@ -1136,7 +1136,7 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 274,
+          "nivel": 275,
           "max": 300
         },
         {
@@ -1151,7 +1151,7 @@
         },
         {
           "nombre": "Pesca",
-          "nivel": 1,
+          "nivel": 3,
           "max": 75
         },
         {
@@ -1173,7 +1173,7 @@
         },
         {
           "nombre": "Desuello",
-          "nivel": 256,
+          "nivel": 261,
           "max": 300
         },
         {
@@ -1247,12 +1247,12 @@
         },
         {
           "nombre": "Pesca",
-          "nivel": 111,
+          "nivel": 112,
           "max": 150
         },
         {
           "nombre": "Primeros auxilios",
-          "nivel": 236,
+          "nivel": 238,
           "max": 300
         }
       ]
@@ -1264,13 +1264,13 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 222,
+          "nivel": 232,
           "max": 300
         },
         {
           "nombre": "Herrería",
-          "nivel": 140,
-          "max": 150
+          "nivel": 154,
+          "max": 225
         },
         {
           "nombre": "Cocina",
@@ -1284,7 +1284,7 @@
         },
         {
           "nombre": "Primeros auxilios",
-          "nivel": 243,
+          "nivel": 266,
           "max": 300
         }
       ]
@@ -1301,12 +1301,12 @@
         },
         {
           "nombre": "Desuello",
-          "nivel": 291,
+          "nivel": 292,
           "max": 300
         },
         {
           "nombre": "Cocina",
-          "nivel": 225,
+          "nivel": 229,
           "max": 300
         },
         {
@@ -1328,7 +1328,7 @@
       "profesiones": [
         {
           "nombre": "Peletería",
-          "nivel": 215,
+          "nivel": 225,
           "max": 225
         },
         {
@@ -1338,12 +1338,12 @@
         },
         {
           "nombre": "Cocina",
-          "nivel": 150,
+          "nivel": 205,
           "max": 225
         },
         {
           "nombre": "Pesca",
-          "nivel": 180,
+          "nivel": 183,
           "max": 225
         },
         {
@@ -1402,8 +1402,8 @@
         },
         {
           "nombre": "Cocina",
-          "nivel": 225,
-          "max": 225
+          "nivel": 241,
+          "max": 300
         },
         {
           "nombre": "Pesca",
@@ -1564,7 +1564,7 @@
       "profesiones": [
         {
           "nombre": "Peletería",
-          "nivel": 203,
+          "nivel": 205,
           "max": 225
         },
         {
@@ -1574,7 +1574,7 @@
         },
         {
           "nombre": "Cocina",
-          "nivel": 285,
+          "nivel": 288,
           "max": 300
         },
         {
@@ -1842,7 +1842,7 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 114,
+          "nivel": 116,
           "max": 150
         },
         {
@@ -2918,6 +2918,14 @@
       ]
     },
     {
+      "nombre": "Potion of Predatory Senses",
+      "profesion": "Alquimia",
+      "calidad": "common",
+      "personajes": [
+        "Layrela Rondanit"
+      ]
+    },
+    {
       "nombre": "Rage Potion",
       "profesion": "Alquimia",
       "calidad": "common",
@@ -3378,6 +3386,7 @@
         "La Pety",
         "Layrela Rondanit",
         "Manelhon Gargon",
+        "Memas Tour",
         "Palmira Natblida",
         "Runa Ruina",
         "Shiryoku Moonfury",
@@ -4524,6 +4533,7 @@
         "Kroketa Torreja",
         "Layrela Rondanit",
         "Manelhon Gargon",
+        "Memas Tour",
         "Palmira Natblida",
         "Shiryoku Moonfury",
         "Sugar Papy"
@@ -4793,6 +4803,9 @@
         "Edoras Duskranger",
         "Espartaco Gladiador",
         "Finn Felagund",
+        "Manelhon Gargon",
+        "Mosu Warryn",
+        "Runa Ruina",
         "Shiryoku Moonfury",
         "Sugar Papy"
       ]
@@ -5132,6 +5145,7 @@
       "profesion": "Encantamiento",
       "calidad": "common",
       "personajes": [
+        "Bartolo Tololo",
         "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
@@ -5248,6 +5262,7 @@
       "profesion": "Encantamiento",
       "calidad": "common",
       "personajes": [
+        "Bartolo Tololo",
         "Christoph Crestanegra",
         "Dum Bo",
         "Elfa Vorable",
@@ -5332,6 +5347,7 @@
       "profesion": "Encantamiento",
       "calidad": "common",
       "personajes": [
+        "Bartolo Tololo",
         "Christoph Crestanegra",
         "Dum Bo",
         "Elfa Vorable",
@@ -5355,6 +5371,7 @@
       "profesion": "Encantamiento",
       "calidad": "common",
       "personajes": [
+        "Bartolo Tololo",
         "Christoph Crestanegra",
         "Dum Bo",
         "Elfa Vorable",
@@ -5377,6 +5394,7 @@
       "profesion": "Encantamiento",
       "calidad": "common",
       "personajes": [
+        "Aeloria Shadowsoul",
         "Bartolo Tololo",
         "Dum Bo",
         "Elfa Vorable",
@@ -5423,6 +5441,7 @@
       "profesion": "Encantamiento",
       "calidad": "common",
       "personajes": [
+        "Aeloria Shadowsoul",
         "Bartolo Tololo",
         "Christoph Crestanegra",
         "Dum Bo",
@@ -5532,6 +5551,7 @@
       "profesion": "Encantamiento",
       "calidad": "common",
       "personajes": [
+        "Bartolo Tololo",
         "Christoph Crestanegra",
         "Dum Bo",
         "Elfa Vorable",
@@ -5545,6 +5565,7 @@
       "profesion": "Encantamiento",
       "calidad": "common",
       "personajes": [
+        "Bartolo Tololo",
         "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
@@ -5557,6 +5578,7 @@
       "profesion": "Encantamiento",
       "calidad": "common",
       "personajes": [
+        "Aeloria Shadowsoul",
         "Bartolo Tololo",
         "Christoph Crestanegra",
         "Dum Bo",
@@ -5620,6 +5642,7 @@
       "profesion": "Encantamiento",
       "calidad": "common",
       "personajes": [
+        "Bartolo Tololo",
         "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
@@ -5719,6 +5742,7 @@
       "profesion": "Encantamiento",
       "calidad": "common",
       "personajes": [
+        "Bartolo Tololo",
         "Christoph Crestanegra",
         "Dum Bo",
         "Elfa Vorable",
@@ -5767,6 +5791,7 @@
       "profesion": "Encantamiento",
       "calidad": "common",
       "personajes": [
+        "Aeloria Shadowsoul",
         "Bartolo Tololo",
         "Dum Bo",
         "Elfa Vorable",
@@ -5781,6 +5806,7 @@
       "profesion": "Encantamiento",
       "calidad": "common",
       "personajes": [
+        "Aeloria Shadowsoul",
         "Bartolo Tololo",
         "Dum Bo",
         "Elfa Vorable",
@@ -5826,6 +5852,7 @@
       "profesion": "Encantamiento",
       "calidad": "common",
       "personajes": [
+        "Bartolo Tololo",
         "Christoph Crestanegra",
         "Dum Bo",
         "Finn Felagund"
@@ -5894,6 +5921,7 @@
       "profesion": "Encantamiento",
       "calidad": "common",
       "personajes": [
+        "Bartolo Tololo",
         "Christoph Crestanegra",
         "Dum Bo",
         "Elfa Vorable",
@@ -5971,6 +5999,7 @@
       "profesion": "Encantamiento",
       "calidad": "common",
       "personajes": [
+        "Bartolo Tololo",
         "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
@@ -6082,6 +6111,7 @@
       "profesion": "Encantamiento",
       "calidad": "uncommon",
       "personajes": [
+        "Aeloria Shadowsoul",
         "Bartolo Tololo",
         "Christoph Crestanegra",
         "Dum Bo",
@@ -6164,6 +6194,7 @@
       "calidad": "common",
       "personajes": [
         "Aeloria Shadowsoul",
+        "Bartolo Tololo",
         "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
@@ -6232,6 +6263,7 @@
       "profesion": "Encantamiento",
       "calidad": "common",
       "personajes": [
+        "Bartolo Tololo",
         "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
@@ -6998,6 +7030,7 @@
         "Coloso Tempestad",
         "Espartaco Gladiador",
         "Khyoraku Shunsui",
+        "Llamas Xx",
         "Mosu Warryn",
         "Shiryoku Moonfury"
       ]
@@ -7042,6 +7075,7 @@
         "Coloso Tempestad",
         "Espartaco Gladiador",
         "Khyoraku Shunsui",
+        "Llamas Xx",
         "Shiryoku Moonfury"
       ]
     },
@@ -7222,6 +7256,7 @@
       "profesion": "Herrería",
       "calidad": "uncommon",
       "personajes": [
+        "Althez Sendagris",
         "Espartaco Gladiador",
         "Khyoraku Shunsui",
         "Shiryoku Moonfury"
@@ -7951,6 +7986,7 @@
       "profesion": "Herrería",
       "calidad": "uncommon",
       "personajes": [
+        "Coloso Tempestad",
         "Españoleitor Españoleitor"
       ]
     },
@@ -9271,6 +9307,7 @@
         "Mosu Warryn",
         "Samael Thallanor",
         "Shiryoku Moonfury",
+        "Tanki Llo",
         "Tharindel Magnaluz"
       ]
     },
@@ -9333,6 +9370,7 @@
       "calidad": "uncommon",
       "personajes": [
         "Coloso Tempestad",
+        "Flexita Shadowsoul",
         "La Pety",
         "Shiryoku Moonfury"
       ]
@@ -10992,6 +11030,14 @@
       ]
     },
     {
+      "nombre": "Tough Scorpid Gloves",
+      "profesion": "Peletería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Manelhon Gargon"
+      ]
+    },
+    {
       "nombre": "Tough Scorpid Leggings",
       "profesion": "Peletería",
       "calidad": "uncommon",
@@ -11470,6 +11516,7 @@
         "Edoras Duskranger",
         "Flexita Shadowsoul",
         "La Pety",
+        "Llamas Xx",
         "Shiryoku Moonfury"
       ]
     },
@@ -11945,6 +11992,7 @@
       "profesion": "Sastrería",
       "calidad": "uncommon",
       "personajes": [
+        "Aeloria Shadowsoul",
         "Archi Amnesia",
         "Dum Bo",
         "Elfa Vorable",
@@ -11967,6 +12015,7 @@
       "profesion": "Sastrería",
       "calidad": "uncommon",
       "personajes": [
+        "Aeloria Shadowsoul",
         "Archi Amnesia",
         "Bartolo Tololo",
         "Christoph Crestanegra",
@@ -11986,6 +12035,7 @@
       "profesion": "Sastrería",
       "calidad": "uncommon",
       "personajes": [
+        "Aeloria Shadowsoul",
         "Archi Amnesia",
         "Bartolo Tololo",
         "Christoph Crestanegra",
@@ -12003,6 +12053,7 @@
       "profesion": "Sastrería",
       "calidad": "uncommon",
       "personajes": [
+        "Aeloria Shadowsoul",
         "Archi Amnesia",
         "Bartolo Tololo",
         "Christoph Crestanegra",
@@ -12127,6 +12178,7 @@
       "profesion": "Sastrería",
       "calidad": "rare",
       "personajes": [
+        "Aeloria Shadowsoul",
         "Archi Amnesia",
         "Dum Bo",
         "Elfa Vorable",
@@ -12215,6 +12267,7 @@
       "profesion": "Sastrería",
       "calidad": "common",
       "personajes": [
+        "Aeloria Shadowsoul",
         "Archi Amnesia",
         "Christoph Crestanegra",
         "Dum Bo",
@@ -12242,6 +12295,7 @@
       "profesion": "Sastrería",
       "calidad": "common",
       "personajes": [
+        "Aeloria Shadowsoul",
         "Archi Amnesia",
         "Bartolo Tololo",
         "Christoph Crestanegra",
@@ -12452,6 +12506,7 @@
       "profesion": "Sastrería",
       "calidad": "uncommon",
       "personajes": [
+        "Aeloria Shadowsoul",
         "Archi Amnesia",
         "Dum Bo",
         "Elfa Vorable",
@@ -12517,6 +12572,7 @@
       "profesion": "Sastrería",
       "calidad": "uncommon",
       "personajes": [
+        "Aeloria Shadowsoul",
         "Archi Amnesia",
         "Christoph Crestanegra",
         "Dum Bo",
@@ -12617,6 +12673,7 @@
       "profesion": "Sastrería",
       "calidad": "uncommon",
       "personajes": [
+        "Aeloria Shadowsoul",
         "Archi Amnesia",
         "Dum Bo",
         "Elfa Vorable",
@@ -12704,6 +12761,7 @@
       "profesion": "Sastrería",
       "calidad": "rare",
       "personajes": [
+        "Aeloria Shadowsoul",
         "Archi Amnesia",
         "Dum Bo",
         "Elfa Vorable",
@@ -12846,6 +12904,7 @@
       "profesion": "Sastrería",
       "calidad": "common",
       "personajes": [
+        "Aeloria Shadowsoul",
         "Archi Amnesia",
         "Dum Bo",
         "Elfa Vorable",
@@ -12879,6 +12938,7 @@
       "profesion": "Sastrería",
       "calidad": "rare",
       "personajes": [
+        "Aeloria Shadowsoul",
         "Archi Amnesia",
         "Christoph Crestanegra",
         "Dum Bo",
@@ -12908,6 +12968,7 @@
       "profesion": "Sastrería",
       "calidad": "rare",
       "personajes": [
+        "Aeloria Shadowsoul",
         "Archi Amnesia",
         "Dum Bo",
         "Elfa Vorable",
@@ -12921,6 +12982,7 @@
       "profesion": "Sastrería",
       "calidad": "uncommon",
       "personajes": [
+        "Aeloria Shadowsoul",
         "Archi Amnesia",
         "Bartolo Tololo",
         "Dum Bo",
@@ -12939,6 +13001,7 @@
       "profesion": "Sastrería",
       "calidad": "rare",
       "personajes": [
+        "Aeloria Shadowsoul",
         "Archi Amnesia",
         "Dum Bo",
         "Elfa Vorable",
@@ -13047,6 +13110,7 @@
       "profesion": "Sastrería",
       "calidad": "uncommon",
       "personajes": [
+        "Aeloria Shadowsoul",
         "Archi Amnesia",
         "Dum Bo",
         "Elfa Vorable",
@@ -13211,6 +13275,7 @@
       "profesion": "Sastrería",
       "calidad": "uncommon",
       "personajes": [
+        "Aeloria Shadowsoul",
         "Archi Amnesia",
         "Bartolo Tololo",
         "Dum Bo",
@@ -13344,6 +13409,7 @@
       "profesion": "Sastrería",
       "calidad": "uncommon",
       "personajes": [
+        "Aeloria Shadowsoul",
         "Archi Amnesia",
         "Dum Bo",
         "Elfa Vorable",
@@ -13506,6 +13572,7 @@
       "profesion": "Sastrería",
       "calidad": "rare",
       "personajes": [
+        "Aeloria Shadowsoul",
         "Archi Amnesia",
         "Dum Bo",
         "Elfa Vorable",
@@ -13614,6 +13681,7 @@
       "profesion": "Sastrería",
       "calidad": "common",
       "personajes": [
+        "Aeloria Shadowsoul",
         "Archi Amnesia",
         "Dum Bo",
         "Elfa Vorable",
@@ -13772,6 +13840,14 @@
       ]
     },
     {
+      "nombre": "Runecloth Tunic",
+      "profesion": "Sastrería",
+      "calidad": "uncommon",
+      "personajes": [
+        "Dum Bo"
+      ]
+    },
+    {
       "nombre": "Shadow Circlet",
       "profesion": "Sastrería",
       "calidad": "rare",
@@ -13800,6 +13876,7 @@
       "profesion": "Sastrería",
       "calidad": "uncommon",
       "personajes": [
+        "Aeloria Shadowsoul",
         "Archi Amnesia",
         "Dum Bo",
         "Elfa Vorable",
@@ -13909,6 +13986,7 @@
       "profesion": "Sastrería",
       "calidad": "common",
       "personajes": [
+        "Aeloria Shadowsoul",
         "Archi Amnesia",
         "Bartolo Tololo",
         "Christoph Crestanegra",
@@ -13971,6 +14049,7 @@
       "profesion": "Sastrería",
       "calidad": "rare",
       "personajes": [
+        "Aeloria Shadowsoul",
         "Archi Amnesia",
         "Bartolo Tololo",
         "Dum Bo",
@@ -14021,6 +14100,7 @@
       "personajes": [
         "Aeloria Shadowsoul",
         "Archi Amnesia",
+        "Bartolo Tololo",
         "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
@@ -14101,6 +14181,7 @@
       "profesion": "Sastrería",
       "calidad": "common",
       "personajes": [
+        "Aeloria Shadowsoul",
         "Archi Amnesia",
         "Dum Bo",
         "Elfa Vorable",

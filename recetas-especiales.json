@@ -265,23 +265,23 @@
           "clase": "warrior"
         },
         {
-          "n": "Espartaco Gladiador",
-          "clase": "warrior"
-        },
-        {
           "n": "Althez Sendagris",
           "clase": "paladin"
+        },
+        {
+          "n": "Espartaco Gladiador",
+          "clase": "warrior"
         },
         {
           "n": "Khyoraku Shunsui",
           "clase": "warrior"
         },
         {
-          "n": "Mosu Warryn",
+          "n": "Llamas Xx",
           "clase": "warrior"
         },
         {
-          "n": "Llamas Xx",
+          "n": "Mosu Warryn",
           "clase": "warrior"
         },
         {
@@ -4155,12 +4155,16 @@
           "clase": "priest"
         },
         {
-          "n": "Micro Bolas",
-          "clase": "warlock"
+          "n": "Aeloria Shadowsoul",
+          "clase": "priest"
         },
         {
           "n": "Bartolo Tololo",
           "clase": "priest"
+        },
+        {
+          "n": "Micro Bolas",
+          "clase": "warlock"
         },
         {
           "n": "Saint Peligroxa",
@@ -4882,19 +4886,19 @@
           "clase": "priest"
         },
         {
-          "n": "Micro Bolas",
-          "clase": "warlock"
+          "n": "Aeloria Shadowsoul",
+          "clase": "priest"
         },
         {
           "n": "Bartolo Tololo",
           "clase": "priest"
         },
         {
-          "n": "Saint Peligroxa",
-          "clase": "priest"
+          "n": "Micro Bolas",
+          "clase": "warlock"
         },
         {
-          "n": "Aeloria Shadowsoul",
+          "n": "Saint Peligroxa",
           "clase": "priest"
         },
         {
@@ -4991,15 +4995,15 @@
           "clase": "priest"
         },
         {
+          "n": "Aeloria Shadowsoul",
+          "clase": "priest"
+        },
+        {
           "n": "Bartolo Tololo",
           "clase": "priest"
         },
         {
           "n": "Saint Peligroxa",
-          "clase": "priest"
-        },
-        {
-          "n": "Aeloria Shadowsoul",
           "clase": "priest"
         },
         {
@@ -6144,6 +6148,10 @@
         {
           "n": "Archi Amnesia",
           "clase": "priest"
+        },
+        {
+          "n": "Aeloria Shadowsoul",
+          "clase": "priest"
         }
       ]
     },
@@ -6220,6 +6228,10 @@
         },
         {
           "n": "Archi Amnesia",
+          "clase": "priest"
+        },
+        {
+          "n": "Aeloria Shadowsoul",
           "clase": "priest"
         }
       ]
@@ -6298,6 +6310,10 @@
         {
           "n": "Archi Amnesia",
           "clase": "priest"
+        },
+        {
+          "n": "Aeloria Shadowsoul",
+          "clase": "priest"
         }
       ]
     },
@@ -6374,6 +6390,10 @@
         },
         {
           "n": "Archi Amnesia",
+          "clase": "priest"
+        },
+        {
+          "n": "Aeloria Shadowsoul",
           "clase": "priest"
         }
       ]
@@ -6453,6 +6473,10 @@
         {
           "n": "Archi Amnesia",
           "clase": "priest"
+        },
+        {
+          "n": "Aeloria Shadowsoul",
+          "clase": "priest"
         }
       ]
     },
@@ -6525,6 +6549,10 @@
         },
         {
           "n": "Archi Amnesia",
+          "clase": "priest"
+        },
+        {
+          "n": "Aeloria Shadowsoul",
           "clase": "priest"
         }
       ]

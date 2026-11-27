@@ -31,7 +31,7 @@
       "personaje": "Khyoraku Shunsui",
       "clase": "warrior",
       "raider": true,
-      "nivel": 274,
+      "nivel": 275,
       "max": 300,
       "pct": 53
     },
@@ -47,7 +47,7 @@
       "personaje": "Althez Sendagris",
       "clase": "paladin",
       "raider": false,
-      "nivel": 250,
+      "nivel": 251,
       "max": 300,
       "pct": 53
     },
@@ -63,7 +63,15 @@
       "personaje": "Flexita Shadowsoul",
       "clase": "hunter",
       "raider": false,
-      "nivel": 237,
+      "nivel": 248,
+      "max": 300,
+      "pct": 59
+    },
+    {
+      "personaje": "Llamas Xx",
+      "clase": "warrior",
+      "raider": false,
+      "nivel": 232,
       "max": 300,
       "pct": 53
     },
@@ -76,18 +84,10 @@
       "pct": 59
     },
     {
-      "personaje": "Llamas Xx",
-      "clase": "warrior",
-      "raider": false,
-      "nivel": 222,
-      "max": 300,
-      "pct": 53
-    },
-    {
       "personaje": "Jonaver Legends",
       "clase": "mage",
       "raider": false,
-      "nivel": 187,
+      "nivel": 189,
       "max": 225,
       "pct": 53
     },
@@ -124,6 +124,14 @@
       "pct": 35
     },
     {
+      "personaje": "Hugo Forjaluz",
+      "clase": "paladin",
+      "raider": false,
+      "nivel": 136,
+      "max": 150,
+      "pct": 29
+    },
+    {
       "personaje": "Tharindel Magnaluz",
       "clase": "paladin",
       "raider": false,
@@ -148,20 +156,12 @@
       "pct": 29
     },
     {
-      "personaje": "Hugo Forjaluz",
-      "clase": "paladin",
-      "raider": false,
-      "nivel": 124,
-      "max": 150,
-      "pct": 29
-    },
-    {
       "personaje": "Tanki Llo",
       "clase": "warlock",
       "raider": false,
-      "nivel": 114,
+      "nivel": 116,
       "max": 150,
-      "pct": 18
+      "pct": 24
     },
     {
       "personaje": "Farhan Ironbeard",
@@ -235,6 +235,7 @@
             16,
             17,
             18,
+            19,
             20
           ]
         },
@@ -365,8 +366,8 @@
             11,
             12,
             14,
-            15,
-            16
+            16,
+            17
           ]
         },
         {
@@ -534,7 +535,8 @@
           "quien": [
             1,
             2,
-            4
+            4,
+            7
           ]
         },
         {
@@ -806,7 +808,7 @@
             "sub": "Otros"
           },
           "quien": [
-            8
+            9
           ]
         },
         {

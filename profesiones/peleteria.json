@@ -15,7 +15,7 @@
       "personaje": "Memas Tour",
       "clase": "shaman",
       "raider": false,
-      "nivel": 215,
+      "nivel": 225,
       "max": 225,
       "pct": 16
     },
@@ -31,7 +31,7 @@
       "personaje": "Runa Ruina",
       "clase": "shaman",
       "raider": false,
-      "nivel": 203,
+      "nivel": 205,
       "max": 225,
       "pct": 9
     },
@@ -17623,7 +17623,9 @@
               "76"
             ]
           },
-          "quien": []
+          "quien": [
+            4
+          ]
         },
         {
           "id": 5683,
