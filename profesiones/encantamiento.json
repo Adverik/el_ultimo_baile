@@ -4,12 +4,20 @@
   "total": 262,
   "artesanos": [
     {
+      "personaje": "Sr Byron",
+      "clase": "warlock",
+      "raider": false,
+      "nivel": 294,
+      "max": 300,
+      "pct": 31
+    },
+    {
       "personaje": "Finn Felagund",
       "clase": "priest",
       "raider": false,
-      "nivel": 283,
+      "nivel": 285,
       "max": 300,
-      "pct": 33
+      "pct": 34
     },
     {
       "personaje": "Dum Bo",
@@ -20,20 +28,12 @@
       "pct": 32
     },
     {
-      "personaje": "Sr Byron",
-      "clase": "warlock",
-      "raider": false,
-      "nivel": 252,
-      "max": 300,
-      "pct": 29
-    },
-    {
       "personaje": "Elfa Vorable",
       "clase": "druid",
       "raider": false,
-      "nivel": 207,
+      "nivel": 225,
       "max": 225,
-      "pct": 23
+      "pct": 24
     },
     {
       "personaje": "Kadeharz Apsus",
@@ -236,7 +236,8 @@
           ],
           "desc": "Encanta de forma permanente unos brazales para que aumenten 3 p. el espíritu del portador.",
           "quien": [
-            1,
+            2,
+            3,
             5
           ]
         },
@@ -280,8 +281,8 @@
           ],
           "desc": "Encanta de forma permanente unos brazales para que aumenten 3 p. la fuerza del portador.",
           "quien": [
-            0,
             1,
+            2,
             4
           ]
         },
@@ -298,7 +299,7 @@
           ],
           "desc": "Encanta de forma permanente un brazal para que aumente 4 p. el espíritu del portador.",
           "quien": [
-            1,
+            2,
             3,
             8
           ]
@@ -474,7 +475,7 @@
           ],
           "desc": "Encanta de forma permanente unos brazales para que proporcionen +7 p. de espíritu.",
           "quien": [
-            0
+            1
           ]
         },
         {
@@ -562,7 +563,7 @@
           ],
           "desc": "Encanta de forma permanente unos brazales para que proporcionen +9 p. de espíritu.",
           "quien": [
-            0
+            1
           ]
         },
         {
@@ -1590,7 +1591,7 @@
           ],
           "desc": "Encanta de forma permanente una capa para que proporcione +3 p. de agilidad.",
           "quien": [
-            1,
+            2,
             3
           ]
         },
@@ -1639,7 +1640,7 @@
           ],
           "desc": "Encanta de forma permanente una capa para que aumente la resistencia a las Sombras en 10 p.",
           "quien": [
-            1,
+            0,
             2
           ]
         },
@@ -1740,7 +1741,7 @@
           ],
           "desc": "Encanta de forma permanente una capa para que proporcione 3 p. de agilidad.",
           "quien": [
-            0
+            1
           ]
         },
         {
@@ -1775,7 +1776,9 @@
             ]
           ],
           "desc": "Encanta de forma permanente una capa para que proporcione 5 p. de resistencia a todo.",
-          "quien": []
+          "quien": [
+            0
+          ]
         },
         {
           "id": 11383,
@@ -1946,7 +1949,8 @@
           ],
           "desc": "Encanta de forma permanente un arma cuerpo a cuerpo para que cause 2 p. de daño a las bestias.",
           "quien": [
-            1
+            1,
+            2
           ]
         },
         {
@@ -2080,7 +2084,9 @@
             ]
           ],
           "desc": "Encanta de forma permanente un arma cuerpo a cuerpo para que cause a menudo 40 p. de daño de Fuego extra.",
-          "quien": []
+          "quien": [
+            0
+          ]
         },
         {
           "id": 7672,
@@ -2443,7 +2449,7 @@
           ],
           "desc": "Encanta de forma permanente un arma cuerpo a cuerpo para que otorgue Perspicacia al lanzar un hechizo, que aumenta el espíritu un 100% durante 10 s.",
           "quien": [
-            0
+            1
           ]
         },
         {
@@ -2476,7 +2482,7 @@
           "cant": 10.0,
           "desc": "Encanta de forma permanente un arma cuerpo a cuerpo para que active una recuperación cuando esquiven o paren tus ataques, lo que te sanará un 5% de tu salud máxima. No puede ocurrir más de una vez cada 10 s.",
           "quien": [
-            2
+            0
           ]
         },
         {
@@ -2509,7 +2515,8 @@
           "cant": 10.0,
           "desc": "Encanta de forma permanente un arma cuerpo a cuerpo para que, a veces, pueda activar Revelación cuando uno de tus hechizos no periódicos no aseste un golpe crítico. Revelación otorgará un 100% más de probabilidad de golpe crítico al siguien",
           "quien": [
-            1
+            0,
+            2
           ]
         }
       ]
@@ -2557,7 +2564,7 @@
           ],
           "desc": "Encanta de forma permanente un arma cuerpo a cuerpo de dos manos para añadir 5 p. de intelecto.",
           "quien": [
-            1,
+            2,
             3
           ]
         },
@@ -2578,8 +2585,8 @@
           ],
           "desc": "Encanta de forma permanente un arma cuerpo a cuerpo de dos manos para añadir 5 p. de espíritu.",
           "quien": [
-            0,
             1,
+            2,
             6,
             8
           ]
@@ -2945,8 +2952,8 @@
           ],
           "desc": "Encanta de forma permanente un par de botas para que aumenten 3 p. la agilidad del portador.",
           "quien": [
-            0,
             1,
+            2,
             3,
             8
           ]
@@ -3002,7 +3009,7 @@
           ],
           "desc": "Encanta de forma permanente unas botas para que proporcionen +4 p. de espíritu.",
           "quien": [
-            2
+            0
           ]
         },
         {
@@ -3080,7 +3087,7 @@
           ],
           "desc": "Encanta de forma permanente unas botas para que proporcionen +7 p. de aguante.",
           "quien": [
-            0
+            1
           ]
         },
         {
@@ -3190,8 +3197,8 @@
           ],
           "desc": "Encanta de forma permanente un escudo para aumentar su armadura en 30 p.",
           "quien": [
-            0,
             1,
+            2,
             8
           ]
         },
@@ -3298,8 +3305,8 @@
           ],
           "desc": "Encanta de forma permanente un escudo para que proporcione +7 p. de aguante.",
           "quien": [
-            0,
-            1
+            1,
+            2
           ]
         },
         {
@@ -3442,7 +3449,7 @@
           "desc": "Encanta de forma permanente unos guantes para que concedan +2 de minería.",
           "quien": [
             0,
-            2,
+            1,
             4
           ]
         },
@@ -3481,8 +3488,8 @@
           ],
           "desc": "Encanta de forma permanente unos guantes para que concedan +2 de pesca.",
           "quien": [
-            0,
             1,
+            2,
             5,
             6
           ]
@@ -3540,7 +3547,7 @@
           ],
           "desc": "Encanta de forma permanente unos guantes para que concedan +5 de minería.",
           "quien": [
-            0
+            1
           ]
         },
         {
@@ -4475,7 +4482,8 @@
             ]
           ],
           "quien": [
-            0
+            0,
+            1
           ]
         },
         {
@@ -4614,7 +4622,7 @@
             ]
           },
           "quien": [
-            0
+            1
           ]
         }
       ]
@@ -4861,7 +4869,8 @@
           },
           "quien": [
             0,
-            2
+            1,
+            3
           ]
         },
         {
@@ -4938,7 +4947,9 @@
               "0"
             ]
           },
-          "quien": []
+          "quien": [
+            0
+          ]
         },
         {
           "id": 13142,
@@ -6183,7 +6194,7 @@
             "sub": "Otros"
           },
           "quien": [
-            1
+            2
           ]
         },
         {
@@ -7412,7 +7423,7 @@
           ],
           "desc": "Encanta de forma permanente un collar para aumentar hasta 11 p. la sanación y hasta 4 p. el daño con hechizos.",
           "quien": [
-            0
+            1
           ]
         },
         {

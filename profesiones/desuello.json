@@ -23,7 +23,7 @@
       "personaje": "Runa Ruina",
       "clase": "shaman",
       "raider": false,
-      "nivel": 292,
+      "nivel": 294,
       "max": 300,
       "pct": 33
     },
@@ -31,7 +31,23 @@
       "personaje": "Aurelio Amador",
       "clase": "rogue",
       "raider": false,
-      "nivel": 289,
+      "nivel": 291,
+      "max": 300,
+      "pct": 33
+    },
+    {
+      "personaje": "Memas Tour",
+      "clase": "shaman",
+      "raider": false,
+      "nivel": 273,
+      "max": 300,
+      "pct": 33
+    },
+    {
+      "personaje": "Kroketa Torreja",
+      "clase": "druid",
+      "raider": false,
+      "nivel": 268,
       "max": 300,
       "pct": 33
     },
@@ -40,22 +56,6 @@
       "clase": "rogue",
       "raider": false,
       "nivel": 267,
-      "max": 300,
-      "pct": 33
-    },
-    {
-      "personaje": "Kroketa Torreja",
-      "clase": "druid",
-      "raider": false,
-      "nivel": 267,
-      "max": 300,
-      "pct": 33
-    },
-    {
-      "personaje": "Memas Tour",
-      "clase": "shaman",
-      "raider": false,
-      "nivel": 266,
       "max": 300,
       "pct": 33
     },

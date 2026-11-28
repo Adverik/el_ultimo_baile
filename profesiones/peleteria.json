@@ -71,7 +71,7 @@
       "personaje": "Kroketa Torreja",
       "clase": "druid",
       "raider": false,
-      "nivel": 170,
+      "nivel": 180,
       "max": 225,
       "pct": 13
     },
@@ -9053,7 +9053,9 @@
               "95"
             ]
           },
-          "quien": []
+          "quien": [
+            0
+          ]
         },
         {
           "id": 10789,
@@ -20053,7 +20055,9 @@
               "72"
             ]
           },
-          "quien": []
+          "quien": [
+            1
+          ]
         },
         {
           "id": 10795,

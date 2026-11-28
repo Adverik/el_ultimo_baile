@@ -31,7 +31,7 @@
       "personaje": "Khyoraku Shunsui",
       "clase": "warrior",
       "raider": true,
-      "nivel": 280,
+      "nivel": 288,
       "max": 300,
       "pct": 53
     },
@@ -39,9 +39,9 @@
       "personaje": "La Pety",
       "clase": "rogue",
       "raider": false,
-      "nivel": 271,
+      "nivel": 279,
       "max": 300,
-      "pct": 59
+      "pct": 71
     },
     {
       "personaje": "Cuzcu Aker",
@@ -63,7 +63,7 @@
       "personaje": "Flexita Shadowsoul",
       "clase": "hunter",
       "raider": false,
-      "nivel": 248,
+      "nivel": 250,
       "max": 300,
       "pct": 59
     },
@@ -79,7 +79,7 @@
       "personaje": "Espartaco Gladiador",
       "clase": "warrior",
       "raider": false,
-      "nivel": 227,
+      "nivel": 228,
       "max": 300,
       "pct": 59
     },
@@ -103,7 +103,7 @@
       "personaje": "Mosu Warryn",
       "clase": "warrior",
       "raider": false,
-      "nivel": 154,
+      "nivel": 155,
       "max": 225,
       "pct": 35
     },
@@ -159,7 +159,7 @@
       "personaje": "Tanki Llo",
       "clase": "warlock",
       "raider": false,
-      "nivel": 118,
+      "nivel": 120,
       "max": 150,
       "pct": 24
     },
@@ -631,6 +631,7 @@
           "quien": [
             1,
             2,
+            4,
             5
           ]
         },
@@ -721,7 +722,8 @@
           },
           "quien": [
             1,
-            2
+            2,
+            4
           ]
         }
       ]

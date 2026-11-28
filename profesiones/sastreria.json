@@ -15,7 +15,7 @@
       "personaje": "Sr Byron",
       "clase": "warlock",
       "raider": false,
-      "nivel": 242,
+      "nivel": 247,
       "max": 300,
       "pct": 24
     },
@@ -71,9 +71,9 @@
       "personaje": "Archi Amnesia",
       "clase": "priest",
       "raider": false,
-      "nivel": 158,
+      "nivel": 160,
       "max": 225,
-      "pct": 16
+      "pct": 17
     },
     {
       "personaje": "Nimassus Pater",
@@ -10921,7 +10921,8 @@
             2,
             4,
             5,
-            6
+            6,
+            8
           ]
         },
         {
@@ -14578,7 +14579,9 @@
               "75"
             ]
           },
-          "quien": []
+          "quien": [
+            1
+          ]
         },
         {
           "id": 10430,
@@ -20625,6 +20628,7 @@
           },
           "quien": [
             0,
+            1,
             2,
             7
           ]

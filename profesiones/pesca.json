@@ -28,18 +28,18 @@
       "pct": 33
     },
     {
-      "personaje": "Coloso Tempestad",
-      "clase": "warrior",
+      "personaje": "Christoph Crestanegra",
+      "clase": "mage",
       "raider": false,
       "nivel": 235,
       "max": 300,
       "pct": 33
     },
     {
-      "personaje": "Christoph Crestanegra",
-      "clase": "mage",
+      "personaje": "Coloso Tempestad",
+      "clase": "warrior",
       "raider": false,
-      "nivel": 225,
+      "nivel": 235,
       "max": 300,
       "pct": 33
     },
@@ -183,7 +183,7 @@
       "personaje": "Dio Hotmetal",
       "clase": "hunter",
       "raider": false,
-      "nivel": 120,
+      "nivel": 128,
       "max": 150,
       "pct": 33
     },
@@ -191,7 +191,15 @@
       "personaje": "Flexita Shadowsoul",
       "clase": "hunter",
       "raider": false,
-      "nivel": 115,
+      "nivel": 116,
+      "max": 150,
+      "pct": 33
+    },
+    {
+      "personaje": "Sr Byron",
+      "clase": "warlock",
+      "raider": false,
+      "nivel": 114,
       "max": 150,
       "pct": 33
     },
@@ -200,14 +208,6 @@
       "clase": "druid",
       "raider": true,
       "nivel": 112,
-      "max": 150,
-      "pct": 33
-    },
-    {
-      "personaje": "Sr Byron",
-      "clase": "warlock",
-      "raider": false,
-      "nivel": 111,
       "max": 150,
       "pct": 33
     },
