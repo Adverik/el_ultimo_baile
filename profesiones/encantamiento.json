@@ -87,9 +87,9 @@
       "personaje": "Aeloria Shadowsoul",
       "clase": "priest",
       "raider": false,
-      "nivel": 87,
+      "nivel": 91,
       "max": 150,
-      "pct": 6
+      "pct": 7
     },
     {
       "personaje": "Vaporeta Pizpireta",
@@ -1981,7 +1981,8 @@
             4,
             6,
             7,
-            8
+            8,
+            10
           ]
         },
         {

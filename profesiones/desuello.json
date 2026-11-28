@@ -44,18 +44,18 @@
       "pct": 33
     },
     {
-      "personaje": "Kroketa Torreja",
-      "clase": "druid",
+      "personaje": "Ildaren Belisar",
+      "clase": "rogue",
       "raider": false,
       "nivel": 268,
       "max": 300,
       "pct": 33
     },
     {
-      "personaje": "Ildaren Belisar",
-      "clase": "rogue",
+      "personaje": "Kroketa Torreja",
+      "clase": "druid",
       "raider": false,
-      "nivel": 267,
+      "nivel": 268,
       "max": 300,
       "pct": 33
     },
@@ -143,7 +143,7 @@
       "personaje": "Fifi Fififran",
       "clase": "hunter",
       "raider": false,
-      "nivel": 110,
+      "nivel": 114,
       "max": 150,
       "pct": 0
     },
@@ -152,6 +152,14 @@
       "clase": "hunter",
       "raider": false,
       "nivel": 100,
+      "max": 150,
+      "pct": 33
+    },
+    {
+      "personaje": "Lyriana Shadowsoul",
+      "clase": "rogue",
+      "raider": false,
+      "nivel": 77,
       "max": 150,
       "pct": 33
     }
@@ -204,7 +212,8 @@
             14,
             15,
             16,
-            18
+            18,
+            19
           ]
         },
         {

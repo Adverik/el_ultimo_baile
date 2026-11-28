@@ -23,7 +23,7 @@
       "personaje": "Betadine Pervinox",
       "clase": "paladin",
       "raider": false,
-      "nivel": 279,
+      "nivel": 282,
       "max": 300,
       "pct": 31
     },
@@ -5200,7 +5200,9 @@
               "1"
             ]
           },
-          "quien": []
+          "quien": [
+            2
+          ]
         }
       ]
     },

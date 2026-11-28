@@ -13,7 +13,7 @@
         },
         {
           "nombre": "Encantamiento",
-          "nivel": 87,
+          "nivel": 91,
           "max": 150
         },
         {
@@ -40,7 +40,7 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 251,
+          "nivel": 257,
           "max": 300
         },
         {
@@ -50,7 +50,7 @@
         },
         {
           "nombre": "Cocina",
-          "nivel": 265,
+          "nivel": 293,
           "max": 300
         },
         {
@@ -239,7 +239,7 @@
       "profesiones": [
         {
           "nombre": "Alquimia",
-          "nivel": 279,
+          "nivel": 282,
           "max": 300
         },
         {
@@ -288,7 +288,7 @@
         },
         {
           "nombre": "Herboristería",
-          "nivel": 25,
+          "nivel": 26,
           "max": 75
         },
         {
@@ -379,7 +379,7 @@
       "profesiones": [
         {
           "nombre": "Sastrería",
-          "nivel": 240,
+          "nivel": 255,
           "max": 300
         },
         {
@@ -394,7 +394,7 @@
         },
         {
           "nombre": "Pesca",
-          "nivel": 235,
+          "nivel": 245,
           "max": 300
         },
         {
@@ -517,12 +517,12 @@
         },
         {
           "nombre": "Cocina",
-          "nivel": 86,
+          "nivel": 108,
           "max": 150
         },
         {
           "nombre": "Pesca",
-          "nivel": 128,
+          "nivel": 131,
           "max": 150
         },
         {
@@ -753,7 +753,7 @@
         },
         {
           "nombre": "Desuello",
-          "nivel": 110,
+          "nivel": 114,
           "max": 150
         },
         {
@@ -851,12 +851,12 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 250,
+          "nivel": 257,
           "max": 300
         },
         {
           "nombre": "Ingeniería",
-          "nivel": 250,
+          "nivel": 255,
           "max": 300
         },
         {
@@ -915,7 +915,7 @@
         },
         {
           "nombre": "Herboristería",
-          "nivel": 191,
+          "nivel": 202,
           "max": 225
         },
         {
@@ -969,12 +969,12 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 136,
-          "max": 150
+          "nivel": 137,
+          "max": 225
         },
         {
           "nombre": "Herrería",
-          "nivel": 120,
+          "nivel": 128,
           "max": 150
         },
         {
@@ -984,7 +984,7 @@
         },
         {
           "nombre": "Pesca",
-          "nivel": 106,
+          "nivel": 110,
           "max": 150
         },
         {
@@ -1006,7 +1006,7 @@
         },
         {
           "nombre": "Herboristería",
-          "nivel": 80,
+          "nivel": 91,
           "max": 150
         },
         {
@@ -1016,7 +1016,7 @@
         },
         {
           "nombre": "Pesca",
-          "nivel": 1,
+          "nivel": 3,
           "max": 75
         }
       ]
@@ -1028,17 +1028,17 @@
       "profesiones": [
         {
           "nombre": "Peletería",
-          "nivel": 165,
+          "nivel": 173,
           "max": 225
         },
         {
           "nombre": "Desuello",
-          "nivel": 267,
+          "nivel": 268,
           "max": 300
         },
         {
           "nombre": "Cocina",
-          "nivel": 173,
+          "nivel": 177,
           "max": 225
         },
         {
@@ -1136,7 +1136,7 @@
       "profesiones": [
         {
           "nombre": "Minería",
-          "nivel": 288,
+          "nivel": 289,
           "max": 300
         },
         {
@@ -1286,6 +1286,38 @@
           "nombre": "Primeros auxilios",
           "nivel": 273,
           "max": 300
+        }
+      ]
+    },
+    {
+      "personaje": "Lyriana Shadowsoul",
+      "clase": "rogue",
+      "raider": false,
+      "profesiones": [
+        {
+          "nombre": "Peletería",
+          "nivel": 49,
+          "max": 75
+        },
+        {
+          "nombre": "Desuello",
+          "nivel": 77,
+          "max": 150
+        },
+        {
+          "nombre": "Cocina",
+          "nivel": 30,
+          "max": 75
+        },
+        {
+          "nombre": "Pesca",
+          "nivel": 21,
+          "max": 75
+        },
+        {
+          "nombre": "Primeros auxilios",
+          "nivel": 79,
+          "max": 150
         }
       ]
     },
@@ -1857,7 +1889,7 @@
         },
         {
           "nombre": "Pesca",
-          "nivel": 190,
+          "nivel": 192,
           "max": 225
         }
       ]
@@ -1954,7 +1986,7 @@
         {
           "nombre": "Primeros auxilios",
           "nivel": 225,
-          "max": 225
+          "max": 300
         }
       ]
     },
@@ -2912,6 +2944,14 @@
       ]
     },
     {
+      "nombre": "Potion of Beast Slaying",
+      "profesion": "Alquimia",
+      "calidad": "common",
+      "personajes": [
+        "Betadine Pervinox"
+      ]
+    },
+    {
       "nombre": "Potion of Demon Slaying",
       "profesion": "Alquimia",
       "calidad": "common",
@@ -3119,6 +3159,7 @@
         "Khyoraku Shunsui",
         "Kroketa Torreja",
         "Layrela Rondanit",
+        "Manelhon Gargon",
         "Mosu Warryn",
         "Runa Ruina",
         "Shiryoku Moonfury",
@@ -3174,6 +3215,7 @@
         "La Pety",
         "Layrela Rondanit",
         "Llamas Xx",
+        "Lyriana Shadowsoul",
         "Manelhon Gargon",
         "Memas Tour",
         "Micro Bolas",
@@ -3207,6 +3249,7 @@
       "calidad": "common",
       "personajes": [
         "Coloso Tempestad",
+        "Ildaren Belisar",
         "Kroketa Torreja"
       ]
     },
@@ -3488,6 +3531,7 @@
         "La Pety",
         "Layrela Rondanit",
         "Llamas Xx",
+        "Lyriana Shadowsoul",
         "Manelhon Gargon",
         "Memas Tour",
         "Micro Bolas",
@@ -3632,6 +3676,7 @@
         "Chaca Choochoo",
         "Coloso Tempestad",
         "Diana Flechaveloz",
+        "Dio Hotmetal",
         "Dum Bo",
         "Edoras Duskranger",
         "Elfa Vorable",
@@ -3748,6 +3793,7 @@
         "Chaca Choochoo",
         "Coloso Tempestad",
         "Diana Flechaveloz",
+        "Dio Hotmetal",
         "Dum Bo",
         "Edoras Duskranger",
         "Elfa Vorable",
@@ -3809,7 +3855,8 @@
       "calidad": "common",
       "personajes": [
         "Betadine Pervinox",
-        "Espartaco Gladiador"
+        "Espartaco Gladiador",
+        "Ildaren Belisar"
       ]
     },
     {
@@ -3817,6 +3864,7 @@
       "profesion": "Cocina",
       "calidad": "common",
       "personajes": [
+        "Elfa Vorable",
         "Kroketa Torreja",
         "Manelhon Gargon"
       ]
@@ -4011,6 +4059,7 @@
         "La Pety",
         "Layrela Rondanit",
         "Llamas Xx",
+        "Lyriana Shadowsoul",
         "Manelhon Gargon",
         "Memas Tour",
         "Micro Bolas",
@@ -4176,6 +4225,7 @@
         "Elfa Vorable",
         "Espartaco Gladiador",
         "Finn Felagund",
+        "Ildaren Belisar",
         "Layrela Rondanit",
         "Mosu Warryn",
         "Shiryoku Moonfury",
@@ -4215,6 +4265,7 @@
         "Coloso Tempestad",
         "Cuzcu Aker",
         "Diana Flechaveloz",
+        "Dio Hotmetal",
         "Dum Bo",
         "Elfa Vorable",
         "Espartaco Gladiador",
@@ -4371,6 +4422,7 @@
         "Chaca Choochoo",
         "Coloso Tempestad",
         "Diana Flechaveloz",
+        "Dio Hotmetal",
         "Dum Bo",
         "Elfa Vorable",
         "Flexita Shadowsoul",
@@ -4454,6 +4506,7 @@
         "La Pety",
         "Layrela Rondanit",
         "Llamas Xx",
+        "Lyriana Shadowsoul",
         "Manelhon Gargon",
         "Memas Tour",
         "Micro Bolas",
@@ -4495,6 +4548,7 @@
         "Elfa Vorable",
         "Espartaco Gladiador",
         "Finn Felagund",
+        "Ildaren Belisar",
         "Layrela Rondanit",
         "Mosu Warryn",
         "Shiryoku Moonfury"
@@ -4545,6 +4599,7 @@
         "Edoras Duskranger",
         "Elfa Vorable",
         "Finn Felagund",
+        "Ildaren Belisar",
         "Jonaver Legends",
         "Kroketa Torreja",
         "Layrela Rondanit",
@@ -4686,6 +4741,7 @@
         "Breezy Reaver",
         "Coloso Tempestad",
         "Diana Flechaveloz",
+        "Dio Hotmetal",
         "Dum Bo",
         "Edoras Duskranger",
         "Elfa Vorable",
@@ -4725,6 +4781,7 @@
         "Edoras Duskranger",
         "Elfa Vorable",
         "Finn Felagund",
+        "Ildaren Belisar",
         "Khyoraku Shunsui",
         "Kroketa Torreja",
         "La Pety",
@@ -4768,6 +4825,7 @@
         "Kroketa Torreja",
         "Layrela Rondanit",
         "Llamas Xx",
+        "Lyriana Shadowsoul",
         "Manelhon Gargon",
         "Memas Tour",
         "Micro Bolas",
@@ -5007,6 +5065,7 @@
         "Fitipaldi Sendaumbria",
         "Ildaren Belisar",
         "Kroketa Torreja",
+        "Lyriana Shadowsoul",
         "Manelhon Gargon",
         "Memas Tour",
         "Nindalf Pizpireta",
@@ -5052,6 +5111,7 @@
         "Fifi Fififran",
         "Filps Pachamamamon",
         "Fitipaldi Sendaumbria",
+        "Lyriana Shadowsoul",
         "Nindalf Pizpireta"
       ]
     },
@@ -6056,6 +6116,7 @@
       "profesion": "Encantamiento",
       "calidad": "common",
       "personajes": [
+        "Aeloria Shadowsoul",
         "Bartolo Tololo",
         "Dum Bo",
         "Elfa Vorable",
@@ -7006,6 +7067,7 @@
         "Coloso Tempestad",
         "Espartaco Gladiador",
         "Españoleitor Españoleitor",
+        "Hugo Forjaluz",
         "Khyoraku Shunsui",
         "Llamas Xx",
         "Mosu Warryn",
@@ -7062,6 +7124,7 @@
         "Coloso Tempestad",
         "Espartaco Gladiador",
         "Españoleitor Españoleitor",
+        "Hugo Forjaluz",
         "Khyoraku Shunsui",
         "Llamas Xx",
         "Mosu Warryn",
@@ -7391,6 +7454,7 @@
         "Coloso Tempestad",
         "Espartaco Gladiador",
         "Españoleitor Españoleitor",
+        "Hugo Forjaluz",
         "Khyoraku Shunsui",
         "Llamas Xx",
         "Mosu Warryn",
@@ -7973,6 +8037,7 @@
         "Althez Sendagris",
         "Coloso Tempestad",
         "Españoleitor Españoleitor",
+        "Hugo Forjaluz",
         "Khyoraku Shunsui",
         "Llamas Xx",
         "Shiryoku Moonfury",
@@ -9199,6 +9264,7 @@
         "Armando Buya",
         "Arthas Yevon",
         "Españoleitor Españoleitor",
+        "Hugo Forjaluz",
         "Jonaver Legends",
         "Mosu Warryn",
         "Tharindel Magnaluz",
@@ -9312,6 +9378,7 @@
         "Espartaco Gladiador",
         "Españoleitor Españoleitor",
         "Flexita Shadowsoul",
+        "Hugo Forjaluz",
         "Jonaver Legends",
         "Khyoraku Shunsui",
         "La Pety",
@@ -9389,6 +9456,7 @@
       "personajes": [
         "Coloso Tempestad",
         "Cuzcu Aker",
+        "Flexita Shadowsoul",
         "La Pety",
         "Shiryoku Moonfury"
       ]
@@ -9526,6 +9594,7 @@
         "Breezy Reaver",
         "Ildaren Belisar",
         "Kroketa Torreja",
+        "Lyriana Shadowsoul",
         "Manelhon Gargon",
         "Memas Tour",
         "Palmira Natblida",
@@ -9610,6 +9679,7 @@
         "Filps Pachamamamon",
         "Ildaren Belisar",
         "Kroketa Torreja",
+        "Lyriana Shadowsoul",
         "Manelhon Gargon",
         "Memas Tour",
         "Nindalf Pizpireta",
@@ -9649,6 +9719,7 @@
         "Filps Pachamamamon",
         "Ildaren Belisar",
         "Kroketa Torreja",
+        "Lyriana Shadowsoul",
         "Manelhon Gargon",
         "Memas Tour",
         "Nindalf Pizpireta",
@@ -9727,6 +9798,7 @@
         "Edoras Duskranger",
         "Ildaren Belisar",
         "Kroketa Torreja",
+        "Lyriana Shadowsoul",
         "Manelhon Gargon",
         "Memas Tour",
         "Palmira Natblida",
@@ -9908,6 +9980,7 @@
         "Edoras Duskranger",
         "Ildaren Belisar",
         "Kroketa Torreja",
+        "Lyriana Shadowsoul",
         "Manelhon Gargon",
         "Memas Tour",
         "Nindalf Pizpireta",
@@ -9928,6 +10001,7 @@
         "Edoras Duskranger",
         "Ildaren Belisar",
         "Kroketa Torreja",
+        "Lyriana Shadowsoul",
         "Manelhon Gargon",
         "Memas Tour",
         "Nindalf Pizpireta",
@@ -9966,6 +10040,7 @@
         "Fifi Fififran",
         "Ildaren Belisar",
         "Kroketa Torreja",
+        "Lyriana Shadowsoul",
         "Manelhon Gargon",
         "Memas Tour",
         "Nindalf Pizpireta",
@@ -10175,6 +10250,7 @@
         "Aurelio Amador",
         "Diana Flechaveloz",
         "Edoras Duskranger",
+        "Ildaren Belisar",
         "Kroketa Torreja",
         "Manelhon Gargon",
         "Memas Tour",
@@ -10207,6 +10283,7 @@
         "Fifi Fififran",
         "Ildaren Belisar",
         "Kroketa Torreja",
+        "Lyriana Shadowsoul",
         "Manelhon Gargon",
         "Memas Tour",
         "Nindalf Pizpireta",
@@ -10229,6 +10306,7 @@
         "Filps Pachamamamon",
         "Ildaren Belisar",
         "Kroketa Torreja",
+        "Lyriana Shadowsoul",
         "Manelhon Gargon",
         "Memas Tour",
         "Nindalf Pizpireta",
@@ -10251,6 +10329,7 @@
         "Filps Pachamamamon",
         "Ildaren Belisar",
         "Kroketa Torreja",
+        "Lyriana Shadowsoul",
         "Manelhon Gargon",
         "Memas Tour",
         "Nindalf Pizpireta",
@@ -10273,6 +10352,7 @@
         "Filps Pachamamamon",
         "Ildaren Belisar",
         "Kroketa Torreja",
+        "Lyriana Shadowsoul",
         "Manelhon Gargon",
         "Memas Tour",
         "Nindalf Pizpireta",
@@ -10295,6 +10375,7 @@
         "Filps Pachamamamon",
         "Ildaren Belisar",
         "Kroketa Torreja",
+        "Lyriana Shadowsoul",
         "Manelhon Gargon",
         "Memas Tour",
         "Nindalf Pizpireta",
@@ -10317,6 +10398,7 @@
         "Filps Pachamamamon",
         "Ildaren Belisar",
         "Kroketa Torreja",
+        "Lyriana Shadowsoul",
         "Manelhon Gargon",
         "Memas Tour",
         "Nindalf Pizpireta",
@@ -10479,6 +10561,7 @@
         "Filps Pachamamamon",
         "Ildaren Belisar",
         "Kroketa Torreja",
+        "Lyriana Shadowsoul",
         "Manelhon Gargon",
         "Memas Tour",
         "Nindalf Pizpireta",
@@ -10501,6 +10584,7 @@
         "Filps Pachamamamon",
         "Ildaren Belisar",
         "Kroketa Torreja",
+        "Lyriana Shadowsoul",
         "Manelhon Gargon",
         "Memas Tour",
         "Nindalf Pizpireta",
@@ -10520,6 +10604,7 @@
         "Edoras Duskranger",
         "Ildaren Belisar",
         "Kroketa Torreja",
+        "Lyriana Shadowsoul",
         "Manelhon Gargon",
         "Memas Tour",
         "Palmira Natblida",
@@ -10557,6 +10642,7 @@
         "Fifi Fififran",
         "Ildaren Belisar",
         "Kroketa Torreja",
+        "Lyriana Shadowsoul",
         "Manelhon Gargon",
         "Memas Tour",
         "Nindalf Pizpireta",
@@ -10634,6 +10720,7 @@
         "Breezy Reaver",
         "Ildaren Belisar",
         "Kroketa Torreja",
+        "Lyriana Shadowsoul",
         "Manelhon Gargon",
         "Memas Tour",
         "Palmira Natblida",
@@ -10699,6 +10786,7 @@
         "Breezy Reaver",
         "Ildaren Belisar",
         "Kroketa Torreja",
+        "Lyriana Shadowsoul",
         "Manelhon Gargon",
         "Memas Tour",
         "Palmira Natblida",
@@ -10952,6 +11040,7 @@
         "Filps Pachamamamon",
         "Ildaren Belisar",
         "Kroketa Torreja",
+        "Lyriana Shadowsoul",
         "Manelhon Gargon",
         "Memas Tour",
         "Nindalf Pizpireta",
@@ -11323,6 +11412,7 @@
         "La Pety",
         "Layrela Rondanit",
         "Llamas Xx",
+        "Lyriana Shadowsoul",
         "Manelhon Gargon",
         "Memas Tour",
         "Micro Bolas",
@@ -11415,6 +11505,7 @@
         "Khyoraku Shunsui",
         "La Pety",
         "Llamas Xx",
+        "Lyriana Shadowsoul",
         "Nindalf Pizpireta",
         "Reaper Dead",
         "Saint Peligroxa",
@@ -11509,6 +11600,7 @@
         "La Pety",
         "Layrela Rondanit",
         "Llamas Xx",
+        "Lyriana Shadowsoul",
         "Manelhon Gargon",
         "Micro Bolas",
         "Mosu Warryn",
@@ -11604,6 +11696,7 @@
         "La Pety",
         "Layrela Rondanit",
         "Llamas Xx",
+        "Lyriana Shadowsoul",
         "Manelhon Gargon",
         "Micro Bolas",
         "Mosu Warryn",
@@ -11747,6 +11840,7 @@
         "La Pety",
         "Layrela Rondanit",
         "Llamas Xx",
+        "Lyriana Shadowsoul",
         "Manelhon Gargon",
         "Mosu Warryn",
         "Nindalf Pizpireta",
@@ -11798,6 +11892,7 @@
         "La Pety",
         "Layrela Rondanit",
         "Llamas Xx",
+        "Lyriana Shadowsoul",
         "Manelhon Gargon",
         "Memas Tour",
         "Micro Bolas",
@@ -11876,6 +11971,7 @@
         "La Pety",
         "Layrela Rondanit",
         "Llamas Xx",
+        "Lyriana Shadowsoul",
         "Manelhon Gargon",
         "Micro Bolas",
         "Mosu Warryn",
@@ -12214,6 +12310,7 @@
       "profesion": "Sastrería",
       "calidad": "uncommon",
       "personajes": [
+        "Christoph Crestanegra",
         "Dum Bo",
         "Finn Felagund",
         "Sr Byron"
@@ -12236,6 +12333,7 @@
       "profesion": "Sastrería",
       "calidad": "uncommon",
       "personajes": [
+        "Christoph Crestanegra",
         "Dum Bo",
         "Finn Felagund",
         "Sr Byron"
@@ -12407,6 +12505,7 @@
       "profesion": "Sastrería",
       "calidad": "common",
       "personajes": [
+        "Christoph Crestanegra",
         "Dum Bo",
         "Finn Felagund",
         "Sr Byron"
@@ -12578,6 +12677,7 @@
       "profesion": "Sastrería",
       "calidad": "uncommon",
       "personajes": [
+        "Christoph Crestanegra",
         "Dum Bo",
         "Finn Felagund",
         "Sr Byron"
@@ -12724,6 +12824,7 @@
         "Aeloria Shadowsoul",
         "Archi Amnesia",
         "Bartolo Tololo",
+        "Christoph Crestanegra",
         "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
@@ -13101,6 +13202,7 @@
       "personajes": [
         "Aeloria Shadowsoul",
         "Archi Amnesia",
+        "Christoph Crestanegra",
         "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
@@ -13243,6 +13345,7 @@
       "personajes": [
         "Aeloria Shadowsoul",
         "Archi Amnesia",
+        "Christoph Crestanegra",
         "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
@@ -13542,6 +13645,7 @@
       "personajes": [
         "Aeloria Shadowsoul",
         "Archi Amnesia",
+        "Christoph Crestanegra",
         "Dum Bo",
         "Elfa Vorable",
         "Finn Felagund",
@@ -13575,6 +13679,7 @@
       "profesion": "Sastrería",
       "calidad": "common",
       "personajes": [
+        "Christoph Crestanegra",
         "Finn Felagund"
       ]
     },
@@ -13917,6 +14022,7 @@
       "profesion": "Sastrería",
       "calidad": "common",
       "personajes": [
+        "Christoph Crestanegra",
         "Finn Felagund",
         "Sr Byron"
       ]
@@ -13926,6 +14032,7 @@
       "profesion": "Sastrería",
       "calidad": "uncommon",
       "personajes": [
+        "Christoph Crestanegra",
         "Dum Bo",
         "Finn Felagund"
       ]
@@ -13953,6 +14060,7 @@
       "profesion": "Sastrería",
       "calidad": "uncommon",
       "personajes": [
+        "Christoph Crestanegra",
         "Finn Felagund"
       ]
     },

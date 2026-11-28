@@ -1499,6 +1499,10 @@
         {
           "n": "Tharindel Magnaluz",
           "clase": "paladin"
+        },
+        {
+          "n": "Hugo Forjaluz",
+          "clase": "paladin"
         }
       ]
     },
@@ -2221,6 +2225,10 @@
         {
           "n": "Breezy Reaver",
           "clase": "shaman"
+        },
+        {
+          "n": "Lyriana Shadowsoul",
+          "clase": "rogue"
         }
       ]
     },
@@ -2447,6 +2455,10 @@
         {
           "n": "Breezy Reaver",
           "clase": "shaman"
+        },
+        {
+          "n": "Lyriana Shadowsoul",
+          "clase": "rogue"
         }
       ]
     },
@@ -3885,6 +3897,10 @@
         {
           "n": "Breezy Reaver",
           "clase": "shaman"
+        },
+        {
+          "n": "Lyriana Shadowsoul",
+          "clase": "rogue"
         }
       ]
     },
@@ -4017,6 +4033,10 @@
         {
           "n": "Breezy Reaver",
           "clase": "shaman"
+        },
+        {
+          "n": "Lyriana Shadowsoul",
+          "clase": "rogue"
         }
       ]
     },
@@ -4576,15 +4596,15 @@
       "profesion": "Sastrería",
       "personajes": [
         {
+          "n": "Christoph Crestanegra",
+          "clase": "mage"
+        },
+        {
           "n": "Sr Byron",
           "clase": "warlock"
         },
         {
           "n": "Dum Bo",
-          "clase": "mage"
-        },
-        {
-          "n": "Christoph Crestanegra",
           "clase": "mage"
         },
         {
@@ -4866,15 +4886,15 @@
           "clase": "priest"
         },
         {
+          "n": "Christoph Crestanegra",
+          "clase": "mage"
+        },
+        {
           "n": "Sr Byron",
           "clase": "warlock"
         },
         {
           "n": "Dum Bo",
-          "clase": "mage"
-        },
-        {
-          "n": "Christoph Crestanegra",
           "clase": "mage"
         },
         {
@@ -5194,11 +5214,11 @@
           "clase": "priest"
         },
         {
-          "n": "Dum Bo",
+          "n": "Christoph Crestanegra",
           "clase": "mage"
         },
         {
-          "n": "Christoph Crestanegra",
+          "n": "Dum Bo",
           "clase": "mage"
         }
       ]
@@ -6300,15 +6320,15 @@
       "profesion": "Sastrería",
       "personajes": [
         {
+          "n": "Christoph Crestanegra",
+          "clase": "mage"
+        },
+        {
           "n": "Sr Byron",
           "clase": "warlock"
         },
         {
           "n": "Dum Bo",
-          "clase": "mage"
-        },
-        {
-          "n": "Christoph Crestanegra",
           "clase": "mage"
         },
         {
@@ -6465,6 +6485,10 @@
         {
           "n": "Finn Felagund",
           "clase": "priest"
+        },
+        {
+          "n": "Christoph Crestanegra",
+          "clase": "mage"
         },
         {
           "n": "Sr Byron",

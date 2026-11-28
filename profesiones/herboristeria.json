@@ -63,7 +63,7 @@
       "personaje": "Genethika Brisaveloz",
       "clase": "hunter",
       "raider": false,
-      "nivel": 191,
+      "nivel": 202,
       "max": 225,
       "pct": 33
     },
@@ -92,18 +92,18 @@
       "pct": 33
     },
     {
-      "personaje": "Takkaao Valengri",
-      "clase": "warlock",
+      "personaje": "Ibu Profenus",
+      "clase": "shaman",
       "raider": false,
-      "nivel": 82,
+      "nivel": 91,
       "max": 150,
       "pct": 33
     },
     {
-      "personaje": "Ibu Profenus",
-      "clase": "shaman",
+      "personaje": "Takkaao Valengri",
+      "clase": "warlock",
       "raider": false,
-      "nivel": 80,
+      "nivel": 82,
       "max": 150,
       "pct": 33
     },
@@ -119,7 +119,7 @@
       "personaje": "Blind Minds",
       "clase": "priest",
       "raider": false,
-      "nivel": 25,
+      "nivel": 26,
       "max": 75,
       "pct": 0
     },
