@@ -31,7 +31,7 @@
       "personaje": "Fran Furion",
       "clase": "druid",
       "raider": true,
-      "nivel": 289,
+      "nivel": 293,
       "max": 300,
       "pct": 33
     },
@@ -47,7 +47,7 @@
       "personaje": "Layrela Rondanit",
       "clase": "druid",
       "raider": true,
-      "nivel": 252,
+      "nivel": 258,
       "max": 300,
       "pct": 33
     },
@@ -87,7 +87,7 @@
       "personaje": "Tanki Llo",
       "clase": "warlock",
       "raider": false,
-      "nivel": 91,
+      "nivel": 92,
       "max": 150,
       "pct": 33
     },

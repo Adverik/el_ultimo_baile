@@ -31,15 +31,15 @@
       "personaje": "Fran Furion",
       "clase": "druid",
       "raider": true,
-      "nivel": 250,
+      "nivel": 265,
       "max": 300,
-      "pct": 28
+      "pct": 29
     },
     {
       "personaje": "Layrela Rondanit",
       "clase": "druid",
       "raider": true,
-      "nivel": 228,
+      "nivel": 230,
       "max": 300,
       "pct": 23
     },
@@ -3883,6 +3883,7 @@
           "quien": [
             1,
             2,
+            3,
             4
           ]
         },
@@ -3922,7 +3923,8 @@
             ]
           },
           "quien": [
-            2
+            2,
+            3
           ]
         },
         {

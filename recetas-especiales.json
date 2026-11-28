@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-27",
+  "actualizado": "2026-11-28",
   "recetas": [
     {
       "id": 54409,
@@ -285,12 +285,12 @@
           "clase": "warrior"
         },
         {
-          "n": "Tharindel Magnaluz",
-          "clase": "paladin"
-        },
-        {
           "n": "Españoleitor Españoleitor",
           "clase": "warrior"
+        },
+        {
+          "n": "Tharindel Magnaluz",
+          "clase": "paladin"
         },
         {
           "n": "Hugo Forjaluz",
@@ -364,12 +364,12 @@
           "clase": "warrior"
         },
         {
-          "n": "Tharindel Magnaluz",
-          "clase": "paladin"
-        },
-        {
           "n": "Españoleitor Españoleitor",
           "clase": "warrior"
+        },
+        {
+          "n": "Tharindel Magnaluz",
+          "clase": "paladin"
         },
         {
           "n": "Hugo Forjaluz",
@@ -444,12 +444,12 @@
           "clase": "warrior"
         },
         {
-          "n": "Tharindel Magnaluz",
-          "clase": "paladin"
-        },
-        {
           "n": "Españoleitor Españoleitor",
           "clase": "warrior"
+        },
+        {
+          "n": "Tharindel Magnaluz",
+          "clase": "paladin"
         },
         {
           "n": "Hugo Forjaluz",
@@ -932,6 +932,10 @@
         {
           "n": "Espartaco Gladiador",
           "clase": "warrior"
+        },
+        {
+          "n": "Llamas Xx",
+          "clase": "warrior"
         }
       ]
     },
@@ -983,6 +987,10 @@
         },
         {
           "n": "Shiryoku Moonfury",
+          "clase": "warrior"
+        },
+        {
+          "n": "Llamas Xx",
           "clase": "warrior"
         }
       ]
@@ -1485,12 +1493,12 @@
           "clase": "warrior"
         },
         {
-          "n": "Tharindel Magnaluz",
-          "clase": "paladin"
-        },
-        {
           "n": "Españoleitor Españoleitor",
           "clase": "warrior"
+        },
+        {
+          "n": "Tharindel Magnaluz",
+          "clase": "paladin"
         }
       ]
     },
@@ -2175,16 +2183,16 @@
           "clase": "shaman"
         },
         {
-          "n": "Palmira Natblida",
-          "clase": "rogue"
-        },
-        {
           "n": "Runa Ruina",
           "clase": "shaman"
         },
         {
           "n": "Manelhon Gargon",
           "clase": "shaman"
+        },
+        {
+          "n": "Palmira Natblida",
+          "clase": "rogue"
         },
         {
           "n": "Edoras Duskranger",
@@ -2409,16 +2417,16 @@
           "clase": "shaman"
         },
         {
-          "n": "Palmira Natblida",
-          "clase": "rogue"
-        },
-        {
           "n": "Runa Ruina",
           "clase": "shaman"
         },
         {
           "n": "Manelhon Gargon",
           "clase": "shaman"
+        },
+        {
+          "n": "Palmira Natblida",
+          "clase": "rogue"
         },
         {
           "n": "Tankesito Khrih",
@@ -2740,6 +2748,10 @@
         {
           "n": "Kroketa Torreja",
           "clase": "druid"
+        },
+        {
+          "n": "Ildaren Belisar",
+          "clase": "rogue"
         }
       ]
     },
@@ -2853,12 +2865,12 @@
           "clase": "shaman"
         },
         {
-          "n": "Palmira Natblida",
-          "clase": "rogue"
-        },
-        {
           "n": "Runa Ruina",
           "clase": "shaman"
+        },
+        {
+          "n": "Palmira Natblida",
+          "clase": "rogue"
         },
         {
           "n": "Tankesito Khrih",
@@ -2918,12 +2930,12 @@
           "clase": "shaman"
         },
         {
-          "n": "Palmira Natblida",
-          "clase": "rogue"
-        },
-        {
           "n": "Manelhon Gargon",
           "clase": "shaman"
+        },
+        {
+          "n": "Palmira Natblida",
+          "clase": "rogue"
         },
         {
           "n": "Tankesito Khrih",
@@ -2983,12 +2995,12 @@
           "clase": "shaman"
         },
         {
-          "n": "Palmira Natblida",
-          "clase": "rogue"
-        },
-        {
           "n": "Manelhon Gargon",
           "clase": "shaman"
+        },
+        {
+          "n": "Palmira Natblida",
+          "clase": "rogue"
         },
         {
           "n": "Tankesito Khrih",
@@ -3256,12 +3268,12 @@
           "clase": "shaman"
         },
         {
-          "n": "Palmira Natblida",
-          "clase": "rogue"
-        },
-        {
           "n": "Manelhon Gargon",
           "clase": "shaman"
+        },
+        {
+          "n": "Palmira Natblida",
+          "clase": "rogue"
         },
         {
           "n": "Edoras Duskranger",
@@ -3843,16 +3855,16 @@
           "clase": "shaman"
         },
         {
-          "n": "Palmira Natblida",
-          "clase": "rogue"
-        },
-        {
           "n": "Runa Ruina",
           "clase": "shaman"
         },
         {
           "n": "Manelhon Gargon",
           "clase": "shaman"
+        },
+        {
+          "n": "Palmira Natblida",
+          "clase": "rogue"
         },
         {
           "n": "Tankesito Khrih",
@@ -3975,16 +3987,16 @@
           "clase": "shaman"
         },
         {
-          "n": "Palmira Natblida",
-          "clase": "rogue"
-        },
-        {
           "n": "Runa Ruina",
           "clase": "shaman"
         },
         {
           "n": "Manelhon Gargon",
           "clase": "shaman"
+        },
+        {
+          "n": "Palmira Natblida",
+          "clase": "rogue"
         },
         {
           "n": "Tankesito Khrih",
@@ -4862,11 +4874,11 @@
           "clase": "mage"
         },
         {
-          "n": "Señor Ollivander",
+          "n": "Christoph Crestanegra",
           "clase": "mage"
         },
         {
-          "n": "Christoph Crestanegra",
+          "n": "Señor Ollivander",
           "clase": "mage"
         },
         {
@@ -6296,11 +6308,11 @@
           "clase": "mage"
         },
         {
-          "n": "Señor Ollivander",
+          "n": "Christoph Crestanegra",
           "clase": "mage"
         },
         {
-          "n": "Christoph Crestanegra",
+          "n": "Señor Ollivander",
           "clase": "mage"
         },
         {

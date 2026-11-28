@@ -15,7 +15,7 @@
       "personaje": "Manelhon Gargon",
       "clase": "shaman",
       "raider": true,
-      "nivel": 292,
+      "nivel": 294,
       "max": 300,
       "pct": 67
     },
@@ -23,7 +23,7 @@
       "personaje": "Runa Ruina",
       "clase": "shaman",
       "raider": false,
-      "nivel": 291,
+      "nivel": 292,
       "max": 300,
       "pct": 33
     },
@@ -39,7 +39,15 @@
       "personaje": "Ildaren Belisar",
       "clase": "rogue",
       "raider": false,
-      "nivel": 266,
+      "nivel": 267,
+      "max": 300,
+      "pct": 33
+    },
+    {
+      "personaje": "Kroketa Torreja",
+      "clase": "druid",
+      "raider": false,
+      "nivel": 267,
       "max": 300,
       "pct": 33
     },
@@ -48,14 +56,6 @@
       "clase": "shaman",
       "raider": false,
       "nivel": 266,
-      "max": 300,
-      "pct": 33
-    },
-    {
-      "personaje": "Kroketa Torreja",
-      "clase": "druid",
-      "raider": false,
-      "nivel": 261,
       "max": 300,
       "pct": 33
     },
@@ -108,18 +108,18 @@
       "pct": 33
     },
     {
-      "personaje": "Tom Kha",
-      "clase": "shaman",
+      "personaje": "Samael Thallanor",
+      "clase": "hunter",
       "raider": false,
-      "nivel": 186,
+      "nivel": 193,
       "max": 225,
       "pct": 33
     },
     {
-      "personaje": "Samael Thallanor",
-      "clase": "hunter",
+      "personaje": "Tom Kha",
+      "clase": "shaman",
       "raider": false,
-      "nivel": 172,
+      "nivel": 186,
       "max": 225,
       "pct": 33
     },

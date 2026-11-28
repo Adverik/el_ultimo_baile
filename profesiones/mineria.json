@@ -31,7 +31,7 @@
       "personaje": "Khyoraku Shunsui",
       "clase": "warrior",
       "raider": true,
-      "nivel": 275,
+      "nivel": 280,
       "max": 300,
       "pct": 53
     },
@@ -39,23 +39,23 @@
       "personaje": "La Pety",
       "clase": "rogue",
       "raider": false,
-      "nivel": 263,
+      "nivel": 271,
       "max": 300,
       "pct": 59
+    },
+    {
+      "personaje": "Cuzcu Aker",
+      "clase": "paladin",
+      "raider": true,
+      "nivel": 254,
+      "max": 300,
+      "pct": 65
     },
     {
       "personaje": "Althez Sendagris",
       "clase": "paladin",
       "raider": false,
       "nivel": 251,
-      "max": 300,
-      "pct": 53
-    },
-    {
-      "personaje": "Cuzcu Aker",
-      "clase": "paladin",
-      "raider": true,
-      "nivel": 249,
       "max": 300,
       "pct": 53
     },
@@ -95,9 +95,9 @@
       "personaje": "Españoleitor Españoleitor",
       "clase": "warrior",
       "raider": false,
-      "nivel": 154,
+      "nivel": 157,
       "max": 225,
-      "pct": 35
+      "pct": 41
     },
     {
       "personaje": "Mosu Warryn",
@@ -159,7 +159,7 @@
       "personaje": "Tanki Llo",
       "clase": "warlock",
       "raider": false,
-      "nivel": 116,
+      "nivel": 118,
       "max": 150,
       "pct": 24
     },
@@ -324,7 +324,8 @@
             7,
             8,
             9,
-            10
+            10,
+            11
           ]
         },
         {
@@ -536,6 +537,7 @@
             1,
             2,
             4,
+            5,
             7
           ]
         },
@@ -628,7 +630,8 @@
           },
           "quien": [
             1,
-            2
+            2,
+            5
           ]
         },
         {
